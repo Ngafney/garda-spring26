@@ -14,6 +14,7 @@ from common import (
     CONFIDENCE_TERMS,
     GUIDANCE_LOWERED_PATTERNS,
     GUIDANCE_RAISED_PATTERNS,
+    build_transcript_metadata_csv,
     HEDGING_TERMS,
     METADATA_CSV_PATH,
     RISK_PATTERNS,
@@ -147,18 +148,31 @@ def main(argv: list[str] | None = None) -> None:
     args = parser.parse_args(argv)
 
     configure_logging(args.verbose)
-    ensure_directories()
+    ensure_directories(args.metadata_csv, args.output_csv, args.score_db)
     config = load_app_config(args.config)
 
-    if not METADATA_CSV_PATH.exists():
-        raise FileNotFoundError(f"Metadata CSV not found: {METADATA_CSV_PATH}")
+    metadata_csv = args.metadata_csv
+    if args.rebuild_metadata or args.pattern or args.limit or not metadata_csv.exists():
+        metadata_csv = build_transcript_metadata_csv(
+            transcripts_dir=args.transcripts_dir,
+            metadata_csv=metadata_csv,
+            pattern=args.pattern,
+            limit=args.limit,
+        )
 
-    metadata = pd.read_csv(METADATA_CSV_PATH)
-    conn = connect_sqlite(SCORE_DB_PATH)
+    if not metadata_csv.exists():
+        raise FileNotFoundError(f"Metadata CSV not found: {metadata_csv}")
+
+    metadata = pd.read_csv(metadata_csv)
+    conn = connect_sqlite(args.score_db)
     init_score_db(conn)
     cached = load_cached_scores(conn)
 
-    finbert = FinBERTScorer(model_name=config.finbert_model_name)
+    finbert = FinBERTScorer(
+        model_name=config.finbert_model_name,
+        batch_size=config.batch_size,
+        max_sentences=config.max_sentences,
+    )
     lm_lexicon = LoughranMcDonaldLexicon()
 
     output_rows: list[dict] = []
@@ -174,10 +188,14 @@ def main(argv: list[str] | None = None) -> None:
         save_score(conn, transcript_id, payload)
         output_rows.append(payload)
 
-    scored = pd.DataFrame(output_rows).sort_values(["call_date", "ticker"], ascending=[False, True])
-    SCORED_CSV_PATH.parent.mkdir(parents=True, exist_ok=True)
-    scored.to_csv(SCORED_CSV_PATH, index=False)
-    print(f"Wrote {len(scored):,} scored transcripts to {SCORED_CSV_PATH}")
+    if output_rows:
+        scored = pd.DataFrame(output_rows).sort_values(["call_date", "ticker"], ascending=[False, True])
+    else:
+        scored = pd.DataFrame(columns=metadata.columns.tolist())
+
+    args.output_csv.parent.mkdir(parents=True, exist_ok=True)
+    scored.to_csv(args.output_csv, index=False)
+    print(f"Wrote {len(scored):,} scored transcripts to {args.output_csv}")
 
 
 if __name__ == "__main__":
