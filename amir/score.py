@@ -113,8 +113,53 @@ def save_score(conn: sqlite3.Connection, transcript_id: str, payload: dict) -> N
     conn.commit()
 
 
+def filter_metadata(metadata: pd.DataFrame, pattern: str | None = None, limit: int | None = None) -> pd.DataFrame:
+    filtered = metadata
+    if pattern:
+        lowered = pattern.lower()
+        relative_series = filtered.get("relative_path")
+        if relative_series is not None:
+            mask = relative_series.fillna("").astype(str).str.lower().str.contains(lowered, regex=False)
+        else:
+            mask = filtered["transcript_path"].fillna("").astype(str).str.lower().str.contains(lowered, regex=False)
+        filtered = filtered.loc[mask]
+    if limit is not None:
+        filtered = filtered.head(limit)
+    return filtered.reset_index(drop=True)
+
+
+def resolve_transcript_path(row: pd.Series, transcripts_dir: Path) -> Path:
+    raw_path = Path(str(row["transcript_path"]))
+    if raw_path.exists():
+        return raw_path
+
+    parts = list(raw_path.parts)
+    if "transcripts" in parts:
+        index = parts.index("transcripts")
+        candidate = transcripts_dir.joinpath(*parts[index + 1 :])
+        if candidate.exists():
+            return candidate
+
+    relative_path = row.get("relative_path")
+    if isinstance(relative_path, str) and relative_path:
+        candidate = transcripts_dir / relative_path
+        if candidate.exists():
+            return candidate
+
+    basename = raw_path.name
+    matches = list(transcripts_dir.rglob(basename))
+    if len(matches) == 1:
+        return matches[0]
+
+    raise FileNotFoundError(
+        f"Could not resolve transcript path for {row.get('transcript_id', basename)} "
+        f"from metadata path {raw_path}"
+    )
+
+
 def score_transcript(finbert: FinBERTScorer, lm_lexicon: LoughranMcDonaldLexicon, row: pd.Series) -> dict:
-    text = Path(row["transcript_path"]).read_text(encoding="utf-8")
+    transcript_path = resolve_transcript_path(row, Path(row["transcripts_root"]))
+    text = transcript_path.read_text(encoding="utf-8")
     sentiment = finbert.summarize(text)
 
     theme_scores = {
@@ -127,6 +172,7 @@ def score_transcript(finbert: FinBERTScorer, lm_lexicon: LoughranMcDonaldLexicon
 
     payload = {
         **row.to_dict(),
+        "transcript_path": str(transcript_path.resolve()),
         **sentiment,
         **theme_scores,
         "earnings_composite": earnings_composite,
@@ -152,7 +198,7 @@ def main(argv: list[str] | None = None) -> None:
     config = load_app_config(args.config)
 
     metadata_csv = args.metadata_csv
-    if args.rebuild_metadata or args.pattern or args.limit or not metadata_csv.exists():
+    if args.rebuild_metadata or not metadata_csv.exists():
         metadata_csv = build_transcript_metadata_csv(
             transcripts_dir=args.transcripts_dir,
             metadata_csv=metadata_csv,
@@ -164,6 +210,7 @@ def main(argv: list[str] | None = None) -> None:
         raise FileNotFoundError(f"Metadata CSV not found: {metadata_csv}")
 
     metadata = pd.read_csv(metadata_csv)
+    metadata = filter_metadata(metadata, pattern=args.pattern, limit=args.limit)
     conn = connect_sqlite(args.score_db)
     init_score_db(conn)
     cached = load_cached_scores(conn)
@@ -178,7 +225,7 @@ def main(argv: list[str] | None = None) -> None:
     output_rows: list[dict] = []
     iterator = tqdm(metadata.to_dict(orient="records"), desc="Scoring transcripts")
     for raw_row in iterator:
-        row = pd.Series(raw_row)
+        row = pd.Series({**raw_row, "transcripts_root": str(args.transcripts_dir.resolve())})
         transcript_id = row["transcript_id"]
         if transcript_id in cached and not args.force:
             output_rows.append(cached[transcript_id])
