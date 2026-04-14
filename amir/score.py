@@ -9,7 +9,7 @@ from pathlib import Path
 import pandas as pd
 from tqdm import tqdm
 
-from common import (
+from amir.common import (
     AI_LABOR_KEYWORDS,
     CONFIDENCE_TERMS,
     GUIDANCE_LOWERED_PATTERNS,
@@ -29,7 +29,7 @@ from common import (
     parse_args,
     utc_now_iso,
 )
-from nlp_utils import FinBERTScorer, LoughranMcDonaldLexicon, keyword_density, split_sentences
+from amir.nlp_utils import FinBERTScorer, LoughranMcDonaldLexicon, keyword_density, split_sentences
 
 LOGGER = logging.getLogger(__name__)
 
