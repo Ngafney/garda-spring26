@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import csv
 import json
 import logging
 import re
@@ -113,6 +114,16 @@ def save_score(conn: sqlite3.Connection, transcript_id: str, payload: dict) -> N
     conn.commit()
 
 
+def append_output_row(output_csv: Path, payload: dict, fieldnames: list[str]) -> None:
+    output_csv.parent.mkdir(parents=True, exist_ok=True)
+    write_header = not output_csv.exists() or output_csv.stat().st_size == 0
+    with output_csv.open("a", newline="", encoding="utf-8") as handle:
+        writer = csv.DictWriter(handle, fieldnames=fieldnames)
+        if write_header:
+            writer.writeheader()
+        writer.writerow({field: payload.get(field) for field in fieldnames})
+
+
 def filter_metadata(metadata: pd.DataFrame, pattern: str | None = None, limit: int | None = None) -> pd.DataFrame:
     filtered = metadata
     if pattern:
@@ -161,6 +172,8 @@ def score_transcript(finbert: FinBERTScorer, lm_lexicon: LoughranMcDonaldLexicon
     transcript_path = resolve_transcript_path(row, Path(row["transcripts_root"]))
     text = transcript_path.read_text(encoding="utf-8")
     sentiment = finbert.summarize(text)
+    row_payload = row.to_dict()
+    row_payload.pop("transcripts_root", None)
 
     theme_scores = {
         f"theme_{theme}": aggregate_theme_score(finbert, text, keywords)
@@ -171,7 +184,7 @@ def score_transcript(finbert: FinBERTScorer, lm_lexicon: LoughranMcDonaldLexicon
     lm_scores = lm_lexicon.score(text)
 
     payload = {
-        **row.to_dict(),
+        **row_payload,
         "transcript_path": str(transcript_path.resolve()),
         **sentiment,
         **theme_scores,
@@ -223,17 +236,27 @@ def main(argv: list[str] | None = None) -> None:
     lm_lexicon = LoughranMcDonaldLexicon()
 
     output_rows: list[dict] = []
+    output_fieldnames: list[str] | None = None
+    if args.output_csv.exists():
+        args.output_csv.unlink()
     iterator = tqdm(metadata.to_dict(orient="records"), desc="Scoring transcripts")
     for raw_row in iterator:
         row = pd.Series({**raw_row, "transcripts_root": str(args.transcripts_dir.resolve())})
         transcript_id = row["transcript_id"]
         if transcript_id in cached and not args.force:
-            output_rows.append(cached[transcript_id])
+            payload = cached[transcript_id]
+            output_rows.append(payload)
+            if output_fieldnames is None:
+                output_fieldnames = list(payload.keys())
+            append_output_row(args.output_csv, payload, output_fieldnames)
             continue
 
         payload = score_transcript(finbert, lm_lexicon, row)
         save_score(conn, transcript_id, payload)
         output_rows.append(payload)
+        if output_fieldnames is None:
+            output_fieldnames = list(payload.keys())
+        append_output_row(args.output_csv, payload, output_fieldnames)
 
     if output_rows:
         scored = pd.DataFrame(output_rows).sort_values(["call_date", "ticker"], ascending=[False, True])
