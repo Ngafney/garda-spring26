@@ -1,0 +1,392 @@
+[
+  {
+    "speaker": "Unknown",
+    "role": "",
+    "text": "Full Conference Call Transcript Dave Mosley, Seagate's Chair and Chief Executive Officer, and Gianluca Romano, our Chief Financial Officer."
+  },
+  {
+    "speaker": "Shanye Hudson",
+    "role": "",
+    "text": "We have posted our earnings press release and detailed supplemental information for our September results on the Investors section of our website. During today's call, we will refer to GAAP and non-GAAP measures. Non-GAAP figures are reconciled to GAAP figures in the earnings press release posted on our website and included in our Form 8-Ks. We have not reconciled certain non-GAAP outlook measures because material items that may impact these measures are out of our control and/or cannot be reasonably predicted. Therefore, reconciliation to the corresponding GAAP measures is not available without unreasonable effort. Before we begin, I would like to remind you that today's call contains forward-looking statements that reflect management's current views and assumptions based on information available to us as of today and should not be relied upon as of any subsequent date. Actual results may differ materially from those contained in or implied by these forward-looking statements as they are subject to risks and uncertainties associated with our business. To learn more about the risks, uncertainties, and other factors that may affect our future business results, please refer to the press release issued today and our SEC filings, including our most recent annual report on Form 10-K and quarterly report on Form 10-Q, as well as the supplemental information. All of which may be found on the Investors section of our website. Following our prepared remarks, we will open the call up for questions. In order to provide all analysts with the opportunity to participate, we thank you in advance for asking one primary question and then reentering the queue. With that, I will hand the call over to Dave."
+  },
+  {
+    "speaker": "Dave Mosley",
+    "role": "",
+    "text": "Thanks, Shanye, and hello, everyone. Seagate Technology Holdings plc delivered a very strong start to fiscal 2026. Revenue grew 21% year over year. Non-GAAP gross margin set a new company record at 40.1%, and non-GAAP operating margin climbed to 29%, a level last seen in fiscal 2012. Non-GAAP EPS exceeded the high end of our guidance range, underscoring our focus on expanding profitability. Today, we announced an increase to our quarterly dividend of approximately 3%, reflecting confidence in our execution and ongoing sustainability of our cash flow generation capabilities as we leverage our leading HAMR technology in a strengthening demand environment for high-capacity hard drives. Demand strength was led by global cloud service providers, and we also saw meaningful sequential revenue growth from enterprise customers in September. The data center end market, comprised of nearline sales in the cloud, enterprise, and via customers, represented 80% of overall revenue. Amid this improving demand backdrop, our high-capacity nearline production is largely committed under build-to-order contracts through calendar 2026. Additionally, longer-term agreements that we have with our global data center customers provide clear visibility through calendar 2027, reinforcing our view that these favorable demand conditions will persist. We remain focused on executing our HAMR-based product roadmap to support our customers' growing exabyte needs and continue working with them to transition to higher capacity drives. There is no question that AI is reshaping hard drive demand by elevating the economic value of data and data storage. This is evident by the growing demand for our high-capacity nearline drives as customers continue to ramp investments in AI applications. AI inferencing is set to inflect and scale rapidly, further increasing data's value. Inferencing consumes and generates large volumes of data, which is then stored, monitored, validated, and reintegrated into an infinite training loop. We are already seeing the positive impact of this trend as global CSPs deploy large-scale inferencing applications that rely on multimodal inputs such as text, audio, and video. Using monthly token consumption as a proxy for inferencing adoption, one major hyperscaler reported a 50-fold increase in the span of a year. This explosive growth is driving a sharp increase in unstructured data generation that creates demand for hard drive storage. Video content is a major contributor of unstructured data and is driving considerable demand for hard drives today. From social media platforms to content delivery networks and online marketing, AI-generated videos promise to further fuel demand growth. There are already numerous text-to-video tools that democratize by letting anyone generate professional-quality videos from text, images, or sketches. We see this trend already taking hold. For example, Google reports over 275 million videos were generated on its Vio platform within the first five months. With a one-minute AI video being up to 20,000 times larger than a 1,000-word text file, the data storage implications are clear. The rapid adoption and growing capability of these tools are already having a positive impact on the demand for storage. Beyond the application space, we have discussed new storage use cases from emerging trends around hybrid cloud environments that enhance data security and compliance with data sovereignty regulations. Recently, Seagate partnered with a global CSP to develop a sovereign cloud solution for managing massive volumes of sensitive telemetry and sensor data collected from a fleet of autonomous vehicles. These types of data sets are subject to strict requirements and stipulate such data must be processed, stored, and managed locally. As in any other data center, hard drives provide the ideal solution by meeting customer requirements for throughput, durability, and cost-efficient long-term data retention. As data generation explodes and new use cases emerge, Seagate is answering the call with a clear long-term roadmap to capture demand. Momentum continues to build for our HAMR-based Mosaic platforms, and we achieved several important milestones in the quarter. Consistent with what we discussed during our analyst event, we now have five global CSPs qualified on Mosaic three-plus terabyte per disk products, which can deliver capacities up to 36 terabytes per drive. We remain on track to qualify the remaining three global CSPs within 2026. Additionally, we shipped over 1,000,000 Mosaic drives in September. These products are performing well in live production environments, and we are on pace to achieve 50% exabyte crossover on nearline HAMR drives in 2026. We started qualification with a second major CSP on the Mosaic four-plus terabyte per disk platform, with initial volume ramp starting in the first half of next calendar year. This platform will offer capacities of up to 44 terabytes. Advancing aerial density is a key competitive advantage not just for Seagate, but for the hard drive industry overall. We are leveraging our manufacturing expertise and advancements in technologies, including silicon photonics, to pave the path to 10 terabytes per disk. Our aerial density roadmap delivers a superior and sustainable TCO advantage for hard drives compared to alternative technologies well into the future. Customers clearly see the value of transitioning to higher HAMR products as the most efficient way to support their rapidly expanding data storage needs in an AI-driven world. Wrapping up, the Seagate team continues to execute at an exceptional level. We are delivering on our target financial framework, supported by a structurally improved business and a strong sustainable demand environment. We are advancing our HAMR-led technology roadmap, which creates significant value for our customers and positions Seagate for long-term success. With the strength of our technology roadmap and the transformative impact of AI, we believe the best years are still ahead of us. I am proud of how our teams are rising to meet the opportunities ahead as we remain focused on delivering profitable revenue growth and expanding cash flow generation in fiscal 2026 and beyond. I would like to thank our employees, supply partners, and customers for their many contributions to our performance and to Seagate's ongoing success. Let me now turn the call over to Gianluca. Thank you, Dave."
+  },
+  {
+    "speaker": "Gianluca Romano",
+    "role": "",
+    "text": "Our September performance demonstrates strong operational execution and underscores the enhanced structural economics of our business model. We delivered revenue of $2.63 billion, up 8% sequentially and up 21% year over year. We achieved a record non-GAAP gross margin of 40.1%, up 220 basis points sequentially, and we expanded non-GAAP operating margin by 280 basis points to 29% sequentially. Our resulting non-GAAP EPS was $2.61, exceeding the high end of our guided range. We have continued to execute our technology roadmap to support ongoing demand momentum for our higher capacity products. In September, we shipped 182 exabytes, up 32% year over year, with the vast majority of that volume delivered to global data center customers. As we shared last quarter, we will be discussing the business across two key markets: data center, which is comprised of nearline products and systems that are sold into cloud, enterprise, and via customers, and edge IoT, which includes consumer and client-centric markets, along with network-attached storage. In September, data center revenue represented 80% of our total revenue at $2.1 billion, up 13% sequentially and 34% year on year. Demand from global cloud customers continues to grow, and we also saw a notable improvement in the enterprise OEM markets. We project these positive trends to continue, with cloud growth expected to outpace enterprise demand. Whether data is stored in public cloud, private cloud, or on-premises, the shift from AI model training to inferencing is driving the need for large-capacity hard drive storage. This includes everything from saving checkpoints to maintain model accuracy and integrity to storing the vast datasets required for effective inference results. In September, we shipped 159 exabytes to data center customers, up from 137 exabytes in the prior period. Cloud exabyte demand increased for the ninth consecutive quarter, resulting in close to 80% of nearline volume on drive capacity at or above 24 terabytes as customers continue to mix up to higher capacity drives. Over the past year, average nearline drive capacity has increased by 26%, which is a primary contributor to our exabyte volume growth. Amid the tight supply condition, we are partnering closely with data center customers to support, where possible, accelerate their qualification timeline on our high-capacity Mosaic products. As Dave highlighted earlier, a majority of the largest cloud customers in the world are now qualified on our HAMR-based Mosaic drives, and we are continuing to ramp these products to support customer demand. The strong data center growth that I just described more than offset lower sequential sales in the Edge IoT market, which made up the remaining 20% of revenue at $515 million. We are expecting some seasonal improvement in Edge IoT revenue in December from both ViaEdge consumer products. Moving on to the rest of the income statement, non-GAAP gross profit increased to $1.1 billion, up 14% quarter over quarter and 46% compared with the prior year period. We are expanding non-GAAP gross margin to 40.1%, which represents an incremental margin of nearly 70%. This margin growth reflects the benefit of increased adoption of our latest generation products and ongoing execution of our pricing strategy. Non-GAAP operating expenses were $291 million, up 2% quarter over quarter and in line with our expectations. The combination of strong top-line growth and significant financial leverage drove a 19% improvement in operating profit to $763 million. Other income and expense were $74 million, and we are currently projecting OI and E to be essentially flat in December. We grew non-GAAP net income to $583 million, with corresponding non-GAAP EPS of $2.61 per share, based on tax expenses of $106 million and a diluted share count of approximately 223 million shares, including the net impact of our 2028 convertible notes, approximately 7 million shares. Turning now to cash flow and the balance sheet, we invested $105 million in capital expenditures for September, or roughly 4% of revenue. For fiscal 2026, we anticipate capital expenditures to be inside our target range of 4% to 6% of revenue while we continue maintaining capital discipline. Free cash flow generation was flat quarter over quarter at $427 million, including the substantial variable compensation payout we discussed on our July earnings call. Looking ahead, we expect free cash flow generation to expand in the December quarter. We returned $153 million to shareholders through dividends, and as Dave noted earlier, we are increasing our quarterly dividend by approximately 3% to $0.74 per share. We deployed $29 million to repurchase shares of our common stock at an average price of $187 per share. We will continue to opportunistically repurchase shares and anticipate share repurchase activities to vary from quarter to quarter. We remain committed to returning at least 75% of free cash flow to shareholders over time. Cash and cash equivalents increased 25% sequentially to close September with ample liquidity of $2.4 billion, including our undrawn revolving credit facility of $1.3 billion. We exited the quarter with gross debt of approximately $5 billion and a net leverage ratio of 1.5 times based on adjusted EBITDA of $831 million for September, up 19% quarter over quarter and up 67% year on year. We are pleased our strong execution is being recognized, with S&P upgrading our credit rating earlier this month. Looking ahead, we expect the net leverage ratio will continue to trend lower as profitability increases in the coming quarters. Additionally, we are exploring opportunities to further reduce debt, supporting the positive leverage ratio trajectory. Turning now to the December outlook, the demand environment remains strong, particularly among global cloud data centers. We expect to increase revenue and expand margins as these customers continue to shift to our next-generation storage solutions to support their increasing demand. We expect December revenue to be in a range of $2.7 billion, plus or minus $100 million, which represents a 16% year-over-year improvement at the midpoint. Non-GAAP operating expenses are expected to remain relatively flat at approximately $290 million. Based on the midpoint of our revenue guidance, non-GAAP operating margin is expected to expand to around 30%. Non-GAAP EPS is expected to be $2.75, plus or minus $0.20, with a tax rate of about 16% and a non-GAAP diluted share count of 227 million shares, including estimated dilution from our 2028 convertible notes of 10 million shares. As demonstrated by our September results, Seagate is delivering on our financial commitment, reinforcing our track record of operational execution. Our performance is underpinned by a strong product roadmap that offers enterprise exabyte-scale storage solutions, enabling them to maximize the potential of their data. This strength positions Seagate to drive meaningful value for both customers and shareholders. Operator, let's open the call up for questions."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "We will now begin the question and answer session. To ask a question, if you are using a speakerphone, please pick up your handset. In the interest of time, we ask that you limit yourself to one question. If you have further questions, you may reenter the question queue. Once again, that was star then one to ask a question. Our first today is from Mark Newman with Bernstein. Please go ahead."
+  },
+  {
+    "speaker": "Mark Newman",
+    "role": "",
+    "text": "Hi, thanks very much for taking the question and congrats on a great quarter. The question was really, if you look at you commented at the beginning at the strong orders and it seems like you have order backlog through to I think you mentioned through to 2027. And the supply seems to be quite tight in the market. I just wonder if there are any plans to add capacity if there are any specific supply chain bottlenecks that may alleviate over time? You know, obviously, there are pros and cons to that. So just like to see how you are thinking about the whole supply-demand balance and if you are adding any capacity that would be great. If you could just comment on that. And a follow-up on HAMR Mix, congrats on the fifth hyperscaler being qualified. Solid execution on HAMR so far. I just wondered what you are hearing from customers so far in terms of adoption of HAMR? Is there any upside or downside to the previous projections you provided for HAMR rollout going forward? Thanks very much."
+  },
+  {
+    "speaker": "Dave Mosley",
+    "role": "",
+    "text": "Thanks, Mark. Your two questions kind of go hand in glove. What I would say is that our strategy for adding capacity, if you will, is to go through product transitions. We are not really adding unit capacity. Through some of these product transitions, we actually lose a little bit of capacity because the process content is a little higher as we go through, but we add exabyte capacity. And to your question about HAMR, a lot of the reason that customers are engaging with us on these long-term agreements is because they have visibility into higher and higher capacity points. So the demand that most of the hyperscalers certainly are feeling is for more exabytes, more efficient exabytes in their data center. It allows their space and power and all their other metrics to get the best returns to TCO, if you will. And that is what we are really trying to answer the call for. We are very focused on going through the product transitions, getting our yields up on the product transitions, and then ultimately transitioning to the point where we get 40s and 50s and so on and add exabyte capacity that way."
+  },
+  {
+    "speaker": "Mark Newman",
+    "role": "",
+    "text": "The next any update on the demo rollout? Sorry."
+  },
+  {
+    "speaker": "Dave Mosley",
+    "role": "",
+    "text": "Nothing more than what we said in the script, I think, you know, the qualification you made reference to. The ramp continues on and part of this is our is that predictability of those transitions that we are going through. Have to make sure we are staged for that so that we give the customers what they need. Yeah. We are ready to have achieved another call during the quarter. So now we have five customers qualified on five big customers, cloud customers qualified on HAMR. Of course, we see they are contributing to our delivery in the quarter and how we got it December. So we are achieving those levels of revenue and profitability a little bit faster than what we were thinking. And of course, this is related to the transition of the mix. Other capacity drives mainly to HAMR. Thanks very much. Appreciate it. Thanks, Mark."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "The next question is from Erik Woodring with Morgan Stanley. Please go ahead."
+  },
+  {
+    "speaker": "Erik Woodring",
+    "role": "",
+    "text": "Great. Thank you guys for taking my question and congrats on your results tonight. Gianluca, since your May Analyst Day, you have reported two quarters where your incremental margins have been 60% to 70%. Is it fair to say that in the new demand environment that we are in and the need for higher capacity drives, we should be thinking about your incremental margins just being higher consistently higher than that 50% incremental margin you outlined at your Analyst Day? Or why would we not see these levels of incremental margins sustain? I realize not literally every quarter, but generally speaking, why would we not see 60% to 70% incremental margin sustained from here? Thank you."
+  },
+  {
+    "speaker": "Gianluca Romano",
+    "role": "",
+    "text": "Thank you, Erik. Well, you are right. No, we are executing a little bit better than what we were expecting. And as I said before, this is mainly due to the move to better mix in terms of profitability. Not every quarter is the same. So of course, now that we are qualifying more customers and moving more customers to the HAMR drives, we have a little bit of a higher support in terms of profitability. I would say this will be different every quarter even the pricing strategy that we have. Is very consistent, but not every quarter we have the same number of new negotiations going on. So it is not easy to estimate exactly what will be the profitability and the mix of a specific quarter. I think in the short term, we are delivering very good results. Longer term, I think the model that we presented at the Analyst Day is a strong model. But you are right, in the short term, we are doing it to be better. And you will see now we got in December it basically implies a higher margin than the 50% incremental from September."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "The next question is from James Edward Schneider with Goldman Sachs. Please go ahead."
+  },
+  {
+    "speaker": "James Edward Schneider",
+    "role": "",
+    "text": "Good evening. Thanks for taking my question. I was wondering if you could maybe address the level of cost reduction you expect to achieve on a blended basis as we look out into calendar 2026. Is there anything that would kind of prevent you from achieving that kind of mid-teens cost down on a blended basis even as you ramp HAMR more aggressively? Could that actually be better than that? Or is there a reason it would be worse than that? And then just to clarify, the prior statement you made on not adding unit capacity. Is there any kind of benefit you get in terms of sort of dual capacity tracking HAMR versus conventional technologies that would add a little bit of unit capacity into the overall mix? Or is that just an overall dilutive event to overall units? Thank you."
+  },
+  {
+    "speaker": "Dave Mosley",
+    "role": "",
+    "text": "I will take the second part first and then I will let Gianluca answer the cost question. So the way I think about it is, and I think I understood your question this way, there are some of our PMR technologies, which are in high volume, and as we transition to HAMR and the newer products, 30, 40, terabytes and beyond, then we are going to have to pivot. Pretty substantially. You know, we do not really think about it as going back and building more of the PMR technology. We think about it as freeing up the PMR technology that ultimately go through the pivot, and that is how we are going to add exabyte capacity. As far as unit capacity, a lot of that comes down to customers that are asking or qualified what we have planned with them. So those plans are taking a long time to develop and like Gianluca said earlier, if we get any upside, marginal upside, it is because we are pulling in the future a little bit. So you want to answer the question on cost on the Yes. On the cost of course, we do not guide cost for calendar '26. I would say the good improvement in our cost per terabyte is coming from the transition to higher capacity drives. So the mix is very important. And every quarter is different. I would say, you will see more and more transition to HAMR. We have two customers that are qualifying 40 terabyte drive that will for sure will be a good boost to our reduction of cost per terabyte during calendar '26."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "The next question is from Asiya Merchant with Citi. Please go ahead."
+  },
+  {
+    "speaker": "Asiya Merchant",
+    "role": "",
+    "text": "Great. Good evening. Thank you for taking my question. There was commentary early about inference demand. If you could talk a little bit about the visibility of that demand, what gives you confidence that this one continues to grow maybe in terms of applications that you are seeing, and that is kind of giving you the confidence of demand through calendar year 2027. And how should we think about seasonality here typically March does have a seasonal drop. How should we think about that given AI inferencing demand is pretty strong here? Thank you."
+  },
+  {
+    "speaker": "Dave Mosley",
+    "role": "",
+    "text": "Yes. Yes. It is actually very interesting for all of us to watch. Most of what I think has driven our demand over the last couple of years is this move to video where short form or long form video like, over 80% of the Internet traffic right now is on is video content. And there are just literally tens to hundreds of millions of videos being uploaded every day. I think exactly to your question, the more people can generate access to those videos via inferencing, the faster that happens. The better it probably is for our storage. And so do we see how is that going to progress in the next nine months or twelve months? It is a little hard to tell, but, you know, we are pretty excited as we see new applications coming online that allow people to generate the video videos. So videos are longer in format. They are richer in content. They have got more embedded videos on and so forth. But it is really hard to predict. And I think our customers are struggling with this a little bit as well. Which is one of the reasons the demand is strong."
+  },
+  {
+    "speaker": "Gianluca Romano",
+    "role": "",
+    "text": "Yeah. On the season nineteen March quarter, of course, it is a bit early to discuss about March. Just guided December. I would say considering that data center revenue is 80% of our total revenue, the impact of seasonality is probably lower than what you have seen in the past. I think every year, we will be a little bit lower. But of course, we are not guiding much we expect a good quarter."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "The next question is from Wamsi Mohan with Bank of America. Please go ahead."
+  },
+  {
+    "speaker": "Wamsi Mohan",
+    "role": "",
+    "text": "Yes. Thank you so much. Can you talk a little bit about how you are managing pricing in this very constrained environment? How much is contractually locked in going into a quarter? How much flexibility do you have on an intra-quarter basis? When we look at just the reported quarter, right, like the dollars per terabyte decline was consistent with the prior quarter. But obviously, the demand environment is very strong. So hoping you could unpack that a little bit. Is there a differential there between HAMR and non-HAMR that is contributing to that? Or what is causing that dollar per terabyte to be declined to be relatively consistent? Given just like this very strong demand backdrop. Thank you so much."
+  },
+  {
+    "speaker": "Dave Mosley",
+    "role": "",
+    "text": "Yes. Thanks, Wamsi. So there is a lot of what we are doing right now is very predictable. To our earlier comments, if we can execute a little bit better than plan, we can take cost out or we can pull in products that is get qualified faster. But we are supply limited from that perspective. And contractually, we are giving our customers that predictable economics as well. Over time, if we go through these transitions a little bit faster, then the next contract comes up to the next contract comes up, we can actually, you know, make sure we get the right economic returns for what the market needs. And I think that is the long-term strategy right now. But kind of near term, everything is happening according to plan to being slightly shifted left."
+  },
+  {
+    "speaker": "Gianluca Romano",
+    "role": "",
+    "text": "Yeah. Our pricing strategy is the same since about 10 consecutive quarters. So when we renegotiate a contract, now we increased slightly increased pricing for the same product. Then when customers move to higher capacity products, they can get a little bit of a lower price per terabyte. This is why with major transition of customers to HAMR products with higher capacity, you can see a slight decrease in the average price per terabyte. But see in the profitability the impact of the like-for-like price increase and all the cost per terabyte decrease due to the mix."
+  },
+  {
+    "speaker": "Wamsi Mohan",
+    "role": "",
+    "text": "Okay. Thank you so much."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "The next question is from C.J. Muse with Cantor Fitzgerald. Please go ahead."
+  },
+  {
+    "speaker": "C.J. Muse",
+    "role": "",
+    "text": "Yeah, good afternoon. Thank you for taking the question. I wanted to clarify the March seasonality question earlier. Curious if you were to assume that consumer via were seasonal, could you pivot supply more to the cloud? And then I guess as the main question, your customers are turning to SSDs given the tremendous tightness on the HDD side. Curious your thoughts around that cannibalization and I guess what would maybe change your mind in terms of you know, the vision for this sustainably higher demand and then potentially add capacity to support that. Thanks so much."
+  },
+  {
+    "speaker": "Dave Mosley",
+    "role": "",
+    "text": "Yeah. Thanks, C.J. So I do not think that customers are really changing their architectures because of what they are seeing right now. What everybody is driving us to do is getting more predictable over time and if anything be more aggressive on the product transition. So I do not really think there is any cannibalization. As a matter of fact, I do not think it is in anybody's economic benefit to do so. And the architectures are pretty well set. You know, going out for a couple of years."
+  },
+  {
+    "speaker": "Gianluca Romano",
+    "role": "",
+    "text": "Yes. No. We see we see actually demand the gap between supply and demand getting a little bit bigger every quarter. That means demand is shifting more into the future. It is not taken by any other technology."
+  },
+  {
+    "speaker": "Dave Mosley",
+    "role": "",
+    "text": "And then your comment on seasonality is kind of interesting to think about. There in some of the edge IoT markets, there is seasonality indeed. We have been taking slowly, we have been taking some supply out of edge IoT products and putting it into cloud as we can pivot demand happening naturally as a part of these product transitions, which we have been talking about. It is not something we can do very quickly. Until we get to some of the products like four terabyte per platter where we have commonality all the way through the platforms. But we will think that so even though the edge IoT is the revenue is going down a little bit, the profitability is actually greater because you know, those products are being prioritized in a totally different way. Than if there was a ton of supply on the market. I do think that will mean a little bit muted seasonality because that market is still fairly strong. I think it was over a billion dollars last quarter of the Edge IoT."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "The next question ready for the next question. The next question is Krish Sankar with TD Cowen. Please go ahead."
+  },
+  {
+    "speaker": "Krish Sankar",
+    "role": "",
+    "text": "Yes. Thanks for taking my question. I had a question and a clarification. Dave or Gianluca, in the past you spoke about sharing the cost benefit of HAMR with your customers. But now with cloud becoming a bigger portion and the AI tailwind, I am wondering if you are rethinking your pricing strategy for HAMR, i.e., can you increase it further? And then a clarification, Gianluca, has historically your revenue guide had a range of $150 million. Now it is more like $100 million. So is that because better visibility, build to order helping you tighten that range?"
+  },
+  {
+    "speaker": "Dave Mosley",
+    "role": "",
+    "text": "Yes. Thanks, Krish. So I think what you said is very true. We are as we go through these product transitions, we are being as predictable as we can with the customers. But some of the contracts are quite long as well. And so the market as the demand goes up, the market will adjust. Remember that most of the benefits that the customers are seeing is in that TCO proposition of the higher capacity drives. So the pricing is a factor in that, but also this benefit that they see in their TCO is a factor as well. And so it will adjust very slowly over time as the market develops."
+  },
+  {
+    "speaker": "Gianluca Romano",
+    "role": "",
+    "text": "Yeah. On the HAMR pricing, now in the past, we discussed only with one customer to giving them a slightly lower price. But this customer, of course, helped us with the first qualification of the product. And so for a certain volume, have a lower price than other customers. But of course, this is transitioning away fairly quickly. Just a matter of a few more quarters."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "The next question is from Amit Daryanani with Evercore ISI. Please go ahead."
+  },
+  {
+    "speaker": "Amit Daryanani",
+    "role": "",
+    "text": "Thanks a lot. Good afternoon. I guess Dave, as you see an uptick in video creation, you have been talking about this, but with offerings like OpenAI, Sora, and given your nearline capacity is fairly committed to calendar 26, are you seeing customers looking to potentially fund or co-invest CapEx dollars for Seagate to get access to more units? And is that something you would be open to? Would love to just understand, like, this really keeps playing out the way you outlined, is the real density gonna be enough, or would you or your customers have to eventually add some capacity to get more units? I would love to understand. You would be open to that co-investing angle. And then if you just qualify this a little bit, when you talk about stock shipping a million plus Mosaic drives this quarter, does that imply that about 36 exabytes of the total units were HAMR driven this quarter? Is that fair? Thank you."
+  },
+  {
+    "speaker": "Dave Mosley",
+    "role": "",
+    "text": "I will let Gianluca answer the on exabytes because he will go calculate it. But you are not far off. I mean, the way we think about it is going through those transitions opens up all these higher capacity points. Yes, from a customer perspective, I think I mentioned earlier there is not great visibility in what some of these new tools are going to unlock. I think there is a lot of optimism around demand, especially in the video properties. That exist in the world. And so therefore, nobody wants to be too late to these. I do not think that there are any significant changes to architecture. I do think what is driving us is really stability. So it is customers showing up and saying, let's be very predictable as far as what I am going to get. Some of the numbers about how much demand there is above and beyond what our supply is, those numbers are compacted by someone else. I do not think that is the way necessarily each customer looks at it. What customers are starting to see is a temporal shift. So saying, hey, can I pull this in a little bit because we know they know we are gaining exabyte capacity over time, especially through the product transitions? That is what you saw contribute a little bit more to last quarter. And as we go hard as we possibly can through the product transitions, we will be bringing on more and more exabytes. So getting these qualifications done, getting us up the ramp, it is all priority for the customers as well. That is the way they are gonna add capacity."
+  },
+  {
+    "speaker": "Gianluca Romano",
+    "role": "",
+    "text": "Yes. No. First of all, I think it is very important that we keep the current balance between supply and demand. And not taking action to oversupply in the future the industry. In terms of exabyte, it is a nice question. I would say, you know that our HAMR product is between thirty and thirty-six exabyte. Sorry, terabytes per unit. So with 1,000,000 units sold in the quarter, we are into range."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "The next question is from Aaron Rakers with Wells Fargo. Please go ahead."
+  },
+  {
+    "speaker": "Aaron Rakers",
+    "role": "",
+    "text": "Yes. Thanks for taking the question. I guess first on housekeeping side, I know that new disclosures, I am curious of how or if there is any way we should think about the systems business within, I guess, it is in the data center piece of it that we kind of just think about what it was over the past many quarters and kind of think about that kind of level going forward? And then on a nearline demand perspective, given the growth that we are seeing, looking back at the Analyst Day, I know you outlined kind of a mid-twenty percent CAGR. Has your thoughts at all changed whether or not that is structurally just you know, looking forward just higher? Relative to what you initially thought back a few months ago?"
+  },
+  {
+    "speaker": "Dave Mosley",
+    "role": "",
+    "text": "Thanks, Aaron. From the systems business, we obviously we package the drives into the racks to save some customers some work. It is a fairly limited number of customers. Great customers and we do not really see the landscape changing too much on that. There are the customers that are buying BearDrives today do not and having someone else do the integration are not necessarily pivoting to the systems. It could happen, but so I think it is steady as she goes on that front. Relative to nearline, we are all watching demand. And the mid-20 number is something we continue to grapple with and thus most of the questions we have been asked today about how much supply is there. Again, I will just say it the way we bring them more exabyte supply is to get the bigger drives out, and so that is what we are all focused on."
+  },
+  {
+    "speaker": "Gianluca Romano",
+    "role": "",
+    "text": "Yes, Aaron. And we report system as part of data center and the VC is very similar to what the rest of the industry is doing. So we try to align so it is easier to look at the as a different players in the same in the same way."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "The next question is from Thomas O'Malley with Barclays. Please go ahead."
+  },
+  {
+    "speaker": "Thomas O'Malley",
+    "role": "",
+    "text": "Hey, guys. Thanks for taking my question. I wanted to understand the timing of the crossover between the Mosaic three platform, the Mosaic four platform. I think you guys have historically talked about the first generation is what takes a long time. That is what, you know, was the struggle with your first big customer, but now you are really seeing that adoption kind of accelerate across other global CSPs. So at Mosaic four, it sounds like it is starting to ramp in volume in the second half year twenty-six. Could you get to a crossover point in the first half twenty-seven? Like, we be thinking about 15 or 20% contribution? I am just trying to understand how much supply you can actually add to the industry with that transition in a short period of time. Thank you."
+  },
+  {
+    "speaker": "Dave Mosley",
+    "role": "",
+    "text": "Thanks, Tom. Yeah. It is a question we are asking as well because as we go up the ramp, then, you know, yields and scrap and everything else on the new product is what dictates that. We understand the old product pretty well. There is a lot of commonality in piece parts between the two technologies between the two. So it is not this is not a complete unknown on the ramp, but, you know, from my perspective, it will be a little bit faster ramp. We have to go and that is what the team is going to be focused on. Qualifications are running well so far. So there is no reason to be disappointed at this point. And, you know, I will be continuing to implore the teams to get the yields up as quickly as we possibly to accelerate the transition."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "The next question is from Karl Ackerman with BNP Paribas. Please go ahead."
+  },
+  {
+    "speaker": "Karl Ackerman",
+    "role": "",
+    "text": "Yes, thank you. Dave, you spoke about longer-term agreements offering visibility into 2027. Presumably, that visibility is on exabytes for HAMR drives. But since you did not specify what that visibility is, does exabyte slow down in the context of that 25% exabyte growth over time? Or you think exabyte demand actually accelerates into 27% from what you see today? Thank you."
+  },
+  {
+    "speaker": "Dave Mosley",
+    "role": "",
+    "text": "Well, I think that is a so there is a supply question and a demand question. I think, yes, the supply would go up quite a bit because as we go transitioning to the earlier question Tom asked, as we transition to the four-plus product family, we get a lot more exabytes out of it. So just we will drive that as hard as we possibly can. We are working with customers, major hyperscalers and everything else on the five that we have qualified on three-plus, now we get as many qualified on four-plus over the course of the next year. We get significantly more exabytes out. That is what we are driving."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "The next question is from Timothy Arcuri with UBS. Please go ahead."
+  },
+  {
+    "speaker": "Timothy Arcuri",
+    "role": "",
+    "text": "Thanks a lot. I also had a question about the HAMR crossover. So, four of the CSPs are qualified now and the other three are gonna get qualified in the first half of next year. It sounds like it is about high teens of exabytes now, you know, maybe pushing 20%. I would have thought you could get to exabyte crossover before this before, you know, a year from now if more than half the CSPs are called now and everyone is pushing to get these higher, you know, cap drives. So why would it take another year to go from 15 to 20% of exabytes to more than half of exabytes?"
+  },
+  {
+    "speaker": "Dave Mosley",
+    "role": "",
+    "text": "Yes. Thanks, Tim. So there is a lag in the supply chain, obviously. We have started wafers for various products. We will sell those various products. Just pulling in the qualification does not necessarily mean we turn a light switch from the old product to the new product. We have to actually, you know, go through that transition ourselves in our own factories. We are gonna do that as aggressively as we can, and I think I asked this back in I answered this back in Tom's question, there is some commonality between. So we can pivot a little bit, but not as hard as we would all like. And I think some of this will be dictated by our yield ramp and so on the new products. But are going well. So gonna be as aggressive as we can."
+  },
+  {
+    "speaker": "Gianluca Romano",
+    "role": "",
+    "text": "It takes time to ramp. Now as you know, cycle time is not short. So we need to qualify first. Then to ramp the product. So it takes a certain number of quarters to really go up in capacity."
+  },
+  {
+    "speaker": "Timothy Arcuri",
+    "role": "",
+    "text": "So I guess that is why you would be buying heads from TDK basically from the outside. Right? No. We are not buying heads today from TDK. And I would say TDK is a great partner, has been for a long time. We talk to them about technology all the time. They do not have HAMR technology. So, you know, what we are focused on is how do we get transitioned to the HAMR exabytes as quickly as possible."
+  },
+  {
+    "speaker": "Timothy Arcuri",
+    "role": "",
+    "text": "Yeah. And that PMR has, but thanks. Okay."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "The next question is from Steven Fox with Fox Advisors. Please go ahead."
+  },
+  {
+    "speaker": "Steven Fox",
+    "role": "",
+    "text": "Hi. Just listening to all the and thinking back to the presentation in May where you lined up, sort of the roadmap and the time it takes. It seems like hard disk drives are gonna become more of a bottleneck. To some of the expansion. Know, plans for the cloud guys as we get into next year. How legitimate is that of a concern? And what else could be done at the cloud guys to just sort of leverage existing capacity to sort of get through that period and keep you guys on track? Yes, Steve. I do not look at it as something that is, you know, immediate or you know, going to be solved in a period of three months, you know, the industry is not going to bring on more supply in three months. It is not. So really what is coming out of all this is customers are getting very predictable on long-term plans. And that is what they need to do and that is what we need them to do as well, because we have got long cycle times as we have been saying. So it is building industry health and that is good. We cannot react with supply to everyone's wish list. And there are probably wish lists that are not real at some point. But the customers that we are working with are being very predictable for us, telling us exactly what they are going to need, and we are answering the call up to the extent that we can. And if they need more exabytes, usually, we are off book. It is a timing problem, temporal problem. We are off by a few months or six months or something like that. And so ultimately, as we go through these transitions, we are gonna bring on more exabyte capacity and they are going to be happy with it. Again, and we do not see any evidence architecture is changing or anything like that."
+  },
+  {
+    "speaker": "Steven Fox",
+    "role": "",
+    "text": "Understood. Any advanced algebra on how you are upsiding is just different every single quarter depending on or you mentioned, like, half a dozen variables between how many exabytes you got out this quarter versus last quarter and next quarter."
+  },
+  {
+    "speaker": "Dave Mosley",
+    "role": "",
+    "text": "Yeah. I mean, we are executing well, as we said in the script, and we are pulling as hard as we possibly can, but we are pulling we are executing the plan that we have. And pulling in as much as we can as qualifications complete. And we will continue to do so to the extent that our factories will let us. I mean, it is a fairly long supply chain."
+  },
+  {
+    "speaker": "Steven Fox",
+    "role": "",
+    "text": "Thanks for that color."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "The next question is from Ananda Baruah with Loop Capital. Please go ahead."
+  },
+  {
+    "speaker": "Ananda Baruah",
+    "role": "",
+    "text": "Hey, guys. Thanks for the question. Appreciate it. Dave, how should we think about well, what is the most useful way to think about velocity? I guess the pace at which customers going forward will look to mix up to higher capacity points given the given the shortages and given the aerial density is what is gonna bring new exabytes to market. Do you think that we will see folks look to mix up faster than historical? And part of this, get, is obvious. Because when you make the switch to HAMR, there is, like, a stair step up in capacity. But even as HAMR normalizes, once you get past crossover, say, twelve months from now, once HAMR normalizes, do you think we could see an even faster than typical mix up inside a HAMR? And if not, like, what would be the gating factors? To that? Appreciate it. Thanks."
+  },
+  {
+    "speaker": "Dave Mosley",
+    "role": "",
+    "text": "Thanks, Ananda. It yes. It does not seem like that long ago that we were talking about 16 going to 18 or 18 going to 20. Diminishing returns I would say on PMR products. And then as we have gone 30 to 40, we see an immense pull for 40s. And then and I think that will be true as with 50s as well. As we try to drive that part of the transition because the TCO proposition is so much better if you are building a data center and then you want those products. So I do think that is reflective in the customers' behaviors exactly to your point. Back in the day when we were moving from 16 to 18 or 'eighteen to 'twenty, we just were not seeing that much push. Now on the demand side, on the true end demand side, I think it is also because of what is going on in the world with you know, we pointed out video in the script. Some of the video properties are just exploding right now, and the capability to create and diversify the video in the world is great and people are monetizing it. That is great as well. So human creativity is what is fundamentally driving all of this stuff. And I do not see it slowing down."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "The next question is from Tristan Gerra with Baird. Please go ahead."
+  },
+  {
+    "speaker": "Tristan Gerra",
+    "role": "",
+    "text": "Hi, good afternoon. Could you elaborate on the duration of the long-term agreements for HAMR? Is there a pricing component to it? And what percentage of total revenue is currently based on those agreements? And how does that compare with what the mix of those agreements was last year? Well, customer has a different FTA or bill to order, so the duration is different. Volume is different. The mix is different. But what we said in the prepared remark, the vast, vast majority of our nearline exabytes have already been committed for the entire calendar 2026. So we have a fairly long build to order in place."
+  },
+  {
+    "speaker": "Tristan Gerra",
+    "role": "",
+    "text": "Okay. And then as you look at the ramp of HAMR, and you are not ramping capacity, you are migrating to higher densities. Is your expectation on the basis of that ramp and what you see in terms of demand that lead times are going to remain similar to what they are today? Or would you expect lead times to expand further despite the ramp and migration to higher density HAMR?"
+  },
+  {
+    "speaker": "Dave Mosley",
+    "role": "",
+    "text": "Yeah. It is a good question, Tristan. I think they will remain like they are today. Getting through the HAMR transition, have to add a significant amount of content to wafer in particular, which is one of the longest lead times. But the next generation and the next generation after that, you do not have to go through that amount of transition again. So I do think it is a step up in lead times. We will work it to get it back down as quickly as we can, but I think there is a substantial amount of process content. So we have gone through that step up at least on those products. And then, you know, after that, we do not have to get to four terabyte splitter, five terabyte splitter and so on?"
+  },
+  {
+    "speaker": "Tristan Gerra",
+    "role": "",
+    "text": "Great. Thank you very much."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "The next question is from Mark Miller with The Benchmark Company. Please go ahead."
+  },
+  {
+    "speaker": "Mark Miller",
+    "role": "",
+    "text": "Congratulations on another good quarter. I am just wondering, are your margins and yields on your HAMR drives at parity with the legacy PMR drives? If not, when you expect that to occur?"
+  },
+  {
+    "speaker": "Dave Mosley",
+    "role": "",
+    "text": "Yeah. Mark, I would say we do not have EPMR. So, you know, we have our last generation PMR drive is a great drive. It is fantastic. It has got great yields. Well, I am very happy with it. You were always gonna be working next generation and the next generation as hard as we possibly can. The four terabyte per platter, which is what we are all focused on right now, is where we need to get the yields up and it is still early in its lifetime. We will continue to put as much muscle as we have in Seagate to get that done this year."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "The next question is from Vijay Rakesh with Mizuho. Please go ahead."
+  },
+  {
+    "speaker": "Vijay Rakesh",
+    "role": "",
+    "text": "Yes. Hey, Dave and Gianluca. So just I saw good, you know, good numbers on the gross margin side up pretty nicely sequentially. Just wondering, did the drop through on HAMR would you expect to hit the mid 45%, 45% margins exiting 26? Or how should we look at that margin progression? And a follow-up."
+  },
+  {
+    "speaker": "Gianluca Romano",
+    "role": "",
+    "text": "Yeah. No. As I said before, from Erik's questions, now we are very pleased with the progression in gross margin. Also with increasing revenue. So we have achieved the $2.6 billion in revenue and the 40% gross margin a little bit earlier than what we were thinking. And we have guided December with an incremental margin that is higher than the 50% that we discussed in our financial model. Every quarter is a little bit different. Right now, we have a fairly quick transition from the PMR drive to HAMR drive. And with higher capacity drive, we get better profitability. So the short term, we are progressing well. And as I said, every quarter will be a little bit different. I think the model that we presented in May is a strong model. The next three years. But does not mean we cannot execute even better."
+  },
+  {
+    "speaker": "Dave Mosley",
+    "role": "",
+    "text": "Right, Vijay. And as I reflect on a lot of the questions today, it is about how well do we know the demand further out and some of it is predictable. But the demand may keep on coming based on what we see in some of the end applications. And then our ability to continue to work the yield issues around the new four terabyte per platter and get through that transition as quickly as we can and that will help the cost side. So that and supply side from an exabyte perspective. So that is what we are all focused on. Appreciate the question."
+  },
+  {
+    "speaker": "Vijay Rakesh",
+    "role": "",
+    "text": "Got it. And Dave, just on the on your follow-up on the video side with the increased traffic, do you the longer-term exabyte growth that you guys had laid out on the 20%, 25%, do you see upside to that now given this significant increase in video traffic? And storage?"
+  },
+  {
+    "speaker": "Dave Mosley",
+    "role": "",
+    "text": "Well, this is what we are all still studying, I think. You know, that we have seen especially with some of the new AI generation, AI kind of content generation which we talked about in the prepared remarks. We are studying how fast the uptake there is for some of these new creative capabilities that people have."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "This concludes our question and answer session. I would like to turn the conference back over to management for any closing remarks."
+  },
+  {
+    "speaker": "Dave Mosley",
+    "role": "",
+    "text": "Thanks, Gary, and thanks to everyone for joining us today. As you can see, fiscal 2026 is off to a great start. Marked by strong operational execution and outstanding financial results. I want to once again express my gratitude to our employees, our suppliers, our customers, and our shareholders for their contributions to Seagate's ongoing success. Together, we are advancing innovation and to serve growing data storage demand. And position Seagate for long-term value creation. Thanks for your continued support. We look forward to the significant opportunities ahead."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "The conference has now concluded. Thank you for attending today's presentation. You may now disconnect."
+  }
+]

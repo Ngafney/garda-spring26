@@ -1,0 +1,298 @@
+Operator
+Good day, and welcome to the Elastic third quarter fiscal 2023 earnings results conference call. All participants will be in a listen-only mode. [Operator instructions] After today's presentation, there will be an opportunity to ask questions. [Operator instructions] Please note that today's event is being recorded.
+I would now like to turn the conference over to Nikolay Beliov, vice president of investor relations. Please go ahead, sir.
+Nikolay Beliov
+--
+Vice President, Investor Relations
+Thank you. Good afternoon, and thank you for joining us on today's conference call to discuss Elastic's third quarter fiscal 2023 financial results. On the call, we have Ash Kulkarni, chief executive officer; and Janesh Moorjani, chief financial officer and chief operating officer. Following their prepared remarks, we will take questions.
+Our press release was issued today after the close of market and is posted on our website. Slides, which accompany this webcast, can be viewed in conjunction with live remarks and can be also downloaded at the conclusion of the webcast on the Elastic investor relations website, ir.elastic.co. Our discussion will include forward-looking statements, which may include predictions, estimates, our expectations regarding the demand for our products and solutions, and our future revenue and other information. These forward-looking statements are based on factors currently known to us, speak only as of the date of this call, and are subject to risks and uncertainties that could cause actual results to differ materially.
+We disclaim any obligation to update or revise these forward-looking statements unless required by law. Please refer to the risks and uncertainties included in the press release that we issued earlier today included in the slides accompanying this webcast and those more fully described in our filings with the Securities and Exchange Commission. We will also discuss certain non-GAAP financial measures. Disclosures regarding non-GAAP measures, including reconciliations with the most comparable GAAP measures can be found in the press release and slides.
+The webcast replay of this call will be available for the next 60 days on our company website under the Investor Relations link. Our fourth quarter fiscal 2020 quiet period begins at the close of business on Friday, April 14, 2023. On March 6, 2023, we will be participating in the Morgan Stanley Technology, Media and Telecommunications Conference. With that, I'll turn it over to Ash.
+Ash Kulkarni
+--
+Chief Executive Officer
+Thank you, Nikolay, and thank you all for joining us. I'm pleased with how we performed this quarter in the context of a challenging market environment. We remain completely focused on our customers and our business and continue to be excited about the opportunity ahead of us. Our total revenue in the third quarter grew 27% year over year in constant currency, while we manage the business with discipline to deliver stronger-than-expected non-GAAP operating margin of 7.9%.
+Elastic Cloud comprised 40% of total revenue, up from 36% in the year-ago quarter, and grew 40% year over year in constant currency. We saw strong customer contractual commitments, and customers continued consolidating on our platform. Before I discuss -- the key focus areas for our business, I would like to touch on three topics: first, the macro environment; second, how we are executing in the current environment. And third, the platform consolidation opportunity ahead for Elastic.
+First, consistent with Q2, third quarter deal cycles continue to be elongated with additional levels of approvals, and the SMB segment remained challenging. Also, as we had anticipated, customers continue to optimize their usage. We saw this across customers of all sizes and across industries. We anticipate that consumption optimization will continue in the near term.
+Despite these challenging times for everyone, we are focused on consistent execution. This leads me to the second topic. The steps we have taken to adjust and optimize our investments across the business, demonstrate our solid execution and give us continued confidence in the long-term market opportunity. We have continued to selectively invest in our enterprise and commercial sales capacity and have seen those portions of the business performed well with a healthy pipeline and strong customer commitments.
+On the SMB side, we continue to refine our customer acquisition and expansion motions and remain focused on attracting customers that have a higher propensity for growth. Janesh will touch on this shortly. The balance between growth and margins is a key focus for the company, and we are demonstrating healthy margin expansion as we drive stronger return on investments across our investments. Third, our platform capabilities play to our strengths in this macro environment as customers look to consolidate suppliers without sacrificing innovation.
+Our land-and-expand strategy is working with both expansions within solutions and across solutions, bolstered by continued innovations in our underlying platform. We win by helping customers deliver better business outcomes, not limiting what data they can bring into Elastic while at the same time, lowering their total cost of ownership. Elastic is mission-critical for customers, who need unified visibility across their business to keep their systems secure, reliable, and performing at scale. Now I'd like to share our progress across our three key focus areas: driving durable growth, widening the competitive moat, and fueling profitable growth.
+Starting with durable growth. We believe the consolidation of IT budgets is benefiting the Elastic platform as customers are looking to Elastic to simplify the environment, reduce costs and increase productivity and visibility. Over the past quarter, I met with dozens of customers across our key geographies, and they consistently expressed their desire to do more with Elastic as a central pillar of their IT infrastructure. We also continued to see strong growth in customers adopting Elastic Cloud and expanding across solutions.
+Our revenue through the cloud hyperscaler marketplaces doubled year over year including multiple transactions over $1 million ACV. As an example, this quarter, we closed an eight-figure deal with a Fortune 100 financial services provider that is using Elastic Cloud on AWS to consolidate its observability and security infrastructure. The company chose Elastic to streamline operational costs and gain greater visibility across its environment while safeguarding sensitive customer data and meeting regulatory compliance requirements. We also closed another eight-figure deal with a top 10 multinational financial services company that is expanding on Elastic to consolidate its observability, security, and internal and external search capabilities on our platform.
+They continue to grow use cases with us, most recently expanding their use of monitoring and AIOps and advanced capabilities like tiered storage and machine learning. On the go-to-market front, last quarter, Elastic participated in 30 events and go-to-market programs with our cloud hyperscaler partners, including AWS Reinvent, where we met more than 5,000 customers and prospects and held a joint session with our customer, DISH Media. Our level of investment and engagement in this flagship event is a testament to the momentum of our partnership and the growing base of mutual customers that we serve. Finally, I'm excited to share that we have recently welcomed a new chief marketing officer to Elastic, Matthew Donoghue.
+Matt brings a strong cybersecurity marketing background and extensive experience developing and executing go-to-market plans to support company growth. His experience in increasing demand and driving sales will help us accelerate our journey as we build a generational company. The long-term opportunity for Elastic is clear, and we are positioning the business to emerge even stronger as we go through these challenging economic times. Now on to our widening competitive moat.
+Our solutions continue to be bolstered by innovation on the Elastic platform, driven in part by our AI and machine learning capabilities. As industry analysts have reported and our own customer surveys also indicate, investments in ML are fundamental to IT leaders' ability to deliver on digital business transformation. ML continues to be a major driver for customers adopting our higher subscription tiers. A key part of our approach to machine learning is allowing our customers to integrate their own models in addition to leveraging the models that we offer.
+By natively integrating machine learning into the core of Elasticsearch, we have enabled our customers to adopt new ML-based features across each of our solution areas. Now I will share some details about additional innovation and customer wins across our security, observability, and enterprise search solutions. Starting with security. This quarter, we renewed business with a leading multinational telecommunications company, which is using Elastic Security to bolster its cyber defenses with threat detection and response.
+A longtime Elastic customer, they expanded the business with Elastic via the Google Cloud Marketplace with the goal of consolidating and standardizing their security operations across more than 10 countries. We also renewed a seven-figure multiyear deal with a top 250 MSSP using Elastic Cloud on AWS to expand their security use cases across SIEM, XDR, and Endpoint. They chose Elastic Security for our simple, consumption-based pricing that enables them to expand their use of elastic as their customer usage grows. We delivered several new capabilities in Q3, including interactive investigation guides, new deception-based ransomware protections, and improved protections against data exfiltration through entity analytics.
+Elastic Security also continues to be recognized by leading industry analyst firms. In our first appearance in the Forrester Wave for Security Analytics, Elastic was named a leader, achieving the highest score for strategy. Elastic was also named a major player in the 2022 IDC Marketscape for SIEM. Now moving on to Elastic Observability.
+This quarter, we renewed and expanded a seven-figure deal with Deutsche Telekom, a leading integrated telecommunications company. As an Elastic Observability customer, they use Elastic for multi-cloud monitoring, as well as advanced capabilities like machine learning to forecast bandwidth calculations that assist them in planning their networks and then optimizing costs. The company also uses Elastic Security for SIEM, Endpoint, and EDR to secure its own internal networks. In Q3, we introduced innovations, including a new curated journey that accelerates root cause analysis by aiding in the identification of performance or availability issues caused by application dependencies.
+Elastic also appeared for the first time in the Forrester Wave for AIOps, being recognized as a strong performer and receiving the highest possible scores in 13 evaluation criteria. Now on to Enterprise Search. This quarter, we closed a new seven-figure deal in APJ with a major social e-commerce platform in India, which moved from AWS Open Search to Elastic Cloud via the Google marketplace. With Elastic Enterprise Search, they were able to dramatically reduce search latency across an average of 2.8 million transactions per day while optimizing the shopping experience for their users.
+On the innovation front, we introduced new tools to implement and manage natural language processing across search indices, accelerating both time to value and higher-quality search results. I'm also pleased to share that Elastic was recognized as a leader in the 2022 Gartner Magic Quadrant for Insights Engines, positioned furthest to the right for our completeness of vision. Moving on to our long-term model and our focus on profitable growth. When we first shared the $2 billion FY '25 revenue target in June of last year, it reflected the market opportunity in front of us and the growth trajectory of our business at the time.
+Although we fully expect to be a multibillion-dollar company over time, given the current macro environment we are operating in, we do not expect to achieve the $2 billion revenue mark in FY '25. Similarly, while we are seeing healthy customer commitments, given the softer consumption patterns in the near term, we expect Elastic Cloud revenue exceeding 50% of total revenue will take longer than we initially anticipated. Having said this, I will reemphasize our conviction in the long-term opportunity in front of us, especially in Elastic Cloud. That conviction is founded on the strength of our product innovations and continued customer confidence in Elastic as reflected in customer commitments and in all the examples I shared earlier.
+Now on profitability. As we've demonstrated this quarter, we are committed to managing the business with discipline and remain highly confident in our ability to deliver the 10% FY '24 non-GAAP operating margin target we established last quarter with further expansion in fiscal '25. Our fundamentals remain strong. We remain committed to continuing our growth strategy while delivering increasing profitability.
+In closing, I want to thank our employees for their dedication and contribution to our performance. I also want to thank our customers, partners, and investors for their continued support and confidence. With that, I'll turn it over to Janesh to go through our results in more detail.
+Janesh Moorjani
+--
+Chief Financial Officer and Chief Operating Officer
+Thanks, Ash. We are pleased that we once again came in above the high end of both our top-line and bottom-line guidance for the quarter despite the current economic environment. We delivered 27% year-over-year constant-currency growth in total revenue, and Elastic Cloud grew 40% year over year in constant currency. Let me start with two distinct business themes we saw in the quarter.
+First, we saw strong levels of customer contractual commitments to Elastic. Customers want to do more with Elastic, and our sales team executed well in the quarter to secure these commitments. As provided several examples of marquee customers experiencing the benefits of the Elastic platform and solutions, this is an important indicator for us since it directly translates into future revenue. The second theme we saw relates to consumption patterns.
+Customers continue to look for ways to optimize their usage. We saw this across segments of our customer base. Although this is a near-term headwind, our platform naturally helps customers drive efficiencies with capabilities like searchable snapshots and frozen storage. Combined with the benefits of a consumption model, our platform enables customers to consolidate more workloads on Elastic over time.
+Putting these two pieces together, as customers look to reduce costs, they are choosing Elastic as their partner for the long term while also leveraging the capabilities we provide to help them optimize usage in the near term. The growth and commitments that customers made to us during the quarter gives us confidence in the underlying strength of the business and our ability to successfully address the market opportunity over time. Now let's get into the Q3 results and our outlook. Total revenue in the third quarter was $275 million, up 23% year over year or 27% in constant currency.
+Subscription revenue in the third quarter totaled $256 million, up 22% year over year or 26% in constant currency, comprising 93% of total revenue. Within subscriptions, revenue from Elastic Cloud was $111 million growing 38% year over year or 40% in constant currency. Elastic Cloud represented 40% of total revenue in the quarter, up from 36% a year ago. Elastic Cloud revenue based on month-to-month consumption arrangements continue to be 16% of total revenue, similar to the prior quarter and compared to 17% in the year-ago quarter.
+Professional services revenue in the third quarter was $19 million, growing 32% year over year or 37% in constant currency. We saw sequentially lower revenue from professional services given the timing of completion of projects. Although professional services may fluctuate across quarters, we do not expect it to vary significantly in mix over time. To add more context around deal flow and performance by region, we saw balanced deal flow across geographies on a currency-adjusted basis.
+APJ grew the fastest, followed by EMEA and the Americas. We also saw a healthy balance across the solutions and continue to maintain a similar solution mix in annual contract values versus the prior quarter. Looking at customer metrics. We continued our strategy of focusing on customers with a higher propensity for growth.
+This strategy was reflected in our results. In the third quarter, we added over 100 customers above $10,000 in annual contract value to end at over 4,000 such customers. Looking at customers over $100,000 ACV, we added over 60 customers in that category, representing a strong number of sequential additions and bringing us to over 1,110 such customers as of the end of the third quarter. This is indicative of customer commitments that I referenced earlier.
+The customer count in this over $100,000 ACV category continues to be a strong underpinning of our land and expand motion as we build a multibillion-dollar company over time. Our total customer count also continued to increase, ending at approximately 19,900 total subscription customers. As I mentioned earlier, these metrics indicate the strength of customer commitments to Elastic. Turning to the net expansion rate.
+Our net expansion rate was approximately 120%, driven in part by slower consumption. As a reminder, for customers on consumption-based arrangements, our net expansion rate reflects only their actual consumption and not their commitment. Our customer metrics indicate that our core strategy is sound. Customers are making strong commitments to us, and we remain confident in our ability to address the large market opportunity.
+Our solutions are used in core mission-critical use cases, and we give customers enormous flexibility with the consumption-based business model on cloud. Now turning to profitability for which I'll discuss non-GAAP measures. Gross margin in the quarter was 75.5% versus 74.5% in the prior quarter with the sequential improvement driven mainly by better subscription gross margins, which increased to 80.1% versus 79.2% in Q2. Looking at operating expenses in the third quarter, we continue to manage our expenses and investments in the business well.
+Our operating margin in the quarter was 7.9%, which was significantly better than expected due to the earlier-than-planned exit of some employees from our restructuring actions, better gross margin, and, to a lesser extent, a shift in timing of some expenses to Q4. Diluted earnings per share in the third quarter was $0.17. Free cash flow on an adjusted basis was approximately $19 million in the third quarter. Based on our strong performance, we are increasing our outlook for the year and now expect adjusted free cash flow margin to be in the low single digits for full fiscal '23 compared to our prior outlook of roughly breakeven.
+As a reminder, this is after the outflows related to the restructuring we announced in the second quarter. We continue to maintain a strong balance sheet. We ended the third quarter with cash and cash equivalents of $878 million. We remain comfortable with our cash position from an operating perspective.
+Turning to guidance. As I mentioned earlier, we exceeded our expectations for the third quarter, and we also saw greater-than-expected strength in customer commitments. Additionally, customers of all sizes continue to optimize consumption. We believe that it is prudent to consider that consumption trends might slow further before they improve again.
+We are incorporating this possibility into our guidance for Q4 and are modestly lowering our outlook for the full year. Given the macro spending environment, we are simply being cautious as we monitor near-term trends. Further, as a reminder, our fiscal fourth quarter has only 89 days compared to 92 days in the third quarter, and this presents a headwind of approximately 3% to sequential growth rates. Year-over-year growth rates are not affected by this.
+We also continue to manage expenses tightly while investing with discipline in the business, including an enterprise and commercial sales capacity. Given our strong performance so far, we are raising our non-GAAP operating margin outlook for the year. The outlook for the fourth quarter reflects approximately $10 million in seasonally higher expenses than the third quarter related to the timing of employee benefit expenses and our engineering all-hands event. With that background, for the fourth quarter of fiscal '23, we expect total revenue in the range of $276 million to $278 million, representing 16% year-over-year growth at the midpoint.
+On a constant-currency basis, we expect total revenue growth of 18% year over year at the midpoint. We expect non-GAAP operating margin in the range of 4.8% to 5.2% and non-GAAP earnings per share in the range of $0.08 to $0.10 using between 100 million and 101 million diluted weighted average ordinary shares outstanding. For full fiscal '23, we now expect total revenue in the range of $1.065 billion to $1.067 billion, representing 24% year-over-year growth at the midpoint. On a constant-currency basis, we expect total revenue growth of 28% year over year at the midpoint.
+We expect non-GAAP operating margin for full fiscal '23 in the range of 3.3% to 3.4% and non-GAAP earnings per share in the range of $0.11 to $0.14 using between 99 million and 100 million diluted weighted average ordinary shares outstanding. Finally, looking ahead to fiscal 2024. As you know, we provide guidance for the next fiscal year on the Q4 earnings call. We are in the middle of our planning process, and we still have a significant volume of business to close in the fourth quarter.
+Having said that, we do want to give you a sense of how we are currently seeing next year's shape up given the statements we have made about our confidence in delivering strong revenue growth on a sustainable basis. First, we remain focused on delivering durable long-term revenue growth as we build a multibillion-dollar revenue business. We are confident that we are still in the early stages of this growth journey. Yet, we remain prudent in our view of the macroeconomic environment.
+Accordingly, as of right now, we expect total revenue growth in fiscal '24 to be in the mid- to high teens. We expect first half year-over-year growth in total revenue to be slightly lower than our expectation for the full year given tougher comparisons against the first half of fiscal '23. We will continue to closely monitor customer commitments and consumption patterns, and we'll provide formal guidance on the next earnings call. Second, we expect cloud will remain a revenue growth driver for us.
+Our growth in cloud is driven predominantly by new and expansion use cases rather than migrations from self-managed. Third, we will continue to invest in the business with discipline in support of our drive to durable long-term growth. We remain committed to delivering non-GAAP operating margin of 10% next year, and the actions we have already taken are sufficient in that regard. Some of our expenses are seasonally higher in the first quarter, while revenue will ramp over the year.
+Accordingly, we expect Q1 to be the low point on non-GAAP operating margin. We also expect to have adjusted free cash flow growth in fiscal '24, consistent with the non-GAAP operating margin increase. Longer term, we continue to expect to deliver several points of non-GAAP operating margin expansion in fiscal '25 as we grow revenue faster than expenses. In summary, we remain focused on execution and believe that we are well-positioned for long-term durable growth and profitability.
+And with that, let's go ahead and take questions. Operator?
+Questions & Answers:
+Operator
+We will now begin the question-and-answer session. [Operator instructions] Today's first question comes from Pinjalim Bora with J.P. Morgan.
+Pinjalim Bora
+--
+J.P. Morgan -- Analyst
+Hey, thank you for taking the questions. First question, I just wanted to unpack the guidance a bit to high teens. Janesh, maybe help me understand kind of the assumptions there. Are you assuming kind of the monthly cloud mix to continue to take a step down or the rest of the cloud business, which is to kind of continue to moderate as consumption trends moderate? How should we think about the net expansion rate or the new logos? Just trying to understand the kind of different drivers that leads you to the fiscal '25 growth trends.
+Janesh Moorjani
+--
+Chief Financial Officer and Chief Operating Officer
+Hey, Pinjalim, happy to take that. So, look, as we think about the outlook for next year, I'd say it's still early, but we wanted to at least provide you with an initial view today of how we see things shaping up. So, think about it as an outlook or a framework. And within that, there's obviously several drivers, not in the least of which will be the broader environment, but we're not trying to make any assumptions or predictions about the macro.
+I think within that range that we've provided, we can certainly accommodate some variations in the macro environment from this point. But the bulk of it really will come down to consumption patterns and then, of course, just to our own execution. We've delivered very strong customer commitments here in Q3. We still have Q4 ahead of us.
+That's usually our seasonally biggest quarter in the year. So, we're focused on just making sure we execute well here in Q4, and we've also -- that we also entered next year with appropriate selling capacity. And so, as I think about some of the underlying drivers, consumption continues to evolve. We'll obviously be monitoring that very carefully, but the commitments that we've secured from customers and the momentum that we continue to enjoy with customers continues to be a really strong indication for us around the future.
+So, when we get to the next call, then we will provide a little bit more of a formal view on a narrower guidance range, but those are some of the puts and takes that we're thinking about internally at this stage as we build our models.
+Pinjalim Bora
+--
+J.P. Morgan -- Analyst
+OK. Got it. Thank you, Janesh. And one question for you, Ash.
+AIOps has been a little bit topical. And we have not -- I know you had had ML for some time in the X-Pack. We have not really much heard about IP on a broader context from Elastic. How do you think about AIOps? Do you think of it as a feature? Do you think of it as kind of an intern way of operating product or future state of the product in the future?
+Ash Kulkarni
+--
+Chief Executive Officer
+Yeah, the way I think about it, Pinjalim, thanks for the question, is fundamentally that AIOps is core to how you ensure that you can enable observability users to do their job in the most efficient way possible. At the end of the day, AIOps is all about ensuring that you can, first and foremost, bring in all relevant data, whether it's logs, metrics, traces, profiles, real user monitoring information, etc., all into one place and then apply the right kinds of machine learning to it to ensure that you can quickly surface those issues that might be most relevant. So, you're reducing the level of fatigue that a typical site reliability operator has to go through to get to root cause analysis to ensure that they are meeting their SLOs and SLIs. I think that's very, very critical, and that's how we look at the AIOps use cases.
+And it's great to see that all the work that we've been putting into machine learning, into incorporating that in core into our platform, making sure that we always make it possible for users to bring in all of their TRACE data, metrics data, log data in one place and apply the kinds of algorithms that we provide, but also algorithms that users might bring, all of that work, it's actually being recognized. We're seeing great -- I talked about some of the customer examples that I gave, included customers using AIOps, but it's also the analyst recognition, which really makes me feel good about the fact that the work that we are doing is being seen, it's being recognized, and we feel very confident about how this is going to help continue to make us a stronger and stronger player in observability.
+Pinjalim Bora
+--
+J.P. Morgan -- Analyst
+Got it. Thank you very much.
+Operator
+Our next question comes from Tyler Radke with Citi. Please proceed.
+Tyler Radke
+--
+Citi -- Analyst
+Yeah. Thanks for taking the question. And I wanted to first start. Ash, you talked about some of the ML use cases, kind of a related question to the one Pinjalim asked.
+But how are you just seeing that broader opportunity beyond the ML and AIOps? But just given there's been a lot of interesting application of large language models on search, how are you approaching that? And then if you could just give us an update on the enterprise tier adoption? How are you seeing the uptake of that premium SKU in this environment? What percent of the base is migrated over there? Thank you.
+Ash Kulkarni
+--
+Chief Executive Officer
+Yeah. No, absolutely. So, obviously, machine learning has been a very core element of what we've done at Elastic for the last many years. I've talked about it in the past.
+When we came out with version 8.0. We talked a lot about vector search and machine learning. Right now, I know that there's a lot of interest in this area, AI and machine learning, thanks to ChatGPT and Open AI. And in some ways, like we see ChatGPT and the very large transformer models that they have introduced has been really complementary to what we do.
+And in the long term, this is a really exciting opportunity. Though, I think we can all agree that it's still early phases. If you think about Elastic in our platform, we provide the foundation for our customers to build applications on top of our platform with their data using vector search, using machine learning. And in the last many releases, we've been making some investments in this direction very thoughtfully in the area where we've now added the ability for customers to directly load large transformer models into Elasticsearch.
+So, they don't have to take the data out of Elasticsearch, and they can perform all the activities on data in Elasticsearch using these large transformer models, perform inference on them directly. And many of these transformer models, like the ones built by Open AI, they often rely on embeddings. The core functionality that they often require is vector search, vector search kinds of capabilities. So, these are the areas that we've talked about in the past.
+But hopefully, now you get a sense of how these things are coming together. And customers can build new natural language search applications on our platform powered by vector search using these kinds of machine learning functionalities. So, in the long term, I feel that this is going to be a really awesome opportunity, but it's still very early days. So, we are working on it.
+We've been innovating in this area for a long time. And we believe that the role that we play as a foundational platform that customers can use to bring their data and then use these kinds of ML models on that data, on Elasticsearch is what's going to be really compelling for us.
+Janesh Moorjani
+--
+Chief Financial Officer and Chief Operating Officer
+And Tyler, on the enterprise tier adoption, this is Janesh. I'll add that we've continued to see strength there. We continue to see excellent customer adoption, particularly driven by features like searchable snapshots. We expect that as with features like hybrid cross-cluster search -- I think I will finally learn to pronounce that someday.
+But with features like hybrid cross-cluster search, there you go, we expect that we'll continue to get further traction. And so, we're excited about the enterprise subscription tier, and I think that will continue to be a growth driver for us. You'll remember that it was 13% of total customer spend on Elastic Cloud last year, and it remains the fastest-growing subscription tier for us. And maybe just as a final reminder for some of the other folks out there that may not be as familiar with this.
+The enterprise subscription tier, as you know, is not a proxy for our sales progress in the enterprise segment. Many of our large enterprise customers are, in fact, on the platinum tier. So, that's just a naming thing.
+Tyler Radke
+--
+Citi -- Analyst
+Thanks, Janesh, and second question I wanted to ask is just on your comments about the good contracting in the quarter. Clearly, you saw billings grow quite nicely, 35%, well above revenue. What drove that? Was there early renewals in there? And I guess just where -- in terms of the strong contracting you're seeing, is it maybe coming in a stronger on-prem mix than cloud, given that you're taking down kind of your medium-term cloud targets? Just help us understand the kind of the disconnect between strong contracting and a weaker revenue outlook. Thank you.
+Janesh Moorjani
+--
+Chief Financial Officer and Chief Operating Officer
+Yeah. Happy to take that. So, in terms of the billings, so as you know, there's a number of ways in which we look at the business. We look at it primarily from the standpoint of revenue, and holding aside all of the reasons to look at or not look at billings, fundamentally, what we saw in the quarter was just strong sales execution.
+So, this was not about early renewals. It was not about any particular benefit from deals from Q2 that pushed out. We always see some levels of pushouts and pull-ins. Fundamentally, the environment in terms of sales cycles and enterprise customer buying behavior has not changed.
+I think it was just good old-fashioned execution on the part of our sales team that did really well to adapt to the circumstances that we saw at the end of Q2. So, we felt pretty good about that. And if you then sort of think about the self-managed and cloud components within that, we saw a fair amount of strength on the cloud adoption actually in terms of contractual commitments on cloud. That came in significantly stronger.
+So, it's great that we are seeing that. I think that reflects customer preferences. In this environment, customers are looking for tool consolidation over time. And the commitments that they've made will just help us consolidate more workloads onto Elastic Cloud over time, and all of that will eventually translate into revenue because these are contractual commitments.
+So that's largely a question of the timing around the consumption patterns. And what we've seen in the consumption patterns, as we talked about is this near-term trend toward optimization as customers are continuing to look at how to make every dollar go further, and I think you've seen that more broadly as well. So, that's some of what we saw in the quarter as well, and that's what we factored into the guide for Q4, as well as some of the early outlook for fiscal '24.
+Tyler Radke
+--
+Citi -- Analyst
+Thank you.
+Janesh Moorjani
+--
+Chief Financial Officer and Chief Operating Officer
+Thank you.
+Operator
+The next question comes from Koji Ikeda with Bank of America. please proceed.
+Koji Ikeda
+--
+Bank of America Merrill Lynch -- Analyst
+Yeah. Hey, guys. Thanks for taking the questions. I kind of wanted to go back to the fiscal 2024 guide and dig in a little bit deeper there.
+Because when I look at the fourth quarter guide, it really kind of assumes a 1 percent-ish sequential growth rate, and the mid-teens growth for 2024 is quite a bit higher than a 1% sequential growth rate to get there. And I appreciate all the color that you guys gave, some of the things that you're seeing from a consumption patterns and bookings perspective and usage perspective. But I guess the question here is this guide for 2024, this early look, does it mean that the macro gets better from here? Or does it -- the patterns that you're seeing within the business now and the macro stays the same can get to that mid-teens target?
+Janesh Moorjani
+--
+Chief Financial Officer and Chief Operating Officer
+Koji, I'll take that. So, maybe just to clarify on the Q4 guide. Just as a reminder, Q4 has 89 days, and every other quarter has 92 days this fiscal year. So, that represents about a 3-percentage-point sequential growth headwind in Q4.
+And so that's just something that you need to factor in, and we obviously had that last year as well. So, it does not affect the year-over-year growth rates, but it does affect the sequential growth rates as you build that out. And so, if you think about our year-over-year growth rate guide for Q4, that's 18% in constant-currency terms, and so the FY '24 growth rate is really consistent with that. And obviously, we've provided an initial outlook.
+We will formalize this as guidance later, but in that mid- to high teens range. So, within that, we're not assuming anything significantly different about the macro. It's still very early. We're not predicating this on some thesis of macro improvement.
+We certainly are not in a position to predict that. We provided the outlook based on the current state of what we know and what we see out there today. And then as I said earlier, within that, we obviously have some degree of ability to absorb some further variability on that in any of the direction really. So, that's the way we're thinking about fiscal '24 at this stage.
+Koji Ikeda
+--
+Bank of America Merrill Lynch -- Analyst
+Got it. Janessa. Thanks so much. I know there's a bunch more waiting, so I'll hop back in the queue.
+Thank you so much.
+Janesh Moorjani
+--
+Chief Financial Officer and Chief Operating Officer
+Thanks, Koji.
+Operator
+Your next question comes from Ittai Kidron with Oppenheimer. Please proceed.
+Ittai Kidron
+--
+Oppenheimer and Company -- Analyst
+Thanks. Hey, guys. Two things I want to dig in. First of all, the optimization process that you're seeing with customers.
+Can you give us examples of what are the exact actions? Sometimes they take in order to optimize their deployments, number one. And number two, why wouldn't one think that when a customer takes an optimization activity, why is this something that's done very quickly and then moving on? Like why does optimization processes, why can they linger over multiple quarters rather than be executed fairly quickly?
+Ash Kulkarni
+--
+Chief Executive Officer
+Yeah. Hey, Ittai, I'll take this. Thanks for the question. So, optimization can take several forms, right? So, for example, customers can temporarily choose to store less data.
+That's just one example. In some cases, they can accelerate their plans to maybe shift more of their workloads to less performant storage like our frozen tier at a lower price point. They could choose to optimize how they ingest data. For example, they might do some amount of sampling.
+And in some cases, it might just be that they are starting their expansion a little slower just because they are trying to think about the costs involved, etc. I think the important takeaway in many of these optimizations is that some of these optimizations are temporary. And in some cases, there are limits to what they can optimize. Having said that, the way we look at it is if a customer is trying to optimize, at the end of the day, we want to make sure that our consumption-based pricing model makes it possible for them to do that optimization.
+Because what we've seen over and over again is when customers see that we are able to provide that kind of value to them and the fact that we have a platform that is both open and flexible that they can use to do multiple use cases, it incentivizes them to bring additional workloads to use us for additional kinds of use cases. And some of the things that we have seen in terms of customer commitments reflect that, right? Those customer commitments are because customers believe that they can do more with Elastic on our Elastic platform. And so although there might be for the existing use case, there might be some optimization in the near term, we believe that it makes us not only a better partner but able to take a larger share of their overall spend over time. So, that's how you should think about it, and that's effectively what we're seeing.
+Ittai Kidron
+--
+Oppenheimer and Company -- Analyst
+That's helpful. And then, Janesh, I want to kind of dig in a little bit into the commentary on the macro and execution. It seems like you're not calling out execution as an issue. This is purely a macro call.
+And I'm just trying to tie that into your '24 guide, meaning, under the assumption that your salespeople are as productive as you expect them to be and under the assumption that their capacity since our revenue is still growing, their capacity to do more is slowly dwindling? I'm just trying to think of the team's guidance for '24. Why would that assume a macro environment that's weak? Why could not that also assume that you're at a point where you're underinvesting really in your growth opportunity? Wouldn't that -- I mean clearly, you rationalized headcount. I would think -- I don't know, but you haven't mentioned, but where they're hiring in '24, I would suspect it will be lower than '23 from the current point of view. So, again, why wouldn't we think that the '24 is really just underinvestment rather than macro impacting you?
+Janesh Moorjani
+--
+Chief Financial Officer and Chief Operating Officer
+Yeah, Ittai, it's a great question, and there's obviously many moving parts in there. So, let me try and unpack that, and I'll talk about the macro about our sales execution and consumption patterns and also where we're making investments. So, if I think about the macro, to start with, as I mentioned, we're not assuming any change in the macro. I think it would be hard for us to call that.
+So, we will just see how the macro evolves broadly, and that's why we provided a relatively wide range at this point that we'll then formalize into a narrower range on the next call. In terms of sales execution, yes, the team executed really well here in Q3, and we're actually proud of the way we executed. That said, Q4 is our biggest quarter. There's a lot of work to be done, a lot of deals to be closed.
+And one quarter of great execution in a tough macro environment, we obviously need to continue to build on that foundation and continue to deliver strong results in Q4 and then obviously through all the four quarters of fiscal '24 as well. So, we're very, you know, thoughtful and realistic about -- and focused on the need to continue to drive sustained execution over time. With respect to hiring patterns, before I talk about consumption trends, with respect to hiring patterns, we are investing in sales. When we took the actions that we did at the end of the second quarter or in the early part of the third quarter here, we were clear at that time as well that we see a long-term market opportunity, and we're going to continue to invest in enterprise selling capacity, and that's what we've continued to do.
+But it is about driving thoughtful investments and not making investments with lots of experiments and high-risk investments, but investing diligently and investing in areas where we know we can drive growth and where we are best positioned to drive that growth. So, we'll ensure that we have the right selling capacity entering fiscal '24. We don't want to compromise on the top-line growth, but it is about ensuring balanced growth and profitability, particularly again, against the backdrop of the environment in which we are right now. And then finally, with respect to consumption patterns, that's obviously something that's hard for us to directly control in the near term.
+But what gives us comfort there is the strength of the commitments that customers are making on Elastic Cloud, which as I mentioned earlier, will eventually translate into revenue over time.
+Ittai Kidron
+--
+Oppenheimer and Company -- Analyst
+Appreciate the color. Thank you.
+Janesh Moorjani
+--
+Chief Financial Officer and Chief Operating Officer
+Thank you.
+Operator
+The next question comes from Raimo Lenschow with Barclays. Please proceed.
+Raimo Lenschow
+--
+Barclays -- Analyst
+A quick question on cloud versus on-premise. What are you seeing there in terms of behavior from customers at the moment in terms of like -- obviously you've seen the cloud numbers decelerating a little bit. But like what are you seeing in terms of willingness to stay longer on-premise and utilize the assets people have with cloud? Is that something that is a theme for you as it was pointed out by some of your competitors? Is that something we should kind of pay attention to?
+Ash Kulkarni
+--
+Chief Executive Officer
+Yeah. I think it's important to recognize that we've never forced our customers to migrate from on-prem, self-managed to cloud, right? We've always given it as an option. Obviously, we believe that Elastic Cloud is the best way to experience our offerings. But at the end of the day, customers have that choice.
+We've seen strong commitments, as Janesh called out, both in self-managed and in Elastic Cloud. In Elastic Cloud, obviously, that translates into revenue as consumption ramps up. And typically, when we sell a contract, it takes some time for customers to start bringing data onto the cloud platform. And since we recognize revenue only on consumption, that just takes a little bit of time to show up.
+But fundamentally, we've been seeing good traction. And in our annual cloud or our sales-driven motion, we are definitely seeing good momentum in cloud. So, the things that you mentioned, we haven't explicitly seen that in any meaningful way, and it might just be because of the fact that we've never forced people to move in one direction or the other anyways.
+Raimo Lenschow
+--
+Barclays -- Analyst
+Yeah. OK. Perfect. Makes sense.
+And then the other question was on customer retention, etc. So, if I look at the number of customers added this quarter, it was a little bit smaller, but then we do know that you don't really focus on SMB that much anymore. Can you talk a little bit about the puts and takes for us to kind of think about this going forward in terms of like deemphasizing SMB? That kind of obviously might lower the new customer add number, but then you get more higher value-add customers in, which actually is better for the long run. Like what are the dynamics that you're seeing there in terms of customer renewal, attrition, etc.? Thank you.
+Janesh Moorjani
+--
+Chief Financial Officer and Chief Operating Officer
+Yeah, Raimo, maybe I'll take that one. Look, you hit it on the head, right? We are not trying to maximize the volume of the number of customer additions as we've shared before. We're much more focused on the composition of our customer additions as we drive profitable growth. So, the customer net adds reflect our focus on customers that have a higher propensity to spend.
+And we've seen pretty good momentum on that front, and so that's something that we were pleased with. If you look at the customers that spend over $10,000 a year with us, that was an increase of approximately 100 customers versus the prior quarter. And that's a little bit better than the prior quarter. So, we exited with over 4,000 customers in that category.
+And then as you think about the larger customers in the more than $100,000 category, we reported net additions of over 60 customers there. And that customer count in that $100,000-plus group, that's a critical part of the overall business underpinning of our land-and-expand motion. So, this is all really just part of our focus on driving profitable growth, and we think a more efficient way to attract the right customers and grow our business over time. And then if I think about the total number of customers that we reported, that will bounce around every quarter.
+But as we said, that's not our main focus in terms of the long tail of volume. It's really on ensuring that we attract and grow high-quality customers over time, and we are quite happy with the outcome there.
+Raimo Lenschow
+--
+Barclays -- Analyst
+Yeah. OK, perfect. Thank you.
+Operator
+The next question comes from Kash Rangan with Goldman Sachs. Please proceed.
+Kash Rangan
+--
+Goldman Sachs -- Analyst
+Hello. Thank you very much for all the details. Ash, I was curious to get your perspective on what's happening at the top end of the funnel. And also, since we've had the luxury of the -- maybe not a luxury, but a month and a couple of weeks into the quarter, what are some of the trends that you're seeing with respect to the front end of demand gen? And also, if you could just take a step back.
+When you look at cloud consumption, are you seeing any noticeable trends, large enterprise versus SMB, AWS versus Azure? Any color we can offer with respect to any trends you're seeing within your customer base? Thank you so much. That would be great.
+Ash Kulkarni
+--
+Chief Executive Officer
+Thanks, Kash. Maybe I'll address some of the questions in sort of reverse order. So, in terms of the trends in the market, in terms of the choice that customers are making, larger customers are making on one cloud provider versus another, we really haven't seen any change per se. Like so I think some of the color commentary I gave on some of the large customers, the -- some of the large deals that we did this quarter, several of them were through our cloud marketplace partners.
+I talked about the fact that our revenue through our business to the cloud marketplaces has doubled. And we did some -- we had some very large multimillion dollar customers. That sort of gives you a sense that there is a lot that we are doing with large customers in the enterprise and commercial segments through these cloud marketplaces, and we are seeing good traction there. In terms of -- you asked the question on optimization of consumption.
+Like I mentioned in my prepared remarks, we are seeing that not just in SMB, but we are also seeing that in other segments and larger customers as well. And it's effectively like the kinds of things that I talked about earlier and the question that I believe Ittai asked on the kinds of ways in which people are optimizing. And our focus has been very simple, right? As customers are looking to optimize, we have the capabilities that allow them to effectively do more with our technology, do it in a cost-effective way. And frankly, given the current environment, like I feel that what I'm seeing is that our ability to position ourselves as a partner that provides tremendous value for a particular price tends to be very, very advantageous.
+Like that's one of the things that's -- apart from just the innovativeness of our solutions, that's the other factor that's helping us in terms of making sure that we are able to drive good customer commitments. And in terms of the top of the funnel, we haven't seen anything different other than in SMB, like I talked about there. There's been -- and I talked about that even in the past. Like that's definitely been significantly constrained.
+So, even in terms of where we are focusing, we are getting a lot of success with enterprise and commercial accounts, SMB continues to be constrained. But beyond that, I don't think that's -- I could specifically call out any different patterns in the large customers across cloud providers, etc.
+Kash Rangan
+--
+Goldman Sachs -- Analyst
+Wonderful. Thank you so much.
+Operator
+Our next question comes from Matt Hedberg with RBC Capital Markets. Please proceed.
+Unknown speaker
+--
+RBC Capital Markets -- Analyst
+This is Anushtha on for Matt Hedberg. Thanks for taking my questions here. Maybe just to start with macro. If you could just talk about the linearity in the quarter, how did the macro environment change in Q3 versus Q2? And what have you seen so far out in Q4?
+Janesh Moorjani
+--
+Chief Financial Officer and Chief Operating Officer
+Yeah, happy. I'll happily take that. So, linearity in terms of our sales activity was actually quite good across the months, and linearity in any quarter can always be affected by the timing of specific deals. And we saw good linearity and deal velocity earlier in the quarter.
+So, that was something that worked quite nicely for us. Also, Q3 has the holiday season, so it's always unique relative to the other quarters in a year. And in terms of what that translated to in terms of consumptions, I think outcomes can just vary for different customers across different months. But across the full quarter, we did see the consumption trends that we called out earlier.
+There can be a little bit of noise in the monthly data around that. But overall, as I said, we're anticipating that the trends we saw in Q3 will continue into Q4, which is the foundation for the outlook that we provided.
+Unknown speaker
+--
+RBC Capital Markets -- Analyst
+Got it. And then when thinking about the 13% risk you announced recently, if you could just talk about how we should think about the cost savings or the margin impact of that in fiscal '23 and fiscal '24? Thanks.
+Janesh Moorjani
+--
+Chief Financial Officer and Chief Operating Officer
+Yeah. So, we provided a view on that. When we reported, the 13% rift was a little bit more than 400 people. That's really what helped us to drive the sequential increase in the operating margin from Q2 to Q3 and allowed us to raise our outlook for the year when we took that action as well.
+And that actually played out as we expected here in Q3. In fact, if anything, we saw a little bit of timing that some of the actions happened earlier than expected. So, that's factored into the outlook now for Q4 and also for fiscal '24. As I said, I think that action was sufficient for us.
+We don't need to take any further actions on that front. And from this point, based on the run rate of operating margin that we have, achieving the 10% goal for next year is largely going to be a function of the operating leverage that is already inherent in the model as we grow revenue faster than expenses.
+Unknown speaker
+--
+RBC Capital Markets -- Analyst
+Got it. Thank you.
+Operator
+The next question comes from Joel Fishbein with Truist Securities. Please proceed.
+Joel Fishbein
+--
+Truist Securities -- Analyst
+Thanks for taking my question. I actually have one for Janesh and one for Ash. Ash, can you address the security market specifically and trends you're seeing and any changes in the competitive dynamics? And then, Janesh, I just wanted to ask about the puts and takes on the net expansion rate. Thank you.
+Ash Kulkarni
+--
+Chief Executive Officer
+Yeah. Thanks for the question. So, in terms of security, we are seeing really good traction on SIEM and XDR. I talked about several examples.
+We are also seeing a lot of interest in our cloud security capabilities. Last quarter, I talked about the fact that our CSI benchmarks, the work that we've been doing for cloud security there, we had about 30 customers using that capability. That number is now closer to 300. So, we're seeing good interest.
+We've been recognized, as you've seen in some of the prepared remarks that I made, in security analytics as one of the leaders. And all of that is benefiting -- we're seeing our ability to really differentiate ourselves and do well in these deals. So, from a competitive standpoint, I feel really good, especially given that underlying all of this is our ability. We present a very scalable and open solution to our customers, which is getting a lot of interest.
+And so, a lot of the customer commitments that we talked about, and even in some of the examples that I gave, I gave some security examples in there, a lot of this is coming from all the work and innovation that we've done in security over the years that has just strengthened our ability to compete. So, we feel very good about how that business is continuing.
+Janesh Moorjani
+--
+Chief Financial Officer and Chief Operating Officer
+And Joel, on a net expansion rate, the decline that we talked about, that really reflects the two themes that I mentioned earlier on commitments and consumption. So, as I mentioned on the prepared remarks, for cloud contracts, commitments generally don't count toward the net expansion rate, but consumption does. So, the stronger commits that we saw in the quarter are not reflected in that number, but the slower consumption is. So, over time, as consumption of committed contracts ramps, that will help the net expansion rate.
+And then to unpack the drivers a bit further, if you think about expansions, that was a little bit slower than a year ago on the self-managed side. And on the cloud side, where the commitments were strong, as I said, those commitments were generally not included in the calculation until consumed. And then if I look at attrition, the gross retention rate, which measures only attrition, that has remained steady. So, those are some of the puts and takes.
+And if I then think about what that means in terms of how that metric might evolve, it is a trailing 12-month measure. So, more recent data points in the current macro climate are softer than the year-ago data points. So, we do expect that the net expansion rate will soften a bit further for the next couple of quarters until we have a more normal comparison. And so, one other way to think about expansion, as I've mentioned before, is to look at the customer count that's more than $100,000 ACV.
+That is a more current measure of expansion dynamics with customers because most of our customers in that category get there by expanding their spending with us because our land sizes are typically much smaller. And that customer count is not affected by the trailing 12-month calculations, and it also considers cloud commitments. And as you saw, that metric was very strong for us this quarter. So, we continue to move further up within the enterprise.
+We're getting closer to customers, becoming more strategic to their businesses. And all of that makes us just feel very good about the opportunity ahead.
+Joel Fishbein
+--
+Truist Securities -- Analyst
+Great. Thank you so much.
+Janesh Moorjani
+--
+Chief Financial Officer and Chief Operating Officer
+Thank you, Joel.
+Operator
+This concludes our question-and-answer session. At this time, I would like to turn the conference back over to Ash Kulkarni for any closing remarks.
+Ash Kulkarni
+--
+Chief Executive Officer
+Thank you all for joining us. The thing that I'd say in closing is while we are pleased with the strength of customer commitments in Q3, we remain focused on execution in Q4 and beyond. We remain confident in our ability to drive both growth and profitability as we've demonstrated through all the things that we've done. So, thank you again, and have a great day.
+Operator
+[Operator signoff]
+Duration: 0 minutes

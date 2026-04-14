@@ -1,0 +1,374 @@
+Operator
+Hello, my name is Chris, and I'll be your conference operator today. At this time, I would like to welcome everyone to the Infinera Corp's Q3 2023 earnings call. All lines have been placed on mute to prevent any background noise. After the speakers' remarks, there'll be a question-and-answer session.
+[Operator instructions] Thank you. Amitabh Passi, head of investor relations, you may begin.
+Amitabh Passi
+--
+Head of Investor Relations
+Thank you, Chris, and good afternoon, everyone. Welcome to Infinera's third quarter of fiscal 2023 conference call. The copy of the press release issued by Infinera today is available on the Investor Relations section of the website. Additionally, this call is being recorded and will be available for replay from our website.
+Today's call will include projections and estimates that constitute forward-looking statements, including, but not limited to, statements related to the accounting and financial matters referenced in the press release, current Form 8-K, and notification of late filing that we'll file today. Our business plans, product development, and growth opportunities, including progress against strategic priorities, including with respect to vertical integrations, and its anticipated benefits, trends, competition, and customers. Furthermore, expectations regarding the macroeconomic environment, expectations regarding our inventory levels and industrywide capex dynamics, expectations regarding our subsystems group and its impact on our financial results, expectations regarding potential governmental funding, projected year-over-year drivers of our key financial performance metrics, expectations regarding the future performance, revenue growth, margin expansion, generation of cash flow from operations and EPS expansion, and preliminary financial outlook for the fourth quarter of 2023. The statements are subject to risks and uncertainties that could cause Infinera's results to differ materially from management's current expectations.
+Actual results may differ materially as a result of various risk factors, including those set forth in our annual report on Form 10-K for the year ended on December 31st, 2022, as filed with the SEC on February 27th, 2023, and in our quarterly report on Form 10-Q for the quarter ended July 1st, 2023 as filed with the SEC on August 9th, 2023, as well as subsequent reports filed with or furnished to the SEC from time to time. Please be reminded that all statements are made as of today and Infinera undertakes no obligation to update or revise any forward-looking statements to reflect events or circumstances that may arise after the date of this call. Today's conference call includes references to non-GAAP financial measures. Pursuant to Regulation G, we've provided a recon of these non-GAAP financial measures to the most directly comparable GAAP financial measures in our earnings press release for this quarter, which is available on the Investor Relations section of our website.
+And finally, as a reminder, we'll allow for plenty of time for Q&A today, so we ask that you limit yourself to one question and one follow-up, please. I'll now turn the call over to our chief executive officer, David Heard.
+David Heard
+--
+Chief Executive Officer
+Hey. Thanks, Amitabh. Good afternoon, and thanks for joining us today. I'll begin with the highlights from our preliminary third quarter results and then turn the call over to Nancy to cover the preliminary financial details of our third-quarter performance and the outlook for the fourth quarter, and the items referenced in the press release in Form 8-K we filed earlier this afternoon.
+Before I jump into the details of the quarter, I want to pause, take a step back, and focus on our quarterly accomplishments at a high level. Overall, the third quarter was another solid quarter for us, in which all financial -- preliminary financial metrics, revenue gross margin, operating margin, and EPS are expected to exceed the midpoint of our outlook range. We delivered strong bookings with the book-to-bill ratio above one. We continue to land new Tier 1 design wins for our Systems business.
+We won additional orders for our Subsystems business and are shipping our first vertically integrated Metro Systems this quarter, all while we expanded profitability on a year-over-year basis. Furthermore, as we look ahead to Q4, we're forecasting growth to be generally in line with the consensus view. While capital markets and macroeconomic conditions have been challenging, we've been keeping our heads down and remaining focused on executing our plan. For the full year of 2023, we currently project that we're still on track to grow revenue and deliver our sixth consecutive year of revenue growth.
+Expand the operating profit and EBITDA and drive greater than a 25% improvement in earnings per share, which would represent our fourth consecutive year of significant EPS expansion. These accomplishments directly reflect the strong execution against the strategy we laid out in our past two Analysts Days and add to our track record of doing what we say we're going to do. Getting into some of the specifics of the quarter, Q3 marked the 14th quarter out of the last 15, which we believe we have met or exceeded our outlook range. Bookings in the quarter were up sequentially and on a year-over-year basis, with most of the sequential growth driven by customers in EMEA, and the Americas.
+On a year-to-date basis, through Q3 and compared to the same period last year, we expect to report growth and revenue, expanded gross margin, increased operating margin, and improved EBITDA. Traction across our portfolio remained strong in the quarter, and I'd like to touch on some of the highlights, starting with our Systems Group. First, we won new strategic deals globally, including wins with two Tier 1 service providers in Europe, several subsea consortiums, an award to modernize and expand the nationwide network for a Tier 1 operator in Asia Pacific. The wins in Europe in Subsea are especially noteworthy as these are new customer logos, where we have no incumbency.
+Second, we continued our momentum with U.S. hyperscalers with year-over-year growth in both revenue and bookings. The strength in this customer segment was broad-based spanning multiple customers' applications, and Infinera products. And finally, we booked our first set of orders and recognized revenue from the Metro win we referenced during last quarter's earnings call.
+As a reminder, this is a turnkey award with a major US service provider, which includes our GX Metro platform along with our software suite and support services. In our Subsystems Group, a few noticeable accomplishments were: first, both the CFP2 and QSFP-DD versions of our 400-gig ICE-X pluggables are now commercially available. These two form factors give us flexibility of integrating our pluggables in our own Metro platforms, as well as in third-party hosts like routers and switches. In Q3, we received our first set of vertically integrated orders for our ICE-X pluggables and are in the process of shipping our first Metro systems with our own pluggables this quarter.
+This is a significant milestone and accomplishment for us and is consistent with the expectations we laid out in our Investor Day. We expect margin benefits from our own vertically integrated Metro platform to begin in 2024. Second, we remain on track to deliver the highest-performing and lowest-powered 800-gig pluggable that will leverage three-nanometer technology and enable our customers to reach greater distances and unmatched performance in economics, which also has landed us our first set of 800-gig component orders. And lastly, we're excited to see four new members of the Open XR Forum in the quarter.
+We built the solid pipeline for both pluggables and components and received additional purchase orders spanning the entire portfolio. As our Subsystems business expands, we expect to benefit from higher margins from both the vertical integration of our Metro portfolios as I described earlier and from the incremental operating leverage as we ramp the sales of external pluggables. In addition, we are continuing to pursue government funding available, both the state and federal levels via programs like The CHIPS Act to continue to supply the U.S.-made optical semiconductors to secure critical supply chains. These issues are increasing importance to our customers, and as a company with U.S.-based optical semiconductor fabrication and advanced test and packaging, we believe we are well-positioned for this opportunity.
+In closing, my confidence in our strategy portfolio on execution remains high as evidenced by our market share gains and financial progress over the past few years. In the short term, our customers are still going through a period of inventory digestion and remain cautious about spending in a recessionary environment. Our job in this environment is to focus on the highest priority spend areas, which are broad fiber deployment, data center build-outs, and new applications inside the data center while taking more than our fair share of orders and managing spending tightly. In the long term, demand for bandwidth continues to grow as hyperscalers accelerate the rollout of artificial intelligence and machine learning workloads and service providers drive fiber deeper into networks, pushing 100-gig to the edge, 400-gig in the Metro, and 800-gig in the core.
+It's apparent that the growth inside the data center over the next few years is creating new opportunities for our business. Clearly, coherent optical technologies and vertical integration are becoming more important than ever. Our guiding principles for the company remain unchanged and centered on continuing to expand market share in our Systems business across long haul Subsea and Metro, vertically integrating our Metro portfolio with our own pluggables which will expand margins, ramping up external sales of our pluggables, driving operating leverage in our business model, and meaningfully expanding earnings per share. I'd like to thank the Infinera team and their dedication and unwavering commitment to our customers and one another, and for continuing to deliver on innovation that matters.
+I'd also like to extend my thanks to our partners, customers, and shareholders for their ongoing support. Finally, my thoughts and prayers go out to the people of the Ukraine and Middle East who are suffering through these very unthinkable times. I'd now like to hand the call over to Nancy to cover the preliminary financial details of the quarter and our outlook. Nancy?
+Nancy Erba
+--
+Chief Financial Officer
+Thanks, David. Good afternoon, everyone. I will begin by covering our preliminary third-quarter results and then provide the preliminary outlook for the fourth quarter. For your reference, we have included the GAAP to non-GAAP reconciliation of our preliminary financials in our press release.
+As a reminder, any financial commentary or metrics provided today are based on our preliminary non-GAAP results. Before beginning our third-quarter results, I'd like to provide some contexts on why we are providing ranges today, and why the filing of our 10-Q is delayed as noted in the two SEC filings we made this afternoon. During Q3, our external auditors informed us of a routine PCAOB inspection of their work papers that randomly included their audit of Infinera's 2022 financial statements. Late in the third quarter, our auditors asked about our method of revenue allocation between products and services, and our documentation related to our closed cash and inventory cycle.
+As a result, in connection with the quarter-end close process, we reexamined the revenue recognition methodology we have been using historically, as well as our internal control documentation processes. Subsequently, we identified two material weaknesses in our internal control of our financial reporting and have concluded that they were present as of December 31st, 2022, and through the first three quarters of 2023. Based on our initial evaluation, we expect any adjustments to revenue will be shift in allocation between revenue that is deferred and revenue that is recognized upon delivery, and expect that there will be no lost revenue, only shifts in revenue between accounting periods. In addition to providing preliminary ranges for Q3 on our call today, we will also be providing our preliminary outlook for the fourth quarter.
+The information we are providing reflects our expectations regarding the allocation of revenue under our updated methodology. The scope of this review is limited to the matters I described. Based on the progress we have made in addressing them in a compressed period of time, we would hope to file the 10-Q reasonably promptly. Turning to the performance in the quarter, I am pleased with the continued momentum in our business.
+Preliminary revenue of $378 million to $392 million is expected to come in above the midpoint of our outlook range. This performance was primarily driven by strength in the Americas and EMEA with both ICP and service provider customers. Geographically, we derived approximately 60% of our Q3 revenue from domestic customers, a level generally consistent throughout the year. There was one ICP customer that accounted for over 10% of our revenue in the quarter.
+Q3 preliminary gross margin of approximately 40% to 42% is expected to be above the midpoint of our outlook range and up on a year-over-year basis. Compared to the prior year, gross margin in the quarter benefited from higher vertical integration, continued release in supply cost, product mix, and ongoing cost improvements and quality initiatives. Overall, I'm encouraged by the gross margin trend in 2023, with gross margin progressing toward our goal of 40% for the year. This margin expansion supports my confidence in our ability to deliver continued improvement in 2024 and beyond, as we vertically integrate our Metro portfolio and ramp up our external pluggables revenue.Preliminary operating margin in the quarter was 4.6% to 8% and above our outlook range.
+On a year-to-date basis, we expect to deliver higher operating margin compared to the same period last year, benefiting primarily from higher revenue and gross margin. Operating expenses in the quarter of $134 million were below our outlook range of $139 million to $143 million as we tightly managed quarterly spending while continuing to make substantial investments in our Subsystems business. The resulting preliminary diluted EPS is expected to be $0.03 to $0.08, also above our outlook range. Moving on to the balance sheet and cash flow items.
+We ended the quarter with $127 million in cash and cash equivalents, with no amount drawn on the ABL. From a cash flow perspective, the primary use of cash in the quarter was inventory as we prepare for client deliveries in Q4 and Q1 of '24 while reducing our overall purchase commitments. We believe Q3 marked a peak for our inventory in this cycle and we plan to generate cash from operations in Q4. Let me now turn to the outlook for the fourth quarter of 2023.
+Despite the near-term challenging macro and industry environment, we are planning for sequential revenue growth in Q4, in line with consensus expectations. Our preliminary outlook range for the fourth quarter is revenue of $421 million to $451 million. Gross margin of 38% to 41%. Operating expenses of $138 million to $142 million, and operating margin of 5.5% to 9.5%.
+Below the operating income line, we assume approximately $7 million for net interest expense and approximately $3 million for taxes. Finally, we're anticipating EPS of $0.05 to $0.13 per share, assuming a basic share count of approximately 230 million shares, and a fully diluted share count, if profitable, of approximately 260 million shares. Furthermore, at approximately the midpoint of our outlook range for Q4, the implied expectations for the full year are generally consistent to slightly better than our commentary on last quarter's earning call. Specifically for the full year and compared to 2022, we expect to deliver revenue growth, expand gross margin, operating margin, and EBITDA, and expand non-GAAP EPS by at least 25%.
+As I close today, I would like to reiterate that I am pleased with our performance year to date, especially considering the industrywide slowdown that we have been experiencing for the past few quarters. Our strategic initiatives are on track, and we should be on pace to deliver our sixth consecutive year of revenue growth and expand gross margins toward 40% for the year, and drive a greater than 1,000 basis points of operating margin expansion since 2019. Furthermore, we have proactively strengthened our balance sheet by refinancing the majority of our 2024 notes ahead of the continued increase in interest rates. We currently have approximately $19 million of the 2024 convertible notes due upon maturity in September of 2024.
+We remain laser-focused on continuing to drive meaningful EPS expansion and generating free cash flow in the quarters and years ahead. I would like to thank the Infinera team as well for their continued commitment to innovation and execution, and our partners, customers, and shareholders for your continued cooperation and support. I'd now like to open up the line for questions.
+Questions & Answers:
+Operator
+Thank you. [Operator instructions] Our first question is from Ruben Roy with Stifel. Your line is open.
+Ruben Roy
+--
+Stifel Financial Corp. -- Analyst
+Hi. Thank you for letting me ask some questions. Nancy, in just reading the press release and the comments from the auditors. Is there a change in your pricing methodology that's required here? And also, with your comments regarding Q4 and the guidance, were the guidance have been different without the kind of change in accounting?
+Nancy Erba
+--
+Chief Financial Officer
+First, there's no change in our pricing approach. Our pricing approach has been consistent, last for many years now in terms of how we sell our product, sell our technology, and work with our customer base. As far as Q4, I mean, the range is, where we see the range today, it does include the new methodology that we mentioned. But if you look at our preliminary range for Q3, you can see the magnitude of impact from that adjustment, is, I would say, limited.
+So, I feel -- we feel good about the Q4 outlook range today.
+Ruben Roy
+--
+Stifel Financial Corp. -- Analyst
+That's great. Thank you. And as a follow-up, David, great to hear about the Subsystems' progress, and as that progress comes, there's, of course, sort of the naysayers and this concept of Metro DSCI cannibalization from pluggables potentially, etc. And just wondering if you have an updated thought on how you see that, clearly, there are reach limitations and the potential benefits, it's not as simple a one-to-one replacement, but would just love to hear updated thoughts as you get closer to shipment.
+David Heard
+--
+Chief Executive Officer
+Sure. Not every service provider end certainly doesn't follow the same strategy and neither do webscalers. So, our strategy has always been build the world's best transponders, whether they're in an embedded solution to service, long haul Subsea or Metro high capacity inside an optical system, or whether that transponders miniaturized inside a pluggable, that is able to provide Metro reach and quite frankly, over time, some of the same functionality has been embedded. So, we're on both sides of the equation, they all come back to our core competence of building vertically integrated transponders with our own optical semiconductors.
+Ruben Roy
+--
+Stifel Financial Corp. -- Analyst
+Got it. Thanks for the detail.
+Operator
+The next question is from -- my apologies. The next question is from Alex Henderson with Needham. Your line is open.
+Alex Henderson
+--
+Needham and Company -- Analyst
+Thanks. So, just to be clear, there is no impact on the margin structure at all, no changes in the gross margin as a result of the accounting change. I'm looking at the guide for the gross margins for the third quarter to fourth quarter, it looks to me like there's not much real improvement in that margin sequentially. And I would think that that would be the case given the ramp of your chip production.
+Nancy Erba
+--
+Chief Financial Officer
+Yeah. So, a couple of things. If there is an adjustment to revenue, it would be at a 100% margin, right? So, it would flow straight through to the bottom line. But you're right, there's no change to our overall margin structure, our target business model remains unchanged.
+And we're really pleased with the progress we've made in Q3, getting to a four in the handle of gross margin is something we've been driving to for quite some time. So, we're very happy to see that. In terms of Q4, yeah, there's certain mix of customers and products. But you're right, there's also the ramp of the new technology.
+So, it's a combination there.
+Alex Henderson
+--
+Needham and Company -- Analyst
+OK. Can you give us any thoughts on whether you're going to be stepping up hiring or reducing hiring as we go into 2024? I realize you haven't done your budget yet. But any commentary along granularity around that would be very useful.
+David Heard
+--
+Chief Executive Officer
+Yeah. I think from an expense and investment perspective, Alex, you've seen over the last couple of quarters, we've really been holding tightly in expense through this kind of climate. It's a little early to be talking about the '24. But certainly, we think '24 will have a bit of a lighter front half, heavier back half, we still believe we will grow and the market will grow.
+And we will grow faster than the market. I don't think we're going to go crazy in terms of adding lots of resources, we're going to continue to try to drive efficiency to really ensure we're getting operating leverage.
+Alex Henderson
+--
+Needham and Company -- Analyst
+Great.
+David Heard
+--
+Chief Executive Officer
+So, we'll give you a bit more profound detail around 2024 in terms of both what are top-line expectations, and the expectations for margin in bottom line. Good news on the margin front is we're really seeing the impact that these things can have. And as the pluggables continue to ramp up, they will continue to help that margin profile in the early days as you just suggested, we're at pre-entitlement periods. And for the first quarter or two, those are not hitting at the same volume potential that they will at scale.
+Alex Henderson
+--
+Needham and Company -- Analyst
+OK.Thank you.
+David Heard
+--
+Chief Executive Officer
+Thanks, Alex.
+Operator
+The next question is from Simon Leopold with Raymond James. Your line is open.
+Simon Leopold
+--
+Raymond James -- Analyst
+Great. Thanks for taking the question. It looks to me like your ICP business year to date is up something on the order of 30% plus. And so, I get sort of the lumpiness quarter to quarter.
+I'm trying to get a better sense of how to think about that particular vertical over the next several quarters, next year, however you want to frame it, given I see sort of two opposing forces. One is the tough comparison. But two is what sound like favorable trends in terms of that group of operators and their spending. You help me with that?
+David Heard
+--
+Chief Executive Officer
+Yeah. I think I can. But again, I'm not going to lay out complete '24. Look, I think that for the first time in our history, we are engaged with all the major hyperscalers in some way, shape, or form and some on multiple technology fronts.
+So, I'm on pluggable as well as embedded technologies in Software and Line Systems. So, I would expect that when I look at their capex, not just from what they're publicly announcing, but we're planning with them for that segment to continue to be robust, although, again, lumpy, and how they roll out in quarters but for full years to be robust in '24 and '25.
+Simon Leopold
+--
+Raymond James -- Analyst
+And I just want to get a little bit maybe clarification on the accounting weakness that was identified. I just want to get an understanding of what might have changed. Was there something that changed in the accounting team, something that changed that triggered the review? Sort of the why now?
+Nancy Erba
+--
+Chief Financial Officer
+So. Yeah, I mean, first of all, no, nothing has changed in terms of the team. And we've been, you've seen continuing to improve our processes over time. This was an inspection of our auditor, by the PCAOB, that was randomly impacting Infinera, meaning, they had an inspection Infinera's kind of name withdrawn, so to speak.
+The methodology that we use, they had questions about in terms of our approach to how we allocate between hardware and software and services. We reviewed some of their questions, some of their suggestions, and we agreed that we needed to make a change to that methodology. But that simply changes quarters in which revenue is recognized, it does not change. In total, the revenue amount that we will recognize over the life of a contract.
+And as you can see from the range we showed in Q3, is limited in scope. I mean, in terms of the absolute magnitude, you can think of it as, a quarter of a percentage up to maybe a few percent in any particular period, but we don't expect it to be something that that slows us down. We're continuing to execute and operate. We are working through the remaining work that we have to get done with our auditors and we will try to file our 10-Q as quickly as possible.
+David Heard
+--
+Chief Executive Officer
+Yeah. That's why we were comfortable with the ranges we put out and putting out our Q4 guidance. But obviously, given this a slight late in the process, Nancy's team has to work through this with the auditors that to file the 10-Q. So, that's where we're at.
+Simon Leopold
+--
+Raymond James -- Analyst
+Thank you.
+Nancy Erba
+--
+Chief Financial Officer
+Thanks, Simon.
+David Heard
+--
+Chief Executive Officer
+Thanks, Simon.
+Operator
+The next question is from Mike Genovese with Rosenblatt Securities. Your line is open.
+David Heard
+--
+Chief Executive Officer
+Hi, Mike.
+Mike Genovese
+--
+Rosenblatt Securities -- Analyst
+Hey. Hi, David. I mean, really nice results and nice outlook and particularly with the book-to-bill being above one in the third quarter. I guess my question is, I mean, particularly, as you mentioned, with competitors or others in the industry, seeing weaker trends, and you guys coming through here.
+I'm just wondering -- and the one-tenth percent customer being a webscaler? Are the orders more than normal, weighted toward webscale? Or are you also seeing this sort of strength in share gain with traditional telco customers as well?
+David Heard
+--
+Chief Executive Officer
+Yeah. Thanks for asking the questions. So, yeah, well, certainly we're doing very well, that we've covered with the webscalers. I will tell you we want a couple new Tier 1 lovers in Europe that we had never had before.
+And so, that's -- those are nice wins for us, as well as in the Metro, you see, we continue to make big progress and gaining share. When I look at our 40 G30 platform, our GX platform, and I look at the year-over-year comparables to what we're doing there in terms of product bookings, as well as product billings, they are profoundly. So, we are making inroads with service providers in different deals. We talked about India in our last call, in Europe, as well as we saw nice strength in both Europe and America as this last quarter.
+So, again the strategy we laid out at our Analyst Day that eight by four by one is winning in the core, winning in the Metro and then driving to the edge is what we got our heads down and we're executing to.
+Mike Genovese
+--
+Rosenblatt Securities -- Analyst
+Sounds good. And then on the restatement project. I mean, it sounds like you're saying that Q will be filed relatively on time, which to me suggests like this month. Is that reasonable?
+Nancy Erba
+--
+Chief Financial Officer
+Yeah. First, this was not -- we are not indicating a restatement. So, we are still doing our work. We are highlighting the range, our preliminary range for Q3 and Q4.
+We do have work still to complete, which is why we filed the extension on our Q. Our objective is to get it done as soon as practical. So, you can probably think of that in weeks mostly if anything longer than that.
+Mike Genovese
+--
+Rosenblatt Securities -- Analyst
+OK, good. And then finally, really happy to hear about the refinancing of the convertibles and there's only $19 million due in September of '24. I think that that's great news. But since we don't have the Q, I'm just curious, is everything now beyond that are the maturities in '27 and '28 and beyond? Or do we have things coming due in '25 and '26?
+Nancy Erba
+--
+Chief Financial Officer
+No, so there's $19 million due in September of '24. And we did file at the time of that refinance. So, you can see the details there, and Amitabh can send them to you if you need. And then the next set of maturities, you're right, are in '27 and '28.
+Mike Genovese
+--
+Rosenblatt Securities -- Analyst
+OK. Great. Fantastic.
+David Heard
+--
+Chief Executive Officer
+And what was the effective interest rate with us?
+Nancy Erba
+--
+Chief Financial Officer
+Our average right now is 3.3%.
+David Heard
+--
+Chief Executive Officer
+OK. Thanks.
+Mike Genovese
+--
+Rosenblatt Securities -- Analyst
+Great. Everything sounds good. Thanks.
+Operator
+The next question is from Dave Kang with B. Riley. Your line is open.
+Dave Kang
+--
+B. Riley Securities -- Analyst
+Thank you, and good afternoon. Yeah. Hi. Just regarding on bookings, I think last quarter you said that you expect bookings to increase throughout the second half.
+So, should we expect bookings to be up once again in fourth quarter sequentially?
+David Heard
+--
+Chief Executive Officer
+That's the only area we don't actually forecast. Dave, we don't forecast bookings. But I think what we said is that we thought that bookings would continue to accelerate in the back half. There is some lumpiness in bookings.
+But overall, we see a trend, both in Q3 and Q4, versus the first half that is up at this point, Kang.
+Dave Kang
+--
+B. Riley Securities -- Analyst
+Got it. OK. And then, also last quarter, you said, Tier 1s were still in inventory correction mode, while smaller service providers, they seem to be doing better. Have they changed in the -- since 90 days ago?
+David Heard
+--
+Chief Executive Officer
+No, I think that you've heard in the industry, everybody's very tight with the capital dollar with interest rates and the economy and the externalities geopolitical forces at play. But that's what you heard, my prepared remarks said, our goal is to win more than our fair share and to ensure that the priority of the orders which with the service providers is rolling out fiber deeper into the edge of the network to get these applications built. And the -- the webscalers that we're dealing with are building out AI infrastructure, and that is fueling demand. So, we're focused on every order dollar that's up and available, and our job is to take more than our fair share.
+Dave Kang
+--
+B. Riley Securities -- Analyst
+Got it. Thank you.
+David Heard
+--
+Chief Executive Officer
+Thanks, Dave.
+Operator
+The next question is from Meta Marshall with Morgan Stanley. Your line is open.
+Karan Juvekar
+--
+Morgan Stanley -- Analyst
+Hi. This is Karan on for Meta. So, you sort of mentioned inventory being a source of cash next quarter, I guess, just generally, what gives you confidence in that and maybe just how much of a source of cash can it be for next quarter and maybe across the year next year?
+Nancy Erba
+--
+Chief Financial Officer
+Yeah. We have been using working capital over the last several quarters through this period of time of the inventory adjustment. We think inventory has peaked in Q3. I will say, though, we've been sharing with you that our total commitments, if you look at both the inventory on our books, as well as the commitments to our RCM is actually down Q2 to Q3, and then we expect to reduce inventory and the inventory commitments total, again in Q4.
+So, that cash flow will start in Q4 and flow into Q1. I can't give you a real magnitude at this point. But more to just say that the trend is now turning in the right direction there.
+David Heard
+--
+Chief Executive Officer
+Yeah. So, I think in the quarter our inventories were up close to $40 million-ish in Q3, and our overall obligations, purchase obligations plus inventory were down 20. So, despite the inventory being up total net liability down 20. And we expect that to peak and then again, given the nice book-to-bill and what our outlook is for Q4 and projects from backlog for Q1, we expect that to go down.
+Karan Juvekar
+--
+Morgan Stanley -- Analyst
+OK, got it. That's helpful. And then just a quick follow-up on the service provider side you mentioned service seeing the continued strength there. I guess just generally, in terms of customer conversations, are you getting any pushback on the pricing front during sort of this pause?
+David Heard
+--
+Chief Executive Officer
+We always get pushed back on the pricing front, but our job is to make vertically integrated products that provide price performance, not just by reducing the price tag, but actually the effective dollar per bid and watts per bid. So, and I do want to correct, when I say, service provider strength, do not write that up. There are pockets of strength based on priority is spent. Overall, there is still muted environment of conservatism around capex dollars.
+And I expect that our team is in planning mode and out with our customer base now. And we\re in the process of locking down our plans for 2024 accordingly.
+Karan Juvekar
+--
+Morgan Stanley -- Analyst
+Perfect. Thank you. Appreciate it.
+Operator
+The next question is from George Notter with Jefferies. Your line is open.
+George Notter
+--
+Jefferies -- Analyst
+Hi. Thanks a lot, guys. I am curious about the mix of ICE-X as a percentage of product sales, and then also the mix of vertically integrated sales as a percentage of product sales. Do you guys have those numbers?
+David Heard
+--
+Chief Executive Officer
+We do. ICE-X was just under 30%. The vertical integration was at 57%-ish.
+George Notter
+--
+Jefferies -- Analyst
+Got it. OK. And then as I think about driving those numbers forward, obviously the XTM and GX redesigns are kind of the key elements there. Can you tell me where you guys are on that? I think you said one of those products is going to be available by year-end for revenue.
+Obviously, your customers also have to test those products. How long do you think those testing processes will take? What do you think it looks like in terms of really turning those numbers upward in terms of vertical integration of products?
+David Heard
+--
+Chief Executive Officer
+Yeah. The bookings of the GX series are up significantly. And we should probably put that out in our next earnings cycle to show the percentages of that and what's the embedded base for GX is growing on the top. So, we'll do that, George.
+But now those products are ready, the software, the OS, everything we've done over the last years to make them productive from Metro long haul and aggregation. So, that's great. What we talked about, George was, we were shipping the first one to a customer that not only had the GX but had the -- our own pluggables in them. And so, that will actually go out, that's going out right now this quarter, and thus will either revenue in this quarter or in Q1, thus the start of the vertical integration.
+So, now all of our GX platforms that are out there, where we might have used our merchant CFP2 or pluggable in it, are able to incorporate our pluggable and we're going through various stages of integration testing with those clients. Obviously, if we can provide them better price performance, they're eager to have us implement. So, we'll try to make sure, George, going forward in 2024, I think that's a good metric for us to start looking at.
+George Notter
+--
+Jefferies -- Analyst
+And then integration --
+David Heard
+--
+Chief Executive Officer
+Total vertical integration -- yeah.
+George Notter
+--
+Jefferies -- Analyst
+Sorry, go ahead.
+David Heard
+--
+Chief Executive Officer
+No, go ahead.
+George Notter
+--
+Jefferies -- Analyst
+I was just going to ask about the mix of vertically integrated product. Obviously, we're looking for that to step up as the year goes on next year. Like, what do you think is doable in terms of that mixture?
+David Heard
+--
+Chief Executive Officer
+Again, I don't want to get too far ahead of the season into 2024. But I think what we said was that we thought over 60 and over time that that can approach 70.
+George Notter
+--
+Jefferies -- Analyst
+Great. OK. Thank you.
+David Heard
+--
+Chief Executive Officer
+Thanks, George.
+Operator
+The next question is from Christian Schwab with Craig-Hallum Capital. Your line is open.
+David Heard
+--
+Chief Executive Officer
+Hi, Christian.
+Christian Schwab
+--
+Craig-Hallum Capital Group -- Analyst
+Hey. Thanks for taking my questions. Just two quick ones. We don't want to talk about '24.
+But I missed some of the prepared comments. Did we reiterate our outlook for dollar share earnings in '25 and '26?
+David Heard
+--
+Chief Executive Officer
+Yeah. We did not, but we have not pulled off that. And I think when you see the -- I think what we said in our last earnings call, is that we continue to expand EPS this year in 2023 by 25%. And a big goal of ours next year isn't just the growth in the top line, but we're super-focused on growing our bottom-line dollars and that EPS percentage so that we're not pulling off that at all.
+Christian Schwab
+--
+Craig-Hallum Capital Group -- Analyst
+Perfect. And then, as far as you know, last quarter, you guys talked about a lot of different growth opportunities in India. Can you give us an update on how those growth opportunities are going and what your future expectations are geographically for India?
+David Heard
+--
+Chief Executive Officer
+Sure, I'll start with overall just growth expectations. So, we talked in the prepared remarks about landing a couple of Tier 1s in Europe, we continue to extend with the hyperscalers. And overall, we had a book-to-bill above one, which was nice to see again after Q1 and Q2 being below one. So, I think overall, we feel very good, it's probably the best we've felt across our customer segment about our engagement.
+Now, that being said, we're in a tough economic climate for them. So, what's important to do in these times is engage, understand their needs, and put things forward that help them drive the priority of their capex spend at the lowest dollar for bid, lowest watt per bet. And the best ease-of-use because they're going to be, as you've seen, they try to limit their operational personnel that a lot of them have become thinner in the field, and we can help that. That's where we want to be.
+Christian Schwab
+--
+Craig-Hallum Capital Group -- Analyst
+Great. No other questions. Thank you.
+David Heard
+--
+Chief Executive Officer
+Thanks.
+Amitabh Passi
+--
+Head of Investor Relations
+Thanks, Christian.
+Operator
+The next question is from Alex Henderson with Needham. Your line is open.
+Alex Henderson
+--
+Needham and Company -- Analyst
+Super. Thank you. A lot of companies that went through the supply chain issues saw a fairly large increase in backlog, which then allowed them to produce pretty strong shipments as a result of the supply chain allowing them to ship more product out against that backlog. A number of them have talked about significant comparison challenges because of it.
+As one example, if you look at F5, they had a 45% growth in the second quarter, and ADCs and businesses flat to declining. So, they obviously have a tough comp. Can you talk whether you have a comparison issue in any of the upcoming next four or five quarters as a result of that? And whether that is playing a role to the improved shipments. And on your book-to-bill, it's nice that you're above one in the third quarter.
+Were you above one to the year? Thanks.
+David Heard
+--
+Chief Executive Officer
+No, we have not been above one for the year. But back to you, I think you're key premise I think if you look at our operating results over the last three years, you don't see wild swings in terms of us growing 25% one year and flat in other. You see kind of high single-digit to double-digit growth in top line. And this year has been a bit more muted, given the economic climate.
+But so far for the first three quarters, we're looking good. We didn't have that big spike. So, as the share-taker in our position, as long as the market continues to grow, we will grow, our pilgrimage is to grow ahead of that market and to continue to really expand EPS growth.
+Alex Henderson
+--
+Needham and Company -- Analyst
+Great. Thanks.
+David Heard
+--
+Chief Executive Officer
+The simple answer, Alex, no, we don't have as tough of a comparer. I think and given we've kind of been steady Eddie.
+Operator
+There are no further questions at this time. I'll turn it back to the presenters for any closing remarks.
+David Heard
+--
+Chief Executive Officer
+Yeah. Now, I appreciate the thoughtful questions. And again, in this environment overall, we delivered another strong quarter with projected sequential revenue growth, strong bookings, and higher margins, hitting that 40%. We've got the right strategy and are executing our plan.
+Our portfolio is in the best shape it's ever been. And we're winning customers globally across the segments. We do appreciate the support of our customers, employees, and shareholders. And now we're going to get back to work, continuing to execute a very sound investment strategy and focus on continued EPS expansion.
+Thanks again for the calls. Be safe and take care.
+Amitabh Passi
+--
+Head of Investor Relations
+Thank you.
+Operator
+[Operator signoff]
+Duration: 0 minutes

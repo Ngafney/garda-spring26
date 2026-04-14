@@ -1,0 +1,162 @@
+[
+  {
+    "speaker": "Unknown",
+    "role": "",
+    "text": "Full Conference Call Transcript"
+  },
+  {
+    "speaker": "Roy Zisapel",
+    "role": "",
+    "text": "Thank you, Yisca, and thank you all for joining us today. I'm pleased to report another strong quarter, marking our fourth consecutive quarter of double-digit revenue growth. In the second quarter, revenue increased 10% year-over-year to $74 million. Non-GAAP earnings per share rose 39% year-over-year to $0.28, highlighting the continued scalability and efficiency of our business model. We also generated $14.5 million in cash flow from operations, further underscoring the strength and resilience of our operations. These results reflect the successful and consistent execution of the strategy we've implemented over the past couple of years to become the best-of-breed provider in application and data center security. This strategy is driven by 3 pillars: gaining significant market share in cloud security, leading with algorithm and AI-driven innovation and automation and expanding our go-to-market presence. Cloud security continues to be our primary growth engine. In the second quarter, we accelerated cloud ARR growth from 19% to 21% year-over-year, reaching $85 million. With that, we surpassed our short-term target of 20% year-over-year growth rate. Total cloud bookings and the number of cloud active customers also demonstrated impressive growth last quarter, further validating our strategy and execution. This achievement reflects our strengthened competitive position, higher win rates and increased participation globally. One of the growth drivers for our Cloud Security business is the increased adoption of our cloud-based API protection solutions. The API security solution use AI-driven capabilities to secure APIs and business logic in real time. What differentiates Radware for our competition is our ability to automatically and continuously map business logic, generate and optimize protection rules and enforce them in real time. Ultimately, we're helping customers automate protection and respond faster to threats. The market demand for securing API traffic is translating into meaningful wins, including deals with a European government, a major Asian bank and a global sporting event. Our leadership in this space was recognized in the GigaOM Radar for application and API security. In the report, we were named a leader and fast mover for our AI-driven capabilities in vulnerability detection, account takeover protection and bot management. With AI becoming deeply embedded in enterprise workflows, our leadership in agentic infrastructure security continues to position us as a trusted partner. Defending against AI-powered threats demands AI-powered defense, and that's exactly what we continue to build with our EPIC-AI framework. Our AI-powered SOC is a cornerstone of our AI defense strategy, purpose-built to detect and mitigate DDoS attacks in real time. It continuously analyzes global traffic patterns using behavioral baselines, anomaly detection and machine learning to identify with high accuracy, attacks that escape the security controls. Once detected, SOC-X automatically comes with the analysis and specific recommendations how to mitigate the attack in real time, dramatically reducing the mean time to resolve, thus providing significantly better business outcomes for our customers. This capability has earned us some major second quarter wins. For instance, we secured a 7-digit deal with a major global event organization. Based on our proven ability to address current and emerging threats, the organization selected Radware full security stack, including our AI SOC expert to protect their digital infrastructure and applications. Our AI SOC expert was also part of another major cloud deal last quarter. A leading U.S. financial technology company selected our solution as part of its data center consolidation and cloud migration strategy. This deal reflects the customer need to offload manual tasks from its network and security teams, allowing them to focus on driving efficiency and innovation across their broader technology stack. Our cloud platform ability to deliver better protection for core applications while enhancing operational agility was a key differentiator in securing this win. In the second quarter, we continued to advance our go-to-market strategy by deepening and expanding our relationship across our partner and channel ecosystem. These efforts contributed to securing multiple major wins, including a 7-digit deal with one of Latin America's largest data center providers. To improve their security, resource performance and support issues, the customer replaced its existing solution with our hybrid cloud DDoS solution. Our technical edge and strong execution alignment were key to the win. We also closed another 7-digit deal with a European government, a partnership win that will strengthen our presence in the public sector in that country. The hybrid deals span multiple solutions and 250 applications. Our cloud platform's unified management, visibility and protection for both cloud and on-prem applications and our strong partner alignment were key contributors to this competitive takeout. In closing, our second quarter results underscore the strength of our strategy and disciplined execution across the business. Cloud security remains our primary growth engines, marked by strong cloud ARR momentum and accelerating growth rates. Our AI-driven innovation continues to enhance our platform capabilities and to drive meaningful differentiation in the market. At the same time, deeper engagement with our partners and channel ecosystem is enabling us to scale more efficiently and win new customers. With a growing pipeline and expanding partner network and rising global demand for AI-based security solutions, we believe our current momentum and strategic focus position us to pursue long-term growth opportunities and deliver long-term value. With that, I'll turn the call over to Guy."
+  },
+  {
+    "speaker": "Guy Avidan",
+    "role": "",
+    "text": "Thank you, Roy, and good day, everyone. I'll provide an overview of our financial results and business performance for the second quarter as well as our outlook for the third quarter of 2025. Before beginning the financial overview, I would like to remind you that unless otherwise indicated, all financial results are non- GAAP. A full reconciliation of our results on a GAAP to non-GAAP basis is available in the earnings press release issued earlier today and in the Investors section of our website. We delivered solid financial results in the second quarter of 2025, with revenue growing 10% year-over-year to $74.2 million, driven primarily by continued strength in our Cloud Security business. Total ARR increased by 8% year-over-year to $235 million, with cloud ARR growth accelerating from 19% to 21% year-over-year, reaching $85 million. This momentum reflects the growing demand for our cloud solution and the increase in shifting towards recurring revenue, which now represents 84% of total revenue, up from 82% in Q2 of last year. Looking at regional performance. The Americas revenue was stable year-over-year at $30.1 million, representing 41% of total revenue. On a trailing 12-month basis, the region grew 11%. EMEA delivered strong growth with Q2 revenue up 22% year-over-year to $27.8 million, accounting for 37% of total revenue. Trailing 12 months growth was 17% and APAC revenue increased 30% year- over-year to $16.3 million, contributing 22% of total revenue. On a trailing 12-month basis, APAC grew 5%. Turning to profitability. Gross margin remained strong at 82.2%, consistent with the prior year. Operating income grew more than 50% year-over-year, reaching $9.5 million, up from $6.3 million in Q2 2024. As we noted last quarter, we are following our plan and increasing investment in sales, marketing and R&D, particularly in cloud and AI innovation to capitalize on the robust demand for our leading security offering and the long-term market opportunities. Our recurring business model continues to demonstrate strong leverage, enabling us to fund those growth initiatives. Radware adjusted EBITDA for the second quarter of 2025 increased by 37% to $11.4 million compared to $8.3 million in the same period last year. Excluding the Hawks business, adjusted EBITDA was $14.1 million, representing a 19% EBITDA margin, up from $11 million and 16.4% EBITDA margin in Q2 2024, reflecting improved operational efficiency and scale in our core business. Financial income for the quarter was $5.4 million, up from $4.1 million in the same period last year. Our effective tax rate for the quarter was 15.4%, in line with Q2 2024. We expect the effective tax rate to remain approximately at this level in the coming quarter. Net income rose 43% year-over-year to $12.6 million compared to $8.8 million in Q2 2024 and diluted earnings per share increased by 39% to $0.28, up from $0.20 in the same period last year. Turning to the cash flow and balance sheet. Cash flow from operations in Q2 2025 was $14.5 million compared to $23 million in the same quarter last year. We ended the quarter with a strong balance sheet, holding approximately $459 million in cash, cash equivalents, bank deposits and marketable securities, providing us with the flexibility to continue to invest according to our plans in cloud security and AI innovation. Looking ahead, we remain focused on growing our cloud ARR and gradually accelerating it beyond the current 21% year-over-year growth. This goal is supported by continued investment in cloud security innovation, the integration of AI-driven capabilities in our solution and the expansion of our go-to-market strategy. These initiatives are designed to unlock new growth opportunities and support a longer-term trajectory in cloud ARR performance. And now to the guidance. We expect total revenue for the third quarter of 2025 to be in the range of $74.5 million to $75.5 million. We expect Q3 2025 non-GAAP operating expenses to be between $51.5 million to $52.5 million, and we expect Q3 2025 non-GAAP diluted net earnings per share to be between $0.26 and $0.27. I'll now turn the call over to the operator for questions. Operator, please?"
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "[Operator Instructions] The first question comes from George Notter with Wolfe Research."
+  },
+  {
+    "speaker": "George Charles Notter",
+    "role": "",
+    "text": "I guess I was curious about sort of what you're seeing in terms of early returns from the sales and marketing investments. I think you added 30 people in the North American selling organization. I'm just wondering if you're seeing signs of progress? Are you seeing improved pipeline? How are you feeling about your investment in sales another 3 months along?"
+  },
+  {
+    "speaker": "Roy Zisapel",
+    "role": "",
+    "text": "Okay. George, welcome back. Yes, I think the investment we've done last year in North America is paying off for us. We're definitely seeing good traction in the market. We're starting to see stronger pipeline, better engagement with existing and new customers. nice wins starting to shape up. Our forecast for the coming quarters is becoming better. So overall, I think the first wave of investments that we've done and the alignment has shaped up pretty well. As we noted last quarter, we are increasing investments across the business and specifically North America. We increased our executive bench there, and we are planning to further increase. We started it last quarter. And I think also some of what Guy mentioned in the OpEx is a result of that. We are going to further increase our investments in that market. We think it's a great opportunity for us."
+  },
+  {
+    "speaker": "George Charles Notter",
+    "role": "",
+    "text": "Got it. Okay. And then I know there was also a bifurcation of the selling organization. I think you moved folks from kind of overall model to a hunters and gathers model. Are you seeing benefits there? What does that look like? Any insights would be great."
+  },
+  {
+    "speaker": "Roy Zisapel",
+    "role": "",
+    "text": "Yes. So when I said the alignment, I was actually referring to that. So that split to more acquisition-oriented teams and more account management and farming teams, I think, played pretty well. I actually are already seeing much better coverage of the existing customers. I think we're seeing that in more upgrades and cross-selling activity in the existing customers and very successful hunting motion in new accounts. I'm actually excited about the pipeline we've built that the early wins we already saw in Q2 the first wins. But I think there's much better news ahead of us, and I'm looking forward to that. I'm very excited of that organization."
+  },
+  {
+    "speaker": "George Charles Notter",
+    "role": "",
+    "text": "Great. That's terrific. And then I also wanted to just ask about the DefensePro X progress. Just curious if you could give us a sense for how much of your sales mix on hardware is now DPX. And then I know that business pulls along more subscription revenue. I'm kind of wondering what that looks like as well. And that's my last question."
+  },
+  {
+    "speaker": "Roy Zisapel",
+    "role": "",
+    "text": "Right. So I think on the on-premise DDoS mitigation, everything now, 100% is in Q3 will be DefensePro X. As a matter of fact, we just announced the end of sale for the last DefensePro 8 platform last quarter, which, by the way, brings us a whole additional layer of installed base to refresh in the coming 24 months. So all our new sales are now DefensePro X. We believe it's by far the strongest DDoS mitigator. We put all our latest and greatest algorithms there. Customer feedback is very good. I think also this quarter, I was just told we won a large new SaaS provider, competitive displacement with DPX and based on the specific new attack mitigations, it can mitigate. So I think here, we have a strong refresh cycle. We're still early there, but both for existing customers and new customers, I think we have a very, very strong platform."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Our next question comes from Chris Reimer with Barclays."
+  },
+  {
+    "speaker": "Chris Reimer",
+    "role": "",
+    "text": "Congratulations on the strong results. I was wondering if you could comment maybe on the dynamics in the Carrier segment, which showed an uptick this quarter. And can you give any color around the dynamics just in general in the U.S., not related to your investment or expansion? I was thinking more around customer behavior and in any kind of increased spending environment? Or could you characterize any behavior that's changed versus the last year?"
+  },
+  {
+    "speaker": "Roy Zisapel",
+    "role": "",
+    "text": "Okay. Thanks, Chris. So first, on the Carrier segment, we're seeing several major applications we're selling to. One is selling them equipment that they can use to protect their own network. Second is them using our solutions, sometimes cloud, sometimes appliances to build an MSSP business. And third is the more traditional ADC business. I think in general, I'm not seeing carriers increasing their investment significantly. However, I think we're seeing more and more opportunities. And I think that's actually a good opportunity for the future to partner with carriers on their MSSP business and actually leveraging our cloud solutions to protect their customers better. So we will track it in the coming quarters, our progress in that area. But that's a place that globally, I think we're seeing good opportunities. As it relates to North America specifically, I think on the enterprise market, we are still seeing, especially on the large enterprise, long sales cycles, more budget concerns, long cycles, more attention to spend, et cetera. I think we were able to or we are able now and hopefully, in the coming quarters even to do better than that to accommodate that simply by increasing our pipelines and increasing our customer engagements and the investments that we've done together with the critical nature of our cloud security platform. So I don't think the market is in an excellent situation, but not in a bad either. So somewhere in the middle, not a lot of change versus last quarter, budget constraints, but still investments in critical security, in AI security continues."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Our next question comes from Ryan Koontz with Needham & Company."
+  },
+  {
+    "speaker": "Ryan Boyer Koontz",
+    "role": "",
+    "text": "Question on -- you talked about AI as a tool for attackers. But I wondered if the implementation of Agentic AI by your enterprise customers is changing their attack surface much on the APIs yet? Or is it still too early to see that?"
+  },
+  {
+    "speaker": "Roy Zisapel",
+    "role": "",
+    "text": "It's a great question. I think it changes dramatically, the attack surface and the enablement of applications. I think we're starting to see early signs of that. I don't think it's yet centered to the enterprise applications, but we're definitely very focused on that. I think it's another possible wave of growth for our cloud security. We're highly investing in these directions, both for AI applications, for APIs and so on. So early, but it's going to be very critical because the nature of attacks, the sophistication of attacks is very different."
+  },
+  {
+    "speaker": "Ryan Boyer Koontz",
+    "role": "",
+    "text": "That's great. Really appreciate that. And on your comment around MSSPs, sounds like some increased activity there. Are you seeing any changes in the MSSP business models in terms of their product portfolios and offerings? Or is that a pretty static environment today?"
+  },
+  {
+    "speaker": "Roy Zisapel",
+    "role": "",
+    "text": "I think it starts to change because there's a strong demand from customers. So I think the customer expectations from their providers are increasing even from the basic need of compliance. We're seeing more and more compliance requirements that those customers must adhere to, and they are turning to their providers to fulfill them. So I think there's -- the more applications they put online, whether it's in private cloud or public cloud, the more AI tools they're using, the more APIs they're using, the more compliance and regulation is being developed by governments around the world. So the evolution of the MSSP portfolio must keep pace with. And as a result, I think that, for example, cloud application security that in the past was not part in large of an MSSP portfolio. They were more focused on SIEM, managed SIEM, managed SOC, managed EDR, managed firewall, I would say, the more fundamental network and end user-centric security with the rise of the criticality of the applications, I think there's a shift that starts. And we are definitely seeing that again as an opportunity to leverage our cloud platform. It's very easy to partner with us in that regard and follow that trend."
+  },
+  {
+    "speaker": "Ryan Boyer Koontz",
+    "role": "",
+    "text": "Super interesting. Maybe one last one, if I could squeeze it in. Just any commentary around the competitive environment globally?"
+  },
+  {
+    "speaker": "Roy Zisapel",
+    "role": "",
+    "text": "I don't have a lot much to say about that. I don't see any like big changes in the vendors. I can tell you that we are seeing an increase in our win ratio in our cloud platform. So I think the innovation we're bringing, and I continue to report almost every call on another analyst firm that positioned us as a leader. And this quarter, I mentioned API security. I know a week ago, we published another analyst that positioned us as a leader in DDoS. So the continuous innovation on one end and coupled that with more channel activity and more partner activity and OEM activity by Cisco and Check Point, I think all of that together is actually increasing our win probabilities. So we feel comfortable with the current competitive climate and we plan to continue to push forward our differentiation."
+  },
+  {
+    "speaker": "Ryan Boyer Koontz",
+    "role": "",
+    "text": "You're not seeing any new entrants on the competitive landscape?"
+  },
+  {
+    "speaker": "Roy Zisapel",
+    "role": "",
+    "text": "New entrants, can you repeat, please? I didn't hear you well."
+  },
+  {
+    "speaker": "Ryan Boyer Koontz",
+    "role": "",
+    "text": "Sorry about that. Yes. Are you're not seeing many new entrants in your DDoS and [indiscernible]?"
+  },
+  {
+    "speaker": "Roy Zisapel",
+    "role": "",
+    "text": "No, no, we don't. I think as the market would evolve to AI applications, for example, I'm sure there will be a host of new start-ups there. But I think our position with a comprehensive platform that really covers your web applications, your mobile applications, your APIs and your AI-based applications. And in each one of them, not only delivering an integrated solution, but really in each domain, providing best of breed, yet everything integrated and backed by AI fully managed service. I think this market position is a very strong one, and I think we can compete very effectively. But I'm sure that on the AI front, there would be some new entrants dedicated to that segment."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Our next question comes from Joseph Gallo with Jefferies."
+  },
+  {
+    "speaker": "Anjali Papadopoulos",
+    "role": "",
+    "text": "This is Anjali Papadopoulos on for Joseph Gallo at Jefferies. Congrats on the strong results. It's really good to see your cloud ARR progressing along nicely. And so I guess, speaking on that, how should we think about cloud ARR growth and its profile going forward?"
+  },
+  {
+    "speaker": "Roy Zisapel",
+    "role": "",
+    "text": "Yes. Very good question. So first, our short-term results was 20%, and we plan to continue to stay above that. In our long-term model, we were targeting 25%. I think that would be the next goal we will put to ourselves. I'm not sure we'll hit it immediately, but we're definitely seeing the potential to continue not only to grow ARR, but accelerate ARR. We're very focused on this opportunity and that's what we are planning to achieve."
+  },
+  {
+    "speaker": "Anjali Papadopoulos",
+    "role": "",
+    "text": "Sounds good. And then so circling back to a prior question on your strength in win rates and competition. So with your new API security solution, what existing competitors, if any, did you come across in the marketplace? So who currently competes in the space? And can you talk more about what you see those vendors are lacking and how Radware continues to win in that space?"
+  },
+  {
+    "speaker": "Roy Zisapel",
+    "role": "",
+    "text": "Yes. So I think in our prepared remarks this quarter and last quarter, I mentioned some areas that we're using AI as part of our complete solution, what we call the EPIC AI framework, and we're infusing AI to each and every layer of our solution. So already from the protection engines themselves, meaning the algorithms we use to detect and mitigate, I was talking about how we are detecting and mitigating business logic attacks. We're leveraging their AI. Our competition over here is very manual. You need to define a lot of rules, your business logic, it changes as application change. While we really built in real time an LLM dedicated to your application, dedicated to your traffic, it provides significantly different results in configuration, in onboarding, in detection, in mitigation. That's one example of how do we use AI in that protection engine to differentiate. Then I mentioned in today's comments, another layer, which is the SOC-X AI. We've built on top of our platforms, AI agents. And as far as I know, the competition does not have it today, especially not in GA. And those AI agents are sitting on top of the platform and watching your traffic. If they detect a suspicion that an attack has passed the controls, we would automatically, the AI agent would do an analysis of your traffic, would come to a conclusion whether it's really the case that attack is leaked or maybe a flash crowd coming to your website. And if it's an attack, we will automatically come with your recommendations, what to change in order to mitigate the attack. In our competition, all these -- and also until, I think, 6 months ago for other, all these activities were done by SOC people, by humans and only collecting the information, analyzing that, getting into recommendations, testing them. This is a long cycle. It can take from, I don't know, half an hour or 2 days. We are shrinking that time frame to seconds and minutes, delivering significantly better mean time to resolve for our customers, which means less downtime, less risk, less exposure, significantly better business outcomes. So this is, again, a big differentiator for us. And as I've mentioned, it won us several customers, both displacements and new. And last but not least, there is the whole area of protecting AI applications, which we started to discuss in this call, which is another area. That's early. I cannot talk yet about competitive advantages. Let's see in the coming months who comes with what solution, but we feel very strong based on our heritage in algorithms, based on our experience in AI security for years that we will be very strong there as well. So that's in a nutshell, how we use AI to differentiate in the market of application security and dealers."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Ladies and gentlemen, as there are no further questions, I would now like to hand the conference over to Roy Zisapel, the CEO, for the closing comments."
+  },
+  {
+    "speaker": "Roy Zisapel",
+    "role": "",
+    "text": "Thank you, everyone, and have a great day."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Ladies and gentlemen, the conference of Radware has now concluded. Thank you for your participation. You may now disconnect your lines."
+  }
+]

@@ -1,0 +1,302 @@
+Operator
+Hello, everyone, and welcome to the Cloudflare Q4 2022 earnings call. All lines have been placed on mute to prevent any background noise. After today's remarks, there will be a question-and-answer session. [Operator instructions] I would now like to hand the conference over to Mr.
+Phil Winslow, VP of strategic finance. Please go ahead, sir.
+Phil Winslow
+--
+Vice President, Strategic Finance
+Thank you for joining us to discuss Cloudflare's financial results for the fourth quarter of 2022. With me on the call, we have Matthew Prince, our co-founder and CEO; and Thomas Seifert, our CFO. Michelle Zatlyn, our co-founder, president, and COO, is unable to join us on the call today as she is in Asia meeting with prospects and customers. By now, everyone should have access to our earnings announcement.
+This announcement, as well as our supplemental financial information may be found on our investor relations website. As a reminder, we'll be making forward-looking statements during today's discussion, including, but not limited to, our customers, vendors, partners, operations and future financial performance, our anticipated product launches, and the timing and market potential of those products, and our anticipated future financial and operating performance. These statements and other comments are not guarantees of future performance and are subject to risks and uncertainties, much of which are beyond our control. Our actual results may differ significantly from those projected or suggested in any of our forward-looking statements.
+These forward-looking statements apply as of today, and you should not rely on them as representing our views in the future. We undertake no obligation to update these statements after this call. For a more complete discussion of the risks and uncertainties that could impact our future operating results and financial condition, please see our filings with the SEC, as well as in today's earnings press release. Unless otherwise noted, all numbers we talk about today other than revenue will be on an adjusted non-GAAP basis.
+You may find a reconciliation of GAAP to non-GAAP financial measures that are included in our earnings release on our investor relations website. For historical periods, a GAAP to non-GAAP reconciliation can be found in the supplemental financial information referenced a few moments ago. We'd also like to inform you that we will be participating in Barry's 2023 Silicon Slopes event on March 2; the Morgan Stanley Technology, Media, and Telecom Conference on March 8; and William Blair's Seventh Annual Tech Innovators Conference on March 14. Now before wrapping up, I would also like to invite you to join us for our Investor Day on Thursday, May 4, which is being held in conjunction with our user conference, Cloudflare Connect in New York City.
+A live webcast will also be accessible from our investor relations website. Now with that, I'd like to turn the call over to Matthew.
+Matthew Prince
+--
+Co-Founder and Chief Executive Officer
+Thank you, Phil. It's great to have you on this side of the table. We had another strong quarter in spite of continued challenging macroeconomic conditions. We generated $274.7 million of revenue, up 42% year over year.
+We achieved a record operating profit of $16.8 million, representing an operating margin over 6%. While we continue to invest to capture the huge market ahead of us, we believe that during economic slowdowns like the one we're in the midst of it's important to show discipline and optimize for efficiency. We have our hands on the leverage of our business and are adjusting them based on the macroeconomic conditions. Our free cash flow in the quarter was $34 million, representing a free cash flow margin of 12% and allowing us to generate $29 million of free cash flow in the second half of 2022.
+While there will be some variability in our free cash flow quarterly, we expect to be free cash flow positive in 2023 and the years after that. We achieved a gross margin over 77% above our long-term target range of 75% to 77%. Our dollar-based net retention ticked down to 122%, while our gross renewal rates remain as high as ever, like others in the industry, we're seeing customers take longer to sign new and expansion deals with us. Procurement departments are definitely in the mode of measure two or three times before cutting one.
+We still see a clear path to a dollar-based net retention over 130% as we ramp seat-based products like Zero Trust and storage-based products like R2, and we won't be satisfied until we get there. We added 134 large customers, those that pay us over $100,000 per year and now have 2,042 large customers, including 33% of the Fortune 500. Revenue from large customers grew 56% year over year, and they now contribute 63% of our total revenue. We were fortunate that given our visibility into the overall Internet traffic and the e-commerce trends, we started to see a slowdown in the economy all the way back in December of 2021.
+Based on that, around this time last year, we began slowing our pace of hiring to ensure we didn't get over our skis. That's paid off and kept us from having to take more drastic actions like many of our peers. It's also given us the ability to sensibly invest in our team as amazing talent comes on the market. To give you some sense, in 2022, we had over 400,000 people apply for approximately 1,300 positions at Cloudflare.
+That demand to work at Cloudflare has allowed us to continue to hire incredible talent or any discipline in overall compensation. We are committed to incremental equity compensation dilution well below many of our peers, targeting less than 3% net burn rate annually. Top economic times like these make you assess our strengths and weaknesses. Cloudflare has long had a product and engineering team that delivered an innovation engine that is the envy of the industry.
+Jen Taylor, who leads that team briefed me recently on everything we have lined up for the year ahead, and that engine is definitely not slowing down. Our next innovation week is in March with security week where we'll be launching a number of new products and feature enhancements, especially around our Zero Trust products. While our innovation engine is best in the industry and has unlocked the $125 billion total addressable market we have ahead of us. If we're honest with ourselves, our go-to-market organization hasn't yet been fully optimized.
+As our products to become more complicated and we are selling to larger and larger customers, it's increasingly clear that we need to step up our game in marketing and sales. I introduced Marc Boroditsky who joined last quarter to lead our sales organization. Last week, we briefed me and Michelle on his first 100 days. My initial reaction, if I'm honest with embarrassment, over some of the basic things we should have been doing better, but my second reaction was excitement is there are so many opportunities for us to improve.
+In addition to Mark, Brent Remai joined us last quarter to lead our marketing team. Brent was previously CMO at FireEye and CMO of Core Services at AWS. His career perfectly prepared him for Cloudflare's delivery of cloud security services. We've seen early results with Brent's team generating pipeline in Q4 and January of Q1 coming in ahead of our target.
+We've been leaders on the product and engineering side. Now we're focusing on becoming a leader in the go-to-market side as well. I hear the excitement from our existing sales and marketing teams at the rigor and discipline Mark and Brent are bringing to those teams. And what I'm watching carefully is another important pipeline, the pipeline of new sales talent.
+We're seeing incredible people from the leading sales team in the world apply to work at Cloudflare. We aim for nothing less than to build one of the leading sales organizations in the world. That's all exciting. And while I believe there is a substantial opportunity for us to improve our go-to-market engine, I'm also cognizant that these efforts can take time.
+That's why we're not relying on any improvement in sales or marketing efficiency or any rebound in the economy as we look at the year ahead and formulate our guidance. So, focusing on the present, let me highlight some customer wins from the quarter. A Fortune 500 energy company signed a three-year $1.6 million deal that was a takeout of a first-generation Zero Trust networking competitor. We are placing both their Secure Web Gateway and Zero Trust network access products.
+Because the competitor's network is actually broken into multiple distinct clouds as compared with our unified network reliability and performance were underperforming the customers' expectations. We were able to replace the competitor's feature set and more. The customer ultimately purchased gateway, access, remote browser isolation, and DNS filtering. The customer was attracted to our better pricing, performance, and ease of use, as well as the single pane of glass manageability of our platform.
+We worked with a large channel partner to win and service this customer and expect we'll be doing more with them going forward. A Fortune 500 financial services company expanded the relationship with Cloudflare, signing a three-year $1.1 million deal, a scenic Cloudflare customer since 2014 using our core application services. Like we're hearing from many of our customers, they wanted to consolidate vendors, reduce costs, and have more flexibility and control over their traffic flows, as well as implementing a Zero Trust architecture. They wanted to move away from legacy on-prem hardware to modern cloud-based services.
+The customers love that we have a single payment glass solution and that our technology is built from the ground up on a single platform rather than a Frankenstein solution bolted together through M&A. They purchase access, gateway, remote roster isolation, Magic WAN, and Magic Firewall. They're a terrific customer. A Fortune 500 telecom signed a $400,000 one-year deal to bring a portion of Cloudflare's Zero Trust services to their consumer base.
+They're bundling Cloudflare's DNS content filtering into their consumer security bundle. After evaluating competition, they found Cloudflare solutions to be the most secure and reliable in the market. This deal is not only valuable for the obvious reasons, but also because it will feed data back to our Zero Trust security products to further extend their lead over the competition. A leading generative AI company signed a one-year $1 million deal.
+The company had been a user of our free tier since 2017. And this deal originally started out as a relatively small gateway DNS opportunity to replace Cisco umbrella. However, when their browser-based application debuted in late November, demand for the company's AI-generated content absolutely exploded with unprecedented rates of adoption. Their Azure front door set are quickly proved insufficient at handling the massive load on their services from legitimate users, as well as keeping fraudulent users from exhausting their resources.
+They started off with CDM, DDoS, bot management, gateway DNS, and more. We are actively exploring various paths for expansion to support their incredible growth, as well as emerging use cases of their AI models and applications with cloud leer workers, API shields, imagery sizing, and more. We saw success with other AI companies in the quarter as well. Given the resource constraints they all face, as well as how attractive they are as a target to fraudulent users, Cloudflare security solutions are an obvious choice for all of them, but many of them came to us for other reasons as well.
+AI companies, in particular, need to find wherever it's most cost effective to run their models across multiple different cloud providers. They are, by their very nature, multicloud, but the data egress policies make it prohibitive to move large training sets between the cloud and our Cloudflare workers. What we're finding with these AI companies is that R2 and other workers' products naturally become the glue at the center of a multicloud ecosystem. R2 has become the natural neutral place for these AI companies to store their training data in order to make sure it can be inexpensively and efficiently access from anywhere.
+It's obvious in retrospect. But it's the use case we didn't anticipate. Today, our largest R2 customer is another AI company using us for exactly the purpose of being a neutral place to store their training data. And of course, being a neutral network super cloud that stitches together the traditional public cloud isn't a problem exclusive to AI. A European financial services company signed a five-year $1.8 million deal, replacing a dozen different security and network vendors with Cloudflare.
+This company settled hundreds of millions of securities transactions annually for the largest banks and governments in the world. As a result, security and regulatory compliance are paramount for them. They wanted to consolidate and simplify their numerous point solutions into a single pane of glass solution. After receiving regulatory approval, the customer signed on for multiple solutions across our core application services portfolio, as well as both Zero Trust and network services in Cloudflare One, including access, DNS filtering, and Magic Transit.
+In addition to consolidating their spend across multiple point solution vendors onto Cloudflare's broad platform, our data localization suite, in particular, won them over. Competing vendors simply do not have an equivalent solution. As companies increasingly face localization and data residency requirements becoming law in various geographies, our differentiated data localization suite is becoming more and more critical to customers. A public utility company in Africa signed a $2.8 million 75-month deal to help support a really cool industrial IoT rollout.
+They're using Cloudflare's intelligent network to monitor 3,300 sensors, tracking shipments of materials. This is another use case of Cloudflare's network we wouldn't have imagined on our own, but one we're uniquely positioned to deliver for the customer and now opens even more markets and opportunities. The state of North Carolina signed a three-year, $3 million deal. The state had originally come to under our Athenian project for free help with election security -- they learned the power of Cloudflare using us to protect their elections infrastructure and sign the deal to expand Cloudflare protection across 50 state agencies.
+Finally, I'm happy to report that after a longer-than-expected way at the proverbial DMV, we officially received Cloudflare's FedRAMP certification. The certification covers nearly our full suite of products with a notable exception of Area 1 email security product, which we acquired after we started the FedRAMP process, but we expect to add it to our certification at the FedRAMP renewal. Our first federal contract after our certification was a great start. We were awarded the $7.2 million five-year deal to operate the .gov registry.
+We were awarded the contract because of our modern infrastructure, technical prowess, relentless innovation, and proven ability to defend against the largest cyber-attacks. Every email sent to the White House, every agency's web page, and most of the other ways the U.S. government connects to the Internet, now depend on Cloudflare and our network. We're proud to have won this business, but the public sector space is only 3% of our revenue today, so we believe it's only the beginning of what we'll be doing in the future.
+With that, I'll turn it over to Thomas. Thomas, take it away.
+Thomas Seifert
+--
+Chief Financial Officer
+Thank you, Matthew, and thank you to everyone for joining us. I want to take a moment to welcome Phil Winslow, our new VP of strategic finance, treasury, and investor relations to the team. As an influential equity research analyst who has been following Cloudflare even before our IPO fill brings a wealth of knowledge, expertise and relationships to his role at Cloudflare, and we are excited to have him on board. Turning to the fourth quarter.
+Economic uncertainty resulted in businesses being more cautious with their spending, leading to longer decision-making processes and ultimately longer sales cycles during the quarter. pressuring revenue growth across the technology industry, including Cloudflare. However, we remain focused on controlling what is in our control, which is to maintain our commitment to the efficient unit economics of the business and to prudently allocate capital with a focus on maximizing shareholder value. As a result, we delivered a record quarter in terms of operating profit operating margin and free cash flow.
+I'm particularly proud of our free cash flow performance during the fourth quarter, and we are committed to continuing to scale free cash flow generation going forward. Turning to revenue. Total revenue for the fourth quarter increased 42% year over year to $274.7 million. From a geographic perspective, the U.S.
+represented 53% of revenue and increased 44% year over year. EMEA represented 27% of revenue and increased 42% year over year. APAC represented 13% of revenue and increased 40% year over year. Turning to our customer metrics in the fourth quarter.
+We had 162,086 paying customers, representing an addition of roughly 22,000 paying customers in 2022 and an increase of 16% year over year. We were pleased to see retention improve in the pay-as-you-go customer base in the fourth quarter returning to the levels we achieved in the late 2020 through early 2022. Turning to large customers. We ended the quarter with 2,042 large customers, representing an increase of 44% year over year and an addition of 134 large customers in the quarter.
+During the quarter, we also added a record number of net new customers paying us more than $500,000 a year. As Matthew mentioned earlier, we are also pleased to see large customer revenue contribution increased again sequentially to 63% of revenue, up from 57% in the fourth quarter last year. For fiscal 2022, large customers represented 61% of total revenue compared to 54% of total revenue in 2021 and 46% in 2020. For the full year, we are also breaking out large customers into cohorts of those who spend greater than $500,000 and $1 million.
+We ended the year with 222 customers that spend over $500,000 with us, an 83% increase year over year. We ended the year with 85 customers that spend over $1 million with us, a 52% increase year over year. Our dollar-based net retention rate was 122% during the fourth quarter, a decrease of 200 basis points sequentially and a decrease of 300 basis points year over year. We've not experienced elevated churn.
+Instead, similar to last quarter, the decline was primarily driven by less net expansion in customers spending less than $100,000 worth Cloudflare, as well as pay-as-you-go customers. Conversely, our large customer net expansion was flat quarter to quarter and remains consistent with our average quarterly D&R for this customer segment since the end of 2019. We continue to expect D&R to trend upward over time to our long-term target of 130% plus Also, we anticipate some variability from time to time particularly as customers are more cautious in their near-term spending, which, as I mentioned before, has impacted sales cycles. Moving to gross margin.
+Fourth quarter gross margin was 77.4% and 78.2% for fiscal 2022, both of which remain above our long-term target range of 75% to 77%. Network capex represented 10% of revenue in the fourth quarter. For full year 2022, network capex represented 11% of revenue as compared with our guidance at the beginning of the year at 12% to 14%, which demonstrates the flexibility, elasticity and scalability we have achieved in our network. For fiscal 2023, we expect network capex to be 11% to 13% of revenue.
+Turning to operating expenses. Also, the economic challenges for every business currently, we again took proactive measures during the fourth quarter to improve operational efficiency and control discretionary spending. As a result of these actions, fourth quarter operating expenses as a percentage of revenue decreased 1% sequentially and 7% year over year to 71%. Our total number of employees increased 32% year over year bringing our total head count to approximately 3,220 at the end of the quarter.
+We'll continue to pace hiring for the year based on current market conditions to deliver consistent results with a keen focus on allocating our talent to key strategic areas of the business to help us achieve our objective of $5 billion in annualized revenue in five years and to do so profitably, predictively and productively. Sales and marketing expenses were $113 million for the quarter. Sales and marketing as a percentage of revenue remained consistent sequentially and decreased to 41% from 44% in the same quarter last year. Research and development expenses were $49.4 million in the quarter.
+R&D as a percentage of revenue remained consistent sequentially and decreased to 18% from 19% in the same quarter last year. General and administrative expenses was $33.3 million for the quarter. G&A as a percentage of revenue decreased by 1% sequentially and decreased to 12% from 14% in the same quarter last year. Operating income for $16.8 million compared to an operating income of $2.3 million in the same period last year.
+Fourth quarter operating margin was 6.1%, an increase of 490 basis points year over year. These results underscore our responsiveness to market conditions and our ability to scale up or scale down our spending is needed to meet demand, highlighting the efficiency and elasticity of our business model which remain key elements of Cloudflare's success. Turning to net income in the balance sheet. Our net income in the quarter was $21.6 million or a diluted net income per share of $0.06.
+Tax expenses for the quarter was $2.3 million. We ended the fourth quarter with $1.6 billion in cash, cash equivalents and available-for-sale securities. Free cash flow was $33.7 million in the fourth quarter or 12% of revenue compared to $8.6 million or 4% of revenue in the same period last year. Operating cash flow was $78.1 million in the fourth quarter or 28% of revenue compared to $40.6 million or 21% of revenue in the same period last year.
+Remaining performance obligations, or RPO, came in at $907 million, representing an increase of 9% sequentially and 45% year over year. Current RPO was 74% of total RPO. Before moving to guidance for the first quarter and full year. I would like to begin with our expectations and the provisions we have factored into guidance.
+We performed rigorous scenario analysis across multiple vectors from pipeline and ACV growth to productivity. In order to understand both our company-specific opportunities, as well as the risks from the current economic uncertainty. In our guidance, we have not factored in any improvement in the macroeconomic environment or from our go-to-market initiatives. Specifically, despite a notable improvement in our pipeline exiting 2022 as compared to with the first half of the year, we have assumed the increase in sales cycle, which we observed in the second half of last year continues in 2023 and have, therefore, incorporated close rates below recent historical lows.
+Furthermore, as Matthew discussed earlier, we believe sales and marketing can be broken down into a series of processes that can be organized, measured and continuously optimized. Mark and Brent are establishing a consistent structure model and process that simplifies how we operate and how we interact with prospects, customers and partners. Because the new leadership team we've already assembled has successfully executed these go-to-market playbooks before at other companies, we are confident in the ramp of implementing these models and tactics which we expect will ultimately improve revenue growth and productivity. However, we have not incorporated any improvement in sales productivity in our guidance for 2023, embedding, in fact, productivity levels below our recent historical lows.
+Now turning to guidance for the first quarter. We expect revenue in the range of $290 million to $291 million, representing an increase of 37% year over year. We expect operating income in the range of $11.5 million to $12.5 million, and we expect diluted net income per share of $0.03 to $0.04, assuming approximately 342 million common shares outstanding. We expect an effective tax rate of 36%.
+For the full year 2023, we expect revenue in the range of $1.330 billion to $1.342 billion representing an increase of 37% year over year at the midpoint. We expect operating income for the full year in the range of $54 million to $58 million, and we expect diluted net income per share over the period in the range of $0.15 to $0.16, assuming approximately 344 million common shares outstanding. We expect an effective tax rate of 36%. Beginning in 2023, Cloudflare is subject to beat the base erosion and anti-abuse minimum tax, which is the primary driver for the increased tax rate year over year.
+After having achieved positive free cash flow in the second half of last year, we anticipate being free cash flow positive for the full year 2023. While we expect free cash flow to trend upward on an ongoing basis, for modeling purposes, we anticipate near-term variability in our cash flow generation with the first half of 2023 expected to be relatively breakeven. We remain confident in the elasticity and durability of our business model, and we'll continue to pursue the enormous opportunity ahead of us while raising the bar on our operational excellence. In closing, I'd like to thank our employees for their continued dedication to our mission customers, and partners.
+And with that, I'd like to open it up for questions. Operator, please poll for questions.
+Questions & Answers:
+Operator
+Thank you, sir. [Operator instructions] We will take our first question from Matt Hedberg, RBC Capital Markets.
+Matt Hedberg
+--
+RBC Capital Markets -- Analyst
+Great. Thanks for taking my question, guys, and congrats, Phil, on your new role. Looking forward to working with you on that side of the table. I guess one of the questions I'm getting is around the conservatism in your '23 revenue outlook.
+Obviously, Thomas, you talked about some of the levers of conservatism. But I guess with 37% growth for both Q1 and the full year, obviously, your comps ease as the year progresses. But is there something that perhaps kicks in during Q2 or the second half of the year, like maybe like the price increase you announced last year, or maybe a large customer renewal that would drive the linearity this year?
+Thomas Seifert
+--
+Chief Financial Officer
+John, I think we stick to our rule of trying to be prudent and thoughtful how we think about the future, especially in a rather uncertain environment. I think that the important takeaway in the guidance that we put forward is that we did not assume any help from the macroeconomic environment. We did not plan that things would get better. And we have a lot of initiatives to that will accelerate sales productivity and accelerate growth, things that we can control.
+But we've been rather conservative there too in terms of what we anticipated in the guidance we gave. So, I think it was our goal in a world where there are a lot of variables that shift around to find some ground of stability from BV from which where we can build on moving forward. But I think prudent is what we said here in COVID and thoughtful is what we said during COVID, and I think we stick to that philosophy, keeping our hands on the steering wheel as Matthew would call it, and work on what we can control.
+Matt Hedberg
+--
+RBC Capital Markets -- Analyst
+Great. And then maybe just a quick one, Matthew. Within your security portfolio, you noted some nice wins in your prepared remarks. I'm wondering, can you talk about maybe just some of the win rates specifically on your enterprise-grade customers within Zero Trust deals, I guess, specifically against some best-of-breed customers that you noted on the call?
+Matthew Prince
+--
+Co-Founder and Chief Executive Officer
+Yeah. I think that we are really happy with our win rates. What I think our challenge is in the Zero Trust space is not winning customers that know about us, but making sure that customers that are in the market for Zero Trust services are aware that, that's something we do. The frustration that I still have is when I meet with the customer and oftentimes, they'll literally say, you should build something that is in the Zero Trust space, competing with a Zscaler or Palo Alto Networks.
+And so, when we're in those deals, we find ourselves winning very often. I think we are especially successful with very technical rigorous companies that measure performance and care about making sure that they have the best possible end user and especially developer experience. But our challenge now and what Brent and Mark are really focused on is how in that space do we increase our awareness. And I think you're going to see a lot of us doing that.
+But when we're in the deal, we tend to have very, very strong win rates that rival what we see from our other products.
+Matt Hedberg
+--
+RBC Capital Markets -- Analyst
+Great. Thanks, guys.
+Operator
+Next up, we'll hear from Sterling Auty, SVB.
+Sterling Auty
+--
+SVB Securities -- Analyst
+Thanks, guys. So, Matthew, I think it would be helpful for investors to understand. You talked about the AI opportunity and the use cases, but help investors understand how the revenue opportunity with those types of customers actually ramped since you have that subscription model versus a consumption model.
+Matthew Prince
+--
+Co-Founder and Chief Executive Officer
+Yeah. So, the way that we've been -- the way that is sort of the natural way that we thought companies like AI companies would consume Cloudflare, we'll be looking at our security products. And those are products that, as you said, are subscription-based and there's some opportunity there, but there really aren't yet that many AI companies. So, that opportunity is fine.
+But I don't think it's anything that we would get really excited about. I think what we're seeing though is in that cluster of AI companies, they have a real use case for the cloud which is somewhat different than what we see from some other companies. It is, I would say, more forward-leaning and that is that they are constantly looking for wherever the best model or wherever the cheapest GPUs are to process their data. And so, they are looking around across multiple different cloud providers, whether that's Google or Microsoft or AWS and they're always saying, what can we take advantage of and get as much out of that as possible? And what the challenge for them is, is the AI training sets or these big lumps of data that they then have to sort of bring to wherever the model or bring to wherever that GPU is.
+And in that case, a lot of the workers' products and, in particular, our R2 product, are a very natural way that they can put the data in one neutral location and then be able to access it all around in other locations as well. And what we're seeing is that that neutral position of R2 is actually not just appealing for people in the AI space. But for anyone that has shared data that they want to use not in just one cloud but across multiple different clouds. And so, I think by having a way to embed data into the network and store data into the network, that is an opportunity for us to service anybody who is trying to be multicloud, which is frankly what every big enterprise today is doing.
+And in that case, R2 is very much a consumption-based product. And so, as AI data sets get larger and larger, we expect that we will be able to grow R2 revenue along with that. And actually, our largest R2 customers, as I mentioned in the prepared remarks, is an AI company, and they're growing at just extraordinary rates as they put more data into their models.
+Sterling Auty
+--
+SVB Securities -- Analyst
+And then just a quick follow-up is how much of that ramp is factored into the full year guide.
+Matthew Prince
+--
+Co-Founder and Chief Executive Officer
+I think that we are not looking for anything exotic here. I think, again, prudence is very much the sort of word of the quarter for us. And I think that we're not sort of counting on something that is the new hot thing doubling down on Cloudflare. And so, while we're very proud of what we have done with companies in the AI space, and we're excited about the ramp in products like R2 and the overall workers ecosystem, we still think of that more as a long-term opportunity than a short-term quarterly or even 2023 opportunity.
+And so, I think that we're not relying on sort of an AI miracle in order to make the numbers that we put up.
+Sterling Auty
+--
+SVB Securities -- Analyst
+Understood. Thank you.
+Operator
+We'll take a question from James Breen, William Blair.
+James Breen
+--
+William Blair and Company -- Analyst
+Thanks for taking the question. Just one is a little bit of a runoff from that one. Just around some of the new products that you launched, the one full in the back half of last year, R2 being one. Could you just give us some commentary around how that's picking up and launching those into maybe more challenging sales environment as it helped keep the D&R a little more stable than otherwise could have been? And then just financially, Thomas, if you can just talk a little bit about the decline in operating income sequentially into the first quarter, the seasonality there and what's happening? Thanks.
+Matthew Prince
+--
+Co-Founder and Chief Executive Officer
+Yeah, Jim. So, I'll start and then Thomas can take the second part. I think we're really happy with the ramps of these new products. Cloudflare, we've always thought of ourselves as stacking curves on behind another.
+And so, I always think of sort of our application services products as sort of our first act. We think of our Zero Trust products as our second act. And we think of our workers products as our third act. And so, I think that they're maturing at rates that are -- that continue to make us very excited and happy and we're seeing more and more new use cases that are coming from that.
+I think some of the trade-offs around D&R have been interesting here. One of the things that we really talked about last quarter optimizing for was just how we did cash collections and converting customers to paying upfront. And I think that one of the things that we made a trade-off on was at times saying, we would optimize for getting more customers to be paying us upfront. And that might not allow us to expand those customers as much in this quarter.
+And I think that's the right thing for us to do. We want to optimize in these times, making sure that we can collect cash as quickly as possible and can be paid upfront as much as possible. That continues to be an ongoing effort for us. But I think that that was more of a drag on D&R.
+I think you'll start to see as those new products come online, that those will be positive. But remember that D&R only starts to kick in for a customer that's been with us for an entire year. So, for those products that are new, they -- even if they are wildly successful, the expansion won't actually show up in our numbers until 12 months after the products were actually in the market.
+Thomas Seifert
+--
+Chief Financial Officer
+All of last year was a year where we did very active management of our expenses. And we reacted really early to the slowdown in the macro environment by slowing down our hiring, especially the velocity of hiring. And we'll stay committed to this course during the course of this year and align our spending to the development of the business. So, there were a lot of companies out there during the season's earnings call that talked about efficiency.
+I always like to point out that efficiencies DNA in the DNA of the company of Cloud tire. That is something that Matthew and Michelle already wrote in the founder letter for their prospects for the S1. So, this is what you want to expect from us, not only for the first quarter, but for the remainder of this year as long as the environment is what it is.
+Matthew Prince
+--
+Co-Founder and Chief Executive Officer
+Great. Thanks.
+Operator
+We'll go to Shaul Eyal with Cowen.
+Shaul Eyal
+--
+Cowen and Company -- Analyst
+Thank you. Good afternoon, guys. Congrats Phil on the new role. Looking forward to working with you.
+Actually, two product-related questions for Matthew this afternoon. So, actually starting with workers. So, earlier today, Shopify came out with a press release discussing speeding up their storefront in 2023. [Inaudible] based on Cloudflare workers.
+I think back in the summer, actually, they also had a blog where they confirmed the shutdown of their internal project Oxygen opting out to Cloudflare. So, can you talk to us, Matthew, about Shopify relations, maybe just a flavor on workers and an additional win rate?
+Matthew Prince
+--
+Co-Founder and Chief Executive Officer
+Yeah. So, Shopify has been a terrific Cloudflare customer for a number of our different products, including workers. And I think what we've talked about in previous calls is that one of the most effective ways for us to sort of turbocharge the adoption of workers is to work with other great partners that have an existing developer ecosystem. And so, we were proud that Shopify has really standardized around cloud workers.
+We've worked with them to make sure that we are doing the right things for the overall community that we've open source, for example, the run time of workers. And I think that as you see companies like that adopt workers for their developer platform that that's a real opportunity for us to, again, turbocharge what workers is and make sure that more and more developers are on top of it. And what's incredible is just watching how as again we get more reps with really talented and smart engineering teams like the team at Shopify. That's just making the workers' platform better everyone involved.
+And again, we're really proud to have him as a customer.
+Shaul Eyal
+--
+Cowen and Company -- Analyst
+Understood. Understood. And maybe back to the security side of things. Matthew, in your prepared remarks, you talked about that big, big win, big security win displacement.
+But I'm just curious whether it also involves the email security kind of the Area 1-related product?
+Matthew Prince
+--
+Co-Founder and Chief Executive Officer
+Yeah. I want to be careful that I might misspeak, but I don't believe that Area 1 was included in that particular deal. So, that's still an expansion opportunity. we have with that customer.
+We do see that email security is a terrific entry into getting people to move to our Zero Trust platform. The reason why is that Zero Trust, one of the first challenges is enumerating how many people are within an organization, how many seats effectively does that organization make up. And if we can get somebody to use our email security product, that inherently defines that in a very natural way. And so, migrating somebody from sort of the -- our application services portfolio to our email security portfolio is one click.
+It's a simple DNS change. And they don't have to -- they can continue to use any of their existing email vendors, and we effectively just proxy that traffic and are able to provide additional layers and enhancement of security as well. Once we've done that, it then makes it a very natural step to go from the email security product to the rest of our Zero Trust suite. And so that is a standard play that we run.
+It's very successful. But in the case of this particular oil and gas company, it wasn't the reason that they adopted us for Zero Trust. But hopefully, we can go in the other direction as well.
+Shaul Eyal
+--
+Cowen and Company -- Analyst
+Thank you.
+Operator
+Next up is Joel Fishbein, Truist Securities.
+Joel Fishbein
+--
+Truist Securities -- Analyst
+Thanks for taking my questions. Congrats to Phil as well. Matthew, for you, I want to take a step back, notwithstanding the current economic situation. I would love to just talk about the barriers to entry for Cloudflare and your top priorities for the next three years in terms of growing the business.
+Matthew Prince
+--
+Co-Founder and Chief Executive Officer
+Yeah. And Joel, by barriers to entry, do you mean competitors competing against us? Or what exactly do you mean by that?
+Joel Fishbein
+--
+Truist Securities -- Analyst
+Yeah, exactly, Matthew. I think there's a little bit of in the investment community, there's a little bit of thought process that it's easy to do what you -- what Cloudflare does. And as you and I both know, that's not true. But I think it's important for you to explain that from the perspective of how difficult it is to provide the services that you do.
+Matthew Prince
+--
+Co-Founder and Chief Executive Officer
+Sure. So, I think the thing that is at the core of Cloudflare is our network. The reason that our ticker is NET and not Cloudflare is because of the fact that we are fundamentally a network. And that network is -- has taken us over 12 years to build.
+And it is not something that you can just throw money at and buy your way into it's not something that even some of the large hyperscale public cloud have. And so, we hear regularly from companies like Microsoft that they're like, wow, you guys have something very special in the network you've built, and it is very different than anything else that's out there. That is somewhat counterintuitive a bit about our network is that as we expand into further corners of universe, whether that's opening an additional data center in St. Louis or going into Djibouti.
+Any of those things actually help us lower our costs because it drives down the cost of delivering all of our services. And the other important bit is that unlike some of the competitors that are out there, whether those are our competitors in the application services space that have grown through a series of M&A acquisitions or even in the Zero Trust space, someone like Zscaler actually run multiple independent networks to provide their various services. And that means that give customers that are using those different services, not only is it more inefficient for them to service those customers, but those customers experience very performance setbacks when they're delivering their services. And that's something that a lot of the customers that are switching from Zscaler to us not time and time again.
+What's different about us is we have relentlessly said that we run one single network. And every single server across our entire network is capable of running and performing any of the functions that we may need it for. And so that means that as we grow our services, it allows us to deliver them incredibly quickly, incredibly efficiently and anywhere in the world, and that is paying off today by allowing us to continue to scale as efficiently as possible. And so, I think that it was a unique period of time one and a half years ago when Cloudflare started that allowed us the conditions and opportunities to build the company.
+I think it would be very challenging today for somebody to replicate the network that we have -- and that network continues to allow us to deliver more and more services, whether that's our traditional application services, the ACT-1 products, our Zero Trust services, the ACT-2 products, or even the super cloud products that we have with brokers, which are our ACT-3 products, all of those rely on that network and the efficiency that it has. And I think that's where the fundamental barrier to entry to our products is. The other thing which is important is we just experienced significant network effects, and that comes in a number of different ways. One is just with every piece of data that we see, we're able to make our security products significantly better.
+So, the fact that consumer ISP is rolling us out to all of their customers that use their security bundle. That's just feeding data back into our system, which makes us smarter and smarter across that. But it's more than that. The fact that we are today somewhere in front of 20% to 25% of the web means that for customers that use our Zero Trust products if they are going to that 20%, 25% of the web that uses us then they never have to leave Cloudflare's network, and we can deliver a much more significant product.
+So, as we are in front of more content and as we are in front of more eyeballs that just makes the experience for both sides of that network better and better, and that catalyzes a network effect, which, again, is very difficult for other competitors to catch up with. So, we like our position. We like where we are for the next three years, and we continue to be committed to our goal of getting to $5 billion of run rate in five years from last quarter.
+Joel Fishbein
+--
+Truist Securities -- Analyst
+Really appreciate it. Thank you so much.
+Operator
+We will now hear from Andrew Nowinski, Wells Fargo.
+Andrew Nowinski
+--
+Wells Fargo Securities -- Analyst
+Great. Thank you. Congrats on the great quarter and the really strong guidance for the year. I wanted to start with a question on that big Fed deal.
+I know you mentioned a lot of interesting deals. I want to dig into the $7.2 million five-year deal with the Fed. First, I guess, will that be recognized as revenue ratably over the next five years? And did they bake in any sort of expansions that might not yet be included in that $7 million? Because it seems like that's, certainty, a lot of your big competitors are very strong in that space as well. So, I was just curious like how it progressed how you want it and what might also be down the road in that deal.
+Thomas Seifert
+--
+Chief Financial Officer
+Maybe I get started. No expansion baked into the deal. That's the deal we signed, and that's the deal we announced. And there is an expansion opportunity. It will add to that opportunity.
+Revenue will be recognized ratably. It's a little bit more tricky. It's not necessarily linear over the contract period, it's the amount of entities that are signing up and how fast they are on our network. But for modeling purposes, to assume a ratable distribution over the lifetime of the contract is probably a good start.
+Andrew Nowinski
+--
+Wells Fargo Securities -- Analyst
+OK. Thank you, Thomas. And then it looks like your channel momentum has continued. I think the channel accounted for about 13% of revenue this quarter, which is the highest it's ever been.
+I guess where are you seeing that traction from? Is that more from the GSIs or the traditional resellers?
+Matthew Prince
+--
+Co-Founder and Chief Executive Officer
+I think that channel remains a big opportunity for us, but we're proud of the progress that we've made, and it's a real priority for Mark as he is there. I think that we're seeing both the traditional resellers, as well as some of the that are increasingly adopting Cloudflare. And I think the big opportunity here is really with those ACT-2 and then to some extent, those ACT-3 products. And so, we're seeing that in ACT-2 products, those are very much products that oftentimes.
+We are winning in cooperation with a channel partner. And those initial wins help unlock future wins going forward. And then the second thing that we're seeing is that in our ACT-3 products, a lot of times, we're seeing as customers are coming to their partners to say, we're looking to consolidate vendors we're looking to save money on some of our cloud spend that we're seeing more and more that Cloudflare is a solution that is in the toolkit for people who are trying to figure out how they can save money. So, moving from an S3 to an R2 is a substantial savings.
+And we're seeing that even with some nontraditional partners. So, someone like a Palantir, we announced a partnership with they were driving a lot of their customers to their cloud solution. They saw how much money was wasted in some of the public clouds and have built a tool to help people understand what their cloud spend was and they came to the conclusion that oftentimes if customers could move more of their workloads to Cloudflare workers that was a real money saving for them. And again, that's been -- it's early days, but we think that that's definitely saving money, consolidating vendors.
+Those are all going to be trends throughout 2023, and we're very well-positioned to be able to help partners as they work with their customers to take advantage of those trends.
+Andrew Nowinski
+--
+Wells Fargo Securities -- Analyst
+OK. Thank you, guys, and congrats, Phil.
+Operator
+Alex Henderson, Needham, is up next.
+Alex Henderson
+--
+Needham and Company -- Analyst
+So, thanks for the great print and welcome to on board, Phil. I was hoping you could talk a little bit about that is the word at the end of the year here about how many coders are currently working on your platform and give us an update on that. I think that as the major positive strategic advantages that you have going to an earlier question.
+Matthew Prince
+--
+Co-Founder and Chief Executive Officer
+Yeah, I think that we announced at the end of last year that we crossed through 1 million developers that were building on cloud workers. I don't know what the latest numbers are on that, but the growth rates have continued to drive more and more developers to that. And again, partnerships with companies like Shopify to have their own developer ecosystem just further accelerate the number of people who are using Cloudflare workers. And we're doing more and more.
+I think one of the exciting things that we announced yesterday was a very small team on our side. I wanted to see if they could get Mastodon, which is sort of the open-source, federated Twitter client to run on Cloudflare. And that's a fairly sophisticated application, and they built not only a way for them to deploy that for any developer to be able to deploy that on cloud workers. But then it scales just beautifully where if you wanted to build kind of the next-generation Twitter that just scale and scale and scale, they have proven that, that can be done on top of Cloudflare workers.
+And so, I think we are starting to see more and more sophisticated applications like that get built on workers, and that's an exciting development for us.
+Alex Henderson
+--
+Needham and Company -- Analyst
+The second question I wanted to as was your strategy around pricing. I know back in November, you raised prices for the first time, and it was at a decade, which is amazing in and of itself. But can you talk about the magnitude of the pricing lever as we look at the full year for '23 and whether that is broader than just the low-end entry fees?
+Matthew Prince
+--
+Co-Founder and Chief Executive Officer
+Yeah. I think that we were very hesitant and a little bit nervous about raising pricing. Cloudflare is fundamentally infrastructure for our clients, and we want to be we want to be reliable and predictable for them. And so, we thought about this a lot.
+The primary goal of the price increase, which was really only for our pay-as-you-go business, which is well less than 20% of Cloudflare's revenue. But the primary goal was to shift that business from what was mostly a monthly payment business to one that was paid upfront and annually. So, if you pay us upfront annually, you can keep the same price that we've had historically. And we were -- we obviously did all the work talking to users figuring out what the tolerance was, but you have to sort of hold your breath and see what happens.
+And we've seen a handful of examples where I think with Slack, I think with Shopify that had price increases that have gone over well. And we've seen a handful of price increases from companies where there's really been pushed back that they've received. And I'm really happy that our customers, if anything, I think we were very pleasantly surprised how many of our customers said, over the course of the last 12 years, Cloudflare has added so much additional value that they want to pay us more. And so, we've seen a substantial number of convert already to the annual billing, which is great because it's helped us pull forward some cash, which is important.
+And then the second is that those people who -- we had price increases for and it was about a 25% price increase. That that actually -- so it went from $20 to $25. So, we're not 25%, that's me misspeaking. But that that was well received, and we have not seen elevated churn as a result of that.
+It went about as smoothly as we could possibly have hoped.
+Alex Henderson
+--
+Needham and Company -- Analyst
+[Inaudible]
+Phil Winslow
+--
+Vice President, Strategic Finance
+Operator, we have time for one last question.
+Matthew Prince
+--
+Co-Founder and Chief Executive Officer
+Alex, what was that?
+Operator
+And our final question today will come from Trevor Walsh, JMP Securities.
+Trevor Walsh
+--
+JMP Securities -- Analyst
+Great. Thanks for squeezing me in and taking my question. Matthew, thanks for the color around the SLED business and congrats on hitting the FedRAMP certification. You've indicated that you 3% was, I think, low at only 3%.
+So, just curious around that public sector business, kind of what you think the kind of the opportunities and maybe what held you back on that up to now? And if your sales and marketing, your new leaders there have kind of any plans to kind of help expand that part of the business.
+Matthew Prince
+--
+Co-Founder and Chief Executive Officer
+Yeah. I think we have had some business around.
+Thomas Seifert
+--
+Chief Financial Officer
+We just lost Matthew. I step in until he gets his line back. The FedRAMP business, as you know, is a very local business. So, getting all the certifications in place across the globe was one of the big targets.
+And we have made great progress both in Europe and now finally also here in the U.S. And as the certifications have been coming in and the products and the data centers get certified, we have been building up the teams in parallel, not only here in the U.S., but also outside of the U.S., especially in Europe, and we expect business to grow with it. And I would shy away from giving a concrete target or number for this year. But as you heard from Matthew, we think we have an overwhelming opportunity in front of us and now with the certifications in place.
+And the team that gets hired, we are quite excited about this space.
+Trevor Walsh
+--
+JMP Securities -- Analyst
+Great. Thank you.
+Thomas Seifert
+--
+Chief Financial Officer
+I wanted to -- I think Alex was cut off on his last question. I think you wanted to find out how much of the price increase was baked in, in our guidance. I think it's fair to assume, and you can draw that conclusion from Matthew's comments for this year, it's probably more a tailwind to cash flow than it is a tailwind to revenue. Most of the customers have opted to convert to annual billing and lock in the historic crisis for one more year.
+So, less of a tailwind for revenue, but more of tailwind of cash flow, free cash flow for this year, at least.
+Trevor Walsh
+--
+JMP Securities -- Analyst
+And apologies, my cellphone provider doesn't use Cloudflare it turns out. So, my call dropped, that's the first. I'm sure Thomas' answers were exactly right.
+Operator
+And that does conclude our question-and-answer session. Did you have any closing remarks?
+Matthew Prince
+--
+Co-Founder and Chief Executive Officer
+Yes, sorry about the technical snap foods. I really just wanted to end by thanking all of our customers, partners, and especially the Cloudflare team. We have proven that we can do more even in very difficult economic times. I'm proud of all the work that we're doing to keep the internet safe, secure, reliable for all of our customers around the world.
+So, thank you for helping us deliver the quarter, and it's going to be a great 2023. I appreciate everyone being on the team.
+Operator
+[Operator signoff]
+Duration: 0 minutes

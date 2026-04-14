@@ -1,0 +1,420 @@
+John Streppa
+--
+Head of Investor Relations
+Hello, everyone. Welcome to Amplitude's fourth quarter and full year 2024 earnings call. I'm John Streppa, head of investor relations. Joining me today are Spenser Skates, CEO and co-founder of Amplitude; and Andrew Casey, chief financial officer.
+During today's call, management will make forward-looking statements, including statements regarding our financial outlook for the first quarter and full year 2025, the expected performance of our products, our expected quarterly and long-term growth, investments, and our overall future prospects. These forward-looking statements are based on current information, assumptions, and expectations, and are subject to risks and uncertainties, some of which are beyond our control, that could cause actual results to differ materially from those described in these statements. Further information on the risks that could cause actual results to differ is included in our filings with the SEC. You are cautioned not to place undue reliance on these forward-looking statements, and we assume no obligation to update these statements after today's call except as required by law.
+Certain financial measures used on today's call are expressed on a non-GAAP basis. We use these non-GAAP financial measures internally to facilitate analysis of our financial and business trends, and for internal planning and forecasting purposes. These non-GAAP financial measures have limitations and should not be used in isolation from, or as a substitute for financial information prepared in accordance with GAAP. A reconciliation between these GAAP and non-GAAP financial measures is included in our earnings press release, which can be found on our investor relations website at investors.amplitude.com.
+With that, I'll hand the call over to Spenser.
+Spenser Skates
+--
+Co-Founder and Chief Executive Officer
+Thanks, John. Welcome to Amplitude's Q4 and full 2024 earnings call. I'm going to go through three key areas today. First, our Q4 results and the reacceleration of our business.
+Second, how we are going after a market opportunity, and why 2025 is the year of the platform for Amplitude? Last, product innovation, progress on winning the enterprise, and customer stories. Q4 outperformed in all key metrics. Our fourth quarter revenue was $78 million, up 9% year over year. Annual recurring revenue was $312 million, up $13 million from last quarter.
+Non-GAAP operating income was $0.2 million. Customers with more than $100,000 in ARR grew to 591, an increase of 16% year over year. In 2024 we exited the year with over $299 million in revenue, we grew ARR by more than 10%, and we generated almost 12 million in free cash flow for the year. Amplitude is reaccelerating.
+We're continuing to see progress on our strategy of win simple, win the enterprise, win the category, and win together. Customers are embracing our platform, churn is beginning to stabilize, and we see a path to accelerating our double-digit growth. I'm proud of the Amplitude team for everything they delivered in 2024. Let's look at 2025.
+2025 is the year of the Amplitude platform. Every company needs data they can trust, an understanding of their customers, and ways to take action. That is exactly what Amplitude delivers. First, we help customers get trusted data into Amplitude.
+This is table stakes in digital analytics. Then we help companies understand what their customers are doing and why using analytics and session replay. This is what we do better than anyone else in the world. Then we enable our customers to take action based on those insights using our activation experimentation and guides and surveys products.
+Companies do not want stand-alone point solutions. Thomas and I spoke with hundreds of executives over the past year. Every single one is interested in going beyond analytics to Amplitude's platform. I want to take you through what the platform actually looks like in action.
+So, your product manager, they use AmplitudeAanalytics to discover that users are getting stuck at a certain point in the sign-up flow. You then use Amplitude's Session Replay to identify the confusing part of the flow. You then use Amplitude's feature experimentation to test which new sign-up flow works better. You realize your users need more help.
+So, you add an in-product guide with Amplitude guides and surveys. All of these use cases are more powerful when used together in one integrated platform. Product innovation is the biggest driver of long-term growth at Amplitude. We're continuing to expand our platform with new products that work better together.
+I want to walk you through some of the highlights from 2024. We had two new products to market. In February, we relaunched Session Replay customers like Questrade and TicketSwap, use it to understand the user journey, identify issues, and improve in product experiences. In October, we launched Web Experimentation.
+Customers like RBC Life Insurance, Double Good, and Hard Rock Digital use it to A/B test websites with a WYSIWYG editor without needing to rely on engineering. We also made major improvements to the platform. We launched enterprise-grade features like data access controls and data mutability, building our lead as the enterprise digital analytics platform. We also launched Amplitude Made Easy to help users get started and see value in record time.
+This led to a 40% increase in self-service sign-ups and a 40% increase in the number of new self-service users sending data. Finally, we launched Snowflake Native Amplitude in an out-of-the-box HubSpot integration to make it easier to bring data into Amplitude. We're going to do more in 2025. Last week, we launched Guides and Surveys.
+We got this product to market only four months after the acquisition of Command AI. Guides and Surveys helps companies deploy in product guides, tours, and surveys with just a few clicks. Amplitude's Guides and Surveys product provides a significantly better end-user experience than the average product in market. I want to actually show you a demo of all of this now.
+I'm going to first start by actually showing you how terrible the average guides and surveys product is. So, with the average guides and surveys product, you get tons of annoying pop-ups. As a user, your experience is now worse, not better. We call this the pop-up party.
+Nobody wants this experience and it is not effective for product engagement. Now, I'm going to show you a demo of Amplitude's approach, because I want you to see how much better it is. Instead of showing every pop-up to every user by default, we customize what is shown based on what the user is doing in the product. So, in this demo, we can see that the user is confused.
+Their mouse is moving all over the screen because they don't know what to do next. We detect this confusion and then we ask them what they're trying to accomplish. They let us know and then we show them in the UI where they can complete the task. This is a tailored interaction that results in a better user experience and higher user engagement.
+The CEO of European email builder, B3, told us that the ability to guide users through their product in a personalized and data-driven way was the main reason for choosing Amplitude. While it is early, we are already seeing strong demand. During launch day last week, we had a record-breaking number of new sign-ups to Amplitude. We also had some customers buying guides and surveys in Q4 before the product was even launched.
+A shout-out to James, Vinay, and the entire former Command AI team for bringing this product to market so quickly. There is a lot more on the product launch horizon this year, including some exciting AI products. We're going to be sharing more details at our Investor Day in New York on March 10th. We believe our pace of innovation will continue to build Amplitude's lead as the enterprise digital analytics platform.
+I wanted to also share what we're doing in go-to-market to win the enterprise. The biggest change for 2025 is that we've created a new strategic enterprise accounts team to focus on our top 30 customers and top 30 prospects. This team is responsible for a significant portion of our ARR. This segment allows us to focus our resources in a more concentrated way on our larger customers.
+In the last year, we've nurtured stronger executive relationships, which has helped drive higher gross bookings. We now have relationships with C-level and VP levels at almost every large Amplitude customer. We've developed smarter account targeting models to help land the right customers and ensure we're building pipeline specifically in the enterprise. This paid off in a big way in 2024 and in Q4 in particular.
+Lastly, we built out our enterprise sales, product, and professional services capacity and have fully staffed teams across the field. Our platform strategy plays a role again here. In Q4, 67% of the new land ARR in our largest targeted accounts came from multi-product deals. However, 75% of our customers still use just Amplitude product.
+Our data shows that those who use a product beyond analytics drive greater value, invest more into Amplitude overall, and retain 10 percentage points higher than those who are analytics only. The potential expansion upside for us is big. On customers, we had a great quarter for new and expansion deals in the enterprise with RBC Insurance, Hard Rock Digital, Thrive Market, Western Union, AllTrails, Philip Morris, Calm, BridgeAI, Ultra Mobile, Mercado Libre, and many more. I want to talk in detail about three of our customers today.
+One is Mercado Libre, the company leading the shift to online commerce in Latin America. With over 60 million buyers last quarter, including 7 million new users, they needed a way to turn their first-party data into business impact. By adopting Amplitude Analytics, Mercado Libre empowers teams to move faster, make smarter decisions, and drive deeper engagement. Over 5,000 employees at Mercado Libre now actively use Amplitude with more than half going beyond dashboards to actively query user data and uncover insights.
+Building on this success, Mercado Libre is now expanding into feature experimentation and Amplitude activation, replacing multiple internal tools with our integrated platform. This shift allows them to test and optimize new features, personalize campaigns, and improve customer loyalty, all powered by the same data. With e-commerce in Latin America at 15% of total transactions, the opportunity is massive. We are proud to support Mercado Libre as scale driving innovation and long-term growth.
+We are also working with more traditional enterprise companies who are incorporating a digital experience across the customer life cycle. In Q4, we expanded our relationship with one of the world's leading automakers headquartered here in the United States. This customer is fundamentally redefining the driver experience and Amplitude is helping power, that transformation. Historically, their customer data was fragmented across multiple legacy systems by expanding their use of the Amplitude platform.
+They are now unifying insights across the entire driver lifecycle from in-car infotainment to dealership interactions to digital services. With Amplitude, analytics, their teams can now see how drivers engage with digital features in real time. With feature, experimentation, they are testing and refining new in-car experiences before rolling them out at scale. And with Amplitude activation, they are delivering personalized interactions that make every drive smarter and more seamless.
+The result is a more connected intuitive experience for drivers and a data-driven competitive advantage for the company. Lastly, we are working with the Fork, the largest online restaurant booking and discovery platform in Europe and Australia. The Fork serves over 20 million diners monthly, and over 60,000 restaurants. The Fork was looking to combine legacy vendors and point solutions into a single platform.
+Amplitude worked with the team to identify opportunities and workflows across analytics, Session Replay, and experimentation, to reduce their data overhang and accelerate their ability to iterate on both their B2B and B2C applications. The Fork can now improve the onboarding process for restaurants, helping to increase subscriptions. It can help those restaurants improve the diner experience, boost first, and repeat bookings and drive reservation revenue. It can also identify reservation patterns and promote them across similar demographics and geographies.
+As a final note today, I mentioned that churn rates were stabilizing after a relatively tough 2024, a significant majority of our large COVID-era customers have rightsized their contracts. We are seeing signs that the worst of the churn is behind us, but we still have key accounts we need to watch. The macro-environment also remains challenging. While we expect churn to keep improving, we anticipate continued pressure in the lower end of the market.
+Our team is focused on helping customers derive value from Amplitude as fast as possible. The best way to reduce churn is to make sure customers succeed. Before I hand it over to Andrew, I wanted to reiterate that I am proud of how the Amplitude team executed last year. We are still early in the digital analytics category, and we are set up to lead it.
+I'm looking forward to 2025, and beyond. Thank you for your interest in Amplitude. Now, over to Andrew to run through our Q4 and 2024 financials in more detail.
+Andrew Casey
+--
+Chief Financial Officer
+Thank you, Spenser, and good afternoon, everyone. I'm pleased with how the team ended, the year showing progress against the plan we put in place. Our success is in our hands. We have the right team, right strategy, and right alignment in place to continue strong execution.
+Our land, expand, retain strategy is working as we move upmarket into the enterprise, and we believe this trend can accelerate. As Spenser laid out, our strategy for 2025 is clear. We are focused on building an extensible platform for our customers that allows them to build mission-critical workflows on top of our solution. Our customers creating value with our platform is our number one priority.
+And we're focused as an organization to increase the value and speed that enterprises can realize with Amplitude. With this, we will continue to iterate on our business model, to create a durable growth profile to grow shareholder value over time. When we say enterprise, we are focused on companies that have over 1,000 employees or generate over 100 million in revenue. We'll discuss more about this cohort at our Investor Day on March 10th.
+But this cohort is ripe for consolidation from point solutions. Amplitude gives enterprises the ability to have a single source of truth for their data, reducing the need to pivot from one application to another and accelerate their ability to iterate, implement business processes changes quickly. Democratizing analytics within the enterprise is at the core of enterprise, decision-making and uniquely positions us to be the consolidator of point product solutions. Our growth algorithm is focused on landing with enterprises, driving rapid time to value and expanding our use cases.
+So, many customers have deployed a variety of digital technologies to better understand their customers, drive effective marketing or drive improvements in their digital products only to discover the pain of managing these environments in the pursuit of driving improved business outcomes. Our sellers are focused on positioning the amplitude platform to uniquely solve this customer pain. They develop deep relationships within their accounts and become strategic, valued partners within the organization. By becoming strategic partners with our customers, we believe we will drive greater attachment to our platform and create longer-term relationships.
+We have seen this start to take hold, as our RPO continues to accelerate, up 29% year over year. Now, turning to our fourth quarter results. As a reminder, all financial results that I will be discussing, with the exception of revenue, are non-GAAP. Our GAAP financial results along with reconciliation between GAAP and non-GAAP results can be found in our earnings press release and supplemental financials on our IR website.
+Fourth quarter revenue was 78.1 million, up 9% year over year and 4% quarter over quarter. Total annual recurring revenue increased to $312 million exiting Q4, an increase of 11% year over year and $13 million sequentially. Here are more details on the key elements of the quarter. We had a strong new customer quarter focused on the enterprise.
+The macro-environment still remains difficult for new logos. The number of customers representing $100,000 or more of ARR in Q4 grew to $591,000, an increase of 16% year over year. In-period NRR was 100%, a 2-point increase sequentially. NRR on a trailing 12-month basis was 97%.
+We continue to make progress on improvements in retention and expect NRR to slowly increase throughout 2025 as we drive greater expansion opportunities. Gross margin was 77% for the fourth quarter, in line with Q4 2023. Sales and marketing expenses were 44% of revenue, a slight increase year over year, reflecting the investments we've made in enterprise coverage. We continue to focus on improving sales efficiencies, driving improvements through our changes in the processes and coverage, and moving up-market toward enterprise customers.
+G&A was 16% of revenue, up 1 percentage point year over year, reflecting increases in legal and acquisition-related expenses. G&A will continue to be optimized to improve as a percentage of revenue over time. R&D was 18% of revenue, up 2 percentage points sequentially, primarily due to the acquisition of Command AI. Total operating expenses were $60 million, 77% of revenue, up 2 percentage points sequentially, primarily due to the aforementioned increases in sales and marketing and our acquisition of Command AI.
+Operating profit was a positive $0.2 million or 0.3% of revenue, which was approximately $1 million better than our midpoint of our guidance. Net income per share was $0.02 based on 135.7 million diluted shares compared to net income per share of $0.04 with 129.2 million diluted shares a year ago. Free cash flow in the quarter was a positive $1.5 million or 2% of revenue compared to $1.5 million or 2% of revenue a year ago. Now turning to our outlook.
+We are assuming that the macroeconomic environment continues to be challenging in the near future. However, we are encouraged with the demonstrated progress of our strategic changes. We expect that every new logo will continue to be tough, and that buyer scrutiny has not shifted over the past six months. As we get through the larger levels of churn, we continue to address structural issues in our go-to-market motion to influence greater retention and incent deeper adoption of our platform.
+We are building a durable enterprise SaaS business that will enable us to drive growth, as we deliver increasing value to our customers. We plan to reinvest appropriately against our platform opportunity, and will not shy away from any big bets where we see favorable outcomes. Now, for the first quarter of 2025, we expect revenue to be between $78.5 million and $80.5 million representing an annual growth rate of 10% at the midpoint. We expect non-GAAP operating loss to be between negative, $5.5 million and negative, $3.5 million, reflecting the linearity in our business, as we begin a new year with our new product, announcements, sales kickoff, and other go-to-market investments.
+And we expect non-GAAP net income per share to be between negative $0.03 and negative, $0.01, assuming basic shares outstanding of approximately $130 million. For the full year 2025, we expect revenue to be between $325 million and $331 million, an annual growth rate of 10%, at the midpoint. Our outlook for non-GAAP operating income to be between, negative $3.5 million and positive, $4.5 million, reflecting our focus on growth with leverage. We expect non-GAAP net income per share to be between $0.5 and $0.10, assuming shares, outstanding of approximately $142.1 million, as measured on a fully diluted basis.
+I'm confident in our ability to build a durable growth model by aligning to the right customers, driving the right contracts, investing to drive greater innovation, and building value for our customers. Our long-term opportunity remains incredibly compelling. With increased discipline and execution, I believe we will be in great position to capture it. With that, we'll open it up for Q&A.
+Over to you, John.
+John Streppa
+--
+Head of Investor Relations
+Thank you, Andrew. We will now turn to Q&A. For the sake of time, please limit yourself to one question and one follow-up. Our first question will be coming from the line of Brent Bracelin from Piper Sandler, followed by Koji Ikeda from Bank of America.
+Brent, your line is open.
+Brent Bracelin
+--
+Analyst
+Hey, guys? Good afternoon, Andrew, maybe we'll start with you. Net new ARR on an absolute basis, was the highest we've seen in two years. Can you double click into the drivers there on net new ARR? Is GR improving? Is it mostly new lands, that's contributing to it was there a little contribution from Command AI? Just trying to understand, it's such a big increase here. We haven't seen in a couple of years what drove that?
+Andrew Casey
+--
+Chief Financial Officer
+Well, I think it's -- thanks, Brent. It's a great question. The thing I would tell you is, first and foremost, it's our focus on our enterprise coverage. We really started making changes to that.
+In the beginning of 2024, and sales cycles in the enterprise take between 9 and 12 months, or even longer in some cases. And so, I think you're seeing is really the fruition of that investment and starting to see real productivity on use cases and customers where we're delivering great value. Now there was a component of ARR that came from Command AI, as part of the acquisition which was approximately about $2 million that we added.
+Brent Bracelin
+--
+Analyst
+OK, perfect, helpful. And then I guess, specifically on Command AI, you guys quickly rolled out the Guides and Surveys product, I think in the last week or so. Maybe walk through the potential cross sell, attach rate specifically around Command AI. What's been the early feedback? I know we're one weekend, but it seems like a very compelling incremental upsell, cross-sell opportunity, love to hear what the feedback has been with that product now live?
+Spenser Skates
+--
+Co-Founder and Chief Executive Officer
+Yeah, for sure. I'll take that. Thanks, Brent. So, it's I mean, first, the fact that we're able to get it out to market in just four months is awesome.
+Like most teams, you do an acquisition, and it's like, oh, it takes a year to get the thing integrated and working, but a credit to both the former Command AI team, as well as the everyone here at Amplitude for making it happen so quickly. In terms of the cross opportunity, I think, with guys and surveys, you now have the complete set of core products for product managers from a data standpoint. So, there's really no reason to go with individual point solutions. So, I think that sets us up well from competitive standpoint, and then from a cross-sell standpoint, I think, you're looking 20% to 50% uplift on top of the analytics contract.
+So, it's similar to what I'd call the uplift that you see from experimentation by completing the suite into the full core platform. I think overall you'll look at anywhere between 2x and 3x of what you're doing for analytics only. We actually just closed a 200,000 deal for guidance and surveys just yesterday that was fantastic. We have larger ones in the pipeline for some of our enterprises in Q1 and Q2.
+So, early, but it's -- we're seeing a lot of interest on it, which is great.
+Brent Bracelin
+--
+Analyst
+Great to see and nice to see a solid execution in Q4. Thank you.
+Spenser Skates
+--
+Co-Founder and Chief Executive Officer
+Thanks, Brent.
+Andrew Casey
+--
+Chief Financial Officer
+Thanks, Brent.
+John Streppa
+--
+Head of Investor Relations
+Thank you. Our next question will come from Koji Ikeda from Bank of America, followed by Clark Wright from D.A. Davidson. Koji, the floor is yours.
+Koji Ikeda
+--
+Analyst
+Yeah. Thank you. Hey, guys, thanks so much for taking the questions. I wanted -- the first one is about the enterprise sales motion, totally hear you and appreciate all the color that you gave in the prepared remarks.
+But really here, we noticed there may have been some sales attrition in the sales org recently. And just curious, what is the current sales capacity look like today? And I was wondering if you could get a little bit more prescriptive in how you're thinking about strategically investing in go-to-market.
+Andrew Casey
+--
+Chief Financial Officer
+Yeah. So, I think last year we resegmented the business to basically move a whole bunch sellers away from SMB, added the plus plan to do self-serve created a whole named accounts model. This year the big change that I highlighted was the addition of the strategic account segment to increase focus there. We've built out from a capacity standpoint, kind of, what we -- the level, the right level of investment in order to successfully go after the enterprise opportunity.
+You saw a bunch of that come to fruition in Q4. So, that was great. And we're set up from a capacity standpoint as we go through this year. Now, as a natural part of continuing to push the big business upmarket and continuing to evolve and mature, you'll naturally see sellers a threat as you change the team and everything else, and so I wouldn't say it's significantly beyond what you'd expect as part of a maturing enterprise business.
+Spenser Skates
+--
+Co-Founder and Chief Executive Officer
+Yeah, maybe just add that, too. I think, as you start to instrument, an enterprise, go-to-market model, there's a lot of changes that happen. You split territories, you move accounts, you try to balance things more appropriately. And as that machine starts working more and more efficiently, that's when you start to really look at the data to make sure that you're leaning in and understanding the dynamics of how efficient the sales force is working before you start making additional investments.
+In particular, I look at the magic number. I look at gross ARR and look at how much expense we're actually putting toward that gross ARR. And as the closer and closer we get on that result to being one. That's an early indicator that you should be making additional investments.
+But you also have to get dig deeper. You really have to understand the profile of your sales processes, the pipeline that you're generating, the likelihood that it's going to convert. And frankly, how well and distributed attainment is across your team. If all those things are working well, then it makes a lot of sense to start investing more and more in Aesc coverage, to go, generate, and reach out to more enterprise clients.
+Koji Ikeda
+--
+Analyst
+Got it. Nope, thanks, guys. And a follow-up here may maybe a more philosophical question, love the demo that we saw.
+Spenser Skates
+--
+Co-Founder and Chief Executive Officer
+I'm glad it worked. Well, this is the first time we've done on an earnings call.
+Koji Ikeda
+--
+Analyst
+But it got me thinking. Amplitude is really good at knowing what the user should be doing. So, why can't that data and intelligence be fed into an agentic AI offering, power -- and would this be -- looks like a positive, right? So, would this be a positive or negative for the usage of Amplitude?
+Spenser Skates
+--
+Co-Founder and Chief Executive Officer
+Koji, you should join our product leadership team. I love it. You're already ahead of us. So, one of the things we are going to be doing this year is launching an Amplitude agent sometime in the second half that will allow you to drive both automated insights and automated action.
+So, hey, show me groups of users that I should look at and that had a bad experience or a good experience in the product or create experimentations for me of a new sign-up flow and see what works the best or create different versions of an in-product guide trigger that prompts the user and test them out for me. So, the Agent stuff is actually really exciting for us because to your point, we have one of the largest repositories of user behavior data out there, right? There's no open -- it's not like text where there's a lot of open-source stuff equivalents on the web. It's like there's only proprietary sources of this data, and we're one of the largest. And so, being able to extract insights and action out of it with an Amplitude agent is something we're really excited about.
+So, we don't have anything to actually show off today, but there's a team working on it, partly from the Command folks and partly from some folks that we already have here at Amplitude, and we're going to be coming out with something in the second half. My goal will be to have something that we can maybe do a quick preview during our Investor Day in March.
+Koji Ikeda
+--
+Analyst
+All right. Thanks, guys. Thanks for taking the questions.
+John Streppa
+--
+Head of Investor Relations
+Thank you. Our next question will come from Clark Wright from D.A. Davidson, followed by Jackson Ader at KeyBanc.
+Clark Wright
+--
+Analyst
+I guess building off of Koji's question around the AI theme. I'd love to hear a little bit more about how you're seeing the role of product analytics change within the enterprise as AI is integrated into the user experience. It seems like the conundrum that you identified earlier where you see more pop-ups is only becoming more prevalent now.
+Spenser Skates
+--
+Co-Founder and Chief Executive Officer
+Yeah. So, the big -- OK, let me hit a few different things on that. So, the big problem with the kind of biggest blocker to someone getting value out of Amplitude or any digital analytics today is that they have to go in there manually and know what to query, know what to extract from an insight standpoint. Now it's 100x easier than using SQL, so you can have nontechnical folks do it, but you still have to learn a little bit about the data.
+What's much more valuable is if you have an AI that's coming over that data all the time and then just surfacing you, hey, we saw a spike in usage of this feature today or hey, this release, there's a bug in it here. Can we roll it back? That's much more valuable because now instead of only humans looking over the part of the data that they are, you can have AI just looking over 100% of it all the time. So, that's incredibly valuable. On the pop-up front, it's funny because I think a lot of it actually reminds me of the '90s to late '90s when the web first came online and you're just like you get like all these advertising pop-ups and there had to be kind of a whole cycle of technology to block those and companies to realize, hey, this is not actually the best way to create a compelling user experience, even if it gives more impressions, it's not actually -- you're not actually getting your user to your end goal any faster.
+And in fact, it's blocking them from doing that. And so, we're seeing the funny. The ironic part is, we're kind of back to that era, and that we're seeing the same thing happen within. Pop-up guides, you know, for any given in pop-up like pop-up in the application.
+You're going to see, hey, yes, it increases engagement. But then, when you look at them holistically and it spams the whole experience, it's actually worse. It's a worse thing overall like out. And so, users are starting to get pop-up blindness and all sorts of stuff.
+And so, part of the advantage of guidance surveys being integrated with the analytics, data is you can customize. So, like I showed the confusion, hey, if you see a user is confused, you can intervene specifically. Or if you see a power user really likes a feature, then you can give them the latest updates on that feature. And so, you're giving much more tailored guides to the right user at the right time.
+And I think we've seen the engagement rates on a pop-up that's customized like that be 2 to 10 times higher than just kind of the average spam that you get from a median guides and surveys product.
+Clark Wright
+--
+Analyst
+Thanks for that color. And then, Andrew, a quick one for you. In terms of the linearity or I guess, maybe the delta between ARR growth and revenue growth for 2025, how should we be thinking about some of the drivers of that as we kind of see the acceleration continue in ARR growth going forward?
+Andrew Casey
+--
+Chief Financial Officer
+Well, I'd tell you, first, we're really pleased with the progress we are making and a lot of the levers we're pulling are really showing up, whether you think about that in terms of coverage or changes in segmentation, we're working on changes in our pricing model, where contract duration is increasing. All those things are instrumentation we put in place to really emphasize the enterprise model and focus. And so, we'll be talking a lot more about on our Investor Day and how those are to show up and just increasing disclosures we're going to have. But I would tell you that it's been a journey throughout 2024.
+We made investments to really position ourselves to see the growth that we have. And I certainly expect that if we continue to execute, we'll see continued progress.
+Clark Wright
+--
+Analyst
+Awesome. Thank you.
+John Streppa
+--
+Head of Investor Relations
+Thank you. Our next question will come from the line of Jackson Ader from KeyBanc, followed by Nick Altmann of Scotiabank. I believe Kyle is on for Jackson. Kyle, the floor is yours.
+Unknown speaker
+--
+KeyBanc Capital Partners -- Analyst
+Great. Thanks, guys. This is Kyle on for Jackson here. Maybe just a quick question on how we think about the shape of revenue growth throughout the year.
+As you guys kind of focus more on the enterprise and it becomes more prevalent, should we begin to think about the fourth quarter kind of becoming a larger growth period or sequentially to the third quarter and kind of more important? And then just on -- I think you kind of alluded to macro being a little bit squishy still with some customers. Is there anything you guys could call out there between international and North American revenue? Thanks.
+Andrew Casey
+--
+Chief Financial Officer
+So, I'll start.
+Spenser Skates
+--
+Co-Founder and Chief Executive Officer
+Yes, go for it, Andrew.
+Andrew Casey
+--
+Chief Financial Officer
+So, first, I think it's absolutely right. The more and more we see a percentage of our ARR moving more toward enterprise, we're exhibiting a model that is very classic for enterprise software companies and those that are on a calendar year-end, where you see the strongest performance in Q4, and it's very typical that we have annual sales plans with annual quotas and people are working toward that, whereas the beginning of the year is where we're making investments, we're retraining the sales team, we're changing territories, potentially rolling out new products like we did in this year. And so, that tends to be a period under which we'll see the lightest level of growth. So, that linearity very classically from enterprise software is where you should start thinking about it from our perspective.
+Now having said that, I think the investments we made last year are starting to show up in our pipelines in a meaningful way. A year ago, you'd probably say our enterprise business in pipeline and for pipeline was 30% to 40%. Now it's upwards of 80% representing enterprise clients. So, we certainly think that the levers we've pulled, although they have a lagging impact on the sales cycles, they are showing up in a material way, and they are the underpinnings of the reason why we're a little bit more positive about the forward guidance.
+The one other call out I'd make is that, you know, because new revenues, more and more enterprise concentration concentrated. The variability quarter to quarter is going to be high, higher. So, obviously, we had a, you know, good Q4 on a relative basis. You know, so exactly, you know, how does Q1 compare to Q2 compared to Q3? There's going to be variability.
+To Andrew's point, I think you'll have probably a little higher weighting to Q4 and a little lower weighting to Q1. But I think the bigger impact will just be quarter-to-quarter variability, you know, as deals come in or push, or you sign a large deal, one quarter versus the next, and so that would be the biggest thing while I you know, I've said we're on the path to -- we're reaccelerating the business. We've demonstrated that in Q4. We expect to demonstrate that this year exactly how it manifests quarter to quarter may change.
+Yeah. And I think just maybe to add to that, too. You saw that in Q3, where we had a number of really large expansions in Q3, not as much new logo, not as many new lands. Q4 was actually one where we had a record number of new enterprise lands, and not the same number of expansions that we saw in Q3.
+At least the size of it. So, it was much more broad based, and sets us up very well for expanding those customers in the future. Sorry, what was the second part of the question? I forgot.
+Unknown speaker
+--
+KeyBanc Capital Partners -- Analyst
+Yeah, just around. If there was anything meaningful to call out, if you saw any bifurcation between strength in North America versus international?
+Spenser Skates
+--
+Co-Founder and Chief Executive Officer
+I don't think so. Andrew, did you anything you want to --
+Andrew Casey
+--
+Chief Financial Officer
+No, nothing that I want to call out. I think, certainly, if some of the FX Changes out there. You hear a lot of press from others. But I would tell you just to be clear.
+Amplitude engages in U.S. dollar with the majority of our transactions. So, although we could see some headwinds with respect to foreign currency translations in respect of discounting on deals from a translation perspective, we really don't -- we were not really anticipating any major impacts on growth.
+Spenser Skates
+--
+Co-Founder and Chief Executive Officer
+Yeah. Q4 was pretty broad based in terms of achievement. Kudos to both. I actually want to call out our both our EMEA teams and our APJ teams for putting up great results.
+So, it was good across the board.
+Unknown speaker
+--
+KeyBanc Capital Partners -- Analyst
+Great. Thank you, guys.
+John Streppa
+--
+Head of Investor Relations
+Thank you. Our next question will come from Nick Altmann from Scotiabank, followed by Taylor McGinnis of UBS.
+Nick Altmann
+--
+Analyst
+Awesome. Thank you so much. You guys just alluded to the record of net new enterprise lands in the quarter. Clearly, that's a strategy going focus -- or a focus going forward on the large customer side of the equation.
+Can you maybe just talk about how those land ASPs, especially at the enterprise level are sort of trending? And going forward, how do you sort of expect the expansion cadences to play out those customers? Because I know you've talked about in some of your more recent customer cohorts, right? You're seeing actually healthier expansion. So, maybe just talk about the land ASPs for the enterprise, strength, and then sort of any color you can kind of provide on a go-forward basis as to how you expect the expansion motion for those customers. Thank you.
+Spenser Skates
+--
+Co-Founder and Chief Executive Officer
+So, it's like there's not material change in the land ASPs, especially when we consider there's still a predominance of them that still land with analytics as a starting point. You know I'll take a G2 -- land at 100K with the potential of expansion 20 times any day. But the really interesting thing that's starting to happen is we're seeing more and more customers land with multi-product. And they understand the story.
+They understand the value proposition. They may even have a long-term rollout of all of our capabilities, but they're willing to invest with amplitude because they understand the innovation and the engine that we're creating. And so, I think both those things that we'll have to balance a little bit as we think about where our NRR is going to go and the potential for expansions, each one of those accounts. I'll have a little bit of detail for you on Investor Day, how we're thinking increasingly about appealing to more traditional G2K customers.
+But there's a little bit of push and pull going on right now. We're definitely trying to be targeting enterprise clients and we're offering them a robust set of capabilities that we just didn't have historically. So, there's a little bit of push and pull.
+Yes, the one trend I wanted to call out that I didn't mention the prepared remarks is that we're seeing faster time to replace legacy, MarTech, enterprise, analytics, solutions. And so, sometimes we've -- there's been a few cases where we've actually come in and replaced the whole thing wholesale. If you were to go back three to five years normally, we'd kind of come alongside them and run side-by-side. But now we're seeing more direct replacements where they're saying, hey, we're going to shut down this legacy enterprise, MarTech, solution, and go over to Amplitude.
+And sometimes that can happen in the land right off the bat. Sometimes, it takes a year or two, you start the land small and you go to the full replacement. But that to me, is the biggest thing. I don't really care if I -- obviously, I'd love to land it right away.
+But if the customer gets to the same point where they're using Amplitude as the system of record for digital analytics, that's a win. And so, we're seeing that happen. We're seeing a bunch of cases that happened in the last year where that hasn't happened prior. And so, we want to accelerate that this year.
+Nick Altmann
+--
+Analyst
+Great. Thank you.
+John Streppa
+--
+Head of Investor Relations
+Thanks, Nick. Our next question will come from the line of Taylor McGinnis from UBS, followed by Tyler Radke from Citi. Go ahead, Taylor.
+Taylor McGinnis
+--
+Analyst
+Yes. Hi, guys, thanks so much for taking the time tonight. I'd love to just hear how your customer conversations are evolving. So, are you starting to see evidence in the pipeline of net upsells improving? Is that being driven by a return of volume growth, is that more cross-sell? And the reason why I ask is because it seems like you guys have talked about a lot of the improvement to date coming from that improvement in churn.
+So, just as we think about when we could start to see those net upsells lead to maybe a bigger inflection in NRR or net new ARR, like any insight, I guess, that you guys are getting from your customer base there?
+Spenser Skates
+--
+Co-Founder and Chief Executive Officer
+Yes. So, I want to separate a few things. First, I think the biggest change on the upsells is much more of it is coming from cross-sell of the platform. So, it's less like -- if you were to 2021, universally volume.
+Today, it's actually platform is the majority of those upsells. So, going to experiment, activation, which we used to call CDP, guides and surveys, session replay, what have you? And so, that's to me very healthy because then it's like, OK, you're not worrying about -- you know you're getting more value by buying more versus, hey, just because I'm going up in data volume, doesn't necessarily mean I'm confident as a buyer, and that I'm getting more volume. So, that I think, drove some great growth last year to part of -- in my prepared remarks I talked about, hey, 75% of customers still, just analytics only. So, there's still we see a lot of upside over the next few years on that expansion trend.
+Now, separate from that. I think you have the churn elements on analytics in particular, with two big ones. The first is rightsizing of large contracts, and then the other is down market. So, with the rightsizing of large contracts, we are now -- that's always a little bit of a fear, but we're past most of them.
+So, before we were dealing with maybe three or four quarters that had big risk. Now, we're dealing with somewhere between zero, 1, maybe 2.25 that have that sort of risk. So, there's always that risk when you have multimillion-dollar contracts and tech companies where they're looking to reduce, spend. But it's significantly -- we're now more -- at a more normal run rate of that this year than we were than -- last year was kind of the peak of that.
+I think the one place where we haven't really seen improvement yet, but -- and this is part of where we want to continue to improve on churn, and that will structurally drive growth is on the lower end of the market. So, you know, that continues to be particularly with tech start-ups. And companies going out of business, that some level is what it is. And so, part of our thing is like, all right.
+Focus on the enterprise. Make a larger proportion of ARR come from there. And as that transition happens and the down-market stuff is smaller, that will be less of a headwind to growth. So, I do expect to see improvement.
+That's all to say, I do expect to see improvement from that as we go through this year.
+Taylor McGinnis
+--
+Analyst
+Perfect thanks for that, and then maybe just a follow-up. Andrew, I know there's probably uncertainty in terms of how ARR can trend throughout the throughout the year, and how net new ARR can trend. But can you help us like, can you maybe a little bit more color on 1Q? Anything we can take away from the trends that we saw on 4Q, and how that might fall into the quarter.
+Spenser Skates
+--
+Co-Founder and Chief Executive Officer
+I think you always have a situation from Q4 to Q1 where you reset, in our business like I said before was, is very much calendar-based. And we're making changes, territory setups, changes in our product, positioning segmentation. So, all that takes a little time. So, I think you ought to think in terms of Q4 is going to be our strongest period from an ARR perspective.
+And Q1 will show, quarter over quarter, likely a decline in the total amount. Because you're doing that reset. You're taking time to get comp plans out and everything set up the right way for the full year. Having said that we're incredibly optimistic about pipelines we have, the sales teams getting settled, focusing on selling the platform all the new capabilities we're introducing.
+So, I think you'll see a pattern that exhibits us ramping throughout the year.
+Taylor McGinnis
+--
+Analyst
+Awesome. Thank you so much.
+Spenser Skates
+--
+Co-Founder and Chief Executive Officer
+Thanks, Taylor.
+John Streppa
+--
+Head of Investor Relations
+Thank you. Our next question comes from Tyler Radke from Citi, followed by Arjun Bhatia from William Blair. Believe Ashley Kim's on for Tyler. So, Ashley, the floor is yours.
+Ashley Kim
+--
+Citi -- Analyst
+Hey, Spenser and Andrew. Thanks for the question. Just wanted to ask about some of the momentum for the newer products at Amplitude, and how much it's baked into the guidance for this year.
+Spenser Skates
+--
+Co-Founder and Chief Executive Officer
+So, certainly, I would tell you our guidance is more reflective of the broader set of investments and actions we're taking from an enterprise perspective. Any one product, frankly, is not as important as the total platform and value we're delivering to our clients. But having said that our new products are driving incremental opportunities, they are driving greater value for our customers and equally for us. So, I wouldn't break down our guidance, by product line in particular, but it's not having them would be very detrimental to our growth.
+Having our products is really the fuel through which we will drive greater and greater growth.
+Ashley Kim
+--
+Citi -- Analyst
+Got it. And maybe if I could squeeze in one more question, I think during the call, you mentioned some key accounts that you're watching for potential churn. Just want to ask if you could provide a bit more color on those accounts. And what you're doing to mitigate any risks?
+Andrew Casey
+--
+Chief Financial Officer
+Yeah, sorry. I actually want to distinguish between two terms. One is churn, and then the other is contraction. For key accounts.
+I'm like -- 90% of it the concern is contraction. So, they'll still be Amplitude customers. They'll still use us, this will still generate value. It's just managing their renewal year to year with how much they want to actually spend and so that's what we're that's what we're watching.
+We've seen that the risk from that comes significantly down. Now we think you know vast majority of those customers are at the right size. But you're kind of always watching it quarter-to-quarter. And so, we're not really concerned about any of the larger accounts churning but we want to make sure that their spend levels, kind of stay even versus whipping all over the place.
+Ashley Kim
+--
+Citi -- Analyst
+Thank you.
+John Streppa
+--
+Head of Investor Relations
+Thank you. Our next question is from Arjun Bhatia from William Blair, followed by Rob Oliver from R.W. Baird.
+Arjun Bhatia
+--
+Analyst
+Thank you, and congrats on the nice Q4 here. Spenser, maybe one for you. Just as we're thinking about movement into the enterprise. From a product perspective, is there anything that needs to change in terms of integrations that you have or systems that these larger customers will have that are different that you have to integrate with or interface with on a more regular basis? And how do you think about kind of the R&D or development that's still left to be done there as you move up market?
+Spenser Skates
+--
+Co-Founder and Chief Executive Officer
+Yes. There's not like any one big thing. It's like, oh, you do this, you solve for enterprises forever. It's like there's always a growing list of compliance and data and integration requirements.
+I'll call out a few. The first big one that we did last year, which I mentioned in prepared remarks is data access controls. So, that's a big deal being able to make sure to assign different users on the platform to have access to different data. So, only certain people can see revenue data or only certain people can see PII or anything that's protected.
+So, that was a very important capability, particularly of the larger enterprises.The thing we're doing to build on that is role-based access controls, so that was database access controls, which you're protecting certain bits of data from certain people. Role-based access controls are allowing you to customize the roles and the sort of functionality that they have access to. And so, that's going to be -- that's on our road map for this year and a key requirement for a bunch of our enterprise customers. So that's kind of the first bucket is from a security standpoint.
+The second is from a data standpoint, one of the things you see, particularly at larger enterprises, the data is all over the place. And it may be in data warehouse like Snowflake or Databricks. It may be on their own cloud data store. It may be on internal data store.
+And so, you have to do more customization to work with where the data is at. One of the big things that we just delivered on is data immutability, which is how do you keep the Amplitude data store in sync with a data set that's constantly changing. So, let's say, a user refunds a purchase, how do you make sure to make that reflect on the Amplitude side as well? So, we delivered the first version of that, I think, a month or two ago. And then there's going to be more requirements on like, OK, well, can you get data from this particular data cloud like Oracle Data Cloud or other data sources.
+And that's just as they come up, we do them. They're not like some massive lift for us to be able to do, and it's just a natural part of continuing to go up-market, and we'll prioritize what has the best short-term ROI on that.
+Arjun Bhatia
+--
+Analyst
+OK. Perfect. Super helpful. And then one for Andrew.
+Just I know this is your maybe first time giving guidance at Amplitude. So, can you maybe just help us understand -- or for the full year at least, can you help us understand your guidance philosophy and maybe what you're embedding in the outlook or in the initial outlook for 2025? It sounds like macro is still a headwind and has not improved yet. But give us a sense for conservatism and execution cushion that you're baking in.
+Andrew Casey
+--
+Chief Financial Officer
+Well, I'll tell you, the guidance is the guidance. But what I can tell you is I'm rooted in what we can control. We use a lens of execution, not betting on future macro improvements to establish the basis of our guidance. And what I mean by that is the things that we're doing around our coverage model, our pricing and packaging, our products that we're introducing, those things are things that we will be able to go and focus on to drive value for our clients.
+And that shows up in pipeline. That pipeline has general dynamics around conversion rates and progress and how we operate is really the underpinnings of the guidance itself. And so, in Q3, I talked about a philosophy of having growth with leverage. You'll see that throughout the pattern of 2025 and the guidance is predicated on that.
+In Q1, we've got, what I will call, some non-recurring expenses associated with the kickoff of the year, at least for the fiscal period. And that in itself are investments, if you will, on making sales teams more effective, making our marketing programs convert at a higher rate, getting better data, and understanding of targeting the right customers. All those things are kickoff investments for the year, and then they should enable us to drive greater and greater scale as we move forward and grow the business.
+Arjun Bhatia
+--
+Analyst
+All right. Perfect. Thank you.
+John Streppa
+--
+Head of Investor Relations
+Thank you. Our next question is from Rob Oliver from Baird. And then with our last question will be Elizabeth Porter from Morgan Stanley. But Rob, the floor is yours.
+Robert Oliver
+--
+Analyst
+Yes, great. Hey, guys. Thanks. Can you hear me OK?
+John Streppa
+--
+Head of Investor Relations
+Yes. Very clear. Good to hear you.
+Robert Oliver
+--
+Analyst
+OK. Perfect. My background is hiding the fact that I'm in the car. So, I apologize for that.
+So, yes, a couple of questions. One, Spenser, you've called out that you guys have seen really nice traction from the Google Analytics end-of-life and some of those accounts. And given all the investment you guys have made in the product and in the platform, generative AI, I'd be curious to hear, it must be a pretty stunning juxtaposition for those that are now in the market. So, I'm just curious to know what those conversations are.
+Are big bullets behind us now or are there still customers here throughout 2025 that you will expect to migrate over? And then I had a follow-up for Andrew.
+Spenser Skates
+--
+Co-Founder and Chief Executive Officer
+Yes. So, on Google Analytics, you guys got to understand, it's like 50% of websites are on this thing, OK? So, it's not like the most of them aren't paying, of course, but it's a huge ocean of potential customers. And so, as we continue building our leadership versus Google Analytics, we're going to continue to see more and more come from that. I think the way I think about it is kind of Google Analytics is almost the starter digital analytics application that every product or marketing person starts out with.
+And what we think about is how do you create a smooth, easy upgrade path to Amplitude over time where someone looks at it, and it's like, oh, duh, like this is going to be way better. So, I think that's going to we'll continue to see that be a tailwind. We're actually going to be doing quite a bit on marketing analytics, specifically within digital that will help improve that. And we'll announce a bunch on that in Q2.
+So, I expect that to be relevant for the next decade for us.
+Robert Oliver
+--
+Analyst
+Got it. Helpful. Thanks. And then, Andrew, this could be for you or also for Spenser as well.
+It sounds like you guys have done some nice work aligning here with the strategic accounts team, really focused deep into these customers at a time when you guys have a lot more to offer them. And you mentioned the customers -- I think, Spenser, in your prepared remarks, you mentioned that whereas we get really good returns from these customers and they get value, it's still 75% around one product. So, I'd be curious now, Andrew, from your perspective now having been in your seat a few quarters and having had the strategic accounts team now for I think three or four, if I'm not mistaken. What is what sort of the changes that you've seen for them in terms of your traction and your pipeline generation at enterprise? And I guess the second part of that would be, any chance that I know that the number of customers per quarter that are potentially going to down renew is less, but how does this help to mitigate that risk? I would think with those very large customers, this team would play a key role in helping to mitigate that down saw risk? Thank you, guys, very much.
+Spenser Skates
+--
+Co-Founder and Chief Executive Officer
+There's a couple of good questions in there. So, let me start with first, when we deployed the investment of the sales teams on these strategic accounts, there was both existing customers and high value prospects because every customer is out there trying to figure out how they can better digitally engage with their customers and they're doing it in lots of different ways, but they really don't know that they're effective unless they're understanding the data elements that are being captured by those engagements and adjusting their needs. So, this team was set up to really go after the largest D2Ks in the world that are struggling, try to figure out how they digitally engage with their clients in a more effective way and deliver services or products to those clients in a more effective way. And so, we recognize this and having a classic enterprise focused sales team that understands the customer's problems and understands how we can be uniquely positioned to solve those problems is one that is increasingly getting more and more effective.
+It gets more effective because we're innovating. The product itself is not just an analytics product, it's a product under which you can derive a lot of different services around the analytics and insights that are being generated. And so, the more we are effective at driving multi-product engagements with clients, the greater value they get. The more that those clients see Amplitude as a critical part of their capability to generate revenue and engage with our clients, the more they will reward us with greater and greater purchases of Amplitude.
+And we earn the right to get to that point by delivering extreme value to our clients. And what happens in that is you see contract durations increase, which gives us a growth in our RPO and greater visibility into our revenue. Gross retention rates improved because now we're really essential to the customer's operations. And so, all these activities that we've invested around the enterprise and creating great products to fulfill those needs are the underpinnings of our growth strategy and frankly the reduction insured long term.
+Robert Oliver
+--
+Analyst
+Super helpful. Thanks, guys. Appreciate it.
+John Streppa
+--
+Head of Investor Relations
+Thank you. And our last question will come from the line of Elizabeth Porter at Morgan Stanley. Go ahead.
+Elizabeth Porter
+--
+Analyst
+Hi. Thanks so much. I wanted to double-click on that opportunity to better cross-sell the base of 75 customers that are only using one Amplitude product. So, can you just help us understand, what the biggest hurdles have been for that multiproduct adoption? Because it seems like the portfolio you're putting together really makes a lot of sense together and just kind of related, what's the go-to-market strategy really drive that unlock? Is it kind of more education that's needed? Is there something that we could do on pricing and bundling?
+Spenser Skates
+--
+Co-Founder and Chief Executive Officer
+Yeah, yeah. Great question, Elizabeth. So, I think what we've done well is particularly with new customers helping them understand that we're a platform. I mentioned 67% of our larger lands last quarter actually were multiple products.
+So, that was great. You know we've -- I think we've got that motion dialed. And as new customers make up a larger portion of the user base, you'll see that reflect on the rest. The part I think we did not do as well of a good job last year was on the existing customer renewals.
+I think we see the rate of additional products, much, much less it's like 10%, 20% on renewal. And kind of what we're realizing it's just easy to think of us. Once you're buying us for analytics is easy to get put in that box. And for them to call up their salesperson and just say, hey, give me the analytics, demo, and let's keep doing this use case.
+And so, we put some specific incentives and training in place this year to specifically drive multi-product for renewals which we didn't have prior, so getting the existing renewal base to turn over to become multiple products that's kind of the big leverage for us.
+Elizabeth Porter
+--
+Analyst
+Got it. And then, just as a follow-up on the margin side, understand, there's a lot of investment this year, particularly around the go-to market. I was curious to get any sort of better visibility in toward the mid-term model or just philosophically, how we should think about top line upside, potentially flowing through to margin or just given the opportunity is it more likely that we're going to see you guys push, the gas on that investment.
+Spenser Skates
+--
+Co-Founder and Chief Executive Officer
+I think we talked about in 2024, we made a lot of investments that were not quite at the productivity curve, we expected. And I would tell you that certainly sales and marketing, G&A. They were areas I highlighted in Q3. And I would say again, in Q4, we're not where we want them to be as far as an efficiency perspective is.
+And earlier in the call, I was talking about, what are the indicators that would suggest that we'd invest more in sales and marketing. Given that that productivity is increased to a point where the data is telling you it's time to go do that. We're not there yet. And so, I would tell you the amount of growth that we're thinking we're going to be doing throughout 2025.
+And we're certainly expecting that that's going to come with leverage.
+Elizabeth Porter
+--
+Analyst
+Thank you so much.
+John Streppa
+--
+Head of Investor Relations
+Thank you. And that will conclude our fourth quarter earnings call. Thank you for your time and interest. We are excited to host our Investor Day on March 10th in New York City, at the NASDAQ market site, starting at 2:30 p.m.
+Eastern Time. We do have limited capacity, but if you would like to attend in person, please reach out to me at
+[email protected]
+. In addition to our Investor Day, we will be attending a number of conferences this quarter, including those hosted by Baird, Morgan Stanley, JMP, KeyBanc, and Cantor Fitzgerald. Thank you.
+And take care.
+Spenser Skates
+--
+Co-Founder and Chief Executive Officer
+Thank you, all.
+Andrew Casey
+--
+Chief Financial Officer
+Thank you.
+Duration: 0 minutes

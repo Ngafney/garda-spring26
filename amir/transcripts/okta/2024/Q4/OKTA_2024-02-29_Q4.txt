@@ -1,0 +1,379 @@
+Dave Gennarelli
+Hi, everybody. Welcome to Okta's fourth quarter fiscal year 2024 earnings webcast. I'm Dave Gennarelli, senior vice president of investor relations at Okta. With me in today's meeting, we have Todd McKinnon, our chief executive officer and co-founder; and Brett Tighe, our chief financial officer.
+At around the same time that the earnings press release hit the wire, we posted supplemental commentary to the IR website. This posted commentary contains a large portion of what would historically be the opening commentary, including customer commentary, product-related news, and a review of our financial results. This new format allows listeners to review that information before this call. It also allows us to spend more time discussing other news items and strategy while leaving more time for Q&A.
+Today's meeting will include forward-looking statements pursuant to the safe harbor provisions of the Private Securities Litigation Reform Act of 1995, including, but not limited to, statements regarding our financial outlook and market positioning. Forward-looking statements involve known and unknown risks and uncertainties that may cause our actual results, performance, or achievements to be materially different from those expressed or implied by the forward-looking statements. Forward-looking statements represent our management's beliefs and assumptions only as of the date made. Information on factors that could affect our financial results is included in our filings with the SEC from time to time, including the section titled Risk Factors in our previously filed Form 10-Q.
+In addition, during today's meeting, we will discuss non-GAAP financial results. Though we may not state it explicitly during the meeting, all references to profitability are non-GAAP. These non-GAAP financial measures are in addition to another substitute for or superior to measures of financial performance prepared in accordance with GAAP. A reconciliation between GAAP and non-GAAP financial measures and a discussion of the limitations of using non-GAAP measures versus their closest GAAP equivalents is available in our earnings release.
+You can also find more detailed information in our supplemental financial materials, which include trended financial statements and key metrics posted on our Investor Relations website. In today's meeting, we will quote a number of numeric or growth changes as we discuss our financial performance. And unless otherwise noted, each such reference represents a year-over-year comparison. And now, I'd like to turn the meeting over to Todd McKinnon.
+Todd?
+Todd McKinnon
+--
+Co-Founder and Chief Executive Officer
+Thanks, Dave, and thank you, everyone, for joining us this afternoon. We're pleased with the strength of the business to close out our FY '24. Q4 was highlighted by record quarterly ability and cash flow and strong top line results. Our Q4 financial performance was solid and suggests minimal impact on our financial results stemming from the security incident.
+The incident is now behind us, but we're using the learnings to reassess and strengthen the security aspects of our own infrastructure as well as help ensure customers benefit and our experience by further strengthening our products and policies. This morning, we launched an initiative called the Okta Secure Identity Commitment, which is our long-term commitment to lead the industry in the fight against identity attacks. This new initiative encompasses project Bedrock, which is aimed at hardening our ancillary and corporate systems and further strengthening our products and services. The Okta Secure Identity commitment extends even further to champion customer best practices that enable our customers to be highly protected and elevate our industry to be more secure from identity attacks.
+We want our customers to benefit from our depth of experience. So, we are further strengthening our customer policies to help ensure our products are deployed with Okta's best security practices. Identity has become a primary attack vector, and Okta is at the forefront of the fight against identity-based attacks. Okta Threat Insights has detected and prevented over 2 billion malicious requests in the last 30 days alone, we've reduced credential stuffing attempts and malicious bot traffic by more than 90% for some of our largest customers just over the past 90 days, and we're shaping industry best practices with 100% of Okta employees using Okta FastPass fishing resistant password-less authentication.
+I encourage you to read more about the Okta Security Identity Commitment in the blog we posted today. Of course, all of this has to be backed up with great products. Okta has long been the leader in modern access management. We've started tapping into two more large market opportunities with the launch of Okta Identity Governance last year and Okta Privilege Access just a few months ago.
+Okta is changing the game with our unified platform approach, and we already have several customers that have turned to Okta for the combined benefits of our access management, governance, and privilege access. We're helping organizations make it easier for their employees and users to safely access their applications and help protect them from today's threat actors. From time to time, we augment our organic innovation through M&A. Earlier this month, we closed the acquisition of Spera Security, an identity security platform to provide our customers with richer insights and technology to elevate their identity security posture management.
+At the start of each new fiscal year, I'd like to you show you our top priorities as an organization. As you might expect, security is our top priority as a company for FY '25. This covers everything from driving a company culture with a security-first mindset to our own security architecture as well as our products and services. The second priority is igniting our growth.
+The obvious end result pertains to topics across regions and products but to get there, we need to focus on our overall go-to-market operational excellence, further increase our competitiveness in our core markets with enhancements to both our workforce and customer identity clouds and strengthen our growth vectors in key industries, newly introduced products, and cross-cloud initiatives. Our third priority is scaling Okta from a technical perspective. Our goal is to set the company up for success in order to be a $5 billion and then a $10 billion-plus company. This means investing in changes to reduce operational friction and drive global scale.
+This priority is intended to help fuel the first two priorities of security and growth. Before wrapping up my comments, I want to congratulate Eric Kelleher on his promotion to President of Customer Experience and Communications. In this added role, Eric will oversee marketing, customer-first and communications and continue to go lead the go-to-market organization with Jon Addison, our Chief Revenue Officer. Eric has been with Okta for seven years, most recently as Chief Customer Officer.
+His primary focus will be driving growth, building brand loyalty, and enhancing the overall customer experience. I'm pleased with the strength and stability of our current leadership team going into the new fiscal year. As we head into FY '25, I've never been more energized and excited about Okta's future. We're expanding on the world's most robust and modern identity platform, and we have a strong pipeline of products and functionality powered by Okta AI, all told, we're well positioned to capture the large market opportunity in front of us.
+And finally, I want to thank the entire Okta team for their tireless effort, and thank you to our loyal customers and partners who put their trust in us every day. Now, here's Brett to cover the financial commentary and talk about how we're positioned for long-term profitable growth.
+Brett Tighe
+--
+Chief Financial Officer
+Thanks, Todd, and thank you, everyone, for joining us today. As Dave said at the top of the call, we've evolved our earnings call format. Most of my typical review of the quarterly financials was published on Okta's Investor Relations website at the same time as the press release. I'll cover a few of the financial highlights, we will focus my commentary on broader topics before getting into our business outlook.
+I'll start by sharing our view on the security incident and the macro environment. When analyzing our key metrics, we couldn't attribute a quantifiable impact from the security incident on our Q4 risk. While not quantifiable, the event likely had some level of impact. We'll continue to monitor this as we move through FY '25.
+All things considered, our solid Q4 financial performance suggests minimal impact on our financial results stemming from the security incident. The macro environment during Q4 was relatively consistent with what we experienced in Q2 and Q3 of FY '24. In short, it's stable, looks challenging. Moving on to some financial highlights.
+We're pleased to achieve Rule of 40 again for FY '24. For FY '24, we generated a non-GAAP operating profit of 14% versus negative 1% last year. And free cash flow margin of 22%, up from 3% last year. That's tremendous progress for a single year.
+Our Q4 financial performance was highlighted by record profitability and cash flow. We were encouraged by our strong top line metrics and pipeline growth. Weighted average term length for our contracts signed in Q4 hit a two-year high. We continue to see an increase in the number of sales reps selling both Workforce Identity Cloud and Customer Identity Cloud products and experienced particular strength with large customers.
+We signed a record number of million dollar plus ARR contracts in Q4, capping a year in which the number of million-dollar ARR contracts increased by over 30%. We added 150 customers in the quarter. The sequential decline in new customer adds reflects ongoing business trends of increased weighting of upsell versus new business resulting from the current macro environment and strength with large enterprise customers versus SMBs. Now, I'm going to address one of the actions we're taking to drive new business and reignite new customer acquisition.
+Starting at the beginning of this quarter, we shifted our direct sales team that focuses on the SMB market in the Americas to what's commonly referred to as a Hunter-Farmer model. That means we now have a team of account executives focused on driving new customer acquisition and a separate team of account executives focused on upsells within our installed base. We believe that we're still very underpenetrated within our existing base of nearly 19,000 customers. This natural evolution will enable us to drive better results with both new and existing customers.
+Over the past several quarters, one of our strongest customer segments has been with large million dollar plus ACV customers. Our indirect partner ecosystem has played an important role in our success in this area. In fact, eight of our top 10 deals in Q4 were either resold or influenced by partners. From our traditional ISVs system integrators and solution providers, these partners help us scale and provide tangible value add to our customers.
+Recall that we introduced a new partnering framework called Elevate last year. The new program recognizes and rewards partners for the total value they deliver to Okta and our customers from finding, developing, and influencing to delivering, managing, and transacting. Today, more than 40% of our business mix is invoiced through our indirect channel partners, up from about one-third just a couple of years ago, and channel partners help influence an even greater percentage of our business, helping drive that number is the strong contribution from the AWS marketplace. Okta continues to be a premier identity and access management partner for AWS globally.
+AWS now generates over $175 million in annual contract value for Okta, growing at over 130%. We look forward to even more success as we go forward. We're also starting new market routes to broaden Okta's availability further. We recently entered into an agreement with SoftBank Corporation as a managed service provider in the Japanese market.
+SoftBank is embedding a customized version of Okta Workforce Identity Cloud into its recently launched business concierge device management. This allows us to reach the approximately 16,000 Japanese companies and 2.4 million devices that utilize the managed service. It's the beginning of what we believe will be a new strategic path to market and the first step in an exciting new go-to-market motion for Okta. One last item I'd like to call out before turning to our outlook is share dilution.
+Actions we've taken over the past two years to reduce dilution have yielded great results. Building on that progress, starting in Q1, we will settle employees' tax obligation due in equity vesting through the net share settlement method. This will lower dilution because instead of issuing and settling shares into the market to cover the withholding tax, we will fund the estimated tax payment from corporate cash. In FY '25, we expect this change will reduce dilution by approximately 1.7 million shares compared to our prior tax withholding method.
+Ultimately, making for a 1% benefit to our basic share count. This will have no impact on free cash flow. Now, let's turn to our business outlook for Q1 and FY '25. Over the course of the past several quarters, we've put significant effort into positioning the company for profitable growth for years to come.
+Over the past 18 months, the actions we've taken to drive efficiencies in our cost structure have yielded impressive results. The headcount reduction action we took earlier this month was part of our ongoing assessment to optimize our cost structure. The action also supports our strategy of increasing headcount in high talent, lower cost regions such as India and Poland. The majority of the approximately 400 positions that were eliminated were in supporting roles within the go-to-market team.
+As always, we take a prudent approach to forward guidance. We are factoring in a stable but still challenging macro environment consistent with what we experienced over the past few quarters. And while our Q4 results were solid, we're operating some conservatism into our outlook as we continue to monitor potential impacts related to the October security incident. And lastly, while we are still finalizing our FY '25 model, when we provided our preliminary FY '25 outlook last quarter, the expected cost savings from the headcount reduction was factored into those assumptions.
+Again, you can view the more granular guidance details in our press release or posted commentary. For the first quarter of FY '25, we expect total revenue growth of 16% to 17%, current RPO growth of 13%. Non-GAAP operating margin of 18% and free cash flow margin of approximately 25%, which is inclusive of a cash impact of approximately $24 million related to the headcount reduction. We are raising our outlook across the board for the full year FY '25.
+We now expect total revenue growth of 10% to 11% non-GAAP operating margin of 18% to 19% and a free cash flow margin of approximately 21%. To wrap up, we are confident that we've set the path to profitable growth for years to come. We continue to focus on initiatives to drive the top line while making significant progress to drive improvements to our operating and cash flow margins. With that, I'll turn it back over to Dave for Q&A.
+Dave?
+Dave Gennarelli
+Great. Thanks, Brett. I see that there are quite a few hands raised already, and I'll take them in order. And in the interest of time, please limit yourself to one question so that we can get to everyone.
+And then you're welcome to queue back up with additional questions. So, with that, first up, I see Brian Essex from JPMorgan. Brian?
+Brian Essex
+--
+JPMorgan Chase and Company -- Analyst
+Yes. Thanks, Dave, and congrats on the nice results, team Okta. Maybe, Todd, for you. My one question, could you maybe address what you're seeing on the macro side? I understand your comments in Brett's comments and just trying to understand what you're seeing that may give you better confidence in better performance into next year.
+Are you seeing things improve? And do you anticipate better traction in the mid-market? Or are you going to continue to rely on large enterprise? And maybe part of that. Could you maybe disaggregate a little bit gross retention versus upsell, cross-sell, so we can get an understanding of what underlying the net dollar retention metrics is really moving from quarter to quarter?
+Todd McKinnon
+--
+Co-Founder and Chief Executive Officer
+The macro is -- I would call it stable, but it's definitely more challenging than it was. I mean, this is kind of an obvious statement, but it's definitely more challenging than it was a couple of years ago. So, as we look forward to the business in FY '25 and beyond, we're kind of assuming that this is the new normal that the macro is challenging but stable and that's kind of how we're thinking about the business. The other maybe more color there for you is it's pretty different between large organizations, and I would call it mid enterprise and below.
+I would say large organizations are -- seem to have more willing to invest in technology. And I think it's a combination of identity to them is maybe more of a priority to other segments because they have so much technology, and they have such an imperative to move to the cloud and modernize and the business value and the number of people that they can secure and manage and in the projects they can drive or have big ROI. So, it's almost like the macro economy is better, although I know technically, that's probably not true. It seems better in the large enterprise for us.
+And I think you see that in the results with the $1 million deals up over 30%. And a quick anecdote there as we -- I talked about in the prepared remarks, we posted, I talked about a telecommunications company and North America that had -- was a sizable transaction for us in Q4. I mean, they had their legacy identity product was coming off support. So, they had no choice.
+It was like that. They've been there for 10, 15 years, and it was coming off support, and they needed to replace it. So, I mean, and I don't think a lot of many mid-market companies they don't really have -- they have maybe on-prem active directory. They don't really have much legacy identity.
+So, there's an example of why in the large enterprise, some of these -- not even a macroeconomic thing, it's like they have business problems they have to solve, and they have situations and their technology stack, they're evolving, and we can be there to help them.
+Brian Essex
+--
+JPMorgan Chase and Company -- Analyst
+Great. Got it.
+Todd McKinnon
+--
+Co-Founder and Chief Executive Officer
+Yeah, your question, a quick comment on the -- you asked a question about retention?
+Brian Essex
+--
+JPMorgan Chase and Company -- Analyst
+Yeah, as part of that.
+Todd McKinnon
+--
+Co-Founder and Chief Executive Officer
+Yeah. The gross retention remains healthy in the mid-90s. I think the net retention number as you saw in the results came down a bit. I think the -- in terms of growth, as the growth slows down, we don't do as many upsells relative to what we did in the past, the year-over-year comparisons compress a little bit, but we're the gross retention is healthy in the mid-90s.
+And as we continue to focus our efforts on reaccelerating growth, we expect that to happen over time.
+Brett Tighe
+--
+Chief Financial Officer
+Yeah. I would just add, Brian. One of those macro components that we look at are seat upsells on the workforce side and MAU upsells on the customer side, and that continues to feel a headwind, right, because there just isn't as much expectation in terms of economic activity, which can be seen in either one of those, out of the side of the customer identity side. So, really, the strength on the upsell side is really coming from cross-sell, right? So, whether it being IGA or more in customer identity or workforce identity going in one direction or the other.
+It's really in that cross-sell where we've seen the strength over the last few quarters. We've talked about it. So, it's really still that look, being prudent about licensed accounts, I think, is something that people are still doing out there. And you see that reflected in the net retention rate as you see it here today.
+Brian Essex
+--
+JPMorgan Chase and Company -- Analyst
+Got it. Helpful. Thank you.
+Dave Gennarelli
+Next, let's go to Eric Heath at KeyBanc.
+Eric Heath
+--
+KeyBanc Capital Markets -- Analyst
+Thanks, Dave. And I'll also have -- nice set of results here. Todd, I wanted to follow up on your opening remarks. I'm curious to hear more about those comments about the security incident being behind you at this point.
+Was that more so a comment about the security enhancements you implemented internally? Or is that more so a comment about sales cycles? And customers at this point, getting more comfortable to set to implement it and their willingness to make a commitment to Okta. And then if I could add one for Brett, just along the similar -- thing, the customer logo adds were a little bit weaker this quarter. So, just curious that there's all in any case, just a little bit more pressure on the new logo as a result of that.
+Todd McKinnon
+--
+Co-Founder and Chief Executive Officer
+Yeah. Eric, it's interesting. When we say this, the issue is behind us, what we really mean is that the specific issue from October, closing that out, having a third-party report released and addressing customer specific concerns about that incident, that's what we mean when we say behind us. But security is an ever-present thing.
+And we're -- as we have after this issue, and we continue to really ramp up the whole cyber focus of the entire company internally, externally and that our -- the thing we just launched today, which is a very important initiative for Okta, which is called the Okta Secure Identity Commitment. That's our way to talk about this plan broadly over the next several quarters and several years, all the things we're doing from hardening our corporate infrastructure continuously and with a heightened focus to making sure our products, not only come out of the box by default secure, but also we're investing in product capabilities that will proactively secure all identities in infrastructure, whether it's identity threat protection with Okta AI or new acquisition of a company called Spera. We're very excited about the specific identity security capabilities and products and then elevating the entire industry to protect -- help protect against identity attacks. 85% of data breaches involved identity.
+And there's an identity attack, there's an account loss. There's a password stuffing attack in part of the attack chain. And so, it's a big opportunity to prevent an impact over by elevating the whole industry's other toward identity-based attacks. And then we want to make sure that customers specifically learn from our experience with this issue and when I talk to customers, as I have, as you can imagine, dozens and dozens and dozens of customers, end up conversations about security and our security issue.
+They want to know about this issue, and we talked about the specifics of the issue. But then very quickly, it moved to Okta, help me as a partner, how do we comprehensively think about our own security in our posture and how can we be protected better at identity attacks, and it turns very proactive. And so, it's an ongoing thing, and it's what the customers expect of us, and it's what we expect of ourselves. We'll continue to focus on it.
+Brett Tighe
+--
+Chief Financial Officer
+Yeah., I'd just add to that in the sense of -- from a financial perspective, you heard Todd talk about our top priorities for the year. Those were in funding order, right? So, security being No. 1. So, we are definitely investing a lot of money into the variety of areas that Todd talked about there to ensure that we bolster those.
+So, it's -- I just want to make sure if you guys, when you're thinking about P&L, it's something we are definitely investing in a heavy way because it is the No. 1 priority for us as a company would take it very seriously. To your question, Eric, around customer count, look, the customer account trend adding 150 net adds, as you saw in the quarter, is really an extension of the trends that we've seen over the last several quarters. If you remember what we've talked about in the past, I'd say about four or five quarters, the mix of business, both from a bookings perspective and a pipeline perspective, I've been much more tilted or upsell than historically has been.
+And so, you see that outcome in terms of, in terms of the customer account numbers that we're showing you here today. But it's also something to highlight that Todd was actually talking about earlier around having success in the larger businesses and being a little bit, a little more challenge in the small and medium-sized businesses. That's the reason why we're going to this Hunter-Farmer model in the small and medium-sized business segment in the Americas, right? So, we want to be able to focus on -- have the team focused on new logo acquisition because we want to be able to acquire new logos. If you remember the investor presentation from, I think, November '22 at Oktane, I showed you guys a slide where we talked about annual cohorts and how they upsell over time, and they're very consistent over time.
+So, as we looked at the data throughout the fiscal year and contemplated a change, new logo acquisition was clearly at the top of the list when we're thinking about this change to 100 farmer in the commercial area of our business. And obviously, new logos is important, but upsell is just as important as well. So, that's why we want to have folks there in that area as well because bottom line is we've got a lot of products to sell now. So, we need to add a little bit of specialization into the field and help them because when you look at all these great products that have been coming out, governance TAM, when you look at the customer identity side, you see fine grain authorization, you think security center, highly regulated identity.
+I mean, there's a lot of stuff to mine out and we want to be able to enable the field to be as productive as possible. So, ultimately, the Hunter-Farmer here is something we've been thinking about and now we're implementing as we go into FY '25 because we think it's the best way to profitably grow the business.
+Dave Gennarelli
+OK. Let's go to Hamza Fodderwala at Morgan Stanley.
+Hamza Fodderwala
+--
+Morgan Stanley -- Analyst
+Great. Good evening. Thank you for taking my questions, and congrats on a strong finish to the year. Brett, I was really surprised by your comment around average contract term.
+I think you said being at a two-year high. I think the trend was maybe shifting down a little bit on the duration front. So, I'm curious, how did you, guys, turn that around what do you think it means as far as customers committing with Okta longer term? And is there anything that we should consider throughout the year as it relates to RPO and CRPO metrics with respect to duration?
+Brett Tighe
+--
+Chief Financial Officer
+Yes. We're very pleased to see the contract duration uptick. It upticked actually across all of the major categories if you think about new business versus renewals. So, we saw it on both sides.
+So, I think it's really just indicating how much people are committing to us. But also at the same time, we talked about earlier around the book of business that the incremental business in Q4 was more larger customers and larger customers tend to sign longer deals, right? So, if you did a bunch of small deals, you're going to see a little bit of a headwind on contract duration. You signed a bunch of larger customers, typically, you're going to see a little longer contract duration. So, yes, we're pleased to see the uptick in total RPO growth 13% from, I believe it was 8% last quarter.
+And so, I can't comment in terms of what it looks like going forward. But it does look good for us right now, and we're excited about how FY '25 may play out assuming this trend continues.
+Dave Gennarelli
+And next up, we have Peter Levine at Evercore.
+Peter Levine
+--
+Evercore ISI -- Analyst
+Great. Thanks, guys, for taking my question. Maybe, Todd, just for the quarter, I think your commentary around not seeing as much of an impact, is there anything different that you did over the past couple of months versus the incident in '22 that kind of gave customers a little bit more reassurance around what you're doing to product security?
+Todd McKinnon
+--
+Co-Founder and Chief Executive Officer
+Yeah, it's interesting. It feels very similar to me. And the playbook is pretty straightforward. It's a lot of communication, a lot of specific meetings for customers that have concerns about this issue, concerns about broader issues of cyber in the company.
+And again, evolving to the conversations more proactive about what can we do together as partners. So, it feels very similar to me in terms of the motion of the company afterwards. I do think that the, definitely, we spent so much time on it. And I don't do the executive team, myself, but the entire go-to-market organization, which, by the way, did an amazing job in I really want to call out the entire go-to-market organizations for stepping up and delivering a solid result in Q4.
+But it's a lot of time. It's a lot of focus, a lot of conversations, a lot of managing. And in sales cycles, especially our -- a lot of our deals are strategic, and they can get complex. And anytime you have to manage through an escalation about a security issue, it's kind of -- it kind of slows things down.
+And that's the headwind to closing deals. So, it clearly has some impact, but it's just -- it's hard to quantify. When you look at close rates when you look at the results versus guidance, when you look at growth, it's hard to close it. It's hard to quantify it.
+So, we're happy with the results and continuing even being more vocal and more proactive about communicating about security and specifically around how we can do more to help against overall identity-based attacks. And people don't realize that every -- the last 30 days, we blocked 2 billion malicious attacks against our customers. So, identity attacks are -- we had an identity attack against us in October, and they happen all the time. And we all need to do a better job stepping up and proactively defending our customers and the entire industry against them, and that's -- you'll see a lot of the focus shifting toward that proactive level of dialogue and discourse versus more of the reactive that we started from in October.
+Peter Levine
+--
+Evercore ISI -- Analyst
+Great. Thank you.
+Dave Gennarelli
+Let's go to Madeline Brooks at BofA.
+Madeline Brooks
+--
+Bank of America Merrill Lynch -- Analyst
+Hi, team. Thanks for taking my question. I guess if I look at results of 16% CRPO growth versus 12%, that's a pretty sizable beat, especially given today's economy. So, I'm just wondering if there were any one-off more large deals? I know you mentioned just larger deals in general, but any that were more than just that $1 million mark versus -- or was this just more of a broader base pickup in the pipeline? I mean, I guess, I'm just trying to marry the size of the beat and seeing if there's anything that could be like a one of times after versus going forward, a trend that's reversing.
+Todd McKinnon
+--
+Co-Founder and Chief Executive Officer
+We had -- I mean, the overall trend of $1 million deals was strong, as we mentioned, growing 30%. There wasn't a one-off big deal that was really outsized compared to prior periods. So, yes, I would say it's more of a broad range or a broad-based strength in the large customers.
+Brett Tighe
+--
+Chief Financial Officer
+Yes. I would just add in there, Madeline. Just echoing what Todd said, we just had a really good large deals in general. But when you say large, it's not just the $1 million deals, but a lot of deals from $100,000 up, right? Because if you think about the 100,000 customers, the average ACV is the largest it's ever been.
+So, going and penetrating those large customers and getting good sized deals out of them in addition to those $1 million contracts, the ARR contracts, which was a record in the quarter. It was just all around. There was a lot of good momentum in large deals. Just really nice -- the market team just in general across the board.
+I'm going to echo what Todd said. I should have said in the first answer, which is go-to-market did a great job in them, we're both super proud of them.
+Madeline Brooks
+--
+Bank of America Merrill Lynch -- Analyst
+And just to clarify, I mean, I guess, this is more of a surprise on your end? Or was it like kind of pull-forward demand that you could see?
+Todd McKinnon
+--
+Co-Founder and Chief Executive Officer
+I think the large deal pipeline was healthy. So, it was nice to see it materialize. Especially with given some uncertainty with the security issue. It was nice to see it materialize, but it wasn't unforeseen.
+We knew we had a healthy large deal pipeline. And that's true for the pipeline overall going into FY '25. The pipeline overall for FY '25 is quite a bit stronger than it was going into FY '24. So, it's one of the reasons why as we guide to FY '25, we have a little comfort in that guidance.
+Madeline Brooks
+--
+Bank of America Merrill Lynch -- Analyst
+Great. Thank you so much.
+Dave Gennarelli
+Next up, let's go to Rudy Kessinger at D.A.D. Co.
+Rudy Kessinger
+--
+D.A. Davidson -- Analyst
+Hey, guys. Thanks for taking my question. Not much commentary, I think in the prepared remarks, you posted or the early part of the call here about privileged access. I know it's only been out a few months now just what's been the early traction with it? What kind of pricing uplift are you seeing with customers who are adopting it? And any other color you can share on that front?
+Todd McKinnon
+--
+Co-Founder and Chief Executive Officer
+Yeah. I would say it's on track. It may be exceeding expectations. It's very early.
+We were successful in converting the early access customers that we had targeted. They're liking the product. Seeing the results with the product. And more importantly, I think it's -- they're seeing the synergy with the rest of our platform.
+That's the idea. It's really a new kind of privileged access. It's a privileged access that's modern. It's quicker to deploy.
+It's cloud native. It's -- and it's integrated to governance and the rest of the access management at that Okta provides. So, it's not only just -- if you think about the privileged access market and a potential TAM for us and we talked about this before, I think the better way to think about it is really a new TAM, which is the companies that really don't have a privileged access solution today versus companies that have deployed legacy on-prem privileged access solutions that they host a software in their own data centers. This is like a new kind of product, and it's built for more modern infrastructure with cloud-based servers and Kubernetes clusters and most importantly, it's built to really sit next to Okta Access Management and fishing resistant authentication into these things and governance products that's modern and connects into collaboration tools to make them governance process seamless.
+That's the target. And we're seeing early but positive indications of customers having that kind of value proposition. And we think that the just to quantify the potential uplift. We think the normal workforce spend is x.
+We think governance can be a 30% uplift over that. And then privileged can be another 30% as well. So, that's kind of how we're thinking. And we're seeing early indications that that's true.
+Obviously, we have much more data on the governance side, which is at full year in GA, and we see very strong track record of 30%-plus uplift for the governance product over and above workforce. And the early indications from PAM are similar in terms of the potential uplift.
+Brett Tighe
+--
+Chief Financial Officer
+The other thing I might add is what Todd was talking about having this product suite across access management, governance and PAM having a single pane of glass, if you will. We've already got a handful of customers that have all three, this early on and see that vision and believe in that strategic direction that we're going. So, exciting really times for us. in terms of that -- the three pillars on the workforce side of the house.
+Todd McKinnon
+--
+Co-Founder and Chief Executive Officer
+That's -- one more on that. Sorry, Dave. That is very differentiated. No one else has that.
+No one else has access management, privileged access, and governance. CyberArk has privilege, of course, super strong in that, and they have some access management with an acquisition they did, and governance is lacking, other vendors don't have privilege as well as governance and we're the first vendor to have all 3. So, if this theory is right and customers want this converged platform and it can lead to better security outcomes and more flexibility, we're going to benefit from that for a long time.
+Dave Gennarelli
+Let's go to Rob Owens at Piper.
+Rob Owens
+--
+Piper Sandler -- Analyst
+Great. Thanks for taking my question. I was hoping you can drill down a little bit around the NRR metric and just noting that it had been flattish kind of the prior three quarters. So, with this follow-up, just kind of trying to understand that point in time NRR relative to a lot of your commentary in terms of seeing no falloff and/or kind of the upsell cross-sell motion that you saw success with? Thanks.
+Brett Tighe
+--
+Chief Financial Officer
+Yeah. Thanks, Rob. In terms of NRR, Rob, you've been following along, but for everybody else, there's a lot of -- there's been several quarters now we've talked about how this is going to decline, right? I think we started talking about in late FY '23. And it's on the back of the macro challenges that we've seen there in terms of what I was talking about earlier around C upsells, right? Cross-sells have been doing well, but we're not doing as well on those C upsells or MAU upsells on the customer identity side, and that creates a headwind to the NRR metric.
+And so, we did land roughly in the range where we expected to. So, a nice job by the finance team predicting that. But it landed right at 111, and I think probably the question behind the question, Rob, where do we think it's going to go from here, right? I mean, it's on the back of -- yeah. I mean, like we said today earlier, we had good gross retention, mid-90s, like we've talked about for several quarters now.
+Where do we think it's going in FY '25? Based on our new business versus upsell mix expectations in FY '25, based on what we can see in the pipeline today, based on how the business has performed throughout FY '24, we see us kind of trending in this 111 range. Now there's a potential for the balance of FY '25, we haven't done anything out post beyond FY '26. But there is a potential it could swing a couple of points either direction, and that's really going to boil down to how good our new business versus upsell mix assumptions are. So, if we have more new business in a quarter and it crowds out upsell, Well, that's going to be a little bit of a headwind in that retention.
+If we have a little bit better upsell quarter than we expected in terms of mix, well, it's going to be a little bit of a tailwind to net retention. So, we think we trend in this kind of channel of a couple of points plus or minus this 111 where we are today for the balance of FY '25.
+Rob Owens
+--
+Piper Sandler -- Analyst
+Thanks for the color, Brett.
+Brett Tighe
+--
+Chief Financial Officer
+No problem.
+Dave Gennarelli
+Now, let's go to Joe Gallo at Jefferies.
+Joe Gallo
+--
+Jefferies -- Analyst
+Hey, guys, thanks for the question, and nice fourth quarter. I understand conservative. Maybe just walk us through your CRPO guide in 1Q, which I think is the first ever sequential decline. And then, Todd, your second priority was within growth.
+What are the biggest upside catalysts there? Is it international, SIAM, IGA, PAM, cross-sell? Maybe just help us unpack where the highest ROI upside catalysts are in the macro.
+Todd McKinnon
+--
+Co-Founder and Chief Executive Officer
+Yes. We're -- I'll start with that one. We're super focused on that. I think the biggest catalyst is sales productivity.
+We've talked about this for a while. We -- the pattern of ramping tenure of the sales team and the familiarity with both of our major product lines, workforce, and customer. And we're seeing sales productivity, it's really at a nice place now in terms of -- I'm sorry, we're seeing sales tenure really nice now. And we're also starting to see the productivity ramp into that.
+It still has -- I think we could still see more ramp over the next couple of quarters. That's going to be a nice boost overall for growth. I would say that's the most near-term most quantifiable potential driver there, which is something we've managed in terms of enabling salespeople and making sure they have a chance to be successful and stick around. We focused a lot on the transition into this fiscal year in terms of keeping stability in terms of quota-carrying reps and assigning them to territories and targets and having continuity there to get off to a fast start in the first half of this year.
+Again, coming off what I thought the team did a great job in Q4. So, I'd say that's that big driver, particularly in the short term. I think that after that, I would say the biggest driver is opportunity in the large deals, large enterprise. It's an area where, relatively speaking, Okta has a lot of potential.
+I would call us really an enterprise, mid-enterprise company and Global 2000 largest enterprises in the world. We've made good progress, but we can do a lot more. And I think that's a big growth driver going forward. I think maybe it's kind of a lot that second one, which is customer identity is still a big opportunity for us.
+It's -- we think, over time, it could be half of the business. And the stats we talked about today, it's still 40% of the business. And growing faster than workforce, but I think it could grow even faster than it is now. So, I think those are a couple of three that I would highlight.
+But those -- there's a lot that goes into all those from just broadly speaking, running a highly efficient, highly effective go-to-market organizations continuing to have the products evolve so that the products can address the really compelling use cases both in customer and workforce identity. They can address the needs of small companies, medium companies, large companies across the board. There's a lot that goes into those growth drivers, but we are very focused on growth. We think this is a big market opportunity.
+We think there's various reasons why our growth has decelerated. We're not satisfied with that. We want to get it go in the other direction as fast as we can.
+Brett Tighe
+--
+Chief Financial Officer
+Yeah. I would just add before I get into the current RPO question. On the customer identity side, you heard me talk earlier about the percentage of reps selling, customer continues to go up into the right. but it's still not to talk -- if we want to be a 50-50 business, it's still not 50-50, right? So, we can improve there.
+And one of the things we did actually last week at our sales kickoff. We spent a good amount of time enabling the field around customer identity. We took almost on Friday to do that. And so, it's an important area for us.
+We're also going to change some of the ways we do operations internally. Like when you're talking about deals, talking about pipeline management, putting a little bit more of a tilt on customer identity versus works identity. So, it's -- there's some things on the covers that we're doing that effectively are very operational in nature, but ultimately, we believe will result in better productivity from a customer identity perspective. Because like I said, the trends are in the right direction, but if we keep tweaking and make a few changes, we think we can do even better.
+Back to your question on current RPO. Q1, just as a reminder, at these growth levels, we will see -- it's kind of like revenue. There's -- Q1 has some interesting dynamics to it. In terms of current RPO, because Q1 is our seasonally smallest bookings quarter, compared to Q4 is our seasonally usually the largest bookings quarter, you can get this mechanic of a quarter-over-quarter decline in terms of dollars.
+And so, that's something to expect not just this year but in years going forward. So, this won't be, hopefully, a surprise when we talk in 12 months' time that this mechanic is likely going to happen. Again, just because of the seasonality of our business, and as Todd and I have talked about a lot of today, we're an enterprise-focused business and that usually means the season trends mean that Q4 is the biggest one in Q1 is the smallest one in terms of bookings.
+Joe Gallo
+--
+Jefferies -- Analyst
+Thanks, guys.
+Dave Gennarelli
+Let's go to Trevor Rambo at BTIG.
+Trevor Rambo
+--
+BTIG -- Analyst
+Hi, guys. This is Trevor on for Gray. Thanks for taking my question, and congrats on great quarter. Maybe touching back on OIG.
+So, it's been live for a little over a year now. When do you think you guys are going to give any stats of ACV or revenue as becomes kind of a more material part of the business? And kind of what -- in a broader sense, what's your longer-term vision for the product? And how big do you think it could get relative to your core workforce in the next two, three, four years?
+Todd McKinnon
+--
+Co-Founder and Chief Executive Officer
+We're very excited about it, and it really has -- since we put it in the GA a year ago, it's exceeded our expectations quarter after quarter. I wonder if the impact of it is, not only is an upsell, and we've talked about the 30% to 30%-plus upsell for a workforce customer. It also just makes the whole vision more compelling and makes our product suite, especially once you add PAM to the mix, it makes the whole product suite more compelling. So, I think even beyond the revenue from that school, it has even a bigger impact strategically to our workforce business in that.
+So, that's one interesting thing. And I think over time, that is also to answer your question about how big could it be. I think we could kind of size it out. But I think the -- and you can look at IDC and IDC breaks down the various segments of identity and they gave it a certain portion.
+But I think over time, it's going to be harder to really, it's going to be harder to tease out the -- how many new customers are landed because we had this suite, how many customers were really the killer thing they wanted was privilege access and they but the other -- the access management and the features and capabilities there and the identity governance, how much of that was kind of along for the road. You're going to kind of think about it as just one compelling offer for workforce. But that's kind of how we think about it.
+Trevor Rambo
+--
+BTIG -- Analyst
+Great. Thank you.
+Dave Gennarelli
+Let's go to Peter Weed at Bernstein.
+Peter Weed
+--
+AllianceBernstein -- Analyst
+Thank you, and love seeing the expanding free cash flow. I know it's been a long effort, and it's really great to see that direction going on. I think this quarter, the one thing that kind of jumped out at me was kind of the more modest number of kind of net new customers that were landed and particularly, you've emphasized saw a churn went up. And so, like technically, you landed the same number, but it was just because there was a drag from fewer businesses coming in.
+When you look at that result, is that kind of a new normal? Or is that something where you'd anticipate it's starting to step back up, that the sales programs that you're putting into place with the hunters versus the farmers, if this gets back into the last few quarters, we've been plus or minus 50, around 400 net new customers. Like what's unique about Q4? Where -- like I would have thought Q4 is a period where you could outperform, right? Because that is where there's like more bookings, more customers doing deals at that period, like what would you think about this fourth quarter? Were that really kind of dragged down?
+Todd McKinnon
+--
+Co-Founder and Chief Executive Officer
+Yeah. We don't -- this is -- we don't want this to be the case. This is not the new normal. We want to drive growth, and we're aggressively trying to work on and prioritize and focus on things that will drive growth and customer count is one of those areas.
+So, I think we have -- we've talked about the focus of the go-to-market team in the corporate or in North America to be focused on upside in existing customers versus going out on trying new customers and that's a big structural change. And I think you're seeing -- it's one of many changes that we've made coming into this fiscal year that are -- really you're seeing John and Eric and Eugenio really lay down what they think are the strategic priorities for go to market. Brett talked about a couple of them in addition, whether it's the operational changes and to make it easier and more effective to sell customer identity, whether it's the hunter-farmer change in corporate North America, it's really important. A lot of the pipeline and marketing execution changes have been done by Eric and Kerry and the marketing team.
+So, you're seeing a lot of very strategic, thoughtful programs put in place that are going to have this goal, which is to reignite growth, which is incredibly important. Specifically on customer account, I think -- when I look at the numbers, Q4 is -- I think it's just an example of for whatever reason the big companies perform better than the customer account in the smaller companies. Maybe just a one-off, I don't think it's -- like I said, I don't think it's a new normal. I do think we have to remember that the customer count is largely driven by smaller customers.
+Variations there show up much bigger in that cohort of customers. The specific things we're doing for customer account we mentioned beyond hunter-farmer are one of the things that are -- is that we have a program we're really excited about is this managed service provider program. You mentioned SoftBank and they now have a custom -- or an MSP version of Okta, the workforce products that they are selling as a managed service to their 16,000 companies in Japan. Now, we're not going to report those as our customers.
+We're not -- that would be maybe not really apples-to-apples. But it is -- a prior -- it is an example, something we're prioritizing to broaden our reach. Now, we will have the capability as we do more of those MSP deals around the world over time. Those will not only impact the number of customers that those MSPs can move over to Okta, but also, we will have some opportunities depending on how those deals flush out over time how we arrange them.
+We'll have the opportunity to upsell those customers. So, it would be like a channel for -- to gain customers in a more scalable way and then direct, which is pretty powerful. The last thing I'll mention on customer count, it's kind of like MSPs. But we have many, many customers that are actually self-service customer identity customers that don't show up in our customer accounts.
+And they do -- will show up in our customer accounts when they're paying us as a service customer. But when they upgrade to enterprise, they do. So, it's a -- this -- the self-service procurement from customer identity cloud is similar channel we've been investing in. We'll continue to invest in that can lead to broader new customer growth over time than just the direct model, which I think if you really want to get broad in the smaller companies, you have to have some of these tests to drive that expansion over time.
+Brett Tighe
+--
+Chief Financial Officer
+Yeah. I would just add one comment to that in the sense that I echo what Todd said, this is not the customer adds that we want to have, but it demonstrates that we can put together a pretty nice quarter just by going after the 19,000-ish customers we have today. There is tremendous amount of room to run in our current customer base and it's just something we're really proud of and we can really still access. And one of the reasons to go to the 100 farmers for the farmers to be able to go out and get additional business.
+So, yes, I echo everything Todd just said. I just want to make sure you guys heard that as well.
+Dave Gennarelli
+Next up is John DiFucci at Guggenheim.
+John DiFucci
+--
+Guggenheim Partners -- Analyst
+Thank you. I think this question is for both of you guys, Todd and Brett. You have so much going on with changes to the go-to-market and also early opportunities in IGA, in PAM and even SIAM. How do you think about balancing those huge opportunities with delivering that great cash flow this year, Peter talked about what you did this quarter, but you increased the cash flow guidance for the year.
+And I almost hate asking this question because I think investors really appreciate what you're doing on cash flow. But Brian asked my first question, my first few questions with the 7 IPS that he asked. So, I guess, I just want to make sure you're comfortable with your investments in both go-to-market and product to be able to sort of satisfy those because it just seems like, Todd, you painted that picture of the platform. That's huge and compelling.
+Todd McKinnon
+--
+Co-Founder and Chief Executive Officer
+I think some of it is -- there's really three levers I look at. One is just with slower growth, there's more leverage. That's just how it works. I mean, we invest in go-to-market and that investment is -- take some time to pay off.
+And when growth slows and whether it's in the macro opportunity or the macro economy that's hit us over the last couple of years or some of the execution challenges we've had over the last couple of years, that pours leverage and the model has a lot of leverage, so that shows up as cash or net income. The other lever is that we, I think, I think like a lot of companies, we're being more careful with our -- and we're being more disciplined on our spend. And I think throughout the entire company, culturally, people are understanding that its money is -- it's not zero interest rates, money is not free. It's not growth at all costs.
+We have to be more disciplined. And you're seeing, we have a smart, capable team, and they're coming up with a lot of frugality and savings and efficiency and that we're able to either return to shareholders or show us profitability or we're able to invest in other areas that can drive this growth. People ask me a lot about how are you funding this really the Okta Secure Identity Commitment, how are you funding that? And isn't that costing you a lot of money? How could you be increasing profitability when you're spending there? And part of the answer is, well, we're really doing a good job finding efficiencies in other areas. But that specific example, it's a lot of the -- it's as much spend as it is like what do you prioritize and making sure we prioritize security and have people focus on that and do things like we did in Q4 with a 90-day sprint and 90-day focus of that area and prioritize that.
+And then the last thing on this, John, is that there are some long-term structural things that we're investing in that are actually investments that are decreasing some of the profitability in the short term but are going to make sure that as we grow over the years to $5 billion and $10 billion and beyond, we're going to be set up to improve to repeat these kind of growth at these profitability levels far into the future, whether it's investing in internal systems, whether that's making sure we have a healthy balance of high-talent low-cost regions around the world. Whether that's just internal automation projects that I've shared with any of you in one-on-one conversations before. So, it's a little bit of a lot of that stuff. And I think I'm very proud of the company for the progress we've made and recognizing that we still have a lot of work to do and a lot of opportunity ahead of us.
+Brett Tighe
+--
+Chief Financial Officer
+Yeah. I would add. Yeah, thank you to the entire company for helping us on this. It's not just me until we get to deliver the good news.
+So, it's really a -- really appreciated by both of us. But I would add to that, John, there is less because I think what you're getting at is are we spread you thin, right? And like, how many things can we cover. And so, if you look at some of the things we talked about today, it actually is a little -- it's driving toward specialism, right? The Hunter-Farmer model itself is definitely a specialist approach. Because it's going to allow folks to be able to focus in on, OK, what's working really well here as opposed to let's do a little bit of everything, right? And like, for example, on the farmer side.
+You're going to know what you're doing, how they're using it and what identity use cases we could solve. And so, it will force some specialization in the field, right? Just on that by itself, right? So, I think that's one main reasons we're doing the Hunter-Farmer model is to be able to create that specialism because of what I said earlier, there's so much product out there right now. And just like you basically alluded to, we've got a lot of new products coming out which is great, but we need to enable the field, and that's why we spend all that time at SKO, enabling -- trying to enable field even more on customer identity, it -- so it's trying to take these focused bets in certain areas to be able to help ourselves not just do scattershot and have an efficiency that we've been driving for the last four to six quarters where you see these free cash flow margin results are non-operating margin or any one of the margins that you could look at today. So, we are focusing there.
+We are trying to drive some level of specialization. So, we don't get spread too thin.
+John DiFucci
+--
+Guggenheim Partners -- Analyst
+Makes sense, guys. Keep it up. Thank you.
+Dave Gennarelli
+Jonathan Ho from William Blair.
+Jonathan Ho
+--
+William Blair and Company -- Analyst
+Hi. Good afternoon. Just in terms of your channel engagement commentary, can you talk a little bit about what actions you're taking and what you expect to see? I guess, how do we measure your success in terms of that indirect channel engagement and things like the AWS marketplace? Thank you.
+Brett Tighe
+--
+Chief Financial Officer
+Yeah, I can take that one. In terms of partners, like you heard us talk about earlier, really, our partner program, Elevate, early last year in focusing our efforts into a smaller number of partners it's just actually kind of what John's question was a second ago. Instead of doing so many things across the partner channel, we want to be able to drive focus. And so, that's why you see the success in AWS, I mean, growing 130% year over year.
+I mean, at $175 million of ACV, that's a pretty large business just by itself, right? And so, it's enabling focus and it's also tilting our company to be more partner friendly, right? And so, this metric that we gave you the 40% of total, that is done on partner paper, we feel like that's a pretty good indicator of our progress. We were about a third a couple of years ago. We're up to 40%, the influence level is higher than that, right? I mean, that's just purely what the paper was sold on, not necessarily the influence. And so, I think you should definitely continue to ask us questions about how that is trending up over time.
+That percentage or the percentage influence how is it really going for us. We see a lot of good signs. But this is one of these areas that's heading in the right direction, but we still feel like we could do a lot better with a variety of areas. And so, you definitely keep asking questions about it.
+Todd McKinnon
+--
+Co-Founder and Chief Executive Officer
+But for me, Jonathan, the qualitatively, our success and our presence and our impact and their impact with the global SIs is really important. As we move more and more into the Global 2000 and bring our identity platform to the large organizations of the world, the global SIs are really important partner. And I've been personally spending a fair amount of time working with the global SIs and our team that's working and fostering those relationships and driving those forward because all of these, every big company that ever goes through an identity transformation or makes a big identity decision has a strong partner in one of the Global 2000. I think we've -- in the past, we haven't done as good of a job as we need to as being the right partner for the global SIs.
+And I think some of the things in the market that are changing are really helping us there. I think one of them is that the largest enterprises in the world, more and more every day are doing more and more transition to the cloud. And this is the same thing we've all been talking about for seven-plus years. And since we've been meeting as Okta as a public company, that cloud transformation really, really forces the need for identity and modern identity because the old models of identity don't work.
+And some of these large organizations are going through that now. And that puts a really fine point on there for a new identity platform, and they go to ask the global SIs is what they should do. And the stronger our relationships can be with them and a strong as a partner for them as we're seeing, it's going to benefit us. So, we're spending a lot of time on that.
+And the other thing that's happening in the market is that some of the traditional identity focused companies that are now private equity owned and are wearing about emerging road maps and what platform is going to survive and what platform is not. It's really causing the global SIs and some of the larger customers to question who's the right partner. And I think you have a confluence of things happening there that really set us up to be successful that I personally spent a lot of time on and very excited about.
+Jonathan Ho
+--
+William Blair and Company -- Analyst
+Excellent. Thank you.
+Dave Gennarelli
+OK. We're going to take two more questions. The first one from Roger Boyd and the second one from Andy Nowinski.
+Roger Boyd
+--
+UBS -- Analyst
+Great. Thanks for squeezing me in. As it relates to Spera and just the broader suite of identity security solution, you're building out, what's been the early feedback from customers on that direction? And can you just remind us about how you're thinking about monetizing versus speaking in some of these security solutions like ITDR as you push toward the goal of a more secure Okta? Thanks.
+Todd McKinnon
+--
+Co-Founder and Chief Executive Officer
+Customers are super interested in -- they're super interested in both identity and specifically the Spera acquisition. And I think it's -- you're seeing the whole identity security approach or market evolve from five years really, three years ago, it was very small kind of idea end market, and it was really around on-prem active directory. It was like identity security means make sure on-prem at directory doesn't have vulnerabilities or you can detect issues there. And now it's really starting to move toward as more companies move toward modern identity stacks like Okta, it's really moving toward not only how can you better secure things like Okta, but how can you better secure things like all the apps and all the cloud infrastructure.
+So, you want a comprehensive view of all your identities and the risks of your identities, not only in on-prem directory, but you also wanted on Okta and active directory in Amazon and Google and Salesforce and all these things. And so, you're seeing customers really starting as they lean in and do more with modern identity, they're also at the same time saying, what is this class of tools and technologies and capabilities are going to protect that? And that's where offerings like Underneath Threat Protection with Okta AI or the Spera product are really going to help. And so, I think in terms of how we're going to price and package and monetize these things, think of -- they're both additional, they're both additional capabilities with additional licensing fee. And Identity Threat Protection is kind of like the next version above advanced multi-factor authorization.
+Think about it as advanced multifactor authentication as some phishing-resistant factors and some other capabilities and policy. Okta Identity Threat Protection with Okta AI is really better integration with your entire security ecosystem and awesome, powerful actions like universal log out. So, it's really the next rung up in terms of the value and the pricing. And then Spera will be a similar thing.
+It will be a capability that gives you viability into not only Okta's posture but also all the applications around Okta and gives you the central data house to see these things and it will be priced independently as well.
+Dave Gennarelli
+The last question goes to Andy Nowinski. Andy?
+Andy Nowinski
+--
+Wells Fargo Securities -- Analyst
+Thank you. I appreciate you squeezing me in today, and congrats on a nice quarter. So, I wanted -- you talked a lot about the power of the platform today. And you mentioned a number of go-to-market strategies that we're implementing.
+But it doesn't sound like you're pursuing a similar strategy as Palo Alto, where they're incentivizing customers to buy the whole platform. I guess, did you consider a strategy like that to get to that revenue growth reacceleration that you're targeting to maybe get there sooner?
+Todd McKinnon
+--
+Co-Founder and Chief Executive Officer
+Yeah. We think about all kinds of different strategies to price and package and do things like that. And I think the -- when you look at it, the -- how we've priced governance and privilege particularly are -- it's very conducive to buy them all in the pricing that we've announced. It's different.
+It's because they're so tightly related and it's so obvious that the buyer of one of those is going to want to buy all three. The way we've built the products in the way, the specific use cases they attach. Customer identity and workforce identity is a little different. That it's -- oftentimes, it's a different buyer.
+It's a different member of the C-suite. And so, there is some pricing advantage of getting them both from one vendor, but it's not as powerful as just having the workforce product that's usually sold directly to security, directly to IT. So, I think the customer identity part is a little bit not as directly related and something that we will consider over time as we broaden and expand, but we haven't changed that. We haven't really considered changing that.
+The one thing that is kind of the core of your question, which is really important is that and this back to John's question, too, about trying to do so much and what are we focused on and how do we prioritize it all. The -- a lot of the efforts we're in, whether it's customer identity, whether it's identity security, whether it's the different product areas you're going to. It's directed by a very clear strategy, which is we are the leading independent neutral identity company by far. And we also believe strongly that there -- the market and the whole industry needs an independent and neutral leader because that's going to mean choice and flexibility and better integration with the entire ecosystem and better value for customers, better security.
+And if you're going to do that, you have to have a product in every category. You have to have customer identity. You have to have a leading product in access management and privilege and governance. And so, it's almost like our strategy has dictated that we have to have these product footholds in all of these areas, and that's what you're seeing us execute on.
+And it's been strategically, a consistent message that we've all talked about for seven-plus years, and you'll see us continue to march forward for the next seven years and beyond toward that.
+Andy Nowinski
+--
+Wells Fargo Securities -- Analyst
+Got it. Thanks, Todd.
+Todd McKinnon
+--
+Co-Founder and Chief Executive Officer
+Yep.
+Dave Gennarelli
+OK. We appreciate everybody attending today. Apologies to those that we didn't get to. We keep running long.
+So, just to note, this quarter, we'll be participating in the Morgan Stanley TMT Conference in San Francisco next Tuesday, the 5th; the KeyBanc Emerging Technology in San Francisco next Wednesday, the 6th; and the William Blair Tech Investors Virtual Conference on March 15th. And that's it for today. If you have any follow-up questions, you can reach us at
+[email protected]
+. Thanks.
+Todd McKinnon
+--
+Co-Founder and Chief Executive Officer
+Thanks, everyone.
+Brett Tighe
+--
+Chief Financial Officer
+Bye-bye.
+Duration: 0 minutes

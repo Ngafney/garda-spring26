@@ -1,0 +1,337 @@
+[
+  {
+    "speaker": "Unknown",
+    "role": "",
+    "text": "Full Conference Call Transcript"
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Good day and welcome to the Iridium's 2024 third quarter earnings call. All participants will be in listen-only mode. [Operator Instructions] . Please note this event is being recorded. I'd now like to turn the conference over to Ken Levy, Vice President, Investor Relations. Please go ahead."
+  },
+  {
+    "speaker": "Ken Levy",
+    "role": "",
+    "text": "Thanks, Megan. Good morning and welcome to Iridium's third quarter 2024 earnings call. Joining me on this morning's call our CEO Matt Desch and our CFO, Tom Fitzpatrick. Today's call will begin with the discussion of our third quarter results followed by Q&A. I trust you've had an opportunity to review this morning's earnings release, which is available on the investor relations section of Iridium s website. Before I turn things over to Matt, I'd like to caution all participants that our call may contain forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. Forward-looking statements are statements that are not historical fact and include statements about our future expectations, plans and prospects. Such forward-looking statements are based upon our current beliefs and expectations and are subject to risk, which could cause actual results to differ from forward-looking statements. Such risks are more fully discussed in our filings with the Securities and Exchange Commission. Our remarks today should be considered in light of such risks. Any forward-looking statements represent our views only as of today. And while we may elect to update forward-looking statements at some point in the future, we specifically disclaim any obligation to do so, even if our views or expectations change. During the call we'll also be referring to certain non-GAAP financial measures, including operational EBITDA, proforma free cash flow, free cash flow yield, and free cash flow conversion. These non-GAAP financial measures are not prepared in accordance with generally accepted accounting principles. Please refer to today's earnings release and the investor relations section of our website for further explanation of these non-GAAP financial measures and a reconciliation to the most directly comparable GAAP measures. With that, let me turn things over to Matt."
+  },
+  {
+    "speaker": "Matt Desch",
+    "role": "",
+    "text": "Thanks, Ken. Good morning, everyone. As you saw on our press release this morning, we delivered another strong quarter of revenue and subscriber growth and remain on track to achieve the higher end of our full year guidance. We're also having a productive year of new product launches and good progress on strategic efforts like Project Stardust, which are developing quickly. We remain a very unique player in the satellite communications industry, having carved out a leadership position in IOT and mobility applications and are generating significant cash flow while expanding into new markets like PNT and standards-based IOT and direct-to-device. As another marker of our progress. I want to highlight, unlike most companies in the space industry, that we are actively returning capital to shareholders. In the third quarter, we returned $146 million to shareholders through dividends and our expanded share repurchase program. In all, we repurchased 4.7 million shares, which reduced our outstanding share count by about 4%. That's a record number of shares retired for a single quarter since the inception of our buyback program. We believe that our equity represents a compelling investment opportunity and plan to continue with this program in light of the Board's authorization of an additional $500 million in September. Iridium has now returned more than $1 billion of capital to shareholders through repurchases and dividends since the beginning of our shareholder friendly activities in 2021. I continue to feel very good about Iridium's market position and our growing business opportunities. We have been served well by continuing to grow and develop our ecosystem of global partners. Today, we have more than 500 companies which include resellers, value-added developers and equipment manufacturers who build their solutions on our network because Iridium is the best choice to connect their unique applications. Iridium's L band cross-linked constellation remains the foundation of our success and it's the knowledge and deep domain expertise of these global partners that drives the virtuous cycle of feedback and innovation that attract new subscribers to our network. I'm not sure that all investors understand this aspect of our business yet it remains a key ingredient of our go-to-market strategy that sets Iridium apart from other satellite providers. We've had a busy quarter in terms of announcements that reflect our vision and strategy for the future. I'd like to take a moment to update you on a few of these as they add to Iridium's reach and capabilities and will drive our growth in the coming years. 1st, Iridium NTN Direct. Last month, we issued a press release with an update on project Stardust, a service which we will introduce in early 2026 as Iridium NTN Direct and that program is making great progress. We've always said that Iridium would be an important player in direct-to-device and providing standards-based IoT from space and we were excited to share that Iridium satellite technology is slated to be included in the next release of the 3 GPP standard known as Release 19. This paves the way for Iridium's L band frequencies and technology to be accessible via industry standard chipsets. Release 19 is scheduled to be completed in the Q4 of next year and will serve as the backbone for our consumer oriented D2D offerings for smartphones and wearables and will also support inbound roaming of terrestrial narrowband IoT devices and applications onto our highly reliable truly global NB IoT satellite network. You may have seen our announcement last week with Nordic Semiconductor who was working on the early integration of Iridium NTN Direct into their standards-based chips. They're a strategically important relationship for us and you'll hear announcements over time from others who are adopting Iridium into their standards-based hardware as well. 2nd, I wanted to highlight the introduction of Garmin's new in Reach Messenger Plus in mid-September. This consumer satellite device leverages our new Iridium Certus IoT service called Iridium Messaging Transport, what we call IMT for short and supports sending photos and voice messages. These new capabilities complement the two-way texting and SOS services that consumers have come to rely on and are expected to expand usage and find even more users for Garmin all over the world. With a battery life of up to 600 hours, this device is an example of another purpose-built ruggedized weather-resistant product that active recreational users look for and often plan their activities around. We also believe that these expanded capabilities will be adopted by other commercial and government IOT users as our IMT technology, which has been integrated into our Iridium service IOT and mid-band transceivers will soon be available through more of our partners. Third, we also unveiled Iridium service GMDSS for Mariners, which will be supported by a new series of new, by a series of new terminals coming to market this quarter. These combine Iridium service broadband technology with three important and required maritime safety and security services, GMDSS, LRIT, which stands for Long Range Identification and Tracking and SSAS, which is the Ship Security Alert System. The combination of these capabilities within one terminal sets a new standard for cost, efficiency and performance of maritime safety and security solutions for vessels in need of these critical network systems. This will also continue to ensure that Iridium is the preferred choice on ships to complement KA and KU broadband connections. Fourth, I want to acknowledge Iridium's Award of an upside contract from the Space Development Agency where we're working with General Dynamics Mission Systems to manage and integrate ground infrastructure and operations across multiple satellite suppliers for SDA's new proliferated war fighter space architecture. With our most recent award, the total value of our contract with the SDA grows to approximately 400 million since inception, of which 260 million or so remains to be recognized through 2029 with potential for additional opportunities in the future. The increase in our scope of work on this multi-year project supports our outlook for record engineering support revenues this year. Finally, I want to end with an update on Iridium PNT. We've made Swift progress to integrate Satelus into our company since acquiring them in the second quarter. This acquisition makes Iridium the market leader in alternate PNT and allows us to address the growing threats to GPS signals by offering secure PNT to data centers, maritime, in building wireless systems, and other market areas. Last month, our team was in Norway showcasing our PNT capabilities at one of the industry's large public testing events. Iridium's STL solution performed exceptionally well through a series of stage GPS jamming and spoofing attacks demonstrating our technical leadership and readiness for the growing market for commercial and civil applications. We're getting great feedback on our opportunity, especially since expanding availability of this service to Europe and Asia. There's particular interest from maritime and other users around areas of geopolitical conflict where daily jamming and spoofing are having real operational and economic impacts. Our partners are excited about the business opportunity offered by Iridium's alternate PNT and are having, conversations with their customers to fortify GPS signals against the growing threats they're seeing in their respective regions or deliver precision time more efficiently and cost-effectively to indoor digital applications that need it. These activities underscore investments being made by Iridium and business partners today, which will drive our growth over the next decade and support adoption of our mission-critical services by a broader set of industry and users. So, we continue to be enthusiastic about the new Iridium products sitting in the market, as well as the new partnerships we're adding to our ecosystem. They support our long-term growth objectives and guidance for generating $1 billion in service revenue by 2030. Before I turn the call over to Tom for a review of our financials, I want to note that this will be Tom's last earnings report at Iridium in light of his upcoming retirement year end. He is turning the CFO reigns over to Vince O'Neil, who many of you already know. Vince, by the way, is also on hand with us today as part of this transition. We're fortunate and I have to say I'm very happy that Tom will be staying on the Board to continue to provide his experience and financial wisdom that have helped to drive our success over the last 14 years. So, Tom?"
+  },
+  {
+    "speaker": "Tom Fitzpatrick",
+    "role": "",
+    "text": "Thanks, Matt, and good morning, everyone. I'll get started by summarizing our key financial metrics for the quarter and providing some color on the trends we're seeing in our business lines. Then I'll recap the 2024 guidance we updated this morning and close with a review of our liquidity position and capital structure. Iridium continued to execute well in the Q3, generating total revenue of $212.8 million up 8% from the prior year's quarter. The improvement reflects ongoing growth in our commercial business lines and strength in engineering and support revenue. Operational EBITDA hit a record $124.4 million in the third quarter with a majority of this growth driven by expansion in service revenue. On the commercial side of our business, service revenue was up 6% this quarter to $133.3 million with the increase reflecting ongoing momentum in IoT, as well as new growth in hosted payload and other data services, primarily as a result of the Sotelis acquisition. Commercial voice and data revenue rose 3% from last year's comparable quarter to $57.7 million. The increase was driven by subscriber growth as demand for Iridium's Push-to-talk services remained healthy. In commercial IoT, we continue to see good demand for personal satellite communications as well as our traditional industrial services. Revenue rose 14% from the prior year quarter to $43.7 million in part reflecting the 2-year contract we signed earlier this year with a large fast-growing partner. As discussed previously, this contract has the effect of materially increasing revenue from this customer in 2024 compared to 2023. You'll notice that net subscriber additions in IoT are down from last year's 3rd quarter. This decrease is due to a change that the same personal communications customer made as they simplified their available subscription plan. As expected, this resulted in increased cancellations this quarter of very low ARPU subscribers. We expect this trend to continue for the next few quarters as this conversion unfolds, but to fully abate by the end of 2025. Let me be clear. This process will have no effect on IoT revenues in 2024 and 2025 because our revenues from this customer are contractual and not driven by subscriber levers. Further, contractual revenues for this customer in 2025 will increase materially from 2024. We expect 2026 subscriber growth trends from this customer to return to levels experienced over the last couple of years as their customer avail themselves of a more robust product portfolio. Accordingly, we expect our 2026 revenues from this customer to further increase from 2025. We also expect this process to have a favorable impact on ARPUs over this period. Commercial broadband held up well as it transitions to a safety and companion service. We reported $15.5 million in revenue during the quarter. In all, we added 70,000 net new commercial subscribers during the quarter, and commercial IoT subscribers continue to account for about 80% of billable subscribers. Hosting and other data services revenue was $16.4 million this quarter, up 9% from last year's comparable quarter. The increase was primarily due to new revenue from Iridium PNT, the time and location business we acquired through the Satelles transaction in April. We see a tremendous revenue opportunity with broader availability of Iridium's alternative position, navigation, and timing service, and believe this service will generate over a hundred million in annual service revenue by 2030. In the third quarter an increase in Iridium's PNT revenue helped to offset lower hosting revenue recognition, something we've discussed previously, which is entirely related to the extended useful life of our satellites. While the extension of the useful life has no bearing on cash flow, it does impact the time over which we recognize revenues from associated fixed-price posting contracts. Government service revenue was also fractionally higher in the third quarter at $26.5 million, reflecting a step up in revenue under our EMSS contract with the US government on September 15th. As of this date, the annual bill rate under this seven-year contract rose to $107 million from $106 million previously. Subscriber equipment was up 9% in the third quarter to $22.2 million. I would note that this growth represents a stark turnaround from the year-over-year decline posted in the first half of 2024, and is reflective of more normalized demand in the channel following two years of heightened inventory buildup by customers, which began to be drawn down in the second half of 2023. As such, comparisons in the first half of 2024 were negative, whereas comparisons in the second half will be positive. With the volatility of supply chain constraints now behind us, we believe buying activity will return to more typical levels. Based upon feedback from our partners, we expect an acceleration of year-over-year growth in the fourth quarter from what we experienced in the third quarter. Engineering and support revenue was $30.7 million in the third quarter as compared to $25.2 million in the prior year period. The 22% increase reflects our growing activity with the US government and increasing scope of work with the Space Development Agency. Based upon our results through the third quarter, we are updating our full year guidance for service revenue to growth of approximately 5%. We now expect operational EBITDA of between $465 million - $470 million for the full year. Moving to our capital position, as of September 30th, Iridium had a cash and cash equivalence balance of $159.6 million. Iridium's growing cash flow has been a source of liquidity and continues to support our board's confidence in quarterly dividend payments and an active share repurchase program. With the board's latest $500 million authorization in September our board has now authorized a total of $1.5 billion in buybacks since the program started in early 2021. Iridium paid a third quarter dividend of $0.14 per common share on September 30th, and expects to return approximately $65 million of cash to shareholders in 2024 through dividends. In the third quarter, Iridium retired approximately 4.7 million shares of common stock at an average price of $27.48. This was the most shares we purchased during a quarter in our history and represented a reduction of about 4% of our outstanding shares. This activity along with our new authorization, leaves Iridium with an outstanding balance, $552 million under our board-approved repurchase program as of September 30th, 2024. We continue to believe that Iridium's Equity offers a compelling investment opportunity between our dividend program, which started in 2023, and the commencement of our share repurchases in 2021, Iridium has already returned more than a billion dollars to shareholders. As of September 30th, Iridium's term loan balance was $1.8 billion. You'll recall that we increased the balance on our term loan in July and relaxed our guidance for net leverage to support additional capacity for share repurchases. We ended the quarter with net leverage of approximately 3.5 times of EBITDA and expect net leverage remain below 4 times of EBITDA through 2026. We continue to plan for Iridium's net leverage to fall below 2 times of EBITDA by the end of 2030. The rate at which we expect Iridium to naturally deliver makes us comfortable with this long-term guide, notwithstanding the projected uptick in leverage in the near term. Capital expenditures in the Q3 were $18.6 million. We expect capital expenditures to be approximately $70 million in 2024, as we invest in new product development initiatives like Iridium NTN Direct. Turning to our pro form a free cash flow, if we use the midpoint of our 2024 EBITDA guidance and back off $88 million in net interest pro-forma for our current debt structure, approximately $69 million in CapEx for this year, $5 million in cash taxes and $6 million in working capital, inclusive of the appropriate hosted payload adjustment, we're projecting proforma free cash flow of approximately $300 million for 2024. These metrics would represent a conversion rate of EBITDA to free cash flow of 64% in 2024 and a yield of about 8.9%. A more detailed description of these cash flow metrics, along with the reconciliation to GAAP measures is available in a supplemental presentation under Events in our Investor Relations website. Before I conclude my remarks, I'd like to acknowledge my plan to retire at the end of this year. Serving as Iridium CFO over the past 14 years has been the highlight of my 45-year career. It's brought immense professional satisfaction, been the source of tremendous camaraderie and friendships, provided more than a few challenges. Happily, the challenges were surmounted to make Iridium the company it is today. I'd especially like to thank Matt for being a wonderful role model, visionary friend and partner, and give credit to the immensely talented and committed Iridium team that has allowed us to achieve great success. Iridium has been second home to me and provided countless memories and experiences that I'll never forget. For that, thank you. While I'll be with the company through the end of the year as CFO, I'm flattered that the Board has asked me to continue my service as a member of the Board. I want to acknowledge Vince O'Neil, who is with us on the call today and he will take the reign to CFO to lead the company. Vince and I have worked together for a decade and I'm fortunate to have had his talents to help guide the many decisions we've made on funding, investment and capital spending. From our work with the export credit funding and the successful transition to our current capital structure, Mitch has been a close competent and integral to Iridium's financial success. He's done a masterful job directing the scores of budgeting and forecasting plans that have allowed us to comfortably begin to return capital to shareholders. Welcome, Vince."
+  },
+  {
+    "speaker": "Vincent O'Neill",
+    "role": "",
+    "text": "Thanks, Tom. I really appreciate those warm comments and I'm honored to be Iridium's next CFO and that Matt and the Board have given me this opportunity. I'm really excited to get going and I believe that the future for Iridium is full of opportunities. I think that over the last few years I've met most of you, but for those of you who are less familiar with my background, I've worked with Tom and Matt now for 10 years and I feel very confident that I'll be able to build upon the financial success and strong track record that they've been able to deliver. I'm fortunate to have been active in supporting Tom in both crafting and designing our financing strategy along with our share repurchase activities, among other things, for the last number of years. Part of the benefit of having a deep history with Matt, our board and our many business partners is that we see eye-to-eye on Iridium's bright future and the many opportunities for continued growth as we look through the 2nd part of the decade. With Tom's retirement, I assume the CFO responsibilities with a strong knowledge and a detailed understanding of this company, the satellite industry and established relationships to ensure an ongoing seamless transition. Finally, it would be remiss of me not to publicly acknowledge Tom's great financial leadership and direction during my tenure here at Iridium. I'll miss him, but I do take solace from knowing that as a board member, he'll be very close at hand. I look forward to getting out, making more introductions and hearing more from our investors soon. Thanks, Tom."
+  },
+  {
+    "speaker": "Tom Fitzpatrick",
+    "role": "",
+    "text": "I really can't say enough about Vince and our finance team. I know that Vince will serve the company and shareholders' interests well as we make this transition to the new year. With that, I'll now turn the call back to the operator for Q&A."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "[Operator Instructions] . The first question comes from Ric Prentiss with Raymond James. Please go ahead."
+  },
+  {
+    "speaker": "Ric Prentiss",
+    "role": "",
+    "text": "Thanks. Good morning, everybody. And Tom, congrats on the retirement news but keeping on the board we've known each other, gosh, almost 20 years between Iridium and Centennial. And Vince wish you well as we work together in the future. A couple quick ones. First, obviously you raised the low end of the EBITDA guidance. The beat was pretty significant in the quarter. Talk to us about kind of how you looked at what you did in the quarter versus what you're looking at for the year with just one quarter left. And how is the spending trends on directed devices opportunity?"
+  },
+  {
+    "speaker": "Tom Fitzpatrick",
+    "role": "",
+    "text": "We continue to invest in directed device. You see it most notably in CapEx, but you also see it in R&D, Ric. I would say it's going according to our plan, Matt, if you would."
+  },
+  {
+    "speaker": "Matt Desch",
+    "role": "",
+    "text": "Well, I mean, it's moved faster than anything I think we've ever done here at Iridium. I mean, a thing where we pivoted about this time last year, and we'll deliver, I think a service within two years is pretty exceptional given that this is a kind of an end to end re-architecture of some of our systems and everything. And so, moving fast, obviously the getting into release 19 was a really big deal. I was really thinking that was probably going to be in release 20, which we would've had to kind of go pre-standard with some of the services. But now we'll be able to you know, have chip sets, be ready about the time that we're looking to introduce that services and that's going to bode well for our commercial discussions as well. But I think this year has kind of turned out as we expected it. Clearly the equipment is kind of doing exactly what we thought would be done. I think Tom mentioned that it was, we told you it looked weird to be down, but it's certainly going to look quite different going forward and, strong other parts of our business really across the board."
+  },
+  {
+    "speaker": "Ric Prentiss",
+    "role": "",
+    "text": "Okay. Second question is on service revenues, you've narrowed it down to say about 5% now in-service revenue growth. But Matt, I thought I heard you say something in the opening comments about, strong quarter revenue and sub ads and maybe a high end of guidance. What were you alluding to there?"
+  },
+  {
+    "speaker": "Matt Desch",
+    "role": "",
+    "text": "No, I separated those things. I had, I said we had a strong quarter in the third quarter with revenue so the subscribers, and that allowed us to as we look into the Q4 to be able to raise the guidance to the midpoint of the guidance."
+  },
+  {
+    "speaker": "Tom Fitzpatrick",
+    "role": "",
+    "text": "He's referring to EBITDA guidance."
+  },
+  {
+    "speaker": "Ric Prentiss",
+    "role": "",
+    "text": "Got you. Okay. all right, cool. And then appreciate the color on the IoT trends and the customer changing subs, but not much revenue impact. But probably the biggest one I want to have you guys elaborate on the call here is top question we get obviously is competition. You touched on it a little bit here, but as people may be not familiar with satellites or spectrum or Iridium's position, can you help us just understand the competition from Starlink or other direct-to-device type solutions on your different businesses, the legacy voice and data, the IoT, the broadband, the government, because there's definitely a lot of people we talk to that don't understand the uniqueness of what Iridium brings, but maybe just elaborate a little more on that for us."
+  },
+  {
+    "speaker": "Matt Desch",
+    "role": "",
+    "text": "Yeah, I mean we've really built our business over the last 25 years on being a truly global supplier of highly reliable voice and data services. And that isn't really changing with the current expectations of direct-to-device, which are going to be regional solutions coming over the coming years here that will support terrestrial service in six or seven countries perhaps and expand the cellular footprint which is somewhere a little less than 15% probably by some percentage points, but it really doesn't change that. It's currently not viewed as a global service and one that will be coming kind of in a number of different ways. I mean you could see it really in the last couple of weeks as Hurricane Helene and Milton hit even as those services were some texting and SOS services might have been turned on, we saw 800% to 1600% increase in our services and I think that will continue. But the people who buy our services again are looking for a capability that works anywhere in the world seamlessly. Our IoT customers for example are not looking to kind of have a technology that works in one country but not in another country. So we really do expect that the fact that we've evolved this partner base of many hundreds of partners who've embedded our technology deeply into their service and now are going to be able to use standard based solutions as well from us, that's going to continue to drive our growth and why we feel confident that our IoT and other businesses will continue to be strong and we can support the kind of growth rates we're talking over the next six or seven years even if there's some other services that may fill in around the edges or really expand the market I think in some ways. But we're positioning ourselves with our narrowband IoT service, our Iridium NTN Direct as being the glue really that serves all those devices over the whole world. So, I think we'll complement some of those new technologies coming forward. You could see us in a smartphone or a watch along with those technologies where they might provide more functionality in a couple of countries, but people will want to use our technology because it will work in the oceans, it will work in markets that will never have those capabilities."
+  },
+  {
+    "speaker": "Ric Prentiss",
+    "role": "",
+    "text": "Great. Thanks guys. Again, Tom, congrats and enjoy the next phase."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Our next question comes from Simon Flannery with Morgan Stanley. Please go ahead."
+  },
+  {
+    "speaker": "Simon Flannery",
+    "role": "",
+    "text": "Great. Thank you very much. Good morning and congrats, Tom and Vince and all the best for the future. Matt, perhaps just following up on that last comments there, and I think you alluded to this a little bit, I think on the conference circuit, you'd been talking perhaps about returning to your run rate growth rates in 2025. I know it's only October, but any kind of thoughts around the drivers for next year, you've obviously won some new contracts here. It'd be great to get more color on how the new SDA award flows in over time. And then just a couple questions on ARPU. If you could just elaborate on what's going on with broadband ARPU and voice ARPU, that'd be great."
+  },
+  {
+    "speaker": "Matt Desch",
+    "role": "",
+    "text": "Okay. Well, I mean, I don't think it is time to give, precise guidance for 25. We'll do that in February, but we've kind of given a directional guidance for what we think will be next year, and we still feel very, very good about that. Certainly, the comparables on certain things like equipment and other things will be much more favorable to us next year than they are this year, because we've kind of normalized on equipment we believe and we believe that will continue. And then adding additional contracts to say engineering support revenues makes that continues to be sort of at record levels for that as well. And really beyond that, we still see strong, demand going into next year for really across our business portfolio from voice and data with push to talk to our IoT services where we've had a record year of new products introduced by our partners, which we all think we will hit next year. You heard about the new products we've introduced this year, like Certis, GMDSS, we have the Certis Aviation product happening next year. We have our new IoT transceivers, all those give us confidence that next year will be kind of a normal growth year, if you will, on across a lot of different fronts In terms of ARPU broadband ARPU is kind of down a little bit, I think year over year, but that's really, as it's been evolving as we expected to a companion service and said with these new terminals coming this year that have it all in them, I think we're going to be the preferred companion solution for all solutions, including Starlink and Kiper if it comes in and OneWeb and everyone else, I think they'll be putting an L band service terminal next to those to support service when it rains and ports and markets where they're not allowed to be turned on and many other places. And I think that'll continue well in the future. And then voice and data."
+  },
+  {
+    "speaker": "Tom Fitzpatrick",
+    "role": "",
+    "text": "I would characterize voice and data is firm, Simon."
+  },
+  {
+    "speaker": "Simon Flannery",
+    "role": "",
+    "text": "Great. And just one last one. I think you called out the Satelles helping hosted payload. Can you just give us a little bit more color on what the contribution was?"
+  },
+  {
+    "speaker": "Matt Desch",
+    "role": "",
+    "text": "Well, I mean, specifically it's going to be in that line, we're calling that out specifically, but obviously we are integrating their revenues into our revenues this year. Previously we had been a kind of a wholesale supplier of a signal to them and sort of generated revenues only that way. Now with the, with them being part of our company, we're now really a retail provider to markets around the world and we'll be providing which is a higher revenue level, and you'll see that reflected in the revenues that come through that line going forward."
+  },
+  {
+    "speaker": "Tom Fitzpatrick",
+    "role": "",
+    "text": "What I would say, Simon, is what we said about Satelles we got sort of $5 million out of that in 2023, and we've said we see that as $100 million in 2030. If you look at hosted payload and other that line, that segment, the action in that line is going to be relative to PNT, right? And so, you're going to see growth on a progression from 5 to 100 and you should look for significant growth there in the years ahead. Posted payload is contractual, that's not moving. So, all the actions are going to be PNT."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Our next question comes from Edison Yu with Deutsche Bank. Please go ahead."
+  },
+  {
+    "speaker": "Edison Yu",
+    "role": "",
+    "text": "Hey, good morning. Thank you for taking our questions and congrats to Tom and Vince going forward. So just first question as a follow-up to the last one. On the ARPU, we noticed that the broadband ARPU actually improved a bit sequentially. Is that a good kind of run rate now for 4Q?"
+  },
+  {
+    "speaker": "Tom Fitzpatrick",
+    "role": "",
+    "text": "That's probably seasonality, right. So, there's more activity in Northern Hemisphere. So, I wouldn't model it up sequentially into the Q4."
+  },
+  {
+    "speaker": "Edison Yu",
+    "role": "",
+    "text": "Okay, got you. And then on the I believe there's the new aviation service product should be ramping up relatively soon. Any updates on how that might contribute, the time of contribution going forward?"
+  },
+  {
+    "speaker": "Matt Desch",
+    "role": "",
+    "text": "Well, there will be good ARPUs from it when it hits the market because commercial aircraft typically are good producers as it sends flight safety data back and forth between air traffic controllers and the cockpit as well as between air traffic controllers and the cockpit as well as other important information. It's going through trials right now for final certification, several suppliers of antennas. Those are kind of the product is being finalized, if you will, or completed with customers mostly this quarter. And I think you're going to see it start to get on various aircraft next year. Like anything, it'll be slower to start out because it takes some time, but I think it's going to be again the preferred solution for aviation safety services down the road, just given its size, given the fact that it's truly global and serves even the poles, it's smaller than other solutions and it's going to be a very reliable solution. But it's also going to be on rotorcraft and some general aviation and other aircraft going forward as well."
+  },
+  {
+    "speaker": "Edison Yu",
+    "role": "",
+    "text": "Understood. And just last one, wanted to check on the comments made about the IoT customer. I think you said that it will grow in 2025 and 2026. Just want to confirm then and any sense on sort of the magnitude?"
+  },
+  {
+    "speaker": "Tom Fitzpatrick",
+    "role": "",
+    "text": "So, the '25 is contractual, so we know that. The '26 is an expectation given the significant increases to their product portfolio. We've said that we've seen net adds in respect to this customer going back to where they were in the past couple of years. And so, based on that, we see '26 up again from '25, but '25 is known. It's contractual and you'll see that reflected in our guidance when we unveil it for next year."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Next question comes from Walter Piecyk with LightShed Ventures. Please go ahead."
+  },
+  {
+    "speaker": "Walter Piecyk",
+    "role": "",
+    "text": "Thanks, Tom. You spent some time talking about this customer. So obviously, this is a material customer in IoT in terms of helping to give color on net adds versus revenue, but you also say that there is going to be the words we use were up materially in 2025. So, if that's a large customer, if you're actually noting it on your earnings call, your guide, I think, for '24 in IoT was low teens, you look to be tracking more towards high teens at least for 2024. So, if that's up materially, is that implying that there's an opportunity to accelerate growth further in IoT in subsequent years?"
+  },
+  {
+    "speaker": "Tom Fitzpatrick",
+    "role": "",
+    "text": "No. Our guide for this year was mid-teens, and it's looking like we'll beat that. That guide was unveiled early this year, and it's looking like we'll beat it, where I think we're 19% through the third quarter. materially means it's going to be up materially from what it is in '24. That's what that means."
+  },
+  {
+    "speaker": "Matt Desch",
+    "role": "",
+    "text": "For that specific -- that specific. We have a IoT portfolio of customers and partners. And obviously, this bodes well for our continued growth in that sector, but it wasn't really trying to describe the whole cap."
+  },
+  {
+    "speaker": "Tom Fitzpatrick",
+    "role": "",
+    "text": "I would not model it wide of '19 that we're -- that we put up year-to-date, if that's your question."
+  },
+  {
+    "speaker": "Walter Piecyk",
+    "role": "",
+    "text": "That was my question. And is it just to try and go at it again, maybe not '19, but just to get a sense of IoT. Is this just a customer comment where you're trying to give more color on net adds? Or is -- are you trying to make a broader comment about the health of the IoT business."
+  },
+  {
+    "speaker": "Matt Desch",
+    "role": "",
+    "text": "Well, we're not -- so health of our IoT business is strong. It hasn't changed. I think given the fact that the net adds were down this quarter, we thought it would it would be good to provide a little more color on why they were down. Activations across the board are still very strong. We just had some deactivations from a specific customer for a specific reason. Low ARPU customers due to them changing their plans with their customers in a way that we kind of designed and worked with them to -- as they transitioned their business and it's quite positive. It looks kind of unusual, given the net adds sort of are lower. But as we said, it has no economic consequence really to our bottom line because overall, we have contractual revenues and they're stepping up over time."
+  },
+  {
+    "speaker": "Tom Fitzpatrick",
+    "role": "",
+    "text": "And I think I think we have something like a 30% CAGR in personal communications over the last 5 years. So, the health of that business is pretty observable."
+  },
+  {
+    "speaker": "Matt Desch",
+    "role": "",
+    "text": "And we're on -- as we move into narrowband IoT in '26 and '27. So, I think that, that will even expand kind of the usage base. So, you're going to see ARPU go up a little bit. But as we narrow band IoT, I think we'll probably add lower ARPU customers in their regard and maybe even drive subscriber on that."
+  },
+  {
+    "speaker": "Walter Piecyk",
+    "role": "",
+    "text": "Got it. And then on the hosted payload, just to go back to that. The business that you're getting that's layering on there now. I assume is recurring revenue business and that, again, given your $100 million target is going to continue to grow sequentially effectively, right? So, if you look at -- if I just looked at the first quarter when you had the accounting change and where you're at now, it basically implies an incremental $10 million, of revenue relative to, I guess, the run rates. That's kind of reflective of the growth rate to get you to the $100 million is what I'm thinking. But just to be clear, I just want to verify that Satelles revenue that's layering on top of hosted payload line is just going to continue to build from there. There should not be lumpiness other than upward lumpiness in that in the incremental revenue that Satelles is going to be adding to that line?"
+  },
+  {
+    "speaker": "Tom Fitzpatrick",
+    "role": "",
+    "text": "I would say, generally speaking, that's right."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Next question comes from Hamed Khorsand with BWS. Please go ahead."
+  },
+  {
+    "speaker": "Hamed Khorsand",
+    "role": "",
+    "text": "Good morning. So, the first question I had was this latest GMDs contract that you've announced. Is that incremental as being new services, or is that purely replacing the old one? And does the new contract actually use more of your services? Or is it just the same one, but it's paying you more for the service?"
+  },
+  {
+    "speaker": "Matt Desch",
+    "role": "",
+    "text": "So, are you talking about GMDSS? Or are you talking about our FDA contract with GDMS which are 2 different acronyms?"
+  },
+  {
+    "speaker": "Matt Desch",
+    "role": "",
+    "text": "Okay. Yes. That's General Dynamics Mission Systems. So yes, the new contract with the Space Development Agency that really, they are prime on. And we are providing a lot of the technology and operation support as we build FDA new ground network, and we're going to operate their satellite systems for them out of a couple of new operation centers that are part of that as well as a lot of international ground stations. The new contract added to that. They are delivering their network and previously had planned to roll out their network in a set of what they call tranche which they had numbered. The ground system, though, has kind of been consolidated now going forward where they're not going to -- they don't really plan to introduce it in tranches. They've kind of consolidated the evolution of that into sort of one contract now called the ground management integration contract of which now, as I said, our part seems to have grown to about $400 million of work so far, which there's like $260 million left to go over the coming years. But we continue, as we support this really important customer. And again, I reiterate, we did this for strategic reasons because of our experience because our visibility into the customer for the future to help us stay current to give my incredible team even more fun things to do. And to evolve our strategic relationship with the customer, all that kind of bodes well for other opportunities as they continue to invest in this network in the future. So, we don't expect this to be the last time we add to this area here, at least that's not our plan."
+  },
+  {
+    "speaker": "Hamed Khorsand",
+    "role": "",
+    "text": "Okay. And my other question was on the net additions in IoT is there any obvious changes as far as the end market customer is concerned? Or is it still the same relatively."
+  },
+  {
+    "speaker": "Matt Desch",
+    "role": "",
+    "text": "Well, I think given that the technologies are improving, we're introducing our new IoT technology, Certus IoT technology. And that's been adopted in things like the Garmin Messenger Plus, and I expect you'll see it in other products going forward. I think we're kind of expanding the use cases of personal communication devices. I mean if you can send pictures and voice snippets in addition to other things, I think that's very positive. In addition, you're going to see, I think, our new IoT transceivers and other devices that want to send more data around. We have some really interesting use cases underway from a number of our partners as they seek to be the first to use our new IoT transceiver coming out this quarter. So, I think it's expanding the use cases more than anything else."
+  },
+  {
+    "speaker": "Hamed Khorsand",
+    "role": "",
+    "text": "And did you see that this past quarter?"
+  },
+  {
+    "speaker": "Matt Desch",
+    "role": "",
+    "text": "Well, really, products are just now being introduced. So, it hasn't really hit our financials at all yet. That's going forward."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Our next question comes from Chris Quilty with Quilty Space. Please go ahead."
+  },
+  {
+    "speaker": "Chris Quilty",
+    "role": "",
+    "text": "Tom, Matt, speaking of new products I know you had talked earlier this year about the -- on the aviation side, safety service certification and you've got a number of partners that are releasing products. Does it look like those will happen sort of in parallel? Or are we facing a situation where you may have certification but not products or vice versa in the market? And again, you're still on track to get that certification this year and what sort of growth potential does that hold for you next year?"
+  },
+  {
+    "speaker": "Matt Desch",
+    "role": "",
+    "text": "Still on track to get certification this year to get FA approval. That's followed. So, in fact, there's even been -- some of our partners are starting to talk about the TSO approval of their terminals already and are listing those. You'll see advertisements for those in Aviation magazines as they talk about their new era of services. Those are some real big players. I don't want to call them out because I don't know exactly what the state we're in, in terms of their announcements. Some of them have told us that they have pipelines of customers sort of waiting for it. And I imagine that those will start rolling out and being installed in 2025. It's going to grow. I can't say exactly what the rate will grow at this point, but it will all be positive and upward anyway from where we are today, where everything so far has really been using our legacy safety products, which are narrowband and built around our older technology. These will all provide higher-speed services and expanded capabilities onto the flight decks of different aircraft. And I do know that there are still other products that are coming, say, later in 2025 that not even the ones I'm talking about. So, it's good to finally see the aviation spigot turned on. How fast it's going to move? I don't have a lot of visibility, frankly, into how many will be. The good news is those will be good ARPU customers."
+  },
+  {
+    "speaker": "Chris Quilty",
+    "role": "",
+    "text": "And is that entirely aftermarket? Or is there a line fit potential for those product lines?"
+  },
+  {
+    "speaker": "Matt Desch",
+    "role": "",
+    "text": "Both. I think it's going to be initially aftermarket and -- but it will move into line fit. There's definitely efforts underway to do that. I just don't know when those start line fit."
+  },
+  {
+    "speaker": "Chris Quilty",
+    "role": "",
+    "text": "And so, like Aviation, it's been 5 years since the last Iridium next satellite was launched and you're still pushing GMDSS in terms of finally moving towards the certification and getting the products out that have the higher data rates. Can you talk about where you see that market going in terms of -- there's two dynamics? One is, you've got an upgraded product and really one competitor for that. But you also have the dynamic of LEO or StarLink, which is penetrating new vessels that historically have never had communications. And what are you doing to try to position yourself as the backup in that market?"
+  },
+  {
+    "speaker": "Matt Desch",
+    "role": "",
+    "text": "Yes. So -- and you're speaking specifically maritime here, our -- we have been a companion service for quite a while. I mean L-band is more robust and Ka and Ku band, particularly in bad weather. It has kind of regulatory advantages in certain markets where Ku and Ka-band terminals are have to be turned off often in ports, for example, or near ports and other places. So, there's been a long tradition of having an L-band backup -- and you're right, it traditionally just been two players of us Inmarsat and ourselves. I'd say we have a bit of a competitive advantage now in that Inmarsat being part of ViaSat really is a competitor to most of those other Ka and Ku band. And so most of the distribution channels really don't want to -- would rather put us on next to a terminal. So, we're seeing ourselves being sold with new StarLink terminals. I expect when Typer hits the market will be the preferred solution for hyper terminals, definitely for OneWeb terminals as they move out in the market as we are today with many other Ku and Ka band. So, I expect now that we have upgraded those terminals, that companion terminal to also support the safety functions of the ship, GMDSS, LRIT, SAS that it's going to be even more compelling given that you don't need a separate terminal for those regulatory safety functions, you can be a backup and provide the safety functions as well. So, we think that solidifies our leading market position as the terminal you have to have on the ship and the one you want to back up your broadband systems. And I think that's going to continue for a long time."
+  },
+  {
+    "speaker": "Chris Quilty",
+    "role": "",
+    "text": "And final question for Tom. Back to the quarterly results here. I'm just a little confused because the in the maritime and the Certus, your subs were down by 100 sequentially, and we were sort of conditioned to believe that the subs that were dropping were moving from a very high ARPU Iridium only to Starlink and yet you lost subs and the ARPU went up relative to expectations? Was there any onetime items in there or anything unusual in the quarter?"
+  },
+  {
+    "speaker": "Tom Fitzpatrick",
+    "role": "",
+    "text": "I think it's two different drivers. The sequential increase, as I said, is seasonality. The leaking of the subs, I mean, the channel is -- I would characterize it as not stable. I mean, there's a lot of partners that are dealing with the new reality. And so, I think that's affected our net add kind of profile that which should improve over time. It's going to be a question of long it takes for normalcy to return to that market."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Our next question comes from Louis DiPalma with William Blair. Please go ahead."
+  },
+  {
+    "speaker": "Louis DiPalma",
+    "role": "",
+    "text": "Good morning, and Tom and Vince, congratulations to you both. Tom, it was a pleasure to work with you over the past 13 years. And I guess we're going to continue to work together as you are staying on the Board to help navigate the company through the next-generation constellation, which is great. My question echoes some of the earlier questions as it relates to the broadband segment as the results there were better than expected during the quarter. And I think earlier this year, Matt and Tom, you conveyed an expectation for broadband to return to growth in 2025. And I was wondering if this quarter's results and the dynamics that has taken place reinforced that view."
+  },
+  {
+    "speaker": "Matt Desch",
+    "role": "",
+    "text": "Well, we'll see what '25 holds. We can talk more about that. It's certainly encouraging to see where we are with that. you said it was better than expected. It was better than you expected. It wasn't better than what I expected. I know that a lot of you assume the worst that somehow Starlink was as it's sort of been not rumored, but others have kind of worried that it was sort of a -- it has really hurt the Ku and Ka-band providers as they've kind of disrupted that. We said that we felt our position was pretty strong and intact as a companion to that service. But there was a transition around a small part of our business in which we were the primary user, and we would take a few quarters to get through that. And I think that's been ongoing. You see that it's -- the effect hasn't been that dramatic to us. And we feel pretty good about how we positioned our business for the long term in that area to continue be an important player. So, it's kind of unfolding the way we thought. And we never said that broadband was going to be a big part of our growth to 2030. In fact, we didn't even list it as one of the growth areas. But it's a solid part of our business. It's an important one which we think we have a competitive advantage, being L-band and BnGMdes-certified and all that sort of thing. So, it's going to contribute to our results going forward."
+  },
+  {
+    "speaker": "Louis DiPalma",
+    "role": "",
+    "text": "Great. And one final one. Has business development activity picked up for Satelles since you made the acquisition, especially with all of the geopolitical conflicts and the very active spoofing of GPS signals. Can you just talk about what's happening with Satelles?"
+  },
+  {
+    "speaker": "Matt Desch",
+    "role": "",
+    "text": "Yes. It's been recognized kind of internationally now as the only really solution that can fix and serious problems that are underway right now. The other solutions out there are kind of terrestrial at risk as well. So, as I said, it's been tested, it's been proven in a number of places and the activities are kind of through the roof. We're adding additional business development resources because of the opportunities, we've expanded its footprint. They had only been selling it really pretty much in North America and mainly because they were concerned about paying us for turning the signal on before they had paying customers in Europe and Asia, and we just you realize we can turn that signal on right now. So that's just expanded the footprint of where it can be sold. But there's been advertisements for it all over the world, whether it's in around Ukraine, the Red Sea, Myanmar, there's a number of places. If you look at the map are being actively jammed and spoofed all over the world, and there's articles in the newspapers about this problem and everyone is now looking for solutions. And I think one of our big challenges is just getting the word out that we're there and ready. So, we need some more people. We have more partners now talking about this to in industries like data centers and wireless systems and electrical grid installations, but it's ready now and cost-effective in many cases, much more cost-effective even than getting sort of precision time for digital services and buildings. So, we feel really bullish about the potential for it. And yes, the activity has grown dramatically over the last 6 months."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "This concludes our question-and-answer session. I would like to turn the call back to management for any final remarks."
+  },
+  {
+    "speaker": "Matt Desch",
+    "role": "",
+    "text": "Well, I will say it's been about 60 of these, Tom, that we've been through together that we've all been together, the analysts on the call. So certainly, going to miss you on this call. I'm not going to let you get too far away and you're still going to be my boss and the Board, so I have to be nice to you. But I think you've all heard Vince's looking Irish brogue here, and you'll hear more of it going forward. And we look forward to talking soon and certainly as we get on our call in February here. So, thanks all for being part of this."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "The conference has now concluded. Thank you for attending today's presentation. You may now disconnect."
+  }
+]

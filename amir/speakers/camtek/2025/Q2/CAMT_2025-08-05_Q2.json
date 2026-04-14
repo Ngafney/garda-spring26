@@ -1,0 +1,132 @@
+[
+  {
+    "speaker": "Unknown",
+    "role": "",
+    "text": "Full Conference Call Transcript Rafi will open by providing an overview of Camtek's results and discuss recent market trends. Moshe will then summarize the financial results of the quarter. Following that, Rafi, Moshe, and Rami will be available to take your questions. Before we begin, I'd like to remind everyone that the statements made by management on this call will contain forward-looking statements within the meaning of the federal securities laws. Those statements are subject to a range of changes, risks, and uncertainties that may cause actual results to differ and vary materially. For more information regarding the risk factors that may impact Camtek's results, please review Camtek's earnings release and SEC filings, specifically the forward-looking statements and risk factors identified in the results press release issued earlier today, and other risk factors as discussed in Camtek's most recent annual report on SEC form 20-F. Camtek does not undertake the obligation to update these forward-looking statements in light of new information or future events. Today's discussion of the financial results will be presented on a non-GAAP financial basis unless otherwise specified. As a reminder, a detailed reconciliation between GAAP and non-GAAP results can be found in today's earnings release. And now I'd like to hand the call over to Mr. Rafi Amit, Camtek's CEO. Rafi, please go ahead."
+  },
+  {
+    "speaker": "Rafi Amit",
+    "role": "",
+    "text": "Thanks, Kenny. Hello, everyone. Camtek concluded the second quarter with a record performance. Q2 revenues reached $123.3 million, reflecting over 20% growth year over year. We also maintained our gross margin at around 52%, contributing a record operating income of over $37 million. Revenue distribution remained in line with our expectations and closely matched last quarter's results. High-performance computing applications contributed approximately 45 to 50% of total revenue, while other advanced packaging applications accounted for about 20%. The balance came from CMOS image sensor, compound semiconductor, front-end applications, and other general applications. We continue to observe a shift in COAS-like production towards OSAT, a trend that plays to our advantages given Camtek's strong market position in this segment. We continue to see strong momentum heading into the third quarter. Based on the current orders, our sales pipeline, and ongoing customer engagement, we expect Q3 2025 revenue to be approximately $125 million, representing an annualized run rate of half a billion dollars, a significant milestone for the company. In addition, we have a healthy orders flow and pipeline into the fourth quarter. The advanced packaging segment is rapidly evolving with technological changes to support the fast-paced evolution of high-performance computers for AI applications. Based on analyst research on the semiconductor industry, the advanced packaging market that supports AI-related applications is expected to grow at an exceptionally rapid rate over the next few years. This growth is being driven by the adoption of new packaging technologies such as hybrid bonding, micro copper bumps with densities below 10 microns, RDL with line width of two microns and below, and more. This advancement requires state-of-the-art inspection and metrology capabilities combined with AI-based algorithms to detect defects, filter out noncritical issues, and classify defects, hence ensuring that only high-quality components enter the HPC module assembly line. By integrating advanced inspection and metrology tools, manufacturers can significantly increase yield and gain valuable insight into defect types, empowering continuous process refinement and production optimization. Camtek anticipated the upcoming technological shift several years in advance and made significant strategic investments to develop innovative solutions addressing these emerging opportunities. We have invested heavily in developing cutting-edge platforms that combine exceptional mechanical precision with state-of-the-art optical technologies. These efforts have culminated in the launch of the Hawk and Eagle 5 systems, delivering breakthrough performance and significantly higher throughput compared to our existing systems. In parallel, we have been developing software solutions such as enhanced defect detection (EDC) and automatic defect classification (ADC) technologies that will strengthen our competitive edge in the market. The Hawk and the Eagle 5 have been exceptionally well received by our customers and are expected to generate approximately 30% of total revenue this year, with an even larger contribution projected for the next year. In addition, our micro proof metrology system, originated from the FRT acquisition, has been successfully adopted and accepted by a tier-one customer for multiple metrology applications. Over 30 systems have already been installed and are now operating seamlessly in full-scale production environments. In summary, Camtek has solidified its position as a market leader in its domain. We believe the packaging technologies highlighted today represent significant growth opportunities for us in the coming year. And now Moshe will review the financial results. Moshe, thanks, Rafi. Revenue for the second quarter came in"
+  },
+  {
+    "speaker": "Moshe Eisenberg",
+    "role": "",
+    "text": "a record $123.3 million, an increase of 20% compared with 2024. The geographic revenue split for the quarter was similar to last quarter, as follows: Asia, 90%, and the rest of the world accounted for 10%. Gross profit for the quarter was $64 million. The gross margin for the quarter was 51.9%, similar to the previous quarter and an improvement from the second quarter of last year. Operating expenses in the quarter were $26.6 million compared to $21.6 million in the second quarter of last year, and $24.4 million in the previous quarter. Operating profit in the quarter was $37.4 million compared to the $30.8 million reported in the second quarter of last year, and $37.3 million in the first quarter. These record results were achieved despite an increase in the operating expenses, which were mainly due to the exceptionally high shipping expenses related to the conflict with Iran. Operating margin was 30.3%, compared to 31.5% respectively. Financial income for the quarter was $4.9 million, similar to the $5 million reported last year and a decrease from the $5.4 million in the previous quarter. The decrease from the previous quarter was mainly an impact of the weakness of the US dollar on reevaluation of certain balance sheet items. Net income for 2025 was $38.8 million or 79¢ per diluted share. This is compared to a net income of $32.6 million or 66¢ per share in the second quarter of last year. Total diluted number of shares as of the end of the second quarter was 49.3 million. Turning now to some high-level sheet and cash flow metrics. Cash, cash equivalents, including short and long-term deposits and marketable securities as of June 30, 2025, were $544 million. This compared with $523 million at the end of the first quarter. We generated over $23 million in cash from operations in the quarter. Accounts receivable increased to $112 million from $100 million in the previous quarter, mainly due to timing of collection. Inventory level increased to $149 million from $142 million. The increase over the quarter is primarily to support the anticipated sales growth of our new Eagle Gen 5 and Hawk product in the coming quarters. As Rafi said before, we expect revenues of around $125 million in the third quarter. And with that, Rafi, Rami, and I will be open to take your questions. Kenny?"
+  },
+  {
+    "speaker": "Kenny Green",
+    "role": "",
+    "text": "Thank you, Moshe. At this time, we'll begin the question and answer session. If you have a question, please raise your hand via the Zoom platform. I will introduce you and ask you to unmute, after which you may ask your question. So we'll give a few moments for everyone to put themselves in the queue. Our first question will be from Charles Shi from Needham. Charles, you may go ahead and ask your question."
+  },
+  {
+    "speaker": "Charles Shi",
+    "role": "",
+    "text": "Thanks for taking my question. Maybe the first question, I want to get a little bit of updated thoughts about the composition of the business, maybe for the second half of the year or maybe for the full year, whichever time frame you guys prefer to discuss. So I want to ask, HPC, what's the for the second half of the year maybe from a mix perspective? Clearly, first half, it has been around that 45-50% level. Is it a similar level into the second half? Or for the full year? And on a related question, I do want to ask what's the current expectation for China contribution to the total revenue for the year? Last time, I think you guys were more looking at the 35 to 40% of total revenue. Have any of those numbers changed? Thank you."
+  },
+  {
+    "speaker": "Moshe Eisenberg",
+    "role": "",
+    "text": "So thank you, Charles. So let's talk a little bit. We'll start with your first question. We see a positive momentum"
+  },
+  {
+    "speaker": "Rami Langer",
+    "role": "",
+    "text": "in the second half. And as we discussed in Rafi's discussion, we have a healthy order flow and pipeline. We provided a positive guidance for Q3 and we'll provide the guidance for Q4 in the next earnings call. Regarding the HPC, we expect the HPC revenues in the second half to be not much different than the first half. And regarding China,"
+  },
+  {
+    "speaker": "Moshe Eisenberg",
+    "role": "",
+    "text": "Charles, hi. Regarding the China contribution to the business, altogether, China is obviously significant to Camtek, has been so for many years. Last year, the contribution was around 30%. We expect that this year, the contribution will be a little bit higher than that. It's still early to say how much will be the contribution for the second half, but we expect it to be a little bit higher."
+  },
+  {
+    "speaker": "Charles Shi",
+    "role": "",
+    "text": "Thanks. Okay. Specific around China, no additional quantitative view for the year. Maybe a second question a little bit more. At a higher level, and maybe this is more about product and technology. KLA has been making a good amount of inroads in 2.5D. It's at the leading foundry and looks like they are looking at the HBM opportunity as well. But so far, it looks like it's more around hybrid bonding related to HBM opportunity, maybe a little bit concentrated at one customer that is focusing on hybrid bonding. I want to get your general thoughts. Camtek's position versus potential entry of KLA in your existing HPC markets and what management thought on how to compete effectively versus KLA. And yeah, let's go from there."
+  },
+  {
+    "speaker": "Rami Langer",
+    "role": "",
+    "text": "So let me start with the hybrid bonding. We see the hybrid bonding as a great opportunity for us. This field is still in the early stages and we are running our tools today at strategic customers and we believe that we have the necessary capabilities in inspection and metrology to address the hybrid bonding opportunity. Now, you know, we discussed the KLA penetration and trying to get in some of the into this market. I think we discussed it also in the last call. And we've already been engaged in competition with KLA on multiple occasions at different customers, I would say, for the last couple of years. And we demonstrated that our equipment is highly competitive. I think we are very well positioned to meet the specific requirements of this unique market. And with our latest products, the Hawk and the Eagle 5, even more than in the past, we offer a very competitive market. Now in general, the advanced packaging is our market. We are well known. We have excellent relationships with our customers, and we understand exactly their requirements moving into the future. Therefore, I think if I would like to summarize, I think the unique combination of our technology, scale, which is important here, and flexibility are key reasons why many customers choose to work with us over larger competitors who often are slower to respond."
+  },
+  {
+    "speaker": "Charles Shi",
+    "role": "",
+    "text": "Thank you. That's all for me."
+  },
+  {
+    "speaker": "Rami Langer",
+    "role": "",
+    "text": "Thank you. Thank you. Thanks, Charles."
+  },
+  {
+    "speaker": "Kenny Green",
+    "role": "",
+    "text": "Our next question is from Matt Frisco of Cantor. Matt? You may go ahead and ask."
+  },
+  {
+    "speaker": "Matt Prisco",
+    "role": "",
+    "text": "Hey, guys. Thanks for taking the question. So I guess, first, for your product ramps, can you go over where you're seeing the greatest traction today for both the Eagle G5 and the Hawk in terms of applications? And kind of what are the primary drivers behind the strong customer reception here?"
+  },
+  {
+    "speaker": "Rami Langer",
+    "role": "",
+    "text": "I think it's a few things to drive the new products. So let me start with the Hawk. I think the Hawk provides two very important capabilities that are, first of all, very high throughput that is very important, where people are very sensitive to the footprint in the fabs. And on the other side, it provides the path to very, very, I would say, difficult applications that people will need now or into the future. And I think people that are looking into this changing market that the products are changing, and people are not sure what they will need in a year or two, the Hawk provides a path to address those challenges with the capabilities it has today. And this obviously relates to the microbumps, you know, with the pitches coming very small, very high number of bumps, hybrid bonding, a lot of challenges in the inspection market. All of these challenges the Hawk provides a very, very good solution moving forward. On the G5, I think compared to the Eagle, it's much faster and I think it addresses it again from the optics point of view. The ability to detect, I would say, defects that we couldn't previously address with the current products and other capabilities. So for the, I would say, for the price tag of a million plus, no doubt today the Eagle provides the best in class solution into the market. So I would say it's two different reasons. It's two different product lines. And I think what I've discussed, these are the reasons for the very high traction by our customers. And I think as we said in our prepared notes, we were able to achieve 30% of our revenues this year with two product lines, which is exceptionally well. And I expect that we will see more next year. Maybe a few words about the applications. So as I said, and I will say it may be not clear enough. I just want to make sure that it's well understood. So first of all, the applications are, I would say, large number of bumps. That's very important. Very small defects. The Hawk will address defects down to 150 nanometers. And this is very challenging. And this is very important for hybrid bonding and other 2D inspection requirements. And, of course, the throughput and similarly the Eagle G5 on a different, I would say, not to the extent of the capabilities of the Hawk, but definitely a very good solution in the price range that is being offered. If I answered your question,"
+  },
+  {
+    "speaker": "Matt Prisco",
+    "role": "",
+    "text": "Perfectly. Thank you. And then as a follow-up, given the success you're seeing in these new product ramps and your continued success into next year, can you maybe offer some early thoughts based on your visibility and customer conversations on how you're thinking about Camtek's growth prospects overall for the company into 2026? Thank you."
+  },
+  {
+    "speaker": "Rami Langer",
+    "role": "",
+    "text": "2025, 2026. So, look, regarding 2026, I think our market and specifically the high-performance computing are expected to grow rapidly in the coming years. This market also technologically changes and the HPC is undergoing a lot of changes. That we believe will create a lot of opportunities for us. For example, and I think Rafi mentioned it in his prepared notes, fine pitch micro bumps, hybrid bonding, HBM4, and many others. So if I look at these opportunities, at our market position, assuming a positive market environment in 2026, will no doubt support another growth year for Camtek."
+  },
+  {
+    "speaker": "Kenny Green",
+    "role": "",
+    "text": "Thanks, Matt. Our next question will be from Ezra Weiner of Jefferies. Ezra, please go ahead and ask your question."
+  },
+  {
+    "speaker": "Ezra Weiner",
+    "role": "",
+    "text": "Hi. Yeah. Thanks for taking my question. I guess it's a two-parter. First, can you talk a little bit about the content uplift from HBM3/3E to HBM4 for you guys? I know there's a couple different paths people are going with it. So what you're seeing there, then the second part of that question would be from a CapEx perspective, what you're seeing at your customers. And what you're seeing for HBM specifically as we wait for potential qualification. Thank you."
+  },
+  {
+    "speaker": "Rami Langer",
+    "role": "",
+    "text": "So obviously, the HBM market from a capacity point of view continues to grow. And we're seeing customers adding capacity. Now in general, the uplift and the, you know, it goes in a few ways. First of all, there are more HBMs per product. We see the density is growing, not drastically. I think the major jump in density from the HBM will come probably late 2026, early 2027. But definitely on the four, it's moving to more layers. And eventually, this means that we will scan more wafers. There is some change in the number of bumps, some pitch differences, but all in all, we've already been qualified at some customers for the HBM4. So all in all, it's a very positive path. We're getting very good, I would say, inputs from our customers, so expect that definitely HBM4 will be a positive opportunity for us."
+  },
+  {
+    "speaker": "Ezra Weiner",
+    "role": "",
+    "text": "Got it. Then if you could just talk a little bit about what you're seeing in terms of timing for customer spending and kind of the shape of that spend? In terms of HBM4 specifically?"
+  },
+  {
+    "speaker": "Rami Langer",
+    "role": "",
+    "text": "In HBM4 specifically, I would say that customers are talking to us, HBM4, we are starting to see emission forecasts to support the uplift of the HBM4. I think more than that, I will not be able to discuss during this call."
+  },
+  {
+    "speaker": "Ezra Weiner",
+    "role": "",
+    "text": "Understood. Thank you very much."
+  },
+  {
+    "speaker": "Kenny Green",
+    "role": "",
+    "text": "Thanks, Ezra. Our next question will be from Craig Ellis of B Riley. Craig, you may go ahead and ask your question."
+  },
+  {
+    "speaker": "Craig Ellis",
+    "role": "",
+    "text": "Yeah. Thanks for taking the question. I wanted to follow-up a little bit on HBM4 to start. So it sounds like it's a very immaterial part of revenues today, and the visibility may not be clear on when you'd get the crossover from HBM3 to HBM4 related revenues. But if you have some idea of that sounding like 2026, it would be helpful. The question is more of this. When you look at the specific feature enhancements in either G5 or Hawk, what are they that are very advantageous for HBM4? And what does that mean for the trajectory of gross margin as we move through the HBM4 ramp-up period?"
+  },
+  {
+    "speaker": "Rami Langer",
+    "role": "",
+    "text": "Okay. So thank you, Craig, for the question. Now first of all, the equipment that we sold or most of the equipment that we sold to HBM3 will be used for HBM4 as well. So it's not that the, you know, what we sold in '25 or '24. This is immaterial. For the additional growths of this, some of this equipment has already been qualified to address the HBM4. So specific this is in general. However, there is an uplift. There is going to be an increase in capacity for the HBM4, and what I indicated in my previous answer is that we are already in the process of talking to customers about the forecast for HBM4. Definitely, this will start to happen early in '26, wherein this, we will ship equipment to support the HBM4."
+  }
+]

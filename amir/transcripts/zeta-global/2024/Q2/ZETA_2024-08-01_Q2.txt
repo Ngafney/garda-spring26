@@ -1,0 +1,413 @@
+Operator
+Greetings, and welcome to the Zeta second-quarter 2024 earnings conference call. [Operator instructions] As a reminder, this conference is being recorded. It is now my pleasure to introduce your host, Scott Schmitz, senior vice president of investor relations. Thank you, Scott.
+You may begin.
+Scott Schmitz
+--
+Senior Vice President, Investor Relations
+Thank you, operator. Hello, everyone, and thank you for joining us for Zeta's second-quarter 2024 conference call. Today's presentation and earnings release are available on Zeta's investor relations website at investors.zetaglobal.com, where you will also find links to our SEC filings, along with other information about Zeta. Joining me on the call today are David Steinberg, Zeta's co-founder, chairman, and chief executive officer; and Chris Greiner, Zeta's chief financial officer.
+Before we begin, I'd like to remind everyone that statements made on this call as well as in the presentation and earnings release contain forward looking statements regarding our financial outlook, business plans, and objectives, and other future events and developments, including statements about the market potential of our products, potential competition, revenues of our products, and our goals and strategies. These statements are subject to risks and uncertainties that may cause actual results to differ materially from those projected. These risks and uncertainties include those described in the company's earnings release and other filings with the SEC and speak only as of today's date. In addition, our discussion today will include references to certain supplemental non-GAAP financial measures, which should be considered in addition to and not as a substitute for our GAAP results.
+We use these non-GAAP measures in managing our business and believe they provide useful information for our investors. Reconciliations of the non-GAAP measures to the corresponding GAAP measures where appropriate can be found in the earnings presentation available on our website as well as our earnings release and other filings with the SEC. With that, I will now turn the call over to David.
+David Steinberg
+--
+Co-Founder and Chief Executive Officer
+Thank you, Scott. Good afternoon, everyone and thank you for joining us today. Three years ago, we went public with the promise of bringing data and AI together to modernize marketing technology. Over the course of these three years, we have delivered on this promise and consistently produced, beat, and raise results.
+This quarter was no different. In the second quarter of 2024, we generated revenue of $228 million, up 33% year over year with adjusted EBITDA of 38.5 million, up 44% year over year. Our adjusted EBITDA margin of 16.9% expanded 130 basis points year over year. This accelerated revenue growth, combined with strong margin performance, means we have achieved the rule of 50 for the first time as a public company.
+And once again, we are raising our full-year 2024 outlook by another $25 million to $925 million at the midpoint. This translates into 27% year-over-year revenue growth. This is driven by the AI revolution, which is accelerating the replacement cycle of marketing technology. Artificial intelligence is disrupting legacy marketing clouds, which in some cases are even shutting down parts of their business, creating a large opportunity for more innovative, agile, and AI-powered marketing technology companies like Zeta.
+As I have stated before, AI has moved from science fiction to a boardroom conversation. Boards are asking CEOs what is their AI strategy. In turn, CEOs are asking their CTOs, CMOs, and CIOs for their plans. And they are turning to us because we turn AI into real-world results for marketers.
+Enterprises are looking to Zeta to improve productivity, deliver personalization at scale, and develop marketing programs with a measurable and superior return on investment. This is core to our value proposition. We have been focused on AI for many years, not many months with AI, natural language processing and data at the core of our platform. As the use of GenAI tools has grown, there has been greater acknowledgment that marketing is among the first functions to be transformed by AI.
+Realizing the full potential of GenAI requires proprietary data. Over the last 15 years, we have invested and innovated to assemble one of the largest proprietary opted in data clouds. Our flexible and scalable data platform enhances and extends investments that enterprises have made in modern data warehouses, such as Snowflake and Databricks, and has a robust identity resolution capability built right in. Taken together, these modules make it easier for marketers to target the right customers at the right time while keeping the security of their data and the privacy of their consumers within the enterprise ecosystem.
+There is no data exhaust from Zeta's LLMS like there are with others. While our AI-powered intelligence delivers value from day 1, we are not standing still. We are seeking new ways to expand our AI advantage. We recently announced an advancement in GenAI functionality by partnering with Amazon's Bedrock platform.
+This collaboration enhances and extends our long-standing partnership with AWS and gives Zeta greater access to AWS customers with tools to create intelligent AI assistants with personalized workflows that can handle all of their marketing tasks. An emerging example of the power of Zeta's intelligence is the launch of the Zeta Economic Index or ZEI, which we announced earlier this month. The ZEI is a next generation barometer of the U.S. economy, leveraging Zeta's proprietary data Cloud, which captures the behavior of 240 million Americans.
+It predicts the trajectory of the macro economy and highlights microeconomic levers. Zeta's ability to produce a sophisticated tool like this underscores our commitment to providing unique, actionable business intelligence to enterprises. And with strong initial media coverage by CNBC, Bloomberg, Forbes CNN, and others, the ZEI is also an incremental source of brand awareness. Our ability to provide AI-driven intelligence to the world's leading enterprises enables them to understand the drivers of consumer behavior and intent.
+For example, a leading national furniture retailer, is leveraging the ZMP, including Zeta's proprietary identity graph and intent signals to predict in-market intent, target prospects, and customers in their preferred channel, optimize the customer journey, touchpoints, and deterministically measure their return on investment. Our AI capabilities will also be on full display at our fourth annual Zeta live event, taking place on September 26th in New York City. This year, our featured speakers include Shaquille O'Neal, Doctor Deepak Chopra, and Michael Milken. In addition, we will have CMOs from many fortune 500 companies.
+In total, there will be over $100 billion of annual marketing spend controlled by the people in that room. Zeta Live provides unique opportunity to gain deep insights, discover practical strategies and take advantage of invaluable networking connections that will help brands harness the transformative power of artificial intelligence Zeta Live 2023 has been a key driver of our growing pipelines and market awareness with customers and attendance accounting for over a quarter of our pipeline and one-third of new scaled customers this past year. Our increasing brand exposure is giving us a broader vantage point of where the market is going. This strengthens our ability to improve our competitive position through internal development while remaining opportunistic for accretive transactions that can enhance our platform, accelerate our speed to market, and deliver outside value to our customers.
+In closing, I am extremely excited about our growing market awareness and the competitive position of our platform. We remain hyper focused on executing on the huge opportunity in front of us. While we have come a long way as a public company over the last three years, we truly believe we are just getting started. As always, I would like to sincerely thank our customers, our partners, Team, Zeta, and all of our shareholders for the ongoing support of our vision.
+Now let me turn it over to Chris to discuss our results in greater detail. Chris?
+Chris Greiner
+--
+Chief Financial Officer
+Thank you, David. And good afternoon, everyone. There are many positive developments to highlight as we turn the corner into the back half of 2024. Visibility into our existing customers and prospects is high, momentum across several of our growth catalysts is building, and adjusted EBITDA margin and cash conversion is increasing.
+These three factors are contributing to the second quarter's strong beat and our confidence to once again raise third quarter and full-year guidance. I'll spend time today detailing the drivers of the second quarter's beat and our accelerating performance; discussing why Zeta's differentiated capabilities, value proposition, and go to market is contributing to our share gain; and wrap up by outlining how we are flowing through our momentum in the form of increased revenue, adjusted EBITDA, and cash flow guidance. So let's dive in starting with the second-quarter results. We delivered revenue of $228 million, $16 million better than the midpoint of guidance and up 33% year to year, the fastest growth rate we've seen since going public three years ago.
+Two growth catalysts contributed to the beat and acceleration this quarter. First, our growth in insurance and automotive verticals continued their upward trajectory, accelerating at a faster pace than expected. And second, our agency business driven by the addition of new brands across several verticals led to the highest quarterly ARPU growth rate in three years. From a Zeta 2025 KPI perspective, scaled customer count increased from 460 in 1Q to 468 in 2Q, up 10% year on year with super scaled customers of 144 equal to last quarter and up 22% year to year.
+Total quarterly scaled customer ARPU was 479,000, up 22% year to year, two times faster than the first quarter's growth rate of 11 % and well above our model of 8% to 12% growth. This was fueled by super scaled customers, many of which were large agencies adding incremental brands. This is the equivalent of adding new scaled customers since we only count an agency as one customer. In fact, across our top five agency holdco customers, we're working with an average of 19 brands at each up from 12 a year ago, more than 50 % growth.
+Each of these brands meet the definition of a scaled customer, which is at least $100,000 in revenue over a trailing 12 month period. We had a solid quarter of adding new quota carriers increasing from 142 in the first quarter to 152 in the second quarter, up 22 or 17%. We continue to see balanced growth across several of our industry verticals with six out of our top ten growing 25 % or more. Direct mix for the quarter was 67%, consistent with the first quarter.
+And as has been the case now for several quarters, direct mix is influenced by our rapid growth with agency holdco customers adopting our social channel capabilities. These revenues are classified as integrated revenue, which grew 71% year to year in 2Q. At the same time, direct revenue growth improved to 20% year to year in 2Q versus 17% in the first quarter. The second quarter's GAAP cost of revenue was 40% compared to 39.4% in the first quarter and 36.1% last year.
+The higher cost of revenue year to year is driven primarily by channel mix, including the rapid growth in social channels from agencies that despite a higher cost of revenue profile is accretive to overall adjusted EBITDA margins. Our second-quarter GAAP net loss was $28 million, which includes $52 million of stock based compensation. Excluding the accelerated expensing to our IPO, stock-based compensation would have been $33 million. As for the remainder of the PNL and balance sheet, it was a strong quarter across the board.
+Opex as a percentage of revenue was 43.3% as compared to 48.7% a year ago. Excluding stock-based compensation, sales and marketing and G&A declined by an average of 260 basis points year to year, while R&D was flat as we make incremental investments in product and engineering related to mobile and generative AI. We generated $38.5 million of adjusted EBITDA, $3 million better than the midpoint of guidance and up 44% year to year at a margin of 16.9% or 130 basis points better than last year. This represents an acceleration from the first quarter's 40 basis-point-improvement with incremental revenue upside dropping to adjusted EBITDA at a 21% margin.
+Cash from operating activities was $31 million, up 51% year to year with free cash flow of $20 million, up 53%. This translates to an adjusted EBITDA to free cash flow conversion of 51%. I want to take a moment to share a few observations discussing one of the more common questions we've received this past quarter, which is the macros impact on buying decisions and how it's influencing what CMOs and CTOs are requiring from their vendors. The intent is to illustrate why and how Zeta has been able to execute through this period of choppiness.
+First, we're seeing increased enrollment and budgetary responsibility by the CTO in close consultation with the CMO. We believe this change is spurred by a marketing technology replacement cycle that continues to pick up steam. For legacy marketing clouds and point solution vendors, this is creating challenges. For Zeta, it's a positive shift as it elevates replacing legacy systems and eliminating point solutions, sitting squarely in one of our key value propositions of lowering total cost of ownership.
+The CTO's involvement is also affecting RFP timelines. For Zeta, it is far less of an impact than what others are encountering since the vast majority of our customer wins start as pilots, in many cases, bypassing an RFP altogether. Post pilot, we expand wallet share as incremental channels and use cases prove a higher attributable ROI from using our platform. Slide 11 in our earnings supplemental best illustrates our unique land, expand, extend, go-to-market sales motion.
+Second, we're seeing large enterprises shift investment to first-party data partners spurred by a focus on personalization. This is causing disruption for legacy CDP and marketing cloud vendors who do not own proprietary data. In this case, we provide access to our first-party proprietary data cloud out of the box, along with an end to end platform of audience creation, orchestration, and activation capabilities. For a CMO, this allows for the seamless creation of a singular customer record.
+Zeta is one of the only platforms merging the data ecosystem of existing customers and prospects. For a CTO, it allows for the elimination of multiple data vendors and first-generation CDPs while creating faster paths to integrate data because of Zeta's partnerships with companies like Snowflake and AWS. And finally, CMOs want to practically understand what generative AI can do for them and their teams. Otherwise generative AI can be a distraction for buyers if you're not able to demonstrate its real world utility and ease of use.
+Zeta is solving for this. We've transformed our internal learning and development team into external-facing customer trainers so we could flatten the AI learning curve for our customers and prove its ease of use. The utility of our AI can be viewed through the lens of conversations our customers are having with our intelligent agents. We now have over 400 agents created to date.
+And while it's still very early, we saw conversations increase 300% month over month in June alone. Agent conversations drive a more efficient and effective marketing campaign for our customers. It's these factors, in combination with a well-diversified large enterprise and agency customer set, that we can execute through the choppiness others are having challenges navigating, which is a good lead in to my final topic, how we're flowing through our upside and 2Q and the details of our increased 2024 guidance. We're raising revenue and adjusted EBITDA guidance for the third quarter and full year, along with increasing the midpoint of 2024's free cash flow guidance.
+Details can be found starting on Slide 16 of our earnings supplemental. For the full year of 2024, we're increasing the midpoint of revenue guidance to $925 million, representing 27% growth year over year. This is a $25 million increase from our prior guidance, more than the $16 million of upside we delivered in 2Q and represents an acceleration of full-year growth from 23% last year. Second-quarter political candidate revenue was consistent with our guidance at $1.5 million, and we're maintaining our $15 million outlook for the year as shown on Slide 18 in our earnings supplemental presentation.
+Advocacy revenue, which becomes more prominent during political cycles, increased every month of the quarter, another positive sign for growth in the back half of the year. For the third quarter of 2024, we're increasing the midpoint of revenue guidance by $9.2 million to $239.2 million, up 27% in the year. In terms of full-year 2024 adjusted EBITDA, we're increasing the midpoint of 2024 guidance to $175.5 million, representing a year over year increase of 36% or 19% margin. For the third quarter of 2024, we're increasing the midpoint of adjusted EBITDA guidance by $1.8 million to $47.1 million, up 39% year to year or 19.7% margin.
+We're also raising the midpoint of full-year free cash flow guidance to $85 million from $80 million in our prior outlook. This represents a cash conversion percentage of 48% up versus 42% last year. Before we take your questions, I'll wrap up with a couple of final thoughts. First, it's clear investments made years ago to rearchitect our platform, make data and AI native to the application layer and reengineer.
+Our go to market motion is proving to be prescient. And second, visibility into our business is high and therefore confidence in our guidance continues to strengthen. Now let me hand the call back over to the operator for me and David to take your questions. Operator?
+Questions & Answers:
+Operator
+Thank you. We will now be conducting a question and answer session. [Operator instructions] First question comes from Ryan MacDonald with Needham and Company. Please go ahead.
+Ryan MacDonald
+--
+Needham and Company -- Analyst
+Hi. Thanks for taking my questions, and congrats on an amazing quarter. Maybe David maybe to start with you. Excellent to hear about all the strong scaled customer ARPU expansion.
+And clearly, the agency channel continues to be a big driver of that. As we think about the additional brands that were added, just as a clarification, were there any new agency customers added during the quarter? Or are these all brands expansions within the existing base of agencies? And is there any seasonality? We should think about seasonality of brand additions with these agency partners as we move forward? Thanks.
+David Steinberg
+--
+Co-Founder and Chief Executive Officer
+First, thank you, Ryan. Appreciate it. We had said over the last couple of quarters that we had gone from 1 to 3 to 5. So the answer is that these are in those five that we're seeing the new agencies as in the ones we've added over the last 6 months scale very, very rapidly.
+One of the things I found so interesting about the quarter was if you look at it, the ARPU growth of 22% from existing customers is really emblematic of how well our AI, our data, and our software are working because we're seeing clients that are using it growing at an accelerated pace. When you look at going from an average of 12 brands per agency to an average of 19 brands per agency, which Chris talked about in the prepared remarks, that's really just scratching the surface because if you look at it, these five agency holdcos that we work with today have hundreds each of clients. So we're very happy about the progress there. As it relates to seasonality, it all depends on -- if you're asking about seasonality, about the addition of brands, it's not really the case, right? We are working with our agency clients.
+We love our agency clients. They've been incredible partners to us. Our goal is to help them be the heroes of their stories with their brands, right? So we're there to service the agencies. And as a subset, they're bringing more brands to work with us as a part of that.
+So I expect that trend to continue. I expect us to continue to grow brands within those agencies. And by the way, there's a whole host of incredible midsize agencies, some of which we're working with very, very closely. And our goal is to grow with them as well.
+As it relates to the business for seasonality of revenue, it really depends on the brand. You've got some brands that go up in the fourth quarter around the holiday season, and you've got some brands that go up in the first quarter around buying season. You have some brands that go up in the third quarter, around back to school, right, and you can go through that. But we've been consistently increasing the number of brands that we work with those five agencies, and the goal is to continue to add those brands.
+Ryan MacDonald
+--
+Needham and Company -- Analyst
+Really helpful color there. Maybe as a follow up, just wanted to ask on the automotive and the insurance verticals because they were obviously called out for that sort of acceleration again this quarter. Can you just remind us maybe where those verticals are trending relative to sort of, let's call the 2022 levels? Are we fully back to those levels yet? And as you kind of think about the current environment, is there a possibility for those verticals to sort of get to a point and grow to a point where they exceed those prior levels and not just recover but improve? Thanks.
+David Steinberg
+--
+Co-Founder and Chief Executive Officer
+Thanks, Ryan. The automotive and the insurance verticals each returned to growth in the first quarter and the second quarter. Both, individually and then obviously on a combined basis, grew even faster than total Zeta's, 33%. But no, not yet at peak, and we have existing pipeline opportunities into different brands in those verticals as well that we feel like we've got good momentum in those two places
+And there's no reason to think they can't grow over the years to substantially larger than they were at one point.
+Ryan MacDonald
+--
+Needham and Company -- Analyst
+So congrats again on a great quarter.
+Operator
+Next question, Terry Tillman with Truist Securities. Please go ahead.
+Terry Tillman
+--
+Analyst
+Yeah. Hey, David, Chris, and Scott. Congratulations from me as well. I had a couple questions.
+The first question, I'd love to delve a little bit more into the GenAI traction you're seeing. I know you don't have a direct monetization strategy at this point. But indirectly, is it then actually driving more consumption revenue at this point or is it creating the conversation to use other models? And the second part of that first question on GenAI, the $6 billion-plus replacement market opportunity, how direct and involved in the RFP for those replacements are you seeing GenAI as part of the language in the deal? And then I had a follow up for Chris.
+David Steinberg
+--
+Co-Founder and Chief Executive Officer
+OK. So thank you. First of all, thank you, Terry. I appreciate it.
+So I would tell you, and it's -- I actually know the percentage. I'm not sure I can share it, but the vast majority of our customers are now actively using our GenAI products. I believe it is a direct result of the 22% ARPU growth of our existing customers. We are seeing customers that use it scale substantially faster than customers who have not adopted it yet in utilization fees and increasing their contractual relationships with us.
+So correct, it's not a direct revenue generation today. We're not charging for it yet. I do see a scenario where we do in the years to come as we build more advanced data scientists in a box. But for now, I think it is directly responsible for the corporate 33% growth rate.
+As it relates to the replacement cycle, I personally have not seen an RFP over the last three months that did not have an AI component to it, and I believe that it is the reason that we are winning and will continue to win RFPs at an incredibly high percentage of the ones we see. Our goal is to continue to grow Zeta from what used to be Zeta who to now what is why Zeta. My long term goal is to get the must-have Zeta, and we continue to work on that. So the more RFPs we get, the more language around AI that's in there, the higher the percentage of them we are winning.
+Terry Tillman
+--
+Analyst
+That's great. Thanks for that. And I guess, Chris, just the final question here is on the scale of customer ARPU. I mean it was substantial.
+I mean I had to like look at it a second time, so congrats on that. But how do we think about 3Q and 4Q? I know some of this was definitely driven by the Agency Holdco traction with brands. But should we assume something more in that 8% to 12% growth range in 3Q and 4Q? thank you.
+Chris Greiner
+--
+Chief Financial Officer
+Thanks, Terry. I do think it's best to keep expectations within our model. So both for adding the amount of skilled customers, which is to grow between 8% and 12% and then making them bigger and to grow the ARPU between 8% and 12%. What really helped the ARPU this quarter, and it's a great tailwind to have, is we now have one-third of our total scaled customers using three or more channels, and that count of those customers grew over 30%.
+And then for the first time, I can think of in a while all three of our use cases. So we offer the acquire, the grow, and the retain use case. All three growth case use cases in terms of revenue growth grew over 25%. So it was broad-based.
+It was across industry verticals, and it was strong adoption of our multi-channels.
+Operator
+Next question, Matt Swanson with RBC. Please go ahead.
+Matt Swanson
+--
+RBC Capital Markets -- Analyst
+Yeah. Thank you so much for taking my questions, and I'll echo my congratulations on the quarter. David, maybe staying on GenAI. Could we get a little bit deeper into what you're seeing as kind of a largest pain point that's causing this accelerated shift? And then also for the people that have been with you the longest going down this AI pathway, how long do you think it is before that real like personalized marketing end of one becomes an achievable goal with your CDP?
+David Steinberg
+--
+Co-Founder and Chief Executive Officer
+Well, thank you, Matt. Let me start by saying that the biggest pain points in marketing really haven't changed over the last, pick a number, 100 years, right. How do you eliminate the percentage of your marketing that does not show a high-quality return on investment? And if you look at the industries that are ripe for disruption utilizing artificial intelligence, marketing should be right at the top of that. And what we're seeing is the ability to take our data, which is native to the application layer and our artificial intelligence, which is native to the application layer, and get down to the people with the highest level of intent and the ability to buy and the inclination to buy our clients products, we're able to show an even higher return on investment by using GenAI and data then even we could a year ago.
+And we were already doing pretty well a year ago. So we're seeing that return on investment for our clients go up exponentially, which is why I think you see our existing clients who are using it. They're seeing the advancement. They're buying the products at a substantially higher pace.
+And as we're onboarding clients, we're able to get them in and then up to speed. As you also asked, how do you get to that literally targeted individual, we're already doing 1:1 marketing at massive scale. And I don't really know another organization that's able to do that. So we're able to look at as many as 5,000 to 7,000 individual data signals to target an individual as it relates to our clients, products, and services.
+So we're not fully where I'd like to be, right? Because long term, I would like to only run marketing to clients who are in market and will be approved for our clients and continue to evolve the return on investment. And that's how we continue to grow our ARPU and continue to onboard existing customers, but I think we're very much well on our way to getting there.
+Matt Swanson
+--
+RBC Capital Markets -- Analyst
+Yeah, no, that's fantastic. And then, Chris, not that not, that seems like the size of the land matters when you guys are expanding as well as you are currently, but kind of as David mentioned, getting past the who's data point. Are you starting to see larger lands as you get more brand recognition through things like your index, but also just your prevalence in the market?
+Chris Greiner
+--
+Chief Financial Officer
+We've done -- where it's most prominent, Matt, is, is the sales team has done a very, very good job in making RFP processes bigger. So as we get deeper through the first phase into the second phase and then as we enter the sandbox phase, what we're able to demonstrate to the customer is the breadth of the platform, and we're able to upsell what was maybe an email scope into an email plus a CDP scope. So that's where we see the most evidence of deals getting bigger. But as I mentioned in the prepared remarks, and I think one of the many secret sauces we have of navigating the choppiness is we're not too shy to start off with a 100,000 pilot or a proof of concept.
+And as you noted and as I think is outlined nicely on the slides, we very quickly are able to go from that pilot to then adding channels and use cases.
+Operator
+Next question, Brian Schwartz with Oppenheimer. Please go ahead.
+Brian Schwartz
+--
+Analyst
+Yeah. Hi, thanks for taking my questions this afternoon. Chris, I was hoping to ask you for a little more color specifically on the revenue growth acceleration, giving us a sense of what the contribution near term, medium term to revenue growth from these three items, seat growth versus upselling versus consumption. Is it possible at all to rank that order or quantify anything that you can give us a sense of what's driving that strong number? Thanks.
+Chris Greiner
+--
+Chief Financial Officer
+It's a really interesting question, Brian. I would say this quarter we saw very strong consumption. And as I noted, what really stood out to us is we've crossed a neat threshold of one-third of our scaled customers using three or more channels. So consumption was a big driver this quarter.
+Cross-selling, meaning adding more use cases, that point of evidence I just highlighted around all three use cases being over 25% year to year growth, I can't think of a quarter there might have been, but that stood out to us as well. See, growth for us isn't really part of how we price, but the size of the analytics that we're processing is. And I think that was a -- it was a material driver. Great question, though.
+David Steinberg
+--
+Co-Founder and Chief Executive Officer
+We're seeing that the Zoe product, which is really analytics at its core, it has been, quite frankly, growing at such a fast pace. It's really starting to drive material growth into the overall business. And that's really your own data scientist in a box. So it's really a voice-enabled analytics package that allows enterprises to better understand their customers who their customers could be, how to target additional customers, and every output you could possibly get into the marketing ecosystem.
+Brian Schwartz
+--
+Analyst
+I appreciate that color. The one follow up I had was just a question on what you're seeing with your scaled customers in terms of sales cycles, the duration. Are you seeing the cadence of the scaled customers coming back to buy more from you picking up compared to either earlier this year or what you saw last year? Thanks for taking my questions today.
+David Steinberg
+--
+Co-Founder and Chief Executive Officer
+No, of course, Brian. We didn't see a slowdown at Zeta. So I wouldn't say it's ticking up. It's continued on a very high quality process.
+If you look at the first half numbers for super scaled, it was very solid growth. And the other thing that I think was really important for Chris to note that I want to reiterate is our average agency client went from 12 brands to 19. Even though each one of those 19 could be a super scaled client, our accounting only shows each agency as one individual customer. So inside of the numbers, we're growing super scaled and scaled clients substantially faster even though it's represented inside of super scaled and scaled consolidating to one entity.
+Operator
+Next question, Elizabeth Porter with Morgan Stanley. Please go ahead.
+Elizabeth Porter
+--
+Morgan Stanley -- Analyst
+Great. Thank you so much. I wanted to follow up on the ARPU growth. The first two drivers you called out were being an agency and auto insurance coming back, but I wanted to double click on more the non-agency, non-auto, and insurance side.
+And are you seeing a sizable improvement in spend in that cohort kind of more broadly? And AI seems to be a third driver. And just given it's really early, what would make the ARPU growth rate kind of not as durable from kind of what we're seeing today? Thank you.
+David Steinberg
+--
+Co-Founder and Chief Executive Officer
+Thank you, Elizabeth. So, so let me start by saying we saw ARPU growth across the board. We didn't just see it with the agency holdco. So you know, as I said earlier and I want to reiterate it again, the vast majority of our customers are now using our generative AI products, and we rolled them out to almost all of our customers in an automated upgrade that just went out to them that they were able to start using in real time as a part of the ZMP.
+It was really just integrated into the user interface. And as a part of that, we started to see ARPU growth go up. As it relates to AI and its ability to continue that type of ARPU growth, we're -- I'm not sure I can sit here today and say it's going to continue at that exact pace, but I would expect us to continue to grow ARPU at a faster pace than we have in the past because of artificial intelligence. Chris?
+Chris Greiner
+--
+Chief Financial Officer
+It's neat. We started to measure now conversations, Elizabeth. So we talked last quarter at having 300 intelligent agents launched in our library, if you will. We're now up to 400.
+And what we're seeing, as David mentioned, is a really high level of engagement. So those conversations, think of as completed threads, right? It's you as a user interacting with the platform and getting your answers. And that conversation isn't just kind of a back and forth. It's actually one completed thread only counts as one conversation.
+And just from May to June, those conversations increased 300%. So it's really good to see the engagement. And I think what our technology and product team championing, making it easy for the customers to use is we've turned our internal learning and development resources into external customer trainers, and that's also really helped platform usage.
+David Steinberg
+--
+Co-Founder and Chief Executive Officer
+And I really want to drive that home. This rolling out our learning and development to our clients has been really game changing with their ability to scale with us, and we think that's a trend that will continue.
+Elizabeth Porter
+--
+Morgan Stanley -- Analyst
+Great. And then I wanted to follow up on the mobile opportunity, given we haven't touched on that as much. So if you could just give us an update on where we're trending on product development, kind of expectations on rolling that out to customers. And historically, how long does it usually take before you see new products really start contributing to the revenue line?
+David Steinberg
+--
+Co-Founder and Chief Executive Officer
+Well, so we said we would debut our mobile product at Zeta Live on September 26th in New York, and we will be there. So we're very excited. We're already beta testing it with a few clients, and we feel like we're very well-positioned. To your second question, I think it took us about three years to get to 100 million in connected television, CTV.
+I would think mobile could be faster than that. I would say again, and I want to be clear, it's not baked into our numbers for this year. We believe that we will be fully operational this year with mobile, and we think it's a business that could scale very, very quickly. There are a few other companies out there that are using mobile as their primary source of CRM that do a very good job on it.
+We think we've got a competitive advantage with our customer base, having it as a part of the solution, not the entire solution and the ability to synthesize everything to the Zeta ID and putting our artificial intelligence products at the top of the utilization. So Zoe will be able to activate into mobile the same way Zoe activates into CTV, online, video, social, or any other activation methodology that we operate in.
+Elizabeth Porter
+--
+Morgan Stanley -- Analyst
+Great. Thank you so much.
+Operator
+Next question, DJ Hynes with Canaccord Genuity. Please go ahead.
+DJ Hynes
+--
+Canaccord Genuity -- Analyst
+Hey, guys, congrats on the quarter. Excellent results. David, with Google's U-turn decision on deprecation of third party cookies, I'm wondering what you're hearing from clients in the field. And how, if at all you think that might impact spend decisions, how advertising dollars are allocated, and anything else that's top of mind there.
+David Steinberg
+--
+Co-Founder and Chief Executive Officer
+Yeah, I mean it was interesting. They've gone back and forth. I've been saying for quite some time as you know, DJ, because I've said it to you, I never believed Google would get rid of the cookie. I just believe they're going to make the opt-out process for consumers extremely easy and at the forefront of the process of loading Chrome so I do think we're going to see a dissipation of cookies over the next few years.
+I just don't think it's going to be an all or nothing. Marketers want return on investment, and a part of that is the ability to build true attribution models. I'm not even sure third-party cookies can do that effectively today, where if you look at it, almost all third-party cookies are what I call last touch attribution. So you might spend $100, I'm making this up, addressing a customer to get them to buy a $500 product.
+But it's going to look like the absolute last ad you ran to them that they clicked on and then purchased was 100% of the attribution of that $100. What we're really looking at is every touch point by utilizing the Zeta ID and being able to deliver a true return on investment versus a last click or last touch attribution. So I think most marketers are already understanding that and were seeing dollars flow to where they are the most efficient. As it relates to a return on investment.
+It's going to be very interesting to see how Google rolls out the consumer choice component of it. There are a lot of companies that have a lot invested in this. Zeta is not one of them. As I pointed out repeatedly, we do not use a third-party cookie for building our models, attribution, or addressing individuals.
+But at the same time, we do believe that the dissipation of the cookie is going to continue, and we believe that our ability to track without it will continue to be a major competitive advantage.
+DJ Hynes
+--
+Canaccord Genuity -- Analyst
+Yeah, yeah. It makes a ton of sense. And then Chris, a follow-up for you. So I have a question on sales capacity as it pertains to the agency business.
+So once you get an agency on board with Zeta, how active do your direct reps have to be in helping that agency onboard new customers? I mean, is it all led by the agency? Do your sellers get involved? Just trying to think about kind of capacity and how much time your reps have to spend with those ramping agency accounts.
+Chris Greiner
+--
+Chief Financial Officer
+It's an efficient go-to-market model the agencies are for us because you think about it in two different ways. We very much have a top down relationship building process, and then the bottoms up selling is happening by the reps. But the agency team is the only sales team in Zeta where we have our hunters and our farmers in the same pod. So what becomes very effective is as we land these new large agencies, and the hunter is very much involved in that process, the farmers then begin working with the sub agencies within that holdco, and it's really those farmers working with their partners inside the agency that then begin to work with more and more brands.
+And that's how we've gone from that average of 12 a year ago to up more than 50% to 19 today.
+DJ Hynes
+--
+Canaccord Genuity -- Analyst
+Yeah. Perfect. Makes sense. Thank you, guys.
+Operator
+Next question Arjun Bhatia with William Blair. Please go ahead.
+Arjun Bhatia
+--
+William Blair and Company -- Analyst
+All right. Thank you, and I'll add my congrats. Nice work guys on the acceleration here. One, maybe to continue on the agency theme.
+Certainly great to see a lot of the new brands coming in. But can you give us a sense of what are the steps that maybe Zeta needs to take? Or is it just a function of time to get these new brands coming in from agencies to move beyond the social channel and really start to scale some of your other channels that you have on the platform? Is that just something that you can do or is that just a function of you know, combination of the brand itself and where the agency might take them over time?
+David Steinberg
+--
+Co-Founder and Chief Executive Officer
+Well, let me start by saying thank you, Arjun. I appreciate it. I think it's a combination of the three, right? I think as Chris said, our farmers are actively embedded into the agencies and actively working with the brands. So we're able to onboard to remind everybody into the social ecosystem because we have such a good automation process there where others do not, which is very efficient for the agency holdco to operate inside of social, using the Zeta ID, and being able to automate the process.
+If you look at our largest, most scaled agency client, it took them about three years to really juxtapose and really go from primarily agency to primarily on platform. We believe we're going to see the same process with the other four agencies that we've onboarded and are growing with, and we expect that we will be able to ultimately move a substantially greater percentage of those brands onto on platform versus through the social platform. I think another important point though, Arjun, and I know you get this, but I'm saying it for everybody, is that the gross margin is lower, yes, but it is still accretive to our operating margin, so from a contribution perspective. And we feel like this is a very efficient methodology, although I don't want anybody to think that we're sort of primarily focused on agencies now.
+We work directly with brands and we work with agencies, and we will continue to do both of those things.
+Arjun Bhatia
+--
+William Blair and Company -- Analyst
+All right. Very helpful. And then kind of along similar lines, I was pleasantly surprised, I guess, to hear that the retain and grow use cases are growing above 25%, I believe the number was. What has changed there, if anything, to get that growth to pick up? Because if I remember, right, I think Acquire has been your kind of primary use case for some time, and so I'm curious if there's anything operationally that you've done from a sales perspective or a technology perspective to drive that growth.
+David Steinberg
+--
+Co-Founder and Chief Executive Officer
+Yeah. I hate to keep beating a dead drum, but it's artificial intelligence. What we're seeing is clients that are using us for the three different use cases that are adopting the AI are growing at an exponential pace. And I want to be clear just to reiterate, Arjun.
+We've always been pretty well balanced. We have been growing faster over the last couple of years as it relates to Acquire. It was good to see the adoption of the new GenAI products for clients who were looking at use case and looking at, I'm sorry, the different use cases, including retain, grow, and acquire. We're also seeing more clients, as Chris said, using more use cases and more channels.
+So it's been exciting. It's funny, I sort of joke. We started operating artificial intelligence seven years ago. When we went public three years ago, the sign on the side of the New York Stock Exchange said data plus AI equals intent.
+I had to explain to people what that meant at that time. It seems like there was a great awakening with the launch of ChatGPT that has really benefited us from a tailwind perspective as clients have begun to adopt it, and the market has begun to understand the power of our artificial intelligence and our data.
+Arjun Bhatia
+--
+William Blair and Company -- Analyst
+Understood. Very helpful. Thank you, David.
+Operator
+Next question, Jason Kreyer with Craig-Hallum. Please go ahead.
+Jason Kreyer
+--
+Analyst
+Great. Thank you. And congrats, guys. Just wondering if we can maybe define a little bit more clearly how AI really inflects the growth trajectory.
+I mean is this more related to filling RFP and pipeline activity? Is this generating more wallet share? Or are you just onboarding new customers at a faster rate?
+David Steinberg
+--
+Co-Founder and Chief Executive Officer
+Jason, I think it's all of the above. I think that you're seeing us winning an even greater percentage of RFPs and engagements we're invited to participate in. We're able to scale new customers faster with our land-and-expand strategy, and existing customers are growingfaster than ever.
+Jason Kreyer
+--
+Analyst
+And we've talked a bit about how AI has influenced use case, just curious if that's changing any customer behavior across the different channels you work with.
+Chris Greiner
+--
+Chief Financial Officer
+Oh, I wouldn't see it. I mean that the other balance. It was really good growth across CTV, email, display. It was really balanced across all three because again the AI is informing which channels are to be used in the right kind of omnichannel strategy.
+So it was pretty balanced growth across the channel set as well.
+Jason Kreyer
+--
+Analyst
+Great. Thank you.
+Operator
+Next question, Koji Ikeda with Bank of America. Please go ahead.
+Koji Ikeda
+--
+Analyst
+Hey, guys, thanks for taking the questions. I wanted to ask a question on the 2025 targets. Clearly great results here. Congratulations on that.
+And one thing I was looking for was maybe the potential for the 2025 targets to be updated this quarter. But I noticed in the press release or in the investor deck, they weren't. And it does sound like the commentary all sounds really strong. You did mention visibility is high.
+So why not update those targets today? Is there something that happens as the calendar turns into '25, where the visibility might get a little bit murkier than it is today?
+Chris Greiner
+--
+Chief Financial Officer
+Now, you're channeling your inner David. He's been asking for the same thing. So -- and I'm the one who's saying let's do it like we have the last three years, which is in February. We are super excited about the momentum that we have.
+And as I started the call, one of the several reasons that's contributed to the growth and the updated guidance that we've given is our visibility into the business is really high. That doesn't change in February. It's just we have a good pattern in process of putting out the next year's guide in February, and it wouldn't surprise me if as part of that process, we also update with the next long term model when we do that.
+David Steinberg
+--
+Co-Founder and Chief Executive Officer
+And I would definitely not read into the fact we have not given that yet, just so we're on the same page.
+Koji Ikeda
+--
+Analyst
+Got it. No, that's super helpful. And then also just wanted to follow up on a comment that you had in the prepared remarks about being opportunistic out there, and it has been a while since you've done an acquisition. So can you remind us your M&A framework? What does that look like today versus in the past? Is it similar or has it changed? And what sort of consideration would there be to go much bigger than that framework? Thank you.
+David Steinberg
+--
+Co-Founder and Chief Executive Officer
+Yeah. I always say, Koji, that I believe transformative M&A transforms both companies for the worse. So you won't see us doing anything too terribly big, quite frankly. But at the same time, you know, we now have almost 470 scaled clients.
+What other products that we don't have currently could we plug into the platform and really accelerate the growth of a smaller asset that we might buy? So you know we've always done what I've considered tuck-ins. I wouldn't change that strategy. A tuck-in might be slightly different at our current size than it was two or three years ago. But at the same time, I think it was important for Zeta as a public company to really show pure organic growth.
+And I wanted to make sure that as an organization, newly public and maybe a little early to the AI game where a lot of people didn't understand the power of it. Initially, we did focus on that. The guidance that we have given for this year is purely organic. So as we look at M&A, if something were opportunistic, meaning we could buy it at a substantially lower multiple than we trade at, integrate it into our tech stack completely within 9 to 12 months, and believe that it's a product that our existing clients would buy, those are the primary scenarios under which we would do something.
+We also love picking up great people and great data.
+Koji Ikeda
+--
+Analyst
+Got it. Thanks guys. Thanks for taking the questions.
+Operator
+Next question, Ryan MacWilliams with Barclays. Please go ahead.
+Ryan MacWilliams
+--
+Barclays -- Analyst
+Hey, Guy, thanks for the question. For David, happy to see that advocacy revenue has increased each month of the second quarter. Could these advocacy customers continue beyond the election? And any difference in election spend expectations here, given a new Democratic Presidential candidate? Thanks.
+David Steinberg
+--
+Co-Founder and Chief Executive Officer
+So the answer is most of our advocacy is always on, Ryan. We see a step-up going into the political period, and we did see a step-up. But I would not look at the growth rate for this quarter under the lens of it was advocacy. That was a part of it, but it was not a big part of it, quite frankly.
+And we -- as Chris said in the prepared remarks, we're keeping constant on what was a $15 million guidance for political. Obviously, we did $1.5 million in the second quarter. So that would infer $13.5 million in political in Q3 and Q4. That perhaps might be conservative, but we'll see.
+At this point, we're very, very pleased with the core operations of the business. And once again, I would not look at advocacy as a big driver of that 33% growth rate and that rise of guidance.
+Chris Greiner
+--
+Chief Financial Officer
+By the way, it was only like it was less than $10 million revenue total between political and advocacy, just to give you a sense for how small it was in the quarter.
+David Steinberg
+--
+Co-Founder and Chief Executive Officer
+And most of which for advocacy is always on. So I just don't want anybody to look at that and say, oh, that's why they grew. It's not.
+Ryan MacWilliams
+--
+Barclays -- Analyst
+Thanks for clearing that up. Yeah, I was just thinking more about what you guys could do with them next year. And then just for Chris, on the direct platform revenue growth, how are you thinking about that for the second half of this year? And any changes or differences on how you feel about the direct revenue pipeline at this point?
+Chris Greiner
+--
+Chief Financial Officer
+Direct pipeline, strong. I think the mix in terms of being at 67% in the second half, I think the odds are that it improves from first half to second half, and direct mix becomes more prominent. We liked where the growth rate was. The growth rate in year-over-year revenue for direct in the first quarter was 17%, grew to 20%.
+So feeling good about the mix of direct increasing as we go across the year.
+David Steinberg
+--
+Co-Founder and Chief Executive Officer
+And by the way, to your last point, Ryan. Advocacy, once you start working with them, it's a good pipeline through political, but they do tend to continue on after that. So they could be a component of next year as well.
+Ryan MacWilliams
+--
+Barclays -- Analyst
+Excellent, I appreciate that color. Thank you, guys.
+Operator
+Next question, Clark Wright with D.A. Davidson. Please go ahead.
+Clark Wright
+--
+D.A. Davidson -- Analyst
+Awesome. Thank you. Maybe just following up on that point about the agency business. Given that it is scaling faster than you expected, what do you think the impact is in terms of gross margins relative to current levels?
+Chris Greiner
+--
+Chief Financial Officer
+they take markets, Chris, when they start, they -- right now, what we're seeing is they're starting -- using our social channel capabilities, which gives them a big automation advantage. But what that then leads them to do over time is to go more and more with an omnichannel strategy using our owned and operated channels, so converting to our email to our display video, our connected TV. But what that does in the initial part of the contracting process where they're using social is it'll drive a lower gross margin profile. But as you've seen over the last, say, 12 months now where we've seen this hyper scaling with agencies, even though we've seen a lower gross margin because of higher social channel adoption, it has actually led to a higher adjusted EBITDA margin expansion.
+So those revenues come in at an accretive operating contribution margin.
+Clark Wright
+--
+D.A. Davidson -- Analyst
+Got it. And just in terms of going forward, you continued to effectively reiterate what you had said last quarter that it's continued to ramp from current levels.
+Chris Greiner
+--
+Chief Financial Officer
+Are you speaking specifically to the margin profile? Yeah, I think 60 continues to be the right level. We talked about 60 being the percentage of gross margin or call it 40 % cost of goods sold throughout the course of the year. It's been that way the first two quarters. The question mark in the back half of the year is political, and political margins can come in on the lower side.
+They can be pretty dynamic, frankly. So that would be the only thing that takes it plus or minus off of the 60 at this point.
+Clark Wright
+--
+D.A. Davidson -- Analyst
+Got it. Thank you. And then this last one for me. In terms of the sales efficiency, you called that out as a catalyst last quarter.
+Did that ramp further this quarter or was that relatively same quarterover quarter?
+David Steinberg
+--
+Co-Founder and Chief Executive Officer
+So I'm sorry. Repeat your question? I apologize. It broke up for a second.
+Clark Wright
+--
+D.A. Davidson -- Analyst
+I was going to say in terms of sales efficiency, you noted that that was a catalyst last quarter in terms of the results and the beat. Was that also a catalyst this quarter and relative to last quarter was about the same?
+David Steinberg
+--
+Co-Founder and Chief Executive Officer
+Yeah. I mean we continue to see sales productivity go up, but it had nothing to do with political if that was -- I thought I heard that the first time. Maybe I misheard.
+Clark Wright
+--
+D.A. Davidson -- Analyst
+Yeah. I guess, yeah, ex-political is where I was going for, but appreciate that.
+David Steinberg
+--
+Co-Founder and Chief Executive Officer
+Oh, yeah, yeah. Ex-political, yes. Thank you, Clark.
+Clark Wright
+--
+D.A. Davidson -- Analyst
+Got it. Yep. Thank you again. Great quarter.
+Operator
+Next question, Zach Cummins with B Riley Securities. Please go ahead.
+Zach Cummins
+--
+B. Riley Financial -- Analyst
+Yeah. Hi. Good afternoon, David, and Chris. Congrats on the quarter, and thanks for taking my questions.
+David, I mean, you were speaking to really an acceleration of this marketing platform replacement cycle. I was just curious on your commentary on the current competitive landscape, especially considering one of your key competitors is winding down some of their ad tech assets.
+David Steinberg
+--
+Co-Founder and Chief Executive Officer
+Yeah, we like that. We like when big companies wind down assets that in some way, shape, or form competed with us. Listen, we made the decision seven years ago to completely rearchitect our platform and put data and artificial intelligence as native to the application layer, which allows us to truly put intelligence into the heart of the platform, where our competitive landscape have to do a step-out of their platform to an AI algorithm, which then has to do a data dip into a third party database, go back to the algorithm, come up with the level of an answer, and go back to the marketing cloud. In our world, where a millisecond matters, we're able to create substantially better return on investment by making intelligence faster and real time.
+So we believe that our competitive advantage over the competitive landscape is getting bigger as we continue to invest and continue to focus on our AI and our data assets, as we'll continue to do that. And while they're trying to catch up to where we are, we're moving to the next generation. We are not standing still. We are incredibly excited about where we are as an organization and where we're going technologically, Zach.
+Zach Cummins
+--
+B. Riley Financial -- Analyst
+Understood. And my one follow up for Chris. It's really nice to see the increase in the free cash flow guidance as well. Can you comment on some of the comfort you're getting in the collection cycles with these agency customers and your confidence in being able to raise that free cash flow guidance?
+Chris Greiner
+--
+Chief Financial Officer
+Yeah, it was still a $5 million headwind from a working capital perspective this quarter driven by that cohort of customers. We're still learning their payment patterns. As David has said and I've said before, this isn't kind of an if scenario these are very, very, very solid corporations. They just have very different kind of payables and that they're trying to balance as well.
+So high degree of certainty. We're still working through the timing aspect of it. But I feel like even with our call that we've made on free cash flow, we've taken some of that variability into account.
+David Steinberg
+--
+Co-Founder and Chief Executive Officer
+It's also important to note, Zach, some of this just rolls over, right? Because even if they pay you slower, they pay you 100% of the time. So it does catch up at some point, and we're already starting to see that.
+Zach Cummins
+--
+B. Riley Financial -- Analyst
+Understood. Well, thanks for taking my questions, and best of luck with the rest of the quarter.
+Operator
+[Operator signoff]
+Duration: 0 minutes

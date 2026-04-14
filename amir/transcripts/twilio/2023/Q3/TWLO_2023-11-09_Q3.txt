@@ -1,0 +1,324 @@
+Operator
+Good afternoon and welcome to the Twilio third-quarter 2023 earnings conference call. All participants are now in listen-only mode. After the speakers' remarks, there will be a question-and-answer session. [Operator instructions] I would now like to turn the call over to Bryan Vaniman, SVP of investor relations.
+Please go ahead, sir.
+Bryan Vaniman
+--
+Senior Vice President of Investor Relations
+Good afternoon, everyone, and thank you for joining us for Twilio's third-quarter 2023 earnings conference call. Our prepared remarks, earnings press release, investor presentation, SEC filings, and a replay of today's call can be found on our IR website at investors.twilio.com. Joining me today are Jeff Lawson, co-founder and CEO; Khozema Shipchandler, president, Twilio Communications; and Aidan Viggiano, chief financial officer. As a reminder, we will discuss non-GAAP financial measures on this call.
+Definitions and reconciliations between our GAAP and non-GAAP results can be found in our earnings release and our prepared remarks posted on our IR website. We will also make forward-looking statements on this call, including statements about our future outlook and goals. Such statements are subject to known and unknown risks and uncertainties that could cause actual results to differ materially from those described. Many of those risks and uncertainties are described in our SEC filings, including our most recent Form 10-Q.
+Forward-looking statements represent our beliefs and assumptions only as of the date such statements are made. We disclaim any obligation to update any forward-looking statement except as required by law. And with that, I'll hand it over to Jeff and the team to discuss our Q3 results, and then we'll open the call for Q&A.
+Jeff Lawson
+--
+Co-Founder and Chief Executive Officer
+Thank you, Bryan. And thank you, everyone, for joining us today. Twilio delivered a strong third quarter, exceeding our revenue and non-GAAP profitability targets and generating another record quarter of non-GAAP income from operations and free cash flow. All told, we delivered $1.034 billion of revenue, $136 million of non-GAAP income from operations, and $195 million of free cash flow.
+On the back of our strong year-to-date results, we're raising our full-year non-GAAP income from operations guidance to $475 million to $485 million. As you can see, the efficiency gains are rapidly showing in our quarterly results, reflecting the fundamental strength of our communications business which represented 88% of our revenue in Q3. In fact, our communications business was recently recognized by Gartner as a leader in their first-ever Magic Quadrant for CPaaS1, a terrific recognition, indicative of our attractive market position and the strength of our platform. We continue to focus on opportunities with our communications go-to-market motion to win new customers, improve our self-service capabilities, and drive more cross-sell opportunities across our customer base. We're also forming meaningful partnerships to help us win further market share, including a significant expansion of our Softbank partnership. We expect these efforts will drive durable, efficient growth in our communications business moving forward.
+But the real story is how, over time, we believe we can continue to grow the top line of our communications business while controlling costs. With our more streamlined cost structure and continued innovation, we're proving every day that this business can be a powerful driver of profit and cash flow for Twilio. As our communications business continues to successfully execute in an environment where usage volumes are stabilizing, we're also focused on driving improvements in our data and applications business. We've been rebuilding our go-to-market function and have seen some initial green shoots, including a modest uptick in bookings in the third quarter. We also continue to receive external validation for the strength of our products, as Segment was once again named as the CDP market share leader as of June 20232, and was also named a leader in the IDC CDP MarketScape for Financial Services.
+While these early signals are encouraging, there is still more work to be done. Before I get further into the details of the quarter, I'd like to share that Elena Donio will be transitioning out of her role as President of Twilio Data and Applications and into an advisory role. Elena and I have partnered closely to decide on the best path forward to reaccelerate the business, especially in light of the AI opportunity ahead. With Elena as an advisor, I will run TD&A in the interim period until we recruit a seasoned leader to lead this part of our business. Thank you to Elena for joining the Twilio team at a critical time for our company and leading us through a difficult but necessary transition. I respect your partnership as a board member, executive, and as an advisor. As I mentioned, the TD&A business saw a modest improvement in bookings this quarter, however, those are not yet where we want them to be. While this is a very small portion of our business today, only 12% of our revenue in Q3, we believe TD&A overall, and the foundations of AI in particular, are key assets for our future.
+We are committed to success in this business as we work to reaccelerate growth, drive further progress with our go-to-market scaling efforts, and undertake investments to take advantage of the significant AI opportunity. We saw a number of exciting customer wins across both Flex and Segment in the quarter that are encouraging, and which I will detail later. And spending time with our customers at SIGNAL events in both San Francisco and London continues to reinforce for me the market demand for and unmatched capabilities of our software solutions. Speaking of SIGNAL, in August, we revealed CustomerAI, a set of predictive and generative capabilities that pairs customer data with large language models to give companies AI that truly knows their customers. When I talk to our customers, they all know that AI will fundamentally rewire the core of their companies; their workforce needs will change; the skills required to deliver their vision will change; and importantly, their need for data to power their AI initiatives will grow.
+This is the initial set of opportunities we are working with customers, using Segment to get their customer data AI-ready and then activating on that data with Twilio Communications. This communications and data flywheel will empower brands to enter the AI race steps ahead of their competitors, armed with AI-ready data, the platform will allow them to interact with customers informed by that knowledge, and enable them to glean more insights from each message, call, and email interaction. We believe this will improve their customer data sets and, in doing so, help them deliver more effective, personalized customer communications. Our teams have made immense progress over the course of 2023. In just nine months, we have delivered $360 million in non-GAAP income from operations, and we've begun to generate meaningful levels of free cash flow.
+We are solidifying a strong foundation that positions us well to drive durable growth, deliver strong profitability, and realize the benefits of our CustomerAI strategy over the long term. I'm excited to work more closely with our data and applications team to deliver a value proposition around CustomerAI that is truly differentiated to Twilio. And with that, I'll turn it over to Khozema to talk about our communications business.
+Khozema Shipchandler
+--
+President, Twilio Communications
+Thanks, Jeff. Twilio Communications delivered $907 million in revenue in Q3, up 5% year over year on a reported basis and 8% on an organic basis, with a non-GAAP gross margin of 49.8%. As a team, we continue to focus on driving efficient growth, landing new logos, cross-selling across our communications portfolio, and generating meaningful non-GAAP profits, and we're executing well against all of these objectives. We're continuing to push the bounds of innovation, highlighted by our recent new product announcements focused on CustomerAI, including Voice Intelligence, Traffic Optimization Engine, Branded Calling, Sendgrid Engagement Quality, and Fraud Guard, which are already creating new opportunities for our communications customers and prospects. For example, our customers can assign preferences for high-priority messages, such as one-time-passcodes, to be delivered leveraging the most timely route, whereas a marketing communication can be delivered via the most cost-effective route. We continued to demonstrate solid traction in our ability to drive growth with a more efficient cost structure.
+Our go-to-market model has been streamlined, and we've had success in expanding our ISV and global technology partnerships. As a result, we are seeing momentum with landing large new logos across our communications product portfolio and through focused cross-selling efforts. In fact, roughly half of our expansion deals in North America were in non-messaging use cases. A couple of cross-sell wins to highlight from Q3 include a long-standing communications customer in the financial services industry, who adopted Verify to replace their legacy solution for identity and security. Additionally, a leading Latin American e-commerce platform added Twilio Interactive Voice Response while also expanding their voice business with us.
+We saw encouraging results in our voice business overall in the quarter. We also landed several new logos in Q3, beginning with one of the largest European airlines, who chose Twilio Programmable Messaging based on our reliability and superior compliance standards to streamline their customer feedback workflows. Similarly, a global hotel brand chose Twilio's account security capabilities to serve their millions of app users, again citing our ability to navigate global regulatory and compliance while delivering a seamless customer experience. And finally, a leading AI company adopted Verify Pro, which allows customers to consume Verify as a subscription with upfront payments. We're continuing to broaden our go-to-market footprint, leveraging our market leadership position to drive wins with ISVs and global technology leaders. In Q3, we signed a landmark agreement with Softbank.
+Softbank will offer Twilio services through its sales channels in Japan, which have a strong domestic customer base to draw upon. Softbank will also provide 24/7 support for Japanese customers. This is an exciting expansion of our partnership with Softbank, and we will continue to pursue strategic partnerships to efficiently capture additional market share. We're also focused on improving our self-service motion and automation efforts so customers can more easily purchase, build, and grow with us. In the near term, we are expecting to bring more purchasing, billing, and contract management capabilities into the Twilio console where customers can seamlessly adopt new products and expand usage.
+In addition, our teams will continue to automate compliance requirements and phone number provisioning that allow new customers to onboard much more quickly. As a reminder, we previously made a commitment to our carrier partners to only permit registered U.S.-bound 10DLC SMS and MMS traffic effective August 31, 2023. I am very pleased with our success in executing against our 10DLC registration deadline and exceeding our initial goals. Thus far, we've been able to register virtually all of this traffic, which has enabled us to mitigate much of the revenue risk we had anticipated for the second half of the year. We now expect the revenue impact in Q4 to be minimal in light of the amount of registered traffic going into the quarter.
+This is an improvement from the potential headwind of up to 300 basis points that we'd previously referenced. Similar to our efforts in registering U.S.-bound 10DLC SMS and MMS traffic, we will also be requiring our customers to register U.S.-bound traffic from toll-free phone numbers as of today, November 8th. We expect the revenue impact in Q4 and beyond to be immaterial. Our Q3 dollar-based net expansion rate for communications was 101%, and 104% excluding crypto customers. Similar to last quarter, new customers are driving a greater portion of the overall growth, while crypto and social and messaging headwinds mask the success we are seeing with our cross-sell and expansion opportunities. Churn continues to remain relatively stable, and we are seeing year-over-year volume growth across many industries. I'm proud of the execution that our team demonstrated in the third quarter.
+Leading the charge on compliance and enacting our 10DLC registration deadline was no small feat. We continue to focus on streamlining our go-to-market, including improving our self-service motion, and capitalizing on cross-sell opportunities across communications. We are seeing encouraging results, and there is still further opportunity to improve, so I'm confident we will be able to make sustained progress over the coming quarters. And with that, I'll turn it back to Jeff to talk about the TD&A business.
+Jeff Lawson
+--
+Co-Founder and Chief Executive Officer
+Thanks, Khozema. Turning to TD&A's results. Our primary focus continues to be reaccelerating growth. In Q3, this business unit delivered $127 million in revenue, up 9% year over year, with a non-GAAP gross margin of 79.8%.
+The evolution of our TD&A business is ongoing, and while we've seen some initial encouraging signals from our go-to-market rebuild efforts, we need to translate early proof points into further bookings reacceleration. This business deserves to grow faster and has all the ingredients to do so. I believe that reconstituting our old go-to-market playbook was necessary but not enough. We have to continue to evolve it as well given a rapidly changing market. Now that we have the selling team in place, I'll be working with our go-to-market leadership to accelerate further changes to our playbooks, taking into account recent learnings.
+At this stage, we continue to see increased churn and contraction in TD&A, reflecting the current dynamic environment and issues some of our customers are experiencing with growth in their own businesses. Despite this market dynamic, we're still continuing to land exciting new customer deals across both Flex and Segment. We saw several Flex customer wins this quarter including a competitive seven-figure deal with a leading insurance company, which was looking to migrate, not only agents off their legacy on-premise solution but also their IVR and messaging and chat, ultimately consolidating all contact center flows onto Twilio. We also signed a cross-sell deal with Sweetwater, a musical instruments retailer. A longtime Twilio customer of voice, messaging, and email, Sweetwater is now actively bringing all their agents onto the Flex platform from their previous on-premise vendor. Sweetwater is a great example of a company who came to Twilio as a communications customer looking to deliver a bespoke experience to their customers and has since gone all in on the Twilio platform because of the customizability of the experience they are able to deliver across our solutions. Turning to Segment.
+At SIGNAL London last week, we announced that we have processed more than 12 trillion data events in the last 12 months and resolved those data points into over 100 billion customer profiles on behalf of brands, and we can do all of that in milliseconds. This is the basis of our market share leadership recognition and underscores the need for a real-time CDP in the market, which Segment delivers. In Q3, the Segment team signed a deal with a leading fintech company and long-standing communications customer who is driving a product-led growth initiative. Their first use case is leveraging Segment to process real-time transactional data across all of their data systems in order to identify cross-sell opportunities, all in real time. We also established a new relationship with a software company in the construction space.
+As the company has been very acquisitive historically, they needed to consolidate data from multiple, disparate systems to build a 360-degree view of the customer to inform their marketing journeys. We also inked a deal with a leading global toy company that will be using Segment's reverse ETL capabilities with Databricks to offer their millions of customers real-time personalization across their most popular apps and games. What's most exciting is that Segment will give hundreds of employees access to advanced customer data models and insights to help improve the customer experience for a globally recognized brand. This exciting deal was won with a great GSI partner as well. We think this is a repeatable partner model and look forward to continuing to invest in our partner ecosystem around Segment. Segment's capabilities are foundational to CustomerAI. We've already announced the general availability of our first TD&A CustomerAI product, Predictions, which allows customers to create hyper-targeted audiences based on predictive traits like lifetime value, likelihood to churn, or the propensity to take an action such as making a purchase, subscribing, etc.
+We have more than 100 customers using Predictions already, and they're quickly seeing results. One company has seen their cost of customer acquisition fall by 85% with more targeted advertising based on propensity to convert predictions. Another company saw a 2x improvement across all funnel metrics for their email campaigns, including opens, click-throughs, etc., based on product recommendation predictions. Our early customers show that engagement is multiplying and costs are rapidly declining, and that's just the first of several CustomerAI capabilities that we're working on bringing to market.
+Our short-term goal is to help customers see how the coming AI use cases require better customer data, something that Segment can provide today. Our long-term goal is to provide unprecedented automation, cost savings, and better customer relationships, thanks to AI. So, we are seeing significant customer wins within TD&A, and our investments in AI products are generating significant customer interest. We have more work to do, and I intend to get closer to our field teams, our product teams, and most importantly, our customers, to build on our foundation and deliver on the incredible potential of this business. I'll now turn it over to Aidan to walk through the financials in more detail.
+Aidan Viggiano
+--
+Chief Financial Officer
+Thank you, Jeff. We continue to build a strong financial foundation for Twilio. We exceeded our Q3 revenue guidance and delivered another record quarter of non-GAAP income from operations and free cash flow. We came into the year targeting $250 million to $350 million of non-GAAP income from operations and have exceeded that goal in three quarters, delivering $360 million year to date.
+Our results demonstrate our ability and commitment to drive meaningful levels of profitability in our business over time. Third-quarter revenue was $1,034,000,000, up 5% and 8% year-over-year on a reported and organic basis, respectively. As a reminder, this compares to second-quarter revenue of $1,013,000,000 after adjusting for the $25 million of revenue from our divested ValueFirst and IoT businesses. Communications revenue was $907 million, up 5% year over year on a reported basis and 8% on an organic basis. Data and applications revenue was $127 million, up 9% year over year. We continued to see stabilization in volumes across our usage-based products throughout the quarter.
+We also executed well against our 10DLC registration goals, mitigating revenue risk. Both of these factors helped drive our revenue beat in Q3. As we referenced during our Q2 earnings call, our Q3 revenue growth rate was negatively impacted by headwinds from customers in the crypto industry. Total Q3 organic revenue growth excluding crypto customers was 11% year over year. While the impact has started to moderate, we still expect about 200 basis points of crypto-related revenue headwinds in Q4, down from 370 basis points in Q2 and 290 basis points in Q3. Our Q3 dollar-based net expansion rate was 101%.
+As Khozema mentioned, dollar-based net expansion for communications was 101%, or 104% excluding crypto customers. Dollar-based net expansion for data and applications was 96%, driven primarily by instances of higher contraction and churn among Segment customers. We continue to see some customers experiencing growth slowdowns and facing cost-cutting initiatives in their own businesses given the current macro environment. We delivered non-GAAP gross profit in Q3 of $553 million, growing 11% year over year and representing a non-GAAP gross margin of 53.5%. That was up 270 basis points year over year and up 120 basis points quarter over quarter, driven by messaging termination mix and product mix within communications.
+Gross margins also benefited from our recent divestitures. Non-GAAP gross margins for our communications and data and applications segments were 49.8% and 79.8%, respectively. Q3 non-GAAP income from operations came in meaningfully ahead of expectations at $136 million, representing a non-GAAP operating margin of 13.2%. This was due to our revenue beat and our continued focus on driving more efficiencies across the business. Q3 GAAP loss from operations was $109 million, which includes $7 million of expenses associated with restructuring and real estate impairment charges.
+Stock-based compensation as a percentage of revenue was 17.9% in Q3 excluding approximately half a million of restructuring costs, up 320 basis points quarter over quarter but down 180 basis points year over year. The sequential increase was primarily driven by the timing of employee refresh grants, which occurred later than in prior years. We expect stock-based compensation as a percentage of revenue to decline modestly in Q4. In Q3, we generated free cash flow of $195 million, driven in part by heightened collections. While we do not expect this level to recur each quarter, free cash flow remains a focus for us as we drive greater profitability in the business.
+Lastly, we continued to execute against our $1 billion share repurchase program that we announced in February and have now completed approximately $620 million of repurchases to date. Moving on to guidance. For Q4, we're initiating a revenue target of $1.030 billion to $1.040 billion, representing year-over-year growth of 1% to 2% on a reported basis and 4% to 5% on an organic basis, which accounts for our recent ValueFirst and IoT divestitures. We expect Q4 non-GAAP income from operations of $115 million to $125 million, and we are raising our full-year non-GAAP income from operations guidance to $475 million to $485 million. I'm pleased with the progress we've made on our profitability targets to date. The teams are executing well, which provides a good setup as we look to deliver a strong finish to the year and enter 2024 with momentum.
+And with that, let's open it up for questions.
+Questions & Answers:
+Operator
+Thank you. [Operator instructions] Your first question comes from Taylor McGinnis with UBS. Please go ahead.
+Jeff Hickey
+--
+UBS -- Analyst
+Hey, everyone, this is Jeff Hickey on for Taylor. Thank you so much for taking the question. Congrats on the quarter. On the data and apps business, you know, with the net retention falling to 96% from 99%, it seems like things continue to soften a bit there.
+What are you seeing in terms of trends when we could maybe hit a bottom? And, you know, is gross churn something that could be impacting the gross margins of that segment currently? Thanks.
+Jeff Lawson
+--
+Co-Founder and Chief Executive Officer
+Thanks, Jeff. I'll take the first part of the question. And maybe if there's a gross margin aspect of the question, then I'll let Aidan take it. You know, as we noted, we've been working through some of the churn and contraction headwinds and particularly as customers are realizing lower growth in their own businesses.
+You know, they're focused on cost-cutting efforts as you'd expect. And this results in reduced deal sizes at renewal and, in some cases, outright churn. You know, several initiatives we have in place to try to mitigate the churn and contraction, we're making a concerted push with our post-sales teams to drive faster and easier implementations of customers as well as mandating professional services, in certain instances, to make sure customers implement successfully. We're also ensuring our sales incentives are aligned to not just driving new bookings but also mitigating churn and contraction as well. And ultimately, we need to drive bookings improvements and continue to deliver the value of our products to those customers in order to improve TD&A. And, you know, I think we did see modest improvements in bookings in Q3 relative to Q2, and we have an ambitious product roadmap for TD&A around CustomerAI as well, which is driving a lot of early interest in meetings given we announced it just over a month ago. But most importantly, we're not seeing an increase in competitive churn.
+And I think that's the most important part of what we are seeing in the churn and contractions. Aidan, is there anything you would add about gross margin?
+Aidan Viggiano
+--
+Chief Financial Officer
+Yeah, sure. So, I don't think -- the churn is not what's impacting gross margins in data and applications. So, they are down year over year and they're down quarter over quarter. So, a couple of dynamics just to understand there.
+So, first, as we mentioned last quarter, we continue to invest in innovation in this business. And that's driven an increase in capitalized software expenses, which is flowing through our P&L. And obviously, these innovations are focused around things like CustomerAI and our next -- next-gen products and features. We're also seeing and expect to continue to see higher infrastructure and hosting costs in data and applications. You know, we're continuing to invest in AI capabilities across the portfolio, as I said. And to ensure efficient scaling of these products, we're migrating certain back-end functionality and infrastructure-type functionality to new vendors in 2024, and that'll optimize our spend over -- over the longer term. So, there will be a period of time where we have overlapping or double expenses, and you'll see that in the margin rates.
+On the back end, obviously, we expect to reap the benefits of these investments.
+Operator
+Our next question comes from Meta Marshall with Morgan Stanley. Please go ahead.
+Meta Marshall
+--
+Morgan Stanley -- Analyst
+Great. Thanks. Maybe sticking with the data and applications business, you know, Jeff, just what do you see as the keys to the reacceleration of this business maybe outside of overall macro? You know, is it still room to go on go to market or product advancements? And just kind of what are you looking for as you look for new leadership for this business? Thanks.
+Jeff Lawson
+--
+Co-Founder and Chief Executive Officer
+Yeah, thanks, Meta. You know, there's two things that really speak to the growth trajectory of TD&A: number one is arresting churn and contraction; and number two, new bookings, right? So, that's what we've been focused on all year. We just talked a bit about churn and contraction in terms of what other things we can do to make sure customers are successful; make sure customers, you know, when it comes time for renewal, are most likely to renew, and those are the things that aren't controlled -- customers are about business. You know, not a lot you can do or something like that.
+But that's really not the majority of it, really a lot of this is in our control. The second thing, of course, is new bookings. And so, we are very focused, as you know, on the reconstitution of the sales team, which is something we've spent the greater part of the last year doing. So, hiring up the sales reps, enabling them, training them, building pipeline etc. And like I said, we've been seeing bookings growth throughout the year. We'd love to see it continue to grow and grow even more aggressively than it has, but we are seeing the bookings growth happen.
+And, you know, meaningful logos, expansions, cross sales, I mean we talked about all those things on the call today. So, those are all the positive signals that we're looking for, especially as we go into the fourth quarter. And, you know, it's also worth noting that we see win rates and enterprise ASPs remaining healthy and stable.
+Meta Marshall
+--
+Morgan Stanley -- Analyst
+And just leadership, kind of what -- what you are looking for, is that somebody with more sales or product focused just...
+Jeff Lawson
+--
+Co-Founder and Chief Executive Officer
+That's a -- that's a great question. We're looking for a leader to, you know, I think with a good go-to-market background but also, you know, obviously, some degree of technology given that AI is becoming increasingly important, especially for the Segment business, the contact center business, as well as, you know, obviously, our big CustomerAI initiative. So, we're looking for someone who, primarily, I would say, has go to market, you know, really good product market fit understandings, both with the current products we have as well as we bring new products to market in the form of CustomerAI.
+Meta Marshall
+--
+Morgan Stanley -- Analyst
+Great. Thanks.
+Operator
+Next question comes from Mark Murphy with J.P. Morgan. Please go ahead.
+Mark Murphy
+--
+J.P. Morgan -- Analyst
+Thank you very much. Jeff, thinking back to the SIGNAL conference, you spoke with Sam Altman, and he brought up this idea that the cost of intelligence could fall by a factor of a million. And so, I'm wondering if -- if -- even if it moves in that direction, if Twilio ends up being the mechanism that allows bots to -- to understand who they're talking to and who the customer is, how much do you think that could amplify Twilio's value to the typical customer as all of these generative AI projects gather steam? I mean I'm just wondering, you know, if you could see cases where -- where customers -- the customers' spend on Twilio would would really kind of ratchet up pretty materially.
+Jeff Lawson
+--
+Co-Founder and Chief Executive Officer
+Well, thanks, Mark. Obviously, it's very early in this game, so it's hard to tell exactly how things are going to play out. We set out our vision for CustomerAI for what we think is going to happen. And I kind of said that not only is this going to become possible, I think it'll become inevitable.
+And the key to a lot, if not all, of those things I talked about, is companies having a really good handle on all the data about their customers, right? So, if you've got your data spread across all the different systems and sitting in all these different places and you're not aligned, it's very dirty, it's really hard to actually put AI to use, solving some of the really big things that I think AI I will be able to solve for companies. And so, the first order of business here is getting customer data in order so that as these AI use cases come to maturity, they have the raw information that they need to understand who they're talking to and how you can start going about optimizing these customer interactions, customer relationships, and overall like the business, and the -- you know, the front office of every company. And so, that's how we're thinking about it today. Now, the other thing I think that's super interesting in the world of generative AI in particular, I think that SaaS businesses that license per seat have the opportunity to be very much disrupted in this -- in this coming world because I think companies will need fewer seats. I think that the things that AI is going to need to latch on to is essentially data sitting in systems, and that data is going to be really used in a usage-type model. And so, I think our business is, generally speaking, well set up for a world where, you know, companies may need fewer seats.
+You know, they may contract the number of seats they're using, they may not grow with the same number of seats, but the data, the back-end systems, the processes, the workflows that are triggered by AI, that's what really matters in this coming world. And so, I'm very happy that Twilio is not in a position to largely be monetizing our service on a per-seat basis, but rather we have a usage-based model based on, you know, our communications business and even the data business as well.
+Mark Murphy
+--
+J.P. Morgan -- Analyst
+Yeah, thank you, Jeff, very insightful, and I think that's a super important point. Really appreciate it.
+Jeff Lawson
+--
+Co-Founder and Chief Executive Officer
+Thank you, Mark.
+Operator
+Our next question comes from Nick Altmann with Scotiabank. Please go ahead.
+Nick Altmann
+--
+Scotiabank -- Analyst
+Awesome. Thanks, guys. First, can you just talk about the communications usage trends you guys have sort of seen in October and November? And then, just given there's some seasonality in Q4 for messaging, can you maybe just speak to, you know, how much the guidance is sort of one-time in nature or more due to sort of seasonal factors versus sort of underlying stabilization? You know, I just think people are trying to understand the extent on what you're seeing stabilization on the communications side, but the seasonal trends in Q4 blur that a bit. So, any way you can kind of parse out those two would be helpful.
+Thanks.
+Aidan Viggiano
+--
+Chief Financial Officer
+Yeah, so I'll start, this is Aidan, and talk a little bit about the guide and then I'll hand it over to Khozema to add any comments. So -- so, we're guiding to a billion -- 1.03 billion to 1.04 billion of revenue in the quarter, which is roughly flat compared to the third quarter. And so, what I'd say is, overall, we're really encouraged by the performance and the volume stabilization that we saw in both the second quarter and the third quarter in communications. And we're optimistic that volumes will remain stable, but we know that the environment remains uncertain, you know, with some customers really seeing variability in their revenue lines and with many cutting costs. And therefore, we're continuing to plan prudently, particularly given the usage-based nature of that business, which is nearly 90% of our revenue. With that, I'll hand it to Khozema.
+Khozema Shipchandler
+--
+President, Twilio Communications
+Yeah, I wouldn't really add anything additional to what Aidan said. I think we obviously can't comment on October and November, those being in quarter periods, but we are encouraged by what transpired in Q3. And I would just echo what Aidan said that volumes remain stable, and we're kind of cautiously optimistic heading into Q4 and certainly into 2024.
+Operator
+Our next question comes from Kash Rangan with Goldman Sachs. Please go ahead.
+Kash Rangan
+--
+Goldman Sachs -- Analyst
+Hi, thank you very much for taking my question. Jeff, I'm curious to get your thoughts on the interplay of AI and data. It looks like there's some logical conclusion that if you're a system of record, a full-blown CRM system, then it has all the data and the AI will be able to work with the data to create actionable campaigns and there's a closed feedback loop. I'm curious how you think about Twilio's assets sans that system of record, which -- which you don't have, but how are you planning to add value to that? What seems to be the closed loop where you have a system of record data AI and the whole AI loop can function within that application ecosystem, whereas you bring a slightly different perspective? I'm just curious to get your thoughts on how you take advantage of your assets in the world -- the way we lay it out.
+Thank you so much.
+Jeff Lawson
+--
+Co-Founder and Chief Executive Officer
+Yeah, thanks, Kash. You know, there's a reason why we bought a segment when we did, which is I think that you -- you've been looking at companies trying to solve this problem of having a single view of their customer for, you know, give or take 20 years. And CRM has been the thing that oftentimes customers have turned to and said, oh, like, this will be the answer. This will be how we're going to have that system of record, the single view of our customer. And if that were working, then I don't think companies would also be turning to data warehouses to try to solve this problem as well.
+So, I think there's ample proof, when you talk to customers, that CRM is not solving this problem. It is actually a bunch of systems of record. And by the way, none of that speaks to all the event data, the streaming data of clicks and scrolls and page views and mobile app opens, all that kind of stuff that is going on in the world of, you know, especially consumer scale data and consumer scale companies. And so, CRM is a part of the story, so is the clickstream data, so is all the data that's in other systems and records, so is the customer service data, so is the -- and the list goes on. And that's why this is such a hard problem to solve and that's why, you know, 20 years into the world of CRM, at least in the cloud, it's an unsolved problem still. And Segment is a solution that solves that problem. And so, that's really where we're starting.
+We're not trying to create another system of record. We are trying to bring to market the solution to the problem of companies already have too many systems of record. And in fact, they need to make sense of it all. And that's what customers are coming to Twilio for.
+Kash Rangan
+--
+Goldman Sachs -- Analyst
+Super. Thank you so much, Jeff.
+Operator
+Our next question comes from Michael Turrin with Wells Fargo Securities. Please go ahead.
+Michael Turrin
+--
+Wells Fargo Securities -- Analyst
+Hey, great, thanks. Appreciate you taking the question. Aidan, on margin, that operating income target continues to move up fairly significantly, but we're also seeing some of the growth rates and core metrics in the data and app segment in particular shows some decay. So, just wondering if you're reaching a point where you need to dial back the margin expansion and just drive some investment into reinforcing the foundation.
+Appreciate there's some just general transition happening there. Maybe just help level-set how we should think about margin trajectory from here given the significant improvements you're showing? Thanks.
+Aidan Viggiano
+--
+Chief Financial Officer
+Yeah, so we got into this year, in terms of profit, we haven't given a guide for 2024. This year has obviously played out better than what we laid out coming into the year. So, we're really pleased with the profit performance to date. When you think about that profit and you think about the relative -- the two different business units, you know, the communications business today generates 88% of our revenue, 82% of our non-GAAP gross profit. So, that business is really the profit generator for the company.
+And then, on the data and applications side, we're investing. So, I would say that for the foreseeable future, you could assume that the efficiencies that we're generating on the communications side of the house are really what's enabling the investment in data and applications. So, I think that we have opportunity going forward to continue to see leverage. I would -- I would expect both of those -- or that leverage to come from two areas, largely the communications business as we move to self-serve as we shift to lower-cost regions and we leverage automation, as well as the G&A functions where automation and shift to lower-cost regions are also areas that we're pursuing. But we're not going to give a specific outlook in terms of a range right now.
+Michael Turrin
+--
+Wells Fargo Securities -- Analyst
+Understood. Thanks very much. Appreciate the color.
+Operator
+Our next question comes from Alex Zukin with Wolfe Research. Please go ahead.
+Alex Zukin
+--
+Wolfe Research -- Analyst
+Hey, guys, thanks for taking the question. I guess maybe just the kind of 1A, 1B for me would be, if you think about the applications business, when we're talking about reacceleration, I guess maybe I just want to better understand, when do we expect the net retention rate to trough? And then, if I calculate just the change in deferred revenue plus the applications revenue, I think I get to about a 5% billings growth number for that business. Is that the right way to think about the kind of the range of the future growth rate, kind of ex meaningful improvement? And then, maybe for Jeff, you guys have made such great progress on the operating efficiency side. But if we think about the reconstituting -- or I would say reactivating some of the sales motion on the app side, do you need -- is that where you actually need to put in now greater investment on -- on the sales and marketing side and versus kind of where we've been seeing some of the savings?
+Aidan Viggiano
+--
+Chief Financial Officer
+Why don't I start, and then I'll hand it over to Jeff? So, there was a lot in there. So, starting with the data and applications kind of the DB&E and where there's a trough, we don't guide to that metric, and I'm not going to give an outlook there. But maybe just some thoughts on the data and applications growth rates. So, we grew 9% in the quarter, that was compared to 12% last quarter. So, it did slow down a bit quarter over quarter.
+And we would expect -- just based on prior-period bookings, we would expect more muted sequential revenue growth in the data and application business in the fourth quarter, though we continue to expect sequential bookings improvement into Q4. And that's really where we're focused, higher bookings and reducing churn and contraction. As Jeff said, that will result in the higher revenue growth in the future. So, that's the focus. We saw a number of solid wins in the quarter, and we're really working to build on the uptick in bookings we saw in the third quarter.
+The second question was with regards to deferred revenue, so deferred revenue trends, so I wouldn't take this -- the change in the deferred revenue balance as -- I wouldn't over-index to it. I guess it was driven by data and applications in the quarter. You know, there's always timing and lumpiness of payments and things like that, but the trend -- it was driven by data and applications, but I wouldn't over-index to that number. So, let me hand it over to Jeff to take the next part of the question.
+Jeff Lawson
+--
+Co-Founder and Chief Executive Officer
+Thank you, Alex. The question was essentially do we need to invest more in the sales effort for T&A? And the short answer is no, I don't believe we do. We have hired a good number of reps. We have enabled them, and we are starting to see that productivity, and obviously, we want that whole thing to be happening faster. But in general, I don't think that spending more money on that effort is -- is the answer.
+It's not a matter of us underinvesting. I think it's a matter of productivity, and I think it's a matter of continuing to evolve our presence in the market. And there's a number of things that we're doing in order to make that team, you know, continually growing in their productivity to hit the numbers that we want to hit. So, I don't think it's a matter of us having to invest more. I think we got enough waffles on the plate, and we just have to -- have to share it.
+Alex Zukin
+--
+Wolfe Research -- Analyst
+Excellent. Thank you.
+Operator
+Our next question comes from James Fish with Piper Sandler. Please go ahead.
+James Fish
+--
+Piper Sandler -- Analyst
+Hey, guys, thanks for the question. Building actually off of Michael's prior question around margin, actually wanting to extend the cash flow side, you actually talk about stronger collections. Can you just walk us through the linearity of what you actually saw this quarter overall? If we should expect more of these upfront deals to happen in the coming year, so to help drive these better collections overall? Additionally, is there any way to think about long-term free cash flow conversion relative to net income here over the next couple of years? Thanks.
+Aidan Viggiano
+--
+Chief Financial Officer
+Thank you. Yeah, so let me just touch on free cash flow. So, this is a record quarter for us, 195 million of free cash flow in the third quarter; second quarter of solid free cash flow generation. So, a couple of things to consider there.
+Obviously, as we become more and more profitable, our free cash flow metrics should generally correlate with non-GAAP profit. We're not going to give a guide right now on what the free cash flow margin should be, but as profitability improves, free cash flow will improve. Now, what tends to happen on free cash flow is there is some variability quarter to quarter with working capital. And this quarter, we ended up with higher collections -- or heightened collections relative to prior periods. We had about a three-day -- three-day improvement in DSO. We just don't expect that to happen every period.
+What I will say is even excluding that unusual heightened collections, our free cash flow was better in the quarter than the second quarter. So, we did see improvement quarter over quarter. But you'll always have some of that lumpiness, whether it's collections or there's a prepayment in the quarter, going the other way. And so, it's never perfect, it's never linear, but like, over time, we should see free cash flow improve as we see profitability improve.
+James Fish
+--
+Piper Sandler -- Analyst
+Right, but can you talk about any linearity within the quarter itself, what you guys kind of saw earlier on versus kind of exiting here?
+Aidan Viggiano
+--
+Chief Financial Officer
+No, we're not going to break it down within the quarter.
+Operator
+Our next question comes from Derrick Wood with TD Cowen. Please go ahead.
+Derrick Wood
+--
+TD Cowen -- Analyst
+Thanks. I wanted to touch on the -- on the continued pressure and net new customers at, I think, about 2,000 in the quarter. And I guess, how are you guys balancing investments and new customers versus cross-selling the base? And how are you feeling about the effectiveness of the PLG motion and driving new customers on the -- on the comms side?
+Aidan Viggiano
+--
+Chief Financial Officer
+I'll just touch on the metrics quickly, and then I'll let Khozema and Jeff talk more about the businesses. One thing to note is that, you're right, the communications customer -- customer count, first of all, was up 10% year over year, up 1% quarter over quarter. There was a small detractor in there driven by the disposition so that it would have been up slightly more if we didn't dispose of the ValueFirst business in the quarter. I think, importantly, in that business, churn continues to be low, and so we don't see churn as a concern within the communications business. So, let me hand it over to Khozema, and he can talk more about what's going on.
+Khozema Shipchandler
+--
+President, Twilio Communications
+Yeah, I mean, I think -- just to provide a little additional color on the self-serve side of it, to answer your question outright, I mean, I feel quite good about some of the progress that we've been making there. We've obviously focused a lot of our efforts on streamlining it. I would say in the very recent past, the 10DLC registration process that we went through certainly drove some friction in terms of new customer signups and stuff like that. But absolutely, it was the right thing to do.
+And we feel really really good about the trust that we've been able to create in the ecosystem as a result of that. I think beyond that, we do feel like, A, there'll be ongoing efficiencies that we'll be able to drive into the self-serve side of things. But I don't think it's going to end up coming at the expense of growth. I think, importantly, we're not seeing any pressure on pricing, for example. We highlighted a number of really interesting wins in the quarter that actually came from products that were beyond messaging. That also feels pretty good.
+Aidan kind of alluded to the fact that it is a bit of a volatile macro. I think in spite of that, the business continues to perform quite well. And I think probably the most important dynamic in the whole thing is -- is that we are seeing a stabilization in volumes. And, you know, while we don't necessarily see an inflection yet, I think we do have a fair amount of optimism about Q4 and how things look heading into 2024.
+Operator
+Thank you. Our next question comes from Samad Samana with Jefferies. Please go ahead.
+Billy Fitzsimmons
+--
+Jefferies -- Analyst
+Hey, everyone, this is Billy Fitzsimmons on for Samad Samana. I want to dig a little deeper into the macro impacts in the prepared remarks and build on some of the questions that were already answered by kind of digging into the incremental macro impacts in the third quarter. It sounds like churn remains stable, and you call that growth slowdowns and cost-cutting measures for some of your customers. But -- but curious if you could dig in a little more down the business metrics tracked over the course of the third quarter when compared to the second. And Twilio was pretty upfront about the macro impacts in the first half of the year.
+And you've talked about business trends a little bit in the answers to some of the other questions, but what I'm trying to get at here is that we're midway through earnings season, and we've heard from a couple of software companies this quarter that specifically called out that headwinds got -- got incrementally worse in the third quarter. And some software companies called out that there was a material drop in spending from -- from certain customer verticals. Others called out diverging spending trends in enterprise versus SMB customers, noting that SMB got -- got incrementally weaker over the course of the quarter. So, curious to hear a little bit more about how Twilio business compares to that commentary from -- from some other companies.
+Aidan Viggiano
+--
+Chief Financial Officer
+Sure. So, why don't I -- I start and Khozema or Jeff can jump in as well. So, as it relates to -- let's talk about communications, that's the vast majority of the business. So, we continue to see volumes remain stable in the quarter.
+So, that's been two quarters in a row. Second quarter and third quarter we've seen volumes stabilized, and that played out through the third quarter. Now, when you look at it at an industry level, we do see some verticals presenting a headwind. We talked about crypto -- crypto and social and messaging.
+But when you look at the other kind of larger industry verticals, we are seeing growth in those, and so our overall growth rate is somewhat masked by the headwinds that we are seeing on crypto and social media as well. So, we do feel good about where the business is. I'd also say, as you think about the dollar-based net expansion rate for that business, so it's lower than it historically has been; it's 101% in the quarter and it's an 8% growth rate overall, right? So, the vast majority of the growth is coming from the new customer base. The other thing to consider on the dollar-based net expansion rate is what we're seeing is churn has been historically low, it continues to be low. We're seeing really higher contraction and lower expansion relative to historical levels. And this is where something like crypto comes into play.
+So, it's a good example in terms of understanding what we're seeing. So, obviously, when there's less crypto volumes on our customers platforms, it results in less verification messages on our platform. So, we are seeing some specific industry headwinds but overall feel pretty good about how the business is performing from a stabilization perspective and across most of the industries.
+Khozema Shipchandler
+--
+President, Twilio Communications
+Yeah, I would basically agree with what Aidan said. I think you specifically asked about headwinds in -- in part of your question. And I think the one that we've pointed out a number of times now is -- is crypto. You know, we've also historically kind of talked about social and messaging and some of the headwinds associated with those categories. But I think if you look at several of the other industries in which we participate, we are seeing pretty good growth, and I think that generally makes us feel pretty good, as Aidan alluded to, volumes have been stable.
+You know, that certainly feels pretty encouraging. And I think the way that we've dialed the business and the way that we've addressed our cost structure, I think in spite of whatever it is that kind of comes at us for the foreseeable future, we feel pretty good about the way that the business is sized. And so, I think, now, we're -- we're prepared to kind of execute through whatever that environment is.
+Billy Fitzsimmons
+--
+Jefferies -- Analyst
+Perfect. Thank you. And any difference in spending for enterprise versus SMBs at this point?
+Khozema Shipchandler
+--
+President, Twilio Communications
+Nothing specific that I would really point to there. I mean, you know, we gave you a little bit of additional color on self-serve earlier. And I think, you know, there was some short-term dynamics at 10DLC, for example, that created some friction at the time. We're past that now, so I wouldn't really expect that to persist. I wouldn't call out anything specific with enterprises.
+Billy Fitzsimmons
+--
+Jefferies -- Analyst
+Perfect. Thank you very much. Appreciate it.
+Jeff Lawson
+--
+Co-Founder and Chief Executive Officer
+Thanks.
+Operator
+Our next question comes from Ryan Koontz with Needham and Company. Please go ahead.
+Ryan Koontz
+--
+Needham and Company -- Analyst
+Hi, thanks for the question. I want to drill down on kind of where we are on the -- the cost out journey for the comms business. Obviously, a lot of great work there in terms of expanding profitability. How much room is there to go either through the self-service efforts or other programs that are still in place and we're working on? Thank you.
+Khozema Shipchandler
+--
+President, Twilio Communications
+Yeah, I mean, obviously, we've come quite a long way in a short period of time. I do think that there is some additional opportunity in terms of driving efficiency. I think that, as you've seen in the published results, our business responded quite well as a result of some of these structural changes that --that we've made. You know, we did two, right, that -- that we've kind of talked about over the last year or so.
+And as a result, we've been able to take out quite a lot of costs. I think we've also driven a lot more discipline, focus, simplicity, and all of that has created greater efficiency. In terms of additional areas, and I think we talked about self-serve a little bit, I think that's always an area that will allow us to drive ongoing efficiencies. I think in that category in particular, what we've really been focused on is simplifying the onboarding, the experience -- the user experience, the kind of product journey, so that a lot of the kind of high-touch human interactions that would have happened historically that those have waned, and that'll help us reduce our cost of sale. I don't think we have to really add any material incremental headcounts as a communications business to get after growth.
+So, that -- that feels pretty good as well. AI is obviously an area that, you can imagine, both externally and many of the remarks that Jeff shared and Aiden shared earlier in terms of CustomerAI, like we definitely see that being a growth accelerant at some point. But I think, too, we're also looking at some internal opportunities in which we can -- we can drive efficiencies there as well. And so, I think, to just put a wrapper on the whole thing, we feel like -- that we can continue driving incremental growth without really any sort of meaningful increase in the operating expense profile, and that's how we're running the business.
+Ryan Koontz
+--
+Needham and Company -- Analyst
+Super helpful. Thank you.
+Operator
+Our next question comes from Pat Walravens with JMP Securities. Please go ahead.
+Pat Walravens
+--
+JMP Securities -- Analyst
+Oh, great, thank you. It's really great to see the success of the communications business with nearly $1 billion quarterly run rate. My question, Jeff, is, I mean if even with new leadership, the TD&A business performance doesn't improve, do you think Twilio could drive sustained, long-term shareholder value, you know, just with the communications business and without the TD&A business?
+Jeff Lawson
+--
+Co-Founder and Chief Executive Officer
+Yeah, thank you, Pat, for the question. So, look, I'm really proud of what the communications business has driven as well. I think we've shown that a business at scale can drive profit. However, I do think that a even better business that we're building over the long term is a business that fuses communications and data together. Why? Because with an understanding of who those communications are going to, we can drive better communications, not just more communications.
+And that's the strategy that we're pursuing. And so, if we are able to take the data assets and segment and bring them together with our communications assets, what we have the opportunity to do is add a lot more value to our customers, drive a lot more software value to the company, and really competitively differentiate in a market where, you know, this is what customers want. Customers want more effective communications. I love these stories about how, you know, for example, you know, I talked earlier in the prepared remarks about the customers using Segment, using Predictive Traits. We're able to bring down the cost of customer acquisition by 85%, right, like those are the types of stories and business results that I think we can drive when we bring together data, which allows companies to be a lot smarter, and communications, which is the vehicle to actually drive a lot of those -- those outcomes in terms of how you talk to a customer. And so, when I think about the opportunity ahead, look, so far, the conversation has been very much focused on the -- the stand-alone nature of the Segment business.
+And obviously, we've been focused on making sure that we drive growth as a stand-alone. But what we've -- you know, the next step for us is to really start talking about what we can unlock together. And that's the better, not more, story. And I'm really looking forward to using especially AI and all the things we talked about with customer AI as the vehicle to fuse communications and data together in a way that's extremely differentiated. And honestly, it's emerging, like there's no -- there's no one in that market today. And so, the gift of the renaissance of AI that's going on right now is the idea that you can get out there with a new value proposition that is truly differentiated, and that's what we're pursuing.
+Pat Walravens
+--
+JMP Securities -- Analyst
+All right, that's really helpful. Thank you.
+Operator
+Our next question comes from Ryan MacWilliams with Barclays. Please go ahead.
+Ryan MacWilliams
+--
+Barclays -- Analyst
+Hey, thanks for taking the question. Any early insight into how your customers are thinking about holiday season traffic this year, you know, similar to last year? And then, just we've seen a pickup in M&A recently from a number of software companies. Just checking to see if there's been any incremental changes on your strategy there. Thanks.
+Khozema Shipchandler
+--
+President, Twilio Communications
+I can talk about maybe holiday seasonality, and then Aidan can talk about cattle allocation, or Jeff. In terms of the holidays, I mean there's -- there is some seasonality, obviously. You know, we would certainly anticipate that, as with any prior period, especially around, you know, the kind of Thanksgiving period, that we'll see an uptick in certain traffic, certainly heading into the Christmas season. But I wouldn't call out anything unusual relative to prior years. I think it'll be kind of the normal seasonality that -- that we see in the business. And it'll more or less line up with what Aidan provided in the guidance.
+Jeff Lawson
+--
+Co-Founder and Chief Executive Officer
+This is Jeff. I'll talk about M&A. You know, as a matter of good corporate hygiene, we always are keeping an active game board of, you know, opportunities that are out there in the market. That said, I don't think M&A is our top priority right now. Obviously, we're digesting a lot of change, and we're really proud of the results that we've shown in terms of turning the corner on non-GAAP operating profit, and really growing the business in an organic way.
+And so, that's really where the management team's focus is right now. But, you know, that said, we always do keep an active game board, and obviously, we've got a pretty good war chest.
+Ryan MacWilliams
+--
+Barclays -- Analyst
+Appreciate the color. Thank you.
+Operator
+Our final question comes from Fred Havemeyer with Macquarie Capital. Please go ahead.
+Fred Havemeyer
+--
+Macquarie Capital -- Analyst
+Hey, thank you very much. I think I fundamentally agree about data as one of the key differentiators in the generative AI application race. And I think just closing out the call, I guess for the question at a high level here, big picture, longer term, OpenAI at the start of the week, I think, hinted at a longer-term trend that we might see more autonomous agents in the AI space where they carry out tasks without human intervention. And so, just thinking about that where perhaps more is done via AI automatically without human communication, how do you see Twilio over the next -- I don't know who can estimate when we might see this exactly -- but over the next coming years where Twilio would feel it fit into that value chain? Thank you.
+Jeff Lawson
+--
+Co-Founder and Chief Executive Officer
+Thank you, Fred. You know, look, this -- this AI world is rapidly evolving. And I think what we've set out is our vision for our role in it, which is to help companies to use predictive and generative AI to really automate and improve all their customer interactions by taking a really good understanding of their customers, the story that's told by the data that those customers give off, their clicks, their scrolls, what did they sign up for, where do they not sign up for, all -- everything that they've done to turn that into an understanding of the customer, that's the segment profile, take that profile, and now inject it into every touchpoint a company has using AI to improve every one of those touchpoints. I think you're going to see a tremendous amount of automation in terms of customer service, in terms of pre-sales, in terms of marketing. And we -- and we showed this vision at SIGNAL, which basically says, look, I agree there's a tremendous amount of automation.
+Now, one part of that is this idea of like, you know, agents that are taking actions on behalf of people, and I absolutely think that's true. But you look at what else is going to happen, right? Those agents are going to be taking actions on behalf of companies. And the raw ingredients for how those agents are going to operate is, number one, they have to have access to knowledge about the companies; number two, they have to have access to tools to operate within those companies; number three, they're going to need access to guardrails about what they're allowed to do; and number four, they need access to information about the customer that they're serving. And that's the kind of framework that we've thought about as we've gone about thinking how is CustomerAI going to change how companies operate every customer-facing function. And we believe there's a tremendous amount of automation that is going to come into play.
+And the results of that automation, I think, companies are going to get 10 times more productive at serving their customers. They can do it at one-tenth of the cost that they probably would have to spend otherwise, and we're here to power that future for our customers.
+Fred Havemeyer
+--
+Macquarie Capital -- Analyst
+Thank you.
+Operator
+[Operator signoff]
+Duration: 0 minutes

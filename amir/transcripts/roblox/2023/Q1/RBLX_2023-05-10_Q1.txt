@@ -1,0 +1,294 @@
+Operator
+Good morning. My name is Brent, and I will be your conference operator today. At this time, I would like to welcome everyone to the Roblox first quarter 2023 earnings conference call. All lines have been placed on mute to prevent any background noise.
+After the speakers' remarks, there will be a question-and-answer session. [Operator instructions] Thank you. Stefanie Notaney, you may begin your conference.
+Stefanie Notaney
+--
+Director, Financial Communications
+Thank you, Brent. Good morning, everyone, and thank you for joining our Q&A session to discuss Roblox's Q1 2023 results. With me today is Roblox co-founder and CEO, David Baszucki; and CFO, Michael Guthrie. As a reminder, our shareholder letter, press release, SEC filings, supplemental slides, and a replay of today's call can be found on our investor relations website at ir.roblox.com.
+On this call, we will make some brief opening remarks and reserve the rest of the time for your questions. Our commentary today may include forward-looking statements, including but not limited to our expectations of our business, future financial results and business, and financial strategy. Forward-looking statements are subject to risks and uncertainties that could cause actual results to differ materially from those described in our forward-looking statements, and such risks are described in our risk factors, included in our SEC filings, including our annual report on Form 10-K and 10-Q. You should not rely on our forward-looking statements as predictions of future events.
+We disclaim any obligation to update any forward-looking statements, except as required by law. During this call, we will also discuss certain non-GAAP financial measures. Reconciliations between GAAP and non-GAAP metrics for our reported results can be found in our press release, as well as in our supplemental slides. For our webcast participants, please note that question icon at the bottom of your screen where you can submit your questions.
+With that, I'll turn it over to Dave.
+Dave Baszucki
+--
+Co-Founder and Chief Executive Officer
+Thank you. Hey, and good morning, everyone. We are going to start with a prelude. And I want to talk a bit about bookings acceleration and the generation of cash, which is really exciting for our business.
+We're going to talk about our future bookings growth rate relative to cost of sales, infrastructure, and compensation expense, which is also a wonderful story. And then, finally, we'll touch base on innovation and what we've done since the start of this year. Our revenue in Q1 grew 22%, to $655 million. Our bookings grew 23% to $773 million.
+And I want to just highlight bookings is how we run the business. We run the business based on cash. Our bookings growth rate year on year over the last five quarters have gone from negative 3%, to negative 4%, to plus 10%, to plus 17%, to plus 23%. We believe this is being driven by eight quarters of innovation and awesome engineering that have expanded our platform.
+And our platform is growing in all directions, and I'll touch on that. GAAP loss was $268 million, while cash from operations was positive $173 million. We generated over $100 million of free cash and operational cash in the quarter, and this just highlights the difference between cash and our GAAP loss, which is driven by deferred revenue and other factors. Finally, our cash has been steady relatively over the last six quarters, and we have approximately $3 billion of cash with no external financing.
+On the user side, our DAUs are up 22%, with an all-time high of 66 million DAUs. Our hours are up 23% year on year, once again an all-time high of 14.5 billion hours of engagement in Q1. All regions are up, and I want to highlight that our 13-and-up segment is growing 31% year on year, which bodes very well for our future growth as that's an amazingly large available market for us. On the developer community, money flowing to our developer community increased 24% year on year to a record $182 million in Q1.
+We have some exciting things happening in our business. Our bookings growth year on year is already exceeding our cost of sales growth year on year. And we believe, in Q3 of this year, our year-on-year bookings growth will exceed our infrastructure year-on-year growth. This is a testament to the efficiency on our infrastructure spend and the way we have built out our redundant datacenter in Ash.
+I want to highlight that we spent almost $400 million of cash on infrastructure over the last year, and we're still showing positive cash flow in Q1. Finally, we believe, in Q1 of 2024, our year-on-year bookings growth will pass our year-on-year compensation expense growth through just operational excellence. We have not suffered layoffs. We continue to highlight that we're being very thoughtful in hiring the best and growing our headcount efficiently.
+On the cash side, once again, I highlighted we're in an awesome cash position. And on the innovation side, we continue to innovate. Our vision is to bring together a billion people every day with optimism and civility, and we're very bullish about this vision. We continue to feel very positively about this opportunity.
+In the last eight quarters, we've driven a lot of innovation. I want to highlight on the innovation we've really executed on, since January 1 of this year. And that innovation falls in categories of cost control, revenue acceleration, AI-generative creation, international ageing up, and our vision of social communication. We've got a 15-year history of innovation.
+And we believe innovation is once again contributing to our bookings acceleration. On the cost efficiency, we've been using AI and machine learning for quite some time to drive the efficiency of our safety organization, which is really the primary focus of our business. And we've got to the point where we're highly automating reviews of 3D objects, audio, and images. On the revenue side, I want to highlight that our advertising system is now in test.
+We have over 200 developers that are participating. We're not going to share the number. We will make a small amount of advertising revenue in Q2 of this year. And I'll quote what the NFL shared with our advertising system is that, "Portals have helped the NFL reach and convert a high percentage of new users into their experience." We're really excited about this.
+It is a new ad format that complements image and video that is very immersive and native to Roblox. We've launched two AI-generative accelerators to help our creators create better and create more quickly. First is a material generator that allows developers to create any type of 3D material purely by using a few words. If a creator on Roblox says, "I would like a brick wall that's a little bit covered with moss," that's enough to generate a 3D material.
+We're proud that we did this early this year. And we're also launching code generation. Roblox has an amazing repository of Lua code. And we're using this to train a code generator that won't just help people auto-complete, but really helps create and script on Roblox.
+On the international side, we continue to drive the vision that Roblox is a platform that will work around the world. And also drive the vision that anyone's creation can go live in many, many countries. I want to highlight Japan, which is now growing at over 100% year-on-year on daily active. It's been driven by some advances we've made on semantic search and the quality of our translation.
+We continue, behind the scenes, to drive the quality, the performance, and efficiency of our Core 3D engine. And we've made enormous strides on our vision of social communication as well. Since the start of the year, voice on Roblox is now being used by almost 10% of over-13 daily users in the U.S.A., 9% to be exact. And we've rolled out lip sync as well on our journey to fully animating avatars on the platform, either using lip-sync or ultimately camera.
+A fun other thing just to highlight. By day seven, based on all the work we've don't on contacts and friend-finding, people are finding 10% more real-life friends on the platform in the first seven days than they were a year ago. Just want to once again recap, and then we'll start answering questions. Long-term mission is a billion users every day connected with optimism and civility.
+We're focusing on driving bookings growth with innovation. Behind that bookings growth, we have an enormous focus on operational excellence and efficiency. And once again, we believe, by Q1 of next year, bookings on a year-on-year basis will be growing more quickly than cost of sales, infrastructure expense or headcount compensation expense. And then, finally, the cash that we spin-off, as much as possible, we want to really share with the creator community to drive innovation.
+With that, we'll open up for questions. Thank you.
+Questions & Answers:
+Operator
+[Operator instructions] Your first question is from the line of Andrew Crum with Stifel. Your line is open.
+Andrew Crum
+--
+Stifel Financial Corp. -- Analyst
+OK. Thanks. Good morning, guys. A lot of discussion around slowing investment spending, I'm assuming or I did not hear anything around Developer Exchange fees.
+So, Mike, I guess, is the 24% as a percentage of 1Q bookings, is that a good quarterly run rate for the business over the next several quarters or does that continue to move up? And Dave, as you think about this line, curious if there is a competitive response to Epic's Unreal Editor for Fortnite in terms of the economics the company pays out to its developer community? Thanks.
+Dave Baszucki
+--
+Co-Founder and Chief Executive Officer
+Yes, I'll go, and then I'll let Mike talk about long-term exchange. Developers are flocking to Roblox right now. In March 2023, the number of developers, who earned something on our platform, grew 63% year on year to over four million. And the money to our community increased 24% year on year in Q1 to $182 million.
+There's an enormous economic opportunity on Roblox, and we see that continuing to grow with a lot of developers moving to our platform. I'll let Mike comment on the Developer Exchange rate.
+Mike Guthrie
+--
+Chief Financial Officer
+Yes, on the rate, we're pleased that we have continued to increase the rate of growth in Developer Exchange over the last few years. We continue to look for efficiencies in our business, not only to drive our bottom line, but also to drive increasing economics to the developer community, and we'll continue to do that over time. We've been very steady in our approach of increasing that number. And as we garner efficiencies in the rest of the company, it really gives us the flexibility to balance increased investment in the community with a little bit of increase in the bottom line for the company.
+So, we'll continue to take that approach.
+Andrew Crum
+--
+Stifel Financial Corp. -- Analyst
+Understood. OK. Thanks, guys.
+Mike Guthrie
+--
+Chief Financial Officer
+Thanks.
+Operator
+Your next question is from the line of Omar Dessouky with Bank of America. Your line is open.
+Omar Dessouky
+--
+Bank of America Merrill Lynch -- Analyst
+Hi. Thanks for taking my question, and good morning. I wanted to maybe double-click a little bit on that Fortnite creative question that was just asked. As you can see some in the investment community have seized on it as a source of competition, even though the platforms are very different.
+So, I wanted to ask you, given the early stages of development of the metaverse, how would the emergence of a second ecosystem, over time, actually be beneficial or symbiotic to Roblox and its developers? And I have a follow-up after that.
+Dave Baszucki
+--
+Co-Founder and Chief Executive Officer
+Hey, Omar, great question. And I want to share a bit about how we think of innovation at Roblox, and how we have for the last, really, 16 years. As you correctly note, it's still very early in the creation of the metaverse. We see it in a place where Roblox can have a billion daily active.
+We think about innovation as inventing and creating things that have never been done before to help drive this vision of the metaverse. And one of those is UGC creation, which we launched over 16 years ago, that we do believe is part of this vision. There are a lot more innovations that are coming from us, and we shared the vision around social communication, we shared our vision around AI-driven acceleration. We shared our driven around an ad platform.
+We're just very bullish that it's going to take a lot more new invention and the creation of many more long-port pull technologies to get to that billion daily actives. And that's what we focus our engineering and product teams on.
+Omar Dessouky
+--
+Bank of America Merrill Lynch -- Analyst
+OK. All right. So, maybe a follow-up to that, I noticed that a studio that got its start on Roblox recently raised a $25 million Series A venture capital round. So, as the most successful studios in your ecosystem become larger and their IPs and services are capable of standing on their own, how does Roblox think about incentivizing them to keep monetizing on platform rather than through some social channel or another creator platform?
+Dave Baszucki
+--
+Co-Founder and Chief Executive Officer
+I want to highlight that's not really a future-looking thing. That's something that exists right now, and that those incentives today are already massing, and continue to grow. Our top creators create experiences that generate tens of millions of dollars. And you could see, as they're starting to raise money, the size of those creators is getting larger.
+What I shared earlier, which is continued bookings growth, continued economic activity, operational excellence, so Roblox runs as lean as possible, both on cost of sales, on our headcount expense, and on our infra. What that means is an efficient utility that pushes as much money back to those creators as possible. So, we think those incentives are already there. And we think it's all about operational excellence, and moving as much economic activity and an enormously large platform to that developer community.
+Omar Dessouky
+--
+Bank of America Merrill Lynch -- Analyst
+Great. Thank you very much.
+Operator
+Your next question comes from the line of Matthew Thornton with Truist Securities. Your line is open.
+Matthew Thornton
+--
+Truist Securities -- Analyst
+Hey. Good morning, Dave and good morning, Mike. Maybe two quick ones if I could. I guess first, any color on trends that's you're seeing in April into May, and maybe just how we should think about what a normal second quarter looks like for you guys seasonally because, obviously, we've had a couple of really weird years? So, any color there would be helpful.
+And then, just secondly, I think, Mike, last quarter, you guys talked about -- maybe it was two quarters ago, high single-digit-type EBITDA margin for the year. Is that still the way we should be thinking about 2023 or has that evolved at all? Thanks again, guys.
+Mike Guthrie
+--
+Chief Financial Officer
+Hey, Matthew, thanks for checking in. We did our last monthly metrics presentation in March. And I think we're all excited and glad that we did it, and are glad that we're done doing it. There's two years of pretty good, healthy data out there that reflects seasonality, and COVID, and reopening from COVID.
+So, I think there's plenty of data out there. The benefits of Q2, of course, are April was really strong with the Easter holidays, and June is strong because school is out and it's the start of the summer, and summer is always a big time for the platform, as it is for lots of companies. In terms of margins, we talked a ton about it today on the call. Again, it's really about efficiency, it's about coming to a point in the company's history where we have returned to really substantial bookings growth as a result of making incredible investments in people and infrastructure.
+And now being able to allow that growth to creep up to a level where it exceeds our investments in people and infrastructure. So, we feel really, really excited to combine growth with operating leverage over the next few quarters and years. And that's really what's important us. So, I just would say expect to see a business over the next few years that is really high growth and high operating leverage.
+We are excited about that, and we'll continue to make the right investments in the company for long-term value. We feel really strongly that the investments in people and infra that we have made over the last couple of years allowed the business to grow and hold on to a substantial growth that happened at the beginning of COVID. And now, we find ourselves with as Dave said peak users, peak hours of engagement. I think a business growing faster than almost anything in digital entertainment, gaming, social.
+So, we are really satisfied with where we are. And feel like we are in a place where we can make a really nice combination of investments in growth and leverage.
+Matthew Thornton
+--
+Truist Securities -- Analyst
+Great. Thanks, Mike. I'll hop back in the queue.
+Operator
+Your next question is from the line of Matthew Cost with Morgan Stanley. Your line is open.
+Matthew Cost
+--
+Morgan Stanley -- Analyst
+Good morning, everyone. Thanks for taking the questions. I have two here. Maybe the first one for Dave, just looking at the over 13 age group in the first quarter, I think it grew a little over 4 million DAUs, up from the fourth quarter which looks like one of the biggest increases that you've seen.
+I guess is there any that you would call out that those older users are engaging in? What is driving that uptick in over 13 DAUs? And then, I guess just for, Mike, on the margin side, I think in the press release there is a comment about seeing some improvement on gross margins as a result of prepaid cards as we talked about in the past that there was a comment in there about credit card. Is there an element of direct-to-consumer payments that you are working on in the mobile aspect that might is driving some of that leverage? Thanks.
+Dave Baszucki
+--
+Co-Founder and Chief Executive Officer
+Yes. Hey, first off on our vision and we have been sharing it in the sense since before we went public is this whole vision of our product platform and category is for all ages around the world. And, we have been working on this for many many years with the vision that younger people, older people play on Roblox will learn of Roblox will start to connect when they are at work, will go to concerts on Roblox, and a wide variety of these types of things. We're really pleased with the older growth as we continue to improve the quality of our engine simulation.
+As we improve the quality of search and discovery, we are seeing more and more developers and creators start creating experiences that are exciting for people all over the world. 17 to 24 is growing very, very rapidly. We are seeing experiences like frontlines which are really been funded by our creator fund and are driving much more high quality type experiences that older players are flocking to. We think there is still enormous headroom in the older player base as people start to use Roblox as a way to socially connect as well.
+So, we're really bullish on the long-term size of that cohort. On the credit card thing, I just want to highlight what we are seeing there. We are seeing that our bookings year-on-year growth rate has already passed our cost of sales year-on-year growth rate because there is so many ways for our community to spend money on Roblox. They use prepaid cards.
+They can use credit cards. In addition to, of course, to our partners like Google and Apple. And as that expands, we're seeing the leverage we get as bookings grows faster than their cost of sales.
+Matthew Cost
+--
+Morgan Stanley -- Analyst
+Great. Thank you.
+Operator
+Your next question is from the line of Clark Lampen with BTIG. Your line is open.
+Clark Lampen
+--
+BTIG -- Analyst
+Hi. Thanks for taking the question. I wanted to come back to bookings acceleration. Curious if you guys could provide a general sense for how maybe that's going to be balanced between user growth relative to monetization initiatives now that we are seeing more product coming out of the development pipeline? And maybe bigger picture as we are thinking about the sort of diversion in bookings and opex trends, is it reasonable for us to think about sort of 20% as reasonable rate maybe over the balance of this year and to next year?
+Mike Guthrie
+--
+Chief Financial Officer
+Hey, Clark, on bookings we've multiple things that drive our bookings. We start with a user base and we look at the frequency of the user base. How often do they come to Roblox. That gives us our daily active users.
+Then we look at how much time those users are spending with us. Hours per DAU that number has continued to grow, and has been really healthy across most parts of the world and most age groups. And then, we look at how much capital is being spent per hour of engagement on the platform. And again, over the last few quarters, we've seen really healthy growth in our monetization.
+So, it really is a combination of more users spending more time with us and spending more money on the platform as well. If you look at the monthly unique payers in our supplemental material, you'll see that primarily the growth -- the bookings growth is being driven by more payers, but there is slightly increase in the monetization per payer. And if look in the monetization by region, which we broke out for the first time, so bookings per DAU by region in the supplemental material what you'll see is good year-over-year growth in all regions expect in Europe where we simply have had high growth in eastern Europe vis-à-vis western Europe. On the other hand if you look at the peaks of monetization in the U.S.
+and Canada, we are starting to see is this maturation of payer cohorts that we know over time they can run for very, very long time and they tend to monetize more as time goes on. And so, in the U.S., we have more of those cohorts. You are actually going to see higher peaks in terms of monetization even when we were at the peaks of COVID. Other parts of the world, we think we will actually get there as well over time as their cohorts become larger and more mature.
+So, right now like in the U.S. we have an incredible mix of older payer cohorts and new payer cohorts coming from older aged and was powering a lot really good growth. So, generally right now, most of the top line growth is just driven by the fact that our users continue to grow. If you look at our DAU charts and our engagement charts, they have really been up into right over the last four plus years.
+But we are certainly seeing healthy signs of people spending -- especially the users that have been with us for a while spending incrementally.
+Clark Lampen
+--
+BTIG -- Analyst
+And maybe if I could follow-up really quickly just on the sort of topic of gift cards and prepaid cards, is that something that we should expect to be driven more by international markets? Or, is there higher propensity there? And if adoption does sort of pick up in the international markets, does that have a positive implication for margin in those territories too? Thanks a lot.
+Mike Guthrie
+--
+Chief Financial Officer
+Thanks, Clark. It has positive implications for margins anywhere in the world. And we continue to look for places where consumers don't have access to prepaid cards to make sure that they have access to it, because it's just a low friction very much in demand source of currency in our user base. We are definitely growing internationally.
+There is probably a higher propensity for store value in foreign markets that we are excited to continue to find places where there is growth, but there will be growth throughout literally globally. And our team is highly focused on growing the prepaid card business and actually just doing an excellent job.
+Dave Baszucki
+--
+Co-Founder and Chief Executive Officer
+I'll give an example complementing over 100% year-on-year growth we are seeing in Japan, Roblox gift cards are now available in 65,000 different convenient stores in Japan.
+Operator
+Your next question is from the line of Bernie McTernan with Needham. Your line is open.
+Bernie McTernan
+--
+Needham and Company -- Analyst
+Great. Thank you very much. I was just wondering, Dave, you mentioned frontline, so I was wondering what types of content you are seeing that are most popular for older age demos? And is it always the highest fidelity games, and reason being how do you think generative AI tools could impact the amount and content that is really geared toward age up to age demos?
+Dave Baszucki
+--
+Co-Founder and Chief Executive Officer
+Yes. Hi. I want to highlight that Roblox is a place where new types of experiences that people have never seen before have been created and become huge favorites with billions and billions and billions of players. And frontline is little more traditional high resolution type experience.
+But many of the experiences on Roblox and you name the favorites Adopt Me!, Jailbreak, Brookhaven have huge older audiences as well and really become international favorites, as well as all age favorite. So, I am just really, really proud of that. We are uniquely poised to accelerate our whole platform with AI-generative technology, and you're seeing early signs of it now on material generation and code generation, but ultimately, it means 3D experience generation, it means avatar generation, it means the quality of real-time language translation, it means the quality of search and discovery, and because of the size of our user base and our 60 million to 70 million daily active users, we have an enormous opportunity to really reinforce, train, and accelerate the quality of our AI. So, keep an eye on that.
+We are really proud with the early signs from our code generator and our material generator, but we're really building a platform to use this throughout robust.
+Bernie McTernan
+--
+Needham and Company -- Analyst
+Understood. And just a follow-up for Mike on the commentary on infrastructure and compensation leverage, is this a change in prioritization for margins, is it a higher booking outlook, just trying to think about what's driving this better outlook now for some of this cost leverage?
+Mike Guthrie
+--
+Chief Financial Officer
+Hey, Bernie. Well, one thing to start with these bookings growth rates over the last five quarters, so it's probably modest, to our attention that we are back over 20%. The investments that we've been making over the last couple of years is also geared toward keeping and growing a massive audience, and getting through COVID and the reopening, and still growing on top of that. So, we thought like those investments were very high ROI, we've driven out with return to bookings growth.
+So, we are now at a much higher level of bookings growth. We have higher top line growth. We just got more room for operating leverage, and so, we feel like it's a good time to allow that growth to outstretch the growth in new hiring, and in infrastructure and investments. Those are decisions that we've made relatively recently.
+So, they don't happen overnight. We will start to see benefits from that as we talked about in the back-half of this year, and early next year, and then as we go into '24 and beyond. So, very much a result of getting things done, getting teams to a certain scale, getting infrastructure to a certain scale, and ensuring that our top line was back at the high growth.
+Bernie McTernan
+--
+Needham and Company -- Analyst
+Understood. Thanks, Mike. Thanks, Dave.
+Operator
+Your next question is from the line of Andrew Uerkwitz with Jefferies. Your line is open.
+Andrew Uerkwitz
+--
+Jefferies -- Analyst
+Hey. Thank you very much for taking my questions. We really appreciate the DAU by region, and the entirely models, it's going to make life lot easier for us. On that data though, could you just give a little bit of color, like, it's interesting that Europe is not a much higher rate than, say, APAC, so just if you could give us a little color around, one, where you think those numbers could go, can they approach U.S., Canada? And then, if you would kind of break Europe down between, say, Western and Eastern, what those trends look like?
+Mike Guthrie
+--
+Chief Financial Officer
+Hey, Andrew. So, in terms of the monetization levels, I think it's still -- let me just -- I'm going to pull something left in front of me, you basically look at U.S. data first, and what you see is, Seattle, in the fourth quarter of '22 their monetization was actually above any of the prior fourth quarters even at the beginning or in the middle of COVID. Again, that has to deal with the length of the time payer cohorts has been with us.
+So, adding lots of new users and new payers, but we are also really benefiting from these over cohorts that have been with us for a while, between these monetization over time. That's a really great turn. Regions like Europe and APAC were still newer markets for us, in a sense, our level of penetration in these markets were fairly lower, and we are still building a payer base that will compound over time. In Europe and in APAC, those markets are more aged up at the beginning than as U.S.
+has started out with the younger user base, and then ultimately aged up. And you can see in those markets, we still have not gotten back to where the monetization was at the peak of COVID. Yet, pretty good growth in APAC. And again, as I said, Europe is just a mix of between super high profiling than in Eastern Europe.
+And so, we work closely in Western Europe, and those two were diverging in terms of the economic benefits. Ultimately, in certain markets in Europe and Asia-Pacific, yes, the monetization should be fairly close to the West in that part of the world. We should track GDP per capita pretty closely. In places like U.K., and ANZ, we've seen very similar monetization to what we have in the U.S.
+and Canada. So, there are other parts of Western Europe, where I think that will be ultimately true. In Asia-Pacific, Southeast Asia is very different than Japan. So, earlier Japan was going very quickly, it's still relatively small amount of our APAC user base engagement, and monetization, but over time that trend will move very much toward what we -- you know, in Japan we moved very much closer to what we see in the U.S.
+and Canada. So, we will just have to watch it over time, but it will definitely move up over time. And I will call it out that even the rest of world is a much slower number. We've sort of built a dominant user base and engagement base in places like Latin America.
+That has served us incredibly well, it is fantastic growth, and we have strong bookings cohort there as well.
+Andrew Uerkwitz
+--
+Jefferies -- Analyst
+Got it, appreciate the color. And then, I guess just one follow-up for David. On the advertising product, I know it's really early, what's been the reception from brands, are they gravitating toward a certain type of ad? Are you finding brands that would normally engage with Roblox, but now they can't because you have a short form opportunity here, just kind of curious what the early commentary is, and how your views have shaped around advertising?
+Dave Baszucki
+--
+Co-Founder and Chief Executive Officer
+There's two types of advertising visions that we have on Roblox. I would say, one is traditional, which is Roblox is a platform where an image from a brand -- you can shop on a virtual billboard, in any experience anywhere. So, imagine one of our partners is introducing a new movie, and so, one or two days they want people throughout Roblox to see some movie posters, something like that. What is much bigger and more disruptive is the notion of gently offering advertisers the ability to bring people to their experience, and explore it in 3D.
+We have already shared some of our partnerships, Nike, Vans World, Gucci Garden, the Annabelle Experience, these are called Portal Ads, and these allow in a native non-invasive way for users who are hanging out on Roblox who might want to jump into that experience to go there and experience it. This is a new ad format. It's a format where people go and experience something in 3D spatial reality, where they go to Gucci Garden, where they go to Vans World. This is what I'm really excited about, given how disruptive it is.
+And this is where we're seeing early great signal. Once again, you saw the quote from the Annabelle. So, we will keep you up-to-date on it. We are very bullish on it.
+We'll essentially be creating this new type of advertising market, and we are fortune on Roblox that we have so much engagement, 14.5 billion hours in Q1, that it's a referral place to really launch this, so, more to come, but great early signals, especially on portal ads.
+Andrew Uerkwitz
+--
+Jefferies -- Analyst
+Got it. Thank you, guys.
+Operator
+Your next question comes from the line of Tom Champion with Piper Sandler. Your line is open.
+Unknown speaker
+Hi. This is Jim on for Tom. Thanks for taking the question. I have one for David on picking fund.
+Can you talk about the progress here? How much funding has been used in inception to-date? I guess we're familiar with fund lines, but it's sort of like to rate high enough that we should expect more game funds, or something similar in the future? Thanks.
+Dave Baszucki
+--
+Co-Founder and Chief Executive Officer
+Yes, I will have Mike dig up the numbers well in chatting if we can find them for you, if they're public. I want to highlight that the primary way Roblox has grown and always will grow is self-service. And I want to highlight that the primary way we've gotten to where we are, all of it, the majority of experiences on Roblox and we are familiar with all of them, have gotten there with literally no intervention. We've used the game fund, and I want to highlight we also have an educational community fund to jump-start certain areas.
+In the case of the game funds, we wanted to help developers take the risk of creating experiences that might be more attractive for older players. I want to highlight side-by-side, we are doing the same thing in education. So, the work we have done with FIRST Robotics, we work we have done the Boston Museum of Science are somewhat similar, and we are jump-starting educational experiences. I don't want to quote where we may go, but you could imagine, in addition to experiences for older players, for education, there is the opportunity for experiences around mental health, there is the opportunity for experiences around working together in a 3D office.
+There are also things that we may fund some day. We are going to pull up the numbers and see if we can share anything with you on the actual numbers.
+Mike Guthrie
+--
+Chief Financial Officer
+Yes. So, Jim, the fund is earmarked at $25 million. We have not spent all of that capital. But to Dave's point that we are very happy with some of the performance, and the experiences in the game fund, we do track it all the time and we look at it on a weekly basis.
+The vast majority of these experiences on the platform are self-started, and it just exists on the economics of our platform.
+Unknown speaker
+Great. Thank you.
+Mike Guthrie
+--
+Chief Financial Officer
+Thanks.
+Operator
+Your next question is from the line of Jonathan Kees with Daiwa. Your line is open.
+Jonathan Kees
+--
+Daiwa Capital Markets -- Analyst
+Great. Good morning, guys, and thanks for taking my questions. I wanted to follow-up on Dave's commentary about the ads. The two types of ads, more specifically how that's going to be delivered.
+The self-serve, how you guys have been conservative in terms of pubmed, its contribution to the top line, and kind of push up more toward 2024? So, I just kind of interesting you're not talking about a testing of that in -- currently going on, will make a contribution in Q2 albeit nothing material. So, can you give us an update in terms of the ad rollout, self-service specifically, and when you could be contributing something materially?
+Dave Baszucki
+--
+Co-Founder and Chief Executive Officer
+Yes, I will comment. We expect this year to rollout self-service on this, essentially a full ad server for both image and portal ads, something that allows advertisers to on their own publish these types of experiences to Roblox. We are being very conservative on this. We do expect to make, I don't know if we call it significant revenue, Mike, I will let you comment on that, as far as what our internal things are, but we are not sharing our forecast externally.
+Mike Guthrie
+--
+Chief Financial Officer
+Yes, I mean, there will be something in the second quarter, and we will talk more about it after that, but I certainly wouldn't be changing models for 2023 based on advertising today.
+Jonathan Kees
+--
+Daiwa Capital Markets -- Analyst
+Got it, that's helpful. And if I may, this one is more of an update, you talked about layered clothing, the number of users, just wondering what the number of users are for this last quarter?
+Dave Baszucki
+--
+Co-Founder and Chief Executive Officer
+Yes, we will see if we can diagnosis it out. I want to highlight the bigger thing that's happening here, which is this year the migration to everything on our platform being created by our community, and that includes clothing check, avatar check, and it includes the migration to the point where every avatar can be animated, and have facial animation as well. So, view layered clothing as the first step toward a highly user-created UGC avatar system with what we believe will be a big enhancement on the diversity and breadth of the type of avatars on the system, and layered clothing is maybe what we call first metric on that. Once again, we are pulling up some numbers to see what we can share with you.
+Mike Guthrie
+--
+Chief Financial Officer
+Yes. Jonathan, this is actually current numbers. So, living in May, but 267 million users have acquired at least a single item as layered clothing.
+Jonathan Kees
+--
+Daiwa Capital Markets -- Analyst
+Great. That was helpful. It was a big jump too from last quarter too. So, thanks a lot.
+Mike Guthrie
+--
+Chief Financial Officer
+Thank you.
+Operator
+We have time for one more question from the line of Brandon Ross with LightShed Partners. Your line is open.
+Brandon Ross
+--
+LightShed Partners -- Analyst
+Hey. Thanks for taking the question. I just wanted to end the call kind of where it started, with this cost discussion, and this is maybe an unpopular strengthening with the investment community, but it just sounds like you have so many opportunities, especially when it comes to things like generative AI. What are you leaving on the table by actually taking some margin and not investing more? Are there opportunities that you could be speeding up? Or, expediting in any way or uncovering? And especially in the wake of the competition that was discussed earlier from Epic? Thank you.
+Dave Baszucki
+--
+Co-Founder and Chief Executive Officer
+Yes. I want to highlight that we continue to hire rapidly. We have got a very mature product engineering platform right now. And we are going to continue hiring all the way through the end of this year, next year, and the year beyond.
+We think where our really almost optimal hiring rate starts to intersect our bookings growth in Q1 of next year. So, we don't believe we are leaving anything on the table.
+Mike Guthrie
+--
+Chief Financial Officer
+Hey, Brandon, it's Mike. Interesting question, we appreciate the question. It's really helpful to look at the business over the last maybe three years or so. That covers the beginning of COVID and where we are today.
+I think we tripled the number of people, more than tripled the amount of spend on infrastructure. I think we spent over $7 million on growing and improving our infrastructure. And probably what you heard today was the fact that bookings growth has reaccelerated allows that growth rate to exceed the rate of investment in headcount and in infrastructure. Not that we are in any way reducing dramatically those investments.
+We have always tried -- if you look at the history of the company, I think it's one of the best examples of sustainable growth that I have ever seen. It's a consistent investment in things that made the business great and differentiated. It's organic growth, never trying to accelerate a user base letting the product drive the user base that we deserve, and confident investment and innovating, and expanding our lead cost of investment in the developer community so that content is growing and getting better all the time. Those things are just so much a part of what we do that we are not taking any dramatic steps.
+But we do find ourselves at a point right now where the bookings growth has really reaccelerated. And so, we feel comfortable that that number can be ahead of the key investments. But we will always be focused on innovating and staying a step ahead. That's just who we are.
+So, it really is a balance. And I love the way we have ended the call and appreciate the question on both sides of this because there really are two sides. There is investing to stay ahead and there is also proving that you have a business model that is long-term sustainable. If anything proves that out, just look at the last six quarters in the business.
+We have literally been $3 billion of cash over the last six quarters. Continuing to invest, continuing to spend almost $0.5 billion over the last six quarters in infrastructure. And yet, cash neutral because the business itself generates so much operating cash. So, we really feel like we have balanced it very well up until now.
+And hope that we will continue to balance those things over the next few quarters and next few years. But that's the way we have always run the business. And ultimately, we think that drives the most long-term value. So, we appreciate the question.
+Brandon Ross
+--
+LightShed Partners -- Analyst
+Thank you.
+Stefanie Notaney
+--
+Director, Financial Communications
+Thank you for joining us today. And that's a wrap. Brent, you can close it out.
+Operator
+[Operator signoff]
+Duration: 0 minutes

@@ -1,0 +1,314 @@
+Operator
+Ladies and gentlemen, thank you for standing by, and welcome to CS Disco's first quarter of fiscal year 2023 conference call. At this time, all participants are in a listen-only mode. All lines have been placed on mute to prevent any background noise. After the speakers' remarks, there will be a question-and-answer session.
+[Operator instructions] I would now like to hand the conference over to your first speaker today, Aleksey Lakchakov, investor relations. Please go ahead.
+Aleksey Lakchakov
+--
+Investor Relations
+Good afternoon, and thank you for joining us on today's conference call to discuss the financial results for Disco's first quarter of 2023. With me on today's call are Kiwi Camara, Disco's co-founder and chief executive officer; and Michael Lafair, Disco's chief financial officer. Today's call will include forward-looking statements within the meaning of the safe harbor provisions of the Private Securities Litigation Reform Act of 1995, including, but not limited to, statements regarding our financial outlook and future performance or future capital expenditures, market opportunity, market position, product strategy, and growth opportunities and developments in the legal technology industry. In addition to our prepared remarks, our earnings press release, SEC filings and a replay of today's call can be found on our Investor Relations website at ir.csdisco.com.
+Forward-looking statements involve known and unknown risks and uncertainties that may cause our actual results, performance, or achievements to be materially different from those expressed or implied by the forward-looking statements. Forward-looking statements represent our management's beliefs and assumptions only as of the date made. Information on factors that could affect the company's financial results is included in its filings with the SEC from time to time, including the section titled Risk Factors in the company's quarterly report on Form 10-Q for the quarter ended March 31, 2023, filed with the SEC on May 10, 2023, and the company's annual report on Form 10-K for the year ended December 31, 2022, filed with the SEC on February 24, 2023. In addition, during today's call, we will discuss non-GAAP financial measures.
+These non-GAAP financial measures are in addition to and not a substitute for or superior to measures of financial performance prepared in accordance with GAAP. Reconciliation between GAAP and non-GAAP financial measures and a discussion of the limitations of using non-GAAP measures versus our closest GAAP equivalents is available in our earnings release. And with that, I'd like to turn the call over to Kiwi.
+Kiwi Camara
+--
+Co-Founder and Chief Executive Officer
+Thanks, Aleksey. Good afternoon, everyone, and welcome to our earnings call for the first quarter of fiscal year 2023. Revenue for Q1 2023 was $33.1 million. Adjusted EBITDA was negative $13 million and total customer count grew to 1,388.
+Revenue was above the high end of our guidance range and adjusted EBITDA significantly exceeded our guidance range. We have made steady progress on the operational changes that we expect will lead to profitability, including the launch of our new office in Delhi. As Michael will share in more detail, this has allowed us to improve our adjusted EBITDA outlook for this year and pull forward our anticipated timeline for achieving positive adjusted EBITDA from Q4 2024 to Q3 2024. Q1 was a very exciting quarter for us for both the product and the sales and marketing perspective.
+First, let's talk about product. We are huge believers in AI at Disco. Recent advances in large language models that you will have read about in the news, as well as less heralded but equally important advances in technologies like Vector search, represent, in my opinion, the most important technology development since the mass adoption of the Internet in the '90s. These technologies, which AI labs throughout the world have been working on for years, are finally ready to be incorporated into products that can deliver real value to everyday users.
+In Q1, we introduced Cecilia, an integrated AI chatbot for large-scale eDiscovery. Cecilia will allow lawyers to ask natural language questions and receive narrative answers based on information in the documents in a customer's private Disco eDiscovery database. To support her answers, Cecilia will provide citations to documents in the database, allowing lawyers to verify her answers, cite evidence in support of them, and use the documents as a starting point for further investigation. Cecilia is differentiated by her ability to answer questions based on private data rather than the public Internet or public corpora of books and articles.
+To do so at eDiscovery scale in databases that may involve millions or tens of millions of documents, to cite evidence in support of her answers, and to do all this while integrated into a secure platform that lets lawyers do other legal work, like ingesting data, exploring, and analyzing documents, orchestrating large-scale reviews, and preparing productions or disclosures. We launched Cecilia at Legal Week in New York and allowed customers and prospects to begin testing her asking her questions themselves. At these initial demonstrations and in conversations with our top customers, we are hearing fantastic feedback. Lawyers immediately see the power of Cecilia to accelerate the process of understanding the facts and finding evidence in legal disputes and investigations.
+I would have loved to have had Cecilia help me on cases when I was a practicing attorney. We anticipate that Cecilia will be generally available in 2023 after an initial staged rollout. We will provide further information on pricing at that time as well. Cecilia is both the first step in our productization of modern AI technologies and a continuation of Disco's investment in AI that dates back almost to our founding.
+I have often asked about Disco AI and the direction we are going. What is Disco AI exactly? What does it do? How is it differentiated? Disco AI is a collection of technologies that is fully embedded in our platform, and that is productized to allow lawyers to seamlessly use AI in the course of legal work. Disco AI powers Predicted Tags, which helps lawyers identify documents related to particular legal issues. Our Predicted Tags technology predicts how a lawyer would tag a document based on how lawyers have tagged other documents in the past.
+For every document, Predicted Tags generates scores for each tag that indicate how likely Disco AI believes the document is to be tagged a certain way. Users can then search by these scores to find documents that are likely to be what they're looking for. They can incorporate Predicted Tag scores as part of more complicated searches in filters and search and visualization. Predicted tags can help them review documents more quickly by telling them what they should be looking for in a document.
+Predicted tags can be used to sort documents for review, ensuring that lawyers are looking at more of the important documents per unit time invested and that lawyers find more of the important documents more quickly. And Predicted Tags can be used to do real-time quality control on human reviews, identifying areas where human reviewers disagree with Disco AI's recommendation. Disco AI powers topic clustering with automatic indexing, which can take millions of documents and organize them by relevant topics labeled using terms and phrases used in the actual documents. This allows lawyers to understand what topics are covered by documents in a database before beginning a review.
+It helps lawyers learn the particular language or jargon used in a database. And in conjunction with filtering and search visualization, it lets lawyers see what topics are covered in particular subsets of a database, for example, in the documents from a particular witness or party. And Disco AI powers cross-matter AI, which allows lawyers to use models trained on earlier matters on new matters. This allows lawyers and ultimately, their clients to get leverage on the work they invested in prior matters to accelerate review on new matters that involve similar facts or similar legal issues.
+Just as a lawyer who has handled a certain kind of case many times in the past, can be more efficient than a lawyer who is handling that kind of case for the first time, Disco AI can become more and more effective as it learns across matters, not just within a single matter. When we think about Disco's product roadmap, we think about modern AI technologies, unlocking features in four areas. First is question-answering of which Cecilia is an example. Second is document analysis.
+We think modern AI can be used to tag and parse documents, labeling, summarizing, and extracting data as instructed in natural language on a document-by-document basis. Third is drafting and document generation and fourth is providing a natural language user interface for Disco's platform, where a user can simply ask the computer to do what they want, making our products even easier to use. Our ability to take modern AI and integrate it into a broad platform where lawyers already do their work and through which we have access to private data and work product to power our AI models represents a material advantage for Disco relative to pure-play AI companies. To be clear, these are ideas for future product development, not product features that we have today.
+But we believe this framework can help you understand how we are thinking about productizing modern AI technologies into our platform and give you insight into why we think these technologies will be impactful in accelerating and automating legal work and improving the experience of practicing law for our customers. Artificial intelligence is not the only element of our platform we are excited to discuss. This quarter, we also announced the release of timelines in Case Builder. Timelines allows lawyers to collaboratively create events and facts, link them to depositions, documents, and other evidence in the Disco platform and elsewhere, and assemble them into timelines and chronologies that the legal team uses to understand, develop, and present their case.
+Timelines is part of our strategy to be the end-to-end legal technology provider. Whereas eDiscovery generally occurs well into a legal matter, Case Builder is now well-positioned to capture the matter in the moment a client comes to a lawyer with an issue. Our customers have been asking for the capability that timelines provides for some time, and we are very pleased to bring it to market. There are other under-the-hood features we released this quarter as well that are core to improving Disco's capabilities.
+One example of this is live reindexing. Periodically, as we develop our products, we make changes to the underlying data or search architecture that enable improved performance or new capabilities. Live reindexing automates the process of moving databases that are on older versions of our platform to the latest versions. Previously, this was a time-consuming task managed by human engineers on a case-by-case basis.
+We believe live reindexing will improve the user experience for our clients, especially those clients whose matters tend to last for multiple years on our platform. On the sales and marketing side, Q1 was a productive quarter. The highlight of the quarter was strong funnel activity on an aggregate and per-rep basis. Across our measures such as meetings, near-term opportunities, and wins, we have been seeing acceleration since the start of the year.
+This is telling us that the operational initiatives we have been implementing internally and that we discussed on the last earnings call are starting to drive results. In our industry, neither we nor our customers know how large a matter will ultimately be, but we do control our ability to go after every deal. Our improving pipeline metrics demonstrate success in that effort. While we are pleased with the continued improvement in pipeline metrics and the resulting growth in total customers, we continue to see less usage of our platform on very large matters across all our products.
+Additionally, we continue to see pressure from our largest customers to reduce their spend on our platform by reducing the amount of data in our platform, more aggressively utilizing lower-cost Disco offerings like Disco ECA, and renegotiating total spend. Given our usage-based business model, this pressure on usage levels can mean that revenue does not grow in line with the improvement we are seeing in the pipeline metrics that we more directly control. We can sell lots of new customers and add lots of new matters without necessarily seeing the net increase in usage that would drive revenue growth. We continue to believe that the right strategy is to continue adding new customers to our platform, drive increased adoption of our platform across more matters at each customer and drive customers to adopt more Disco products.
+Over time, we believe this will result in increased usage and consequently increased revenue. In Q1, we launched our law better marketing campaign. Law better announced to the world that Disco is here to make the law work better for everyone. We launched on digital streaming services with full-length commercials, as well as the targeted digital blips on social media.
+You might have even seen our Lady Justice or Lady J on your own TV. If you have not, you should look up our spot. Our customers and new prospects have been very positive about this campaign. We are seeing high engagement with our content across all media channels.
+On our website, visitors are spending 15x more time on our campaign pages versus sitewide averages. We are seeing engagement with some of the largest legal buyers in the world coming to our website, exploring our products, and reaching out for conversations. Both Cecilia and Law Better were on full display at Legal Week in New York this past March, where we saw strong attendance, engagement with our team, and lead generation. One lawyer at the show told us that when he saw the Law Better campaign on TV, he brought his entire family in to watch.
+It's not often lawyers receive marketing attention. We are pleased with the excitement our campaign has generated among our customers and prospects. Finally, operationally, we are continuing our push to globalize with the opening of our new office in Delhi. Through our India presence, we will be able to provide 24/7 customer service and support to our customers worldwide and continue to scale out other business functions, including engineering.
+This team will augment our existing team of Discovians in North America and Europe and will be a tailwind on our path to profitability. With that, I will turn it over to Michael.
+Michael Lafair
+--
+Chief Financial Officer
+Thank you, Kiwi. In Q1 2023, revenue was $33.1 million, a decline of 4% year over year. The year-over-year decline in the quarter is attributable to the smaller matters we saw in the Review business. In discussing the remainder of the income statement, please note that unless otherwise specified, all references to our expenses, operating results, and share count are on a non-GAAP basis.
+Our gross margin in Q1 was 76%, up from 74% in Q1 of the prior year. As we mentioned before, our gross margins fluctuate from period to period based on the nature of our customers' usage, for example, the amount and types of data ingested and managed on our platform. We expect gross margin to continue to be within the bands we've historically seen. Sales and marketing expense for Q1 was $17.5 million or 53% of revenue compared to 45% of revenue in Q1 of the prior year.
+This represents an increase of approximately $1.9 million in the quarter year on year. The increase was driven by our headcount investments in 2022, as well as our marketing campaign launched in Q1. Research and development expense for Q1 was $13.1 million or 39% of revenue compared to 32% of revenue in Q1 of the prior year. This represents an increase of approximately $2.2 million in the quarter year on year.
+This growth was driven primarily by our engineering headcount investments in 2022. General and administrative expense in Q1 was $8.6 million or 26% of revenue compared to 22% of revenue in Q1 of the prior year. This represents an increase of over $0.8 million in the quarter year on year. Operating loss in Q1 was $14 million, representing a margin of negative 42% compared to negative 25% in Q1 of the prior year.
+Adjusted EBITDA was negative $13 million in Q1, a margin of negative 39% compared to a margin of negative 23% in Q1 of the prior year. Net loss in Q1 was $12.1 million or negative 37% of revenue compared to a net loss of $8.6 million or negative 25% of revenue in Q1 of the prior year. Net loss per share for Q1 was $0.20 per share compared to $0.15 per share in Q1 of the prior year. Turning to the balance sheet and cash flow statement.
+We ended Q1 with $187.6 million in cash and cash equivalents. Operating cash flow for Q1 was negative $14.8 million compared to negative $11.4 million in the prior year. On May 9, we took cost-cutting actions that impacted a number of employees across all departments. These changes are reflected in the new adjusted EBITDA guidance we are about to provide.
+Now, turning to the outlook. For Q2 2023, we are providing revenue guidance in the range of $31 million to $33 million and adjusted EBITDA guidance in the range of negative $12 million to negative $10 million. For fiscal year 2023, we are reiterating our prior revenue guidance of $135 million to $145 million and raising our adjusted EBITDA guidance from a range of negative $42 million to $38 million to a range of negative $40 million to negative $36 million. We are continuing to target Q4 2023 adjusted EBITDA margin in the negative teens.
+Additionally, we are pulling forward the anticipated timeline of our path to profitability by one quarter. We had previously shared that we expect the adjusted EBITDA positive exiting 2024. We now expect to be adjusted EBITDA positive in Q3 of 2024. Now, I would like to turn the call over to the operator to open up the line for Q&A.
+Operator?
+Questions & Answers:
+Operator
+Thank you. We will now begin the question-and-answer session. [Operator instructions] Your first question comes from the line of Koji Ikeda with Bank of America. Please go ahead.
+Koji Ikeda
+--
+Bank of America Merrill Lynch -- Analyst
+Yes. Hey, guys. Thanks for taking the questions. Maybe a question for Kiwi or Mike.
+I wanted to really focus on this AI opportunity here. And thank you for all the color on where you guys might be going. But my question here is really about how to think about Cecilia and these other AI tools. These future AI tools that you're talking about is potential TAM expander.
+And the question is around AI tools. It should drive efficiency of the end market and it could lead to maybe thinking that it could result in less data that needs to be ingested onto the platform. So, really just trying to understand the implications of how you think about these AI tools in the TAM.
+Kiwi Camara
+--
+Co-Founder and Chief Executive Officer
+It's a great question. I think we're in early days of thinking about what the technology is going to do to different categories of spend. There are no doubt areas where the use of AI will be deflationary for example, in our core Review business. Indeed, the AI that we've baked into our products over the last eight years has already been deflationary in the Review business, which is what allows us to deliver such material savings on a guaranteed basis to customers who switch from doing review using brute force armies of associates to AI-powered review using Disco Review.
+If we go forward and think about the four categories of AI use that I talked about, one is question answering that Cecilia is an example of, another is document analysis. Third is drafting and document generation and the fourth is a natural language interface to the products I think you will see a mix of both taking existing categories of legal work and reducing spend on them by making them more efficient, but you will also see an expansion of the market for legal services because there will be an expansion of what is possible using these AI technologies. To give you a very simple example, think about compliance, right? Every large bank, every large pharmaceutical company, every large defense contractor, any company that does a lot of M&A is faced with the issue of knowing whether or not there is problematic communication happening in email, in documents, in Slack, in Bloomberg Chat, right? And the traditional approach of doing audits and having lawyers review samples of those documents can be replaced by an AI-powered system that is able not only to review those documents, but ideally provide actionable feedback at minimum to the legal department and the compliance department, but eventually possibly with the supervision of lawyers to the actual humans who are creating that communication in the first place. That's just one example of many that I could give.
+But I think we'll see with the rise of AI what we've seen with the rise of other technologies that it's deflationary in some areas, while at the same time, creating many more opportunities to use technology to create value for clients.
+Koji Ikeda
+--
+Bank of America Merrill Lynch -- Analyst
+Got it. No, thank you, Kiwi, for that. And just a follow-up here, if I may, for Michael. In your prepared remarks, you mentioned in early May, there was some adjustments in the operation that's leading to the higher adjusted EBITDA outlook.
+Could you dig into that a little bit more, please?
+Michael Lafair
+--
+Chief Financial Officer
+Well, so the higher adjusted EBITDA outlook and also pulling forward our adjusted EBITDA from exiting 2024 to Q3 of 2024 is related to -- but not exclusively related to. On May 9, we committed to a plan to reduce our workforce and representing about 47 employees and roughly 8% of our current global workforce. You'll see more details about this in the Q, but that's really related to pulling our guidance.
+Koji Ikeda
+--
+Bank of America Merrill Lynch -- Analyst
+Got it. Thank you. Thank you so much.
+Operator
+Your next question comes from the line of Tyler Radke with Citigroup. Please go ahead.
+Unknown speaker
+--
+Citi -- Analyst
+Hi. This is Kylie Tobin on for Tyler Radke. And I just wanted to kind of piggyback on that last question. Can you -- with respect to those AI categories that you spoke about in the prepared remarks, which of these functionalities are you hearing customers specifically ask for the most? And as you guys look at your monetization strategy, which of these categories do you think provides the biggest opportunity for revenue uplift? Thanks.
+Kiwi Camara
+--
+Co-Founder and Chief Executive Officer
+I think we're in an interesting moment where virtually every customer has been exposed to things like ChatGPT and many customers who have been exposed to things like Midjourney. And so, you ask customers, where does your mind go to in terms of Generative AI, and you will get either My Category 1 or My Category 3. So, you'll get either question answering or document generation. But I think there are opportunities to build really amazing products and consequently really amazing businesses in all four of the categories that I talked about.
+And I'll spend time, I think, focusing on the first one because that's where we have product experiences that we've put in front of customers, and that, of course, is Cecilia. If you think about what Cecilia lets customers do, it lets them ask questions in natural language and get back narrative answers in huge collections of private data. Our demonstration of this technology happens in the database populated with Enron's emails and documents, and you can ask questions like what was Enron's business in California or even ultimate questions like did Enron commit accounting fraud? You can follow up on those questions in natural language. And I think, importantly, for the legal use case, you can get back citations to documents in the database that support the narrative answer.
+So, that allows lawyers to get comfort that the answer is not a hallucination because they can go directly to the documents and those documents can then be the basis for further investigation in Cecilia or, again, importantly, in the rest of our platform. So, one advantage of having not just the AI capabilities, but baking them into our platform is that after engaging in that Q&A with Cecilia, the lawyer can then learn from the documents that this other category of evidence is important, pull it up using search visualization collected from the client, make a production to the regulator of the court, the lawyer can seamlessly transition to deposition testimony, and so on. It's the power not just of a stand-alone AI feature but incorporating those AI capabilities into a platform where lawyers are already doing their work. I think in the near term, Cecilia is the product that is closest to GA.
+We do think it will be material to customers, and we look forward to following it up with a fast sequence of releases across the other areas that I talked about.
+Unknown speaker
+--
+Citi -- Analyst
+Thanks very much. That's really helpful. And maybe one for Michael. The 2Q guidance, it assumes continued year-over-year revenue declines, but the full year implies a reacceleration in the business over the last few quarters.
+So, how are you thinking about the back half of the year? And what kind of uplift are you anticipating from Cecilia or any of these new AI capabilities? Are they going to show up in FY '23 or will they potentially show up in FY '24? Thank you.
+Michael Lafair
+--
+Chief Financial Officer
+So, Cecilia and these kind of newer technologies are not baked into our guidance for 2023. I do believe that technology is incredibly amazing. And I'll just mention that I'm old enough to be in the room that I recall, pack and the dot-com or many of the companies that were very successful that we all know of were start-ups. And one of the things that I think is most exciting about Cecilia is the fact that we have the data on our platform, and I think we and others in our position where we have the data, other companies, and other industries can leverage this new technology and basically build on what we've been doing for years.
+We've been doing AI for years. And Cecilia, I do believe, is going to be incredibly helpful for us and our clients. In terms of the guidance, for the back half of the year. It does obviously require reacceleration of our revenue.
+We are seeing in the pipeline and the funnel some positive signs, and there is our expectation and optimism that that's going to turn into reacceleration of the revenue. And so, we are optimistic on where we're going to end the year.
+Operator
+Your next question comes from the line of Jackson Ader with SVB. Please go ahead.
+Jackson Ader
+--
+SVB Leerink -- Analyst
+Great. Good evening, guys. Thanks for taking our questions. The first one is on Kiwi, your commentary on the large customers and larger matters, reducing their usage and their spend with you.
+Just curious -- are they reducing the usage and going to other providers that maybe have more of a legal service display with them or are there just not the level of activity or the level of matters that maybe existed a year or two ago?
+Kiwi Camara
+--
+Co-Founder and Chief Executive Officer
+No. I'm sure there may be a handful of exceptions. But what I'm talking about is not large customers defecting to the competition. It's just large customers reducing their usage on our platform.
+And to give you a sense of what I mean, there are things you can do on the margin of any case that would increase or decrease your usage of our platform. For example, if you are not closely managing the bottom line, you might just collect lots of data broadly from lots of witnesses, toss it into the platform. You get to the review when you get to the review. Once you've conducted the review, you leave all the data up there as you go through the downstream parts of litigation like depositions, motions for summary judgment trial, you might even leave the data up during dependency of the appeal.
+It's not that you aren't doing anything with it, but you're coming in there occasionally over the course of sometimes a multiyear period as the litigation unfolds. So, that was true for many of our large customers for many years, call it, for 10 years. What we've been seeing lately is as some of these legal departments come under pressure to provide cost savings as part of a broader company focus on profitability. For our large customers, Disco's line item can be material to them.
+And so, it occurs to them to see what they can do to reduce the total cost of their Disco usage. And so, what they can do is trim various parts of that workflow that I talked about, instead of collecting data from every witness imaginable, maybe we can collect data from fewer witnesses instead of loading it immediately, maybe we can wait a month or two and load it closer to the discovery deadline. Instead of leaving it up there, maybe we can call it down so that we leave only the most relevant parts up there and archive the rest in a way where it can be restored but isn't consuming active usage in Disco. And maybe when the case is resolved rather than keep the data around because there is a prospect for follow-on related litigation, maybe we take it down, and we'll simply reload it later if we need to.
+Another piece that I talked about in my prepared remarks is, of course, the use of Disco ECA, early case assessment, which is a set of capabilities that allows customers to load large volumes of data at a lower price point, explore and prioritize that data using tools like Disco AI and search visualization and then promote data out of Disco ECA into active review at a higher price point. We've seen an uptick in usage of Disco ECA. Again, we think that's a phenomenon of customers, especially large customers being a little bit more careful about their volume of usage on our platform.
+Jackson Ader
+--
+SVB Leerink -- Analyst
+OK. All right. Thank you. That was thorough.
+Michael, any kind of functional details that you can provide on the 47 people in the workforce reduction, whether it was sales or R&D or something like that?
+Michael Lafair
+--
+Chief Financial Officer
+It was across all departments.
+Jackson Ader
+--
+SVB Leerink -- Analyst
+OK. Got it. Thank you.
+Operator
+Your next question comes from the line of Derrick Wood with TD Cowen. Please go ahead.
+Derrick Wood
+--
+TD Cowen -- Analyst
+Great. Thanks for taking my questions. Nice job on the rebound in new customers. I guess looking back to Q4, what do you think caused that blip? And give us a sense for what average deal sizes for new customers are trending versus maybe what it looked last year -- what it looked like last year? And then just, I guess, as you look at new customer generation looking forward, it sounds like you have good healthy pipelines being built.
+Do you see any kind of behavior where people are investigating ChatGPT or there are new start-ups that are talking about Generative AI capabilities and potential for a longer sales cycle given what's going on with Gen AI right now?
+Kiwi Camara
+--
+Co-Founder and Chief Executive Officer
+Sure. So, on customer count, we're delighted by the rebound to what has been sort of more historical rate of new customer additions in the quarter. I don't think there's really anything magical to it. If you break it apart into its components, what strengthened is churn, right? So, deactivations improved quarter over quarter, contributing to the higher net add number, which is, of course, positive.
+Related to both of your questions, when we think about customers in their first year, some of these numbers can be a little bit complicated because until a customer gets to, say, three active matters or six active matters, it's possible for the customer to add a matter, hit two matters and then touch zero at some point before coming back. So, you have some of that bouncing around in the numbers. It also complicates thinking about what is the average deal size because when you sign up the customer, they simply sign a contract that has unit pricing. And then the size of that deal will be determined by how much data is involved in the first case or a couple of cases that they put on the Disco platform.
+But zooming out a little bit kind of in the aggregate, think about customers starting out in the middle five figures kind of spend and then growing over time to low six figures, middle and upper six figures, and then our biggest customers winding up in the low seven figures. And again, that journey historically took sort of three to five years in more recent times, sometimes that journey has been accelerated for logos, especially when there is a repeat buyer at the logo, meaning someone who went through a Disco adoption journey at a prior company switches companies and then adopt Disco at the new company. I don't think we've seen any material trend in terms of the size of first-year spend.
+Derrick Wood
+--
+TD Cowen -- Analyst
+OK. Just the follow-up on the second question around how often is ChatGPT coming into conversations. I think you mentioned that every customer is aware of it now, every company is. I mean, is that creating some part of the sales cycle on a conversation? And are there any different vendors showing up in deal cycles?
+Kiwi Camara
+--
+Co-Founder and Chief Executive Officer
+So far, it's been an accelerator. We were, of course, delighted to be able to announce Cecilia, our question-answering service for eDiscovery at Legal Week a couple of months ago in March. We had tremendous reaction at the show. We had a big event at the end of one of the days where we had hundreds of people come in and did a live unveiling.
+Of course, lots of one-on-one meetings following up with customers then and lots of interest from customers in the months that have followed so tremendous demand there. I think it's been a door opener, both for customers, new and existing, who are interested in Cecilia, but also, it's just an opportunity to go talk about the rest of the Disco product portfolio, so a form of lead generation. We haven't seen, I think, much change in eDiscovery in the competitive set based on GPT so far. And we've seen even less impact in our other product areas.
+But if I were a predicting person, I would say that we will see competition both from incumbents and presumably from start-ups in both eDiscovery and review likely first, and we'll see other AI applications in other areas. In terms of facing that competition, I think Disco is in a very good position because, of course, we've been doing AI for eight years now. And as Michael pointed out, we have the advantage of having access not only to a large collection of private data that is very hard for other people to obtain, but also lawyers are doing their work in our platform. And so, we get lots of what we used to call training data.
+It's observations of how layers interact with label and annotate the data in our platform, all of which can be used to train these models. I think another thing that you're seeing with some of these AI releases is how they're compounding. So, the company that releases the first great chatbot gets not only market share, but they also get all the signal that comes from people interacting. What questions are they asking? What follow-ups do they ask? Which questions do they like or dislike? And so, we think that's another benefit of being early to market with products like Cecilia, it's not only grabbing share early on but also grabbing an unfair share of the training data that can be used to power subsequent AI releases.
+Derrick Wood
+--
+TD Cowen -- Analyst
+Great. Thank you. Well, excited to see the new product come to market later this year. Thanks.
+Operator
+Your next question comes from the line of Arvind Ramnani with Piper Sandler. Please go ahead.
+Arvind Ramnani
+--
+Piper Sandler -- Analyst
+Hi. Thanks for taking my question. I wanted to kind of just go back to kind of the Review business, right? Like, I mean, if you have any update on that? I know there was fairly volatile. Has that kind of stabilized? And what's your kind of outlook on the Review business?
+Kiwi Camara
+--
+Co-Founder and Chief Executive Officer
+I do have a cautious update to share about the Review business. So, first, finally, it is up quarter over quarter, which is good, although modestly. Second, this is a quarter where -- so not only are all the big-ticket reviews gone, but the tail of all those big-ticket reviews is completely out of the number. And then additionally, we talked about improvement in the pipeline metrics that we look at.
+So, how many opportunities are there, how many wins are there, what are the win rates, and so on? And I can tell you, given where we are today, we are seeing finally an uptick in the Review business. I want to pair that optimism with caution. We will report on Q2 results when we report on Q2 results. But I think two good facts are it seems like we're back in the state of growth in that business and all of the big-ticket items and their tails are fully out.
+Arvind Ramnani
+--
+Piper Sandler -- Analyst
+Terrific. And then you certainly provided a lot of color in your prepared remarks and the past Q&A on AI. But I didn't want to kind of think about how should we think about it, right? Like, I mean, there's one part -- one way of looking at this and saying, like, hey, you have Cecilia and to be an AI product-driven company from the beginning, and this is not like a fact that you're chasing, right? So, it feels like you're in a unique position to take advantage of these broader developments in AI technology. But on the other hand, what you also mentioned as part of Q&A is like there's going to be these incumbents, either like start-ups or other companies kind of -- that have been in the business kind of really sharpening the product with AI.
+Of course, you'll have -- you did clarify you have a large data set and a unique data set that helps you train things a lot better. But is this still like a mix thing? We have to see like -- is it mixed -- AI is mixed for you all or do you really look at it as an opportunity or is there a potential for being a threat as well?
+Kiwi Camara
+--
+Co-Founder and Chief Executive Officer
+I think AI is clearly an opportunity. And I can tell you, it's not just the product things, but it's -- I'm not sure if I put this in my prepared remarks. But for me, I have not been as excited about any fundamental technology advance since the mid-90s web, which is -- I was in school at the time, that's what convinced me to study computer science. And we talked a bit about how we're going to bake some of these AI technologies into the products.
+I can also share with you that throughout Disco internally, we have launched an aggressive campaign to take every part of our business and use AI. Everything from drafting, communications, and internal documents to -- we've trained internal chatbots across the entire knowledge base and ticket responses so that we're able to give people first drafts of what they should be saying to customers and answer internal questions about how our products and systems work. And I think that's just the beginning. So, I think AI is a huge opportunity.
+I do think you're right, though, that part of AI being such a huge opportunity is that there are large categories of legal work, including some of the work that we either accelerate or do that are going to be largely automated as AI is better productized and becomes even more effective. To give you an example, I don't believe that in 10 years, there will be a lot of lawyers reading documents. That is going to be obsoleted using AI. I would, of course, believe that Disco is in the best position to do that obsoleting.
+And so, the way I might phrase this, I think we're a little bit like Netflix when Netflix made the shift from DVDs in the mail to streaming. We are well-positioned to go take advantage of this opportunity. But if we do not take advantage of this opportunity, then I think our prospects wouldn't be great.
+Arvind Ramnani
+--
+Piper Sandler -- Analyst
+Terrific. Thanks for clarifying that. Really appreciate it.
+Operator
+Your next question comes from the line of Brent Thill with Jefferies. Please go ahead.
+Luv Sodha
+--
+Jefferies -- Analyst
+Hi. This is Luv Sodha on for Brent Thill. Thank you, Kiwi and Michael, for taking my questions. Maybe first for Kiwi, I know in your prepared remarks, you talked a little bit about the fact that revenue might not grow in line with the pipeline improvement that you've seen.
+I guess going forward, is this more of a near-term trend or should we expect this to be more of a longer-term trend? And if it isn't a near-term trend and what gives you confidence that it will rebound more in the longer term?
+Kiwi Camara
+--
+Co-Founder and Chief Executive Officer
+So, the only thing I can do is to report on what we're seeing in the market as we see it. And what I tried to convey in my prepared remarks is what we are hearing from our largest customers, and it's -- there's nothing fancy about it. It's -- we are at companies where suddenly profitability and EBITDA matters a lot more. And we've received, just like every other department, a mandate from finance saying we would like you to cut budgets by X percent.
+And when Disco is a small line item, sometimes that mandate misses us, right? But when Disco is a big line item as it is at our largest clients, then the client calls us and says, hey, we've received this mandate from finance. How can we help -- how can you help, rather? And our first response to them is always that the way to reduce legal spend is to buy more Disco. And sometimes that works, it really does. In other times, we get further along in that conversation, and we start either negotiating total spend or thinking about ways that usage can be reduced in that discussion with our large clients.
+We try to ensure there is something for both sides. And maybe we help the client achieve its profitability or cost-cutting goals in the near term in exchange for longer-term commitments or an agreement to roll out a broader swath of Disco products. But those kinds of conversations from our largest clients were simply not conversations that we were having during the 10-plus years in our history of economic boom times, and they do present a headwind to growth. In terms of whether they will continue, I don't have anything special to add other than I have faith in the U.S.
+economy and the world economy. And at some point, we won't be in such grimly perceived economic times. And when that happens, I don't expect that there will be any fundamental change in the trends that show increased exposure to legal issues for companies operating around the world and increased volumes of data because of the rise of not only email and documents, but also application data, things like chat streams, application data like JIRA, Slack, Salesforce, video, audio, and so on. So, I guess what I'm saying is I'm a believer in those same long-term trends as opposed to some questions we seem to be getting from customers that are driven by a short-term desire to improve profitability.
+Luv Sodha
+--
+Jefferies -- Analyst
+Got it. Perfect. And one quick follow-up for Michael if I may. Just a quick question on -- given the beat this quarter and you're not flowing through the beat into the full-year guide.
+I guess -- and the fact that comps keep getting easier sequentially. Could you just give us some color into what's being baked into the guidance for the full year? Thank you.
+Michael Lafair
+--
+Chief Financial Officer
+Yeah. So, we -- in terms of the back half of the year, it obviously does require reacceleration of the revenue. We do look at, and as Kiwi mentioned, at our metrics every week, every day, and our pipeline review metrics, our funnel metrics. And we are seeing positive signs.
+We have seen some positive signs that we believe will lead to the revenue growth and the reacceleration of the revenue that we need to hit our numbers for the full year.
+Luv Sodha
+--
+Jefferies -- Analyst
+Got it. But just to be clear, are you baking in more conservatism now than you did, say, three months ago?
+Michael Lafair
+--
+Chief Financial Officer
+No.
+Luv Sodha
+--
+Jefferies -- Analyst
+OK. Thank you.
+Operator
+Your next question comes from the line of Scott Berg with Needham. Please go ahead.
+Rob Morelli
+--
+Needham and Company -- Analyst
+Hi. This is Rob Morelli on for Scott. Thanks for taking the question. Understanding it might be too early to have a concrete answer here.
+But last quarter, you mentioned a push toward corporate versus selling it to law firms. Do you have any insight into that push and how it's fared so far to get an understanding specifically? Thank you.
+Kiwi Camara
+--
+Co-Founder and Chief Executive Officer
+Yeah, that's terrific. That's a shining point, I think, for Disco. We shared some numbers in our annual earnings calls of the last earnings call about total number of corporate direct, logos. And I believe we also shared the growth of that on a year-on-year basis, which exceeded overall logo growth substantially.
+So, this has been a strategy of ours over the long term. And it is, of course, since the beginning, the dollars that have flown into Disco as revenue have always come from the budgets of corporate legal departments. But earlier in our journey as a company, we were much more dependent on law firms as a channel to go reach the ultimate decision maker in the legal department of large enterprises. And as the company has grown and especially following our IPO, I think we've been viewed by many of those customers as a more credible partner to work with directly and perhaps a partner that they have more confidence will be around for the long haul.
+In any event, whatever the reason we've seen substantial success in being able to forge those relationships directly. We have a constituted enterprise sales group that is maniacally focused on growing and forming new corporate direct relationships. We think it's very much part of the future.
+Rob Morelli
+--
+Needham and Company -- Analyst
+Got it. Thank you. And then understanding Cecilia is not looped into the updated guidance. As you look across your product portfolio, what sales or use of modules are you anticipating will drive another revenue growth acceleration that's implied in your updated guidance? Thanks.
+Kiwi Camara
+--
+Co-Founder and Chief Executive Officer
+Well, our two -- our original product, Disco eDiscovery, still represents the vast, vast majority of revenue. And so, growth in that product line is the lion's share of overall growth. I think we are having growing optimism about review contributing to growth, although that, again, you have to let all of the comps roll off. And this quarter, Q1 is the first quarter where all of the big-ticket review at its tail has fully dropped out.
+So, I do think review can be a contributor. And then the newer products, we think can be material percentage contributors of growth but because of the scale of those businesses, they're not likely to be big movers of overall top-line growth. So, eDiscovery, Review, and a dash of everything else.
+Rob Morelli
+--
+Needham and Company -- Analyst
+Got it. Thank you.
+Operator
+Your next question comes from the line of Parker Lane with Stifel. Please go ahead.
+Matthew Kikkert
+--
+Stifel Financial Corp. -- Analyst
+Hi. This is Matthew Kikkert on for Parker. Thanks for taking my questions. I'd love to touch on the new office you opened in India.
+What kind of incremental impact do you think that offering 24/7 customer support will be able to give you? Secondly, how quickly do you believe you'll see a return on this investment? And do you foresee any other international growth this year?
+Kiwi Camara
+--
+Co-Founder and Chief Executive Officer
+We're very excited about the launch of the Delhi office. And we are treating it -- many companies in our space and of course, in many spaces, have treated their India presences as low-cost expansion -- the term we tried to avoid is offshoring. We don't think about the Delhi office that way. We think there is the same caliber of talent available in Delhi as there is in London and New York.
+And over time, we intend to build the Delhi office into a full-fledged office across essentially every department of our business. And we've made great strides toward accomplishing that already and intend to continue growing that office over the course of the year. I think one of our learnings from the experience during COVID hasn't been that we really like remote work, but it has been that we can have these multiple centers of excellence in a kind of a global nexus of talent, Austin, New York, London and then Delhi. So, that's how we think about it.
+We think that globalization gets us access to better talent and obviously also has the effect of improving our profitability profile. We have nothing else to announce on the globalization front right now, but I think we are open to the idea of announcing a similar expansion in the future. Some of that, of course, will depend on the overall rate of headcount expansion in the business. In terms of 24/7 sport, we've always provided 24/7 support, but probably Delhi makes the lives of the Americans a little bit better since they don't have to stay up at night.
+Matthew Kikkert
+--
+Stifel Financial Corp. -- Analyst
+Got it. Thanks for the color. That's all for me. Thank you.
+Operator
+Your next question comes from the line of David Hynes with Canaccord Genuity. Please go ahead.
+David Hynes
+--
+Canaccord Genuity -- Analyst
+Thanks, guys. So, Kiwi, look, in your answer to both Jackson's and Luv's questions, you talked about how and why a core eDiscovery customer may be looking to trim their spend. But I think when you put a comment out there without any quantification it's going to make investors nervous, right? So, is there any way you can put some bands around the magnitude of trimming that you're seeing? I mean, is it 5%? Is it 10%? Is it more or less? Like anything to help us think about how that impacts the numbers would be super helpful.
+Kiwi Camara
+--
+Co-Founder and Chief Executive Officer
+We'll take that as good feedback. We don't have anything for you now. I can give you not in the aggregate, but I'm involved in most of these conversations, so I can sort of anecdotally share with you. Sometimes it can be a little bit -- you have to disambiguate just the ordinary ups and downs of usage and then the sort of keep usage -- keep the legal matters fixed but reduce the amount of usage of the Disco platform on those legal matters.
+Again, don't hold us to these exact numbers. But sort of color-wise, I would put it in the kind of 10%, 15%-ish range for a big customer, but I want to wrap that in all the disclaimers that can be given. That's purely anecdotal.
+David Hynes
+--
+Canaccord Genuity -- Analyst
+Yes. Understood. OK. And then, Michael, a follow-up for you.
+So, the guidance implies that opex goes down in Q2. I presume based on the timing of the restructuring you talked about today, opex probably goes down a little bit more in Q3. From there, like what kind of opex growth are you embedding in the assumption that you can get to breakeven by Q3 '24? Like, does opex just kind of stay flat at that Q3 level, or how are you thinking about it?
+Michael Lafair
+--
+Chief Financial Officer
+I mean -- so there's -- I mean, we've talked about this before, there's four levers to us getting to path to profitability. I will tell you that we're very committed to the path to profitability. And in my prepared remarks, we talked about where we expect EBITDA will be in Q4 of this year. We also provided color on the full-year adjusted EBITDA numbers that we're targeting and also hitting adjusted EBITDA positive in Q3.
+There's four ways to get there. One is revenue growth, two is COGS and optimization and how we kind of work with AWS and the other vendors that hit COGS, and also obviously, the below-the-line AWS cost. There's non-staff costs, just like we have some customers that Kiwi talked about who are approaching us to manage their total spend on the platform. I can tell you that we are doing the same thing with all of our vendors and partners to optimize and manage our overall non-staff, a lot of its software spend.
+And then obviously, our overall globalization effort and the New Delhi office is obviously part of our plan. So, there's a big mix in how we're going to get there, but I will tell you we're very committed to getting there.
+David Hynes
+--
+Canaccord Genuity -- Analyst
+OK. Sounds good. Thank you, guys.
+Operator
+And your final question comes from the line of Mark Schappel with Loop Capital Markets. Please go ahead.
+Mark Schappel
+--
+Loop Capital Markets -- Analyst
+Hi. Thank you for taking my question. Just going back to Cecilia. I was wondering if -- you talked a lot about Cecilia from a product perspective.
+Just wondering if you could talk about it from a go-to-market approach or maybe just talk a little bit about some of the activities that you have planned or you're currently undergoing with respect to your sales force to bring them up to speed on the new product and capabilities.
+Kiwi Camara
+--
+Co-Founder and Chief Executive Officer
+Sure. Let me talk about it at a couple of different levels. So, first, companywide at Disco, I kicked this off with an all-hand some time ago, announcing not only our intent to bake these modern AI technologies into our products, but as I talked a bit about our intent to bake these modern AI technologies into the way we work in every part of our company. So, there is an ongoing campaign of education so that you can pick an SDR at Disco or someone working in business intelligence or someone working in engineering and ask them what's going on with large language models and what's an embedding and so they can tell you that and they can tell you how those technologies can be applied to make there and their colleagues work more efficient.
+So, at the biggest picture level, that's going on. In terms of the rollout, we synchronized the announcement with Legal Week this year, a couple of months ago. At Legal Week, we did a series of invitation-based suite meetings, as well as a big party where we did public demo, as well as hourly demonstrations at the booth. Since then, we've done a series of meetings with prospects and select new customers where we give them the opportunity to learn about the technology and to play with the product directly, right? So, to ask questions of Cecilia directly, gauge the answers, form the review about how applicable it would be to their practice.
+We've also done webinar-style presentations to broader audiences. And next week, we'll be at CLOC Legal Operations Conference, one of the larger conferences in the space. So, there's that kind of awareness-building and, frankly, demand-building going on in the field. We have also enabled the sales team and the solutions architect team to be able to have these conversations with clients, and we've enabled a number of our partners to amplify the messaging around Cecilia.
+As we get closer -- well, there's going to be a phased rollout where we're going to expose our largest existing clients to Cecilia, allowing them to use it on their own matters and collecting important early feedback, and then that will be followed by general availability. We are still working on the commercial terms that will surround general availability, and we'll have more to announce as we get closer to that time.
+Mark Schappel
+--
+Loop Capital Markets -- Analyst
+Great. Thank you. That's all for me.
+Operator
+And there are no further questions at this time. I will turn the call to Kiwi Camara, co-founder and CEO, for closing remarks.
+Kiwi Camara
+--
+Co-Founder and Chief Executive Officer
+Thank you for joining us today, and thank you for your interest in Disco.
+Operator
+[Operator signoff]
+Duration: 0 minutes

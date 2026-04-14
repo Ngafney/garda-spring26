@@ -1,0 +1,252 @@
+[
+  {
+    "speaker": "Unknown",
+    "role": "",
+    "text": "Full Conference Call Transcript Bill Brennan, Credo Technology Group Holding Ltd's chief executive officer, and Daniel Fleming, our chief financial officer. During this call, we will make certain forward-looking statements. These forward-looking statements are subject to risks and uncertainties discussed in detail in our documents filed with the SEC, which can be found in the investor relations portion of the company's website. It is not possible for the company's management to predict all risks, nor can the company assess the impact of all factors on its business, or the extent to which any factor or combination of factors may cause actual results to differ materially from those contained in any forward-looking statement. Given these risks, uncertainties, and assumptions, the forward-looking events discussed during this call may not occur, and actual results could differ adversely and materially from those anticipated, implied, or inferred. The company undertakes no obligation to publicly update forward-looking statements for any reason after the date of this call, to conform these statements to actual results or to changes in the company's expectations, except as required by law. Also, during this call, we will refer to certain non-GAAP financial measures, which we consider to be important measures of the company's performance. These non-GAAP financial measures are provided in addition to, and not as a substitute for or superior to, financial performance prepared in accordance with U.S. GAAP. A discussion of why we use non-GAAP financial measures and reconciliations between our GAAP and non-GAAP financial measures is available in the earnings release we issued today, which can be accessed using the investor relations portion of our website. I will now turn the call over to our CEO, Bill."
+  },
+  {
+    "speaker": "Bill Brennan",
+    "role": "",
+    "text": "Thanks, Daniel. And thank you all for joining our third quarter fiscal 2026 earnings call. I will start by walking through our Q3 results, give an update on our business, and share our view on our long-term opportunities. After my remarks, Daniel Fleming, our chief financial officer, will provide a detailed financial review of the third quarter and our guidance for the fourth quarter. We will then open the call for questions. In the third quarter, we delivered record revenue of $407,000,000, a sequential increase of 52% and more than 200% from Q3 last year. We delivered non-GAAP gross margin of 68.6% and generated approximately $209,000,000 of non-GAAP net income. Over the past 18 to 24 months, maximizing network reliability and energy efficiency have been our core mandates as we have built our roadmap and brought new products to market. In AI infrastructure, performance without reliability stalls clusters, and scale without efficiency strains both economics and power envelopes. The strategy is clear: accelerate cluster bring-up, maximize XPU utilization, and reduce total cost of ownership, all while providing our customers the highest reliability in the industry. Our recent performance reflects the most accelerated growth phase in Credo Technology Group Holding Ltd history. From fiscal 2024 to fiscal 2025, we more than doubled revenue. And from fiscal 2025 to current year, fiscal 2026, we expect to triple revenue on top of that. That represents greater than six times growth in just two years. Few companies, particularly in semiconductors, have scaled at that pace while maintaining consistent execution, healthy margins, and product leadership. Our purpose-built SerDes NICs, vertically integrated system model, and deep hyperscaler partnerships win at scale. We established leadership in high-reliability copper connectivity and built strong position in optical DSPs and retimers. Now our strategy is to lead in reliability, power and signal integrity across the full spectrum of AI and data center connectivity, from die-to-die links to chip-to-chip and board-level links, to rack- and row-scale copper, to mid-reach optical, and to resilient facility-wide optical solutions. By extending both inward toward the silicon and outward across the data center, we are positioning Credo Technology Group Holding Ltd to encompass the entire connectivity fabric of AI infrastructure. Each layer of connectivity is being fundamentally reshaped by demand for higher bandwidth and faster data rates. AI workloads continue to grow in parameter size, model complexity, and cluster scale, driving sustained transitions from 100G to 200G per lane, and to 400G per lane in the upcoming years. At the same time, architectures are becoming more complex, power envelopes are tightening, and reliability requirements are rising. We believe the industry's persistent push towards higher speed and larger clusters continues to expand our long-term opportunity and our ability to win. I will now discuss our business in more detail. Our AEC product line once again delivered strong growth, driven by existing customers and new wins, including our fifth hyperscaler. Demand is accelerating across both hyperscalers and emerging neocloud providers. We continue to believe the industry is early in its AEC adoption. As AI clusters scale, reliability and power efficiency have become the primary design constraints. AECs are now the de facto standard for intra-rack and rack-to-rack connectivity up to seven meters, increasingly displacing laser-based optical modules. Their reliability and power advantages are driving broad adoption. Our Zero-Flat AECs deliver up to 1,000 times better reliability than commodity laser-based optics while consuming roughly half the power. In XPU clusters where downtime can cost millions, network reliability matters. We are supporting large-scale deployments at 100G per lane today and expect a long-tail deployment at those speeds. We are fully prepared to support strong industry momentum towards 200G per lane, or 1.6T ports. Our 1.6T AECs will support Ethernet, UALink, and ESUN protocols. Additionally, our PCIe Gen 6 AECs are sampling now and will be released to mass production in first half fiscal 2027. Our vertically integrated system-level model remains a key competitive advantage. We take end-to-end ownership, from SerDes leadership in silicon innovation to system design and qualification, deep telemetry, and supply chain execution, positioning us for sustained leadership. I will now turn to our IC business, including our retimers and optical DSPs. Our IC portfolio spans both optical and copper connectivity across 50G, 100G, and 200G per lane speeds. We expect strong optical DSP growth in fiscal 2026, driven by 100G per lane deployments with increasing traction at 200G as customers prepare for 1.6T transitions. For Ethernet retimers, we are seeing significant growth with our 100G per lane solutions in both traditional switching fabrics and the rapidly expanding AI server segment. Our PCIe Gen 6 retimers remain on track, with fiscal 2026 design wins expected to convert to production revenue in fiscal 2027. Customer feedback has been consistently stellar. We are delivering an unequaled combination of industry-leading reach, latency, and power efficiency. We are also excited about Blue Heron, our 200G per lane retimer that is purpose-built for scale AI. It leverages our expertise to deliver long reach, energy efficiency, and advanced telemetry, with support for UALink, Ethernet, and ESUN protocols. These IC solutions address a large and growing market opportunity. As the industry transitions to 200G per lane, we see substantial growth potential across multiple protocols. I will now discuss our three most recent product pillars, where we have made meaningful progress since their announcements last year. At a high level, these products significantly expand our total addressable market by extending Credo Technology Group Holding Ltd's reach across the full spectrum of connectivity lengths inside the data center. I am pleased to report that our progress with Zero-Flat Optics is ahead of schedule. As noted in our recent press release, we began production shipments with our first neocloud customer, TensorWave. In addition, we are in qualification with three additional customers, including hyperscalers and neocloud operators. At a high level, data centers today face major challenges with extended cluster bring-up times and uptime degradation created by the inherent link flap instability of commodity laser-based transceivers. Our Zero-Flat Optics were designed to address these challenges directly through tightly integrated hardware, optics, firmware, and our Pilot software, with switch-level SDK integration. Zero-Flat Optics deliver continuous link health telemetry and autonomous detection and mitigation of potential link flap events before they impact the cluster. This enables a step-function improvement in network reliability. From a TAM perspective, Zero-Flat Optics allow us to address optical connectivity spanning any length within the data center. Based on strong customer traction, we now expect to see a significant production ramp beginning in 2027 and continuing throughout the year. Next, I will discuss Active LED Cables, or ALCs. ALCs extend our system-level AEC philosophy into mid-reach optical. By combining Credo Technology Group Holding Ltd's connectivity architecture with the microLED expertise gained in our Hyperlume acquisition, we are creating a new system-level product category that delivers the reliability and power profile of an AEC with a thinner-gauge optical cable capable of reaching up to 30 meters. This makes ALCs ideal for row-scale AI networks, where copper reach becomes limiting and traditional pluggable optics introduce reliability, power, and cost disadvantages. ALCs expand our TAM outward from short-reach copper into mid-reach optical, bridging the gap between AECs and conventional optical modules. We expect to sample and qualify our first ALC products in fiscal 2027 and production ramp in fiscal 2028. Finally, our OmniConnect line of products drives our reach inward toward the silicon to further expand our TAM. OmniConnect combines our purpose-built VSR SerDes with a family of gearboxes for XPU connectivity. Our first product, Weaver, enables up to a 10x improvement in memory beachfront I/O density with reach up to 10 inches. By converting VSR to DDR, Weaver overcomes the physical fan-out constraints of traditional memory-to-compute interconnects. Our first OmniConnect customer, Positron, plans to leverage this architecture to deliver an inference XPU with 2 TB of memory capacity, enabling substantial bandwidth gains in memory-intensive workloads such as real-time AI video generation. We expect the production ramp for the first OmniConnect gearbox to be in fiscal 2028. We expect to introduce additional gearboxes over time to enable a composable architecture where the same XPU design can be optimized for inference or training workloads and be future-enabled as speeds or protocols change. We will also develop an OmniConnect gearbox targeting near-package optics with microLED that will address the reliability, serviceability, and availability pitfalls of current CPO solutions while, at the same time, reducing power significantly. To wrap up on the business update, we are proud of our record performance and even more energized by the opportunity ahead. With continued growth in AECs and ICs, and three new multibillion-dollar TAM expansions through Zero-Flat Optics, ALCs, and OmniConnect, we have meaningfully broadened our near- to long-term opportunity. We remain confident in our ability to innovate, scale, and grow in the expanding AI infrastructure landscape through our focus on delivering solutions with best-in-class network reliability and energy efficiency. I want to take a moment to express strong appreciation for our silicon operations and system product operations teams. They have done an outstanding job managing supply, scaling production, and executing flawlessly in the face of significant upside demand from our customers. Their ability to respond quickly and reliably has not only enabled our record performance, but has also become a distinct competitive advantage and truly a reason customers choose Credo Technology Group Holding Ltd. In an environment where execution matters as much as innovation, operational excellence is a differentiator. I will now turn it over to Daniel Fleming for a detailed financial review of Q3 and our Q4 guidance."
+  },
+  {
+    "speaker": "Daniel Fleming",
+    "role": "",
+    "text": "Thank you, Bill, and good afternoon. I will first review our Q3 results and then discuss our outlook for Q4 of fiscal year 2026. In Q3, we reported revenue of $407,000,000, up 52% sequentially and more than tripling year over year, and at the high end of our revised guidance range. Notably, our revenue again grew healthy double digits sequentially to achieve new record revenue levels once again based on substantial year-over-year growth across four domestic hyperscale customers. Our top three end customers were each greater than 10% of revenue in Q3. As a reminder, customer mix will vary from quarter to quarter. We continue to expect that three to four customers will be greater than 10% of revenue in the coming quarters and fiscal year, and we continue to make progress in diversifying our customer base across hyperscalers, neoclouds, and other customers. Note that with product revenue representing the vast majority of total revenue, we will no longer break out product and IP as separate line items in our income statement. Our team delivered Q3 non-GAAP gross margin of 68.6%, above the high end of our guidance range and up 92 basis points sequentially. Total non-GAAP operating expenses in the third quarter were $77,400,000, above the high end of our guidance range due to our strong R&D investment and up 35% sequentially. Our non-GAAP operating income was $201,800,000 in Q3, compared to non-GAAP operating income of $124,100,000 in Q2, up demonstrably due to the leverage attained by achieving more than 50% sequential top-line growth while OpEx growth was in the mid-30s. Our non-GAAP operating margin was 49.6% in the quarter, compared to a non-GAAP operating margin of 46.3% in the prior quarter, a sequential increase of 327 basis points. Our bottom line once again demonstrated the substantial leverage we are delivering in the business. Our non-GAAP net income was $208,800,000 in the quarter, a record high and a 63% sequential increase compared to non-GAAP net income of $127,800,000 in Q2. Our Q3 non-GAAP net income quadrupled from Q3 of last year, which clearly demonstrates the magnitude of our top-line growth, strong gross margins, and our disciplined approach to scaling operating expenses. Our non-GAAP net margin was 51.3% in the quarter. Cash flow from operations in the third quarter was a record $166,200,000, up $104,600,000 sequentially. CapEx was $26,500,000 in the quarter, driven largely by purchases of production mask sets, and free cash flow was $139,700,000, up more than $100,000,000 from the second quarter. We ended the quarter with cash and equivalents of $1,300,000,000, an increase of $487,900,000 from the second quarter, driven by the proceeds of our ATM offering, which began in October and ended in December, and our strong free cash flow. We remain well capitalized to continue investing in our growth opportunities while maintaining a substantial cash buffer. Our Q3 ending inventory was $208,000,000, up $57,800,000 sequentially. Now turning to our guidance. We currently expect revenue in Q4 of fiscal 2026 to be between $425,000,000 and $435,000,000. We expect Q4 non-GAAP gross margin to be within a range of 64% to 66%. We expect Q4 non-GAAP operating expenses to be between $76,000,000 and $80,000,000. And we expect Q4 diluted weighted average share count to be approximately 197,000,000 shares. These expectations are based on the current tariff regime, which remains fluid. As we look ahead to fiscal 2027, we expect sequential revenue growth in the mid-single digits leading to more than 50% year-over-year growth. We will now open for questions."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Thank you, sir. At this time, I would like to remind everyone, in order to ask a question, press star then the number one on your telephone keypad. You will be limited to one initially; however, you may rejoin the queue to ask further questions as time permits. Our first question comes from Tom O'Malley, Barclays."
+  },
+  {
+    "speaker": "Tom O'Malley",
+    "role": "",
+    "text": "Bill, you mentioned that you saw a ZF Optics ramp in the first fiscal quarter of next year, and you talked about substantial size. Maybe you could compare what a ZF customer engagement looks versus an AEC customer engagement. And then longer term, if you see kind of the similar pattern to what you have seen in AEC with the customers that you are mentioning I think you mentioned three here all representing some significant size, or do you think there is more variation in the customer set when it comes to ZF Optics?"
+  },
+  {
+    "speaker": "Bill Brennan",
+    "role": "",
+    "text": "Yes. I think that comparing the customer activity with AECs, I think it is a good way to look at it. Now understand that we have been in development on ZF Optics for going on two years, and so we are well along the path towards not only developing the solution and a reminder to everybody, it is the first time anybody has taken an optical transceiver up the stack to deliver real-time telemetry data so you can make real-time decisions, identifying and mitigating potential link flaps before they happen so, basically, taking network reliability far beyond what you are able to achieve with commodity laser-based optics. And so, to highlight that, these products have gone through our own qualification internally, where we harden the solution even prior to sending it to customers for qualification. So it is very similar in the sense that we are delivering a solution to our customers for qualification that is fully vetted. And so, moving from providing samples to going right into qualification with the customer is what we are seeing. And so that is why we highlighted the fact that, although last quarter we signaled that the ramp would occur in second half fiscal 2027, we feel confident now saying that ramp is going to start in first quarter, noting that we have already shipped production units. And so we feel great about it. We did an announcement with our first customer, TensorWave, on both the AECs as well as ZF Optics. It is really great confirmation that the portfolio we are delivering is really offering next-level overall reliability as our customers build out their clusters. I mentioned also that we are talking with hyperscalers as well as other neoclouds. We are so early in the process of promoting this product that we could not be more excited about the fact that we think this is going to be such a strong ramp through our fiscal 2027."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Your next question comes from Tore Svanberg from Stifel."
+  },
+  {
+    "speaker": "Tore Svanberg",
+    "role": "",
+    "text": "Yes. Congratulations on the record results. Bill, maybe you could just level set us a little bit here. We are still in very early stages of AECs. Obviously, there is a lot of excitement around CPO. So maybe you could just help us with what is driving some of the use cases for AECs right now. How should we think about those developing, especially in fiscal 2027 and fiscal 2028? Thank you."
+  },
+  {
+    "speaker": "Bill Brennan",
+    "role": "",
+    "text": "Yes. So I think the narrative on AECs is very similar to what has been played out up to this point. There are several areas within the data center network where AECs make a really compelling solution, really almost becoming de facto in inter-rack as well as now, more than ever, we are seeing rack-to-rack solutions that are within the reach of seven meters. What is driving it is network reliability and power efficiency. I would only say one of our customers, we are really fully penetrated on all the swim lanes, and those being GPU-to-host connections, in the scale-out network, front-end connections within those same racks, and then disaggregated switch racks. Those are really the swim lanes that we have talked about. We see really great growth opportunity not only for 100G per lane deployments as we see those increasing, but also as we see a shift to 200G per lane, it is even a stronger value proposition at those speeds. That is going to help us drive more volume as well as there is an uplift in ASPs. You mentioned the narrative on CPO, and, look, this narrative has been one that has existed in different forms for the last decade. It started with MBOM, mid-board optical modules, then moved on to onboard optics. It has moved on to many different acronyms over time. The bottom line is just recently, I think there has been a bit of a signal-to-noise ratio issue in the market, and the noise right now is dominating the signal. It is not an either-or type of situation. It is about deploying the right technology at the right reach and the right power envelope. We see the industry evolving even more so to a heterogeneous mix of short-reach copper, pluggable optics, near-package optics, and eventually CPO. The strong interest we have seen in Zero-Flat Optics is a clear indicator that reliability matters more than ever now, as AI networks are the bulk of the deployments and as these clusters scale. The bottom line is that until NPO and CPO solutions can deliver bulletproof reliability, deployments are going to be somewhat limited, which is why many of the forecasters show low single-digit share in the switching market over the next three years. Our investments are heavily focused on reliability. When we are talking about technologies that will deliver the higher density and reach promised by CPO and NPO, our focus is on delivering the same reliability as AEC and ZF Optics. Hopefully, that gives you color based on your CPO comment."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Joseph Cardoso from JPMorgan has the next question."
+  },
+  {
+    "speaker": "Joseph Cardoso",
+    "role": "",
+    "text": "Hi. Thanks for the questions, and congrats on the results. Maybe just wanted to get an update on how you are thinking about the composition of the 50% plus growth heading into next year. As we think about the AEC opportunity continuing to ramp, but also confluencing with the material ramps of other areas of the portfolio like the PCIe solutions, optical products, etc. Can this be a year where we start to see a more material contribution from the non-AEC offerings in the portfolio and where they can drive a more material portion of the mix as early as fiscal 2027, or is the expectation really that is more of a fiscal 2028 story and beyond? Thanks."
+  },
+  {
+    "speaker": "Bill Brennan",
+    "role": "",
+    "text": "I think that it is fair to say that we will see a different composition between copper and optical in our fiscal 2027, specifically as ZF Optics ramp. With that, I will say that we do expect growth in AECs, we expect growth in ICs, and then the new wave of growth will come with Zero-Flat Optics. Within that IC and the AECs, that will include the PCIe business that we are earning. In fiscal 2028, we expect to layer in our Active LED Cables, or ALCs, and, in addition, our first gearbox as part of the OmniConnect family. That is really fiscal 2028."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Your next question comes from Vivek Arya from Bank of America."
+  },
+  {
+    "speaker": "Vivek Arya",
+    "role": "",
+    "text": "Just a clarification to Daniel first on what drove the upside, almost $60,000,000 plus upside. Was there a one-off or anything else in your projects in the reported quarter? And then, Bill, I wanted to get back to you on this question of how complementary versus competitive is AEC versus optical solutions because over the last three months, we have seen this massive divergence in the performance of stocks of your optical peers. And just this morning, we saw NVIDIA invest in two of your optical peers. So why is that not a very important and credible pushback that the market for AEC might be limited? I just wanted to get your views on where copper versus optical is competitive and where they are more complementary. Thank you."
+  },
+  {
+    "speaker": "Daniel Fleming",
+    "role": "",
+    "text": "Hey, Vivek. So let me address your first question regarding what drove that strength, and I will answer a question that was not asked as part of my answer. If you look at our top 10% customers for the quarter, we have just continued to see strength across all of our hyperscale customers. In fact, our top three customers all grew sequentially from Q2 to Q3, so that really drove that growth. And our largest three customers in Q3 were also our largest in Q2, as you would expect, but in a different order. Let me just talk briefly about our largest customer. They were 39% of revenue, and they were also the same customer that was our largest customer in Q1. So that was quite a large increase quarter to quarter for them. The second largest customer was 32%, and they were our largest customer last quarter. And then finally, our third 10% customer was 17% of revenue, and that was the first hyperscaler that we had to ramp."
+  },
+  {
+    "speaker": "Bill Brennan",
+    "role": "",
+    "text": "And relating to the question about the AECs versus optical, or actually how they complement each other, really, nothing has changed in the narrative. I think you mentioned NVIDIA. I think they have been really outspoken that where you can use copper, you will use copper. The reasons are very basic why somebody would choose an AEC over, say, a laser-based optical module. That is really reliability, number one; power efficiency, number two; and ultimately, total cost of ownership, number three. That equation is not going to change. As we go towards 200G per lane, 1.6T deployments, there is an effect that as you go faster, the length of connection is going to decrease slightly. We believe from seven meters to five meters. If you look at our investments over the last couple of years, it has been heavily weighted towards optical, as we have talked about. There is tremendous demand in the optical space, and that is in addition to the demand in the AEC space as well. Our approach is fundamentally different and we think suits us well, which is to focus on delivering bulletproof reliability, again by going up the stack with real-time continuous telemetry on each link to be able to identify links that are degrading in signal integrity and being able to mitigate by taking those links down in a proactive manner, an orderly manner. I will also say that the work we are doing on Active LED Cables, ALCs, is about delivering a different class of optical product one that is, at a base technology level, as reliable as copper. You get the same reliability profile, the same energy efficiency profile, the same cost profile, but you get reach initially up to 10 meters, and then next step will be 30 meters. That is going to be a really unique new product category as we talk about the heterogeneous world between copper and different forms of optical."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "The next question comes from Quinn Bolton, Needham and Company."
+  },
+  {
+    "speaker": "Quinn Bolton",
+    "role": "",
+    "text": "Hey, guys. I guess given all the noise in the market around CPO and optical, I was wondering if you could kind of just discuss in further detail two products. One, your Blue Heron DSP for scale-up AEC connections. Are you seeing interest in that? And then sort of a similar question on, Bill, I think in the prepared comments you talked about OmniConnect gearbox with an ALC CPO solution somewhere down the road. Can you give us any sense on timing when you would have an ALC CPO solution potentially coming to market? Thank you."
+  },
+  {
+    "speaker": "Bill Brennan",
+    "role": "",
+    "text": "Sure. So I want to note, first of all, that the bulk of our revenue from AI is really in scale-out. We do not have any revenue for scale-up. In fact, that market is relatively small in comparison today. There is great promise that the scale-up market will grow, especially as it goes from rack scale to row scale, and that is driving a lot of these conversations. The Blue Heron product that we introduced and announced our first customer, Upscale AI, is a 200G per lane retimer that supports UALink, ESUN, Ethernet. We will build AECs with this product as well. As that scale-up opportunity takes shape, we are going to have a full portfolio of products that we can offer. As it relates to my comments about OmniConnect, yes, it is a very straightforward path to basically extend the OmniConnect architecture to add a gearbox that converts from VSR to microLED. The work we are doing with ALCs is going to be the proof point. Ultimately, there is going to be a direct line of sight on doing a gearbox that takes that VSR conversion to, say, a pigtail that you can connect microLED with. That is going to give a relatively straightforward lower-risk path to a near-package optics solution. Again, that solution is going to be delivered with bulletproof reliability. It is going to be done at a power that is much less than laser-based CPO."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "The next question is from Sean O'Loughlin, TD Cowen."
+  },
+  {
+    "speaker": "Sean O'Loughlin",
+    "role": "",
+    "text": "Hey, guys, thanks for letting me ask a question, and I will add my congrats on a really incredible set of results. I had a quick clarification. I think last quarter, you mentioned that you expected the fourth hyperscale customer to represent greater than 10% of revenues for the full fiscal 2026. Obviously, you mentioned three 10% customers this quarter. Is that still your expectation for the full fiscal year? And then on the OpEx guide, I was a little bit surprised to see that it was almost flat quarter over quarter, after a pretty big step up last quarter. But with all the irons in the fire, including the acquisition this morning, is there just some constraints around whether it is hiring qualified mixed-signal engineers, or is there something else going on in OpEx, or am I just overthinking all of this and you are just executing to your roadmap? Thanks."
+  },
+  {
+    "speaker": "Daniel Fleming",
+    "role": "",
+    "text": "Yes. So let me address the first question first. With regard to our fourth hyperscaler that we talked about, we made those comments last quarter. We have obviously experienced a lot of upside really driven by our largest customer this quarter and the current timeframe. So that may make the math while they are still in line with our expectations from 90 days ago they may not be a 10% customer for the full year, if that makes sense. With regard to OpEx, a couple of dynamics there to note. One is, there was a large step up this quarter for R&D spend. One thing to note is that it was off a relatively light spend in Q2. In addition, I highlighted two things: project-related spend and hiring. The project-related spend was higher than has been typical related to a lot of these things that we are working on. So if that were to come down, you might have some incremental hiring; they just happened to kind of offset for the quarter. So that is the underlying dynamics in our Q3 to Q4 R&D spend, if that helps you out."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Vijay Rakesh from Mizuho is up next."
+  },
+  {
+    "speaker": "Vijay Rakesh",
+    "role": "",
+    "text": "Yeah. Hi, Bill and Dan. Just a question on the 1.6T ramp. I think as you go to 1.6T, most of the big hyperscalers still seem to have not talked much about CPO. So is your assumption that as 1.6T ramps into 2027, 2028, that it will be predominantly copper? And, as you mentioned, the ASP bump, that should drive pretty nice upside there between the adoption of copper and the ASP?"
+  },
+  {
+    "speaker": "Bill Brennan",
+    "role": "",
+    "text": "Yes. For the 200G per lane market, we very much see that market is going to be addressed by AECs and then a combination of laser-based modules. We will have the ALCs that ramp into that market as well, but that would be what I would consider the new product category. I think CPO is still sometime in the future beyond that. We see our customers ramping 200G programs really at very different schedules. Of course, NVIDIA is going to lead the charge with Vera Rubin, but many other customers will follow on a slower timeline. So we do expect to see very strong business in all three categories that I just mentioned. We will have ZF Optics that are going to be delivered in that timeframe. I will say from an optical DSP standpoint, we are getting a lot of uplift right now for LRO. Power is becoming a much more important thing as our customers go to 200G per lane. I think we have a really nice position. You mentioned ASPs, and that is right. There is going to be an uplift from 800G to 1.6T across the board, across the entire portfolio. So we feel great about the way we are positioned there."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Your next question is from Quinn Bolton, Needham and Company."
+  },
+  {
+    "speaker": "Quinn Bolton",
+    "role": "",
+    "text": "Guys, since we are the follow-up, just wanted to ask: you guys announced the Comira acquisition this morning. Looks like that is kind of more Layer 2 stuff, right MAC, PCS, MACsec security. Are you buying that just to kind of enhance the IC products that you have done historically, or is this a move to try to get into more Layer 2 solutions down the road? Thank you."
+  },
+  {
+    "speaker": "Bill Brennan",
+    "role": "",
+    "text": "Yeah. Appreciate the question. We did not have a chance to get it in the prepared remarks given the fact that it closed basically right at the same time. But we feel great about the combination of bringing Comira into Credo Technology Group Holding Ltd. We have been collaborating with Comira as an IP partner since 2022, and Comira has a really strong reputation in protocol IP, error correction, as well as security IP technologies. So we view this as a strengthening of our ability to deliver complete system-level connectivity solutions. You alluded to maybe going up. Yes, absolutely. That is part of the opportunity. We feel great strategically about this. The fact that they will be dedicated to Credo Technology Group Holding Ltd projects now will accelerate our end-to-end connectivity roadmap and expand the overall platform."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Thank you. The next question is from Sebastien Cyrus Naji from William Blair."
+  },
+  {
+    "speaker": "Sebastien Cyrus Naji",
+    "role": "",
+    "text": "Yeah. Thank you for taking the question. There has been a lot of focus lately on supply chain constraints, including the high cost of memory. I guess, what type of supply chain risks are you seeing for Credo Technology Group Holding Ltd, if any? And is there anything in the supply chain that could emerge as maybe a gating factor to your growth in some of the coming quarters?"
+  },
+  {
+    "speaker": "Bill Brennan",
+    "role": "",
+    "text": "Yes. I think we got a little bit out in front on this topic last quarter. I feel great about our supply chain for Credo Technology Group Holding Ltd, and that includes wafers in all of the different product categories that we have talked about, and that encompasses 12 nanometers, 7, 5, and 3. We did a lot of work over the last quarter to make sure that we were aligned with our supply chain partners, not only on the wafer level but also the packaging level. I think it is clear that we are going to be able to support our plan as well as upside that we expect. In the market, we are absolutely in uncharted territory where I think supply chain is going to become more and more of a differentiator. As it relates to the supply chain issues that are outside of our normal IC builds, I would say from a system level, there are no issues from a supply chain standpoint there. I will say at an industry-wide level, memory has all of a sudden been a concern. If anything, we can look at the first OmniConnect product, Weaver, as almost a solution to some of the pain points, where we enable the use of DDR over HBM, which I think is probably the tightest area within the memory market right now. Outside of that, there has been a lot of conversation about lasers, but from a ZF Optics perspective, we feel that we have more than underpinned our demand for 2027 and really beyond."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "The next question today comes from Jim Schneider, Goldman Sachs."
+  },
+  {
+    "speaker": "Jim Schneider",
+    "role": "",
+    "text": "Afternoon. Thanks for taking my question. Bill, it was helpful to hear you lay out the progression of your various product lines, optical products, over the next couple of years. I was wondering if you could maybe just give us a sense of how we should be modeling the strength of those optical products, a sense of where we might end fiscal 2027 in terms of their contribution. Are these something that could be sort of 15% to 20% of total revenues of the company at an exit rate, or should we be modeling something a lot less than that? Thank you."
+  },
+  {
+    "speaker": "Daniel Fleming",
+    "role": "",
+    "text": "Yeah. We have not been too specific in that. But if you look at where we are this year based on how we have guided Q4, you will end up just north of $1,300,000,000. Fifty percent growth gets you to nearly $2,000,000,000 for next year. Bill did mention that we expect AEC to continue to grow fiscal 2026 to fiscal 2027. So there will be a significant we think it will be a material component of our fiscal 2027, specifically ZF Optics. But as that progresses and as our customer engagement continues with that product line, we will give you an update as we enter the new fiscal year next quarter."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Your next question is from Suji Desilva, ROTH Capital."
+  },
+  {
+    "speaker": "Suji Desilva",
+    "role": "",
+    "text": "Hi, Bill. Hi, Dan. Congrats on the progress here. Just quickly, how many customers do you expect to be ramping ZF Optics across in the coming fiscal year? And just a longer-term question on the gearbox. You talked about being able to handle training and inference in the same architecture. I was curious if you could elaborate on that opportunity. It sounds interesting."
+  },
+  {
+    "speaker": "Bill Brennan",
+    "role": "",
+    "text": "Sure. Absolutely. You got me confused with the second question. What was the first again? The Zero-Flat Optics how many customers do you think you will be ramping it across in fiscal 2027? Well, my expectation is throughout fiscal 2027 we are a bit early talking about fiscal 2027 but my strong expectation is that we will ramp more than four. We have four in qual now, and so I expect to add to that list. I should reiterate that it is a combination of hyperscalers as well as neoclouds. The second part of your question was on the OmniConnect. If you can imagine, the key enabler for OmniConnect is really our VSR SerDes that sits on the XPU side of the connection, and gearboxes are put together that mirror that VSR SerDes and then gearbox it to something else. I think it is pretty clear for memory that a first DDR gearbox would be for five. You can imagine as the market shifts to LPDDR6 that all you have to do you would not have to reshape an XPU you could just simply change the gearbox, and then you would have that inference capability with that next-generation memory. You can also imagine, say, building a scale-up gearbox. At first, the first gearbox might be a Gen 7 and Gen 6 combo, where that XPU has got that same VSR SerDes and the gearbox would take those 100G lanes and gearbox them to either Gen 7 or Gen 6 PCIe. You can imagine when 200G per lane is really ready for that given customer, you could just simply drop in a new gearbox that would support 200G per lane with any of the protocols we have talked about Ethernet, UALink, or ESUN. You could extend that case to scale-out as well. You could have a gearbox that would, say, improve say the first one that might be 200G per lane as soon as 400G per lane was ready, you could simply drop in a new gearbox that would gearbox lanes of 100G up to 400G per lane. So you are talking about having the ability to build an XPU that becomes composable based on different markets and becomes composable based on the future-enabled aspect of just being able to upgrade the gearbox to either the next speed or the new protocol."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "The next question comes from Christopher Rolland, Susquehanna."
+  },
+  {
+    "speaker": "Christopher Rolland",
+    "role": "",
+    "text": "Hey, guys. Thanks for the question. I guess the first one is probably to you, Bill. Just about AEC applications and kind of where this may be moving around. If you could talk about where you think you are being used in terms of front-end versus scale-out, scale-up, or traditional cloud where you are being used today, and what this looks like over the next couple of years in terms of changes."
+  },
+  {
+    "speaker": "Bill Brennan",
+    "role": "",
+    "text": "Yes. I would say the part of the network that is probably where we are strongest is on scale-out. This is where we really see the full benefit of AECs as we are talking about leading-edge speeds, and we are talking about the part of the network where reliability really means faster time to cluster stability as well as continuous uptime. We do very, very well in scale-out. Front-end kind of comes along with it. We are also seeing a couple customers now that are deploying in switch racks or disaggregated chassis. So it is really across the board, but I would say our real strength is in scale-out."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Next up is Karl Ackerman, BNP Paribas."
+  },
+  {
+    "speaker": "Karl Ackerman",
+    "role": "",
+    "text": "Yes. Thank you. Bill, perhaps a follow-on to the question earlier. You indicated much of your AI revenue for AEC products is for scale-out networks, but how should we think about the $5,000,000,000 TAM for AECs split between front-end versus back-end links between a server NIC s networking switches? And, Dan, could you speak to why gross margins are guided down roughly 360 basis points at midpoint of your outlook? Is it just conservatism? Is it near-term product mix? Anything around that would be helpful. Thank you."
+  },
+  {
+    "speaker": "Daniel Fleming",
+    "role": "",
+    "text": "Yeah. Let me address the gross margin question first. Overall, as you mentioned, in Q3, gross margin at 68.6%, up 92 basis points sequentially. Over the last seven to eight quarters, we have really seen a significant benefit to increasing scale. But we have also been very persistent in saying that gross margin expansion will not always be linear as we continue to increase scale. There will always be differences from quarter to quarter in product mix, and we are conservative in the way we forecast. We have not changed our long-term expectation in the 63% to 65% range for gross margin, and we have clearly entered this phase where we are at or above that high end of that long-term expectation. So it is really just a function of how we view the world and how we forecast our gross margin, and it is a very conservative forecast."
+  },
+  {
+    "speaker": "Bill Brennan",
+    "role": "",
+    "text": "Right. On the question about the AEC TAM and the $5,000,000,000 number, we are not the group that really focuses too much on the top-down forecast. We leave that to the market forecasters. But I can give you my perspective on the market opportunity. Largely, the market opportunity that we see is scale-out networks. I think that will transition into some share of the scale-up networks as they become deployed. Of course, front-end is going to be smaller than scale-out, probably on the order of 20% to 25% of the total scale-out market as we see it. The disaggregated switch market that one is yet to be seen, but that could be a significant TAM if we see that kind of architecture deployed broadly, which there is a good case to be made for."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Tore Svanberg from Stifel. Your line is now open."
+  },
+  {
+    "speaker": "Tore Svanberg",
+    "role": "",
+    "text": "Thanks. I just had a follow-up. So this pull-in of the ZF Optics business, Bill Is that just mainly because of certain technical milestones or other market dynamics? The reason I am asking the question is because, obviously, there are concerns about availability of commodity lasers. So just trying to understand exactly what is driving that pull-in by a few quarters."
+  },
+  {
+    "speaker": "Bill Brennan",
+    "role": "",
+    "text": "Oh, the pull-in is being driven by customers pulling it. This is a real indicator that, as we have said many times regarding AECs, reliability is really critical, again from the standpoint of the time to bring up a cluster and the uptime that you can expect after that point of stability. It is a direct improvement in productivity. As AECs have been much more popular as a result of people getting it, the minute that we talk to our customers about ZF, we talk about extending that reliability into the optical space. It is very rare that somebody would say, Yeah, I really do not want that. So it has been really customer pull that has caused us to feel more confident in articulating that we expect the ramp to happen early in 2027, early next quarter. From a supply chain standpoint, understand we have been working on this for two years. We have had the mindset that we would carry the same model from AECs into ALCs and into ZF Optics. We have been out there underpinning supply along the way. We have made firm commitments with our supply chain partners. We feel very confident about our ability to ramp, even though we pulled in six months."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "And, everyone, there are no further questions at this time. Mr. Brennan, I will hand the call back to you for any additional or closing remarks."
+  },
+  {
+    "speaker": "Bill Brennan",
+    "role": "",
+    "text": "Thank you. I really appreciate the ongoing interest and support in Credo Technology Group Holding Ltd. We will talk to you all very soon. So, again, thank you very much."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Once again, ladies and gentlemen, this does conclude today s conference call. You may now disconnect."
+  }
+]

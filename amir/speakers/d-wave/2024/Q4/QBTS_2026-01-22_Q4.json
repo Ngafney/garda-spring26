@@ -1,0 +1,262 @@
+[
+  {
+    "speaker": "Unknown",
+    "role": "",
+    "text": "Full Conference Call Transcript"
+  },
+  {
+    "speaker": "Alan Baratz",
+    "role": "",
+    "text": "Thanks Kevin. Good morning everyone and thank you for joining us today. It s a remarkable time to be leading one of the world s preeminent quantum computing companies, and it is incredible how much has happened since we spoke to you last quarter. Big companies like Google, Nvidia, Amazon and Microsoft all made quantum headlines recently, fueling debate among quantum industry skeptics, enthusiasts and undecideds as to when quantum will be able to solve real problems. At D-Wave, we are seeing firsthand the value that quantum is providing today for hundreds of companies. I m not talking about 15 or 30 years from now, I m talking about today. We recently laid out a framework to help people formulate an informed position on quantum. We call it Quantum Realized, and it s very simple - first, does a quantum company have technology that can solve complex problems better or faster than classic computing alone? Second, are the quantum systems highly performant, reliable and available; and third, does the quantum company have proven commercial customer successes in proofs of concept and in production application deployment? These are the criteria that customers need to see to realize real value today, and we believe that there is only one company that can meet all those criteria right now, and that is D-Wave Quantum. It s a very exciting time for D-Wave. Our business momentum continues and we have never been in a stronger position as a company. We are making tremendous progress with our technical development milestones and scientific achievements most recently evidenced by yesterday s peer reviewed publication in Science of our demonstration of quantum supremacy on a real world problem. We re the only quantum company that can claim it has outperformed classical on a useful problem of relevance to business and science today. You can also see the momentum in our business results as we closed the first sale of an Advantage system to the Jülich supercomputing center, which led to record quarterly bookings of $18.3 million in the fourth quarter of 2024. The momentum is also reflected on our balance sheet, where we now have over $300 million in cash on hand which we believe is enough to get us to sustained profitability. As previously stated, we expect to be the first pure play quantum company to reach profitability and with less cash invested than any of our competitors. We truly are a market leader. We were the first to launch commercial quantum systems, the first to have quantum applications running in production for commercial customers, and now the first to achieve a demonstration of quantum supremacy on a real world problem. D-Wave is quantum realized. Let me now walk you through some key business highlights, starting with technical achievements. We are proud to be the first in the world to demonstrate quantum supremacy on a useful real-world problem. This groundbreaking work was achieved using our 1,200 qubit Advantage 2 prototype annealing quantum computer, and it was published in a peer-reviewed paper in Science on March 12. Unlike other attempts, this achievement is the world s first and only demonstration of quantum computational supremacy on a useful problem and with relevance to customer problems today in material science. D-Wave s quantum computer performed the complex simulation in minutes and with a level of accuracy that would take nearly one million years using one of the world s most powerful supercomputers. In addition, it would require more than the world s annual electricity consumption to solve this problem using the supercomputer, which is built with graphics processing unit, or GPU clusters. It s a truly remarkable achievement. We encourage you to check out the paper today on science.org. Development of our sixth generation annealing quantum computer, Advantage 2 is rapidly progressing and we recently announced the calibration of a third 4,400 qubit Advantage 2 processor. Compared with the current Advantage system, the Advantage 2 processor delivers significant performance gains with doubled qubit coherence time, which drives faster time to solution, a 40% increase in energy scale for higher quality solutions, and increased qubit connectivity from 15 way to 20 way, enabling solutions to larger and more complex problems. Next, let me turn to our commercial momentum. In February, we announced the first sale of a D-Wave Advantage annealing quantum computing system to the Jülich supercomputing center in Germany. The system has already been installed at Jülich and we expect it will be connected to the Jupiter supercomputer, Europe s first and only exascale high performance computer. By owning the system, Jülich has full control over all aspects of the system, which will enable them to work on breakthroughs in AI and quantum optimization applications. I should also note that this is not an in-kind transaction or a research grant, it is the sale of a commercial grade quantum computer. Jülich prepaid for the system in the fourth quarter and this is a highly profitable sale for D-Wave. We have received substantial interest from other potential customers about purchasing an Advantage system as they recognize the significant benefits of owning a system outright. It enables them to tightly integrate with existing classical and high performance computing systems, leverage and tune system parameters, and take advantage of new system innovations such as advanced analog digital features as they are developed. We see system sales as an important component in our go-to-market strategy moving forward. That said, it s important to note that we expect to focus on the quantum compute as a service model with the vast majority of our commercial customers, who are most interested in running business applications. We continue to work with customers on developing a variety of quantum and hybrid quantum applications, including drug discovery with Japan Tobacco, insurance portfolio optimization with Leithà, the technology and data factory of Unipol, a leading Italian insurance company, and optimization of police vehicle deployment with North Wales Police. In addition, we recently announced a commercial hybrid quantum application built with our partner s stack that simulates and optimizes movements of autonomous agriculture vehicles. We believe that this could have important benefits to farmers as they adopt autonomous agriculture machines in order to scale and increase the output of their fields, with quantum computing providing the analysis, speed and accuracy to help maximize production and minimize cost. We re also seeing increased interest from the broader industry in hearing about D-Wave and our technology s near term value at major events and conferences. Just yesterday, I was at the annual SXSW conference sharing the momentous news of our quantum supremacy result and discussing how organizations are realizing tangible benefits from our quantum computing systems. I talked about how our quantum computers are now providing faster, more accurate and less expensive solutions than classical computers for evolutionary applications such as optimizing mobile networks, creating more efficient workforce schedules, and streamlining automotive manufacturing. Next week, I will be at Nvidia s GTC Quantum Day, where I will have the opportunity to educate people on the benefits of annealing quantum computing, D-Wave s differentiated market position, and how we re solving customer s computational complex problems right now at scale while others remain stuck in research and development. On the heels of GTC Quantum Day, I invite you all to join us on March 31 at D-Wave s annual Qubit User Conference in Scottsdale, Arizona. We are really excited about the line-up of company executives, customers and industry thought leaders that will address the ways that D-Wave products are delivering value to customers now. You will hear from speakers including Charles Payne of Fox Business Making Money with Charles Payne, IDC, Davidson Technologies, Jülich, Japan Tobacco, NTT Docomo, Quantum Research Sciences, SAS, Pusan National University, and the University of Southern California, among others. We expect this event will be a powerful demonstration of quantum realized. Turning now on a couple of updates on our go-to-market growth strategy, we recently announced our quantum uplift program, offering incentives to organizations that have been disappointed with the results they ve seen from competitors quantum systems. We hear a lot of dissatisfaction when talking to potential customers about the lack of reliability and uptime they experience with competitor systems, and more importantly those systems inability to solve practical real world problems. For those customers, we believe that D-Wave can help them start to realize the benefits of quantum and hybrid quantum now. To accelerate adoption of our annealing quantum computing technology, we announced the Leap Quantum LaunchPad program, a three-month trial that provides access to D-Wave systems, our Leap real time quantum cloud service, and our team of quantum experts for project support. We believe that this program can expand the universe of organizations using quantum to solve their complex problems today. We also continued to build out our management and leadership bench. In November 2024, we announced the appointment of Sharon Holt to our board of directors. Sharon adds significant experience in the technology sector as an executive investor and board member. She has worked with semiconductors, embedded technologies and intellectual property, and has quickly become a very valuable addition to our board. Finally, let me close with some quick comments on our financials. As I noted, the signing of the Jülich deal drove $18.3 million in bookings for Q4 of 2024, and that s a 502% increase over the fourth quarter of 2023. I also noted that we were paid for that deal during the fourth quarter, which brought in a substantial amount of cash. We also completed two separate ATM programs in the fourth quarter that brought in a total of $175 million in gross proceeds in 2024, which resulted in a record cash position of $178 million at year end. In January of this year, we raised an additional $150 million in gross proceeds from another ATM program, which led us to a current cash balance in excess of $300 million. I will reiterate that we believe that this is sufficient capital to get D-Wave to profitability and we continue to believe we will reach that milestone faster than any other independent quantum company and with far less total investment. Last, in a few minutes you will hear from John that we expect our fiscal year 2025 Q1 revenue to exceed $10 million. With that, I ll hand it over to John to provide a review of the fourth quarter and fiscal year 2024 results. John?"
+  },
+  {
+    "speaker": "John Markovich",
+    "role": "",
+    "text": "Thank you Alan, and thank you to everyone taking the time to participate in today s call. In my review of the fiscal 24 and fourth quarter results, I ll be providing non-GAAP operating metrics including bookings, as well as non-GAAP financial metrics that include non-GAAP gross profit, non-GAAP gross margins, adjusted net loss, and adjusted EBITDA loss, as we believe these metrics improve investors ability to evaluate our underlying operating performance. These measures are defined in the tables at the bottom of today s earnings press release, with the non-GAAP financial metrics for the most part adjusting for non-cash and non-recurring expenses. Revenue for fiscal 24 was $8.8 million, essentially flat with fiscal 23 revenue of $8.8 million. As Alan highlighted previously, bookings for fiscal 24 were a record $23.9 million, which is an increase of 128% or $13.4 million from the fiscal 2023 bookings of $10.5 million. With respect to customers, we continue to broaden and diversify our customer base across commercial, government and research customers. In comparing fiscal 2024 with fiscal 2023, D-Wave had a total of 135 customers in fiscal 2024 compared with a total of 133 customers in fiscal 2023, that includes 59 research institution and government customers in 2024 compared with 55 in fiscal 2023, and 76 commercial customers in fiscal 2024 compared to 78 in fiscal 2023, with the commercial customers including 28 Forbes Global 2000 customers in fiscal 24 compared with 27 in fiscal 23, with such customers constituting 37% of the total number of commercial customers in 2024. GAAP gross profit for fiscal 24 was $5.6 million, an increase of $1 million or 20% over fiscal 2023 gross profit of $4.6 million, with the improvement primarily to an increase in higher margin QCaaS revenue and a decrease in stock-based compensation expense in the cost of sales. Non-GAAP gross profit for fiscal 2024 was $6.4 million, an increase of $300,000 or 5% from fiscal 2023 non-GAAP gross profit of $6.1 million. GAAP gross margin for fiscal 2024 was 63%, an increase of 10.2% from fiscal 23 GAAP gross margins of 52.8%. The non-GAAP gross margin for fiscal 2024 was 72.8%, an increase of 3% from the fiscal 2023 non-GAAP gross margin of 69.8%. Again, the difference between GAAP and non-GAAP gross profit and gross margin is limited to non-cash stock-based compensation and depreciation and amortization expenses that are excluded from the non-GAAP gross profit and gross margin measures. Net loss for fiscal 2024 was $143.9 million or $0.75 per share, compared with the fiscal 2023 net loss of $82.7 million or $0.60 per share. The increase was due primarily to a $68.3 million non-cash, non-operating charge related to the re-measurement of the company s warrant liability, which materially increased as a result of the significant increase in the value of the company s warrants that correlated with the price appreciation of D-Wave s common stock. Excluding this re-measurement charge, the net loss for fiscal 2024 was $75.6 million or $0.39 per share, a decrease of $7.3 million or $0.21 per share from the fiscal 2023 net loss of $83 million or $0.60 per share. Adjusted EBITDA loss for fiscal 2024 was $56 million, an increase of $1.7 million or 3% from the adjusted EBITDA loss of $54.3 million in fiscal 2023, with the increase due primarily to higher operating expenses driven by our increased investment in our go-to-market and research and development organizations. With respect to the fourth quarter operating results, revenue in the fourth quarter of fiscal 2024 totaled $2.3 million, a decrease of approximately $600,000 or 21% from the fourth quarter of fiscal 2023 revenue of $2.9 million. Bookings for the fourth quarter were a record $18.3 million, an increase of $15.3 million or over 500% when compared to the fiscal 2023 fourth quarter bookings of $3 million. GAAP gross profit for the fiscal 2024 fourth quarter was $1.5 million, a decrease of approximately $500,000 or 25% from the fiscal 2023 fourth quarter gross profit of $2 million, with the decrease due primarily to lower professional services revenue that was partly offset by higher QCaaS revenue. Non-GAAP gross profit for the fourth quarter was $1.7 million, a decrease of approximately $600,000 or 28% from the fiscal 2023 fourth quarter non-GAAP gross profit of $2.3 million. GAAP gross margin for the fiscal 2024 fourth quarter was 63.8%, a decrease of 3.9% from the fiscal 2023 fourth quarter GAAP gross margin of 67.7%. Non-GAAP gross margin for the fourth quarter was 73%, a decrease of 7.2% from the fiscal 2023 fourth quarter non-GAAP gross margin. Net loss for the fourth quarter was $86.1 million or $0.37 per share, compared with a net loss of $16 million or $0.10 per share in the fourth quarter of fiscal 2023. Again, the increase was primarily due to the aforementioned $68.3 million non-cash, non-operating warrant liability re-measurement charge. Excluding this charge, the fourth quarter net loss was $17.8 million or $0.08 per share, an increase of $1.5 million and a decrease of $0.03 per share from the fiscal 2023 fourth quarter net loss of $16.4 million or $0.10 per share. Adjusted EBITDA loss for the fourth quarter was $15.3 million, an increase of $4.4 million or 41% from the fiscal 2023 fourth quarter adjusted EBITDA loss of $10.9 million, with the increase due primarily to lower revenue and higher operating expenses that were principally related to the company s increased investment in our go-to-market and research and development organizations. Now I will address the balance sheet and liquidity. As of December 31, D-Wave s consolidated cash balance totaled $178 million and as of today exceeds $300 million. As Alan highlighted earlier, during the fourth quarter we raised $161.3 million in equity through our ATM programs and our equity line of credit, the ELOC program, and during the current quarter we raised an additional $146.2 million under an at-the-market program for total net proceeds of $307 million since the beginning of the fourth quarter. $295.4 million, or 96% of this $307.5 million was raised over the course of 23 trading days under the ATM program at an average price per share of $4.30, that was $0.08 per share higher than the corresponding volume-weighted average price of $4.22 per share over these same 23 trading days. In addition, D-Wave paid off the remaining balance of our $50 million secured term loan with PSPIB Unitas Investments during the fourth quarter. At the end of December, D-Wave had 37.8 million remaining in issuance capacity under the ELOC with Lincoln Park Capital Fund, with the investment commitment running through October of this year. Our ability to utilize the ELOC is subject to a number of conditions, including having a sufficient number of registered shares and the stock price being above $1 a share. With respect to guidance, we are expecting fiscal 2025 first quarter revenue to exceed $10 million with a significant portion of the first quarter revenue including revenue recognized from the sale of an Advantage annealing quantum computer. To conclude, as we have previously stated, we believe that D-Wave has the opportunity to be the first independent publicly held quantum computing company to achieve sustained profitability and achieve this milestone with substantially less cumulative funding than required by other independent publicly held quantum computing companies. With that, we will now proceed to questions."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Thank you, and ladies and gentlemen, we will now begin the question and answer session. [Operator instructions] Our first question comes from the line of Craig Ellis with B. Riley Securities. Please go ahead."
+  },
+  {
+    "speaker": "Mayur",
+    "role": "",
+    "text": "Hi, yes. It s Mayur [ph] on for Craig. First of all, congratulations on yesterday s announcement and a great quarter. I kind of wanted to just dig into that a little bit more. As Advantage 2 builds out that frontier of what s capable with quantum annealing, do you see that forwarding engagements that you already have with your existing commercial customers?"
+  },
+  {
+    "speaker": "Alan Baratz",
+    "role": "",
+    "text": "Thank you for joining and for the question. Absolutely. The interesting thing about Advantage 2 versus Advantage is that when we started down the path of trying to demonstrate quantum supremacy, we began with our 5,000 qubit Advantage system and we actually were not able to get the result. However, when we finished calibrating a 1,200 qubit Advantage 2 processor, so a quarter of the number of qubits, much smaller system, we were able to get the result. The reason is while it has fewer qubits, it s more highly connected, it has twice as long coherence time, and it has a significantly higher energy scale. This means it can actually solve bigger problems faster and with higher precision results. Arguably at 1,200 qubits, Advantage 2 is significantly more powerful than Advantage at 5,000 qubits. We ve now finished calibrating our third Advantage 2 system and we plan to roll that out commercially, basically to make that system generally available over the course of this year, hopefully sooner rather than later, and we do believe that the increased power will allow not only new customers but our current customers to see improved performance on their applications, so yes, this absolutely will make an impact."
+  },
+  {
+    "speaker": "Mayur",
+    "role": "",
+    "text": "Awesome, that s great. Now kind of shifting gears to your first system sale with Jülich, first of all, congratulations on getting a system sale through and expanding the business in that way. I wanted to ask, is this something that you can expect to continue across 2025 with perhaps more of these system sales in the pipeline, and what could potential revenues there look like? Then kind of adding onto that, what are some of these margin mechanics that might go on with system sales as we balance against QCaaS?"
+  },
+  {
+    "speaker": "Alan Baratz",
+    "role": "",
+    "text": "Okay, that actually sounded like three follow-up questions, but let me try to respond. First of all, the supremacy work had a lot to do with that system sale to Jülich, as well as to the increased interest we are now seeing for system sales. Remember, we posted the paper demonstrating quantum supremacy on the archive, the preprint server about a year ago, and then it took about a year to go through the peer review process. While we were able to talk about it to customers, we couldn t talk about it to the press, and that was what we were able to do finally yesterday. However, we ve been able to talk about this to a variety of different researchers at supercomputing centers and national labs around the world, and as I said, it s that result that has generated an enormous amount of interest in owning a system, connecting to high performance classical computers, and using that to explore a variety of new workloads in important areas like AI. In addition to the sale to Jülich, we have discussions underway with three other institutions. Now, I m not going to tell you that we expect to see three more system sales anytime soon, but we do have discussions underway with three other institutions around the world. I actually and absolutely do believe that system sales will become an important component of our sales, bookings and revenue model going forward, however not to the exclusion of quantum compute as a service, because many of our commercial customers are really just interested in running their business applications, and for those customers quantum compute as a service is in fact the better model, and that will continue and we expect continue to grow, while on the research institution and university--sorry, governmental lab front, we expect to transition more to system sales. Other than that, we can t give you any guidance on what we expect system sales to look like going forward or bookings or revenue we expect to achieve from that, but John may want to spend just a minute on margins."
+  },
+  {
+    "speaker": "John Markovich",
+    "role": "",
+    "text": "Sure, you can expect that the margins on our system sales will exceed our consolidated non-GAAP gross margins, which last year were 72.8%."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Thank you, and your next question comes from the line of Richard Shannon with Craig Hallum. Please go ahead."
+  },
+  {
+    "speaker": "Richard Shannon",
+    "role": "",
+    "text": "Well great, Alan and John, thanks for taking my questions. I guess I wanted to follow up on the paper as well, and hearing your response to the last question, I ll slightly modify it, but I d love to get a sense of the degree to which this paper, both as you published in the archive a year ago and now published fully and publicly yesterday, has changed the opinion of both the academic community, that I think has had some resistance to annealing and its capabilities, and you ve also talked about the headwind of quantum adoption just from big IT suppliers, like IBM have said that quantum is not ready. This seems to be a pretty strong statement, so I guess I d love to get your sense, both from what you re hearing from commercial entities and maybe some of the thought leaders in the quantum computing community about how much this is changing their opinions."
+  },
+  {
+    "speaker": "Alan Baratz",
+    "role": "",
+    "text": "First of all with respect to the academic community, keep in mind that quite a few academic institutions actually partnered with us on this result. We worked with 11 institutions around the world and a number of the people from those institutions are actually co-authors on the paper. Yes, this has been a significant achievement relative to not just the impact on the quantum industry and the commercial market, but also on the academic community. Now, that having been said, not everybody is willing to readily accept reality, and so we still have some folks in the academic community that go down kicking and screaming, if you like. In fact, yesterday there were two papers that were put up on the archive preprint server that essentially said, oh, we can do this classically, which of course is a gross overstatement, if not absurd. We actually put up our own paper on the preprint server that pointed out exactly what they did, and there was some good work embedded in that, and how far away from being able to perform the computations that we performed on our quantum computer they actually were. This result that we published yesterday is a huge step forward for the quantum industry in that it truly is the first time that anybody has been able to demonstrate the ability to solve a problem on a quantum computer that cannot be solved classically. This is what everybody in the quantum industry has been aspiring to and working towards since the inception, and we ve now achieved it, and that s a very significant and important milestone for, as I said, the industry and the marketplace alike, and we re quite proud. Yes, it is having an impact on the commercial side of our business. As I said, it s opening up some very important opportunities to work more closely with research institutions and government research labs, and as you know, government has been a bit more challenging for us than commercial, but the dialog is absolutely changing at a rapid pace, and it generates even more interest from commercial businesses as it starts to melt away that rhetoric around annealing versus gate. It s just about quantum computing and the ability to solve important problems that classical struggles with."
+  },
+  {
+    "speaker": "Richard Shannon",
+    "role": "",
+    "text": "Wonderful. Alan, we re look forward to hearing more about that Qubits in a couple weeks. My follow-on question is, and I ll resist the temptation to do a three-parter and probably make it more of a two-parter here, but looking at a couple of numbers here, your bookings were $18 million in the quarter, and you re talking about guidance in the first quarter of above $10 million. If we just kind of look at the run rate of revenues last year, people might assume there s going to be roughly $8 million or a little bit more recognized from the Jülich contract here, which has $18 million in bookings here, so maybe you can help us understand, should we expect the sales in the first quarter to be meaningfully above $10 million, or alternatively, what was the other contribution for the strong bookings in the fourth quarter?"
+  },
+  {
+    "speaker": "Alan Baratz",
+    "role": "",
+    "text": "John, do you want to answer that question?"
+  },
+  {
+    "speaker": "John Markovich",
+    "role": "",
+    "text": "Sure. Obviously the systems booking was a very significant portion of the fourth quarter bookings, and the guidance we provided with respect to revenue for the first quarter, as we ve outlined, a very substantial portion of that will be related to the installation and the acceptance of the system, but we ve not provided any additional details on the fourth quarter bookings above and beyond what we announced earlier, which was the $18.3 million, and we haven t provided any additional breakdown on the first quarter revenue other than we expect the revenue to exceed $10 million."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Thank you. Your next question comes from the line of Quinn Bolton with Needham & Company. Please go ahead."
+  },
+  {
+    "speaker": "Quinn Bolton",
+    "role": "",
+    "text": "Hey guys, congratulations on multiple fronts with the cash and the quantum supremacy. I guess I wanted to follow up there on Richard s question, understanding you don t want to provide too much additional detail on the $18.3 million in bookings, but revenue is only in the $10 million-ish range, it might imply then that you saw a substantial increase in QCaaS bookings, and I m just wondering if you can comment--you know, if you excluded the system bookings, can you describe the trend you re seeing on the QCaaS side of the business? Was there a meaningful increase in bookings related to non-system sales in the fourth quarter, and then I ve got a follow-up."
+  },
+  {
+    "speaker": "John Markovich",
+    "role": "",
+    "text": "The QCaaS bookings in the fourth quarter, Quinn, were incrementally greater than they were in the third quarter."
+  },
+  {
+    "speaker": "Quinn Bolton",
+    "role": "",
+    "text": "Okay, perfect. Then maybe just as a follow-up on the system and sale, is this--you know, when that system is accepted by Jülich, you recognize the revenue for the hardware sale. Is there an ongoing maintenance or support contract where some of the fourth quarter bookings may be recognized over time in that maintenance or support, so it almost kicks in a recurring revenue stream for some period of quarters or years?"
+  },
+  {
+    "speaker": "John Markovich",
+    "role": "",
+    "text": "There are three other revenue elements of that booking. One is that the contract includes an upgrade option for Advantage 2, also includes ongoing support and maintenance as well as some degree of access to Leap or QCaaS. Again, the bulk of the booking will manifest itself in the system sale, but there are some components that will go beyond the first quarter."
+  },
+  {
+    "speaker": "Quinn Bolton",
+    "role": "",
+    "text": "Got it, okay. Then the last question, just for Alan, on Advantage 2 - congratulations on the third 4,400 qubit processor calibration. As you look to bring Advantage 2 to the market, are you now anticipating bringing that to market at the 4,400 qubit level, or are there still plans to move to 7,000 qubits with that system over time? Just trying to think through the go-to-market on Advantage 2 as we look forward."
+  },
+  {
+    "speaker": "Alan Baratz",
+    "role": "",
+    "text": "Yes, so we are going to bring the 4,400 qubit system to market, and in fact the reason why we re now at three calibrated Advantage 2 systems but having yet, if you like, to put it in Leap as another processor, as we did with the 1,200 qubit prototype, is because when we do bring a processor to market versus making it available as a prototype, part of what we need to do is make sure that we have the ability to get all the Leap systems upgraded as well as whatever customer systems might be out there - think of the Jülich system, so we just need to make sure we have enough calibrated processors to support the full roll-out of the product, so that s what we re working towards right now and we expect that it will become generally available later this year. As far as moving to a larger Advantage 2 system, what we are working toward right now is a slightly different approach to scaling. Up until now, our approach to scaling has always been more qubits on the chip, and we ve got more headroom to grow the system size beyond where we are today, whether it s 4,400 qubits on a chip or 5,000 qubits on a chip. At the same time, you should never bet against distributed versus centralized, and so we are also moving down the R&D path of multi-chip processors to be able to scale not just by more qubits on a chip but by interconnecting multiple chips. We think that s actually going to allow us to scale much faster going forward. We re in the process of developing that capability, which we think will likely be how we--the most significant portion of how we scale going forward."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Thank you, and your next question comes from the line of Suji Desilva with Roth Capital. Please go ahead."
+  },
+  {
+    "speaker": "Suji Desilva",
+    "role": "",
+    "text": "Good morning Alan, good morning John. Congratulations on the progress here. The system sale you had, I m wondering if the future ones you ll have, would they generally have a similar upfront versus recurring percent breakout, or might there be different structures to future hardware sales versus the current one? Just want to understand that revenue model."
+  },
+  {
+    "speaker": "Alan Baratz",
+    "role": "",
+    "text": "Yes Suji, these deals, at least on a sample size of one, tend to be structured to meet the specific needs of the customer, so there are a lot of elements that went into exactly how we structured this deal. In the case of Jülich, it was important to them that the upgrade to Advantage 2 be included, especially since we were so close to the Advantage 2 processor becoming available. That might not always be the case. Secondly, depending on who we re selling to, they might be looking to use the system in different ways. Are they using it to support commercial applications or are they using it to support research, are they using it to support education, research and education? Depending on the exact nature of how they plan to use the system, that might also drive how the deal gets structured and what the cost components are. I think it s not really possible for us to say this is the model. I think it will vary by customer."
+  },
+  {
+    "speaker": "Suji Desilva",
+    "role": "",
+    "text": "Okay, great Alan. That s very helpful. Then switching over to the results yesterday and the system, I understand that the connectivity intensity would help the performance. Can you just remind us in the quantum systems, what the higher power allows the system to do in terms of performance? Just remind us of that technical aspect."
+  },
+  {
+    "speaker": "Alan Baratz",
+    "role": "",
+    "text": "Okay, when you say higher power, I m not entirely sure what you mean."
+  },
+  {
+    "speaker": "Suji Desilva",
+    "role": "",
+    "text": "I believe you d said in the comments that it was a combination of higher power and increased connectivity that allowed you to achieve the results that--"
+  },
+  {
+    "speaker": "Alan Baratz",
+    "role": "",
+    "text": "Yes, okay. It was three elements - it was more connectivity, longer coherence times, and higher energy scale."
+  },
+  {
+    "speaker": "Alan Baratz",
+    "role": "",
+    "text": "Yes, so more connectivity allows us to support larger and more complex problems. Longer coherence time allows us to get to optimal solutions faster, and higher energy scale allows us to specify the problem parameters with greater precision. This collectively means larger, more complex problems solved faster and with greater precision."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Thank you, and your next question comes from the line of David Williams with Benchmark. Please go ahead."
+  },
+  {
+    "speaker": "David Williams",
+    "role": "",
+    "text": "Hey, good morning and congratulations on all the progress here. I guess maybe first, John, just thinking back to your balance sheet, now that you re fully capitalized and you should have some pretty significant flexibility here, but does this change anything on your go-to-market strategy? It sounds like you ve got some R&D efforts now that we haven t really heard about before in terms of the scaling, but just wondering are there other areas of the business you can accelerate, or does the capitalization maybe change how you re thinking about the business as you scale up and go forward?"
+  },
+  {
+    "speaker": "John Markovich",
+    "role": "",
+    "text": "David, there are elements of the business that we could scale at a faster pace, and given that our capital raise, or the magnitude of our capital raise has been so recent, we re still in the process of evaluating where it may or may not make sense to increase the rate and nature of the investments."
+  },
+  {
+    "speaker": "Alan Baratz",
+    "role": "",
+    "text": "Yes John, maybe I ll just say a tiny bit more than that. Obviously I talked a few minutes ago about how we re looking at introducing a new capability to scale the size of the processor more rapidly through multi-chip, in addition to continuing to grow the density of qubits on a single chip. A second area is gate model - I mean, we ve been working on our gate model program for a couple of years now, and we do think that now represents an opportunity to look at how we might accelerate that program, and so that is an area of focus for us. As you said, go-to-market, we will operate this year with significantly more sales people, technical presales and professional services than we had last year, which we are hopeful will allow us to grow the business faster."
+  },
+  {
+    "speaker": "David Williams",
+    "role": "",
+    "text": "Great, thanks for that. Then maybe Alan, just kind of thinking about some of the comments that we heard from the Nvidia CEO more recently at CES discounting the usefulness of quantum, and you re going to be there on a panel participating, and then clearly you ve shown these incredible results with the quantum supremacy, I m just wondering how you re thinking about maybe the paradigm shift that you re hearing from customers. It sounds like you re certainly getting that interest, but what else are you hearing and how do you think this changes the industry as we kind of move forward here and think about what you ve already accomplished versus where maybe some of the less optimistic folks are out there in terms of how they re thinking about quantum. Thank you."
+  },
+  {
+    "speaker": "Alan Baratz",
+    "role": "",
+    "text": "Yes, so David, first of all, while this supremacy result is absolutely groundbreaking and critically important for the industry, magnetic material simulation isn t necessarily something that is a kitchen table discussion, so not everybody--it doesn t resonate with everybody as it does with us. We think it s extremely important because magnetic materials are used everywhere, especially in medical devices, and we think this represents an opportunity to more rapidly and more cost effectively design new materials, and as a result bring to market improved devices that incorporate sensors based on these materials. But there are other application areas, for example related to AI, maybe some other areas where a broader portion of the population has a greater interest, and so you mentioned Nvidia s GTC conference - I am very much looking forward to participating on the panel at GTC, and I would tell you that the quantum supremacy result actually has applicability beyond magnetic material simulation. Now, I m not going to tell you what that applicability is, but I am going to tell you it s broader based with respect to the likely public interest, and I am also going to tell you that you should pay attention to Quantum Day on March 20 and what we have to say about it."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Thank you, and once again, if you would like to ask a question, simply press star followed by the number one on your telephone keypad. Your next question comes from the line of Harsh Kumar with Piper Sandler. Please go ahead."
+  },
+  {
+    "speaker": "Harsh Kumar",
+    "role": "",
+    "text": "Yes, hey guys. Congratulations on a lot of good things that are going on. Alan, I had one for you, and then a follow-up. I wanted to ask about Jülich plus Jupiter. This is an outside institution that is going to couple one of your systems to traditional computing, potentially a large supercomputer. You ve done these kind of projects before. What does this mean for validation, and what does this mean for opening up the market for other people to be able to solve super complex problems as demonstrated by an outside organization in Europe?"
+  },
+  {
+    "speaker": "Alan Baratz",
+    "role": "",
+    "text": "Yes, so actually, Harsh, we have not previously tightly integrated our quantum systems with a supercomputer or a high performance computer. We do run hybrid algorithms and hybrid solvers that our customers can have access to, where we can use CPUs and GPUs together with a quantum computer, but that s a modest scale. That s not massively parallel systems like frontier at Oak Ridge Labs or the Jupiter exascale system that Jülich is building out. This will actually be the first time that our quantum system is tightly integrated with a supercomputer of that scale, and we re very much looking forward to working with Jülich, and in fact there will be a lot of joint collaborative research and investigation that goes on, on the applications that could be made possible through that integration. We do think that particularly in the area of AI and AI workflows, there could potentially be some very significant opportunity, because remember, currently AI does require massive amounts of compute, and we re really looking forward to understanding what happens when you integrate quantum into those workflows and how and if that might change, on the one hand, the time to do model training, the accuracy of the models and maybe the energy consumption, maybe we can reduce it and so on."
+  },
+  {
+    "speaker": "Harsh Kumar",
+    "role": "",
+    "text": "[Indiscernible] comes out. Then another one, maybe just prodding your mind a little bit, so now you ve got two businesses. You can sell systems, which there seems to be--you already said there are three interested parties, but you also have a business associated with services. What does Dr. Alan Baratz want to do? What are you interested in, what are you leaning towards as D-Wave looks forward? And I d be curious if John has input on it too, financially. It s very lucrative, obviously, the business of selling these computers, but just curious if you could shed a light on where your interest lies."
+  },
+  {
+    "speaker": "Alan Baratz",
+    "role": "",
+    "text": "Well, look - I think all my babies are beautiful. First of all, we have an amazing R&D team that continues to knock the ball out of the park, and so I m really looking forward to delivering the Advantage 2 system. I m looking forward to how we re going to be able to scale that more rapidly going forward through both multi-chip and increased density on the chips. I m looking forward to gate because I do think that gate and annealing are quite complementary and can enable collectively important use cases. I m looking forward to continuing to support our customers in their use of quantum to help solve really hard optimization problems to improve their business operations, and I m especially interested in the introduction of quantum into AI machine learning, because I do think there s a huge opportunity there to speed up training and to reduce energy consumption, and I do think that could be very transformative."
+  },
+  {
+    "speaker": "Harsh Kumar",
+    "role": "",
+    "text": "Thank you Alan, and I ll get back in line."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Thank you, and we do have a follow-up question coming from the line of Harsh Kumar with Piper Sandler. Please go ahead."
+  },
+  {
+    "speaker": "Harsh Kumar",
+    "role": "",
+    "text": "Yes, thanks again for another opportunity to ask a question. I wanted to ask about--so a lot of people on the call were trying to basically ask about the mechanism of the system sales and what it would do. I was curious, I assume that most of the money that you got for the system sales were recognized in 4Q, John, and--but yet, you re talking about a substantial increase in revenues in 1Q, and that s driven by your core business. I was curious, A, what is driving the core business all of a sudden? Did something happen or did you lock down a couple of large customers, or is there a trickling effect of the system sales that s kicking into 1Q as well?"
+  },
+  {
+    "speaker": "John Markovich",
+    "role": "",
+    "text": "Sure, so the systems booking took place in the fourth quarter, Harsh, and we were paid for that system in the fourth quarter. What we ve outlined with respect to our first quarter guidance of revenue in excess of $10 million, a significant portion of that would be the installation and acceptance of the system."
+  },
+  {
+    "speaker": "Alan Baratz",
+    "role": "",
+    "text": "Harsh, you said something that wasn t quite accurate. You said that a portion of the system sale was recognized, revenue recognized in Q4 - that s not the case. There was no revenue recognized in Q4 for the system sale."
+  },
+  {
+    "speaker": "John Markovich",
+    "role": "",
+    "text": "It was just the booking."
+  },
+  {
+    "speaker": "Harsh Kumar",
+    "role": "",
+    "text": "Got it, so how many quarters do you think--I mean, it s a complicated system, I ve seen your system in Canada, and it s not like a computer where you can just take it, so how many quarters do you think the process will take to set it up, to get it going, and the hand-holding that you would need to do with Jülich to--so in other words, how many quarters can the revenue run for one system sale? You don t have to be accurate, just ballpark it."
+  },
+  {
+    "speaker": "Alan Baratz",
+    "role": "",
+    "text": "The Advantage system is already set up and running at Jülich, and they have access to it. They are using it today, so we were able to--so that was all completed since we signed the agreement for the system sale in Q4. Now, what has not yet happened is that system has not yet been upgraded with the Advantage 2 chip, so as John said, there are a couple of components to the revenue recognition. A big part of it is when we install the system and hand it over to them - that s been done. That was done this quarter, Q1. Some of the revenue will be recognized when we upgrade that processor to Advantage 2, and then some of that revenue will be recognized through ongoing maintenance over several years into the future."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Thank you, and ladies and gentlemen, that concludes our question and answer session. I will now hand the call back to Dr. Alan Baratz for closing remarks."
+  },
+  {
+    "speaker": "Alan Baratz",
+    "role": "",
+    "text": "Thank you. Thanks to all of you for taking the time to be here with us today. It s been an amazing quarter for the company, and the future looks even more amazing. We believe that the company is in the strongest position in its history and is leading the quantum computing sector based on product performance, technical maturity and commercial adoption. While others in the industry continue to make unsubstantiated claims around the performance and adoption of t heir technology, we continue to capitalize on our first mover advantage to further distance ourselves from the rest of the market. We re a well capitalized company with more than $300 million in cash and sufficient capital to reach profitability. We are the only quantum computing company that has demonstrated our system s ability to outperform classical on a useful problem, which has now been published in an esteemed peer-reviewed journal. We have the largest quantum computers in the world with 5,000-plus qubits able to solve complex computational problems right now. We are the first quantum computing company to have customers move commercial applications into production, and we offer customers service-level agreements which means we stand behind the high levels of availability, reliability and scalability of our Leap cloud service. Our customers are realizing the value of quantum right now. It s an historic time for the company and for quantum computing as a whole. Thanks again for taking the time to join us today."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Ladies and gentlemen, this concludes today s conference call. Thank you all for joining. You may now disconnect."
+  }
+]

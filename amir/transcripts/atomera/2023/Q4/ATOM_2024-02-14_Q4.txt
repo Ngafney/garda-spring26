@@ -1,0 +1,245 @@
+Mike Bishop
+OK. We'll start. Hello, everyone, and welcome to Atomera's fourth quarter and fiscal year 2023 update call. I'd like to remind everyone that this call and webinar are being recorded, and a replay will be available on Atomera's website for one year.
+I'm Mike Bishop with the company's investor relations. As in prior quarters, we're using Zoom, and we will follow a similar presentation format with participants in a listen-only mode. We will open with prepared remarks from Scott Bibaud, Atomera's president and CEO; and Frank Laurencio, Atomera's CFO. Then we will open the call to questions.
+If you are joining by telephone, you may follow a slide presentation to accompany our remarks on the Events and Presentations section of our Investor Relations page on our website. Before we begin, I would like to remind everyone that during today's call, we will make forward-looking statements. These forward-looking statements, whether in prepared remarks or during the Q&A session, are subject to inherent risks and uncertainties. These risks and uncertainties are detailed in the Risk Factors section of our filings with the Securities and Exchange Commission, specifically in the company's annual report on Form 10-K filed with the SEC on February 15, 2023, and its quarterly report on Form 10-Q filed with the SEC on November 1, 2023.
+Except as otherwise required by federal securities laws, Atomera disclaims any obligation to update or make revisions to such forward-looking statements contained herein or elsewhere to reflect changes in expectations with regards to those events, conditions, and circumstances. Also, please note that during this call, we will be discussing non-GAAP financial measures as defined by SEC Regulation G. Reconciliations of these non-GAAP financial measures to the most directly comparable GAAP measures are included in today's press release, which is also posted on our website. And with that, I'd like to turn the call over to our president and CEO, Scott Bibaud.
+Go ahead, Scott.
+Scott Bibaud
+--
+President and Chief Executive Officer
+Good afternoon, and welcome to Atomera's fourth quarter and full year 2023 update call. I believe that when we look back at 2023, we will consider it the catalyst year, where our first major business deal that drove our success was announced. And our fourth quarter will be where the execution of that mission became most obvious. In addition, we've seen excellent results from customers and partners and strong advances in R&D that will ultimately result in more commercial licenses.
+We will dive into the details. But first, let me give you a view of the industry status and how it affects Atomera. As you know, 2023 was not the strongest year in the semiconductor industry, characterized by negative growth, cutbacks in capex plans, and some slowdown in spending. As is usually the case in this type of environment, we saw increased interest in new design activity and plenty of fab capacity to run R&D lots.
+As we enter 2024, we are seeing much more optimism as growth prospects driven by new artificial intelligence capabilities start to emerge. We are happy to see this since our customers' cash flow will improve, but we still expect to see modest fab utilization rates, which benefits our business development prospects. This is really the ideal time for customers to adopt MST. Obviously, the big news of the quarter was the installation of our technology at STMicro's fab in Agrate, Italy.
+In case you are new to the Atomera name, in April of last year, we announced a commercial license agreement with STMicroelectronics that was important for our company in several ways. First, it validates our business model and the value that MST brings to customers when they truly appreciate its capabilities. Second, it is certainly an important signal to industry participants when a large, respected IDM decides to take MST to production. Although their decisions are primarily on technical criteria, engineering management always feels more comfortable if other leading companies are going down the same path that they are considering.
+We have always represented our customers' route to production with MST in six phases, as shown here. For ST, phase 4 includes both installation and productization. This slide shows a rough approximation of where we are in that process, with the grayed-out boxes representing items that have been completed. Last year, we were waiting for some equipment modifications to happen at ST before we could start the install.
+We felt quite certain the installation would happen a short period after our last quarterly update call, and it did. Let's look at the remaining steps in more detail. Our progress since our last update call has been truly remarkable. Since last May, the ST engineering team has been developing their new manufacturing process using TCAD, which also includes our own simulation tool called MSTcad.
+In early November, after their epi tool upgrades were complete, we provided ST with the critical IP necessary to start making MST wafers, which triggered the revenue milestone we announced on November 14th. Although we've always guided an installation can take up to three months, the ST epi team was able to get trained on our technology to the point that they could grow high-quality MST on their wafers, which allowed us to pass all their acceptance criteria before Christmas. This accomplishment completed the formal installation of MST technology at ST, which triggered a second revenue milestone. In January, we spent more time with their team, helping to optimize both the epi deposition process and the MST design integration.
+ST has now started manufacturing MST wafers in their own fab, which will be used for electrical lots providing silicon validation. Because this entire process is in-house, the cycles of learning in this stage should be quick. When ST is satisfied that they've created a fully optimized transistor and manufacturing process development kit, or PDK, they will freeze it. Just to be clear, we consider this entire effort from installation through PDK to be part of phase 4.
+For a chip designer, a new PDK is like getting the latest and greatest software with all the newest features. In my experience, engineers will hold off on new chip designs until this PDK becomes available, creating a pent-up demand for new design starts. So, in this case, we expect that multiple chips will be developed in parallel with process qual, and some may even tape out prior to the qual being complete. For the next several years, new chip designs will be taped out based on this PDK and will enter production and start generating royalties.
+It's difficult for us to forecast the volume of these designs because they will be in many different applications and market sectors and will ramp at different rates. But as you can imagine, over time, the percentage of MST-based designs in their fab will increase significantly. When we first announced this transaction, we believed STM could get to commercialization in a year and a half to two years. Despite the delay in starting installation, we believe that timing still holds.
+Although much of this execution is out of our control, we are laser-focused on doing everything we can to ensure ST's production ramp of MST is as successful and as rapid as possible. Our other top priority as a company is getting more customers onto the same path to production. So, now let me provide some updates there. As you can see from our customer pipeline, we are showing growth in phase 4, reflecting the ST installation, but there's a lot more going on under the hood.
+In the last call, we spoke about the excellent results we had with our JDA 1 customer and its applicability to one of their largest BUs. Development efforts continue, but we are still working on putting together a business arrangement which will meet both our needs. I can assure you this is a very high priority for us, but the end-of-year holidays slowed down those discussions, and we are working to get this program moving more quickly. We continue to be excited about the experiments with our JDA 2 customer, which are still making their way through the fab.
+Good results here should pave the way for a license agreement in this area. In addition, we're also in discussions with this customer about starting work in another area as well. A trend we are seeing in the higher-voltage semiconductor area is providing a tailwind to our MST offerings. Chinese companies have started to enter into the low end of this segment, which has caused some of the more established players to focus on differentiating their technology to be higher performance.
+MST is uniquely suited to deliver performance improvements with our SP and SPX technologies, and in Q4, we signed an MSTcad license agreement with a large manufacturer to start working on it, which shows our momentum for both MST-SP and SPX is growing. Interest in our RF-SOI technology also remains strong, and we have multiple different customer wafer rounds underway. Recently, we were invited to give a paper coauthored with Soitec and San Jose State University at the upcoming IEDM conference in March, which will provide details on how MST on an RF-SOI substrate can enhance performance of both RF switches and LNAs. The IEDM conference, which happens every December, is a great forum for us, and it is focused on the latest gate-all-around and nano sheet transistors.
+Interest in the use of MST for these devices has been spreading and has created excellent opportunities for new engagements and partnerships. At the geometries being used in these advanced nodes, new challenges are being raised which demand more control at the atomic level than has ever been necessary. Atomera's diffusion control, reduction of random dopant fluctuation, and improvement in surface roughness scattering are viewed as potential to provide the control needed for these nodes. In Q1, our team has been busy working with multiple advanced node manufacturers, which should ultimately lead to new business.
+The same features driving interest in advanced nodes is also stimulating demand in the memory space, and our work with those customers continues to be active and exciting. Finally, we get a lot of questions about how MST is related to the fast-evolving developments in artificial intelligence, and I can tell you it's extensive. Last quarter, I spoke about how AI will drive demand for more and different kinds of memory, which MST can help deliver. Another area where MST will bring huge value is in chiplets.
+As you may know, AI algorithm demands have become so huge it's difficult to meet them with single-chip solutions. The industry has reacted to this problem by creating a new architecture which collects a number of smaller chiplets on a silicon interposer. The beauty of this architecture is that each chiplet can be developed in the optimum process technology for its role, and the fact that MST provides performance boosts at all these different nodes brings enormous value, which should become a new driver for MST adoption. I believe we will look back at 2023 as the year when we turned the corner commercially.
+Our first production license with ST, followed by the great progress we've made in Q4, will be looked upon as the trigger for Atomera's success. In addition to ST, we made serious customer and technical advances in each of our target product segments. One thing that has become even more apparent this quarter is that as customers start to understand our technology more, they come up with new ways of using MST that we haven't even imagined, which would become a strong growth driver for our technology horizontally across existing customers as our penetration increases. MST is truly an amazing tool, and the brilliant team here at Atomera is hard at work uncovering its potential and delivering it into the hands of future licensees every day.
+This is the type of execution that leads to a successful enterprise, and I can tell you I'm more optimistic than ever about our potential. Now, Frank will review our financials.
+Frank Laurencio
+--
+Chief Financial Officer
+Thank you, Scott. At the close of the market today, we issued a press release announcing our fourth quarter and full year results for 2023. This slide shows our summary financials. Revenue in 2023 was $550,000, all of which was recognized in Q4 and resulted from installation and acceptance of our MST technology at ST's fab.
+Our GAAP net loss for the year ended December 31, 2023, was $19.8 million or $0.80 per share, compared to a net loss of $17.4 million or $0.75 per share in 2022. GAAP operating expenses were $21.2 million in 2023, which was an increase of approximately $3.4 million from $17.8 million in 2022. The biggest driver of the year-on-year increase was a $2.5 million increase in R&D expenses, approximately $1.4 million of which was due to higher spending on foundry services, metrology, and other outsourcing and $739,000 of which was due to higher payroll and related costs. General and administrative expenses increased by approximately $634,000, reflecting higher payroll expenses, as well as higher legal fees.
+Sales and marketing expense increased by approximately $251,000. Other income, net, in 2023 increased by $802,000 as compared to 2022 mainly due to the higher interest rates on cash and short-term investments. Turning to our quarterly results. Q4 2023 GAAP net loss was $4.6 million or $0.18 per share, compared to a net loss of $4.3 million in Q4 2022, which was also $0.18 per share.
+In the third quarter of 2023, GAAP net loss was $5 million or $0.20 per share. The lower net loss in Q4 compared to Q3 was due to our Q4 revenue, while GAAP operating expenses were basically flat at $5.3 million in Q4 2023 compared to $5.4 million in the preceding quarter, as R&D expenses declined due to the winding down of activities at TSI, offset by increases in G&A and sales and marketing. Non-GAAP net loss for 2023 was $16.6 million in comparison to a loss of $14.1 million in 2022. And as with our GAAP results, this was primarily due to increased R&D expenses.
+The differences between GAAP and non-GAAP operating expenses in all periods presented are primarily due to noncash stock compensation expenses, which were approximately $4 million in 2023 and $3.4 million in 2022. Our balance of cash, cash equivalents, and short-term investments on December 31, 2023, was $19.5 million, compared to $21.2 million at the end of 2023 and $20.4 million at the end of Q3. During the last year, we used $14.6 million of cash in operating activities, and we sold approximately 1.8 million shares under our ATM facility at an average price of $7.97 per share. Of those amounts, approximately 320,000 shares were sold in Q4 at an average price of $7.37.
+As of December 31, 2023, we had 26.1 million shares outstanding. As Scott mentioned, we met the first two milestones under the ST license agreement during Q4, resulting in $550,000 of license revenue. The next grant of licensed rights to ST will be our distribution license, which will enable them to both manufacture and sell products with MST. Those sales will result in royalty payments to Atomera.
+While we are not able to share the financial details of the ST contract, the terms are consistent with our target model. Under this model, total upfront license fees have a list price of over $3 million, with payments increasing as we grant customers additional rights. As Scott explained in his remarks, timing of entry into phase 5, which is when we will recognize revenue on the grants of the distribution license, is largely under ST's control. Accordingly, I'm not providing guidance on the timing for recognizing that revenue.
+I expect that our Q1 2024 revenue will consist only of ratable recognition of MSTcad licensing. Moving to our expense guidance. Our non-GAAP operating expenses for 2023 were $17.1 million, and we expect that in 2024, our non-GAAP opex will be in the range of $17 million to $18 million. While this is a wider range than I've provided in previous calls, this is due to the uncertain financial impact of moving from TSI Semiconductor to a new foundry.
+Our work with TSI wrapped up in January of this year, and as a result, our R&D expenses in Q4 declined from prior quarters in 2023. We're making good progress in talks with possible replacement providers for foundry services, but nothing has been finalized yet. While the interruption in foundry work will cause Q1 2024 R&D expense to decline further from Q4, we expect to incur some one-time fees as we transition to a new foundry, and we will update our guidance when we have more visibility. With that, I will turn the call back over to Scott for a few summary remarks before we open up the call to questions.
+Scott?
+Scott Bibaud
+--
+President and Chief Executive Officer
+Thanks, Frank. As you can see, we made great progress toward commercialization this past quarter and in 2023. We are doing everything in our power to get ST to production quickly. But we also have an incredibly valuable portfolio of other potential customers who we are working to take into the commercial stage.
+Our team is confident that it's only a matter of time before we can announce license deals that will further solidify the potential of Atomera's business for the future. Mike, we will now take questions.
+Mike Bishop
+OK. Thanks, Scott. If you wish to ask a question, please click the Q&A button at the bottom of the Zoom window, then feel free to type in your question. I will do my best to aggregate the incoming queries and relay them to management.
+Alternatively, you can click Raise Your Hand button, and we may call on you to ask your question live. And right now, our first question comes from Richard Shannon of Craig-Hallum. Richard, please go ahead.
+Richard Shannon
+--
+Craig-Hallum Capital Group -- Analyst
+Thanks, Mike. And thanks, Scott, Frank, for getting me on your call here, and congratulations on the great success ending last year here. Maybe a couple of questions related to STMicro here, about the time frame to product prioritization of one and a half to two years here. It sounds like you're talking about some very interesting work with them.
+I don't want to get out ahead of my skis here, but is there any reason to think that that time frame could be at the lower end of that just because of all the engagement that you've been having? I don't want to read too much into it, but I just want to get your thoughts there, Scott.
+Scott Bibaud
+--
+President and Chief Executive Officer
+Yeah. As I say, we can't predict the timing of it. They haven't actually given us a schedule that they're trying to hit. However, I will say the progress we've made in just the last couple of months and since we did the installation is really quick in our experience, and you know, they have the possibility of moving very fast.
+You know, once MST is installed inside someone's fab, they can literally crank up the engines and turn out these new wafer experiments very quickly. So, there is some chance, I would say. I would say I'm still holding to the, you know, one and a half to two years from our announcement date last May, but there's a chance it could be on the earlier end.
+Richard Shannon
+--
+Craig-Hallum Capital Group -- Analyst
+When you say you haven't gotten a schedule from STMicro, when do you expect that? And what kind of -- are there any way you can characterize what that means? Is that a normal process of bringing up any semiconductor process, or is there any specifics to Atomera that create, I don't know, deviations from the normal, I guess?
+Scott Bibaud
+--
+President and Chief Executive Officer
+I don't think there's anything that's a deviation from the normal in this case. That being said, I am not privy to what they consider a normal development time frame for an analog product like this. I know that, you know, for some of our customers, they may have done a lot of that development work in phase 3. And when they get to phase 4, they have most of it done.
+But as people will remember for ST, they did their phase 3 work a long time ago, kind of put it on the shelf. And now they're taking this, and they're doing it for a brand-new process node. So, they do have some work to try to -- I mean, I think they're going to get very good results on their first run, but their goal is to spread MST in a lot of places, so they can get good results across more and more components in their designs.
+Richard Shannon
+--
+Craig-Hallum Capital Group -- Analyst
+OK. Fair enough. And the follow-on question on the topic of STMicro here, and we've talked about this since the day that you announced this back in April of last year when you talked about -- I guess I'll refer to it as a halo effect of driving other companies to want to adopt MST. Maybe you can just characterize any of the discussions that you're having.
+And I guess the key for me is, do people need to see this in production and actually chips coming out the factory before they pull the trigger? Or do you think this can be an accelerator and a catalyst before then?
+Scott Bibaud
+--
+President and Chief Executive Officer
+It's definitely already an accelerator and a catalyst. In conversations with customers now, you know, we're discussing our business model and what we'd like to see from them. They say, yes, I recognize that ST is doing it. And then we go on from there.
+But that's great because in the past, they could say to us, nobody's ever done this before. So, why do you think we should do it? So, it's really a big game changer.
+Richard Shannon
+--
+Craig-Hallum Capital Group -- Analyst
+OK. Well, great to hear that. You talked about this last quarter in terms of -- and now you have a -- I think you used the word license for MSTcad with a large analog manufacturer. Is this an example of this halo effect, or is it separate and even started before ST was publicized?
+Scott Bibaud
+--
+President and Chief Executive Officer
+I think it's definitely an example of the halo effect. Of course, we were trying to convince these guys before we announced ST, and we actually did do work with them, but seeing ST has caused them to take it to the next level. And I hope that the MSTcad is the first step in kind of moving along to doing an actual installation and license, although, you know, we haven't announced that yet, but that's what we hope is the trajectory.
+Richard Shannon
+--
+Craig-Hallum Capital Group -- Analyst
+OK. Well, you kind of co-opted my follow-on question on this topic, which is, what are those next steps here, both internally that you could characterize, plus any, you know, public events, so to speak, like a license, as you just mentioned?
+Scott Bibaud
+--
+President and Chief Executive Officer
+Yeah. I mean, if you look at what I talked about for the productization effort for ST, they are starting all of their work with TCAD. And MSTcad is an add-on to a standard TCAD that adds the MST stuff into it. So, you know, for any of our customers, it would be -- you know, in the semiconductor industry, I would say the majority of manufacturers are a -- they want to see actual physical results on a piece of silicon before they make a decision.
+But for some of the players in the industry, they want to run simulations first and then make their decision to move to silicon. And so, I think it's really good that they're doing both paths. We're prepared to support them on both paths, and it shows a seriousness. It's not a small deal to dedicate a few engineers and a few very expensive Synopsys TCAD seats to working exclusively on integrating MST into your process technology.
+And so, we hope that goes someplace good.
+Richard Shannon
+--
+Craig-Hallum Capital Group -- Analyst
+OK. And I'm assuming that since you described this as a large analog manufacturer, that this is something they would install and use internally as opposed to working with somebody else, like perhaps a current engaged Atomera customer. Is that fair?
+Scott Bibaud
+--
+President and Chief Executive Officer
+Yeah. I don't think they would work with an engaged Atomera customer. I think every company in the globe today is -- even if they're an IDM, they're probably fab-light, so they use some outside foundry as well as inside capacity. So, these guys could go in either direction, but yeah.
+Richard Shannon
+--
+Craig-Hallum Capital Group -- Analyst
+OK. Two quick questions, and I'll get in line here. I'm sure there's a couple of others that want to ask questions here. But just related to JDA 1 here, it sounds like you've made some progress in discussions with some business units there, but it didn't detect anything that was imminent, and you're just hopeful.
+I don't want to put words in your mouth, so maybe you can just characterize the dynamics there. Or do you think you've gotten past this point in certain other learning cycles, you've gone through them with them, I think, over the last two -- I think it's been more than two years. Correct?
+Scott Bibaud
+--
+President and Chief Executive Officer
+Yeah. I mean, we've done a lot of stuff with them. We've shown them a lot of data. And by the way, we are continuing to do technical work with them to show them even more results of things that can be done with MST.
+We started in discussions with them on the business side in, you know, kind of in the fourth quarter. And no, we haven't completed that yet. I don't think that's that unusual. And obviously, we can't give details of exactly where we are on those discussions.
+But these are the types of things that take some time. And over the Christmas holidays, we certainly didn't slow down. But every big company has got a lot of things happening at the end of the year with goal setting and reorg and conversation, discussions, and everything. And so, I definitely feel like they were a bit distracted at the end of the year.
+And so, in January, we started to really try to get it ramped back up, and hopefully, we'll make better progress now.
+Richard Shannon
+--
+Craig-Hallum Capital Group -- Analyst
+OK. Fair enough. And the last question, and I'll jump on the line here. You signed a license with an unnamed fabless RF customer I think back in like 2018 or something like that.
+I haven't heard much about them since. Yet you talk every quarter about what sounds like some great engagement in RF-SOI in general. Maybe just characterize what the specific customer has been doing since that announcement or recently. And does that overlap with any of the commentary in RF-SOI that you have mentioned today in the past?
+Scott Bibaud
+--
+President and Chief Executive Officer
+Yes. Sorry. It definitely overlaps. We're still working with that customer.
+We're still doing development with them, and we hope that that turns into something very good in the future. I probably could have done a better job in my prepared remarks of connecting that particular customer with our RF-SOI work, but that is something that is continuing and we're quite excited about.
+Richard Shannon
+--
+Craig-Hallum Capital Group -- Analyst
+OK. Fair enough. I will jump on the line, Scott. Thank you.
+Scott Bibaud
+--
+President and Chief Executive Officer
+All right. Thanks, Richard.
+Mike Bishop
+Thanks, Richard. Our next question comes from Cody Acree of Benchmark. Cody, go ahead.
+Cody Acree
+--
+The Benchmark Company -- Analyst
+Yeah. Thanks for taking my questions, and congrats on the progress this year. Frank, if we can just be real clear on your guidance for Q1, you said ratable STMicro license. Can you just be clear on what you're expecting for the first quarter?
+Frank Laurencio
+--
+Chief Financial Officer
+Oh, yeah. No, I was not referring to STMicro. I was talking to licensed revenue from MSTcad. And then those are not large amounts.
+So, I didn't go into details, but I think in the past, the largest we've had of revenue from a single in a quarter from MSTcad was, you know, under $10,000. This is a larger engagement, but it's still kind of in that range. Yeah, that's separate from STMicro.
+Cody Acree
+--
+The Benchmark Company -- Analyst
+OK. Thank you for that clarification. Any impact on your delay with TSI? I understand the R&D push, the lumpiness that will come in next year or later this year. But is there any business impact on that delay?
+Frank Laurencio
+--
+Chief Financial Officer
+We don't see any business impact from the delay. None of our wafers that would go to a customer of any kind, whether it be -- you know, certainly, with ST, they're now installed and doing everything in quick turns in their fab. But for customersthat would have been sending wafers to us for MST deposition, that never flows through TSI, either. TSI was solely a vehicle for us to be able to do internal R&D testing.
+And so, it has no impact on customers. In terms of, you know, longer-term R&D, yeah, prolonged inability to work with the foundry would have some impact on us, but we're not seeing that. We actually had much higher spend in the first three quarters of 2023 than we had had in previous years with TSI. Now, part of that was price increases and kind of faster turnaround.
+But we were able to, as we kind of got into Q4, anticipate that they were winding down and run quite a few wafers that we can use for additional internal testing and for TCAD calibration. And so, that's keeping us plenty busy now. And we are very close in discussions with, you know, signing up a new foundry. So, we don't anticipate that that's going to hurt us commercially at all.
+Cody Acree
+--
+The Benchmark Company -- Analyst
+Excellent. Thank you. And Scott, maybe can you talk a bit more about this engagement with MST, SP, and SPX, the new engagement that you mentioned in your prepared remarks?
+Scott Bibaud
+--
+President and Chief Executive Officer
+Yeah. I'm not sure what else I can say about it. So, maybe we can just talk about what it means to license MSTcad. So, our MSTcad is a software package that sits on top of Synopsys' TCAD software, and it gives people to analyze the performance that MST could bring.
+This particular customer wants to do kind of a comprehensive analysis of how MST could get added into their product line. And so, that means it's a fairly big installation for them. We're charging them at a monthly level to be able to use it, and we're providing quite a bit of support to them. What's frequently the case for customers who are experts in higher-voltage technology is they aren't going to use our MST, SPX, or SP packaged product, but they will look at how we do that, and then they'll use the tricks we've figured out to how -- so that MST can make their product better.
+So, we'll train them on how to put all of the tricks and the trade into their development, and then they can change their existing designs to get higher performance levels out of those. I talked a little bit about this trend where higher-voltage chips is going to China. We're seeing that more and more. And so, definitely, many of the players are trying to either make their existing portfolios higher performance or lower cost, so they can compete better with those, with the Chinese fabs.
+Cody Acree
+--
+The Benchmark Company -- Analyst
+I see. Thank you for that, Scott. And then lastly, just you mentioned some increased interest in DRAM around the chiplet strategy. Are you seeing engagements in DRAM that are material, or is this just more road map plausibility?
+Scott Bibaud
+--
+President and Chief Executive Officer
+No, we've been talking to DRAM manufacturers for a little while now. We don't have anything to announce there yet, but we definitely are still in discussions with a number of companies there. It's not specifically related to chiplets, but it is something that I think would be used in chiplets, just like any memory technology. But we're talking to people about DRAM.
+We're talking to people about other memory architectures, and we're even doing some work on how MST could help to change memory architectures to make them more responsive to the needs of AI memory demands. So, again, a number of things that we're working on in R&D that we haven't announced yet but that we hope will turn into something soon.
+Cody Acree
+--
+The Benchmark Company -- Analyst
+Would you characterize these as fairly early stage yet?
+Scott Bibaud
+--
+President and Chief Executive Officer
+Our work with DRAM manufacturers is not early stage, but some of the other work, I would say, is earlier stage. Yes.
+Cody Acree
+--
+The Benchmark Company -- Analyst
+OK. Thank you, guys.
+Mike Bishop
+All right. Thanks, Cody. And a couple questions on the Q&A line here. Scott, you mentioned Soitec in the prepared comments.
+Are you in -- the question that came in is, are you involved with Soitec's technology SmartSiC into production with STMicro this year?
+Scott Bibaud
+--
+President and Chief Executive Officer
+Yeah. So, we have been working with Soitec for a number of years. As you guys know, we've been talking about RF-SOI and the benefits we bring there for a long time, and most -- I would say a good percentage of that RF-SOI that's delivered to the market is delivered by Soitec. So, we have been working with them to ensure that our product works well with theirs.
+We have not announced any kind of a partnership with them or any kind of engagement with a joint customer, like the question you're asking about STMicro. But we certainly hope that any customer who would be using RF-SOI would be very interested in working with both us and Soitec.
+Mike Bishop
+All right. And one for you, Frank. There was a comment about the increase in sales and marketing expense in the fourth quarter. Do you want to address that?
+Frank Laurencio
+--
+Chief Financial Officer
+Yeah. I think -- and this kind of applies, actually, across all areas of operating expense. But as you saw, we have the $550,000 of revenue in Q4, which is an important milestone. One of the things that impacts our expenses across all, you know, departments is the annual bonus that we accrue as we achieve certain milestones.
+And so, with an important milestone like that in Q4, that certainly increased the amount of, you know, bonus accrual in the quarter. Otherwise, though, sales and marketing can be very spotty. There's a lot of travel, and we certainly spent a lot of time this year traveling to customers. But I wouldn't read anything more into that other than just, you know, travel and overall, across the company, accrual of bonuses, which is not always linear every quarter.
+Mike Bishop
+OK. And there's a request for an update about the CHIPS Act and the news that we put out last year. And I was wondering, Scott, if you could provide an update on the CHIPS Act.
+Scott Bibaud
+--
+President and Chief Executive Officer
+Yeah, of course. We talked last year about what -- I mean, we think the CHIPS Act really provides a tailwind for us in many ways and especially the establishment of the new National Semiconductor Development Center that they're talking about. So, we have gotten involved in a lot of that. As you know, our announcement is about our involvement out in Arizona with Arizona State University.
+But the other thing about CHIPS Act is to -- you know, in the early rounds of RFQs that CHIPS Act has been putting out, it's been about people building fabs first, the big companies building fabs and then some medium-sized companies. We weren't really eligible for those, but we are doing a lot of work to get engaged with the government at different levels, so we could be eligible for work on the CHIPS Act in other areas. So, again, nothing to announce there, but I will tell you that that's something that we're working on.
+Mike Bishop
+OK. And I see Richard Shannon has his hand up. Richard, did you have a follow-up question?
+Richard Shannon
+--
+Craig-Hallum Capital Group -- Analyst
+I did, Mike. Thank you. Scott, I'm going to reask Cody's last question on a different topic. He asked the kind of maturity of work in the DRAM space, and thanks for that answer here.
+But I'll turn it around and throw it at the advanced nodes. And I want to get your update and ultimately characterizing the situation there relative to DRAM or other dynamics and how their -- how that workflow is, you know, consistent with, you know, work you've done in other areas like power and RF-SOI, etc.
+Scott Bibaud
+--
+President and Chief Executive Officer
+Yeah. I think it's interesting. It's not exactly the same type of work that we're doing in power and RF-SOI. Let me address a few things.
+First, in the advanced nodes, the sizes that you're working with are so small that it really has required us to do new R&D to prove our capabilities, to prove that we can develop a film and deliver it at the tiny process geometries that they have and, when we do that, if it can still be effective. And so, we have done that, and we did that working in conjunction with some of the advanced node customers who've really guided us toward what they would need if we were able to bring them some solutions. We've also -- I think in the past, we've put some papers out and maybe even some white papers about some other things that are very useful, one of which is the surface roughness scattering improvements. This is quite technical, but there are different scattering mechanisms that happen in transistors when they're sending electrons across them, and they impede the mobility of electron flow.
+As you get to very, very small process geometries, one of the most difficult scattering mechanisms that's gotten very that's gotten a lot worse is the surface roughness. And we actually proved that MST is a very rare solution, or at least improvement, to surface roughness scattering. And so, that's something that's garnering attention from a lot of industry participants. And then, actually, earlier in the fall, we put out a white paper, and I talked a little bit on the earnings calls about random dopant fluctuation, again, at very small process nodes.
+You can imagine if you have a feature on your transistor that's only several silicon atoms wide and you have dopant fluctuation, and a few dopants moving into the wrong place is a real problem. So, one of the big advantages of MST is that we can help to tamp down that surface roughness scattering -- I mean, sorry, that random dopant fluctuation. And that is also true for -- I mean, almost all of those things are also true for the memory makers. Now, the memory makers are not dealing with the same incredibly tiny geometries that they're working with at advanced nodes, but they are having similar problems with, you know, the areas that I just talked about.
+So, let me answer one other little part of your question. One of the interesting things about our solutions in those areas is that some of them can be implemented on a blanket wafer, meaning that we can make an MST wafer that doesn't have to get integrated into the rest of the process flow. It would be kind of on the starting wafer that they use to run things. When we start talking about something like that, first of all, it has the potential to be easier to integrate and, therefore, faster time to revenue.
+Secondly, it gives us an opportunity to partner with some players in the industry who are wafer providers. And if we were able to do that, then that might give us a real easy channel into getting success at some of the semiconductor manufacturers. So, where people use much lower-temperature manufacturing processes, they can use this type of solutions. And that's true for the most advanced nodes and, sometimes, in RF-SOI as well.
+Richard Shannon
+--
+Craig-Hallum Capital Group -- Analyst
+OK. Great color there, Scott. I think I'll absorb that one and get out of the queue again. Thank you.
+Mike Bishop
+All right. So, one last question from the Q&A line here, and that is about MST at STMicro and if it's going to be used in more than the smart power products.
+Scott Bibaud
+--
+President and Chief Executive Officer
+Yeah. Nothing to announce there yet, obviously. STMicro is a big company. I think they're learning about our technology, and one of the things they can do with this new installation in their fab is just try it out on other technologies.
+So, we would be delighted if they tried something else out and decided that it was good for them. And we will certainly be encouraging that type of behavior.
+Mike Bishop
+All right. Well, if you want to proceed with any closing comments, Scott.
+Scott Bibaud
+--
+President and Chief Executive Officer
+Sure. All right. Well, I want to just thank you all for joining us today. I'm pleased to have shared with you our efforts toward commercialization and technology development this past year.
+Please continue to look for our news, articles, and blog posts, which are available, along with investor alerts, on our website, atomera.com. Should you have additional questions, please contact Mike Bishop, who'll be happy to follow up. Thank you again for your support, and we look forward to our next update call.
+Mike Bishop
+Thank you, Scott. And this concludes the Atomera conference call.
+Duration: 0 minutes

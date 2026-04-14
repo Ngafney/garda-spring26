@@ -1,0 +1,392 @@
+[
+  {
+    "speaker": "Unknown",
+    "role": "",
+    "text": "Full Conference Call Transcript"
+  },
+  {
+    "speaker": "Erin Karney",
+    "role": "",
+    "text": "Thank you, operator, and thank you all for joining us on today's conference call to discuss Tenable Holdings, Inc.'s third quarter 2025 financial results. With me on the call today are Co-Chief Executive Officers, Stephen A. Vintz and Mark Thurmond, and Chief Financial Officer, Matt Brown. Prior to this call, we issued a press release announcing our financial results for the quarter. We will make forward-looking statements during the course of the call, including statements relating to our guidance and expectations for the fourth quarter and full year 2025, growth and drivers in our business, changes in the threat landscape in the security industry, and anticipated shifts towards preemptive security approaches, our competitive position in the market, growth in customer demand for and adoption of our solutions, including Tenable One, our exposure management platform, our ability to expand integrations with third-party tools and data sources, and grow our ecosystem, planned innovation, research and development investments, and new products, services, and initiatives, and our expectations regarding long-term profitability and free cash flow. These forward-looking statements involve risks and uncertainties, some of which are beyond our control, which could cause actual results to differ materially from those anticipated by these statements. You should not rely upon forward-looking statements as a prediction of future events. Forward-looking statements represent our beliefs and assumptions only as of today and should not be considered representative of our views as of any subsequent date. We disclaim any obligation to update any forward-looking statements or outlook. For a further discussion of the material risks and other important factors that could affect our actual results, please refer to those contained in our most recent annual report on Form 10-K and subsequent reports that we file with the SEC. In addition, all of the financial results we discuss today are non-GAAP financial measures, with the exception of revenue. These non-GAAP financial measures are in addition to and not a substitute for or superior to measures of financial performance prepared in accordance with GAAP. There are a number of limitations related to the use of these non-GAAP financial measures versus their closest GAAP equivalent. Our press release includes GAAP to non-GAAP reconciliations for these measures. I'll now turn the call over to Stephen A. Vintz."
+  },
+  {
+    "speaker": "Stephen A. Vintz",
+    "role": "",
+    "text": "Thanks, Erin. Before we get started, I want to welcome Matt Brown to the Tenable Holdings, Inc. team. Matt comes with tremendous experience and has hit the ground running since he joined us in August. With that, let's get into the quarter. In Q3, we exceeded all of our guided metrics, delivering 11% year-over-year revenue growth and a 23% operating margin. We continue to see strong growth from Tenable One, our exposure management platform, which represented approximately 40% of new business during the quarter. We added 437 new enterprise platform customers in the quarter, a 13% increase compared to 2024. Notably, half of all those customers are landing with exposure solutions. With strong momentum globally, we believe our strong new platform traction reflects a fundamental shift in cybersecurity away from detection and response technologies and more toward a more preventative and preemptive approach. Reactive approaches to cyber are where the tools, the budgets, and compliance priorities have lived for many years, simply trying to detect breaches. In fact, more than 95% of all cybersecurity spend today is on post-breach technologies. Consequently, less than 5% is spent on preemptive security. Now, the good news here is that mix is expected to change significantly over the ensuing years, and we're starting to see signs of that shift with Tenable One. The obvious question is why is this happening now? The short answer is AI. AI is dramatically reshaping the threat landscape as attacks have become faster, more automated, and more sophisticated, exposing the limits of traditional reactive defenses. The takeaway here is that it's no longer just about firefighting; it's about fireproofing, and exposure management is helping customers make that shift. Market-leading exposure management starts with unified visibility, but it's more than just seeing assets, domains, and systems across your environment. It demands intelligence, context, and the ability to mobilize that insight into action. It's not just about knowing that a vulnerability exists, but understanding that it's on a critical asset, is actively exploited, and sitting on a direct attack path to your crown jewels. It's also about using AI not simply to find flaws, but to anticipate how an adversary may move through your environment and to see your organization the way an attacker does, and moreover, to mobilize before attackers do. We believe Tenable One is uniquely positioned to win in this next phase of security in this new AI world, given our roots and our strategic direction. Our foundation in vulnerability management gives us the data, the scale, and credibility to lead the shift toward exposure management. We're building on that strength with focused investment and innovation. Notably, R&D is up over 20% year to date, reflecting significant investments in Tenable One that unify visibility, insight, and action across the full attack surface. In Q3, we launched Tenable AI Exposure, leveraging technology from Apex to give CISOs visibility into and control over the risk associated with generative AI. The solution helps organizations discover AI usage across their environments, understand how it impacts their attack surface, and identify potential exposures stemming from AI-enabled applications, code, and user behavior. It is a powerful example of how we continue to extend Tenable One to stay ahead of emerging threats. We also surpassed 300 validated integrations on the Tenable One platform, underscoring our progress in creating the most open and the most interconnected exposure management platform in the market. This open ecosystem is a key differentiator. These integrations go beyond technical connectivity to unify visibility and insight across tools, data, and teams. By breaking down silos between vulnerability management, file security, identity, OT operations, and the broader ecosystem of third-party tools, we are advancing how customers unify data, by context, and orchestrate faster in a more coordinated way. As we continue advancing this vision, we are building a platform where connectivity drives action, where customers don't just see risk, they can act on it. Finally, we advanced our vulnerability priority rating across different domains, allowing for higher levels of smarter orchestration and mobilization for exposure management. This gives organizations even sharper precision in determining which risks demand immediate action. Most enterprises are flooded with findings, and the challenge is not just seeing but knowing which ones matter. By combining real-world threat intelligence, contextualized asset data, and AI-driven analytics, our enhanced VPR helps customers focus their remediation efforts on the exposures that matter most. We believe that these innovations across visibility, insight, and action, combined with our growing open integration ecosystem, and our focused investment on preemptive security and R&D, are what differentiates Tenable Holdings, Inc. among the many vendors now laying claim to the exposure management space. And our core-to-life customers are turning to us. I'd now like to turn the call over to Mark Thurmond to discuss how customers and the industry are responding to the shift to exposure management and how we are leading them through this change."
+  },
+  {
+    "speaker": "Mark Thurmond",
+    "role": "",
+    "text": "Thanks, Stephen A. Vintz. We believe Tenable Holdings, Inc. is leading the transformation to exposure management, and the industry is taking notice. We were recognized as a leader in exposure management by two of the industry's top analyst firms during Q3. In July, Tenable Holdings, Inc. was named a leader in the Forrester Wave for unified vulnerability management solutions. In August, we were recognized as a leader in the IDC MarketScape for exposure management platforms. And in September, IDC again reported Tenable Holdings, Inc. ranked number one in its latest market share report. As Stephen A. Vintz mentioned, one of our defining strengths and what shines through in every customer story is Tenable One's ability to unify visibility, insight, and action across the modern attack surface. We're now extending that power to include both Tenable Native and third-party data, giving customers an even more complete view of risk. But exposure management is more than a technology; it's a journey that requires a new mindset. We're listening closely to our customers by helping them chart that path step by step. Our exposure management leadership council and our exposure management maturity model have become critical guides in that journey. The leadership council, which launched this quarter, brings together some of the most forward-thinking CISOs and security leaders to share insight and best practices from their own exposure management transformation. Their feedback helped shape our platform roadmap and ensures we're focused on solving the challenges that matter most. Our new exposure management maturity model gives organizations a framework to assess where they are today and what it will take to advance in their exposure management journey. It helps them measure progress, identify gaps, and prioritize the investments that will have the greatest impact. Together, our exposure management leadership council and maturity model are helping customers turn exposure management from an abstract goal into a disciplined strategy for the future. Through these initiatives, we're helping customers evolve their approach from managing vulnerabilities to embracing a true preemptive security mindset. It's how they move from reacting to risk to staying ahead of it. That's what Tenable One is designed to deliver: the clarity, intelligence, and context to see threats before they strike. As Stephen A. Vintz highlighted, we're leading the way with the most comprehensive exposure management platform in the market, helping our customers build stronger, smarter defenses for the AI era. Let me give you some real-world examples from the quarter. First, we captured a major new logo with a global commercial real estate investment services firm, displacing the top cloud security provider and an incumbent vulnerability management player to consolidate onto the Tenable One platform. Like many large enterprises, this customer faced growing complexity of a hybrid environment with assets spread across on-prem infrastructure, multiple cloud providers, and third-party systems. Tenable One was selected for its superior technical capabilities across cloud security and vulnerability management. It was also chosen for its ability to unify data and context across their entire ecosystem. This consolidation immediately filled critical visibility gaps, streamlined operations, and reduced the cost and complexity of managing risk across a fragmented landscape. We also had another major win this quarter with a national electric utility provider in EMEA to accelerate their critical infrastructure transformation. Like many in the energy sector, this organization is navigating the growing convergence of IT and OT environments, with operational technology increasingly coming under the responsibility of the CISO. They selected Tenable Holdings, Inc. as their exposure management partner for our ability to integrate complex technical requirements and deliver a cohesive, scalable OT security framework across their national distribution network. By unifying visibility and context across IT and OT assets, Tenable Holdings, Inc. is helping them eliminate silos and protect critical infrastructure at a national scale. We also secured a six-figure expansion with a leading technology provider serving the public sector, converting them from our standalone cloud product onto the Tenable One platform. This is a strategic shift for the customer, driven by their need to unify visibility and control across a complex hybrid environment supporting sensitive government workloads. This multiyear agreement enables them to consolidate onto Tenable One over time, simplifying operations, reducing vendor sprawl, and strengthening compliance across both commercial and public sector deployments. These customer wins reinforce that our strategy is absolutely working. We are earning larger, longer-term commitments by delivering strategic value and deeper integration into our customer environments. At the same time, we believe these wins reflect the broader shift that is now underway from reactive post-breach defense to preemptive security. As this shift accelerates, we believe Tenable Holdings, Inc. is exceptionally well-positioned for sustainable growth, with exposure management becoming the foundation of modern cybersecurity programs worldwide. With that, I'll turn the call back over to Matt Brown to dive deeper into the results for the quarter."
+  },
+  {
+    "speaker": "Matt Brown",
+    "role": "",
+    "text": "Thanks, Mark Thurmond. I want to thank everyone for the warm welcome. I'm really excited to be here. I look forward to seeing new and familiar faces over the next couple of months. With that, I'll jump into the results for the quarter. We're encouraged by the strong third quarter, exceeding the high end of the range on every metric we guided to for the quarter. Revenue was $252.4 million, representing growth of 11.2% year over year. The year-over-year growth in revenue for the quarter, as well as outperformance relative to guidance, was underpinned by a solid foundation of renewal business, strong Tenable One adoption, and better-than-expected contribution from professional services. Our percentage of recurring revenue remained high, at 95% this quarter. We're continuing to see solid momentum in Tenable One, as customers are increasingly turning to our platform to bolster their preemptive security programs. The strength in new platform growth in the quarter drove calculated current billings, or CCB, to $267.5 million, a year-over-year increase of 7.7%, while short-term remaining purchase obligations, or CRPO, grew 12.9%. These measures are beginning to diverge due to changes in upfront billings patterns and increasing contract durations, which we expect to persist in the midterm. Net dollar expansion rate was in line with expectations at 106%. Non-GAAP gross margin was 81.6% for the quarter, an increase from 81.4% in Q3 2024. We're encouraged by our ability to slowly but steadily increase non-GAAP gross profit year over year, both on a quarter and year-to-date basis. Year-to-date non-GAAP gross margin was 81.8%, compared to 81.3% for the nine months ended in the prior year. Non-GAAP income from operations was $58.9 million, or 23.3% of revenue, compared to $45 million, or 19.8% of revenue in Q3 2024. Although we continue to make targeted investments during the quarter, including growth of more than 18% in research and development-related expenses year over year, we were able to drive continued leverage in the business as a whole. Our investment in innovation is a result of our focus on delivering the most comprehensive exposure management platform to our customers. On a year-to-date basis, non-GAAP income from operations grew to $155.3 million, or 21% of revenue, compared to $124.8 million, or 18.8% of revenue in the comparable period last year. Non-GAAP earnings per share for the quarter was $0.42, compared to $0.32 in Q3 2024, an increase of 31.3%, reflecting the increase in profitability combined with a decrease in diluted shares outstanding. Turning to the balance sheet, cash and short-term investments totaled $383.6 million. We generated $58.5 million of unlevered free cash flow during the quarter, compared to $60.8 million in Q3 2024. This brings the year-to-date unlevered free cash flow to $189.6 million, a year-over-year increase of 24.7%, putting our annual guide well within reach. During the third quarter, we repurchased 2 million shares for $60 million. In total, we have now repurchased 8.3 million shares for $300 million since November 2023 and have $250 million of repurchase authorization remaining. We intend to continue to repurchase shares, which we believe is an effective use of capital. Turning to the financial outlook for the remainder of the year, with the results of the third quarter behind us, we've gained incremental visibility into the full year, and as a result, we are raising our full-year guidance at the midpoint across most of our guided metrics. Specifically, we are increasing our full-year guidance at midpoint for CCB and now expect a range of $1.04 billion to $1.048 billion, representing a year-over-year increase of 7.7% at the midpoint. We expect revenue for the fourth quarter to be in a range of $249.1 million to $253.1 million, representing a year-over-year increase of 6.5% at the midpoint. For full-year 2025, we are raising our revenue guidance range to $988 million to $992 million, representing a year-over-year increase of 10% at the midpoint. We expect non-GAAP income from operations for the fourth quarter to be in the range of $55.7 million to $59.7 million, or 23% of revenue at the midpoint. For full-year 2025, we are raising our non-GAAP operating income guidance at the midpoint and now expect a range of $211 million to $215 million, or 21.5% of revenue at the midpoint, representing a year-over-year increase of 100 basis points. We remain committed to balancing top-line growth with a steady increase in profitability. We expect non-GAAP net income for the fourth quarter to be in the range of $47.9 million to $51.9 million, representing a year-over-year decrease of 1.6% at the midpoint. For full-year 2025, we are raising our non-GAAP net income guidance at the midpoint and now expect a range of $185 million to $189 million, representing year-over-year growth of 17.9% at the midpoint. We expect non-GAAP earnings per share for the fourth quarter to be in the range of $0.39 to $0.43, flat at the midpoint compared to Q4 2024. For full-year 2025, we are raising our non-GAAP earnings per share guidance to $1.51 to $1.54, representing year-over-year growth of 18.2% at the midpoint. In closing, we'd like to thank the entire Tenable Holdings, Inc. team and our customers and partners for a great result. We're very pleased with the steady execution the team has delivered this quarter and our incremental optimism for the rest of the year, as reflected in the increased guidance ranges we've provided. Mark Thurmond, Stephen A. Vintz, and I thank you all for joining, and we look forward to seeing you at the UBS and Barclays conferences in the coming weeks. We are happy to open the call up for questions. Operator?"
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Thank you. We will now be conducting a question and answer session. You may press 2 if you would like to remove your question from the queue. Star keys. The first question is from Saket Kalia from Barclays. Please go ahead."
+  },
+  {
+    "speaker": "Saket Kalia",
+    "role": "",
+    "text": "Okay, great. Hey, guys. Thanks for taking my question here, and welcome, Matt."
+  },
+  {
+    "speaker": "Saket Kalia",
+    "role": "",
+    "text": "Hey, guys. I'll just keep it to one question. Stephen A. Vintz and Mark Thurmond, maybe for you, US Federal is, of course, a really important vertical for Tenable Holdings, Inc. Can you just talk a little bit about how that performed this quarter? And given the current situation, maybe give us a little historical context of how the business has performed around prior shutdowns as we think about any potential impact going into Q4? That makes sense?"
+  },
+  {
+    "speaker": "Stephen A. Vintz",
+    "role": "",
+    "text": "It does, Saket, and thank you for your question. This is Stephen A. Vintz. We have major market leadership in the public sector and US federal in particular, across a wide range of three-letter federal agencies spanning civilian defense and intel. CRs are not new, and nor are government shutdowns. We have seen them before, and we've demonstrated an ability to execute in these environments. We're particularly pleased with the results this quarter. Public sector, US federal, was in line with expectations, which is very notable given the seasonally high mix of US federal business. So overall, a good result for us for the quarter."
+  },
+  {
+    "speaker": "Saket Kalia",
+    "role": "",
+    "text": "Very helpful. Thank you."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "The next question is from Brian Essex from JPMorgan. Please go ahead."
+  },
+  {
+    "speaker": "Brian Essex",
+    "role": "",
+    "text": "Hi, good afternoon. Thank you for taking the question. And Matt, congratulations on the new role for me as well. Looking forward to working with you again. Thanks, and congrats. And, you know, nice consistency out of the gates as well. So, certainly appreciate that. May I guess maybe to follow on a Saket question for you, Matt, you know, was down at DC last week and at the CISA, and it was clear that things were going to get incrementally uglier this week as agencies run out of money, particularly for essential employees where, you know, CISA is focused. But we'd love to hear, you know, from your perspective, you know, given that, I guess, deceleration that's baked into the four q, like, just basically what's what's what's implied by your full year guide, the deceleration of revenue in the four q. What are you what are you contemplating within guidance? And what kind of scenarios might lead for, you know, upside to your, you know, expectations for the quarter and for the year?"
+  },
+  {
+    "speaker": "Matt Brown",
+    "role": "",
+    "text": "Yeah. I think the first thing to note is just the steady execution that we had in Q3 under the current environment of uncertainty. And keeping in mind, Q3 is a higher proportion of Fed for us relative to other quarters in the year. So with that backdrop, we look ahead to Q4, which seasonally is a smaller Fed quarter for us, and see relatively minimal exposure. Now, you know, of course, there's, you know, a couple million dollars that could be at play here or there. But, generally, we feel very positive about the pipeline that we see renewals continue to come in very strong. We think we've got good line of sight. So we think we're not especially exposed in this fourth quarter."
+  },
+  {
+    "speaker": "Brian Essex",
+    "role": "",
+    "text": "Got it. Maybe if sneak in a quick follow-up for Mark Thurmond. Just with regard to the impact of the expiration of CISA 2015, and what that might have on CVE reporting. Any impact that you might envision for the core VM portion of your business?"
+  },
+  {
+    "speaker": "Mark Thurmond",
+    "role": "",
+    "text": "Yeah. Right now, based on feedback with customers and talking to a bunch of partners, and obviously our employee base, we're not really projected to see any type of negative impact right now. As it plays out, we'll obviously be monitoring it closely. But right now, based on a lot of our conversations and contacts and relationships we've got going on, in the federal government, we're not really anticipating any significant downside there."
+  },
+  {
+    "speaker": "Brian Essex",
+    "role": "",
+    "text": "Super helpful. Thank you so much."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "The next question is from Mike Cikos from Needham and Co. Please go ahead."
+  },
+  {
+    "speaker": "Mike Cikos",
+    "role": "",
+    "text": "Great. Thanks for taking the questions, and congratulations to you, Matt. Looking forward to working together."
+  },
+  {
+    "speaker": "Mike Cikos",
+    "role": "",
+    "text": "Before I ask my second question, which is more tied to the billing, I just wanted to ask Matt, since this is your first earnings call here with the firm, can you help us think about if there were any changes to guidance philosophy or what you're what you're bringing to the finance function here, now that you got a couple months in the seat."
+  },
+  {
+    "speaker": "Matt Brown",
+    "role": "",
+    "text": "Yeah. I mean, I think generally, substantial changes to our approach to guidance. I will say I was just extremely pleased to come in and see a very high functioning team not just within finance, but across the entire organization. I feel like we're really focused on the right things, and the team is all rowing together. So, I would say no major shifts in the way that we're approaching guidance."
+  },
+  {
+    "speaker": "Mike Cikos",
+    "role": "",
+    "text": "Okay. And then the follow-up is again on that billing side. Trying to get a better sense of the different puts and takes here. Right? If we have the call it, 3,000,000 issue of upside this quarter versus where people were expected, We're nudging up the low end of the guide by 2,000,000 You guys are talking about increased visibility into year end. Can you just discuss how you guys thought about putting out this range in some of the different puts and takes there, as it pertains to the visibility you're talking to. Sure."
+  },
+  {
+    "speaker": "Matt Brown",
+    "role": "",
+    "text": "I think that the very brief takeaway is, you know, as we sit here today, we're feeling incrementally more positive about the year than we were three months ago. That's as a result of a of a strong Q3, but also visibility into Q4. So it represents, it's a small guidance increase at the midpoint for CCB of a million. But that slows down too. So taking up the guidance revenue, taking up the guidance in op income, all those things are things that we're we're happy we're able to do which is as a result of us feeling better about the year on balance."
+  },
+  {
+    "speaker": "Mike Cikos",
+    "role": "",
+    "text": "Terrific. Thank you very much, guys."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "The next question is from Robbie David Owens from Piper Sandler. Please go ahead."
+  },
+  {
+    "speaker": "Robbie David Owens",
+    "role": "",
+    "text": "Great. Thank you for taking my Stephen A. Vintz really enjoyed the upfront on fireproofing versus firefighting. In terms of where things are going. Know, to that end, if I look at your enterprise ads versus your 100,000 ACV customers, maybe you can parse what's going on there. And are you just are you seeing more new customer additions upfront and you're starting to see just velocity increase on that front as of these trends are changing. And if that's the case, maybe you could add some color around the 100,000 ACV customers. Thanks."
+  },
+  {
+    "speaker": "Stephen A. Vintz",
+    "role": "",
+    "text": "Sure. Well, as you noted, like, our mix of business can change quarter to quarter. This quarter has higher concentrations. With, with US Federal. And as we mentioned, we were very pleased with the results there. We're also very pleased with the strong quarter for new business for us. We added 437 new enterprise platform customers which was one of our strongest quarters. I would say, to date. And look. On a year to date basis too, new lands have been strong. We're also, as we've talked about in the on the prior quarters, is that we've demonstrated an ability with our exposure management platform to transact larger deals. We're delivering incremental value to customers transaction sizes and deal sizes are getting larger. And, on average, anywhere from 50 to 90% plus comparison to stand alone VM. So, overall, we're pleased with the velocity of LANs. This quarter. We're pleased with our ability to con continue to do larger deals. And there's always some interplay from one quarter to the other. And I think it really speaks to the continued momentum of the platform. And the ability to help customers sort through all of this fragmented visibility, this overwhelming noise, and alerts, and all this manual remediation to help them unify visibility insights, and action. To reduce risk. And so it's certainly, something that, we're we're pleased to see with the continued traction of the platform."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "The next question is from Meta Marshall from Morgan Stanley. Please go ahead."
+  },
+  {
+    "speaker": "Meta Marshall",
+    "role": "",
+    "text": "Great, thanks. Maybe a couple for me. Just first, in terms of noted commentary on the OT market, just wanted to know if there's efforts underway kind of either with R and D or go to market to kind of better take advantage of some of those opportunities. And then second, just kind of noting the 18% increase in art and D, just in terms of, you know, kind of the answer to the previous question of trying to simplify kind of environments for customers. Just what are some of the other investments, whether that's professional services or go to market, are you making that kind of help simplify the offering for customers? Thanks."
+  },
+  {
+    "speaker": "Mark Thurmond",
+    "role": "",
+    "text": "Yeah. Question. I'll take the first part on the OT market and what we're seeing, and then I'll pass it over Stephen A. Vintz to talk about some of the investments from a research perspective. So we are seeing a dynamic in the market, and it's been happening really all year, but it's happening, I think, at a bit of a faster pace, where you're seeing this convergence of the OT market and the CISO getting a lot more responsibility and visibility over those OT assets. And one of the deals that we referenced in the earnings announcement was that consolidation story. So we're seeing a lot of not only our install base customers, wanting to look at and be able to ingest those OT assets into Tenable One, also new customers where they're saying, we don't wanna have two distinct products and technologies, one looking at traditional IT assets, then another one looking at OT assets. So you're seeing that convergence, and it is speeding up. When you also look at some of the market dynamics around the AI data center build out, that is a big area for us We're seeing a lot of demand when companies and organizations are building out data centers. They need operational technology to monitor all of those different asset types. And we're starting to see significant pipeline growth in closing deals in ad area. So we were very pleased and have been pleased all year with our OT performance. We will continue to focus in on it from a go to market perspective. I'll pass it over to Stephen A. Vintz now to talk about some of the R and D questions."
+  },
+  {
+    "speaker": "Stephen A. Vintz",
+    "role": "",
+    "text": "Yes. With regard to R and D and the investments we're making, they're paired with increased confidence and our ability to execute in this big market that we call exposure management. And really centered around three things. Number one is the ability to unify visibility and in particular, ingest data from other security providers, so we can help customers see any asset, whether it's on their factory floor, in their network, or even in their cloud environment, And then moreover is the ability to normalize and dedupe all of that to tie it to mobilization and orchestration on the back end. So we can help customers reduce risk. And that's, and then last, I would say, and, and really important is helping customers secure their AI attack surface. And leveraging AI in a way where we're able to deliver greater insights to customers. And AI adoption of applications has dramatically expanded the attack surface, and certainly made us all more successful to exploit. And Temp will place a really big role there. As we're able to discover all AI applications, whether they're internally developed or, you know, or even shadow AI. And then we're able to assess those for risk, including determining vulnerabilities and misconfigs And now with AI Exposure, we can go and inspect and control at the prompt level the AI applications that enterprise use the most. So we have a lot of traction with AI. Pleased with the innovation we've done today, but there's certainly a lot more to do. And we believe principally the real winners in this new AI world will be companies that can assess a wide range of domains, ingest data, from other security providers, and then really combine all that proprietary exposure data with AI to anticipate tax. Not simply to respond to them. And that's a foundational change in the security market shifting away from detect and respond more towards pre active and preventative approaches."
+  },
+  {
+    "speaker": "Meta Marshall",
+    "role": "",
+    "text": "Great. Thank you so much."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Next question is from Jonathan Ho from William Blair. Please go ahead."
+  },
+  {
+    "speaker": "Jonathan Ho",
+    "role": "",
+    "text": "Hi, good afternoon and congratulations on the strong results. You give us a sense of what percentage of your total base is now on Tenable One And it seems to me like there would be some opportunity to upsell more into the base once they've adopted the platform. So can you also talk about maybe the potential for Uplift going forward on the platform? Thank you."
+  },
+  {
+    "speaker": "Stephen A. Vintz",
+    "role": "",
+    "text": "Hi. Yes. As you know, we have roughly 40,000 customers 40,000 plus, should I say, and approximately we'll call it 18,000 use one of our enterprise offerings. And of those, 3,000 plus are using Tenable. One. So we've got good traction to date. It's 40% of our total new sales. And so there's a significant opportunity not only to expand within the existing customers have to have adopted Tenable one, but moreover, continue to see further traction within our customer base."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "The next question is from Joseph Gallo from Jefferies. Please go ahead."
+  },
+  {
+    "speaker": "Joseph Gallo",
+    "role": "",
+    "text": "Hey, guys. Thanks for the question. And Matt, congrats on the new role. Looking forward to working together. It was great to hear the exposure management momentum. You know, as we start to get ready for next year, in your combos with customers, where is the prioritization exposure management in their budgets? And then, historically, I think you give some sense of, you know, following your billings in 3Q. Just any commentary on what billings can look like in 2026 or your confidence in sustaining the current levels would be helpful. Thanks."
+  },
+  {
+    "speaker": "Mark Thurmond",
+    "role": "",
+    "text": "Yeah. I'll take down on the budget question from the customer perspective, from exposure management. I think one of the bright spots that we're really starting to see is we talked about all of the different analysts that are starting to cover the exposure management category. And coming out as the leader and the number one player in that category has given us lots of visibility, especially at the CISO level. So now when we're sitting down with customers, we're not actually having to educate a lot of the CSOs what exposure management is and how it is so different. From vulnerability management. They're hearing about it. They're seeing it. And so you're starting to see budgets being allocated that way. You're starting to see budgets in regard to consolidation, which is really one of the biggest motions we have in regard to going after and talking about exposure management. And justifying it is really looking at that consolidation play. So that momentum is there, and it's gaining traction. And that continues to play out in the market, not just with customers, but we're also seeing our resellers and our partner community around the globe start to build out exposure management practices and gain visibility there too."
+  },
+  {
+    "speaker": "Matt Brown",
+    "role": "",
+    "text": "Yeah. And I can answer your second question. So what we're really happy about is that there is this move, in particular, to Tenable One, roughly a third of our business now is in Tenable. One increasingly, we're seeing new customers adopting Tenable One That's exactly what we're focused on. And we think that sets us up well for the long term. In going and really you know, capitalizing on this exposure management environment. With respect to 2026, we're we're really focused on 2025 and closing out and continuing to execute there. And it's just too early to talk about 2026, at this point. But importantly, we feel like we're doing all the right things to put us in the right spot."
+  },
+  {
+    "speaker": "Joseph Gallo",
+    "role": "",
+    "text": "Makes sense. That's helpful. Thank you."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Next question is from Patrick Colville from Scotiabank. Please go ahead."
+  },
+  {
+    "speaker": "William Joseph Vandrick",
+    "role": "",
+    "text": "Hi. This is William Joseph Vandrick on for Patrick Colville. Stephen A. Vintz, I think you mentioned earlier that there's a lot more to do on AI in innovation. I was hoping you could expand a bit more on that. Maybe talk about how you're thinking about the road map, how you're planning and how you're planning to add these new AI security products or solutions? Would it be organically or through m and a?"
+  },
+  {
+    "speaker": "Stephen A. Vintz",
+    "role": "",
+    "text": "I think we would certainly consider both in successful companies. You know, pull both levers here. And I think it's centered around the fact that the threat environment that we're experiencing today is unlike anything we've seen before. Adversaries are moving with incredible speed, scale, and sophistication. And leveraging LLMs and AI to create flawless hyper realistic phishing emails. That bypass both human suspicion and traditional email filters. We're also seeing executive cloning of executive faces and voices for socially engineered attacks. So certainly, bad actors are moving with incredible speed. We're seeing the weaponization of AI, which is resulting in the discovery of more vulnerabilities. And perhaps more concerning is not just more vulnerabilities in this all new digital world of AI. But it's the exploitation of those have become much faster meantime for vulnerability discovery to vulnerability exploitation. Has compressed dramatically. So and this necessitates a completely new approach to security. You know, today, 96¢ on every dollar in cybersecurity is spent on detect and respond technologies. Consequently, 4% is on proactive security. Gartner estimates over the next five years that mix will change dramatically And so we'll see a disproportionate amount of spend more towards proactive security. And the goal here is to move Tenable Holdings, Inc. our role in this world, is to evolve from not just providing visibility but to be able to correlate vulnerabilities with threats and exploit chatter with criticality of those assets So we can highlight likely passive exploit. So organizations can look at their enterprise through the lens of adversaries, and they can identify attack paths that are most meaningful to them. So exposure management is really at the epicenter of all of that. And it's a category that continues to grow. And we've received recognition from IDC and some of the others that Mark Thurmond talked about earlier. Given our attraction with exposure management, and we're super excited about, about what's ahead for us."
+  },
+  {
+    "speaker": "William Joseph Vandrick",
+    "role": "",
+    "text": "Makes sense. Thank you."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "The next question is from Roger Foley Boyd from UBS. Please go ahead."
+  },
+  {
+    "speaker": "Roger Foley Boyd",
+    "role": "",
+    "text": "Awesome. Thanks for taking the question. You talked about the longer, more strategic deals and it seems like that's been a consistent trend over the past couple of quarters. And clearly evident in the nice acceleration on RPO and bookings this quarter. Can you just further quantify what you're seeing there, what you're doing there from a sales perspective? And with these longer contracts, just what's the overlap with customers adopting 10 o one exposure management?"
+  },
+  {
+    "speaker": "Mark Thurmond",
+    "role": "",
+    "text": "Yeah. You bet. I mean, it's it's an it's a really phenomenal dynamic that we're seeing. Right? The great part of this you see it in the RPO numbers, is we have customers not only new customers, but our install base that want to get longer term three year commitments. Right? They're seeing the road map. They're seeing how we're evolving. Exposure management, how we're building this technology and building Tenable on the platform. And when we are able to articulate that and explain to them where we're headed, the customers are buying in, and they're buying in aggressively. They're making long term commitments. And so we're very, very focused on the installed base that Stephen A. Vintz identified. Going after those 18,000 to 20,000 commercial and enterprise customers. Anyone that's on VM, getting them upsold to Tenable one, that is our motion. Are driving that aggressively. And then for the new logos, one of the very cool things, when we identified which is an extremely high number, four thirty seven new logos in the quarter, a very significant portion of those customers were tenable one. So that is a pretty cool trend. And we'll be able to then upsell those customers over time. And so I think when you see customers willing to sign up, for long term contracts, when they understand where you're headed and you're truly building an scale platform, that's an extremely positive sign for us."
+  },
+  {
+    "speaker": "Roger Foley Boyd",
+    "role": "",
+    "text": "Appreciate the color, Mark Thurmond. And congrats, Matt Brown."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "The next question is from Joshua Tilton from Wolfe Research. Please go ahead."
+  },
+  {
+    "speaker": "Joshua Tilton",
+    "role": "",
+    "text": "Hey, guys. Thanks for taking my questions. And, Matt Brown, it's good to hear your voice again. Two for me. First one, hopefully, kinda easy, more of a clarification. Is there any way you can just help us understand what the inorganic contribution to billings was in the quarter? How we should think about the inorganic contribution to billings for the full year? And then I have a follow-up."
+  },
+  {
+    "speaker": "Matt Brown",
+    "role": "",
+    "text": "Yes. Very insignificant, Joshua Tilton. Both the quarter and the year."
+  },
+  {
+    "speaker": "Joshua Tilton",
+    "role": "",
+    "text": "Okay. Very helpful. And then maybe just a follow-up and I prefaced the question with not here to hold you to any numbers, but I think part of what was great about you in your previous role is you had a pretty predictable playbook on how you wanted the financial profile of the business to kind of unfold on an annual basis, and I think investors really appreciated that. So again, not here looking for numbers, but maybe how do you think about your ability to leverage some of the playbook from your previous role? Kinda deliver or help deliver a more consistent message around the durability of the financial profile for Tenable Holdings, Inc. going forward?"
+  },
+  {
+    "speaker": "Matt Brown",
+    "role": "",
+    "text": "Oh, man. That is quite a setup. So mean, here's here's the way that I look at it. Tenable Holdings, Inc. has a really incredible business, and is getting only better and more strategic. With our move to exposure management. So when you look at the underlying fund fundamentals and the fact that 95% of revenue is subscription and recurring. There is an opportunity to make sure that we can continue to grow line while also continue to add profitability. I think there are some spots in the p and l where we've done that already. Over the past couple of years, but we'll continue to do that. Going forward into the future where we can we can continue to get more leverage out of the business. So I think there's a lot of opportunity to do some of the same things that I've done before."
+  },
+  {
+    "speaker": "Joshua Tilton",
+    "role": "",
+    "text": "Appreciate it. Thank you, guys."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "The next question is from Adam Borg from Stifel. Please go ahead."
+  },
+  {
+    "speaker": "Adam Borg",
+    "role": "",
+    "text": "Awesome. Thanks for taking the question. And of course, welcome and congrats to Matt Brown. Maybe just on the macro, we talked a lot about the Fed is great to see in line with expectations. Any other color you could share just demand environment overall, be it at the upper end of the market, the mid market, you know, geography, vertical, any other color, would be really great. Thanks so much."
+  },
+  {
+    "speaker": "Stephen A. Vintz",
+    "role": "",
+    "text": "No. I think, demand was pretty even really across the board. We talked about seasonally high mix in US federal, and we were pleased with the results there. Talked about strength in new lands and new logos, four thirty seven. And, obviously, the continued traction with the platform. And I think that's really the highlight of the quarter here. The one takeaway is that the ability to close platform sales, the ability to assess a wide range of domains, the ability to unify action. Unify insight, and to deliver increased visibility from both the things that we assess assets that we assess, as well as ingest data from others. Is resonating. It's one it's a big market opportunity. We believe we're the, clear leader there. And it's good to see the validation and recognition from our customers."
+  },
+  {
+    "speaker": "Adam Borg",
+    "role": "",
+    "text": "Great. Thanks so much."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "The next question is from Jonathan Blake Ruykhaver from Cantor. Please go ahead."
+  },
+  {
+    "speaker": "Jonathan Blake Ruykhaver",
+    "role": "",
+    "text": "Yeah. Hey, guys. I'm I'm curious to hear how conversations might be changing with the pending with Google deal, how much of a concern is multi cloud support? And then just, you know, broadly looking at Tenable Cloud Security, how is it performing? I mean, does look like a market that's that is increasingly competitive. But when you look at your positioning relative to the broader exposure management opportunity, it seems like that could be a different differentiating factor. So maybe you could just elaborate on those two questions."
+  },
+  {
+    "speaker": "Mark Thurmond",
+    "role": "",
+    "text": "Yeah, you bet. No, absolutely. And yeah, it is definitely an active conversation without a doubt. Right? So a lot of CSOs are really looking at it. And, you know, we mentioned this on a couple previous calls. Once the announcement was first out there. But you're really starting to see it pick up, because now it's becoming reality. Now customers are getting a true sense of how they're going to come together within Google. And we are doing a significant amount of presentations, demonstrations, and POVs and with accounts. When we look at Q3, you know, we had a bunch of deals that we were able to go in and actually do displacements. One of the deals we highlighted on the call was a displacement of not just Wiz account, but also an incumbent VM player. So to the point that you brought up in the question, this consolidation story around a platform that centers around exposure management, being able to ingest multiple different assets into a hybrid platform so both on prem and in the cloud and in OT and in identity and other areas, that absolutely resonates. And so we are I use the term getting invited to a significant amount of more dances And we continue and we will continue to expect that to happen throughout Q4 and going into next year. So we are very, very optimistic about our cloud business. Centered around Tenable One."
+  },
+  {
+    "speaker": "Jonathan Blake Ruykhaver",
+    "role": "",
+    "text": "That's that's great to hear. Thank you."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "The next question is from Todd Weller from Stephens. Please go ahead."
+  },
+  {
+    "speaker": "Todd Weller",
+    "role": "",
+    "text": "Thanks for taking the question. In the past, we've talked about kind of the growth equation to drive you know, top line acceleration. To see if you could just kind of revisit that and give us an update, momentum with Tenable one and exposure management. You know, is great, and that's much higher growth. And then you have, the traditional VM piece. So how are you thinking about those components How are thinking about the VM kind of sustainable growth? And is it really just a math equation and time of the exposure piece continuing to get bigger? Or is there anything that can happen on the VM side that can drive kind of improved growth there? Thank you."
+  },
+  {
+    "speaker": "Matt Brown",
+    "role": "",
+    "text": "Yeah. Yeah. I think you've hit on the main components there. So we're 100% you know, focused on Tenable One and driving customers to Tenable One. Our belief is that once they're there, they will continue to expand. So whether they're doing know, pretty much as core VM there today, we're seeing opportunities where they then expand within Tenable One to take on more EM type activities. So that's encouraging. When you zoom out from Tenable One and you look just at you know, VM versus EM, EM is obviously today a smaller part of our business, but it is growing much faster. So our expectation is that over time, while VM is a stable grower, EM is growing much faster and that helps drive that growth algorithm overall."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "The next question is from Junaid Hamid Siddiqui from Truist. Please go ahead."
+  },
+  {
+    "speaker": "Junaid Hamid Siddiqui",
+    "role": "",
+    "text": "Great. Thank you for taking my question. You highlighted now supporting over 300 validated integrations How are these integrations contributing to deal velocity and deal sizes?"
+  },
+  {
+    "speaker": "Stephen A. Vintz",
+    "role": "",
+    "text": "Yeah. Well, the it's it's centered around this belief. That no one security company can secure all domains, all assets, across the attack surface. You know, we have today's attack surface is a sprawling of traditional IT device. It's cloud environment. Identities for human and machine as well as OT industrial control systems that power a lot of our critical infrastructure. So over the years, the attack surface, has expanded. Right? Longer about securing servers in the data center or laptops in an office. And so, we think, exposure management is really centered around this belief of, a, assessing things that are foundational, like traditional IT devices, like cloud environment, both pre and post production. Like OT assets, and even looking at the important contacts around the identities of those. But also the ability to ingest data from others. We believe in an open platform, we believe we should be able to partner for from this kind of data to deliver this kind of insight to customers. I'll send it around this notion of unified visibility and insight and action. So it's foundation to what we do. We think the connections matter. We think it gives us certainly more breadth, the ability to deliver more insights, and more importantly, the ability to help our customers mobilize and orchestrate fixes on the back end and correlate vulnerabilities with exploit chatter, with asset criticality, That's really important to do that. In a very cohesive way."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "The next question is from Shrenik Kothari from Robert Baird. Please go ahead."
+  },
+  {
+    "speaker": "Shrenik Kothari",
+    "role": "",
+    "text": "Hey. Thanks for taking my question. Congrats, and welcome, Matt Brown. Mark Thurmond, Stephen A. Vintz, you cited 40% of new business, of course, improving ASPs and deal sizes. And like the platform growth as a percent of new business is hovering in near that 40% mix. Just what do you think are going to be the biggest unlocks to further accelerate this platform access as a as a as a percentage of new business are you thinking something along the lines of, like, pricing, packaging, exploring something like flex? Are you also thinking more sort of field enablement and increased S and M investments? Just curious. And then a follow-up for Matt Brown."
+  },
+  {
+    "speaker": "Mark Thurmond",
+    "role": "",
+    "text": "Yeah. So you highlighted a couple of great areas right there. Right? And so those areas we're looking at. But I think one of the best things we've got in front of us is we've got the opportunity to expand in that installed base. Right? So as Stephen A. Vintz kind of highlighted the numbers, we've got phenomenal opportunity to go expand within our huge massive install base. So that is like the number one focus for us is getting that expansion. Look at the innovation that we've done around third party ingest, we're now seeing here in Q4 a bunch of quotes going out to Tenable One deals that have third party asset types. Right? So we'll be able to monetize third party asset type. So that will start taking off. We talked about AI strategy and what we did with Apex. How we'll be able to start monetizing that in Q4 and especially going in 2026. Now that is on the back of some of the things you highlighted. Right? So obviously, pricing and packaging strategies and marketing strategies. Those are all things that we're very much on top of. But there is very tangible, specific things that we're doing today to get the growth and the expansion. Within Tenable One, and then we're going to continue to march down that road."
+  },
+  {
+    "speaker": "Shrenik Kothari",
+    "role": "",
+    "text": "Great. Very helpful. And, Matt Brown, just very quickly, from your perspective in terms of what you have seen so far, Like how do you plan to now kind of balance all the priorities that just laid out versus incremental operating leverage just in terms of your strategy or your priorities, how should we expect 2026?"
+  },
+  {
+    "speaker": "Matt Brown",
+    "role": "",
+    "text": "Yeah. I think we expect to continue to both grow top line and add incremental margin. And so when we look at places on the p and l where we can get that margin. It's a little bit like what you should have seen in this quarter's results actually. Where you're gonna get a little bit out of gross get a little bit out of sales and marketing and g and a, and we are gonna probably give a little bit back in R and D. Because we're continuing to invest in the platform. So and we're gonna you know, there's gonna be, obviously, no one quarter is going to be exactly like the next. We're going to continue to invest in sales capacity as well. But the point is as you grow revenue, you're able to just get a little bit more leverage."
+  },
+  {
+    "speaker": "Shrenik Kothari",
+    "role": "",
+    "text": "Got it. Thanks a lot."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "The last question is from Gray Powell from BTIG. Please go ahead."
+  },
+  {
+    "speaker": "Gray Powell",
+    "role": "",
+    "text": "Okay. Great. Thank you very much for working me in. Greatly appreciate it. A lot of good questions have been asked. Maybe I just I said one on my list that has not What kind of traction are you seeing with the Apex acquisition and AI And I'm not sure if you said this, but how should we think about it impacting ASPs with Tenable One or potentially driving just incremental adoption of the platform?"
+  },
+  {
+    "speaker": "Stephen A. Vintz",
+    "role": "",
+    "text": "Sure. Hey. And so that's an acquisition that we announced. I think, the last quarter or several months ago. And, really, the plan from an integration perspective was to natively build those capabilities in the platform. And then come to market with a more expansive AI offering, which we're pleased to see us do at Black Hat. So we did that over the summer. We brought to market AI exposure. AI exposure gives us the ability to not only discover, AI applications and shadow AI, but now gives us to the ability to inspect at the prompt level usage of AI. Yeah. It is a foundational piece in our broader AI strategy, and the AI strategy is really centered around a couple of things. Number one, contextualize risk with AI. We've been doing for some time and we continue to do, and that's generate risk based prioritization. That is really dynamic and constantly updated. So AI acts really is this risk copilot. The second thing is really a journey that we've been on, which is autonomous remediation agents and right now, we're able to integrate bidirectionally with the CMDBs and the ticketing systems. So the focus is really on generating tickets with per precise remediation steps to orchestrate patch deployments and enforce configuration baselines. But really, the goal here over the course of time is this continuous learning and adaptation and use AI as a means not only to deliver greater insight, but have customers benefit from this network effect of 40,000 plus customers, the global telemetry that collected over the last twenty years. To do safer auto remediation. And so we can not only just not just respond to threats, but also anticipate them. So we're super excited about our place in this world with AI, EM, exposure management, taking on greater importance. Obviously, we expect continued growth there and continued traction with the offering itself."
+  },
+  {
+    "speaker": "Gray Powell",
+    "role": "",
+    "text": "Understood. That's a lot that's a lot of good color. Thank you."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "This concludes the question and answer session and today's teleconference. You may disconnect your lines at this time. Thank you for your participation."
+  }
+]

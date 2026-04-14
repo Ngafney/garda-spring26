@@ -1,0 +1,246 @@
+Operator
+Good day, and thank you for standing by. Welcome to Appian third quarter 2023 earnings conference call. At this time, all participants are in a listen-only mode. After the speakers' presentation, there will be a question-and-answer session.
+[Operator instructions] Please be advised that today's conference is being recorded. I would now like to hand the conference over to your first speaker today, Sri Anantha, vice president, finance and investor relations. Please go ahead.
+Sri Anantha
+--
+Vice President, Finance and Investor Relations
+Thank you, operator. Good afternoon and thank you for joining us to review Appian's third quarter 2023 financial results. With me today are Matt Calkins, chairman and chief executive officer; and Mark Matheos, chief financial officer. After prepared remarks, we'll open the call for questions.
+Today, you'll want to follow along with our earnings presentation. You can download it from the main page of our investor site at investors.appian.com. During this call we may make statements related to our business that are forward-looking under federal securities laws and are made pursuant to the Safe Harbor provisions of the Private Securities Litigation Reform Act of 1995. These include comments related to our financial results; trends and guidance for the fourth quarter and full year 2023; the benefits of our platform, industry, and market trends; our go-to-market and growth strategy; our market opportunity and ability to expand our leadership position; our ability to maintain and upsell existing customers; and our ability to acquire new customers.
+The words anticipate, continue, estimate, expect, intend, will, and similar expressions are intended to identify forward-looking statements or similar indications of future expectations. These statements reflect our views only as of today. They do not represent our views as of any subsequent date. They are subject to a variety of risks and uncertainties that could cause actual results to differ materially from expectations.
+For a discussion of the material risks and other important factors that could affect our actual results, refer to our 2022 10-K, our 10-Q filings for 2023, our 8-K filings, and other periodic filings with the SEC. These documents are also available on our Investors section of our website. Additionally, non-GAAP financial measures will be discussed on this conference call. Refer to the tables in our earnings release and the Investors section of our website for a reconciliation of these measures to their most directly comparable GAAP financial measures.
+With that, I'd like to turn the call to our CEO, Matt Calkins. Matt?
+Matt Calkins
+--
+Chairman and Chief Executive Officer
+Thanks, Sri. Thank you, everyone, for joining us today. In the third quarter of 2023, Appian's cloud subscription revenue grew 27% year over year to $77.2 million. Subscriptions revenue grew by 20% to $103.8 million.
+Total revenue grew 16% year over year to $137.1 million. Our cloud subscription revenue retention rate was 117% as of September 30th. Our adjusted EBITDA was a loss of $5.3 million. A couple of financial call outs.
+Appian's non-GAAP gross margin was 75% this quarter, the highest it's been since our IPO. Our adjusted EBITDA was well above guidance. Don't read too much into this dramatic sequential improvement. It's largely due to the timing of our expenses.
+The takeaway should be that we delivered on last year's commitment to reduce adjusted EBITDA loss below 10%. We'll continue on our path to positive EBITDA, and I want to emphasize that this transition will not come at the expense of growth. Last earnings call I spoke about Appian's approach to AI. As you may recall, we're pursuing something we call Private AI.
+I don't believe that most customers will allow their data to be sent over the internet to a public AI service, nor do I think they wish to train an AI algorithm they do not own. Under Private AI, data stays entirely private, and we also achieve better compliance, auditability, and security levels. Our Private AI offering depends upon our Data Fabric functionality, which is itself highly differentiated in the market. We have a data-centric approach to AI, and we think the data side of things has been somewhat under-recognized or underappreciated in all the hype around generative models.
+In Private AI, we feel we have a defensible and advantaged offering. Over 100 customers used Appian AI in Q3. Here's an example: An Australian wealth fund manager processes inbound portfolio requests for tens of thousands of customers and brokers on our platform. The group receives requests through email.
+Before Appian, employees handled these emails, routed them to relevant parties, opened cases to process the requests. In Q3, this firm trained a Private AI model from Appian with its own data. The model ingests emails, classifies them, routes them to the appropriate person for follow-up. AI automates the intake-to-resolution process and eliminates the need for manual triaging.
+Now, the customer can resolve cases faster. The AI market is still developing. It's too early to say which ideas and vendors will prevail. We're advocating this private data-centric approach to AI because we believe in it and also because we're getting strong support from buyers.
+AI won't be a winner-take-all game. Scores of different approaches will succeed by finding and satisfying specific markets. And it might yet be better to be agile than to be big. There's plenty of room for Appian.
+I'm optimistic about our future in AI. Turning to our earnings presentation, you'll see our series of special metrics that provide additional transparency on how macroeconomic factors are impacting our business. These numbers again indicate that there continue to be some effects. I hope these extra reports have been useful in 2023.
+For next year, we'll consolidate them and probably add some new ones. My favorite fact from the report packet is that Appian's count of seven-figure ARR customers has crossed 100 for the first time. This uptick coincided with some large deals in the U.S. public sector.
+Here's some combined examples: My first case is a federal agency that manages procurement processes for the Department of Defense. The agency selected Appian two years ago to unify disparate contract writing systems. This quarter, it signed a seven-figure software deal to license thousands more users. Now, Appian will manage end-to-end contract writing processes for tens of billions of dollars in contracts annually.
+Another DoD group signed a seven-figure software deal in Q3 and became a new Appian customer. The group will manage law enforcement investigations in a secure, Impact Level 5 environment on Appian Government Cloud. Before, the agency manually conducted investigations using paperwork and offline channels. Now, over 1,000 field agents and back-office employees will create cases, review evidence, and dispatch law enforcement support within a single Appian app.
+As you know if you've heard this call in the past, I like the solutions business. I like it because the sales cycles are shorter, competition narrower, pricing power higher, the addressable market in total larger. We're making progress on solutions this year. Here's an example.
+A leading global investment manager increased its annual recurring spend on Appian software by 40% in Q3. The firm purchased our Customer Lifecycle Management solutions a few quarters ago when it became a new Appian customer. Our solutions automated manual processes so the company can onboard and manage clients faster. In Q3, it decided to add its legal department to the process and purchased additional platform licenses to build new workflows.
+For example, it will automate legal agreement processes so lawyers can readily collaborate on tasks and the company has real-time visibility on the contract's status. Let me offer you a few marketing updates. Two to be precise. First, Randy Guard joined Appian as our new chief marketing officer.
+Randy brings decades of experience leading marketing, product strategy, and technology teams. Second, we were named a leader in the Gartner Magic Quadrant for Enterprise Lowcode Applications platforms two weeks ago. Before I hand the call over to Mark for a deeper look at our financials, I want to mention something. Looking past the numbers for a moment, the Company is boiling with activity beneath the surface.
+Appian has made substantial investments in our platform over the past few years and introduced new features and solutions. We're realizing a data-centric AI offering. We're evolving our go-to-market activities and driving a new set of sales plays that will open new opportunity. Out of sight of the news and the numbers, we're working hard to prepare Appian for a strong future.
+With that, I'll hand the call over to Mark.
+Mark Matheos
+--
+Chief Financial Officer
+Thanks, Matt. I'll review the financial highlights for the quarter, and then will provide guidance for Q4 and the full year 2023. Total revenue, cloud subscription revenue, adjusted EBITDA, and non-GAAP EPS were above guidance. We saw continued healthy contribution from existing customers and strong growth from key industry verticals, especially the U.S.
+public sector and financial services. Let's go into the details. Cloud subscription revenue was $77.2 million, an increase of 27% year over year, and above guidance. On a constant currency basis, cloud subscription revenue grew 24% year over year.
+Subscriptions revenue was $103.8 million, an increase of 20% year over year. On a constant currency basis, subscriptions revenue grew 17% year over year. Consistent with the prior quarter, subscriptions revenue growth was impacted in part by some customers converting to the cloud subscription model. Professional services revenue was $33.3 million, an increase of 6% year over year.
+On a constant currency basis, professional services revenue grew 3% year over year. Our professional services will continue to be a strategic offering, focused on enabling partners and driving customer success. However, we expect professional services revenue to continue to decline as a percentage of total revenue. Total revenue was $137.1 million, an increase of 16% year over year and above our guidance.
+On a constant currency basis, total revenue grew 13% year over year. Subscriptions revenue was 76% of total revenue, up from 73% in the prior quarter and year-ago period. Our cloud subscription revenue retention rate was 117% as of September 30th, 2023, up from 115% in the prior quarter and year-ago period. As a reminder, we continue to target a cloud subscription revenue retention rate of 110% to 120% on a quarterly basis.
+Our international operations contributed 35% of total revenue, compared to 31% in the year-ago period. On a year-over-year basis, international growth was broad-based and saw healthy contributions from both APAC and EMEA regions. Our cloud software net new ACV bookings were approximately 80% of the total net new software bookings during the nine months ended September 30th, 2023, compared to 85% in the first half of 2023 and 80% in 2022. Now, I'll turn to our profitability metrics.
+Non-GAAP gross margin was 75%, compared to 73% in the prior quarter and year-ago period. Subscriptions non-GAAP gross margin was 89%, consistent with the prior quarter and 90% in the year-ago period. Professional services non-GAAP gross margin was 30%, compared to 28% in the prior quarter and 27% in the year-ago period. We expect professional services non-GAAP gross margin to decline to the low to mid 20% range in 2023 and beyond.
+We continue to invest in non-billable resources to help our customers maximize the value of their Appian investment. Total non-GAAP operating expenses were $110.5 million, relatively flat from the year-ago period. We continue to make good progress on optimizing our cost structure. In the current uncertain macro environment, we are prioritizing projects that generate a higher ROI.
+In addition, we continue to scale our Chennai R&D center, which should help drive operating leverage long-term. Adjusted EBITDA loss was $5.3 million, versus our guidance of a loss between $16 million and $12 million and compared to an adjusted EBITDA loss of $22.9 million in the year-ago period. The upside in EBITDA was driven by prudent opex discipline and pushout of some expenses into Q4. We remain confident about continued improvement in adjusted EBITDA margins going forward.
+In the third quarter, we had approximately $4.3 million of foreign exchange losses, compared to $1.2 million of foreign exchange gains in the prior quarter and $6.1 million of foreign exchange losses in the same period a year ago. We don't forecast movements in FX rates, therefore they aren't considered in our guidance. Non-GAAP net loss was $14.7 million or $0.20 per basic and diluted share, compared to non-GAAP net loss of $30.9 million or $0.43 per basic and diluted share for the third quarter of 2022. This is based on 73.2 million basic and diluted shares outstanding for the third quarter of 2023 and 72.5 million basic and diluted shares outstanding for the third quarter of 2022.
+Turning to our balance sheet, as of September 30, 2023, cash and cash equivalents and investments were $169.5 million, compared with $196 million as of December 31, 2022. For the third quarter, cash used by operations was $65 million versus $43.7 million for the same period last year. The increase in cash usage was primarily due to a one-time payment of $57.3 million for the judgment preservation insurance policy, which I'll speak about in more detail later. Total deferred revenue was $197.8 million as of September 30th, 2023, an increase of 20% from the year-ago period.
+As we have stated on past calls, the majority of our customers are invoiced on an annual upfront basis, but we also have some customers that are billed quarterly or monthly. Due to the variability of our billing terms, changes in our deferred revenue are generally not indicative of the momentum in our business. We continue to believe cloud subscription revenue is a better indicator of our business momentum than billings or remaining performance obligations. The latter metrics fluctuate based on the timing of invoicing, seasonality of on-prem license revenue, and the duration of customer contracts.
+The true scale of the business is represented by subscriptions revenue, which includes support and all software subscription revenue regardless of whether the customer deploys to the Appian Cloud, their private cloud, or on-prem. Before I turn to guidance, I want to touch on Appian's accounting for the judgment preservation insurance policy and the current macro environment. During the third quarter, Appian obtained a judgment preservation insurance policy. This agreement resulted in a one-time payment of $57.3 million.
+The payment was made from available cash on hand. From an income statement perspective, this payment will be amortized over approximately three years and will be excluded from adjusted EBITDA. For additional details about the policy, please refer to our 8-K filing from early September. We continue to be prudent with our guidance assumptions in the current macro and geopolitical environment.
+As noted on prior earnings calls, we continue to experience deal slippage, higher scrutiny of budgets, and elongation of sales cycles. In some instances, deals are being impacted by customer specific issues, such as executive changes, internal restructuring, and layoffs. Finally, we are being cautious with respect to our expectations for the federal vertical given the possibility of a government shutdown. Now, I'll turn to guidance.
+For the fourth quarter of 2023, cloud subscription revenue is expected to be between $78.6 million and $79.6 million, representing year-over-year growth of 19% and 21%. Total revenue is expected to be between $138 million and $143 million, representing year-over-year growth of 10% and 14%. Adjusted EBITDA loss for the fourth quarter of 2023 is expected to be between $16 million and $12 million. Non-GAAP net loss per share is expected to be between $0.29 and $0.24.
+This assumes 73.3 million basic and diluted weighted average common shares outstanding. For the full year 2023, cloud subscription revenue is expected to be between $300 million and $301 million, representing year-over-year growth of 27%. For the full year 2023, total revenue is expected to be between $538 million and $543 million, representing year-over-year growth of 15% and 16%. Adjusted EBITDA loss is expected to be between $62 million and $58 million.
+Non-GAAP net loss per share is expected to be between $1.13 and $1.07. This assumes 73.1 million basic and diluted weighted average common shares outstanding. Our Q4 guidance assumes the following: First, professional services revenue will decline at a high single digit rate compared to the year-ago period; Second, on-prem license revenue will increase by a low double-digit rate compared to the year-ago period; Third, other non-operating expenses will be approximately $2.5 million in Q4; Fourth, capital expenditures will be approximately $2 million; Finally, our guidance assumes FX rates as of October 25th, 2023. In summary, we are excited about the growth opportunities ahead of us.
+We remain focused on investing in areas that will drive growth and generate superior returns long-term. With that, we'll turn it over to questions.
+Questions & Answers:
+Operator
+Thank you. At this time, we'll conduct the question-and-answer session. [Operator instructions] Our first question comes from the line of Jake Roberge of William Blair. Your line is now open.
+Jake Roberge
+--
+William Blair -- Analyst
+Hey, thanks for taking the questions. Matt, when you're talking to customers, where is the budget for AI spend coming from? Is it coming from existing IT budgets and maybe crowding out other areas of spend? Are you seeing customers create net new budget dollars and expand IT spend for their AI investments?
+Matt Calkins
+--
+Chairman and Chief Executive Officer
+Yeah. I think that there's a budget for AI talk and there's separately a smaller budget for AI purchasing. No, I'm kidding. I think that right now there's most of the AI economy is done in words.
+And I think we're transitioning right now and pivoting toward where the legitimacy in AI is going to come from installations, from accomplishments, from practical value. And I think it's going to be IT at first. I don't see a separate budget for this. No.
+I think it needs to be justified. I think that the way people envision IT right -- sorry, AI right now is not actually practical on a large scale. And so, the pipe dream is going to have come down to size and prove itself in order to grow a larger budget. I talked to a lot of CIOs.
+I do not hear that they are inventing a new AI specific budget. Instead, this is -- it's going to compete for funds and it's going to have to show value to achieve those funds.
+Jake Roberge
+--
+William Blair -- Analyst
+OK, helpful. And then, Mark, if you could just add any commentary on the linearity of demand throughout the quarter and into October. You had a nice beat in the quarter, but the Q4 guide came in a bit lower than expected. So have you seen any change in the macro over the past few months that would cause that, or is it just the conservative assumptions you called out around the federal segment and, potential government shutdown?
+Mark Matheos
+--
+Chief Financial Officer
+Yeah. I mean, we have reason to continue our caution into Q4. I think there hasn't been any sort of improvement where we're leaving a sigh of relief and saying macro is getting better. It's still a factor for us.
+Matt Calkins
+--
+Chairman and Chief Executive Officer
+And the federal.
+Mark Matheos
+--
+Chief Financial Officer
+The federal thing is still looming, as we all know.
+Jake Roberge
+--
+William Blair -- Analyst
+OK, helpful. Thanks for taking questions.
+Operator
+Thank you. One moment for our next question. Our next question comes from the line of Steve Enders of Citi. Your line is now open.
+Steve Enders
+--
+Citi -- Analyst
+OK, great. Thanks for taking the questions here. I guess, Matt, maybe to start, just wanted to get a better sense for the comment you made about, there's a lot going on, bubbling under the surface with Appian. I guess, high level, how should we be thinking about, like, what that means for the business going into next year and how you're thinking about the product set and development, moving forward here?
+Matt Calkins
+--
+Chairman and Chief Executive Officer
+Yeah. What I don't want you to do is model that. That was a statement of ambition of activity. I want you to know how much energy we're putting into the future.
+But I don't mean that to end up on a spreadsheet.
+Steve Enders
+--
+Citi -- Analyst
+OK. Gotcha. And then, I guess, maybe for Mark, just on the timing of the expenses that you called out here, just anything that we should be thinking about what that means moving forward into '24 and I guess any kind of more specificity around the EBITDA performance and the shift that's going on into 4Q here?
+Mark Matheos
+--
+Chief Financial Officer
+Yeah. So I mean, we're pleased with our EBITDA performance, and our glide path that we set forward has been something we've executed pretty well on. And as you can see, I've improved the EBITDA guide by $5 million for the full year. We just note that the third quarter performance obviously was a little bit beyond what we expected in terms of an improvement.
+And a lot of that was because of just the timing of some employee related expenses that will occur in Q4 versus Q3. But all in all, it's kind of what we had promised and said before, continued improvement on adjusted EBITDA.
+Steve Enders
+--
+Citi -- Analyst
+OK, perfect. Thanks for taking the questions.
+Operator
+One moment for our next question. Our next question comes from the line of Sanjit Singh of Morgan Stanley. Your line is now open.
+Sanjit Singh
+--
+Morgan Stanley -- Analyst
+Thank you for taking the questions. I was wondering if you could walk us through the rationale for the insurance policy, maybe go through like some of the terms, and when would you expect a potential payout from the policy? Any sort of detail there would be super helpful.
+Matt Calkins
+--
+Chairman and Chief Executive Officer
+I appreciate the question. I'm going to have to direct you to our 8-K, which is our full statement on this matter.
+Sanjit Singh
+--
+Morgan Stanley -- Analyst
+Got it. OK. All right. Well, then, looking at maybe just your core verticals, whether it's banking, life insurance, health and life sciences, government, how do you see the demand trends and the spending trends and the priority of like sort of automation as you go into Q4 and how does that sort of set up for 2024? Any sort of color around the industry verticals?
+Matt Calkins
+--
+Chairman and Chief Executive Officer
+I think that when we settle into realization, the real value of the theme of the year, which of course is AI. We and our buyers are going to understand that AI is an incomplete solution that it's a part of a team, not a solo act. It's going to require a lot of cross-sector coordination. It'll require a lot of low code workflow, right, routing and partnership with other forms of automation.
+And as such, I see it complementary and enhancing the demand for automation. Even though right now, I'm not sure the market understands that. That's where I see it going. And so, what we see here, I think it's a multiyear lift coming from AI, which brings with it technologies that are naturally complementary to AI.
+When I think of technologies that are naturally complementary to AI. Number one is data, data like Appian's Data Fabric that creates a virtual database across the enterprise and allows you to address data from anywhere as if it were local. That's essential to AI, to training, to provisioning, to answering questions well. And then the other technology that would be naturally complementary and should arise with the AI economy would be process and process automation in this case, because process includes the technologies that do the work in addition to the technology throughout the work.
+So that's my belief about where automation is going. I don't have that differentiated by sector. I think that's going to be true across the sectors. But that's what I anticipate.
+Sanjit Singh
+--
+Morgan Stanley -- Analyst
+Thank you so much. I really appreciate the color.
+Operator
+Thank you. One moment for our next question. Our next question comes from the line of Kevin Kumar of Goldman Sachs. Your line is now open.
+Kevin Kumar
+--
+Goldman Sachs -- Analyst
+Thanks for taking my questions. Curious on the performance of the government sector in terms of bookings. How did that maybe compare to prior quarters? And also, can you talk a bit about the new case management solution for the public sector and what type of use cases do you expect with that new solution?
+Matt Calkins
+--
+Chairman and Chief Executive Officer
+Yeah. All right. Public sector is one of our best -- one of our best growing, one of our best already in size. And the government acquisition management solution has added a spark to that sector that I -- and it's going to add spark next year as well.
+We're getting good growth out of that successful uptake and have good prospects. With regards to case management, case management -- if you look at our use cases, what Appian has bought for, at least half of it is case management. You can look at a lot of the things we do as a case. A case passes through workflow and it reaches a resolution.
+We do a lot of cases. And so what we've done here is enhanced the way we handle cases and configure it specifically for some federal use cases. I believe what we've got is powerful. And the pipeline reflects that the customers may believe it too.
+I'm excited about where that'll take us next year. And I want to add that there is no reason why case management needs to remain a public sector offering. Appian is, as you know, located near to the federal government, I am from my office at this very moment looking at the beltway, the beltway that goes around Washington D.C. We start some patterns and offerings in the government just because it's here.
+And so, we may find that this solution has its greatest impact eventually outside of the public sector. That's -- I just wanted to clarify that it is not suitable only for that industry.
+Kevin Kumar
+--
+Goldman Sachs -- Analyst
+Appreciate the color. And then, maybe one on kind of the net new business in the quarter in terms of the mix of new customers versus expansion. How does that compare to prior quarters? I saw the uptick in net expansion rate this quarter kind of within your historical range, but curious if you'd call out any specific drivers of strength there. Thank you.
+Matt Calkins
+--
+Chairman and Chief Executive Officer
+Yeah. You're right, 117% to 115%, I don't think it's important. As for the mix this quarter, yes, it was a little bit more for the existing customers, I would say. And you could see that not only in the 117% NRR, but also in the stat that has us passing $100 million per year customers, in both cases.
+That's where the energy was this quarter.
+Kevin Kumar
+--
+Goldman Sachs -- Analyst
+Great, thanks for taking my question.
+Operator
+Please stand by for our next question. Our next question comes from the line of Derrick Wood of TD Cowen. Your line is now open.
+Unknown speaker
+--
+TD Cowen -- Analyst
+It's Andrew on for Derrick. Matt, speaking of that 1 million customer cohort chart, it looked like a solid uptick there. What exactly is driving the upsell strength there? What are the new products they're buying to get them up to that level?
+Matt Calkins
+--
+Chairman and Chief Executive Officer
+Yeah. Well, I think happy customers are driving it. I think we're just creating value is a very fundamental answer. But I think that's really what comes down to it.
+There's been no shock to the equilibrium. We just have happy customers and they buy more. I think that we are going to focus more on this next year, because we believe we can go deeper with the customers that we've got. I mentioned sales plays, right, in my talk.
+Part of that is uplifts and expansion. I believe we can do more in these customers. But that doesn't mean that we'll neglect the customers we don't have. We're going after those two.
+Unknown speaker
+--
+TD Cowen -- Analyst
+Yeah. That's great. And then, Matt, I'm not sure I heard as much about partners in the prepared as they usually do. How would you characterize partner performance in the quarter and kind of on the new program you talked about earlier this year, the incentives there, any early impact to talk about on the partner side that's helping you?
+Matt Calkins
+--
+Chairman and Chief Executive Officer
+Yeah. It's funny that I didn't mention them because, of course, this is a major time for us with regards to partners. I guess, I probably left it out because we have yet to reach conclusions with the new efforts, but we're making them. Our key theme here is focus and intensive advocacy in both directions.
+That's what we want to give, that's what we want to get. And so, we're shaping new closer relationships with our partners at this moment to achieve that.
+Unknown speaker
+--
+TD Cowen -- Analyst
+Great. Thanks, guys.
+Operator
+Thank you. One moment for our next question comes from the line of Joe Meares of Truist Securities. Your line is now open.
+Joe Meares
+--
+Truist Securities -- Analyst
+Great. Thanks for taking the questions, guys. Just regarding opex, it seems like each quarter for the last couple of quarters, you've been driving about a $5 million upside to the guidance. Is that the cadence that we should expect going through the end of this year into next year in terms of just how you guys can drive profitability, or are there any plans in place around cost savings that could make that increase a little more exponentially? And I have a follow-up.
+Mark Matheos
+--
+Chief Financial Officer
+We're certainly not looking to increase it exponentially or do anything in terms of accelerating our path here. We're on a steady path, we're happy that we're over-performing. But it's not on purpose that we're beating those numbers necessarily. It's just the way we've shaken out so far.
+But we continue to be pleased with that. And I think it's one of those problems that we're happy to keep.
+Joe Meares
+--
+Truist Securities -- Analyst
+And then, I'm just curious, with bringing Randy Guard on as the chief marketing officer, are there going to be any shifts in the marketing strategy? And then, could you remind us what the split is in that sales and marketing bucket between sales and marketing spend? Thanks, guys.
+Matt Calkins
+--
+Chairman and Chief Executive Officer
+First of all, Randy is a real pro. Very pleased to have him on board. It's been a pleasure working with him already. He comes in with a lot of great ideas.
+That said, we've got a high degree of continuity between he and founder Mike Beckley, who has been running the marketing department on an interim basis. And so, I don't expect any discontinuity. I just expect a evolution toward effective new priorities and ideas that Randy brings to the table. And as the cost issue, want to say anything?
+Mark Matheos
+--
+Chief Financial Officer
+We don't disclose that breakout. But safe to say our sales is larger than our marketing.
+Matt Calkins
+--
+Chairman and Chief Executive Officer
+This is true.
+Operator
+Thank you. One moment for our next question. Our next question comes from the line of Raimo Lenschow of Barclays.
+Raimo Lenschow
+--
+Barclays -- Analyst
+Hey, thanks for squeezing me in. Matt, a quick question. When you talk about case management, how do you think this will play out? Because obviously, there is a large vendor in your space as well that kind of makes a lot of noise around that. How do you think customers will kind of look and then add more into the individual capabilities, or do you think they're going to be like segments? Like, they will do IT, case management, et cetera, while you do all the other cases? How do you kind of position yourself against them? Thank you.
+Matt Calkins
+--
+Chairman and Chief Executive Officer
+Yeah. That's right. It's a great question. Case management is a broad tool.
+As I was saying in that earlier answer, it really applies to quite a lot of our business. And it applies to quite a lot of other people's business as well, right? There are many products, not just one, but many competitors, many products that are implicated in a case management situation, depending in some cases on what specific case we're talking about. And so, yes, it invites a lot of competition. And yet I'm quite optimistic about it, because I believe that it's powerful product.
+We have a really strong platform that can be turned capably toward new use cases. And our solutions enterprise is an exercise in realizing the advantage that we believe we will find in new use cases if we just put our mind to it and customize the platform a little bit. So, I recognize that competitors will have their strengths, incumbency, scale, name recognition. But I think that in many cases, if not all cases, that we'll have something to say on the feature side that gets the customers' attention.
+Raimo Lenschow
+--
+Barclays -- Analyst
+And then one follow-up for Mark. Mark, I've got a few guys still kind of asking about the guidance a little bit. So do I think about it just in case there's government shutdown that kind of the guidance becomes true and in case there's not, it's going to be completely different or are there other factors that we should consider there?
+Mark Matheos
+--
+Chief Financial Officer
+Yeah. I wouldn't expect a significant difference either way. It's definitely a factor in our guidance, but I wouldn't look for a material difference.
+Raimo Lenschow
+--
+Barclays -- Analyst
+OK. Perfect. Thank you.
+Operator
+[Operator instructions] Please standby for our next question. Our next question comes from the line of Fred Havemeyer of Macquarie Capital. Your line is now open. Fred, can you hear us? We are not hearing, Fred.
+For some reason, we are not able to hear Fred. [Operator signoff]
+Duration: 0 minutes

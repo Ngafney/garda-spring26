@@ -1,0 +1,339 @@
+Operator
+Thank you for standing by and welcome to Ambarella's second-quarter fiscal year 2024 earnings conference call. At this time, all participants are in a listen-only mode. After the speakers' presentation, there will be a question-and-answer session. [Operator instructions] As a reminder, today's program is being recorded.
+And now, I'd like to introduce your host for today's program, Louis Gerhardy, vice president, corporate development. Please go ahead.
+Louis Gerhardy
+--
+Vice President, Corporate Development
+Thank you, Jonathan. Good afternoon and thank you for joining our second-quarter fiscal year 2024 financial results conference call. On the call with me today is Dr. Fermi Wang, president and CEO, and Brian White, CFO.
+The primary purpose of today's call is to provide you with information regarding the results for our second quarter fiscal year 2024. The discussion today and the responses to your questions will contain forward-looking statements regarding our projected financial results, financial prospects, market growth, and demand for our solutions, among other things. These statements are based on our currently available information and subject to risks, uncertainties, and assumptions. Should any of these risks or uncertainties materialize, or should our assumptions prove to be incorrect, our actual results could differ materially from these forward-looking statements.
+We're under no obligation to update these statements. These risks, uncertainties, and assumptions, as well as other information on potential risk factors that could affect our financial results, are more fully described in the documents we filed with the SEC. Access to our second-quarter fiscal 2024 results, press release transcripts, historical results, SEC filings, and a replay of today's call can be found on the Investor Relations page of our website. The content of today's call, as well as the materials posted on our websites, are Ambarella's property and cannot be reproduced or transcribed without our prior written consent.
+Fermi will now provide a business update for the quarter. Brian will review the financial results and outlook, and then we'll be available for your questions.
+Fermi Wang
+--
+President and Chief Executive Officer
+Thank you, Louis, and good afternoon, everyone. Our fiscal Q2 revenue was approximately flat sequentially and consistent with our guidance. Our AI business grew sequentially and year-over-year, while our video processor business was down sequentially and down about 50% from a year ago. Our blended ASP in Q2 was above $12 and is on track to grow about 20% year-over-year, thanks to the richer mix of AI SoCs, highlighting the value of our emerging AI inference business.
+Our mid to long-term growth outlook for the AI inference processor business remains positive, however, the near-term environment is very challenging for our overall business. Customers are now more aggressively reducing their inventory, and we are now seeing some pockets of weak end-market demand which complicates our customers' ongoing inventory reduction efforts. Given this, we have reduced our second-half outlook. We are not expecting a recovery in calendar 2023, but we do anticipate our customers' inventory will normalize by the end of the year and set us up for a return to growth in calendar 2024.
+We continue to expand our position in the rapidly evolving AI inference processor market. Cumulatively, we have shipped more than 17 million AI inference processors into device endpoints for IoT and automotive applications, and we are now expanding our AI inference processor reach into vehicle autonomy. As announced on the last earnings call, we continue to evaluate the AI inference accelerator market opportunity. I will now summarize the status of our three major SoC product families: video processors, CV2, and CV3.
+First, video processors for human viewing are expected to be about 40% of total revenue this year, down from 55% last year and they typically command a single-digit ASP. For several years we have been prioritizing our limited resources on AI technology and products, and for this reason, we anticipate our video processor revenue to continue to contract. However, the revenue impact from the video processor contraction in fiscal year 2025 is anticipated to be significantly lower than what we are experiencing this year. Second, our CV2 family of SoCs established Ambarella in the AI inference market, and these SoCs are expected to approach 60% of our total revenue in fiscal 2024, up from 45% last year.
+This family of AI inference SoCs commands an ASP close to $20 and serves computer vision applications for auto and IoT. CV2 remains an important growth market for Ambarella in the mid to long term. Third, our CV3 family of SoCs first began to sample one year ago. Based on our third generation of AI inference technology, these SoCs target more challenging AI inference workloads such as partial or complete mobile system autonomy.
+The CV3 family of SoCs range from $50 to more than $400 per SoC, and our autonomous driving software stack, optimized to run on CV3, can add hundreds of dollars per unit of incremental software value. The AI inference processor embedded in our CV3 SoC is the starting point for our evaluation of the gen AI acceleration market. In the last quarter, we began to port Meta's LLaMA 2 to the CV3-AD high, and we expect to have chatbot demos available later this year. We will provide updates on our continuing evaluation, and I am encouraged to see generative AI opportunities emerging on both the server and device side of the market.
+I will now summarize representative customer activity in the quarter. Design activity in the enterprise security camera market remains robust at major customers worldwide. Motorola introduced its H5A multi-sensor camera based on our CV2 AI SoC. The camera offers up to a 360-degree view utilizing to four image sensors with up to 32-megapixel resolution and AI analytics.
+Axis, a unit of Canon, announced the two-megapixel M4215 cameras and the 4K M4218 cameras, both based on our CV25 AI inference SoCs, targeting indoor surveillance applications. Japanese market leader iPro announced the expansion of its Rapid PTZ X-Series and S-Series with 16 new models based on our CV25 and CV22 AI inference processors. Dynacolor introduced its model Q next-generation multi-directional camera using our CV5 AI processor to support four five-megapixel sensors. And in South Korea, Hanwha launched three new bi-spectrum AI cameras based on our CV2 AI SoC.
+These cameras provide 4K visual and thermal views simultaneously for the rapid detection and classification of vehicles or intruders. I will now talk about representative customer activity in the automotive market. In our May 30 earnings call, I mentioned the positive feedback we received at the Shanghai Auto Show for our CV72AQ AI inference processor, a derivative of the CV3 family of SoCs. During Q2, I visited tier 1s in China, and I'm pleased to report multiple tier 1 wins for level 2+ applications.
+We expect some of these tier 1 projects to commence production in the second half of calendar year 2025. We are pleased to announce our first CV5 win in a passenger vehicle. We expect this win to enter production in the next 12 months. In this application, the CV5 will support AI inference processing for multiple cameras.
+Additionally, in July, GAC Motor in China unveiled its Hyper GT intelligent coupe including an L2+ ADAS intelligent driver assistance system based on our CV22AQ. Recently, the Chinese government passed a new policy allowing camera monitoring systems, CMS, to replace conventional left- and right-side mirrors. The policy also covers interior rearview mirrors, with CMS-enabled models being legal beginning in July 2023. These CMS systems represent a significant opportunity for Ambarella's CV2 family of AI inference processors.
+During the quarter, BAIC, one of the largest automotive OEMs in China, began selling SUVs equipped with a CMS system based on our CV22AQ. In the automotive aftermarket, Toyota introduced its wireless backup camera system for trailers, based on our H32AQ video processor. The camera will be an option for Toyota's model year 2024 Sequoia and Tundra trucks. Canopy, the start-up resulting from Ford and ADT's 2022 joint venture, introduced its first product, the Canopy Pickup Cam.
+Based on our CV25 AI inference processor, the camera provides full HD recording, 180-degree field of view, person detection, and reach-in detection for the bed of a pickup. In June, action camera maker Insta360 announced its Go3 camera, a lightweight but powerful 2K camera that utilizes our H22 video processor. These representative engagements indicate a healthy pace of continuing customer design activity for our AI inference processors. Our investment strategy is aligned with the anticipated market demand for more sophisticated, software-intensive, AI inference applications.
+In the last three years, thanks to the CV2 family, we have demonstrated the ability to capture more value per win as customer demand migrates to AI from video processors. Looking forward, we believe our newer products, such as CV5, CV72, and CV3 are well positioned to support the increasingly sophisticated AI inference workloads our customers are anticipating. As these new products ramp, and as we also capture more software value, we anticipate our blended ASP will continue to rise. While actively managing expenses through the current market turmoil, we will continue to drive our strategic R&D investments to fully realize the AI inference market opportunities we have discussed today.
+With that, Brian will now discuss the Q2 results and the outlook in more detail.
+Brian White
+--
+Chief Financial Officer
+Thanks, Fermi. I'll review the financial highlights for the second quarter of fiscal year 2024 and provide a financial outlook for our third quarter ending October 31st, 2023. I will be discussing non-GAAP results and ask that you refer to today's press release for a detailed reconciliation of GAAP to non-GAAP results. For non-GAAP reporting, we have eliminated stock-based compensation expense and acquisition-related costs, adjusted for the impact of taxes.
+For fiscal Q2, revenue was $62.1 million, in line with the midpoint of our prior guidance range, flat to the prior quarter and down 23% year over year. Sequentially, IoT revenue was up slightly, while automotive revenue was down slightly. Non-GAAP gross margin for fiscal Q2 was 64.6%, at the high end of our prior guidance range. Non-GAAP operating expense was $46 million, below our prior guidance range of $48 to $50 million, driven by continued expense management and the timing of spending between quarters.
+We remain on track to our internal product development milestones. Q2 net interest and other income was $700,000, and our non-GAAP tax provision was $800,000. We reported a Non-GAAP net loss of $6 million, or a $0.15 loss per diluted share, equal to the prior quarter. Now, I'll turn to our balance sheet and cash flow.
+Fiscal Q2 cash and marketable securities decreased $10.9 million to $216.5 million. DSO was relatively flat at 45 days, while inventory declined from 151 to 147 days, down $6.5 million from the prior quarter. Cash used in operations was $6.8 million, and capital expenditures for tangible and intangible assets were $5.4 million. Free cash flow, defined as cash from operations less capex, was minus 20% of revenue for the quarter and positive 4% on a trailing twelve-month basis.
+We had two logistics and ODM companies represent 10% or more of our revenue in Q2. WT Microelectronics, a fulfillment partner in Taiwan that ships to multiple customers in Asia, came in at 54% of revenue. Chicony, an ODM who manufactures for multiple IoT customers, was 14% of revenue. I will now discuss the outlook for the third quarter of fiscal year 2024.
+The near-term revenue outlook is challenging. Customer inventory management actions have accelerated, and pockets of end-demand softening have appeared. Considering these factors, we estimate that our fiscal Q3 revenue will decline to approximately $50 million, plus or minus 4%, driven by our IoT end market. At this time, we anticipate that this revenue range could continue into our fiscal Q4, with sequential revenue growth resuming in our fiscal Q1.
+We expect fiscal Q3 non-GAAP gross margin to be in the range of 62% to 64%. We expect non-GAAP opex in the third quarter to be in the range of $46 million to $49 million, with the increase compared to Q2 driven by higher R&D tied to new product development activities. We estimate net interest income to be approximately $1 million, our non-GAAP tax expense to be approximately $700,000, and our diluted share count to be approximately 40.1 million shares. Ambarella will be participating in Evercore's Semiconductor Conference on September 6th, the Asia Investor Conference on September 12th hosted by NASDAQ, and Morgan Stanley-Bank of America's Future Car Series on September 28th, and the Mobility Conference hosted by UBS on October 2nd.
+Please contact us for more details. Thank you for joining our call today, and with that, I will turn the call over to the operator for questions.
+Questions & Answers:
+Operator
+Certainly. And as a reminder, ladies and gentlemen, please limit yourself to one question and one follow-up. One moment for our first question. And our first question comes from the line of Christopher Rolland from Susquehanna.
+Your question, please.
+Chris Rolland
+--
+Susquehanna International Group -- Analyst
+Hey, guys. Thanks for the question. So, if you guys could highlight a little bit more the pockets of weaker end demand that you're seeing there. And then, maybe you can put this in terms of undershipment by end market.
+Last quarter, you talked about, as an example, a customer that was undershipping by 30%. Has that undershipment changed at that customer, and have new customers joined that kind of level of of undershipment as well? Thanks.
+Fermi Wang
+--
+President and Chief Executive Officer
+Right. So, first of all, in terms of the the pockets of weak end-market demand, I think there are two areas. One is on the -- of course, in China, we generally think that the China market is weaker than the other market. But I think, more specifically, there is our home IoT business.
+We do see some weakness and we were expecting some, you know, demand for the year-end sales, but we don't see that. So, we expect to see -- we are expecting a weaker market in consumer IoT. Those are two areas that cause some alarm. In terms of the, you say that from the particular customer last quarter, you quote about the the -- the undershipment. In fact, that customer come back with even further push-out demand and so that our shipments to them will be even lower than the 30% we talk about last quarter. And I don't think there's people adding to the list, but it's just really a lot of customers already on the list.
+But we see a new wave of push-out, the cancellation coming to the end of quarter and coming in all the way going into the August. That's where we talk about.
+Chris Rolland
+--
+Susquehanna International Group -- Analyst
+Understood. Perhaps also, you know, the revision for next quarter was -- was pretty significant. Can you talk about what kind of backlog coverage you have going into each of these quarters, what kind of visibility you have, you know, what kind of turns you typically need in each of these quarters? And then -- and then just kind of broader picture, I think you guys kind of thought maybe July would be the last of all of this. It now looks like the weakness is going to continue through January. Do you think -- I couldn't quite sense it.
+It didn't -- I don't know, was January going to be flat, was it going to be up a little, down a little? Any of your thoughts there? And, you know, why -- you know, why do we have confidence that that is indeed going to be the bottom and we'll bounce from there? Thank you.
+Brian White
+--
+Chief Financial Officer
+Hey, Chris, this is Brian. In terms of backlog coverage coming into any quarter for the company, we typically come in with the quarter in backlog and don't really rely on turns to make the forecasts that we provide. And that remains the case. So, you know, as we give guidance for Q3, Q3 is -- is covered with backlog.
+And as we look forward into Q4, you asked about kind of whether that's flat or up or down. In the prepared remarks, we talked about an expectation that our range of revenue in fiscal Q4 will likely remain in a similar range as Q3. And again, that's based on additional clarity that, you know, we've obtained as we've moved through this, you know, cyclical correction. You know, certainly, we're much farther through that correction at this point. We've seen some new information. We've incorporated that into our current outlooks.
+We think it's -- we think we have greater confidence in able to -- in our ability to, you know, get our heads around how this is shaping up at this point. We think that there's an opportunity for sequential revenue growth as we move into our fiscal Q1 for -- for '25. But that's that's what we see at this point in time.
+Chris Rolland
+--
+Susquehanna International Group -- Analyst
+Thanks, Brian. Appreciate it.
+Operator
+Thank you. One moment for our next question. And our next question comes from the line of Quinn Bolton from Needham and Company. Your question, please.
+Quinn Bolton
+--
+Needham and Company -- Analyst
+Hey, guys. Thanks for taking my question. I guess first for me, you mentioned some of the opportunities for the CV72S in China, where I think you mentioned having secured several level 2+ ADAS wins that ramp, I think you said toward the end of 2025. But just wondering if you could give us any more color, you know, what's the magnitude potentially of the lifetime revenue of those wins, or are they significant or are they sort of smaller projects. And then, I've got a follow-up.
+Thank you.
+Fermi Wang
+--
+President and Chief Executive Officer
+Right. So, we -- we -- I talk about several design winds with a Chinese tier 1 for this level 2+ application. And the application is very specific, which is smart ADAS plus parking for the Chinese market. And we believe this is going to be a next high-volume opportunity in China to replace current single-camera ADAS market.
+I think that if -- I think the price is right and features are right. And we also have major OEMs looking at evaluating the products at this point. So, I think -- we -- we think this could be as big as current ADAS market given time. Of course, that when we're ramping up the revenue in early -- in the second half of 2025, the volume will be just ramping up. But I think when it peak, I think it can be a significant volume for -- for the Chinese market point of view.
+Quinn Bolton
+--
+Needham and Company -- Analyst
+Great. Thank you, Fermi. And then, the second question, it sounds like you guys continue to make progress on the data center or enterprise AI inferencing application. I think mentioned you ported the Meta LLaMA model to the CV3 chip.
+Wondering, as you look out, you know, kind of what are the next steps to, you know, for that project? Where are you on the software and platform development? And are you still sort of thinking of this as, you know, probably an 18- to 24-month time to revenue? Is that the right time frame to be thinking about potentially for revenue from this opportunity?
+Fermi Wang
+--
+President and Chief Executive Officer
+Yes. So, first of all, we -- we started porting LLaMA 2 as soon as it becomes available, and I think we made great progress on that. We are in -- in the plan to demo this LLaMA 2 in a chatbot demo to our customer sometime in the coming quarter. And -- and also, I think that we continue to believe that we -- our current CV3 represent not only cost-effective and power efficient but also, performance wise, is capable to compete with A100. So, from that point of view, we continue to develop.
+But I think here, the one important task is which continue to build out the software infrastructure to support customer. That's definitely another area we need -- we are ramping up resource. We talk about really carve-out resource from the current employee pool to support the effort. But, you know, when we move forward, when we start engaging customers, provide customer support, we probably need to increase headcount. But that's the second phase after we start engaging customers with our chatbot demo.
+In terms of revenue, last quarter, we talked about this is more like a 24-month cycle. I continue to believe that's the case.
+Quinn Bolton
+--
+Needham and Company -- Analyst
+Perfect. Thank you, Fermi.
+Operator
+Thank you. One moment for our next question. And our next question comes from the line of Joe Moore from Morgan Stanley. Your question, please.
+Joe Moore
+--
+Morgan Stanley -- Analyst
+Great. Thank you. Can you talk about how you're thinking about spending your opex at this point close to your revenue? You know, I understand revenues are at temporary low point. I mean, how are you thinking about that sort of the balance between the importance of the revenue pipeline versus the sort of near-term cash burn?
+Fermi Wang
+--
+President and Chief Executive Officer
+So, sure. I think while -- I think you notice that we are we are definitely trying to control expense. You can see that our Q2 opex come below the guidance, and that's the direction we're going to continue to look at, where we can cut, where we can save. But however, we still want to continue to invest on our strategic directions, namely a series 3 architecture as well as, you know, for the auto and IoT -- our IoT, auto, and AI ramp.
+But those are the three big pieces of the investment area. But things that fall below the line, we need to look at whether we have a resource to support it. So, while we continue to managing carefully by expense, we do not want to sacrifice our strategic directions.
+Joe Moore
+--
+Morgan Stanley -- Analyst
+Great. Thank you. And then, in terms of the video processing market that you talked about, you know, we've obviously recognized that there was going to be a replacement cycle from moving from video processing to -- to computer vision. But do you think you're losing share in the segments, the sort of legacy markets that -- that aren't moving to CV? Or is that part of why the numbers are challenged here?
+Fermi Wang
+--
+President and Chief Executive Officer
+I think that, what I said in consumer, majority of the product today is really focused on the low-end cost -- cost-competitive solutions. And that's where we really don't spend a lot of money to invest on. As you know, our investment strategy is always focused on the areas where we can continue to demand higher AI performance. And for the consumer IoT side, that we have a focus on low-end SoC roadmap, definitely hurt us. I think that's where we have the biggest risk in terms of losing market share.
+Joe Moore
+--
+Morgan Stanley -- Analyst
+Great. Thank you.
+Operator
+Thank you. One moment for our next question. And our next question comes from the line of Matt Ramsay from TD Cowen. Your question, please.
+Matt Ramsay
+--
+TD Cowen -- Analyst
+Thank you. Good afternoon, guys. I know, forgive me for this question, Fermi, but maybe I read a little bit too much into sort of the tone of your earnings release and some of your commentary. And with all that, I mean, Joe asked the question just now about your investments and how you're going to focus them.
+And what I'm trying to get at is maybe one step -- maybe one level of traction above that is, like, the focus of the company, like, changed a lot now. I mean, it seems like there's a maybe deemphasis of your -- your camera business and now a shift toward investment in hardware and probably more software to support inference inclusive of some data center applications. So, I guess, should we be taking some of the tone here over the last -- tonight and maybe last quarter's call as well, as a big shift in direction of where you and your team are focused? And I guess the second part of the question is, has there been a change at all in the focus of the company on the automotive end market?
+Fermi Wang
+--
+President and Chief Executive Officer
+Right.
+Matt Ramsay
+--
+TD Cowen -- Analyst
+Changes in expectation of revenue, timing, or revenue investment, etc. Like I said, maybe you can -- if I'm reading things that aren't there, certainly, tell me, but I think it's an important question to address.
+Fermi Wang
+--
+President and Chief Executive Officer
+Right. First of all, I think we continue to commit to, you know, the IoT market. I think this is -- when you say camera, I think you meant IoT market. I think that's why really we need to continue to focus and continue to provide solutions.
+Actually, we think that we have differentiated technology, as well as a big customer base. And we need to continue, we will continue, to provide the solutions to our customers. So, I think that is one area I will never, you know, say we take our eyes off the ball. And given that, I think we want to continue to invest on auto. But when you say changing auto strategy, one thing that I will say, what happened in the last six months is we believe that the China market will give us early years and shorter-term revenue than the other market.
+We definitely move -- more focus our resources to Chinese market for the CV72 and CV3. And I think that's an area we believe is it can get us faster to -- to -- to the revenue. And -- but that doesn't mean we -- we don't focus on our U.S. and Europe or other market that we can get our CV3 design. But obviously, those design work will take a longer time to go to revenue.
+So, I think it's really a focus on the short-term revenue versus longer-term opportunities. But I will say, for LLM, one thing is it's become very clear, even our current market, like even security camera, when we talk to our our professional security camera customers, they all start thinking about how LLM and what impact their business, how to use LLM to integrate multiple cameras into the services for their -- for the service they provide to their customers. And also, that automotive guys also start thinking bigger, bigger transformer model which kept the performance getting higher and leverage while -- their investment -- the OEM model. So, I really think that although that LLM start with -- you know, on the server side, which is definitely an interesting area for us, but just in the last three months, when people -- when we start talking to our existing customer, it become very clear that LLM is also on the roadmap for all our existing customer. So, LLM, a roadmap for us, is not just an opportunity we can, you know, choose to invest or not.
+I hope this is clarify your question.
+Matt Ramsay
+--
+TD Cowen -- Analyst
+No, thank you, Fermi, for all the color there. I appreciate it. I guess as my follow-up question, you mentioned there's going to be different phases of your new investment around inference and LLM. Have you guys thought about sizing some of those investment areas, I mean, what number of people or number of dollars that you're shifting internal resources? And then, if it goes well, like, what kind of magnitude of investment are you guys considering given where the P&L is right now? Thanks.
+Fermi Wang
+--
+President and Chief Executive Officer
+Right now, so for the current phase, we talk about we only carve out a team that we using our current resource, which is under our payroll already to do that. But obviously, when we start ramping up, we probably need to duplicate a similar-size team to support LLM. So, we are talking about, you know, anywhere from 60 to 80 people total to support a limited engagement for the customer. Like, our goal is not going to all the possible customer. Like we said last time, we need to prove the concept and with several customer that -- that really want to have a second source for LLM from -- on the server side, also several customers in our current customer base that can use LLM for their roadmap.
+So, I think we decided to limit the scope, and we think that we can fund this activity with our P&Ls.
+Matt Ramsay
+--
+TD Cowen -- Analyst
+Got it. Jump back into queue. Thank you very much.
+Operator
+Thank you. One moment for our next question. And our next question comes from the line of Ross Seymore from Deutsche Bank. Your question, please.
+Ross Seymore
+--
+Deutsche Bank -- Analyst
+Hi, guys. Thanks for taking the question. I want to ask a near-term question, and then I'll follow up. On the near-term side, I guess there's kind of two parts, so forgive me for that.
+But for the guide for the third quarter, Fermi or Brian, you mentioned that -- I think you said the majority of the weakness would be in the IoT side, not auto. I just wanted to get some color on that. And then, the second part of the first question here is going to be the fiscal-year basis. I think Joe kind of asked it earlier, but it looks to me like your non-CV revenues are going to be down about 50% year over year. How much of that, if you can guess, do you think is share that's just gone and it's the low-end stuff you mentioned, versus just the cyclical dynamic of inventory burn and some of that will snap back?
+Fermi Wang
+--
+President and Chief Executive Officer
+Right. So, first of all, I think that, for the short term side, we definitely believe that it's a -- I think the question is related to...
+Brian White
+--
+Chief Financial Officer
+Yeah, I think you're -- the first part of your question, Ross, was confirmation that the weakness that we see in revenue for fiscal Q3 is driven by the IoT side of the equation. And that is correct. You know, we're seeing, obviously, some significant rebalancing of inventory and orders, you know, across our businesses. But in terms of what's driving this leg down in revenue between Q2 and Q3, it appears to essentially be all IoT at this point.
+Fermi Wang
+--
+President and Chief Executive Officer
+Right. On the second part is really whether that -- the video process side. I think that video process is definitely part of the weakness we talk about in the consumer IP cam side. And so, that it really depends on the inventory situation, whether they will -- how fast they can rebound to it.
+But I don't think we can snap back to the original level. We believe that some of our video process business will be replaced by a low-end CV chip too. So, I think that, we talk about next year, our video processor business, that will continue to go down but not in the same scales that we saw this year.
+Ross Seymore
+--
+Deutsche Bank -- Analyst
+Then I guess as my follow-up, and forgive me, I guess there are kind of three here. If we look at the growth for fiscal year '25, you know, you said the video process will still go down. What do you think are the key growth drivers in your CV business that we should look forward to, you know, either when design wins kick in and inventories burn? So, cyclically or secularly, just roughly speaking, what do you see as the biggest tailwind to offset that video processor headwind?
+Fermi Wang
+--
+President and Chief Executive Officer
+So, for the -- for CV side, I definitely believe that both inventory burn through as well as our new project like CV5 and CV72 production will help us to get tailwinds to to boost our IoT business. But even on auto side, we believe that there's new design wins can help us to get more revenue growth for next year. So, I think that professional -- from the professional IP cam side, it's become very clear that we think that our market still -- we hold our market share very well. And as soon as we get that inventory cleaned, we should be able to see a rebound on the current design wins, and plus with the CV5 and CV72 design win we talk about, that should help.
+Ross Seymore
+--
+Deutsche Bank -- Analyst
+Thank you.
+Operator
+Thank you. One moment for our next question. And our next question comes from the line of Tristen Barra from Baird. Your question, please.
+Unknown speaker
+Hi, this is [Inaudible] for Tristan. Thanks for taking the questions. Just you touched on the IoT side of the business. But maybe on the auto side, have you seen any step-downs in order patterns from automotive ODMs as they take inventory control measures in the past few months? And do you expect any further order reductions before year-end in auto?
+Fermi Wang
+--
+President and Chief Executive Officer
+Right. So, we -- we see some small customer that tried reducing their inventory, but it's not as bad as IoT side. I think, most of the time, I think our automotive customers continue to take the part of the plan. So, although we see some weakness, but it's not -- like I said, you know, IoT is really the main problem we are dealing with right now.
+Unknown speaker
+OK, great. And then, for my follow-up, how different are the potential engagements for CV3 given the long-term nature and software platform costs of developing AI solutions versus the traditional segments that you play in, including data recorders?
+Fermi Wang
+--
+President and Chief Executive Officer
+Right. So, obviously, that the CV3 design will take much longer than our recorder in the past. Recorder in the past, it was like 18 months, even in auto grades, 18 months, the design cycles. Here in the outside channel, we're talking about four years.
+That's the reason we decided to really focus on our CV72 and CV3 opportunity for -- in China first and so that we can address the revenue -- time to market -- time to revenue issue. So, for that -- for that, we talk about CV72 most likely will have a revenue in the second half 2025 calendar year. And I even think CV3, we have a design with a tier 1 that we might generate revenue in fiscal -- sorry, calendar year 2026, and that is definitely shorter than any other areas that we're seeing.
+Unknown speaker
+OK, great. Thanks for the questions.
+Operator
+Thank you. One moment for our next question. And our next question comes from the line of Tore Svanberg from Stifel. Your question, please.
+Tore Svanberg
+--
+Stifel Financial Corp. -- Analyst
+Yes, thank you. Just -- just, Fermi, back to sort of the resources and the opportunities and specifically thinking about CV3, the leverage of the software, because, you know, we're talking about auto, right, but at the same time -- which is an edge device, but we're also talking about AI accelerators at the core. So, just -- just trying to understand how much portability you have, you know, with your current investments so that, you know, you don't have to go through a completely new investment cycle, if you will.
+Fermi Wang
+--
+President and Chief Executive Officer
+Right. So, we don't plan to have a brand-new investment cycle. With our current resource, we only build up our software stack in a -- in a -- in a way we are ready to demo a brand-new software stack that's 100% AI based very soon. And like what we talked about in the past, right? We talk about that we -- we are working with a Conti software stack, but in parallel, we're doing our own software development with our current resource with the two acquisition, both Oculii as well as [Inaudible] VisLab.
+We are at a stage that are ready to demo our next generation of software stack. So, from the development point of view, software side, I think we definitely not only prove that we have enough resource, but we will finish the work to some -- to the extent. So, now the issue is with LLM, also, we funded our phase -- first phase of an investment based on our current resource and leveraging a lot of investment we're putting through CV3 software already. But for the second phase that we are waiting to -- to see whether the -- the result of first phase of -- of a -- of engagement with customers that even that ramping up is not going to be, you know, a lot more than what we have today. We definitely want to be ready to talk to investors when we are talking about ramping up. From that -- from that point of view, you can think that even for the silicon side, for LLM, like I said, this is going to be our next phase of -- of CV3 road map.
+So, we have to build a next-generation roadmap for the silicon side, and that this will leverage 100% of existing [Inaudible]. So, the -- any new -- new development or new investment cycle for LLM is a software thing to support customer. I hope that clarify the question.
+Tore Svanberg
+--
+Stifel Financial Corp. -- Analyst
+Yeah, no, absolutely. And I also wanted to follow up on I think there was a previous question about, you know, LLM or AI accelerator milestones. So, you know, what kind of milestones as investors should we be looking at here? I obviously understand the timing part of it, but, you know, what are some of the more specific milestones that we should be keeping an eye on?
+Fermi Wang
+--
+President and Chief Executive Officer
+I think the first important milestone is that we demo our chatbot demos to our customers, and it will happen sometime coming quarter. So, I think that's important because, with the demo, it also shows the performance our how we compete compared to our competitors. And all those information will be -- become open to our customers. I think that's probably the biggest near-term milestone.
+Tore Svanberg
+--
+Stifel Financial Corp. -- Analyst
+Very helpful. Thank you, Fermi.
+Fermi Wang
+--
+President and Chief Executive Officer
+Thank you.
+Operator
+Thank you. One moment for our next question. And our next question comes from the line of Kevin Cassidy from Rosenblatt. Your question, please.
+Kevin Cassidy
+--
+Rosenblatt Securities -- Analyst
+Yeah, thanks for taking my question. My question is also along the lines of the software stack. With the CV72 in China, how much of the software stack you develop? Is there a component of that? Can you sell that software stack too?
+Fermi Wang
+--
+President and Chief Executive Officer
+Yeah. So, there are two. I think our strategy -- so far, strategy inside China, outside China are different. Inside China, we are counting on our software partners because to -- to really collect data and trend the data in China is problematic for us.
+So, we are counting on working with our Chinese software partners to deliver CV72. Last quarter, we talked about we already identified multiple -- our software partner and they are porting aggressively their software to our CV72 platform -- hardware platform and ready to demo to OEMs in this quarter. So, I think, from the China side, is pretty -- we know exactly what to do with CV72. With outside China, with CV3, we talk about our collaboration with Conti, but more importantly, we want to demo our own software stack, which we don't plan to bundle 100%, but we definitely think this is an important software, important technology that we can help our customers to leverage that we have developed. This software stack, we will talk about more next time.
+But however, it's really we think one of the very few software stack is 100% AI based. And we can show the performance and the functions that were close to the BSD level. And I think this is definitely one thing we need to talk about, not only technology but also -- also our business -- our business -- our business model when we are ready sometime in the near future.
+Louis Gerhardy
+--
+Vice President, Corporate Development
+Yeah. Kevin, I'll just add, next week, September 5th to 8th, Continental will be demonstrating our joint software stack on CV3 at the IAA show. So, public demonstration, if anyone's in the area, to check it out.
+Kevin Cassidy
+--
+Rosenblatt Securities -- Analyst
+That's great to know. Yeah, we'll look for that. Maybe along those lines of demos and your work with [Inaudible], is there any update of, you know, how many OEMs you're talking to, and any -- any progress at all? [Inaudible]
+Fermi Wang
+--
+President and Chief Executive Officer
+We announced one -- yeah, we announced one design win last time. And this time, we continue to engage multiple OEMs with potential collaboration with Conti, but also independent that we also talk to OEM directly. So, we continue to have engagement -- multiple engagement with the OEMs at this point.
+Kevin Cassidy
+--
+Rosenblatt Securities -- Analyst
+OK. Thank you.
+Operator
+Thank you. One moment for our next question. And our next question comes from the line of Suji Desilva from ROTH. Your question, please.
+Suji Desilva
+--
+ROTH MKM -- Analyst
+Hi, Fermi. Hi, Brian. So, thanks for giving us the mix of revenue for the year roughly between the products, video, CV2, CV3. Can you give us a sense of what the mix is either currently or kind of when it normalizes between auto and IoT? Because it sounds like those two categories are having different trends right now, I think it would be helpful to understand kind of where each one fits in the revenue today and maybe in a year or so where things normalize.
+Brian White
+--
+Chief Financial Officer
+Yeah, sure, Suji, So, if you go back to last year, automotive was about a quarter, and IoT is about three quarters. Given the relative stability of automotive this year versus IoT, which has been much more volatile to the downside, that mix is looking more like 70% IoT and 30% automotive for the current year. Obviously, we've said that the size of our SAM, now pursuing over a multiyear time period, is much more levered to automotive where, you know, it would be the inverse of that relationship where, long term, we would expect automotive to be about 70% and IoT about 30% as we move out, you know, several years in the -- in the future as we get traction with CV3 and some of the other automotive solutions.
+Suji Desilva
+--
+ROTH MKM -- Analyst
+OK. Thanks, Brian. That's very helpful. And then, just trying to reconcile the large pipeline number you've been giving the last several quarters versus the inventory correction here.
+Is there a time frame in which some of that pipeline starts to convert and meaningfully contribute? I imagine -- I imagine that that process would be independent of the inventory perturbations that are happening right now. Just correct me if that's wrong, but that's -- that's not pushed out or pulled in any -- in any way because of what's going on right now. Thanks.
+Fermi Wang
+--
+President and Chief Executive Officer
+So, I think that, you know, the total number we talk about, so from -- so for the very near term, for example, if you talk about the problem for this year, definitely there's some impact with the inventory. But in general, I don't think there's a -- the current inventory correction should have any impact to the -- the funnel because it's really based on design wins and also the probability and the the volume of the design wins. So, we'll be ready to talk about this number in November this year.
+Suji Desilva
+--
+ROTH MKM -- Analyst
+And, Fermi, if you can just give us an idea what year this start to kind of come in, the elbow of those, like how many years away that is.
+Louis Gerhardy
+--
+Vice President, Corporate Development
+Well, our final CG is six years. And given the time it takes to land some of these winds, and particularly with CV3, it was back-end loaded and definitely in the latter half of those six years.
+Suji Desilva
+--
+ROTH MKM -- Analyst
+OK, great. Thanks, Louis.
+Operator
+Thank you. One moment for our next question. And our next question comes from the line of Gary Mobley from Wells Fargo. Your question, please.
+Gary Mobley
+--
+Wells Fargo Securities -- Analyst
+Hey, guys. Thanks for taking my question. If I'm not mistaken, there's about 20 customers that really move the needle for your overall business. Have you had an opportunity to review those top 20 customers and where they stand with respect to inventory balances, whether healthy or not? And to give us a sense of -- of the driver of the 20% sequential revenue decline expected for the third quarter, how many customers are driving that down, or is it, you know, isolated in just one or two?
+Fermi Wang
+--
+President and Chief Executive Officer
+I think that, in general, for IoT, all of the top 20 customers are having inventory correction problems, but auto might not be as bad. Some of the auto customers have an inventory problem, but our top auto guys, some of them may not. So, if you look at -- if you really separate the application, looking at IoT, any customer -- any type of -- any of our top customers, all of them have inventory problems.
+Gary Mobley
+--
+Wells Fargo Securities -- Analyst
+OK. If I can follow up --
+Fermi Wang
+--
+President and Chief Executive Officer
+Maybe a different degree. Yeah.
+Gary Mobley
+--
+Wells Fargo Securities -- Analyst
+I'm sorry. Go ahead, Fermi.
+Fermi Wang
+--
+President and Chief Executive Officer
+I was just saying that maybe they have different -- different degrees of inventory, but all of them have some significant inventories.
+Gary Mobley
+--
+Wells Fargo Securities -- Analyst
+OK. Thank you. To follow up, I want to ask about your relationships with Bosch and some other kind of China tier 1 partners for CV3. Where do those stand relative to how Continental is moving along?
+Fermi Wang
+--
+President and Chief Executive Officer
+So, I think, in China, we focus on, you know, working with the Chinese tier 1s as the first priority and also with Conti and Bosch. So, I think that those are the priorities that we have, and we definitely have a -- continued to have a strong RFQ from OEMs through those tier 1s. CV72 because this is really a -- the silica is not ASO but it is a SoC system solution, this is definitely a Chinese tier 1 play. For Bosch and Conti, we'll focus on the CV3 levels of solution to Chinese market right now.
+And we definitely have a multiple discussion with Bosch and Conti on this.
+Gary Mobley
+--
+Wells Fargo Securities -- Analyst
+Thanks, Fermi.
+Operator
+Thank you. This does conclude the question-and-answer session of today's program. I'd like to hand the program back to Dr. Fermi Wang for any further remarks.
+Fermi Wang
+--
+President and Chief Executive Officer
+Thank you, everybody, for joining us today, and looking forward to talk to you soon. Thank you.
+Operator
+[Operator signoff]
+Duration: 0 minutes

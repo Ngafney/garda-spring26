@@ -1,0 +1,407 @@
+Operator
+Good afternoon, and welcome to the Marvell Technology, Inc. second quarter of fiscal year 2024 earnings conference call. All participants will be in listen-only mode. [Operator instructions] After today's presentation, there will be an opportunity to ask questions.
+Please note this event is being recorded. I would now like to turn this conference over to Mr. Ashish Saran, senior vice president of investor relations. Please go ahead.
+Ashish Saran
+--
+Vice President, Investor Relations
+Thank you, and good afternoon, everyone. Welcome to Marvell's second fiscal quarter 2024 earnings call. Joining me today are Matt Murphy, Marvell's chairman and CEO; and Willem Meintjes, our CFO. Let me remind everyone that certain comments made today include forward-looking statements, which are subject to significant risks and uncertainties that could cause our actual results to differ materially from management's current expectations.
+Please review the cautionary statements and risk factors contained in our earnings press release, which we filed with the SEC today and posted on our website, as well as our most recent 10-K and 10-Q filings. We do not intend to update our forward-looking statements. During our call today, we will refer to certain non-GAAP financial measures. A reconciliation between our GAAP and non-GAAP financial measures is available in the Investor Relations section of our website.
+Before I turn the call over to Matt for his comments on our performance, let me highlight several new product announcements, starting with our electro-optics portfolio. First, we announced the release of Orion, the industry's first 800-gig coherent optical DSP for pluggable modules. Orion is our fifth generation of coherent DSPs and is produced in five-nanometer technology incorporating our 112-gig SerDes, enabling 800 gigabits per second of throughput within the tight power and space constraints of small form factor pluggable optical modules. Orion enables high-performance probabilistic traffic shaping in addition to supporting standards-compliant transmission modes.
+We expect that Orion is well positioned to continue to drive Marvell's leadership in coherent technology in both the carrier optical transport market, as well as data center interconnects, or DCI, in the cloud market. In parallel with Orion, we launched the industry's first 800-gig DCI ZR module, our COLORZ 800 platform. We will be demonstrating our 800 ZR module at the ECOC Conference in October, Marvell Pioneer DCI technology at 100-gig, followed by a 400 ZR platform, which has been shipping in volume since last year. COLORZ 800 will be our third generation of DCI modules, powered by a new Orion DSP, COLORZ 800 incorporates Marvell's innovative silicon photonics technology, which integrates multiple discrete components on a single die.
+Marvell's 800 ZR modules provide twice the bandwidth of current solutions while lowering power and cost per bit by 30%. Our 800 ZR modules will enable the deployment of next-generation 51.2T switches and routers by cloud operators to support the massive increase in traffic between data centers driven by continuing growth from generative AI. Moving to our copper connectivity portfolio. We announced the industry's first five-nanometer multi-gigabit PHY platform.
+This platform represents a significant leap in performance compared to products on the market today and is a key milestone in Marvell's journey to physical layer technology leadership. It is based on an innovative architecture that includes optimized circuit design, custom digital logic, and enhanced DSP algorithms. This PHY platform will deliver 10-gig performance at half the power of previous-generation Marvell devices and will become the building block for multiple stand-alone PHY products, integrated SoCs, and custom ASICs optimized for specific markets and applications. We expect the adoption of multi-gig PHY will continue to grow in enterprise networking.
+In our automotive end market, we announced the industry's highest capacity automotive central Ethernet switch to support the zonal networking architectures of next-generation vehicles. This addition to our Bright Lane family of auto Ethernet switches delivers 90 gigabits per second of bandwidth, nearly two times higher than current commercially available solutions. The new switch family also includes a combination of our advanced security features not found together in any other automotive switch product. These features include MACsec link security on every port, deep packet inspection for heightened intrusion detection, and an embedded hardware security module for encryption.
+This product has started sampling to multiple leading automotive customers and partners. Let me now turn the call over to Matt for his comments on the quarter. Matt?
+Matt Murphy
+--
+President and Chief Executive Officer
+Thanks, Ashish, and good afternoon, everyone. For the second quarter of fiscal 2024, the Marvell team continued to execute, delivering revenue of $1.34 billion. These results were above the midpoint of our guidance, primarily driven by demand from AI applications growing faster than our prior forecast. Our non-GAAP operating expenses were better than guidance due to an acceleration of the cost-reduction plan we outlined last quarter.
+As a result, our non-GAAP earnings per share was $0.33, $0.01 above the midpoint of our guidance. We are pleased with our performance for the quarter in a challenging macro environment. Let me now move on to reviewing our results and expectations by end market, starting with data center. In our data center end market, revenue for the second quarter was $460 million, growing 6% sequentially, well above our guidance for a flat outlook.
+We were able to outperform our guidance in this end market because of accelerating demand for our optical products to meet the continuing expansion of cloud AI deployments. Our overall revenue from cloud grew over 20% sequentially. Notably, revenue from both Cloud AI and standard cloud infrastructure grew sequentially with AI growing faster. As expected, revenue from the enterprise on-premise portion of our data center end market declined significantly on a sequential basis in the second quarter, reflecting a weakening enterprise market.
+As you heard in detail last quarter, AI infrastructure requires a staggering amount of high bandwidth connectivity, that's provided by an optically connected infrastructure, operating at the highest available speeds. Marvell is enabling AI with a broad range of solutions, which include PAM4-based optical DSPs and AECs for connecting accelerator clusters inside AI data centers. DCI products for connectivity between regional data centers, low-latency, high-capacity Ethernet switches for fabric connectivity inside data centers, and custom silicon for compute acceleration. We are confident that the breadth of Marvell's technology positions us as one of the scarce few semiconductor companies that can enable the industry to capitalize on the rapid growth in AI.
+Marvell's market-leading PAM4 optical DSPs are indispensable for the pluggable optical module ecosystem that cloud customers rely upon to build their massively scalable networks. Our DSPs enable full interoperability and backward and forward compatibility. They also provide the advanced telemetry and diagnostics critical to maintaining an extremely resilient and serviceable network. We've been shipping the industry's highest-speed 800-gig PAM4 DSPs in high volume for several quarters and have begun sampling our next-generation 1.6T platform.
+We are seeing demand for connectivity between regional data centers accelerate as inferences deployed across multiple locations. As Ashish told you, Marvell has been a key enabler of this application with our DCI products, and we just announced our plan to demonstrate the industry's first 800 ZR modules in October based on our new Orion coherent DSP. Looking at the future of optical connectivity, we are uniquely positioned in the industry with a leadership position in both PAM and coherent technology. We are also excited about the opportunity for our next generation of Ethernet switches, our 51.2T Teralynx 10 platform, which we announced earlier this year.
+We have begun sampling this product, and we are seeing strong interest from customers. Last quarter, we told you how cloud customers are enhancing their AI offerings by building custom accelerators of their own. Trend is leading to a larger and faster-growing opportunity for Marvell's custom compute portfolio. We have won a number of custom silicon programs tied to AI, and these are well underway to start ramping into volume production next year.
+Let me now talk about what we are seeing in storage and data center. As we expected, from a low base in the first quarter, we saw sequential storage data center revenue growth in the second quarter, and we are expecting modest sequential growth in the third quarter. However, storage end market demand remains significantly depressed and customer inventory remains high. As a result, the industry's expectations for a data center storage recovery have pushed out meaningfully.
+Looking ahead to the third quarter, we expect sequential revenue growth from overall cloud to accelerate above last quarter's performance, driven by continued strong growth from Cloud AI, as well as standard cloud infrastructure. Demand for our AI products continues to grow at an extraordinary rate, and we are working very closely with our customers to meet their rapidly evolving needs. On the other hand, enterprise on-premise is expected to continue to trend down. As a result, we are projecting overall data center revenue in the third quarter to grow in the mid-teens sequentially on a percentage basis.
+Turning to our carrier infrastructure end market. Revenue for the second quarter was in line with our guidance at $276 million, declining 3% year over year and 5% sequentially. Sequential and year-over-year decline were driven entirely by the wired portion of our carrier end market, reflecting ongoing demand weakness and inventory digestion at wired customers. In contrast, our wireless revenue continued to grow in the second quarter, building upon the 25% sequential growth we saw in the first quarter, and we are expecting additional growth in the third quarter.
+As a result of significant share and content gains for Marvell products in conjunction with the 5G upgrade cycle, we have grown our wireless revenue significantly over a multiyear period. While the full conversion to 5G in the world's installed base of wireless infrastructure will take many years, a number of regions are completing their initial phase of 5G deployments and are taking a pause in a challenging macroeconomic environment before they upgrade the balance of their networks. As a result, following an extended period of strong growth, we are expecting a significant sequential reduction in our wireless revenue in the fourth quarter. However, we expect that once customer and operator inventories normalize and carrier capex returns to more healthy levels, we can resume growth in our overall carrier end market and start to realize additional share gains.
+These will come for five-nanometer-based station designs we have won but which are not yet in production. In addition, we expect the launch of our next-generation 800-gig Orion coherent DSP platform will drive long-term growth from the wired optical transport market. Moving to our outlook for the third quarter. We expect revenue from our overall carrier end market to grow in the low single digits sequentially on a percentage basis driven by wireless.
+Turning to our enterprise networking end market. Revenue for the second quarter was $328 million, declining 4% year over year and 10% sequentially. As we have been signaling for the last few quarters, we continue to see inventory corrections impact customer demand in this end market. We expect this inventory renormalization to take a few quarters to resolve as customer balance sheets get worked down over time.
+While we deal with these market dynamics in the near term, I would note that enterprise networking has been an important contributor to Marvell's successful transformation to a leader in data infrastructure. The Marvell team has driven an extended multiyear period of exceptional revenue growth with enterprise networking revenue essentially doubling over the last few years. This was enabled by significant share in content gains, a testament to the consistent investment we made in refreshing our enterprise networking product portfolio. As Ashish told you, we continue to introduce new products such as the industry's first five-nanometer Multi-Gig Ethernet PHY transceiver.
+Looking ahead to the third quarter of fiscal 2024, we project our enterprise networking revenue to decline in the low teens sequentially on a percentage basis due to the market dynamics outlined earlier. Turning to our automotive and industrial end market. Revenue in the second quarter was $110 million, above guidance, growing 32% year over year and 23% sequentially. Year-over-year growth was led by our automotive business, which continued to benefit from the growing adoption of Ethernet and cars.
+We also closed on a number of new automotive Ethernet design wins with multiple top 10 automotive OEMs during the quarter. Looking to the third quarter of fiscal 2024, we project revenue from our auto and industrial end market to be flattish sequentially and to continue growing year over year in the 30% range. Moving on to our consumer end market. Revenue for the second quarter was $168 million, growing 2% year over year and 18% sequentially.
+Revenue was below guidance as deliveries for an end-of-life program were rescheduled to the third quarter. As a result, we are forecasting consumer end market revenue to grow sequentially in the low teens on a percentage basis in the third quarter. In summary, we delivered revenue and earnings above the midpoint of guidance for the fiscal second quarter. We are forecasting revenue growth to accelerate in the third quarter, accompanied by gross margin expansion.
+We intend to remain disciplined on operating expenses to help us deliver strong operating leverage. Looking ahead, while inventory digestion in some end markets is taking longer to resolve, demand from AI applications continues to strengthen, and Marvell is well-positioned to benefit from that trend. Based on our latest demand outlook for our Electro-Optics products, we now expect revenue from AI to exit this year at over a $200 million quarterly revenue run rate or $800 million annualized. This is well above what we had outlined last quarter.
+Put this in perspective, this would put us at the run rate we had previously communicated for all of next year. Looking forward, between the ongoing strength from Electro-Optics and the expected ramp of multiple custom compute programs, we are expecting continued outsized growth from AI. Our results and outlook continue to validate our strategy to focus on developing the most advanced silicon for data infrastructure. The diversification in our end markets is serving us well with strong growth from AI and cloud, carrying us through a softening macro environment.
+With that, I'll turn the call over to Willem for more detail on our recent results and outlook.
+Willem Meintjes
+--
+Chief Financial Officer
+Thanks, Matt, and good afternoon, everyone. Let me start with a summary of our financial results for the second quarter of fiscal 2024. Revenue in the second quarter was $1.341 billion, exceeding the midpoint of our guidance, declining 12% year over year and growing 1% sequentially. Data center was our largest end market, driving 34% of total revenue.
+Enterprise networking was the next largest end market with 24% of total revenue, followed by carrier infrastructure at 21%, consumer at 13%, and auto/industrial at 8%. The GAAP gross margin was 38.9%. Non-GAAP gross margin was 60.3%, growing 30 basis points sequentially, driven by cost improvements, partially offset by weaker revenue mix. Looking ahead, we expect gross margin to continue to improve in the third quarter and then to increase significantly in the fourth quarter.
+As Matt told you, the recovery in storage continues to push out, which is negatively impacting our product mix. However, in the fourth quarter, we project a significant improvement in our overall product mix to lead to stronger gross margin. We expect this improvement will be driven by our continuing growth in data center, while wireless carrier and consumer revenue declined on a relative basis. In addition, the Marvell team continues to execute well on our efforts to reduce costs.
+As a result, we continue to target non-GAAP gross margin returning to the bottom end of our long-term model of 64% to 66% in the fourth quarter. Moving on to operating expenses. GAAP operating expenses were $727 million, including share-based compensation, amortization of acquired intangible assets, restructuring costs, and acquired -- and acquisition-related costs. Non-GAAP operating expenses were $448 million, $7 million below guidance.
+We are pleased to report that we accelerated our cost-reduction plan we outlined last quarter. We remain on track to execute the remainder of our cost-reduction plan by the end of this fiscal year as we communicated last quarter. Moving on to the rest of the income statement. GAAP operating margin was negative 15.7%.
+Non-GAAP operating margin was 26.9%. For the second quarter, GAAP loss per diluted share was $0.24. Non-GAAP income per diluted share was $0.33, $0.01 above the midpoint of guidance. Now, turning to our cash flow and balance sheet.
+During the quarter, cash flow from operations was $113 million. Operating cash flow was negatively impacted by an increase in DSO, as well as severance-related cash restructuring charges. Our DSO increased 13 days from the prior quarter, primarily due to worse linearity as we ramped shipments on orders that were received well within lead time. Capex was $111 million, which included a large number of leading node tapeouts that we expect to drive our future growth.
+As a reminder, our capex can be lumpy in any given quarter. We expect capex on average to be approximately mid-single digits of revenue on a percentage basis. Inventory at the end of the first quarter was $1.02 billion, decreasing by $10 million sequentially. We returned $52 million to shareholders through cash dividends.
+Our total debt was $4.15 billion. Our gross debt-to-EBITDA ratio was 2.04 times, and net debt-to-EBITDA ratio was 1.83 times. During the quarter, we paid down $500 million of our total debt. Looking ahead, we will opportunistically explore accessing the debt capital markets to refinance our upcoming debt maturities.
+As of the end of the second fiscal quarter, our cash and cash equivalents were $423 million. Turning to our guidance for the third quarter of fiscal 2024. We are forecasting revenue to be in the range of $1.4 billion, plus or minus 5%. We expect our GAAP gross margin will be in the range of 45.6% to 48%.
+We project our non-GAAP gross margin will be in the range of 60.3% to 61.3%. We project our GAAP operating expenses to be in the range of $666 million to $671 million. We anticipate our non-GAAP operating expenses will be in the range of $435 million to $440 million. We expect other income and expense, including interest on our debt to be approximately $48 million.
+For the third quarter, we expect a non-GAAP tax rate of 6%. We expect our basic weighted average shares outstanding to be 863 million and our diluted weighted average shares outstanding to be 869 million. As a result, we anticipate GAAP loss per diluted share in the range of a loss of $0.02 to $0.12 per share. We expect non-GAAP income per diluted share in the range of $0.35 to $0.45.
+In summary, for the third quarter, we are guiding for solid sequential revenue growth, further expansion in non-GAAP gross margin, and additional reductions in non-GAAP opex, all of which positions Marvell for strong operating leverage and earnings growth. In addition, following the paydown of $500 million in debt in the second quarter, we resumed buybacks in the third quarter. Operator, please open the line and announce Q&A instructions. Thank you.
+Questions & Answers:
+Operator
+We will now begin the question-and-answer session. [Operator instructions] In the interest of time, please restrict yourself to one question only. If you have additional questions, please rejoin the queue. Our first question today is from Tore Svanberg with Stifel.
+Please go ahead.
+Tore Svanberg
+--
+Stifel Financial Corp. -- Analyst
+Yes. Thank you. Matt, could you just elaborate a little bit more on the storage business? I'm just trying to understand all the dynamics there. So, it sounds like there's a delay in the recovery, obviously, because there's still some inventories out there.
+But I'm also trying to understand the growth in storage associated with AI. I know these are different architectures, right? But if you could give us any more color on the digestion of the inventory on the compute side, coupled with how storage could benefit more on the AI side.
+Matt Murphy
+--
+President and Chief Executive Officer
+Yeah, sure. Hey, thanks, Tore, for the question. Yeah, on storage, I would say the best guidepost is to look at the end customer commentary and both what the hard drive companies are saying, as well as the flash industry, and just relative to the sort of extended time it's taking for inventory to work down at their level. That being said, eventually, it's going to come back.
+It's a little bit longer than we had modeled. But at this point, we're following the market and following our customers. And hopefully, that sometime at the beginning of next year in the first half, but we'll see how that goes. But eventually, it will come back.
+On the AI question, it's kind of interesting. We continue to make attempts to model that. We don't have a great model for storage at this point. We've got, I think, an excellent view now of where we sit in the block diagrams relative to our optical products, our custom silicon, networking, but the storage impact in our view, at a high level, is net positive, but we don't have a particularly helpful model how to think about that.
+Certainly, AI should be an overall tailwind for storage. But I think there's -- that's all caught up in the inventory that's being worked out at the DSPs.
+Tore Svanberg
+--
+Stifel Financial Corp. -- Analyst
+Sounds good. Thank you.
+Matt Murphy
+--
+President and Chief Executive Officer
+Yep.
+Operator
+The next question is from Timothy Arcuri with UBS. Please go ahead.
+Tim Arcuri
+--
+UBS -- Analyst
+Thanks a lot. Matt, so AI revenue was supposed to be, I think, $400 million this year. It's actually going to exit at $200 million a quarter. So, it's going to -- so it's obviously going to be higher than $400 million for the year.
+Can you talk about how much of whatever the number will be for the year, probably $500 million or $550 million, something like that, I would think, how much of that is going to be custom ASIC? And then next year, you said that AI would be greater than $800 million. Obviously, it's going to be quite a bit greater than $800 million. Can you maybe update that number and give us an idea of how much of that's going to be custom ASIC? I'm guessing $150 million, something like that. But I'm wondering if you can give us some more milepost there.
+Thanks.
+Matt Murphy
+--
+President and Chief Executive Officer
+Yeah. Hey, thanks, Tim. Yeah. So, I think very encouraged by the demand trajectory upwards on the AI segment for us.
+exiting the year at a $200 million run rate, that is still mostly driven by the Electro-Optics platform, the DSP, TAs drivers at 800-gig. There's probably going to be a little contribution even in the fourth quarter from custom silicon, but that really ramps up more meaningfully next year. But we look at this as just a very positive sign that a quarter ago when we made our best estimates as to the opportunity in front of us, the fact that exiting the year will be at next year's run rate is very positive. So, think of it as this year mostly Electro-Optics that's going to grow again next year, obviously, and then you need to layer on top a more meaningful ramp in custom silicon.
+But at this point, demand is so far up into the right. It's actually hard for us to put an exact number or give you a refined number on next year other than it's going to be obviously bigger than we said the last time around.
+Tim Arcuri
+--
+UBS -- Analyst
+Right. I guess just -- but is the -- so there's obviously this big surge happening during the back half of the year. But if you took the AI piece, does it continue at that sort of linear rate through the year? Or does it sort of flatten off as you kind of go out through next year? Just trying to shape that. Thanks.
+Matt Murphy
+--
+President and Chief Executive Officer
+Yeah. I think -- well, I think the way you should think about it is, in Q4, we're already at $200 million, it's going to be at a higher run rate throughout fiscal '25 each quarter. So, it's going to keep growing on the optics side and then you're going to layer in custom silicon on top. So, we're not -- we're certainly not saying it's going to flatline at that level.
+We're just saying it's coming a lot faster. Demand has been a lot better. The supply chain team and Marvell is doing a great job to source the components and the capability that we need. So, I think it's a great setup for next year relative to the AI revenue.
+Tim Arcuri
+--
+UBS -- Analyst
+Great, Matt. Thank you so much.
+Matt Murphy
+--
+President and Chief Executive Officer
+Thanks, Tim.
+Operator
+The next question is from Blayne Curtis with Barclays. Please go ahead.
+Blayne Curtis
+--
+Barclays -- Analyst
+Hey, guys, thanks for letting me ask a question. I want to ask, it's either Matt or Willem, I guess, on the gross margin. Can you just remind us what the headwinds are that you expect to resolve in Q4? Because I guess storage taking longer, but I think the gross margin Electro-Optics are quite good. So, you would think that would be a tailwind.
+So, if you could just walk us through the puts and takes on the gross margin guide, that would be helpful.
+Willem Meintjes
+--
+Chief Financial Officer
+Yeah. Thanks, Blayne. Yes, certainly, the optics is a tailwind. And then in addition to that, we've signaled that the wireless carrier is really stepping down in the fourth quarter and then consumer is also really stepping down.
+So, the combination of those things. And in addition, our cost structure for our products has really improved and the overhead on manufacturing, and we see that benefit really starting to flow through more significantly in the fourth quarter. And so, storage is a headwind for us, as that recovery is pushed out.
+Blayne Curtis
+--
+Barclays -- Analyst
+OK. Thank you.
+Operator
+The next question is from Matt Ramsay with TD Cowen. Please go ahead.
+Matt Ramsay
+--
+TD Cowen -- Analyst
+Yeah. Thank you very much, guys. Good afternoon. Matt, I think you addressed the AI revenue commentary.
+I wanted to ask about the sort of goalpost for custom silicon. We had been in -- we had that conversation around $400 million and the $800 million and then it got pushed out a little bit. And there's been -- I mean, I don't think any of us have seen anything like the capex shifts that have happened around generative AI and spending patterns at a lot of your large customers. What we've observed is a lot of custom compute ASIC programs in flight.
+Some of them or for sort of CPU offload and whether it's called DPU or smartNIC or whatever you want to call it, some of them are for smaller model inference custom silicon programs at hyperscale. Maybe you could talk a little bit about where your engagements are, what you're seeing in terms of timing and magnitude because it's been such a tumultuous capex environment with AI versus traditional compute. And if you have any updates on some of those numbers around the custom compute programs and timing, that would be really helpful. Thanks, guys.
+Matt Murphy
+--
+President and Chief Executive Officer
+Yeah, great. Thanks for the question. I'd say a couple of things, Matt. The first is on your question about the custom silicon opportunity, which really -- if you sort of summarize the different pieces of it, as you mentioned, is really all to provide accelerated computing, right, in a custom format for these various companies.
+I think the overall capex shift toward accelerated computing is clearly going to benefit those that are participating in that segment, including us. And we do see -- and some of that over -- and that's why last quarter, we try to decouple them somewhat. But some of that revenue obviously overlaps with the AI numbers I gave earlier. But it's certainly a positive setup.
+We talked about having two different products last quarter that were kind of the lead ones that were tied to AI, one of which was in sample stage. That product is looking very good and most likely go into production first pass. The second product taped out as we expected in the second quarter, and that's also planned to ramp up next year. The size and the timing of those are still to be determined.
+We're working with our customers on those, but the overall shift in capex spending is clearly a tailwind on that business. So, I'd sort of say to calibrate it today, kind of tracking toward what we updated you guys on the last time. And then next year, really depends on how much it moves over, Matt, and how much it can actually -- how much business can be driven. So, we're not calling that other than to say it's -- the custom stuff for us is mostly going to be driven by AI next year in terms of the [Inaudible].
+Matt Ramsay
+--
+TD Cowen -- Analyst
+Got it. Thank you, Matt. Appreciate it.
+Matt Murphy
+--
+President and Chief Executive Officer
+Yeah.
+Operator
+The next question is from Harsh Kumar with Piper Sandler. Please go ahead.
+Harsh Kumar
+--
+Piper Sandler -- Analyst
+Yeah. Hey, I think when you talked about gross margin drivers for fourth quarter, Matt, you mentioned that you might be expecting a significant recovery in revenues as well. Did I understand that correctly? And if so, could you talk about what might be happening in the fourth quarter to drive that recovery?
+Matt Murphy
+--
+President and Chief Executive Officer
+Yeah. You're saying overall, Harsh? Your question is, what's sort of the view?
+Harsh Kumar
+--
+Piper Sandler -- Analyst
+Yeah.
+Matt Murphy
+--
+President and Chief Executive Officer
+Yeah. Obviously, we're guiding one quarter at a time. But to give you some perspective, because we gave you lots of puts and takes, including commentary about carrier and wireless, which we've been actually saying for several quarters now relative to that 5G run taking a pause. Overall, we expect revenues to be up again in the fourth quarter.
+We were sort of consistent with what we outlined in the last quarter's call, which is that Q3 and Q4 growth would accelerate, so kind of think of that as growing again in the fourth quarter sort of like we did in Q3 but really driven by cloud and AI and AI being the big driver. But also, as we've said in our prepared remarks, standard cloud infrastructure revenues are also growing very nicely through the year, not only from Q1 to Q2 and Q2 to Q3 but also into the fourth quarter and beyond. And that means if you kind of do the back of the envelope, data center becomes a bigger part of our revenue, and AI becomes a bigger part of our revenue by the fourth quarter. And then overall, Marvell Inc.
+is also up. So, I just kind of frame it at a high level. We did set out a long time ago to have a diversified strategy within data infrastructure by serving multiple end markets with a suite of products. So, we've got enterprise 5G automotive data center.
+And as you've seen even in this dynamic environment, certain quarters, some are performing better than others, and then we're sort of blessed to have markets that then have kicked in at the right time. So, even in a tough macro right now, Marvell's continuing to grow throughout the year, starting from our first quarter. And we anticipate that growth obviously going through Q3 and then through Q4. But the mix shifting by end market if that makes sense.
+And I know you'll create your model, and we give enough commentary, I think, to put the pieces together.
+Harsh Kumar
+--
+Piper Sandler -- Analyst
+We appreciate it, Matt. Thank you so much.
+Matt Murphy
+--
+President and Chief Executive Officer
+Yep.
+Operator
+The next question is from Christopher Rolland with Susquehanna. Please go ahead.
+Chris Rolland
+--
+Susquehanna International Group -- Analyst
+Hey, thanks for the question, and this one's for Matt. Just kind of an amazing revision here on the Electro-Optics portion. Since you've seen this inflection, you've probably done some more research here. How are you thinking about the attach rate for these products per GPU? Is it one-for-one? Are you thinking it could be two-for-one? I've seen some research that suggests, depending on how many layers there are, could even be three-for-one.
+And the revenue that we're talking about here all 800-gig PAM4 DSP? Is there anything else related in that as well? Thanks.
+Matt Murphy
+--
+President and Chief Executive Officer
+Yeah. Thanks, Chris. Yeah, I think it's fairly similar to our view last quarter. We were pretty clear about the direct attach, which was the one-to-one you mentioned.
+Understanding that as you get to the upper layers of the network, there's more. And there's a range and you probably sized the range. We're still, I think, refining our exact models there. So, I don't know that I have an exact number to give you, but I think you're thinking about it the right way is starting at the direct attach and then building higher.
+And the second part of your question, it's all 800-gig for AI at this point. We have strong traction on our next-generation products at 1.6T, which would be starting sometime next year. The products that are at frequencies lower than 800 gigabits are typically served for the traditional cloud infrastructure, which is also seeing a recovery as well. So, hopefully, that's helpful.
+Chris Rolland
+--
+Susquehanna International Group -- Analyst
+Fantastic. Thanks, Matt.
+Operator
+The next question is from Ross Seymore with Deutsche Bank. Please go ahead.
+Ross Seymore
+--
+Deutsche Bank -- Analyst
+Hi, guys. I don't know if this one is for Matt or Willem, but I just want to talk about the puts and takes to next year's gross margin. And I know you're not guiding that far out with any specifics. But it seems like you're going to have a number of custom products that will be going up.
+On the data center side, the storage side should recover at some point in time. But the general question is if custom products tend to be lower gross margin and storage in some other areas like enterprise eventually come back cyclically, how do we think about the puts and takes on your gross margin versus that 64 to 66 historical target range?
+Willem Meintjes
+--
+Chief Financial Officer
+Yeah, Ross, maybe I can start, and Matt can add. So, when you look back, certainly, over the last couple of years, we've grown both our carrier and ASIC business sort of faster than the rest of the business, and we were able to maintain our gross margin within our target range. We're talking to get back to that 64 exiting this year and then to maintain that through next year. But clearly, it's sort of early to decide exactly how big the ASIC ramp is next year.
+Now, if we do show outsized growth there, that would negatively impact our gross margin. But certainly, our view is that that would be very accretive to operating income and to EPS. But it's too early right now to know exactly the extent to that. So, hopefully, that's helpful, Ross.
+Matt Murphy
+--
+President and Chief Executive Officer
+And Ross, maybe -- this is Matt. I'll just add. I think the -- clearly, the custom business carries a lower gross margin. We've been very, very open about that.
+But I think looking out to next year, it's a little early to call it, right? We don't know the rate of recovery for storage. That's a big part of the equation. We also have what's the -- even within like AI and cloud, what's the optics revenue going to be versus the custom stuff. You've got automotive continuing to perform well and growing, which is a higher-than-average gross margin category for us.
+So, we've got a lot of irons in the fire relative to various businesses that may or may not pick up at different times. As Willem said, we had a pretty consistent ability to manage gross margins in the range that we were targeting, understanding there's mix issues all the time. We've been going through a period here Q1, Q2, and Q3, where we've had it for a longer period, I'd say, unfavorable gross margin relative to our traditional mix. But it's such a dynamic environment.
+It's really hard to call the ball exactly, Ross, on when all those markets sort of burn through inventory, kick back in, what does the recovery look like. But when we look at it at a very high level, we continue to believe we have a very nice balanced portfolio of different products, technologies with different business models behind them that generate different gross and operating margin profiles. And as an example, like Willem said, just because some of these custom programs are at lower than corporate average gross margin, especially if they ramp significantly, they're extremely accretive to operating margin and operating income at the bottom-line level, which, ultimately, over time, it's what we're laser-focused on, is driving earnings per share and driving operating profits for the company. So, high-level answer, but maybe it just frames it up.
+We need a little more time in front of us to really figure out what that looks like for next year.
+Ross Seymore
+--
+Deutsche Bank -- Analyst
+Fair enough. Thank you.
+Operator
+The next question is from Vivek Arya with Bank of America. Please go ahead.
+Vivek Arya
+--
+Bank of America Merrill Lynch -- Analyst
+Thank you for taking my question. Matt, I was hoping you could help us size how big storage is currently in the quarter. You reported both kind of data center and outside of data center. And I forgot whether you mentioned whether it was going to be up, down, flat in Q3 and Q4.
+Or can it kind of hold at these low levels? And what are you looking for to inform you as to when it starts to grow sequentially? Like how much excess inventory is out there? Or do you think that it can actually hold at these low levels? So, just help us kind of set what the right baseline view is of storage as you get into next year.
+Matt Murphy
+--
+President and Chief Executive Officer
+Sure, sure. Thanks, Vivek. It's a great question. OK.
+I think it's, in some ways, the million-dollar question. Let me tell you where we're at so far. So, obviously, Q1 was very, very low in terms of our storage revenues. And in particular, we're really talking about data center storage, if you think about it.
+The consumer piece is kind of hung in there because of some of the specific applications we have. But that's -- what's moving the needle is the data center side. In Q2 that -- it had recovered, which was nice to see. It was coming off a bottom, right around $100 million, let's call it, something like that.
+And then from there, we said in our prepared remarks, Q3, we'd see a modest recovery again, so that would be up. It's still not sloping toward, I think, where we thought it was going to be a quarter or two ago relative to the year-end exit rate. And I think most of the end customer commentary suggests this is more of a first half of '24 type of recovery. But I guess the good news is, it's come off the bottom.
+Good growth in Q2. It's going to grow again in Q3, and it will grow again in Q4. But it's just not quite at that slope in that rate. When we've dug in with the customer base kind of all the way to the end companies that consume the storage, it's hard to get an exact clear picture of where the inventory is and the timing, as I mentioned.
+However, what we do understand is that there's a lot of activity on qualifying the next-generation drives and technologies. There's a big TCO benefit. We haven't been able to detect anything structurally that's changed per se, although we continue to study that. So, in our mind, it looks like this has to come back to where it was at some point in terms of the number of exabytes that are being shipped or consumed.
+And then it should grow from there for all the reasons it's been growing for the last 20 years. And AI, there was a question earlier about that, it's probably a tailwind on that. But I think with how far back we are in the supply chain, I'll just conclude my remarks by saying, it's just very difficult to get a full read on where it all is, what's going on at the end customer level, and when it comes back. So, all we can do is sort of look at what our customers are saying and talking to us about and follow their lead.
+Hopefully, that's helpful.
+Vivek Arya
+--
+Bank of America Merrill Lynch -- Analyst
+Yes. Thank you, Matt.
+Matt Murphy
+--
+President and Chief Executive Officer
+Yeah.
+Operator
+The next question is from Srini Pajjuri with Raymond James. Please go ahead.
+Srini Pajjuri
+--
+Raymond James -- Analyst
+Thank you. Hi. Matt, my question is on the custom silicon side. I think you called out two programs that in AI that you expect to ramp next year.
+Can you talk about the design win pipeline? And also, I want -- if you could touch on, I know it's difficult to predict what kind of revenue opportunity -- forecast the revenue opportunity this early. But could you give us at least some sense because some of these programs -- we do hear that some of these programs do get canceled. So, I just want to make sure that you have that visibility that these programs for real, what you have for next year? And then if you can talk about other opportunities beyond those two programs that you talked about, that will be helpful. Thank you.
+Matt Murphy
+--
+President and Chief Executive Officer
+Yeah. Great question. Let me start with the, are they real, because I think that was the big question, probably two quarters back, Srini, and even at the end of last year when I think the reality of the macro economy really hit the cloud companies pretty significantly, and that's when you saw those companies at a very high level take actions on headcount, take actions on expenses, look at program priorities down at the infrastructure level. And part of our call in Q1 and Q2 was sort of advising investors how that had changed.
+What emerged from that was a shift from traditional cloud infrastructure to AI. Now, we've seen that play out through the first half of the year. So, those programs not only are getting funded, there's extreme urgency around them. And so, now we're at a point, given where these products are at, actually talking about when do we start wafers, how do we make sure the capacity is lined up, how do we have three-way calls to make sure we're all dialed in on what's needed.
+So, that gives us quite a bit of comfort. And that -- and we're farther along. And a quarter from now and two quarters from now, we'll be even farther along relative to being able to provide more visibility on what that ramp looks like. But we feel good about that.
+And certainly, going through that process, for all the programs in the pipeline, we have both won and opened a good view of where our customers want to go. On the opportunity size, just to give you a sense, if you look at the overall Marvell just total design opportunity pipeline, the biggest segment is data center. It wouldn't surprise you, but it's a huge portion of our open funnel. And of that, we look at it every quarter, the AI portion just continues to grow and has become very significant from an opportunity standpoint.
+And what I would say is it's really a combination of all the technologies I mentioned in the prepared remarks. It's the PAM products going from 800-gig to 1.6T. It's our AEC offerings. It's the big custom compute silicon programs that are out there.
+And there's a tremendous urgency to increase the beat rate on those and get them out faster. Significant interest in our Ethernet switching platform at 51.2T. And not only that, the roadmap beyond that. We have a number of new, exciting technologies, too, like bringing silicon photonics inside the data center.
+So, when you think about the conversations we're having, it's just a number of technologies that really work well together. And I think customers are engaging with us now to figure out how they can get the best out of Marvell overall and really differentiate themselves within their data center architectures on TCO, on power, on performance, and using the suite of technologies and really optimizing for their architecture. So, I'd say there's a number of sockets, the pipeline is big. Those are all the catchalls.
+That sounds great. But I'd say the more strategic and interesting piece and that's where I'm spending time is really making sure we marshal the resources of Marvell to engage very deeply at the highest levels with our big cloud customers and partners in the ecosystem and present ourselves as one company with a suite of solutions that can process the data, it can move the data, it can store the data and it can even secure the data inside your cloud. And I think all of those together is very exciting. So, yeah, we'll see.
+Lots of opportunity in front of us.
+Srini Pajjuri
+--
+Raymond James -- Analyst
+Thanks, Matt.
+Operator
+The next question is from Harlan Sur with JPMorgan. Please go ahead.
+Harlan Sur
+--
+JPMorgan Chase and Company -- Analyst
+Hi. Good afternoon. Thank you for taking my question. You know, there's been a lot of focus on your Electro-Optical business tied to AI, but I think the bigger portion of your Electro-Optical business is focused on the persistent upgrade cycles across the entire cloud data center footprint, right? And I think these tailwinds are still in front of the team, right? I think you still have -- there still is one more cloud titan that is yet to upgrade to 400-gig across six data centers.
+You still have the 800-gig, 1.6T optical upgrade across the remaining three titans. And then on DCI, you're still ramping 400 ZR DCI. But you still, I think, have two more cloud customers that are in the pipeline. So, are these broad upgrade cycles starting to line up to fire next year, maybe even some starting in the second half of this year? Maybe it ties into some of your commentary on strength in broader cloud, but just trying to get a sense of the ramp profile on these upgrade cycles.
+Matt Murphy
+--
+President and Chief Executive Officer
+Yeah. I think you did a great job summarizing it. The AI piece has obviously become very meaningful, and we gave you a sense of what that level of revenue is going to be in the fourth quarter. So, it's pretty amazing how fast that's grown, obviously.
+But to your point, the standard cloud infrastructure side of connectivity is having a nice recovery off of some inventory that was built last year. That's now becoming a tailwind as that burns down. You pointed out that there's still a major cloud company to go through their upgrade. So, that's also in front of us.
+As we transition each of the technologies in terms of speed, there's always an ASP bump. And it makes sense because you're delivering 2x the bandwidth for not 2x the price, right? So, it's -- we're on a nice sort of share the benefits with our customer trajectory there. And even at 1.6T for next year, while AI will lead it right behind it, it's going to be a key part of the overall infrastructure build, probably the year after. And then the regional data center stuff, which is really the ZR products, also just doing extremely well this year.
+I mean, large upsides due to generative AI. And then we said in the prepared remarks, and we just put out the press release, I think it was today or it was yesterday, about 800 ZR. And there'll be more to come on that, but there's another frequency kicker coming in probably faster than we would have thought if you went back six or nine months ago because that between data center, bandwidth is actually now becoming a bottleneck. So, just tremendous across-the-board opportunities that are not just AI but it's really driving our cloud growth.
+And a lot of that we're seeing in the second half, and we're going to see it through next year. So, we have both of those irons in the fire for Marvell overall growth.
+Harlan Sur
+--
+JPMorgan Chase and Company -- Analyst
+Perfect. Thank you, Matt.
+Matt Murphy
+--
+President and Chief Executive Officer
+Yep.
+Operator
+The next question is from Ambrish Srivastava with BMO. Please go ahead.
+Ambrish Srivastava
+--
+BMO Capital Markets -- Analyst
+Thank you very much. Willem, I had a question on the cash flow side. I was trying to see if there was a discernible pattern of seasonality. Doesn't seem to be, but you gave a reason for DSOs and impacting the CFO.
+Could you just walk us through how should we think about cash flow for the rest of the year?
+Willem Meintjes
+--
+Chief Financial Officer
+Yeah, sure. Thanks, Ambrish. Yeah, so this quarter, certainly, our DSO was impacted somewhat by linearity. We do expect a bounce back in Q3 and some normalization.
+As we've mentioned, we're really focused on driving down our days of inventory, and we've consistently reduced that through this year. And we expect to continue driving that down through the rest of this year. And so, yeah, you should expect some good improvement in the second half here.
+Ambrish Srivastava
+--
+BMO Capital Markets -- Analyst
+OK. And a quick question for you, Matt. We're hearing a lot of companies are talking about the push out of capex, general-purpose CPU toward AI. I know you addressed it in some ways earlier.
+Is that -- are you seeing that manifest in your business that certain projects are being sacrificed at the AI altar?
+Matt Murphy
+--
+President and Chief Executive Officer
+Funny way to phrase it. Yeah, I think there's two aspects. I think one is, were there project reprioritizations or not within those companies? And then also, is it affecting our business right now, which is kind of the two pieces? So, our view is on the first one, at least for Marvell, I can't comment about everybody. But for us, we really worked through that issue at the end of last year, early this year.
+There was a big, I'd say, kind of reprioritization that went on, first, driven by the budget squeeze, and companies just trying to get more efficient. And then almost in line with that was sort of the release of ChatGPT and the realization that there was this potential massive opportunity, right, for productivity gains through AI and then what are people going to do, and then sort of the race was on. So, from that standpoint, we feel very good about our WIP, and what we're working on and that, at least for us, those decisions and reprioritizations were made. And some of those are why we were lighter on our custom silicon revenue this year.
+We sort of talked about that a couple of quarters ago. So, those programs got delayed. So, we've, I guess, taken some medicine on that, and we've moved past it now. We've got this off to the races with the AI stuff.
+And then on our current business, as you saw, we had -- in Q2, we had overall data center revenues up pretty nicely, and that included on-prem being down, AI being up a lot, but we also said that standard cloud infrastructure was up, and it's going to be up again nicely in the third quarter, and it's going to continue through the fourth quarter into next year. So, I think we've worked through that as well. And probably the reason we don't get hit quite as much there is that we're tied more to the networking and connectivity than selling CPUs as an example. And so, that overall kind of network bandwidth needs to continue to get upgraded and deal with it because a lot of these big data centers are multi-tenant, and they've got AI sitting in there and they've got specialty-built servers and storage for other things, but it all needs to work together, and it all needs to ultimately have the right level of bandwidth to support the compute power.
+So, those are some puts and takes. I think the headwind on the whole thing would -- for us really would be the storage piece, which shows up in our data center near line and that we've just been kind of -- I answered the questions about that already. So, that's the puts and takes. But overall, it's actually growing very nicely for us, and it will be a growth driver for us next year, too.
+Ambrish Srivastava
+--
+BMO Capital Markets -- Analyst
+Got it. Thank you, Matt.
+Matt Murphy
+--
+President and Chief Executive Officer
+Yep.
+Operator
+The next question is from Chris Caso with Wolfe Research. Please go ahead.
+Chris Caso
+--
+Wolfe Research -- Analyst
+Yes. Thank you. I guess the question is digging into the enterprise on-premise a little bit more. If you give some detail on what you include in that, that's still looking to be down.
+Does that include, for example, fiber channel as well? And do you think that business -- that this will mark a bottom to that business, obviously, probably difficult to figure out when that starts getting better?
+Matt Murphy
+--
+President and Chief Executive Officer
+Yeah. Hey, Chris. Hey, thanks for the question. Yeah, I mean, it's -- enterprise on-premise business has just kept coming down.
+Now, I think the reality is if you look at overall enterprise server shipments and you look at sort of the end data, that's probably been down for, I don't know, eight quarters or something. So, the end markets just not doing as well. It's mostly fiber channel that's within there. There's also some Ethernet and some NIC products as well.
+I don't know that we're necessarily calling a bottom, but it's got to be close just because at some point, people need to -- people actually need to buy servers and customers need to work through inventory. So, it's been a headwind. I think we're close to it, maybe needs a little more time, maybe another quarter. But at some point, that will renormalize as well.
+And it's obviously within overall data center, all of that sort of inventory adjustment and weakness at the end market levels being just blown away, obviously, by the AI and cloud infrastructure piece, which is still driving very healthy growth into Q3 and then another step-up obviously in Q4. And that's assuming really no material recovery in the on-prem side. But I do expect over time, if you just sort of step back and look at like fiber channel, it's been a pretty stable business for us. Ever since we've owned it through the Cavium acquisition and we don't see any reason why, at some point, that just doesn't come back to where it was.
+And when it does that, that will also be a positive thing for us. Hopefully, that's helpful.
+Chris Caso
+--
+Wolfe Research -- Analyst
+Thank you.
+Operator
+The next question is from Quinn Bolton with Needham and Company. Please go ahead.
+Quinn Bolton
+--
+Needham and Company -- Analyst
+Hey, Matt, I wanted to ask -- you talked about the Electro-Optics driving most of that $200 million of AI revenue. Can you give us some sense how much of that is InfiniBand versus Ethernet within those 800-gig modules? And do you guys see any share difference between your position in Ethernet versus InfiniBand? I know your share is very high in general in that market, but just wondering if you would say your share is higher either in the Ethernet or InfiniBand? And then I've got a follow-up.
+Matt Murphy
+--
+President and Chief Executive Officer
+Maybe the simple answer is, first of all, as you point out, we're agnostic. We participate broadly in the connectivity independent of whether it's InfiniBand or Ethernet. And I'd say that we continue to have very high market share and penetration into both those applications. And the demand we're seeing is broad-based from both of those, as well as multiple customers driving it.
+So, it's actually really kind of hard to break it down exactly. And I don't know that it's super helpful because overall, the shares are still very healthy, and we're agnostic. So, the same module can kind of be used in either one.
+Quinn Bolton
+--
+Needham and Company -- Analyst
+Got it. OK. So, it's pretty broad-based across both. The follow-up question is just you mentioned 51.2T terabit switch and starting to sample.
+Just as you look out to calendar '24, fiscal '25, do you see that starting to get deployed at the U.S. hyperscaler partners?
+Matt Murphy
+--
+President and Chief Executive Officer
+Yeah. I think we'll have some contribution from that product area next year. The bigger ramp is a little bit further out. But very pleased, I'd say, with the open funnel on that technology.
+I'm very happy with the team. I mean, this -- the architecture and the key pieces of that initially came from Innovium, right, which is a company we acquired in 2021. But the thing that we did upfront is we put it on the Marvell five-nanometer design flow using our SerDes, our IP platform, our new product development process. So, you kind of got the best of both worlds and teams executed extremely well on the chip.
+And as a result, it's giving customers confidence we can really be there for them not only on the feature set, including very, very low latency and in the right power envelope but also being able to manufacture for high volume, which is no small task on these effectively reticle buster type switches or type products. So, we'll see how it goes, Quinn, but pipeline is strong. This is going to be a big upgrade cycle for the industry. And I think it's going to be overall positive for the people that are in that ecosystem.
+Quinn Bolton
+--
+Needham and Company -- Analyst
+Thank you.
+Matt Murphy
+--
+President and Chief Executive Officer
+I think we'll do -- perfect, Quinn. And I think we'll do, Gary, one more question, and then we can wrap it.
+Operator
+And that question will be from Gary Mobley with Wells Fargo Securities. Please go ahead.
+Gary Mobley
+--
+Wells Fargo Securities -- Analyst
+Hey, guys, thanks for taking my question. I don't think there's been a mention, so far, the influence on an extra week in the fourth quarter. Matt, I want to verify your expectation of sequential revenue growth in the fourth quarter, is that independent of the extra week or inclusive of the extra week? And Willem, the target of opex for the fourth quarter, I think you said $430 million with the extra week? Is that still the target?
+Willem Meintjes
+--
+Chief Financial Officer
+That's correct.
+Matt Murphy
+--
+President and Chief Executive Officer
+OK. Willem, you go, and I'll go.
+Willem Meintjes
+--
+Chief Financial Officer
+Yeah, sure. Yeah, just on the opex, that's correct, Gary. So, for the 13 weeks normalized, we said $420 million. And so, for the full 14 weeks, we guided $430 million.
+So, you've got the correct number.
+Matt Murphy
+--
+President and Chief Executive Officer
+Yeah. And then on the revenue side, Gary, it's been my experience doing this for a long time and having the famous 14-week quarter roll through, it's -- I think the best practice I found is, you end up really not getting the extra revenue per se, but you got to obviously count the expenses. So, that's sort of the way to think about it. So, we don't -- we're not saying, hey, because Q4 is 14 weeks, we're going to have some better growth than we would have.
+I think it's just -- that's kind of what the market is doing. So, the -- and then Willem gave you sort of the run rate on opex, if you look at it, netting out what 13 weeks would have been, which is about $420 million.
+Gary Mobley
+--
+Wells Fargo Securities -- Analyst
+Got it. Thanks again, guys.
+Matt Murphy
+--
+President and Chief Executive Officer
+Yep.
+Operator
+This concludes our question-and-answer session. [Operator signoff]
+Duration: 0 minutes

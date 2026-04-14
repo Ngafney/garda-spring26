@@ -1,0 +1,257 @@
+[
+  {
+    "speaker": "Unknown",
+    "role": "",
+    "text": "Full Conference Call Transcript"
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "And welcome to the Couchbase, Inc. First Quarter 2026 Earnings Conference Call. At this time, all participants are in a listen-only mode. A question and answer session will follow the formal presentation. As a reminder, this conference is being recorded. Now my pleasure to turn the call over to Edward Parker, Head of Investor Relations. Please go ahead, sir."
+  },
+  {
+    "speaker": "Edward Parker",
+    "role": "",
+    "text": "Good afternoon, and welcome to Couchbase, Inc.'s first quarter 2026 earnings call. We will be discussing the results announced in our press release issued after the market closed today. With me are Couchbase, Inc.'s Chair, President and CEO, Matt Cain, and Interim CFO, Bill Carey. This call will contain forward-looking statements, which include statements concerning financial and business trends and strategies, market size, product capabilities, our expected future business and financial performance and financial condition, and our guidance for future periods. These statements reflect our views as of today only and should not be relied upon as representing our views at any subsequent date, and we do not undertake any duty to update these statements. Forward-looking statements by their nature address matters that are subject to risks and uncertainties that could cause actual results to differ materially from expectations. For a discussion of the material risks and other important factors that could affect our actual results, please refer to the risks discussed in today's press release and our most recent annual report on Form 10-Ks or quarterly report on Form 10-Q filed with the SEC. During the call, we will also discuss certain non-GAAP financial measures, which are not prepared in accordance with generally accepted accounting principles. A reconciliation of these non-GAAP financial measures to the most directly comparable GAAP financial measures, as well as how we define these metrics and other metrics, is included in our earnings press releases, which are available on our Investor Relations website. With that, let me turn the call over to Matt."
+  },
+  {
+    "speaker": "Matt Cain",
+    "role": "",
+    "text": "Thanks, Edward, and good afternoon, everyone. I'm pleased to report that we had a great start to fiscal 2026 and a strong Q1. We delivered first quarter ARR, revenue, and non-GAAP operating loss results that exceeded the high end of our guidance ranges. Highlights include substantial acceleration in our net new ARR growth, driven by the momentum in our large strategic accounts where we continue to see strong upsell and expansion activity, and continued Capella adoption driven by migrations and application growth contributing to robust growth in credit consumption. We continue to execute on our strategy to be the database for critical applications, and our pipeline of large strategic opportunities continues to grow. I'm pleased with the operational performance and focus of all our teams across the company. Macroeconomic uncertainty did not impact our ability to deliver. Total ARR was $252.1 million, up 21% year over year, 20% in constant currency, and 6% sequentially. Net new ARR was $14.2 million, up more than 300% year over year. Revenue in Q1 was $56.5 million, up 10% year over year, 3% sequentially. We had a $4.2 million non-GAAP operating loss in Q1. 17.4% of our total ARR and 33% of our customer base. In Q1, we continue to capitalize on the deepening engagement we've had with the growing set of strategic accounts where Couchbase, Inc. is emerging as a long-term platform provider to power their critical applications. We've been deeply focused on solving the data challenges faced by developers tasked with building the next generation of applications, who are looking for increased levels of scale and performance delivered in a unified platform consumable in a flexible and seamlessly integrated way. In support of our efforts, we've made enhancements to our go-to-market motion with a disciplined focus on identifying these applications across a range of enterprise use cases, including the creation of dedicated strategic account teams complemented by expanding the ways for new and existing customers to get started with new applications built on Couchbase, Inc., including the Capella free tier, which lowers the barrier to entry and enables long-term expansion on our platform. At the same time, we are maintaining a rapid pace of innovation with new features and capabilities to empower developers. This momentum resulted in our strong net new ARR performance, which was the highest ever for our first quarter and the third highest quarterly net new ARR in company history. Our pipeline of strategic opportunities, where we have the potential to be a true platform winner, continues to grow, which in combination with our strong Q1 results reinforces my confidence in our strategy and our ability to maintain our momentum this fiscal year and beyond. Complementing the strong renewal and expansion activity in Q1, momentum continued with Capella, with ARR increasing over 80% year over year. In addition to new logo wins and migration activity, Capella saw very strong credit consumption growth driven by customers both moving applications into production as well as launching new ones. As our Capella base grows, we believe favorable consumption dynamics can continue as both existing and new customers realize our platform's unique performance and scale. Increased consumption across our customer base is indicative of the value we bring and gives us confidence in our ability to deliver sustainable growth. To share some customer highlights from the quarter, we saw exciting new wins in a variety of industries including industrial, energy, government, sports and entertainment, and healthcare. Some of our enterprise wins in the quarter include an integrated energy company selected Couchbase, Inc. to power its nationwide loyalty program app, a defense customer from a G7 nation responsible for Special Forces operations which selected Couchbase, Inc. to power its frontline medical application used to securely record and share critical data in real time, and a global medical technology company which selected Couchbase, Inc. to power its cardiopulmonary units mobile app that will be deployed across more than 10,000 devices using over 100 hospitals and healthcare facilities. Turning to Capella, a new Capella win in Q1 was a major North American professional sports organization which selected us to power a key web application which tracks and displays real-time telemetry during live events. This customer required rapid data processing, high availability, and seamless scalability and chose Couchbase, Inc. over a competing hyperscale solution because of our performance, ease of use, and ability to efficiently manage high-velocity data streams in a mission-critical environment. A key component of our flexible deployment model is our native edge capability, which empowers mobile developers to move data and compute closer to where it's being used. In Q1, we continue to see significant traction with our mobile use cases, including several competitive replacements, as more customers recognize Couchbase, Inc. as the only mobile database offering built from the ground up for these types of use cases. Examples include a healthcare service provider specializing in both home health and hospice care which selected Capella to power its critical mobile application used by field agents, a leading developer of productivity applications for scholastic and college sporting events which selected Capella to modernize its flagship app that delivers real-time scoring and stats to coaches, athletes, and fans, and a leading American industrial and construction supply distributor which chose Capella to modernize its field service application. As with many of our customers, our performance at scale against real-time dynamic data requirements combined with our offline-first synchronization capabilities when connectivity isn't available continues to be a strong differentiator. And we continue to make strides with our large strategic opportunities which represent a significant portion of our pipeline. Some examples in Q1 include the Global Luxury brand, which expanded its enterprise investment to power its mobile customer service app used by in-store sales associates, a global provider of family travel and leisure which expanded its investment in Couchbase, Inc. to enhance the performance of its theme park mobile app enabling guests to manage their vacation plans using their smartphones or smartwatches, and a cloud-based parking management solutions company which migrated to Capella for its high-performance database capabilities, scalability, and real-time data synchronization support. We're honored by the commitment our largest customers are making with Couchbase, Inc. and it's gratifying to see the increasing relevance of our platform as we meet the growing application requirements across a wide range of use cases and industries. Simultaneously, we're focused on lowering barriers to entry for developers to use and consume Couchbase, Inc., while enhancing our go-to-market motion to identify and win critical applications where our scale and performance capabilities are unmatched. We'll continue to focus on reaching new applications including leveraging our entry-level starter packs and Capella free tier, both of which are contributing to a growing pool of potential long-term strategic opportunities. Turning to products, in Q1 we launched Couchbase Edge Server, an offline-first lightweight database server and sync solution designed to provide low latency data access, consolidation, storage, and processing for applications in resource-constrained edge environments. From airplanes to retail stores, organizations need fast, reliable, local applications that work offline and on affordable constrained hardware. Couchbase Edge Server addresses both challenges, providing a lightweight server built for edge hardware while delivering performance regardless of Internet connectivity. We continue to invest in and rapidly innovate our AI capabilities. Our high-performance vector database powers AI agent-based applications by enabling the seamless integration of advanced AI workflows. With features like model context protocol server, we allow AI agents to autonomously perform actions on Couchbase, Inc. data, simplifying the development of complex GenAI applications. The open-source protocol standard enhances the ability for AI agents to securely and efficiently interact with enterprise data, supporting scalability, reliability, and compliance. By providing comprehensive visibility and control, we empower teams to innovate faster and with confidence in their AI-driven solutions. Also in Q1, we expanded Couchbase, Inc.'s support with new integrations and connectors to make it easier for developers to integrate Couchbase, Inc. within their application workflows. Looking ahead, our innovation agenda is laser-focused on simplifying how developers harness these capabilities, enabling them to push the boundaries of what's possible while delivering premium application experiences without compromising on functionality, performance, operational costs, or connectivity. In conclusion, we had a strong start to the year. We exceeded our outlook across all metrics, continued building momentum with our large strategic customers, and drove continued Capella adoption while further growing our pipeline for the balance of the year and beyond. I remain fully convicted on our ability to achieve our full-year objectives, including driving growth and Capella adoption, accelerating the pace of leverage in our model, and further enhancing our support for AgenTeq and AI use cases. We will continue to attack hard problems driven by customer outcomes. With that, I'll now hand the call over to Bill Carey, our Chief Accounting Officer and Interim CFO, to walk you through our financial results in more detail. Bill?"
+  },
+  {
+    "speaker": "Bill Carey",
+    "role": "",
+    "text": "Thanks, Matt, and thanks, everyone, for joining us. I'm pleased with our strong start to fiscal 2026. We had a great first quarter, with all key metrics exceeding our outlook, continued momentum with Capella, and strong execution. I'll now walk you through our first quarter financial results in more detail before providing our guidance for the second quarter and fiscal year. Total ARR was $252.1 million, representing 21% growth year over year and 6% sequentially. This was $7.7 million above the midpoint of our guidance, inclusive of a $3.6 million tailwind from foreign currency fluctuations since provided in our Q1 outlook. Net new ARR was $14.2 million, up 306% year over year. This reflects our healthy renewals and expansions, strong consumption from customers launching new applications, and with applications in production, and further growth in Capella contribution. Capella ARR was $44 million, an increase of 14% from last quarter and 84% year over year. Capella now represents 17.4% of our total ARR, up from 16.2% last quarter and up from 11.5% in Q1 of fiscal 2025. Turning to revenue, total revenue for the quarter was $56.5 million, an increase of 10% year over year and 3% sequentially. Software revenue was $54.8 million, up 12% year over year and 4% sequentially. Professional service revenue was $1.7 million, down 27% year over year and 22% sequentially. Q1 ARR per customer was $269,000, up from $257,000 in Q1 2025 and up from $251,000 in the fourth quarter. Our dollar-based net retention rate, or NRR, continued to be greater than 114%. As a reminder, while we continue to expect our NRR to return to historical levels in the second half of the fiscal year, given the trailing twelve-month nature of this metric, we believe NRR could again be below 115% until we anniversary the anomalous loss and down-sell experienced in the second quarter of fiscal 2025. We exited Q1 with 937 customers, a decrease of 10 net new customers from last quarter. The decline was driven by churn in customers with starter packs, which we introduced last year, offset by healthy gross retention. As you will recall, starter packs are part of our funnel for future conversions to more meaningful ARR and are typically sold for $1,000 to $5,000. Although churn in this cohort impacted our total net customers, we have had success in growing ARR from this cohort, and two are well over $500,000 in ARR. In discussing the remainder of the income statement, please note that unless otherwise stated, all references to expenses, results of operations, and share count are on a non-GAAP basis. In Q1, our gross margin was 88.7%. This compares to 89.9% a year ago and 89.4% last quarter. Turning to expenses, first-quarter sales and marketing expenses were $32.6 million or 58% of revenue. Q1 research and development expenses were $13.9 million or 25% of revenue. First-quarter general and administrative expenses were $7.8 million or 14% of revenue. Operating loss for Q1 was $4.2 million or negative 7.4% operating margin compared to an operating loss of $6.7 million or negative 13% operating margin a year ago. Our profitability improvement was and will continue to be driven by the benefits of operating leverage as we scale, improving sales and marketing efficiency, and disciplined focus on costs. These improvements were partially offset by foreign currency fluctuations since we provided our Q1 operating loss outlook, which resulted in a $550,000 headwind to operating loss or a 1% headwind to operating margin. Net loss attributed to common stockholders in Q1 was $3 million or negative $0.00 per share. Turning to the balance sheet and cash flow, we ended Q1 with $141.8 million in cash, cash equivalents, and short-term investments. We remain well-capitalized to execute against our long-term growth strategy. Our remaining performance obligations, or RPO, totaled $239.6 million at the end of Q1, an increase of 9% year over year. We expect to recognize approximately 66% or $158.7 million of total RPO as revenue over the next twelve months, representing growth of 16% year over year. As a reminder, we experience fluctuations in our RPO balances due to a host of factors, including renewal timing as well as changes in average contract duration. Operating cash flow for the first quarter was negative $6.8 million. Free cash flow for Q1 was negative $8.6 million or a negative 15.3% free cash flow margin. Now I will provide our guidance for Q2 and the full year fiscal 2026. As Matt mentioned, we started the year with strong momentum, and our pipeline of large strategic opportunities continues to grow. In addition, we continue to be pleased with the growth of Capella and expect migrations as well as grown consumption to be significant drivers for us this fiscal year, along with ongoing investments in product capabilities and strengthening our partner ecosystem. And as a reminder, our fiscal 2026 renewal pool is both larger and more evenly distributed between the first and second half of the year than in fiscal 2025. With these factors in mind, for the second quarter of fiscal 2026, we expect total revenue in the range of $54.4 million to $55.2 million or a year-over-year growth rate of 6% at the midpoint. We anticipate ARR in the range of $255.8 million to $258.8 million, which represents 20% growth year over year at the midpoint. We expect a non-GAAP operating loss in the range of negative $5.1 million to negative $4.1 million. For the full year fiscal 2026, we are raising our revenue and ARR outlook. In addition, we are lowering our operating loss outlook, excluding the impact of foreign currency fluctuations since we provided full-year guidance in February. We now expect total revenue in the range of $228.3 million to $232.3 million or year-over-year growth of 10% at the midpoint. We expect ARR in the range of $279.3 million to $284.3 million, representing a year-over-year growth rate of 18% at the midpoint. Our revised full-year ARR outlook includes an additional $3.6 million tailwind from foreign currency fluctuations since providing full-year guidance in February. And finally, we expect a non-GAAP operating loss in the range of negative $15.5 million to negative $10.5 million, inclusive of a $3.5 million headwind to operating expenses from foreign currency fluctuations. We are focused on continued profitability improvement driven by leverage as we scale and discipline focused on costs. We remain committed to driving free cash flow and being operating income positive in fiscal 2027. With that, Matt and I are happy to take your questions. Operator?"
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Thank you. We'll now be conducting a question and answer session. Our first question today is coming from Matthew Hedberg from RBC Capital Markets. Your line is now live."
+  },
+  {
+    "speaker": "Matthew Hedberg",
+    "role": "",
+    "text": "Great. Thanks for taking my questions, guys. Congrats on Q1, not an easy environment at all. Matt, I wanted to start on the macro side. You mentioned in your prepared remarks that you didn't see any real impact from macros in Q1. I just wanted to double-click on that and ask about how customer conversations are going and how those conversations trended through May?"
+  },
+  {
+    "speaker": "Matt Cain",
+    "role": "",
+    "text": "Hey, Matt. Good to hear from you, and appreciate the commentary. We're certainly excited about the start to the year. Look, as it pertains to how we're approaching current economic environments, I think we have to step back and take advantage of the strategic platform that we're providing and some broader dynamics around AI and the future of application development. And those things hold true. We've been talking for some time about the pressure in the selling environment that manifests itself in terms of longer sales cycles, higher level of deal scrutiny, and I think those things persist and may have been slightly magnified over the last quarter in light of conversations that we're all having. Having said that, I think we've talked about the health of our pipeline and how strategically positioned we are in the market right now with the dynamics that I mentioned. And so I'd say on the balance, the pipeline and our ability to execute against that offset any specific incremental challenges on macro as we executed in the quarter."
+  },
+  {
+    "speaker": "Matthew Hedberg",
+    "role": "",
+    "text": "That's really great. And I guess maybe a follow-up to that. There's a lot that's also in your control despite the macros. And I noticed in your prepared remarks, you did spend some time talking about go-to-market improvements paying off. I'm wondering if you could sort of summarize those, but also the new free Capella tier. I'm wondering how that might help grow your pipeline even as you target developers?"
+  },
+  {
+    "speaker": "Matt Cain",
+    "role": "",
+    "text": "Yes. So a couple of things on that, Matt. I think from a go-to-market perspective, we've talked about the importance of strategic accounts and continued adoption of Capella. I think the teams have done a great job of executing on both. Going back to the macro, one of the big selling points of our platform is better total cost of ownership against competitive solutions. And in fact, demonstrating even better TCO with Capella. So I think that's critically important. As we think then about what is the catalyst for new application growth with existing customers and new, we continue to enhance offerings for developers to really lower the barrier to entry and trial with the Couchbase, Inc. and Capella platform. And we've been working hard at those specific offerings starting with starter packs, but really building out the free tier where over the past couple of quarters we've had several enhancements that are materializing in top-of-funnel demand. Those enhancements were things like Capella IQ, the developer co-pilot, social sign-on, extending it to a perpetual free tier, and then this quarter, adding credit card transactions. This is all about really enhancing our ability to attract developers where they're in that kind of learning, experimentation, proof of concept phase. And the leading indicators, Matt, are really great. As a matter of fact, the volume that we're seeing on trials is up significantly year over year, and we think that's a great leading indicator of future demand and application growth again in existing and new customers."
+  },
+  {
+    "speaker": "Matthew Hedberg",
+    "role": "",
+    "text": "Thanks a lot, Matt. Best of luck, team."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Thank you. Next question today is coming from Sanjit Singh from Morgan Stanley. Your line is now live."
+  },
+  {
+    "speaker": "Sanjit Singh",
+    "role": "",
+    "text": "Great. Thank you. You got the other two on for Sanjit Singh. Maybe one question to start with on the quarter for Bill. Looking at your results, obviously strong ARR outperformance shows a lot of your resilience in the market. I think total revenue came in maybe a little bit softer than some would have expected. And I think that's sort of surprising, particularly in light of the strength that you saw with large strategic customers. So could you just highlight a little bit what's driving the delta there between ARR and revenue again this quarter? And then maybe for Matt, just a higher-level question. I mean, given your leadership sort of in the product category, both related to AI, but then also mobile and database management more broadly? You've obviously introduced MCP server and have sort of a bigger focus on AI agents. Although, what are you seeing sort of in those AI agent workloads if you're seeing any sort of in experimentation phases today? And then over what time period do you think those categories, like AI agents where there's clearly a lot of buzz, could actually be incremental to Capella and Couchbase, Inc. revenue growth?"
+  },
+  {
+    "speaker": "Matt Cain",
+    "role": "",
+    "text": "Listen, this is Matt. Let me jump in and unpack the question a little bit because I think there's a lot there. First of all, I would reinforce the importance of ARR as our leading metric. It is the best driver of the business, and we feel great about the performance. We did perform better on revenue, and I'll let Bill talk about some of the dynamics. And there's more to the story there. I think as it pertains to why we're so successful with the quarter coming off a great Q4 is because developers are really looking at us within the enterprises as a strategic platform for the future of AgenTeq application development. And it's probably not having any conversation around the world where we're not positioning our platform in an AI world. And I think customers are realizing the benefits of our platform, how we were architecturally designed for this moment, and then the incredible innovation that the teams are bringing to bear within the platform around AI services, embedded vector, inference at the edge in addition to other aspects of the platform. So I think that's without question having an impact on the success we're having in the market. Obviously, with a lot more to come specifically on AI agents, which we can go into more as we go. Bill, do you want to comment on the revenue portion?"
+  },
+  {
+    "speaker": "Bill Carey",
+    "role": "",
+    "text": "Thanks for the question, Sanjit. Just to start with Capella and our enterprise products, definitely have very different patterns of recognition. It's important to understand these, but the enterprise product comes with an upfront license fee and has been recognized straight line where Capella is usage very much tied to our customers' business. But when you take in those factors and then our migrations, the migrations definitely create kind of a headwind to revenue. It changes the pattern of recognition that we've had from our an enterprise customer migrates over to Capella, it's changing that recognition and there's essentially a delay in revenue that we experienced during the period of migration. And plus the migrations, there's a ramp in phase typically where it takes a while for them to get into production and essentially up to more of a steady state type usage. So all that has the impact of lowering revenue. And then another factor is the service revenue is an area that we've seen declines. It hasn't been as much of a focus. So all those revenue is a very different pattern. As Matt mentioned, that's one of the reasons we believe ARR is a better indicator of our performance for our business. So hopefully, that helps."
+  },
+  {
+    "speaker": "Edward Parker",
+    "role": "",
+    "text": "Yes. And as a reminder, those will converge and we've talked about that manifesting next year. So those will start to come together and it's a timing dynamic. But certainly, are very pleased with the pace and success of migrations where people are seeing the value in not just Couchbase, Inc. but the Capella platform."
+  },
+  {
+    "speaker": "Sanjit Singh",
+    "role": "",
+    "text": "Makes sense. Thank you."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Thank you. Our next question is coming from Howard Mao from Guggenheim Securities. Your line is now live."
+  },
+  {
+    "speaker": "Howard Mao",
+    "role": "",
+    "text": "Great. Thank you and congrats on a solid Q1, guys. Matt, I wanted to ask you notwithstanding the strong Q1 results, there's been growing chatter in the investment community about Postgres versus NoSQL databases. And this is especially given the recent acquisitions by Snowflake and Databricks, which I'm sure you saw. I wanted to get your thoughts. Are you concerned at all about Postgres databases and their ability to support JSON data types, which you couple that with the addition of vector and hybrid search capabilities, that's resulted in potentially more formidable competition or is this completely off base? And I guess when you look at your prospects, like, are they actively evaluating Couchbase, Inc. against Postgres alternatives or is that just not the right starting point?"
+  },
+  {
+    "speaker": "Matt Cain",
+    "role": "",
+    "text": "Hey, Howard. Good to hear from you. And again, appreciate the kind words on the quarter, and I'm glad you asked that question. It's a conversation that we're having quite a quite many times with the investment community in particular. Yes, we did see the acquisitions, I think, first and foremost, I think that points to the importance of databases as it pertains to applications and application development in an AI world. That said, I think it's really important to study the applications that these databases are architected to support. And we've talked a long time about our focus on critical applications that require performance, scale, and cost where things like downtime and complexity not only can cost companies in terms of revenue, but poor customer experiences and pretty significant downside to their business, as you can imagine. And so it's critically important to put in the context of the application that a particular database is built to support. And we are very comfortable with our level of differentiation, memory-first architecture, the fact that we have integrated data services. I think it's one thing to support something like JSON or Vector. It's quite another thing to have that be the format in which you're architected around or the way in which we are fundamentally embedding vector into all aspects of our platform. So we're very mindful of the dynamic. I think it may be having a bigger effect in other parts of the market and much less so on critical applications where these requirements literally dictate whether an application can perform and meet the fundamental SLA. Which we continue to increase our lead from our perspective based on the dynamics that I mentioned."
+  },
+  {
+    "speaker": "Howard Mao",
+    "role": "",
+    "text": "Got it, Matt. That's super helpful. And just as a follow-up, on the back of your comments about Couchbase, Inc.'s differentiation, as you land more of these strategic accounts, as you mentioned, are they consistently trialing capabilities like Vector Search and columnar service and are they building these use cases into their initial commitment, thereby giving you confidence that new apps built on these services will scale production and lead to future expansions?"
+  },
+  {
+    "speaker": "Matt Cain",
+    "role": "",
+    "text": "Yes, Howard, look, I think people understand that we are a platform and we've been carefully architected to support incremental features for some time. And that's only magnified with AI and what we've done with Capella IQ and AI services and additional capabilities that will be coming to market. Customers, as an example, may start with a web-based application with an idea to deploy our edge capabilities as they push application growth. And I think what you're seeing in the outstanding ARR performance is the financial realization of us monetizing application growth where customers come in with an initial use case, they grow that use case and expand to many, many more applications. Whether that be on enterprise or Capella where we have an outstanding consumption quarter. So no doubt about it. We are pitching the Couchbase, Inc. offering as a platform, selling them many features, and sitting down and having strategic discussions with customers on how they can get utilization out of the many services that the platform so conveniently integrates and makes that much easier to use via Capella with our innovation efforts."
+  },
+  {
+    "speaker": "Howard Mao",
+    "role": "",
+    "text": "Great. Thank you, Matt."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Thank you. Next question is coming from Mike Sykos from Needham and Company. Your line is now live."
+  },
+  {
+    "speaker": "Mike Sykos",
+    "role": "",
+    "text": "Great. Thanks for taking the questions here, guys. Matt, just to come back to the prepared remarks. I just wanted to follow-up. It sounded like you saw good expansion of existing workloads as well as new workloads coming online. And I just wanted to circle up on that point specifically. Are you seeing an acceleration or a better environment, better behavior coming from those workloads? Again, just if you could hash that out for us, especially in the context of the current macro."
+  },
+  {
+    "speaker": "Matt Cain",
+    "role": "",
+    "text": "Yes. Look, I think fundamentally what we're so excited about in Q1 and the general momentum in the business is the mindset that we have on a go-to-market perspective of new applications. And the platform is set up in such a way that once we satisfy the demands of an initial application, we make it very easy to deploy the next app or even microservices in the context of a much broader application. And that somewhat combines with Howard's questions on the capabilities that we can bring together. So I think the growth in the business is all about application growth, and that's customers deploying more and more on Couchbase, Inc. and in Capella. And I think some of the dynamics on people evaluating sort of the economic return of platforms and consolidating into the ones that will be strategic on a go-forward basis plays to our advantage, and we're benefiting in some large accounts where we are the one being consolidated into because we can do things that other solutions can't. And customers realize the roadmap of capabilities that we have on the forefront specifically targeted for AgenTeq applications where I think our differentiation is going to manifest itself even more into the future."
+  },
+  {
+    "speaker": "Mike Sykos",
+    "role": "",
+    "text": "Great to hear. And just one quick follow-up that I had. But I know last quarter, I believe we were talking about Capella AI services. Can you just provide us a quick update as far as what you're seeing from a traction standpoint or is it still relatively nascent just given the timing or announcement of that?"
+  },
+  {
+    "speaker": "Matt Cain",
+    "role": "",
+    "text": "No. Look, we're in preview, and we're actively engaged with a lot of customers on their specific use cases and their preproduction environments, getting feedback, putting that into the future roadmap. And so I'd say we're pleased with the conversations that we're having with customers. Furthermore, we talked about the success of the free tier, and I talked about momentum that we're seeing there. I mean, the growth number, just to give a sense, tripled year over year in terms of new accounts created. Was up significantly from Q4 to Q1. And so I'd say the accessibility of the platform via the free trial combined with the roadmap of features again, has us optimistic about that top of funnel, which again will manifest itself in new apps which is with existing customers as well as eventual new logos."
+  },
+  {
+    "speaker": "Mike Sykos",
+    "role": "",
+    "text": "Terrific. Thank you very much, guys. I'll leave it today."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Thanks. Our next question today is coming from Rudy Kessinger from D. A. Davidson. Your line is now live."
+  },
+  {
+    "speaker": "Rudy Kessinger",
+    "role": "",
+    "text": "Hey, great. Thanks for taking my questions, guys. I'm curious, Matt, when you look at this growth with these large strategic accounts, can you talk about what it looks like from the standpoint of the actual workloads you're adding? Are you adding, you know, one large workload here? Are you adding a couple of workloads? Is it more broad-based? And are some of these customers really leaning into Couchbase, Inc. as one of their primary databases? But just love to hear some more color about what that looks like."
+  },
+  {
+    "speaker": "Matt Cain",
+    "role": "",
+    "text": "Yes. Rudy, good to hear from you and appreciate the question. Look, I think when we talk about strategic accounts and the level of investment that these customers are making, we typically have an inventory of tens, if not hundreds of applications where we're deployed or where people are planning future growth. And so I'd say, while somebody may talk about e-commerce in general, that could be made up of multiple applications. If they talk about their customer management platform, that could be made up of multiple applications. And where we get really excited is where we have both bottoms-up groundswell appreciation for what we can do from developers as well as top-down appreciation for the TCO benefits and strategic nature of the platform. And when we hit that intersection right with the appropriate focus, hence the emphasis on strategic accounts, we can really get ourselves adopted as a strategic platform and unlock that application growth where we get disproportionate expansion over time because people are really leaning into us as a default and strategic platform for a subset of applications. And those conversations then become broad across the organization where we go from maybe a particular line of business or buying center and really expand across these large companies. So when we hit success, it's really materializing as a strategic platform that is appreciated by multiple personas within these large enterprises."
+  },
+  {
+    "speaker": "Rudy Kessinger",
+    "role": "",
+    "text": "Okay. And then maybe one for Bill or Matt if you want to chime in as well. If we adjust for the FX tailwind on the quarter, and for the revised full-year ARR outlook, it looks like the full-year ARR guide is being taken up about $1.6 million versus a $3 million FX adjusted in Q1. So were there any early renewals that pulled forward from Q2 into Q1 or just any color you can add to that dynamic?"
+  },
+  {
+    "speaker": "Matt Cain",
+    "role": "",
+    "text": "Yes, Rudy, nothing early to speak of. I think last quarter we talked about the health of the pipeline coming into Q1 in the first half. And quite frankly, I think we were very excited about how we executed against that looking at the first half, specifically on strategic accounts. And then we really saw benefit on Capella consumption, quite frankly probably the highest rate that we've seen so far, which we've worked really hard to deliver against. I think as we always do, we want to take all factors into account as we approach guidance and be prudent and put out numbers that we can at a minimum meet if not beat. And so we feel very good about raising the numbers for the year. Certainly in today's environment, we continue to have a healthy pipeline at the same time, we want to be prudent and balanced as we factor all dynamics in."
+  },
+  {
+    "speaker": "Rudy Kessinger",
+    "role": "",
+    "text": "Great. That's very helpful. Congrats again on the strong quarter."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Thank you. Next question today is coming from Brent Bracelin from Piper Sandler. Your line is now live."
+  },
+  {
+    "speaker": "Hannah Rudolph",
+    "role": "",
+    "text": "Hi, guys. This is Hannah Rudolph on for Brent today. Nice to see that strong net new ARR in Q1. Just going back to something you said in the prepared remarks, you mentioned customer count decline was partially driven by some churn in customers with the starter packs. Have you seen any commonalities across this cohort of customers that churned? And have you made any changes to the starter packs as a result?"
+  },
+  {
+    "speaker": "Matt Cain",
+    "role": "",
+    "text": "Yes. So good to hear from you and certainly appreciate this question. I'm glad we have a chance to unpack that. Look, one of the new offerings that we've come out with to sort of generate demand top of funnel were $1,000 and $5,000 starter packs. And we're at the point now we're about at an anniversary of that. And so as it pertains to the net logo count, we actually had a sort of typical gross number of ads across enterprise and Capella, offset by more churn in the starter packs because of that one-year anniversary. Now the way the starter packs were used were developers that were doing proof of concept or initial application build-out and because we didn't have a free tier, they may have stayed on those starter packs for a little bit longer. Now they have an option to move into the free tier, quite frankly we're pushing as the better experience for developers. So I think you have a combined set of factors there. Now as it pertains to the starter packs, we did see some pretty significant success with them in identifying customers that went from preproduction in a pretty significant deployment. And as we look over the past few quarters, we actually had seven customers that started out in that $1,000 and $5,000 that are now over $100,000 of ARR and two of those that are exceeding $500,000 ARR trending towards $1 million. And so what I think that's indicative of is expanding top of funnel and working hard to identify where applications are ready to move from that proof of concept into production. And quite frankly, we're learning about the appropriate conversion rates as we build out that demand and materialize it into new customer and new application growth."
+  },
+  {
+    "speaker": "Hannah Rudolph",
+    "role": "",
+    "text": "Perfect. Totally makes sense. And then as you think about capturing these strategic opportunities earlier on and investing in top of funnel, I guess, are there still changes or investments you'd like to make? And then how do you think about walking from that 58% of revenue from sales and marketing to the target level of 38% to 40%?"
+  },
+  {
+    "speaker": "Matt Cain",
+    "role": "",
+    "text": "Yes. Look, we're constantly making adjustments where we think we can yield better results. On the margin. We talked about focus on strategic accounts, more digital demand, focus towards new developers and we'll continue to evaluate those things as we go. But rest assured, we remain very committed to delivering leverage in the model. And we've talked about the targets that we have going into next year on free cash flow and op break-even which we recommitted to. So I think it's about maintaining expanding growth, but doing so with better efficiency, which we continue to execute on that balance as we go forward."
+  },
+  {
+    "speaker": "Hannah Rudolph",
+    "role": "",
+    "text": "Helpful. Thank you so much."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Thank you. Next question is coming from Robert Simmons from Rosenblatt Securities. Your line is now live."
+  },
+  {
+    "speaker": "Robert Simmons",
+    "role": "",
+    "text": "Hey, guys, thanks for taking the question. So your initial guidance for the year had revenues slowing 1Q and then picking up and accelerating over the course of the year. And now you're pointing to a pretty sizable drop in 2Q in the growth rate and then the second half is probably about 12%. I guess, can you give us an understanding of what's causing that pattern of growth?"
+  },
+  {
+    "speaker": "Matt Cain",
+    "role": "",
+    "text": "Well, so let me comment generally and then Bill can pile on, on the specifics. We're trying to decipher the first part of the question. We had a little bit of an audio pickup there. Look, I think what you're seeing is the uptick in revenue growth rate as we get into the back half of the year as we see that convergence that we've talked about between revenue and ARR. And so I think that be expected."
+  },
+  {
+    "speaker": "Bill Carey",
+    "role": "",
+    "text": "Yes. It's a little bit what we alluded to earlier. The migrations do create a lag in the ARR growth versus revenue. Revenue essentially both converting existing revenue streams of enterprise to Capella, essentially you have a you're losing revenue in short term and then the migrations to the usage model takes a period of time to get to speed. As you referenced in the second half, you start to see that uptick and you start to see that convergence and we expect further to converge going into the next year."
+  },
+  {
+    "speaker": "Robert Simmons",
+    "role": "",
+    "text": "So are you seeing more of those migrations happening currently and that's kind of impacting the 2Q revenue number? Or is there anything else going on?"
+  },
+  {
+    "speaker": "Bill Carey",
+    "role": "",
+    "text": "We see migrations continue and we've been doing it over the last year. We expect them to continue going into next year and beyond. We are fundamentally moving a large portion of our business to the Capella model. But you kind of were sort of in that biggest period where you have the biggest disconnect in there. So although we expect migration to continue, we do expect some convergence going into next year to less of an impact there. But there will be continue to be impact, but it's just catch up and won't be as disconnected."
+  },
+  {
+    "speaker": "Matt Cain",
+    "role": "",
+    "text": "Yes. Look, we're working hard to help customers with those migrations. It's a great outcome for us and a great outcome for them. And if you look at the percentage of the business, it's Capella. We have a lot of potential still to migrate. And personally pretty excited about the strategic nature of discussions we're having across the ARR base and the potential that remains with Capella."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Thank you. We've reached the end of our question and answer session. I'd like to turn the floor back over for any further or closing comments."
+  },
+  {
+    "speaker": "Matt Cain",
+    "role": "",
+    "text": "Thanks, operator, and thanks to everyone for joining us today. We're encouraged by our strong start to fiscal 2026 and are excited with the opportunities in front of us. We look forward to speaking with you again next quarter. Bye-bye."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Thank you. That does conclude today's teleconference webcast. You may disconnect your lines at this time. And have a wonderful day. Thank you for your participation today."
+  }
+]

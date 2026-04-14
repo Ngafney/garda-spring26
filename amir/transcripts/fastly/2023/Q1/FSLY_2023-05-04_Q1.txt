@@ -1,0 +1,345 @@
+Operator
+Good afternoon. My name is Julianne, and I'll be your conference operator today. At this time, I would like to welcome everyone to the Fastly first-quarter 2023 earnings conference call. All lines have been placed on mute to prevent any background noise.
+After the speakers' remarks, there will be a question-and-answer session. [Operator instructions] Thank you. I would now like to turn the conference over to Vernon Essi, investor relations at Fastly. Please go ahead.
+Vernon Essi
+--
+Vice President, Investor Relations
+Thank you, and welcome, everyone, to our first-quarter 2023 earnings conference call. We have Fastly CEO Todd Nightingale and CFO Ron Kisling with us today. The webcast of this call can be accessed through our website, fastly.com, and will be archived for one year. Also, a replay will be available by dialing ( 800 ) 770-2030, referencing conference ID number 7543239 shortly after the conclusion of today's call.
+A copy of today's earnings press release, related financial tables, and Investor Supplement, all of which are furnished in our 8-K filing today, can be found in the Investor Relations portion of Fastly's website. During this call, we will make forward-looking statements including statements related to the expected performance of our business, future financial results, product sales strategy, long-term growth, and overall future prospects. These statements are subject to known and unknown risks, uncertainties, and assumptions that could cause actual results to differ materially from those projected or implied during the call. Further information regarding risk factors for our business, please refer to our most recent Form 10-K and Form 10-Q filed with the SEC and our first-quarter 2023 earnings release and supplement for a discussion of the factors that could cause our results to differ.
+Please refer, in particular, the sections entitled Risk Factors. We encourage you to read these documents. Also, know that the forward-looking statements on this call are based on information available to us as of today's date. We undertake no obligation to update any forward-looking statements except as required by law.
+Also, during this call, we will discuss certain non-GAAP financial measures. Unless otherwise noted, all numbers we discuss today other than revenue will be on an adjusted non-GAAP basis. Reconciliations to the most directly comparable GAAP financial measures are provided in the earnings release and supplement on our Investor Relations website. These non-GAAP measures are not intended to be a substitute for our GAAP results.
+Before we begin our prepared comments, please note that we will be attending two conferences in the second quarter, the William Blair 43rd Annual Growth Conference in Chicago on June 6th and the BofA Global Technology Conference in San Francisco on June 8th. Also, we will be hosting our Investor Day on June 22nd at the New York Stock Exchange. With that, I'll turn the call over to Todd. Todd?
+Todd Nightingale
+--
+Chief Executive Officer
+Thanks, Vernon. Hi, everyone, and thank you so much for joining us today. First, I'd like to give a quick summary of our financial results and first-quarter highlights, then I will provide a brief update on our product strategy and go-to-market motion before I hand the call over to Ron to discuss the first-quarter financial results and guidance in detail. We reported record first-quarter revenue with $117.6 million, which grew 15% year over year and declined 1% quarter over quarter.
+I'm pleased that we exceeded our guidance range and we're able to maintain healthy revenue in a typically weaker quarter due to seasonality. I'd like to congratulate the Fastly team on closing out a solid Q1. However, as I said last quarter, I still believe there remains an opportunity for us to outperform this level in 2023 and beyond. Our customer retention and growth engine remain strong.
+Our LTM NRR was 116% in the first quarter, down from 119% in Q4. However, it gained ground compared to 115% in the year-ago quarter. Our DBNER was 121% in the first quarter, down from 123% in Q4, but expanded compared to 118% in Q1 of last year. Both of these metrics have shown seasonal headwinds in prior years, and despite the declines, they continue to indicate healthy expansion efforts within our existing customers.
+In an effort to provide more visibility into our current performance, we've changed some of our metrics definitions. Our new total customer count methodology calculates the number of customers based on quarter-end revenue instead of month-end revenue. Our new enterprise customer count is now based on customers spending $25,000 in revenue during the quarter instead of revenue in excess of $100,000 over the trailing 12 months. Accordingly, our average enterprise spend is based on this newer annualized approach.
+Ron will have more detail on all of these changes, and we will provide legacy metrics for the next 12 months. Our average enterprise customer spend was $795,000, representing a 3% quarter-over-quarter decline, but was up 5% from $758,000 compared to Q1 of last year. We've seen continued success in expanding our wallet share with customers as we've aligned our teams to be more focused on customer success, on customer voice, and journey as they grow into our complete product portfolio. Similar to last quarter, we saw continued strong momentum in our next-gen WAF portfolio.
+We've seen both upsell success and new logo wins as a stand-alone sale. Of course, we anticipate over time having the opportunity to sell these new customers our network service delivery, as well as Compute@Edge and observability modules. I'm excited to share some important new strategic wins in key expansion verticals for us. We saw our first win at Frontier Airlines, continuing our momentum in travel and leisure.
+The first quarter marked five new logo wins in healthcare and life sciences, highlighted by our first win at CareRev, a staffing platform for healthcare professionals, and also HealthSherpa, a solution that helps individuals connect with the appropriate healthcare coverage. We're also seeing momentum in the privacy and cybersecurity vertical with four new logo wins, most notably with Google for their private browsing solution. Our total customer count in the first quarter was 3,100, which increased by 38 customers compared to Q4 and 135 year over year. Enterprise customers totaled 540 in the quarter, an increase of seven compared to Q4 and 52 year over year.
+Our gross margin was 55.6% for the first quarter, representing 140-basis-point decline quarter over quarter but a 300-basis-point increase year over year. I'm pleased with this result as a large amount of our fixed cost have to be sized for our peak traffic, but we continue to work rigorously on our cost of revenue and are finding savings with increased peering, network optimization, and other initiatives that will continue through 2023. Also, let me take a quick moment to talk about our spending pattern. As you can see from our Q1 operating margin, the operating expenses were lower than anticipated by about $2 million.
+I was happy to see the effects of rigorous cost control, keeping our teams on budget. Of the $2 million underspend, roughly half was due to cost controls and cost management. The other half was due to the timing of certain expenses, and we anticipate that those will push into the second quarter. In Q2, we do expect to have some other opex headwinds, merit increases, and some seasonal marketing event expenses, but we also expect to see a one-time credit to opex from a sales tax refund, a product of the financial rigor and diligence our teams have been adding to our processes in the past few months.
+Regardless, the first half of 2023 is coming in as expected, as Ron will discuss in detail later on the call. As you will see in the detailed guide, even excluding our one-time tax benefit, our opex is growing far slower than the top line as we reconfigure our business for sustainable long-term growth, and we plan to continue that trend into the second half. Now on to our business highlights. During the quarter, our durable innovation engine shifted into gear as we expanded our product road map and feature set.
+There were several new technology releases you can see in our supplement such as, in the first quarter, we introduced Config Store, giving developers the ability to create even more responsive, more personalized experiences. I'm excited about how this will help us accelerate our Compute@Edge business. We launched the beta Fastly Oblivious HTTP relay. This is a component of the Oblivious HTTP architecture that allows receipt of critical request data from end users without any of the identifying metadata, ensuring user privacy.
+In the first quarter, we launched a managed security service to protect our enterprise customers from rising web application attacks. This 24/7 service gives our customers direct access to the security monitoring our teams are already performing to secure our existing infrastructure. We're also anticipating our new simplified packaging launch later this quarter, but in early availability, there have already been three customer wins. Moving on to our go-to-market developments.
+I'm excited to share with you a few milestone announcements that occurred during the first quarter. We introduced a new partner program to deliver greater value for customers and partners in our Fastly Global Partner Network and give those partners access to Fastly's entire portfolio. This program features a new tiered model with simplified pricing and discounting, which we expect will help not only streamline our customers' onboarding but also greatly simplify our coding and discounting process. The new program received CRN's 5-star rating.
+I'm super excited about that. Our first quarter is also exciting at Fastly since we livestreamed the Super Bowl, and it gave us an opportunity to showcase some of our most powerful differentiated capabilities. During the event, our streaming bandwidth reached a record 81.9 terabits per second, supported by our automated traffic routing systems, Autopilot and Precision Path. The event was done with less human involvement and utilizing our infrastructure far more efficiently than in prior years and in prior events.
+Marquee live events have always been a strength at Fastly, backed by our live event monitoring service, which offers real-time observability and telemetry capabilities. And we've been engaging with other major sporting event opportunities in the international markets, thanks to the success of the Super Bowl. As I mentioned earlier, Google selected Fastly Oblivious HTTP relay for its Privacy Sandbox initiative, FLEDGE. This solution was designed to enhance online privacy for billions of Chrome users by protecting user privacy with respect to third-party online tracking.
+To date, we are the only partner in this effort, and we will continue to innovate in the browser security and privacy space. We've put in place structural changes to our processes and realigned our departmental teams into functional groups. This has yielded success across our strategic initiatives, as I just discussed. But most importantly to this audience, it has yielded success in our financial results.
+So far, I'm pleased with the progress we're making in 2023. I'm glad to see that our projections have been holding and the diligence of our planning is yielding accurate projections. We expect to hold our annual guidance both above and below the line and hope to find ways to outperform that guidance through strong innovation velocity, strategically lowering the friction of our go-to-market efforts and streamlining our employee experience. Last quarter, I gave you an update on my first six months at Fastly.
+The excitement I shared for this team and its potential then has only increased. I believe there is an enormous opportunity to simplify our offering to make it easier to deploy amazing web technology around the world to reach a larger segment of the mid-market to acquire customers at a faster rate with a motivated, empowered channel and to bring the best talent from across the cloud community to Fastly. Our customers have a real passion for Fastly solutions, and our employees have a real enthusiasm for Fastly's mission to make the internet a better place where all experiences are fast, safe, and engaging. Let me close by saying how excited I am about the road ahead.
+Of course, there's plenty of work to do, but I believe digital experiences will drive the mission and define the success of almost every organization everywhere, and Fastly will have a significant impact on the way those digital experiences are built and delivered around the world. I look forward to sharing more with you regarding our progress, our focus on fueling growth, our customer acquisition, and our velocity of innovation in the coming quarters and at our Investor Conference in June. And now to discuss the financial details of the quarter and guidance, I'll turn the call over to Ron. Ron?
+Ron Kisling
+--
+Chief Financial Officer
+Thank you, Todd, and thanks, everyone, for joining us today. I will discuss our business metrics and financial results and then review our forward guidance. Note that unless otherwise stated, all financial results in my discussions are non-GAAP based. Total revenue for the first quarter increased 15% year over year to $117.6 million, exceeding the top end of our guidance of $114 million to $117 million.
+In the first quarter, revenue from Signal Sciences products was 13% of revenue, a 24% year-over-year increase, or 20% increase excluding the impact of purchase price adjustments related to deferred revenue. Be aware that we calculate growth rates off the actual figures and the percentage of revenue is rounded to the nearest whole percent. We continue to see healthy traffic expansion from our enterprise customers, and as we've shared in the past, given our relatively smaller market share, we continue to benefit from share gains in what is typically a seasonally weak quarter relative to the fourth quarter. This, coupled with the launch of our partner program, simplified packaging offerings, and investments in our go-to-market efforts give us confidence in our 2023 revenue guidance.
+Our trailing 12-month net retention rate was 116%, down slightly from 119% in the prior quarter but up from 115% in the year-ago quarter. We continue to experience very low churn of less than 1%, and our customer retention dynamics remain strong. As Todd stated, we had 3,100 customers at the end of Q1, of which 540 were classified as enterprise. Let me now take a moment to discuss the changes we are implementing in our customer count metrics to provide more real-time visibility to the investment community.
+As Todd previously indicated, going forward, we will count as an enterprise customer any customer with 25,000 or more in revenue during the quarter, which equates to 100,000 or more in annual revenue. Previously, we reported our enterprise customer count based on LTM revenue using trailing 12 months' revenue of 100,000 or more to identify enterprise customers. Because our new approach provides information with respect to enterprise customer accounts for the most recent quarter, we expect to see more seasonality in new customer enterprise additions than we saw in our LTM enterprise customer account. Additionally, we have simplified our methodology for total customer count and now count customers with revenue in the quarter as active customers.
+Previously, we counted customers with revenue in the last month of the quarter to be an active customer. This simplifies our calculation by eliminating credits or other adjustments made in a single month on an otherwise active customer. To provide transparency, we will continue to report both the new and prior methodology for both metrics on a trailing basis in our periodic reports filed with the SEC and our Investor Supplement for all of our fiscal year 2023 reporting and intend to discontinue the use of the prior methodologies for 2024. Enterprise customers using our new methodology accounted for 91% of total revenue on an annualized basis, down from 92% in Q4.
+Our enterprise customer average spend was 795,000, down 3% from 822,000 in the previous quarter and up 5% from 758,000 compared to Q1 of last year. Our top 10 customers comprise 35% of our total revenues in the first quarter of 2023, a slight decrease from the 37% contribution in Q4 2022. I will now turn to the rest of our financial results for the first quarter. Our gross margin was 55.6% for the first quarter, compared to 57% in the fourth quarter of 2022, excluding the one-time adjustments in the fourth quarter.
+This sequential decline in gross margin reflects our prior expectations that it would decline 100 to 200 basis points due to seasonality from holiday shopping patterns and live sports streaming viewership. As Todd mentioned, a large amount of our fixed costs have to be sized for our peak traffic, which results in improving gross margin as traffic ramps. I will expand on this in a moment. Operating expenses were 79.5 million in the first quarter, up 11% compared to Q1 2022 and down 1% sequentially from the fourth quarter.
+We saw approximately 2 million in favorability in operating expenses relative to our expectations. About half of this was due to expense control measures, with the remainder the result of certain marketing expenses that will slip into the second quarter. This favorability, combined with revenue above the high end of our guidance and gross margins in line with expectations, resulted in an operating loss of $14.1 million, exceeding the high end of our operating loss guidance range of $18 million to $16 million. Our net loss in the first quarter was $10.8 million or a $0.09 loss per basic and diluted share, compared to a net loss of $18 million, or a $0.15 loss per basic and diluted share, in Q1 2022.
+Our adjusted EBITDA for the first quarter was -$1.9 million, compared to -$7.8 million in Q1 2022. Turning to the balance sheet. We ended the quarter with approximately 664 million in cash, cash equivalents, marketable securities, and investments, including those classified as long term. Our free cash flow of -$25 million was reduced sequentially by 15 million from the fourth quarter of -40 million.
+A majority of this $15 million improvement was due to a decrease in advanced prepayments for property and equipment commitments. We do not anticipate any material advance prepayments for equipment commitments in future quarters. Our cash capital expenditures were approximately 8% of revenue in the first quarter, at the high end of our outlook of capital expenditures of 6% to 8% of revenue for 2023. We expect quarterly capital expenditures to vary due to the timing of deployment but expect to be in line with our outlook for the full year.
+As a reminder, our cash capital expenditures include capitalized internal-use software. I will now turn to discuss our outlook for the second quarter and full-year 2023. I'd like to remind everyone again that the following statements are based on current expectations as of today and include forward-looking statements. Actual results may differ materially, and we undertake no obligation to update these forward-looking statements in the future except as required by law.
+Our second-quarter and full-year 2023 outlook reflect our continued ability to deliver strong top-line growth via improved customer acquisition and expansion within our enterprise customers, driven in part by new and enhanced products. Our revenue guidance is based on the visibility that we have today. We expect expense growth for the year to continue to lag revenue growth and expect a meaningful improvement in our operating losses in 2023 over 2022. As we stated last quarter, we are investing in our go-to-market efforts as part of our revenue growth initiatives to continue our expansion in our existing customers and to accelerate new customer acquisitions.
+We will continue our investments in product and R&D, and we see meaningful opportunities to drive greater efficiencies in our operations, especially across G&A, and expect to see meaningful leverage in our G&A costs in 2023 and for these costs to decrease as a percentage of revenue. Historically, second-quarter revenue is sequentially flat with the first quarter. In 2023, we expect to see a slightly better revenue trajectory into the second quarter. For the second quarter, we expect revenue in the range of $117 million to $120 million, representing 16% annual growth and 1% sequential growth at the midpoint.
+As we have discussed, we are managing our network capacity for higher traffic and revenue that we expect in the second half of 2023. In the second quarter, we anticipate our gross margins to generally be in line with our first-quarter gross margins, plus or minus 100 basis points. For the full year, we expect to see continued gross margin accretion in the second half and to exit the year with gross margins within striking distance of 60%. We did not see any meaningful changes, positive or negative, to our pricing trajectory in the first quarter as compared to the prior quarter.
+We anticipate our pricing to be lower in the second quarter than its consistent trajectory over the past four quarters but expect it to return to its normal trajectory in the back half of 2023. This is a result of winning further delivery revenue from a major customer, and we will be ramping that traffic in the second quarter into our fixed cost base size for peak traffic. However, reductions in our bandwidth costs and ongoing network optimization should offset any pricing changes. And as I previously mentioned, we expect 2023 gross margins to remain in line with our existing expectations.
+Historically, we have experienced a significant increase in our operating expenses from Q1 to Q2 due to the continued impact of employer payroll taxes, annual salary increases at the beginning of the second quarter, and a concentration of sales and marketing events. We then typically see substantially smaller increases in the second half of the year as the impact of employer payroll taxes begin to diminish in the third quarter and the concentration of sales and marketing events is less than we see in the second quarter. Additionally, as I mentioned previously, our Q1 operating results were approximately $2 million below our earlier projections, with half of this due to expense control measures we put in place around hiring and spending and the other half due to certain marketing spend that slipped into the second quarter. We expect this trend to continue and for operating expenses to increase in Q2 relative to Q1.
+This increase will, however, be partially mitigated by a refund of approximately $3.4 million related to an overpayment of sales and use taxes in prior years. Excluding the impact of this refund, Q2 operating expenses are expected to increase year over year by less than 10%. This lags our revenue growth in the quarter and sets us on a course toward a 10% operating loss margin for 2023. As a result, in the second quarter, we expect a non-GAAP operating loss of $18 million to $16 million and a non-GAAP loss of $0.11 to $0.09 per share.
+For calendar year 2023, we are maintaining our prior guidance and expect revenue in a range of $495 million to $505 million, representing 16% annual growth at the midpoint. We expect a non-GAAP operating loss of $53 million to $47 million, reflecting an operating margin of -10% at the midpoint, compared to an operating margin of -18% in 2022. We expect a non-GAAP loss of $0.27 to $0.21 per share. I'd also like to call out that the recent increase in interest rates is resulting in a meaningful increase in interest income on our cash and investments, and we are currently expected to earn approximately $20 million in interest income in 2023.
+Before we open the line for questions, we would like to thank you for your interest and your support in Fastly. Operator?
+Questions & Answers:
+Operator
+[Operator instructions] Thank you. Our first question comes from Fatima Boolani from Citi. Please go ahead. Your line is open.
+Fatima Boolani
+--
+Citi -- Analyst
+Hi, good afternoon. Thank you for taking my question. Todd, I'll start with you on the Google win. That seems like a really important beachhead in a very marquee customer.
+And so, I was hoping you can share with us some of the contours of the win, some of the mechanics of why you are the sole source provider of the private relay around the browser security. And if you can just give us the -- Ron, maybe you can give us some complexion on, you know, what the contract looks like and some of the financial implications both near term and medium term? And then, I'll have a quick follow-up, please.
+Todd Nightingale
+--
+Chief Executive Officer
+Sure, thanks for the call. Thanks for the question. Yeah, it's a great -- it's a great deal. I think it was really a product of a great partnership between the Fastly team and the Google team.
+And it helped, I think, that the missions are so aligned, adding, you know, privacy to the browsing experience, making -- making that web experience not just faster but safer. It's really close to, you know, kind of our core. I think it helps that the infrastructure that we needed was really in place. The technology had been built out, had some experience in private browsing technology with other partners.
+And in a lot of ways, I think, you know, Fastly made the best -- the best proposal and really was the -- the obvious partner for this stuff. We've been incredibly focused on security over the past couple of years. And in this case, it was a -- I think it was a real landmark win for the team. I'm super excited to be sole source and for -- for the -- for the Google architecture here.
+And I think that's really just a product of, you know, performance, the ease with which onboarding the technology was built out, and the way the teams partnered together. Ron?
+Ron Kisling
+--
+Chief Financial Officer
+Right. Yeah, I think on the deal side, I mean we've done, you know, a couple of these sort of privacy -- browser privacy engagements that, you know, leverages our technology really well. They are, you know, high-margin business. I think from a revenue opportunity, while they're, you know, nice contributions to the overall revenue, I think, you know, as you said, one, it gives us really an opportunity to sort of expand sort of within those customers into other opportunities to grow to from what I would say is a nice contributor to revenue to, you know, potentially meaningful revenues over time with those customers.
+Fatima Boolani
+--
+Citi -- Analyst
+Hello, I think I lost you there.
+Ron Kisling
+--
+Chief Financial Officer
+Oh. Are you there? Any other questions?
+Fatima Boolani
+--
+Citi -- Analyst
+Yes, thank you. I thought I'd lost you there. Ron, just on some of the pricing commentary, you mentioned a very specific instance of a particular transaction that's bringing some pricing fluctuations that are, you know, going to put pressure in the interim period. I'm curious if you can comment on any larger renewals within the base that might be coming up that might be subject to maybe similar interim downward pressure.
+Just thinking back to some of your customer concentration commentary that did come down a little bit, but just curious if this is just sort of a, you know, one-off large customer with whom you've transacted for larger delivery revenues and lower pricing, or if there's kind of any more down the pipe that we should be mindful of from just a renewal standpoint? Thank you.
+Ron Kisling
+--
+Chief Financial Officer
+So, that's a good question. I think, you know, the one we mentioned, I think, was sort of a unique situation where there was a, you know, consolidation of suppliers, and so our traffic levels increased materially, and so less impacted really by sort of the -- what you would say is sort of the annual renewal price discounts, but more, you know, impacted by just the volume of traffic, driving, you know, an impact from this particular customer in terms of pricing per volume. I think one of the things, though, as this -- as we sort of see this, and we talked a little bit about the impact on gross margins is, you know, the efficiency we're seeing across our network, the increased peering allows us to take this additional traffic on with no adverse impact really to our gross margin expectations. I think, more broadly, and I think one of the reasons we called this out as a Q2 is, you know, we've been -- it's been really great to see, you know, a couple of quarters where we've really seen, you know, lower, if you want to call it, rebates or discounts on an annual basis and maybe we saw it historically.
+I think as we go forward, there's nothing particular I would call out other than, I think, you know, an element of the market is those customers are looking for efficiency. You know, I think that trajectory, you know, could see some increase over time, but we don't see that being a material issue. And again, the -- the one we spoke about was specifically more tried to volume than what you would characterize as an annual renewal and a price down.
+Fatima Boolani
+--
+Citi -- Analyst
+I really appreciate the detail. Thank you.
+Ron Kisling
+--
+Chief Financial Officer
+Thank you.
+Operator
+Our next question comes from Frank Louthan from Raymond James. Please go ahead. Your line is open.
+Frank Louthan
+--
+Raymond James -- Analyst
+Great, thank you. And just to kind of follow up, how are you thinking about those larger deals as far as, you know, being more price disciplined? What is -- what is that -- that's changing now that you're able to keep those margins there? And are there any other -- you know, is there any capabilities or things you're doing for these customers that you think you could -- could leverage to some other larger streaming or web players? Thanks.
+Todd Nightingale
+--
+Chief Executive Officer
+Yeah, great question. And it's something we've been looking at a lot lately when we analyze our NRR and we think about growth within existing customers. You know, to be honest, one thing that's really helping here is the portfolio expansion, seeing the velocity within the security portfolio, the compute portfolio, and even observability. We're seeing our customers, at renewal time, sometimes taking the opportunity to explore the rest of our portfolio as part of that renewal, which has been helping.
+And that's success I think, in some ways, changes that -- changes that negotiation to a degree and also I think puts us in a stronger position as a strategic partner. I think there's -- there's always going to be a natural amount of -- of movement here. You know, there's more bandwidth on the internet every year and that bandwidth costs a little bit less every year. We're going to -- we're always going to see that.
+But by expanding the portfolio and using these renewals as an opportunity to become a more significant part of the customers' infrastructure, we -- we've seen lately, I think, some real success there in driving -- in driving volunteer expansion and -- and more of a strategic partner status within those customers. Ron, anything to add?
+Ron Kisling
+--
+Chief Financial Officer
+Yeah. The only thing I would add is I think that renewal cycle, what we typically see is that really is one of the opportunities when we see that expansion motion. So, a lot of times, these renewals come up, and it's not just a, you know, kind of that annual pricing. You see change relative to the market, but it's also tied to either increasing the product portfolio that the customer is adopting or increasing traffic levels, and so we get that expansion motion.
+And then, I think the efficiencies that, you know, over the last year that we've really built into our network, which allow us to take advantage of that continuing dropping cost of bandwidth. The efficiency of our network, and increased server efficiency allow us to kind of absorb that additional traffic very efficiently. So, you know, these renewals, while there's maybe a pricing component, are also an opportunity for us to expand within that customer.
+Frank Louthan
+--
+Raymond James -- Analyst
+Right, great. Thank you very much.
+Operator
+Our next question comes from Jonathan Ho from William Blair. Please go ahead. Your line is open.
+Jonathan Ho
+--
+William Blair and Company -- Analyst
+Hi. Good afternoon. Can you hear me OK?
+Todd Nightingale
+--
+Chief Executive Officer
+Yeah, yes.
+Ron Kisling
+--
+Chief Financial Officer
+Yeah.
+Jonathan Ho
+--
+William Blair and Company -- Analyst
+Perfect, perfect. So, you know, one thing I wanted to understand a little bit better was, what are you seeing out in the macro environment? And is there anything that's maybe changing either, I guess, the -- the term or length of -- of some of these sales cycles or customers willing to commit, just given what's happening out there?
+Todd Nightingale
+--
+Chief Executive Officer
+I'll start, yeah. Yeah, you know, we've been -- we've been trying to, you know, read as much of the analyst work and sort of try to see how the macro effects might -- might affect our business. We don't have a lot of exposure to, like, financials -- financial companies' service providers, telcos' service provider. I'd like to have a little more exposure to the SMB space, but we don't today.
+So, the macro effects that might be slowing down that -- those parts of the market really don't -- don't affect us. As far as the deal cycles go, sure, there's puts and takes here, but we haven't seen a significant shift. We do see some of our large strategic customers looking at vendor consolidation. They want to manage fewer vendors that tends to be good for us as the performance leader.
+Being price competitive puts us in a good negotiating position around vendor consolidation. And I understand why teams are looking to do that to simplify their operation, make their teams more efficient. But from a deal cycle point of view, maybe there's some puts and takes, but we haven't seen a prevailing trend there. Yeah.
+Ron Kisling
+--
+Chief Financial Officer
+Yeah, I don't think I have anything. I think we're, you know, as a -- providing the service, we're kind of core to the company. So, it's not on the list of where companies are looking to necessarily cut. They are looking to drive efficiency.
+You know, that has played out well for us in terms of expansion, but I haven't seen any real change. Like I said, I think there's puts and takes on the deal cycle. Some of these dynamics are trying to drive efficiency. You've actually accelerated some cycles, and I'm sure some cycles are taking longer.
+Todd Nightingale
+--
+Chief Executive Officer
+But anecdotally, some of our largest deals have gone incredibly quickly, yeah.
+Ron Kisling
+--
+Chief Financial Officer
+Yeah.
+Jonathan Ho
+--
+William Blair and Company -- Analyst
+Excellent, excellent. And, you know, I guess I also wanted to understand a little bit better why the decision now to change your enterprise customer count and enterprise, I think, it's revenue as well. I guess, what were you maybe not capturing with the prior methodology that maybe is a little bit more accurate with the current methodology? Thank you.
+Ron Kisling
+--
+Chief Financial Officer
+Yeah. Thank you. It's something we've talked about for a while, and we've actually, you know, have heard some input from investors that, you know, the historical way we did it was very backwards looking. And so, it didn't give a real contemporaneous view in terms of the progress we're making in terms of adding enterprise customers by looking at a 12-month trailing average.
+And so, the view was -- and we've been starting to look at this internally really over the last 12 to 18 months in terms of what is our enterprise-level customer acquisitions in the current quarter look like. And we think this provides better real-time information of the progress we're making in customer acquisition and definitely reflects better on how the business is doing. As we did this, we want to make sure that for the next -- this quarter and the next three quarters, we are going to share both numbers. We want to be fully transparent, but we think this is a much more timely metric to understand how we're doing in the business.
+Todd Nightingale
+--
+Chief Executive Officer
+Yeah, I'll just add that 100% the -- the motivation was just to try to be more transparent about what's happening now and making the data more relevant. It also helps, you know, within the way we're managing our business, we're always looking for leading indicators. And so, we're tracking these numbers internally with our teams, much more in line with these new metrics. So, I think -- I think that helps as well.
+Jonathan Ho
+--
+William Blair and Company -- Analyst
+Thanks for the additional disclosure.
+Operator
+Our next question comes from James Fish from Piper Sandler. Please go ahead. Your line is open.
+James Fish
+--
+Piper Sandler -- Analyst
+Hey, guys. Todd, you talked there about the new packaging and pricing, a little bit of details before, but can you walk us through how that is different versus what you had before? Remind us on that and -- and what the adoption kind of feedback has been so far, how many kind of partners you have signed up at this point with kind of the new program, and how long until we could get the majority of customers on -- on kind of the new packaging modules.
+Todd Nightingale
+--
+Chief Executive Officer
+Sure, yeah. So, traditionally, Fastly has been largely sold on a utility model, really like I think what I call a pure utility model. And that -- that model, for a lot of customers, is kind of a la carte. You buy and pay for things a feature at a time.
+And for large strategic customers, that works -- that works great. They want to do that type of tuning, and they want to analyze their costs with that level of sophistication. And for them, nothing will change. Our existing models continue and will continue to run that -- that motion.
+But in order -- in order to simplify our offering for the rest of the market, really looking at ways to give them a solution that feels more comfortable in that initial buying motion and that customer acquisition motion. And so, our package is, number one, it's -- it's product line based. So, it gives you all of the basic functions that you would need within a product line, and that -- those product lines are content delivery, security, observability, and edge compute. And so, buy one of those packages and you get everything you need.
+There's three tiers of those packages, kind of like a small, medium, and large, and customers can choose the one that works best for them, and it gives the benefit -- and we've heard a lot of positive feedback on this -- of predictable billing. They buy the package to their size, they get billed the same amount every month. And that takes a little bit of the risk and concern off the customer, knowing that -- knowing what they're going to be billed, not having to guess and get surprised by a bill, that we're starting to hear some feedback, we believe, that will lower some of the friction, especially for new customers onboarding to the platform. So, that's the reason -- those are the primary motivations on moving to a all-in-one predictable billing package model, and are super excited about are starting to see -- starting to get some good feedback.
+We've got a big launch coming up this quarter on it and are excited to bring that out to customers. I was super excited to see that a couple of deals even close early, which is -- which is great. As far as the partner program goes, really, we're excited to bring the whole portfolio to our partner -- to our partner network, VARs, resellers, MSPs, service provider partners. Have been an amazing channel for our security business in the past, and this new program brings our entire portfolio to bear through that channel, which is great.
+We believe that the packages will also be easier to transact through the channel because they're all-inclusive, because there's fewer SKUs to buy, and because of this reliable predictable billing piece. And so, you know, we're kind of bullish on that. The partner program also just kicked off, so we're really getting started. We're tracking -- of course, we're tracking, you know, partner activations but deal registration, especially to see how the motion is working and how we're driving new customer acquisition through the partner community.
+I expect -- I expect and I hope to see some real movement and to see this starting to affect the pipeline later this year and to start affecting the revenue numbers in a big way maybe by the end of the year but definitely next.
+James Fish
+--
+Piper Sandler -- Analyst
+That's helpful details. Just to follow up there, really with the packaging, it sounds as if it's kind of, let's call it, subscription-based as opposed to the utility or usage-based. Ron, does that kind of act a little bit as a near-term headwind to growth artificially this year, just given kind of that movement away near term? And if so, is there a way to think about kind of the quantitative impact unless you really start accelerating kind of customer count?
+Ron Kisling
+--
+Chief Financial Officer
+Yeah, I mean I don't think it really impacts kind of our current trajectory in that most of the customers who are going to be adopting this are going to be new customers and, you know, incremental business from a segment that we really haven't, you know, penetrated deeply In the past. I think our -- our larger customers, the enterprise customers, I mean most of those are going to continue to buy on the current model, so I don't anticipate it having an impact. The impact that it will have as it becomes a bigger piece of revenue is just going to reduce a lot of the volatility. It's going to improve the predictability of our revenue as we build up a bigger base of these packaging and sort of recurring revenue streams.
+James Fish
+--
+Piper Sandler -- Analyst
+Makes sense. Thanks, guys.
+Operator
+Our next question comes from Sanjit Singh from Morgan Stanley. Please go ahead. Your line is open.
+Matt Wilson
+--
+Morgan Stanley -- Analyst
+Hi, it's Matt Wilson on for Sanjit. Thanks for taking our question and congrats on the solid quarter. I wanted to circle back to the customer consolidation efforts, the commentary you made there. It's a theme we've heard more of lately across software and in our Fastly checks.
+But when a customer that has a multi-CDN strategy decides to consolidate vendors, like, what does this conversation look like in terms of how many vendors they consolidate down to how much traffic share can Fastly gain in these efforts? And can, like, the new pricing and packaging, does that kind of, like, accelerate these consolidation efforts in the customer base?
+Todd Nightingale
+--
+Chief Executive Officer
+Yeah, I can give you my two cents on that. It's a great question. The vendor consolidation tends to happen -- is really solely for multi-CDN customers, and the packaging, largely, isn't designed for those folks. People who are running multi-CDN and architecture would fall into that category, I think, of like large, sophisticated customers who really want utility build.
+And so, I'm not expecting that to have an effect there. But what it looks like, generally, is a discussion about the metrics that matter, like what that -- what that customer's, you know, metric of success is, whether it's total latency, time to interactivity on their application or their website, whether it's the load on their origin, whether it's total cost, can sometimes feel -- and total performance in a whole host of -- in a whole host of different ways, get measured by our customers. Our tools are largely designed to give our customers those metrics right off the Fastly system. And then, there's a discussion of about trimming the vendors who either aren't delivering on the metrics that matter, or are overpriced, or difficult to work with, etc.
+And so, for us, I think we've seen success here because, yeah, we are a performance leader. We have a ton of focus on customer set and customer success. Our services team is extremely, extremely active and working with our customer base to ensure real -- the real kind of success that they care about, which is their user experience -- their end-user experience. And so, it's largely, I think, been a headwind for us for those reasons.
+Matt Wilson
+--
+Morgan Stanley -- Analyst
+Excellent. And one more on gross margins. As Fastly exits the year within striking distance of 60%, like, what are the efforts to get gross margins above that 60%? Is there still peering and network optimization work that can be done in '24? Or there are kind of, like, other levers on the call side to help gross margins?
+Todd Nightingale
+--
+Chief Executive Officer
+Yeah, you know, it's interesting, I just had this call this week, so I've been tracking this stuff pretty closely. It's amazing, the efficiency work that's being done. On the network engineering side, for sure, there's peering, network engineering work that we're looking at, and there's contract negotiation, you know, as our -- as our network continues to reach new record levels of -- of traffic and, you know, we become a bigger buyer of bandwidth, and so we're able to negotiate better rates, which is great. There's another side to it, which is the -- the hardware infrastructure side.
+And our teams have been doing really amazing work making our existing infrastructure more and more efficient. There's even a guy with a hat that reads fully depreciated still in use, and that is a great -- I think that's a great mantra for the team. And so, by making our infrastructure more efficient, both compute but also making our cash more efficient, our stores more efficient, we're able to deploy less hardware. And in doing so increase, obviously, how much we appreciate every month.
+That's helping on the gross margin side but I would also mention really helps on the cash flow side in a -- in a more immediate way. And I think you'll see that -- you've seen it in the last quarter. So -- but you'll see it in the next four quarters, just the amount of cash out the door to buy -- and buy hardware and infrastructure is dropping precipitously because of that efficiency work.
+Operator
+Our next question comes from Tal Liani from Bank of America. Please go ahead. Your line is open.
+Tal Liani
+--
+Bank of America Merrill Lynch -- Analyst
+Hi, guys. You [Inaudible] call today. Good to talk to you and thanks for taking the question. Just one quick one on packaging and then I have a follow-up pivot on product.
+But on packaging, if we take a customer like for like who would be a good candidate for the new packaging, do you expect to see any uplift at all?
+Todd Nightingale
+--
+Chief Executive Officer
+Yeah. Hey, Tal, great question. And I'll tell you, you know, our intention is that it would be about breakeven. I'm sure that for some customers there'll be puts and takes here too.
+For some customers, maybe there'll be a little more spend, and for others, a little less. But the benefit that we're really trying to drive here is a better user experience and easier onboarding experience and to -- and to lower the friction of that onboarding motion so that we can reach new customers faster and making it easier for them to buy, making it easier for them to onboard. And the three tiers really help with that by having kind of a starter pack, mid-level, and high-end package. That starter pack is an entry point that can give new customers a lot of confidence that they won't have surprises as they learn more about the platform.
+And then, of course, our customer success team can work with them over time to -- to rightsize the package, their usage. And so, that's the goal. That's really the benefit we're looking to drive. I don't expect it to be a headwind or a tailwind.
+If it was, we would adjust.
+Tal Liani
+--
+Bank of America Merrill Lynch -- Analyst
+All right. Thanks so much. And then, just to pivot on the product side, any chance you could just talk to how edge compute has been going, as well as any, you know, security priorities for this year in terms of product development? And -- and on top of that, too, could we potentially see some uplift on the growth side from either these categories? Thanks so much.
+Todd Nightingale
+--
+Chief Executive Officer
+Yeah, great. On the compute side, part of our incubation, you know, portfolio category. So, I'll tell you, we're really focused on customer acquisition. That -- that is our driving force.
+And we're tracking a lot of things in that incubation zone, like, how quickly our customers are able to ramp their load onto the facility platform, how easy the developer experience is, you know, what kind of additional features that they need so that we can bring those to the platform and drive a broader and broader motion and compute. I expect us to stay focused on that at least through this year and maybe start to see some real revenue tailwinds from compute next year. But, you know, optimistically, I'd love to see something Q4 there that has significant uplift, but it has been going pretty well. And we are finding new use cases, new customers there in some really interesting ways, especially in tech.
+From a security point of view, I was just RSA a couple of weeks ago. We had a great experience there and a really great showing with tons of interest, tons of demand gen and lead gen from the teams at that conference. There's a ton of interest in the work that's being done around bot protection, tons of interest on the new DDoS visibility that's being introduced onto the -- onto the platform. And it's interesting because, you know, we've always run a SOC motion, security operations center motion that is real -- that's doing real-time monitoring the security of our system, monitoring DDoS attacks all around the world, etc.
+And for the first time, we've opened that up as a paid service, a managed security service, and let our customers sort of enjoy the benefits of that. And we're getting a ton of interest there, which is great. It's very cost-efficient for us. It's -- it's resources we -- and a service we already run internally.
+And yeah, I'm pretty bullish on that and hoping to see some significant deals in the second half.
+Tal Liani
+--
+Bank of America Merrill Lynch -- Analyst
+Great. Thanks so much.
+Todd Nightingale
+--
+Chief Executive Officer
+Sure.
+Operator
+Our next question comes from Rishi Jaluria from RBC Capital Markets. Please go ahead. Your line is open.
+Richard Poland
+--
+RBC Capital Markets -- Analyst
+Hi, this is Richard Poland on for Rishi Jaluria. Thanks for taking my question. Just kind of a follow-up on the security road map. It was nice to see the managed security service roll out in the quarter.
+But just as you think about different areas of the product portfolio on the security side, are there any maybe features or capabilities that you think are kind of a key focus for you as we head into the rest of 2023, or anything that you've identified that, you know, customers really want that maybe Fastly could start to roll out? And then, I have a follow-up. Thanks.
+Todd Nightingale
+--
+Chief Executive Officer
+Sure. Yeah, it's an area that we are -- that's very top of mind for us as it is for our customers. We've just seen a ton -- a ton of interest here. The private browsing stuff has been super interesting, and thinking about different types of anonymous proxy work that -- that have use cases across that space has been great.
+But I think for the bulk of our customers, bot protection is very top of mind, especially in e-commerce, it's just incredibly top of mind. It's a really interesting area with the technology. The state of the art is constantly changing, and the methods being used, and the signals that we use to send bot information back to the origins are changing. And we are investing a ton here to really understand what is going to be best in class for the next five, 10 years.
+The -- there are some interesting early work and early -- and sort of early discussion around technology that can be used specifically in the streaming space around security, too. But I will tell you, across the board, bot protection, new types of visibility for DDoS, and a real managed security service, those three areas you get just a ton of -- ton of interest right now and a ton of focus and R&D going on. But on the streaming side, privacy protection and providing different levels of controls for compliance, especially geocompliance and statistics and analysis on that stuff. I'm not sure if the compliance stuff would technically be considered security, but -- but our customers look at it that way and we focus on it that way, too.
+So, there's some early work and early discussions going on in that space as well, privacy, regional compliance.
+Richard Poland
+--
+RBC Capital Markets -- Analyst
+Got it. And then, as we just think about the rollout of the new pricing and packaging and some of the more -- I guess I don't want to say developer lab -- or product-led growth initiatives, how should we think about the mix of SMB versus enterprise? I know you didn't necessarily reference a number as where you're at today, but it'd be great to get a better understanding of just kind of where you're at today and where you expect the business to go long term.
+Todd Nightingale
+--
+Chief Executive Officer
+Yeah, no, it's great. It's a great question. And today, our business is largely, I think, what anyone would refer to as enterprise with -- with a real enterprise sales motion and a high touch -- high touch sales motion with not just an account executive and sales team, but a customer success team as well. And that's been very successful for us.
+And right now, when we look at how we think about product-assisted sales motion, product-led sales motion, product-led growth, our first step is really focusing on the product-assisted enterprise sales motion. So, that's -- that's our first step, and we've made some amazing strides here with full automation of sort of full of free trial management for our sales teams, new types of visibility, new types of visibility for our customers and sales folks around entitlements and service, billing, etc. That's been helping us lower the friction of that sales motion. Again, all of that work will apply to a pure kind of product-led growth motion in the future that will help us attract and really lower the friction for smaller customers on board and really thinking about the true developer community, student community to get more and more comfortable with our platform, especially our compute platform earlier and earlier on in the cycle.
+I think it's a little bit out for us, to be really honest, we're focused on product-supported enterprise sales motion this year. And next year, I think we'll be starting to look at the pure PLG motion.
+Operator
+Our next question comes from Will Power from Baird. Please go ahead. Your line is open.
+Will Power
+--
+Robert W. Baird and Company -- Analyst
+OK, great. Thanks for taking the question. I guess maybe, Todd, maybe sticking with the security theme for just a second. You know, let me get the latest thoughts on your next-generation WAF.
+Maybe just if you could help remind us what some of the key differentiators are there, what the trend lines look like. And then, I guess the other element that I'm not sure we've touched on -- much on the product side is observability. Maybe just any kind of update on -- on trends you're seeing on that front.
+Todd Nightingale
+--
+Chief Executive Officer
+Sure, yeah. Next-gen WAF is really the -- I think it's the crown jewel of our security portfolio. And in so many ways, it's the most important part of the application security stack. The next-gen WAF technology path comes from the Signal Science acquisition.
+It's a remarkable market-leading technology, and the real differentiation is accuracy. And we see it in the market every day. A enormous percentage, almost 90%, of our customers run our next-gen WAF in full blocking mode, which means they have the trust and the faith that the accuracy is going to be so solid that they won't be spuriously blocking their users and customers but instead blocking attacks and malicious -- malicious usage only. And that differentiation is just enormously important, that's the number one thing.
+That -- I found myself talking to customers about it at RSA this year, and -- and really, I think it is the -- the crown jewel of our security portfolio. We're incredibly proud of it. That Signal Science technology, it's remarkable, it really is. On the observability front, it's very early days, but we've seen some really interesting -- and really interesting kind of early customer use cases.
+We are deeply focused on this concept of edge observability. We're not looking to compete in the complete kind of FSO full-stack observability space but instead really focus on edge observability and the ability to give the signals the kind of rolled-up and analyzed log content that's needed for people who are running a full-stack observability solution and building the most resilient, most reliable. applications and websites in the world to get this new type of sort of observability right from the edge as close to the users as possible so they can be tracking, not just reachability of their users, but the performance that those users are experiencing. We're starting to get some really early traction.
+You know, I'd love to get the question a quarter or two from now, and I think we'll know a little bit more. It's very early days for us.
+Will Power
+--
+Robert W. Baird and Company -- Analyst
+Sounds good. That's helpful. I'll try to remember to follow up.
+Todd Nightingale
+--
+Chief Executive Officer
+Thanks.
+Operator
+Our last question will come from Jeff Van Rhee from Craig-Hallum. Please go ahead. Your line is open.
+Daniel Hibshman
+--
+Craig-Hallum Capital Group -- Analyst
+Hey, this is Daniel Hibshman on for Jeff. Just on the channels and the push into the channels, anything that we could quantify there in terms of the goals either in terms of number of channel partners or percent of revenue, or just what would be success in terms of the channel push?
+Todd Nightingale
+--
+Chief Executive Officer
+That's a great question. We aren't disclosing our data slice by channel and not channel, but I'd be happy to give you some thoughts in terms of, you know, internal goals that I'd like to see. I believe, in the fullness of time, we should be seeing, you know, 50% or more of our total business going through the channel, both the reseller of our service provider, managed service channel, as well as our cloud marketplace channels. And I think that would show a healthy -- a really, you know, healthy, vibrant partner community which largely will not just help us reach more customers, but also help our customers onboard the technology more -- more -- more easily.
+A big part of the goal here is that the software expertise at those systems integrators' shops can be -- can be brought to bear to help integrate Fastly technology and leverage the power of Fastly faster and more effectively, lower the barrier to entry, and increase the speed of adoption. And I think at 50, we would be in a position where we'd really be seeing the expertise of those -- those systems integrators being brought to bear, enough that it would be worth their investment. And that's a big part of it for us is making sure that this is -- that our partner program is profitable enough for those, you know, trusted partners that they -- they want to invest and that it makes sense for them. And for me, that -- that's kind of -- that's what success would look like.
+Daniel Hibshman
+--
+Craig-Hallum Capital Group -- Analyst
+Thanks. And then, just one more for me. Any thoughts on the trend line in terms of the customer adds in the next several quarters? You know, that -- that's been trending in a decelerating pattern. Just looking at the pipe, you know, how are you guys thinking about customer adds over the next year or so?
+Todd Nightingale
+--
+Chief Executive Officer
+Yeah, I track that very closely, so I appreciate that question. I think we have -- I think we have a lot of opportunity to tune the motion here. To be honest, it's an area where we can improve. Deal registration in the partner is a huge part of it, and that's why we're really focused there.
+I think our partner community has a huge opportunity to contribute on that sort of bringing customers to the platform, lowering the friction of the onboarding motion with what we talked about in terms of optimizing and lowering the friction around free trials. We believe we can bring smaller customers more efficiently to the platform to do that and, of course, deeply focused on demand gen, like I mentioned on the RSA event, etc. I think -- I think the trend you see, and I believe we can turn that around. So, we're going to be super focused on it in the next year.
+Daniel Hibshman
+--
+Craig-Hallum Capital Group -- Analyst
+Thanks so much.
+Todd Nightingale
+--
+Chief Executive Officer
+Thank you.
+Operator
+We have no further questions. I would like to turn the call back over to Todd Nightingale for closing remarks.
+Todd Nightingale
+--
+Chief Executive Officer
+Amazing. Thanks so much. Before we close the call, I do want to take this opportunity to thank our employees, our customers, our partners, and of course, our investors. We remain as committed as ever to make the internet a better place where all experiences are fast, safe, and engaging.
+Moving forward, we remain focused on execution, bringing lasting growth to our business and delivering value to our shareholders. Thank you all so much for the time today. Thank you.
+Operator
+[Operator signoff]
+Duration: 0 minutes

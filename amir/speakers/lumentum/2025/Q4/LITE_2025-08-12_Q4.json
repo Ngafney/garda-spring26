@@ -1,0 +1,417 @@
+[
+  {
+    "speaker": "Unknown",
+    "role": "",
+    "text": "Full Conference Call Transcript"
+  },
+  {
+    "speaker": "Kathy Ta",
+    "role": "",
+    "text": "Thank you, Reagan, and welcome to Lumentum's fiscal fourth quarter and full year 2025 earnings call. This is Kathy Ta, Lumentum's Vice President of Investor Relations. Joining me today are Michael Hurlston, President and Chief Executive Officer, Wajid Ali, Executive Vice President and Chief Financial Officer, and Wupen Yuen, President Cloud and Networking. Today's call will include forward-looking statements, including, without limitation, statements regarding our future operating results, strategies, trends, and expectations for our products and technology, that are being made under the safe harbor of the Securities Litigation Reform Act of 1995. These statements are subject to risks and uncertainties that could cause actual results to differ materially from our current expectations, particularly the risk factors set forth in our SEC filings under risk factors and elsewhere. We encourage you to review our most recent filings with the SEC, particularly the risk factors described in our most recent 10-Q and in our 10-Ks for the fiscal year ended June 28, 2025, to be filed by Lumentum. The forward-looking statements provided during this call are based on Lumentum's reasonable beliefs and expectations as of today. Lumentum undertakes no obligation to update or revise these statements except as required by applicable law. Please also note that unless otherwise stated, all financial results and projections discussed in this call are non-GAAP. Non-GAAP financials have inherent limitations and are not to be considered in isolation from or as a substitute for or superior to financials prepared in accordance with GAAP. You can find a reconciliation between non-GAAP and GAAP measures and information about our use of non-GAAP measures and factors that could impact our financial results in our press release and our filings with the SEC. The press release for the fiscal fourth quarter and full fiscal year results and accompanying supplemental slides are available on our website www.lumentum.com under the investors section. We encourage you to review these materials carefully. With that, I'll turn the call over to Michael."
+  },
+  {
+    "speaker": "Michael Hurlston",
+    "role": "",
+    "text": "Thank you, Kathy. And good afternoon, everyone. Lumentum is at the forefront of the cloud and AI revolution, which is driving rapid growth in the advanced photonics markets we serve. As AI becomes central to our customers' business strategies, demand for optical hardware and bandwidth is growing dramatically. Our innovation is driving the next generation of AI infrastructure with technologies such as 200 gig EMLs, 1.6 t transceivers, optical circuit switches, and ultra-high power lasers for co-packaged optics, all of which are essential for building scalable energy-efficient systems. Our years of optical engineering leadership provide us with a significant competitive advantage as AI architectures evolve. These new technologies are projected to become multibillion-dollar markets within five years. With a uniquely differentiated portfolio, Lumentum is positioned to capture significant value from this inflection, driving strong revenue growth, expanding margins, and increasing profitability, all of which are elements of the long-term financial model we laid out in April. Cloud revenue is growing well over 20% annually. Company gross margins are set to surpass 40%. And through a combination of high-value products and disciplined cost management, we are targeting operating margins above 20%. The slope of our cloud-facing revenue is increasing. We now expect to surpass $600 million in quarterly revenue by the June 2026 quarter or earlier. Let's turn to our fourth-quarter results. In early June, we raised our fourth-quarter revenue and EPS outlook. Our cloud and networking performance drove Q4 revenue above even the high end of our revised expectations. Fourth-quarter revenue from our cloud and networking segment increased 16% sequentially and 67% year over year, led by exceptional demand from hyperscale cloud customers. The outperformance was largely driven by our cloud-facing components and transceiver product lines. In components, we achieved an all-time high in EML shipments, nearly doubling the revenue compared to our June 2024 baseline. Our wafer fab expansion is progressing on schedule, enabling us to support higher volumes of EMLs and other indium phosphide-based devices, including CW lasers and coherent components. Recently, we received a substantial order for 200 gig line speed EML chips, which we expect to fill in December. Overall, we expect 2026 to be a breakout year for laser chip sales of both 100 gig and 200 gig lane speeds. Shipments of our narrow linewidth lasers, which are critical components for ZR and ZR plus modules, have now grown for six consecutive quarters. While our manufacturing capacity for these laser assemblies continues to ramp, demand is outpacing supply and is expected to do so through the rest of fiscal 2026. In addition, we saw sequential growth in shipments of other coherent components for long-haul data transmission, as well as in pump lasers for subsea terrestrial applications. Momentum in our components business reflects the accelerating global build-out of cloud infrastructure and highlights Lumentum's key role in powering that expansion. We are also positioning ourselves for longer-term growth, particularly in three significant areas: cloud modules, optical circuit switching, and co-packaged optics. In CloudModules, we surpassed our goal to grow revenue by 50% quarter over quarter. This contributed approximately half of the sequential revenue growth in the period. We shipped cloud modules to all three of our major hyper customers, and we expect shipments to grow sequentially in the coming quarters. In optical circuit switches, or OCS, we recognized our first revenue in the quarter with shipments to two hyperscale customers. Not only is our order book expanding with these two customers, but we now have a third hyperscale customer committed to deploy our OCS product in calendar 2026. Our leadership in optical performance, particularly in 300 by 300 form factors, has allowed us to capture volume opportunities earlier than competitors. As a result, we are accelerating the expansion of our in-house OCS manufacturing capacity to meet the high level of demand. Our commitment to co-packaged optics, or CPO, is stronger than ever. We just received the largest single purchase commitment in company history for our ultra-high power lasers, and we have already announced additional investment in our US-based indium phosphide wafer fab to support it. Our investments in this facility will position us for a significant revenue ramp in CPO by 2026. We expect to continue to make vital contributions to US technology competitiveness through leadership in optical innovation, strategic partnerships with hyperscalers, and contribution to domestic AI infrastructure. Let me move to our 6% sequentially but was up 6% from the same quarter last year. Industrial laser declined quarter over quarter. 3D sensing declined as well, following expected seasonal trends. In Q4, ultrafast laser shipments held steady and near record levels, driven primarily by strong demand from a leading tool supplier supporting high-volume solar cell manufacturing. In the quarter, we launched the PicoBellet Core, ultrafast laser platform, which enables infrared, green, and ultraviolet wavelengths within a compact form factor for industrial micromachining applications. Despite the revenue decline in industrial tech, segment profitability improved primarily due to cost reduction initiatives we announced a quarter ago. With these actions and more focus on the core business, we expect to see improved profit margin in this segment over the next handful of quarters. In summary, Lumentum is entering a period of sustained growth driven by the rapid adoption of AI. Our strong Q4 performance highlights the effectiveness of our strategy, operational resilience, and the differentiated value of our optical solutions. Today, our components business is a key foundation of our success, and we are well positioned for significant growth in our cloud modules business and to lead in emerging technologies like OCS and CPO. As we scale production, expand capacity, and intensify our focus on high-growth, high-margin opportunities, we are confident in our ability to deliver continued top-line growth, margin expansion, and long-term shareholder value. Now I'll hand the call over to Wajid."
+  },
+  {
+    "speaker": "Wajid Ali",
+    "role": "",
+    "text": "Thank you, Michael. Fourth quarter revenue of $480.7 million and non-GAAP EPS of $0.88 were both above the high end of our revised guidance ranges. GAAP gross margin for the fourth quarter was 33.3%, GAAP operating loss was 1.7%, and GAAP net income per share was $2.96. Turning to our non-GAAP results, fourth quarter non-GAAP gross margin was 37.8%, which was up 260 basis points sequentially and up 1,000 basis points year on year, due to better manufacturing utilization and favorable product mix as a result of increased datacom laser shipments. Fourth quarter non-GAAP operating margin was 15%, which was up 420 basis points sequentially and up over 2,000 basis points year on year, primarily driven by improved cloud and networking profitability. Fourth quarter non-GAAP operating profit was $72.3 million and adjusted EBITDA was $98.7 million. Fourth quarter non-GAAP operating expenses totaled $109.3 million or 22.7% of revenue, an increase of $5.9 million from the third quarter and an increase of $7.9 million from the same quarter last year. This growth reflects annual employee cash incentives tied to company performance, along with ongoing investments to scale our operations in support of expanding cloud opportunities. Q4 non-GAAP SG&A expense was $41.7 million. Non-GAAP R&D expense was $67.6 million. Interest and other income was $3.5 million on a non-GAAP basis. Fourth quarter non-GAAP net income was $63.3 million and non-GAAP diluted net income per share was $0.88. Our fully diluted share count for the fourth quarter was 72 million shares on a non-GAAP basis. Turning to the full year results, fiscal 2025 net revenue was $1.65 billion, which was up 21% from fiscal 2024. GAAP gross margin for fiscal 2025 was 28%, GAAP operating loss was 10.9%, and GAAP diluted net income per share was $0.37. Full year fiscal 2025 non-GAAP gross margin was 34.7%, which was 450 basis points up relative to fiscal 2024 due to higher overall demand and factory utilization. Fiscal year 2025 non-GAAP operating margin was 9.7%, up 30 basis points from fiscal 2024 due to higher gross margin and improved operating leverage. Fiscal 2025 non-GAAP operating income was $160.1 million and adjusted EBITDA was $264.2 million. For fiscal 2025, our fully diluted share count on a non-GAAP basis was 71.2 million shares, non-GAAP net income was $146.4 million, and non-GAAP diluted net income per share was $2.06. Turning to our balance sheet, during the fourth quarter, our cash and short-term investments increased by $10 million to $877 million. Our inventory levels increased sequentially to support the expected growth in our cloud and networking revenue. In Q4, we invested $59 million in CapEx, primarily focused on manufacturing capacity to support cloud customers. Turning to segment details, fourth quarter cloud and networking segment revenue at $424.1 million increased 16% sequentially and 67% year on year. Cloud and networking segment profit at 23.6% increased 360 basis points sequentially and increased 1,350 basis points year on year on higher revenue and favorable product mix. Our fourth quarter industrial tech segment was at $56.6 million, which was down 6% sequentially and up 6% year on year. Fourth quarter industrial tech segment profit of 6% increased sequentially on stringent cost initiatives despite lower revenue. Industrial tech segment profit increased year on year on higher revenue and the benefit of these cost initiatives. Now let me move to our guidance for 2026, which is on a non-GAAP basis and is based on our assumptions as of today. We anticipate net revenue for 2026 to be in the range of $510 to $540 million. The midpoint of this range represents a new all-time quarterly revenue record for Lumentum. Our Q1 revenue forecast reflects the following expectations: cloud and networking expected to be up sequentially, with strong growth across our portfolio of products addressing cloud and AI applications, and industrial tech to be approximately flat sequentially with a modest decline in industrial lasers offset by a seasonal uptick in 3D sensing. We project first quarter non-GAAP operating margin to be in the range of 16% to 17.5%, and diluted net income per share to be in the range of $0.95 to $1.10. Our non-GAAP EPS guidance is based on a non-GAAP annual effective tax rate of 16.5%. These projections also assume an approximate count of 75 million shares. With that, I'll turn the call back to Kathy to start the Q&A session. Kathy?"
+  },
+  {
+    "speaker": "Kathy Ta",
+    "role": "",
+    "text": "Thank you, Wajid. To allow as many as possible an opportunity to ask questions, please speak to one question and one follow-up. Now, Reagan, let's begin the Q&A session."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Of course. We'll now begin our Q&A session. Once again, to ask a question, please press 1. As a reminder, if you are using a speakerphone, please remember to pick up the handset before asking your question. Our first question comes from Simon Leopold of Raymond James. Your line is now open."
+  },
+  {
+    "speaker": "Simon Leopold",
+    "role": "",
+    "text": "Thank you very much. Thanks for taking the question. First one, I wanted to talk a little bit about the OCS award. My recollection is that you previously suggested you'd see first revenue in December. So this is two quarters earlier than what we're thinking, and we're thinking one customer, not two. So I'd love to get an update on how to think about the trajectory in that. Should we be envisioning a very gradual ramp? How should we think about the trajectory and the potential of this new product category? Thank you."
+  },
+  {
+    "speaker": "Michael Hurlston",
+    "role": "",
+    "text": "Hey, Simon. Thanks for the question. I think we're doing a bit better than we expected, certainly, in the customer account. And now, you know, with the third customer coming online, we feel pretty good about things. The way I would characterize it is I think these current quarter, next quarter, and the December quarter are still ramping. We're ramping because we're building our capacity in Thailand to support the customers. I think that we'll start to see more meaningful revenue, meaning very, very significant revenues in Q1, Q2, and then certainly in the back half of calendar 2026. So it is a ramp. There are some gradual to it. There's a couple of inflection points. The first inflection point is probably early in '26, but then a more meaningful inflection point in the back half of '26. Right now, we're honestly limited by capacity. We're trying to ramp this thing very quickly. We see a tremendous level of demand, but we are limited by how much we can supply."
+  },
+  {
+    "speaker": "Simon Leopold",
+    "role": "",
+    "text": "Thanks. And then as a follow-up, I wanted to check in on the CPO opportunity as well. So that sounds like it's progressing. Last we spoke, it sounded like you were the only approved supplier in the ecosystem for the high-powered laser. Wondering how you're thinking about your position in that market in terms of quantifying as well as your ability to remain a sole source supplier. How's the competitive landscape? Thank you."
+  },
+  {
+    "speaker": "Michael Hurlston",
+    "role": "",
+    "text": "Yeah. Simon, you and I talked about it. We feel good about our ability to maintain a competitive moat here for two reasons. One, there's a unique power level that this laser throws off, more importantly is the reliability. And we're able to translate a lot of what we've done from undersea lasers and Raman pumps into this particular product line. It's developed it. It's leveraging a lot of the same development concepts that we had there. We feel good about the competitive moat. You called it out well. I think we said in the prepared remarks, we would expect meaningful revenue from this again in 2026. We are seeing, you know, we talked about the order of very significant order. We are seeing early shipments. So at least as far as we know, we're sole sourced. We believe we have a good competitive moat that will keep us in that position."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Thank you. Our next question comes from Tom O'Malley of Barclays. Your line is now open."
+  },
+  {
+    "speaker": "Tom O'Malley",
+    "role": "",
+    "text": "Hey, guys. Thanks for taking my question. So it sounds like the trajectory to the $600 million is moving a little bit forward to the fourth fiscal quarter. Maybe you could walk through the contributions to the $600 million. In the quarter, EMLs were a bit better, but modules were also good as well. Maybe walk through the moving parts of where you see the upside to get you that $600 million."
+  },
+  {
+    "speaker": "Michael Hurlston",
+    "role": "",
+    "text": "Yeah, Tom. I mean, I think, you know, number one, we actually expect continued strength in our components business. Our components business carried us pretty significantly this quarter. And we actually are pretty excited about that over the balance of the fiscal year. The cloud modules will definitely be a step up. I think we had a really big step up this quarter, a percent sequential gain in terms of top line. I think we'll hit a little bit of an ebb here in the next quarter. But then we'll see a pretty dramatic acceleration in cloud modules in our December, March, and June. As we said a second ago, we will also expect OCS to layer in. We start to see revenue, meaningful revenue, client contributions in the first half, significant revenue contributions for OCS in the second half. Still strength in our transport business. So it's multifaceted. But if I was going to pick the two or three areas, it would certainly start with components, cloud modules will be strong, and then I think we're going to see that revenue contribution from the optical circuit switch."
+  },
+  {
+    "speaker": "Tom O'Malley",
+    "role": "",
+    "text": "Helpful. And then I kinda wanna address a little bit of an ask top I do. So I just wanted to address a press release that came on the last week. So Apple is talking about investment in the US. And there was a press release specifically out with one of your competitors with their lasers out of a US manufacturing site. Traditionally, you guys have always been kind of first to innovate there. I was curious, do you guys see a future in which that type of business becomes more significant for you? Or do you think that this is an announcement that kind of is talking about existing infrastructure that's in place versus new opportunities that are kind of burgeoning? Thank you."
+  },
+  {
+    "speaker": "Michael Hurlston",
+    "role": "",
+    "text": "Yeah. I mean, it's an interesting one. We, in the macro, I think face ID and 3D sensing will be a minimal part of our business on a go-forward basis. The main story, Tom, as you well know, is everything we're doing in the data center with Wupen's business. That being said, interestingly, we feel like we're picking up share and decent gross margins on this cycle. And then there's some design changes that are happening in the next couple of calendar years. And to your point, we feel like we have an innovation lead. So, you know, I was on the other side of this, as you know, in Sherman. And you're right. Lumentum has a history of innovating, as long as we kind of keep that innovation engine up, I feel better than I have in a while in terms of gaining share in that business and actually increasing top line and margin in that business."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Thank you. Our next question is from Samik Chatterjee of JPMorgan. Your line is now open."
+  },
+  {
+    "speaker": "Samik Chatterjee",
+    "role": "",
+    "text": "Hi. Thanks for taking my questions and congrats on the results here. Maybe for my first one, Michael, if I can press you a bit on the timing of the $600 million revenue guide here for fiscal Q2 2026? Because you did have a strong sort of $50 million plus quarter over quarter increase into the June and now you're guiding it for September to, like, a $40 million increase at the midpoint. $40 million or more, and I'm just wondering, given your comments about acceleration in terms of Datacom chips, with more capacity coming on and there's the cloud-like business as well, into December and March. Is there any other part of the business that necessarily slows down to sort of push that timeline to the June, or is there a potential of achieving that target in March itself? I have a follow-up."
+  },
+  {
+    "speaker": "Michael Hurlston",
+    "role": "",
+    "text": "Yeah. I good very good question. I think there was a very key parenthetical phrase that we had saying the June or earlier. That was that's an important phrase. Look. We feel pretty good about the business across the board. You know, I think we're still in the early innings of our cloud module business. We feel like we're just beginning to scratch the surface in terms of picking up share on that. We talked about OCS in some of the previous questions. We really, really feel good about that business. You called out in your comments on components, you know, that's going gangbusters. You know, outside of, you know, our industrial tech business, which is obviously had some headwinds in Wupen's platform. I don't think there's a single sector right now that I could point to that said we're gonna be down. So, you know, our slope is definitely up, and you can kind of draw your own conclusions to where you think we end up. But we definitely are on a pretty good run-in the moment."
+  },
+  {
+    "speaker": "Samik Chatterjee",
+    "role": "",
+    "text": "Got it. That's for my follow-up, any thoughts?"
+  },
+  {
+    "speaker": "Michael Hurlston",
+    "role": "",
+    "text": "Yes, please. And my follow-up was really on sort of any thoughts you have on the semiconductor tariffs or section 232 investigation, whatever you want to call it, and in relation to sort of speculation around 100% tariffs on semiconductors given your fabs in Japan. And I did see you made an announcement of additional here in the US advanced optics, and how you're thinking about the likelihood of being exempted from any potential tariffs on the semiconductor side given your location of fabs? Any thoughts on that would be useful. Thank you."
+  },
+  {
+    "speaker": "Wajid Ali",
+    "role": "",
+    "text": "Yeah. I mean, Samik, as you can see and during the quarter, the tariff situation is pretty fluid. And, you know, there's a lot has happened even after we announced our updated guidance in June. But having said that, we've gone back and taken a look at the new regulations that have come out and taken a look at the exempted categories that are in the appendix to that new guideline and we've determined that our products are exempted from any of the tariffs that would be applicable, you know, in that new guidance. So we're fairly confident that we will not be impacted. But like I said, you know, things are fluid. We thought we would have a 100 basis point at the beginning of Q4, up to 100 basis point negative impact from tariffs. And yet, in Q4, we actually had, you know, minimal impact of tariffs. Even in Q1, we put in a little bit just in case something new pops up in the remaining part of August and September. And we'll see, you know, at the end of the quarter where that ends up. But for now, no material changes in our business operations or the impact from tariffs would be our view."
+  },
+  {
+    "speaker": "Kathy Ta",
+    "role": "",
+    "text": "Thanks, Samik. David, we'll take our next question."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Of course. Our next question is from Blayne Curtis of Jefferies. Your line is now open."
+  },
+  {
+    "speaker": "Ezra Weener",
+    "role": "",
+    "text": "Hi. Ezra Weener on for Blayne. Thanks for taking my question. I guess a two-parter instead of a follow-up. But first, you talked about a big 200 gs EML order in December. And then also discussed that you're gonna see a big ramp next year in a 100 g and 200 g. You talk a little bit about what you're seeing timing-wise between the two of those and that transition? And then the follow-up question is kind of your lead times and visibility into both demand in those ramps and kind of inventory? For both of those?"
+  },
+  {
+    "speaker": "Michael Hurlston",
+    "role": "",
+    "text": "Yeah. I'll take that, and then I'll have Wupen add some color. So, you know, first thing that I would say is, obviously, the 100 gig is run rate. We're shipping that right now, it primarily goes into 800 gig transceivers and we feel like that is continuing to go well. We're seeing those numbers climb. We're seeing our EML shipments on a 100 g gig continue to climb. 200 gig is more associated with the 1.6 t. And we're starting to see early ramp of 1.6 t. So this now is related to our components business. I think our module business as it pertains to 1.6 t would feather in next year. But we are starting to see early shipments of 200 gig per lane into 1.6 t transceivers. That's additive business, so we see that on top of what we already have. For the 100 gig. The 100 gig will continue to climb. And then the 200 gig will layer in on top of that. So we talked about through the questions and even in the prepared remarks the strength in our components business. We have a baseline of a 100 gig. We have a nice layering of 200 gig per and then we layer on top of that this co-packaged optics opportunity we feel really, really strongly about. So there's a nice effect here in our components business that's obviously a nice margin driver for us. Wupen, wanna comment a little bit on the dynamics?"
+  },
+  {
+    "speaker": "Wupen Yuen",
+    "role": "",
+    "text": "Yeah. Thank you, Michael. Yeah. Definitely, I think it's really important to keep in mind that there's no transition, you know, down and up kind of situation. It's layered on top of. So energy is running very, very strong. Most hyperscalers are still on the end to g platform and for probably the next couple of years at a minimum. 1.6 just getting started, so it's really additive to our revenue going forward. And then our visibility into the future business actually is really good. We have, you know, six to nine months of visibility, if not longer. And then if the general consensus, what we can see in the market is that we are in a supply-constrained situation. And, therefore, we would anticipate basic demand will continue to be very, very strong, and we continue to see very good visibility going forward. And, of course, given that situation, inventory is very low. And we're basically shipping everything that we can make and try to keep our customers satisfied for their deployment."
+  },
+  {
+    "speaker": "Kathy Ta",
+    "role": "",
+    "text": "Yeah. So did you have a follow-up question?"
+  },
+  {
+    "speaker": "Ezra Weener",
+    "role": "",
+    "text": "Nope. That was it. Ask my two."
+  },
+  {
+    "speaker": "Kathy Ta",
+    "role": "",
+    "text": "Okay. Alright. Thanks, Ezra. Megan, we'll take our next question, please."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Of course. Our next question is from Christopher Rolland of SIG. Your line is now open."
+  },
+  {
+    "speaker": "Aaron Nachtel",
+    "role": "",
+    "text": "Hi. This is Aaron Nachtel in for Chris Rolland. Thanks for taking my question. On the EML competitive landscape, there are a few EML players out of Japan in addition to your largest competitor. How do you believe you are positioned to retain your edge and leadership here?"
+  },
+  {
+    "speaker": "Michael Hurlston",
+    "role": "",
+    "text": "Yeah. Look. I think there are two dimensions in the EML business. One is certainly performance. And I think if you look at our design, it is the best performing. And where that translates is in module yield. Our customers typically report a significantly higher yield on their cloud modules using our EMLs over competitors. That allows us some pricing latitude, which has been super favorable. We tend to be able to use that to great effect. We feel like we talked about 200 gig. We feel like we're leading on technology innovations. 200 gig, CPO, as Wupen described in the last call, these are all layering on top of each other. The second element is obviously capacity. And we are the biggest supplier in terms of capacity. We have our fab in Japan is outputting more EMLs than I think any other location. So we really feel good about our ability not only to lead technically, but also to lead operationally. And that's giving us a pretty nice tailwind as we head into the next handful of quarters."
+  },
+  {
+    "speaker": "Aaron Nachtel",
+    "role": "",
+    "text": "Do you have any follow-up?"
+  },
+  {
+    "speaker": "Aaron Nachtel",
+    "role": "",
+    "text": "Yeah. At your investor briefing at OFC, you had a slide where you showed your segment mix at over $500 million of revenue. And at that level, telecom and datacom both represented 45%. And given the September guide, how are you tracking to that mix?"
+  },
+  {
+    "speaker": "Wajid Ali",
+    "role": "",
+    "text": "We're tracking pretty well in line. Data is probably running a little bit ahead of telecom. Not really demand determined, more related to some of the supply constraints we have on the telecom side that we are looking to close on. So I think from a demand standpoint, the forty-five and forty-five are correct. But in terms of what we're actually shipping, we're a little bit more tuned to Datacom because some of the capacity improvements on the telecom side still need to happen for us."
+  },
+  {
+    "speaker": "Wupen Yuen",
+    "role": "",
+    "text": "But there is an underlying, you know, the demand's really mostly coming from the hyperscalers and on the cloud. So even though the customers are traditional telecom customers, but the source of demand is really from the cloud. That I think that's a very important dynamic, you know, that we should consider our business going forward."
+  },
+  {
+    "speaker": "Wajid Ali",
+    "role": "",
+    "text": "That's a good point. Well said."
+  },
+  {
+    "speaker": "Kathy Ta",
+    "role": "",
+    "text": "Thank you. Megan, I think we'll take our next question."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Thank you. Our next question is from Meta Marshall of Morgan Stanley. Your line is now open."
+  },
+  {
+    "speaker": "Meta Marshall",
+    "role": "",
+    "text": "Great. Thanks. Apologies for the background noise. Just a couple of questions for me, and I'll save them both at once. Just in terms of kind of the, you know, you had a lead customer on the up to transceiver side. You clearly talked about kind of supplying the additional two customers that order. Just how should we think about kind of the ramp of additional help? Customers just given kind of how strong the demand of customer one has been? And then maybe just as a second question, you know, particularly strong gross margins this quarter. Just trying to get a sense of like, directionally, is that more mix? Is it more yield improvement? Just how to kind of think about kind of capacity for that increase further."
+  },
+  {
+    "speaker": "Michael Hurlston",
+    "role": "",
+    "text": "Yeah. Meta, thanks for the question. Look. On cloud modules, we're obviously trying to be disciplined. We're continuing to focus on opportunities that yield the highest margins for us. And we also are somewhat constrained in terms of our ability to produce. So we are focused on these three customers. Our capture rate of additional customers probably in the near term will be modest. I think we're going to continue to look at these three guys, both in terms of the high-value SKUs that we can deliver to them. And, again, just because our capacity, both from an engineering capacity and from manufacturing capacity, is somewhat constrained. That being said, we still expect to grow and actually grow very significantly in that business over the coming handful of quarters. The second part of the question was on gross margins. Yeah. Look. It's a big focus for us. I think we saw improvement on mix. Mix was some of it because of the components business, but a lower piece of our business, lower margin piece of the business. Cloud modules contributed about half the growth and still we showed margin improvement. And we continue to be on that trajectory. We're spending a lot of time, Wajid and I, together with Wupen and his general manager of yours, are very, very focused on cost improvements of all of our products, pricing when we can apply leverage when it's appropriate. And we would expect to see some more significant gross margin step-ups in the ensuing quarters. But this is a big, big area of focus for us."
+  },
+  {
+    "speaker": "Kathy Ta",
+    "role": "",
+    "text": "Thank you, Meta. Great. Thank you. Megan, I think we'll take our next question."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Of course. Our next question comes from Ryan Kuntz of Needham and Company. Your line is now open."
+  },
+  {
+    "speaker": "Ryan Kuntz",
+    "role": "",
+    "text": "Great. Thanks. Wanna ask about the telecom side of the world. Obviously, ZR is the main driver there. I wonder if you have any commentary on how fast you think that market's growing. Can you expand on your opportunities in that market from a component perspective? And how you think about that business, you know, over the next twelve, eighteen months? Thank you."
+  },
+  {
+    "speaker": "Michael Hurlston",
+    "role": "",
+    "text": "Yes. I mean it's been a big story for us. I'll let Wupen add color here. But obviously, our narrow line with white lasers which are a key component in ZR and ZR plus modules, have done very, very well. We said in the prepared remarks we're capacity limited. We are. We're sold out for really the balance of the fiscal year, to be honest with you at this point. So that has been where we played. Our actual modules have not done as well. Or when we've actually tried to sell ZR plus modules ourselves, we've not done as well. It's definitely a margin hit to the company, so we are focusing where we can on selling components into the DTI market. Wupen, you wanna add some color on how you're thinking about it?"
+  },
+  {
+    "speaker": "Wupen Yuen",
+    "role": "",
+    "text": "Sure. First of all, I think the ZR market is growing very rapidly. There's a very, I would say, a general trend now for most of the hyperscalers to resort to the ZR and the architecture. Moving away from traditional transponder-based architectures. So we think that as a market, the ZR pluggable modules is a long-term trend that continues to go up. From a growth rate perspective, we're seeing we're forecasting roughly about 30% volume annual growth rate. Number one. Number two, that, you know, with the PCI traffic not growing rapidly, to carry the AI traffic, we see the 800 ZR now are starting to be of interest to multiple hyperscalers. And as Michael said, you know, we're not so focused on the module side. We're definitely looking for opportunities on the component side to participate continuously going forward in the 800 ZR market as well."
+  },
+  {
+    "speaker": "Ryan Kuntz",
+    "role": "",
+    "text": "Thanks, Ryan. Did you have a follow-up?"
+  },
+  {
+    "speaker": "Ryan Kuntz",
+    "role": "",
+    "text": "Yeah. Just a quick question about transceivers. And, you know, share for EML designs versus, you know, VCSEL and silicon photonics and do you pick up any share shifts from a demand perspective going on with this migration to higher speeds maybe up to the AI infrastructure? Thank you."
+  },
+  {
+    "speaker": "Michael Hurlston",
+    "role": "",
+    "text": "Yeah. I mean, again, I'll have Wupen add color here, Ryan. But we keep hearing noise of this, and frankly, we're not seeing it. I mean, we are sold out on our EMLs again, for the balance of the year. We're, you know, customers are coming to us for allocation. We're actually just trying to pick and choose. We only have so much capacity, and it's actually sold out. The silicon photonics is doing well. There's no doubt about it. It's layering into the data center. But it has not impinged on EML demand in any way. Wupen, how are you thinking about it as you think about 1.6 t and beyond? How are you thinking about these things feathering?"
+  },
+  {
+    "speaker": "Wupen Yuen",
+    "role": "",
+    "text": "Yeah. Thank you, Michael. So I think number one, as we talked about earlier, right, there's major supply constraint. So in the sense that silicon photonics versus EML depends on what laser you can get. You know, that would dictate your solutions that you would be able to deploy. That's actually really happening now in the 100 g per lane speed products. Now going forward, 200 g per lane, 1.6 is just getting started. Certainly, there are, you know, equal amounts of EML-based design and silicon photonics-based design. I think a similar dynamic will play out. I think we're at a very early phase of 1.6. I would say that probably at this point, it's, you know, both technologies are being deployed. So, again, I think the supply situation will determine to a large extent what technology will be used in reality."
+  },
+  {
+    "speaker": "Kathy Ta",
+    "role": "",
+    "text": "Thanks, Ryan. Thanks, Megan, we'll take our next question."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Thank you. Our next question comes from David Voigt of UBS. Your line is now open."
+  },
+  {
+    "speaker": "David Voigt",
+    "role": "",
+    "text": "Great. Thanks, guys, for taking my question. I have two questions. Thank you. So maybe Gus, can you talk about where you actually stand from an EML wafer fab capacity? I know in the past you've talked about expanding capacity by, I think, upwards of 40%. And I think I just heard Michael say that we're completely sold out. So where do we stand today? And how do you think that kind of plays out? And then along those lines, the second question is related. When you think about the pricing dynamics, given the limited supply of wafer chips going forward, how much should we think about that being an impact on gross margin going forward from a pricing perspective?"
+  },
+  {
+    "speaker": "Michael Hurlston",
+    "role": "",
+    "text": "Yeah. I think, you know, let me talk a little bit about the capacity. We are still transitioning from three-inch to four-inch wafers. So that's something that's undergoing. We think we can bump our capacity by completing that transition. And that will give us another leg up in terms of capacity. We definitely feel like the economics are in our favor. Right? There's limited supply. There's a lot of demand. And we do feel like there's a price lever. We've been very careful because there's only a handful of customers that are there. But as we think about the situation over the next handful of quarters, I do think Wajid and Wupen are thinking about how to make this work out more equitably. Right? Given that we have finite capacity, and a lot of demand, price, I do think, will become more of a meaningful discussion in the next handful of quarters."
+  },
+  {
+    "speaker": "Wajid Ali",
+    "role": "",
+    "text": "And, David, just to be clear, those pricing discussions are not incorporated into Michael's earlier comments around 40% gross margins as well as our comments about achieving $600 million quarterly revenue. Pricing increases would be upside to that. And I will also comment that while capacity ramping continues, we have made an investment into the backside, and we believe it's a strategic investment for us. So we are looking at, you know, a few times the capacity over the next several years, as we transition also over to the six-inch wave India box by substrates as well."
+  },
+  {
+    "speaker": "David Voigt",
+    "role": "",
+    "text": "Sounds great. That's helpful. Kathy, can I sneak one more in?"
+  },
+  {
+    "speaker": "Kathy Ta",
+    "role": "",
+    "text": "Sure. Yeah. Why don't you go ahead?"
+  },
+  {
+    "speaker": "David Voigt",
+    "role": "",
+    "text": "Yeah. Just on OCS, obviously, it's exciting to hear about a second customer and then a third customer coming online. How should we think about sort of the arc of the profitability of that particular product offering as it expands from one hyperscaler to two to three into next year? Is this kind of a corporate average kind of product cycle? I'm just trying to think how we should think about what the impact is in '26 and '27."
+  },
+  {
+    "speaker": "Michael Hurlston",
+    "role": "",
+    "text": "From OCS. Yeah. It's significantly above corporate margin averages. So it will most definitely be accretive. And there's some, you know, with any factory, you've got ramps and how we absorb the factory. But assuming a reasonable level of volume and reasonable level of volume as we've described, starts really in 2026. Will be accretive to our margin line."
+  },
+  {
+    "speaker": "Kathy Ta",
+    "role": "",
+    "text": "Okay. We'll go to the next question, please."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Of course. Our next question is from George Notter of Wolfe Research. Your line is now open."
+  },
+  {
+    "speaker": "George Notter",
+    "role": "",
+    "text": "Hi, guys. Thanks very much. I was curious about just the capacity expansion down at the Nava facility. Any insights you can give us there on in terms of scale, capacity, new additions would be great."
+  },
+  {
+    "speaker": "Michael Hurlston",
+    "role": "",
+    "text": "Yeah. We are obviously we fill we've built a new building in Nava. That building has three floors. We've actually started to outfit the First Floor. And we feel like even given the volumes that we're seeing from our hyperscale customers, in dealing with that First Floor. That should be able to, one, meet the demand levels that we're seeing. And, two, give us some flexibility as you know George, right now, a lot of our cloud modules are coming from China. That will give us some flexibility from a manufacturing footprint to move to Thailand and, you know, help should the tariff situation change. So it is early innings. We'd expect that to come online sometime next year. Where we'd have that additional capacity available to us from a manufacturing standpoint."
+  },
+  {
+    "speaker": "George Notter",
+    "role": "",
+    "text": "Got it. Super. And then one other quick one. I think you mentioned at one point you were looking at doing some portfolio cleanup or adjustments. Is that something that you are indeed looking at? Is there any timelines or things you might be particularly focused on there? Thanks."
+  },
+  {
+    "speaker": "Michael Hurlston",
+    "role": "",
+    "text": "Yeah. We'll we announced some changes, I think, in my first earnings call around metrology, X-ray, and which shuts some of those businesses down. This is an ongoing process. We actually as you know, we're just starting our fiscal year. Wajid and I have set the AOP. There will be some portfolio management that will be part of that, and we'll be talking about that, I think, in subsequent calls. But it's an important tenet of our strategy is to really try to focus on our cloud networking business under Wupen as much as possible. And really figure out the parts of his portfolios that are gonna be the most profitable and lead to the longest-term growth. So we will have some discussions, I think, in the next couple of calls around some portfolio management moves that we are in the middle of at the moment."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Thank you, George. And, Megan, we'll take our next question."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Of course. Our next question is from Vivek Arya of Bank of America. Your line is now open."
+  },
+  {
+    "speaker": "Vivek Arya",
+    "role": "",
+    "text": "Thanks for taking my question. Michael, how large is the cloud module business now, and how large does it need to be for your quarterly sales to get to $600 million? And at that point, you know, will it be levered to a single customer, or will it have multiple customers?"
+  },
+  {
+    "speaker": "Michael Hurlston",
+    "role": "",
+    "text": "Yeah. I mean, I'll let Wajid and Kathy sort of describe the size. I mean, I think we've discussed it with you, Vivek, at the last conference. The number went up 50%. And we would expect it to grow, as we said in the prepared remarks. I think that from here, it doesn't actually need to grow a whole lot for us to get to the $600 million number. Previous caller said, look. You guys are at $525 at the mid. Right? It's another $75 million of incremental growth. And we've said that we would expect components to contribute to that. We would expect OCS to contribute to that. So I do think that this cloud module business will grow. It is continuing to grow. We are being disciplined about it. Wupen is being super smart about which opportunities he takes and which he doesn't. We are expecting revenue contributions from our largest customer, from our second largest customer, and frankly, from our third largest customer. But I think it was Meta that asked at least right now, for the next handful of quarters, we do not expect to add customers beyond these three."
+  },
+  {
+    "speaker": "Vivek Arya",
+    "role": "",
+    "text": "Does that give a follow-up question?"
+  },
+  {
+    "speaker": "Vivek Arya",
+    "role": "",
+    "text": "Yes. Thank you, Kathy. So a follow-up on gross margins. How are you thinking about gross margins heading into September? Then when you do get to the $600 million quarterly run rate, do you think gross margins can get close to 40%? Or is there a different mix that we should be thinking about? Thank you."
+  },
+  {
+    "speaker": "Wajid Ali",
+    "role": "",
+    "text": "Yeah. No, Vivek. So we've been able to improve our gross margins sequentially for the last number of quarters. You know, the most recent quarter, we were at 37.8%. We'll probably see a little bit of a nudge up as we approach the $600 million of revenue, to that moving into Q1. Like Michael mentioned, we don't actually need a lot of growth in cloud modules to get there. You know, probably in the range of $20 or $25 million is about all we need in order to be able to get to the $600 million target. So because of that, and the focus really being on the components business getting us to $600 million, we should see a nudge up again on gross margins, you know, getting as close to the 40% that we outlined in the April OFC presentation where we said that we thought at $100 million would be between 37-40%, and, you know, just given the mix that we're seeing in front of us, we should be at the higher end of that range when we get to $600 million. You've gotta remember, Vivek, one of the things that's actually a headwind to our margins right now is that we're spending about 150 basis points every quarter just on NPI. And so as we're ramping these second and third customers that we're not recognizing revenue for at this point in time, both in Cloud Modules and OCS, is a significant amount of NPI costs that are not being absorbed by inventory right now. And so as the business grows, you know, some of that NPI cost as a percentage of revenue should come down. So that'll certainly help us as well."
+  },
+  {
+    "speaker": "Kathy Ta",
+    "role": "",
+    "text": "Thanks, Vivek. Thank you. I think we have time for one more question, Megan. So just give me one more question and then pass the call back to me."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Of course. Our last question for today's call is from Ananda Baruah of Loop Capital. Your line is now open."
+  },
+  {
+    "speaker": "Ananda Baruah",
+    "role": "",
+    "text": "Yeah. Thanks, guys. Appreciate it. I guess maybe, this could be Michael and Wajid. It's just kind of sticking there. Is there a sort of theoretical mix of transceivers, of modules, relative to components that you think about as you've seen Michael the last handful of months sort of this new model, how they come into shape. Would love to get any thoughts there. And recognizing it could change over time, but just whenever your current thoughts are. Thanks."
+  },
+  {
+    "speaker": "Michael Hurlston",
+    "role": "",
+    "text": "Yeah. I mean, I don't know that we think about it that way. What I would say is, you know, we are going to continue to be selective in the growth in the cloud modules that we take on. We are limited to these three customer engagements we have. And within those customer engagements, we've asked Wupen to be very smart about which of these opportunities he prosecutes. So, you know, we expect to continue to grow this business, and I would say grow it relatively significantly throughout this fiscal year. And as Wajid just elucidated, we do expect to grow gross margins as well. This will be a gross margin drag. I mean, I think in our best case, we've said to people, we expect this business to be maybe pushing 30% gross margin in the asymptote. We will see a drag from it. So we want to limit how much we do there. We want to focus on the components. Focus on OCS. Focus on the CPO opportunity. Beyond that, obviously, Wupen is keenly, keenly focused on scale-up, which is another component opportunity. But we do think that this can help us from a cash flow perspective and from a revenue growth perspective, at least for the next four to eight quarters. Wajid, do you have any additional color?"
+  },
+  {
+    "speaker": "Wajid Ali",
+    "role": "",
+    "text": "No. I think that's right. At least as it relates to the $600 million a quarter, thinking about it as being about 15% to 20% of company revenues, is probably the right level. And then network interconnect or sorry, cloud interconnect, our datacom chip business, really growing with our supply. And so as the supply improvements happen, three-inch to four-inch that Michael talked about, as well as some new CapEx that we've got coming in both in our fiscal Q3 and Q4, that business should naturally grow along with the 200 gs PML. So the cloud interconnect business, the Datacom laser business, will be larger as part of the $600 million mix than our cloud module business will be."
+  },
+  {
+    "speaker": "Wupen Yuen",
+    "role": "",
+    "text": "And also, right, I think the component business is not just the cloud chip business. Right? It's also other laser business, which is also gonna grow meaningfully. Right? So I think the future of the growth is, again, in the context of $600 will be some portion coming out of the module as Wajid talked about and Michael talked about, but also a meaningful chunk of the coming from component, not just cloud component per se, but also so-called telecom component that goes into DCI that also supports the AI machine learning growth. Excellent. So all these areas are gonna be growing, and then keeping it, they uplift the gross margin."
+  },
+  {
+    "speaker": "Kathy Ta",
+    "role": "",
+    "text": "Thanks, Ananda. Do you have one follow-up that we can?"
+  },
+  {
+    "speaker": "Ananda Baruah",
+    "role": "",
+    "text": "Thank you. I guess the question would be just OCS in terms of materiality. I think Michael made comments back at OFC that in some context that it could be a noticeable product line. Just wanted to know, sort of get his context about, you know, how noticeable it could be over time. Thanks."
+  },
+  {
+    "speaker": "Michael Hurlston",
+    "role": "",
+    "text": "Yeah. I mean, look. We are very optimistic that this will be, you know, a multi $100 million contributor for us. So, you know, what and in what time frame? It's becoming increasingly, sharply clear that it's sooner rather than later. But, you know, we haven't put a time frame on that. But, certainly, the opportunity for us is measured in multiple 100 millions. And we feel pretty good about that just being able to step into that TAM in a meaningful way."
+  },
+  {
+    "speaker": "Kathy Ta",
+    "role": "",
+    "text": "Alright. Thanks so much, Ananda. Great. That's all the time we have for questions. Thank you. We look forward to connecting with you at upcoming investor conferences and meetings this quarter. And with that, I'd like to thank you all for joining us today."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Thank you. That'll conclude today's call. Thank you for your participation. You may now disconnect your line."
+  }
+]

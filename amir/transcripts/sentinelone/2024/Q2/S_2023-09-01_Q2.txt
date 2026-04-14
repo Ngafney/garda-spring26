@@ -1,0 +1,293 @@
+Operator
+Good afternoon. Thank you for attending today's SentinelOne Q2 fiscal year '24 earnings conference call. My name is Cole, and I'll be the moderator for today's call. All lines will be muted during the presentation portion of the call with an opportunity for questions and answers at the end.
+[Operator instructions] I would now like to turn the conference over to our host, Doug Clark. Please go ahead.
+Doug Clark
+--
+Vice President, Investor Relations
+Good afternoon, everyone, and welcome to SentinelOne's earnings call for the second quarter of fiscal year '24 ended July 31st. With us today are Tomer Weingarten, CEO; and Dave Bernhardt, CFO. Our press release and a shareholder letter were issued earlier today and are posted on the investor relations section of our website. This call is being broadcast live via webcast, and an audio replay will be available on our website after the call concludes.
+Before we begin, I would like to remind you that during today's call, we'll be making forward-looking statements about future events and financial performance, including our guidance for the third fiscal quarter and full fiscal year '24, as well as long-term financial targets. We caution you that such statements reflect our best judgment based on factors currently known to us and that our actual events or results could differ materially. Please refer to the documents we file from time to time with the SEC, in particular, our annual report on Form 10-K and our quarterly reports on Form 10-Q. These documents contain and identify important risk factors and other information that may cause our actual results to differ materially from those contained in our forward-looking statements.
+Any forward-looking statements made during this call are being made as of today. If this call is replayed or reviewed after today, the information presented during the call may not contain current or accurate information. Except as required by law, we assume no obligation to update these forward-looking statements publicly or to update the reasons actual results could differ materially from those anticipated in the forward-looking statements, even if new information becomes available in the future. During this call, we will discuss non-GAAP financial measures unless otherwise stated.
+These non-GAAP financial measures are not prepared in accordance with generally accepted accounting principles. A reconciliation of the GAAP and non-GAAP results is provided in today's press release and in our shareholder letter. These non-GAAP measures are not intended to be a substitute for our GAAP results. Our financial outlook excludes stock-based compensation expense, employer payroll tax on employee stock transactions, amortization expense of acquired intangible assets, acquisition-related compensation costs, restructuring charges, and gains on strategic investments, which cannot be determined at this time and are, therefore, not reconciled in today's press release.
+And with that, let me turn the call over to Tomer Weingarten, CEO of SentinelOne.
+Tomer Weingarten
+--
+Chief Executive Officer
+Good afternoon, everyone, and thank you for joining our fiscal second quarter earnings call. We reported strong second quarter results and exceeded our expectations on all key metrics, including ARR, revenue, gross margin, and operating margin. We're also raising our outlook for revenue and margins for the fiscal year '24. I'm proud of the resilience, dedication, and execution of our teams.
+Our performance also reflects the progress we're making toward enhancing business processes, operations, and cost discipline. We pioneered the world's first purpose-built AI-powered cybersecurity platform to deliver autonomous defense for the enterprise. We introduced the industry to the first-ever autonomous AI agent with a fully integrated data and security platform and self-healing capabilities. We've established a noble and transformative approach to cybersecurity, a unified data and security platform across attack vectors.
+Once again, we're leading the industry by incorporating generative AI into cybersecurity through Purple AI, supercharging security operations. Superior technology is the foundation of how we help our partners and our customers build more resilient enterprises with streamlined operations, less product complexity, best-in-class security, and a leading return on investment. Our competitive success is a direct result of our innovation and technology leadership. We're in the early innings of taking market share and mindshare of a massive $100 billion addressable market ripe for disruption.
+As always, please read our shareholder letter published on the investor relations website, which provides more detail. Let's review the details of our second quarter performance, which exceeded our top- and bottom-line expectations. Our ARR grew by 47% year over year to $612 million, reflecting net new ARR of $49 million in the quarter. Our gross margin reached a new record of 77%.
+Since our IPO just two years ago, we've expanded our gross margin by more than 20 percentage points. We're now operating within our long-term gross margin target range. This important achievement reflects the scalability of our business model, driven by our strong unit economics and price discipline. We're making significant progress in improving our operating and free cash flow margins.
+We've proactively streamlined our cost structure to ensure our path to profitability. Our operating margin expanded by 34 percentage points, driven by higher scale and cost discipline. We've delivered margin improvement at a staggering pace. Q2 marked our eighth consecutive quarter of more than 25 percentage points of year-over-year operating margin expansion.
+Let me also highlight the remarkable improvement we've made to our free cash flow profile, delivering 55 percentage points of expansion compared to just a year ago. The level of margin improvement we're delivering is a rarity among public companies. With strong liquidity of more than $1 billion in cash and equivalents, we will build on this progress. We're confident in achieving positive free cash flow in the second half of our next fiscal year.
+Looking beyond key financial metrics, our competitive differentiation and superior platform value is resonating with customers. We continue to win in the significant majority of competitive evaluations. Our win rates remain strong, including against large next-gen competitors. Our single platform architecture helps enterprises consolidate spend, point products, and consoles.
+We're addressing the most important needs to enterprises: reducing complexity, streamlining operating efficiency, and delivering better security, all through AI and automation. I'm especially pleased with the positive feedback from our customers. As captured by Gartner Peer Insights, hundreds of customers provided favorable feedback on the Singularity platform. We achieved top-tier ranking, not only in EDR, but also in MDR and Cloud Workload Protection categories, outperforming even the largest vendors in the space.
+As evidenced by these results, our technology delivers on our promise to our customers. In Q2, we added about 700 new customers, and our total customer base now exceeds 11,000. Remember that this number does not include the customers served by our MSSP partners, so it is understated, especially as more enterprises turn to MSSPs for many security services. Customers with more than $100,000 in ARR grew 37% year over year, much faster than our total customer growth, and customers with more than $1 million in ARR grew even faster.
+Our momentum with large enterprises and platform adoption continues to drive higher ARR per customer. In Q2, we secured many large customer wins across U.S. federal agencies, to global healthcare companies, and technology pioneers, spanning both endpoint and cloud footprints. Our Singularity platform helps enterprises simplify cybersecurity by consolidating multiple vendors in disjointed platforms.
+Let me highlight two examples. First, a large enterprise selected our unified platform to replace a total of seven different security vendors, including the two largest endpoint vendors. The security team at this enterprise was grappling with the challenge of managing multiple solutions and consoles. Following hands-on experience, the customer selected our Singularity platform for EDR, with five additional modules.
+Through autonomous protection in a single console, we deliver better security and superior customer experience. In another multimillion-dollar win from the quarter, a global healthcare enterprise selected SentinelOne's unified platform to integrate multiple security ecosystem products and bring them together, replacing the closed garden approach of their incumbent vendor. The customer valued SentinelOne's open platform that unites security data and actions, future-proofing their enterprise security posture. Our platform approach continues to be a source of growth through expansion, driving a net retention rate of more than 115%.
+As a reminder, our NRR now includes legacy products from the acquisition of Attivo Networks a year ago. The inclusion of Attivo and macro-driven budgetary constraints are impacting our near-term expansion rate. We believe this is temporary. Over the long term, we see significant platform expansion potential based on high customer retention rates, expanding product categories, and early stage adoption from our installed base.
+Our NRR expansion was driven by continued license and module adoption. Singularity Cloud remained our fastest-growing solution in Q2, followed by strong contributions from Singularity Data Lake, Vigilance MDR, and Ranger. Overall, module adoption remains a meaningful opportunity for growth, and we're beginning to see opportunities for large security data deals, another massive market opportunity that is ripe for disruption. Our platform solutions beyond the endpoint continue to drive more than a third of our quarterly bookings in Q2, illustrating the diversity of our business mix.
+On to our partner ecosystem. We achieved another quarter of standout growth with our MSSP partners in Q2. Businesses are increasingly turning to managed security to elevate protection, address cybersecurity talent shortages, and better align cost structures. Despite recent macro-related industry headwinds, the demand for managed security remains strong.
+Our large partners continue to expand their business with SentinelOne through additional licenses and modules. In a multimillion-dollar deal from the quarter, we quadrupled our business with a fast-growing MSSP partner compared to just a year ago. From the beginning, we've built our business by enabling our partners, instead of competing with them. Our differentiated platform capabilities such as multitenancy, automation, and remote management make SentinelOne a foundational platform for MSSPs, who are building their practices on top of our technology.
+One of our strategic partners, Pax8, recently recognized SentinelOne's significant impact with its Pax8 Most Valuable Vendor Award. We're still in the early innings of a massive business expansion opportunity with our MSSP partners. Overall, our quarterly performance reflects strong execution by our teams. Our proactive efforts to enhance operational efficiencies are showing measurable improvements.
+We've expedited our deal close processes and cash collections, all while growing the average deal size. Over the last few years, our product portfolio has evolved from endpoint to a broad security platform, covering endpoint, cloud, identity, and data. Similarly, our go-to-market framework is evolving toward a full enterprisewide security platform. The actions we've undertaken are yielding positive results, but there's always more work to be done.
+As we continue our journey toward surpassing $1 billion in ARR and achieving profitability, our focus remains on continuously sharpening our execution, from training and enablement to support and services. We're in a terrific position to disrupt the $100 billion security and data market opportunity, and we're raising our full year growth and margin guidance to reflect a stronger outlook and better execution. Let's turn the discussion to the market environment and the wave of secular tailwinds behind cybersecurity. Global macroeconomic conditions and the broader demand environment remained consistent with the trends we discussed last quarter.
+Enterprises continue to rightsize their security investments based on near-term budget constraints. We've seen a proliferation of cyber incidents, new software vulnerabilities, and an uptick in the use of AI-based attack methods. The evolving cyberthreat landscape and sophistication of modern attacks have exposed the shortcomings of key cybersecurity vendors and reinforced the structural importance of AI-powered autonomous scalable security. In a recent cyber incident linked to China, attackers gained access to user authentications, opening the door to a range of Microsoft applications and services.
+In addition to the vulnerability Microsoft Defender couldn't defend, the hackers were able to use the stolen keys to access government and corporate accounts. It's no surprise, Microsoft solutions are known to be riddled with vulnerabilities, which are accompanied by cybersecurity that has been repeatedly breached. Lawmakers and security experts are questioning the significant shortcomings of Microsoft's cybersecurity and are asking for an investigation into the company's security practices. Numerous incidents such as this underscored that inadequate and legacy security solutions are exposing enterprises to enormous costs, business disruptions, and brand reputation concerns.
+Increasingly, cybersecurity is an executive and board-level priority as governments begin to require a high level of oversight and disclosure. The U.S. Securities and Exchange Commission established new rules to require public companies to regularly disclose matters related to cybersecurity risk and to report material cybersecurity incidents. All of this, once again, shines a spotlight on the structural importance of a blazing-fast and AI-driven cybersecurity platform, as well as the collection and retention of all enterprise log data.
+In today's evolving threat landscape, point solutions are falling out of favor. Security vendors that focus on a narrow set of data sources or attack vectors are unable to furnish comprehensive and cost-effective protection. Customers are seeking to consolidate not only their security vendors but also their security consoles and data in order to gain a unified view of the enterprise security landscape. Enterprises need a specialized security approach centered on all enterprise data to prevent attacks.
+Our autonomous technology brings this vision to life with a unified AI-based security analytics platform that seamlessly aggregates and connects data from all security products to deliver enterprisewide visibility in a single, streamlined technology and interface. We eliminate the need to operate disjointed platforms. As attacks move beyond a single surface, it's imperative to tie together telemetry and logs from key security products. Singularity Data Lake is the only unified platform on the market that is able to bring together full fidelity logs and visibility from all key sources for enterprise security like email security, identity access management, firewalls, SaaS providers, and others.
+Frost & Sullivan recently ranked SentinelOne as the XDR Growth Index Leader, ahead of all the security vendors evaluated. I'm proud of our leading AI-based technology and the innovations we're bringing to customers. Our newly launched vulnerability management solution, Ranger Insights, is another example of how we're helping customers eliminate disparate tools in a single platform. Ranger Insights connects two closely tied elements of cybersecurity, application vulnerability identification and endpoint mitigation, which were disconnected until now.
+CRN ranked Ranger Insights as the No. 1 in their list of coolest security products unveiled at Black Hat 2023. We also introduced a new Cloud Data Security product line which offers threat detection for customers using cloud storage vendors like Amazon S3 and network storage providers such as NetApp. On top of delivering industry-leading workload protection, we're expanding our cloud security product suite to include capabilities like cloud vulnerability management to asset discovery and visibility, making Singularity Cloud one of the broadest CNAPP platforms to have end-to-end functionality, from runtime protection to data security.
+Last but not least, building upon our success in delivering best-in-class autonomous security, we're extending our lead by bringing generative AI to security professionals. Purple AI transforms security operations by supercharging users to control all aspects of enterprise security, from visibility to response, with unmatched speed and efficiency. This is much more than a sidecar assistant. It can upgrade any security analyst to superhuman levels.
+We expect this to be a significant source of expansion and growth in the future. At the Black Hat Conference earlier this month, thousands of visitors eagerly discovered the capabilities of Purple AI and engaged in immersive interactive hands-on product demos. The best way for companies to prevent cyberattacks is to leverage the best security, and SentinelOne delivers it. Our innovations and holistic approach to cybersecurity puts us in a strong position for long-term growth across multiple large addressable markets, including endpoint, cloud, identity, and data.
+In closing, I extend my gratitude to our incredible team. Despite the persistently challenging macro environment, Sentinels across the world rose to the occasion, addressing critical enterprise needs with the most disruptive technology on the market. I also thank our valued customers, partners, and shareholders for their support and trust. We remain focused on the long-term opportunity and maximizing our business potential.
+With that, I will turn the call over to Dave Bernhardt, our chief financial officer.
+Dave Bernhardt
+--
+Chief Financial Officer
+Thank you, Tomer. Today, I'll discuss our quarterly financials and provide additional context about our guidance for Q3 and fiscal year '24. As a reminder, all comparisons are year over year and all margins discussed are non-GAAP unless otherwise noted. Our second quarter results exceeded our expectations across the board.
+We delivered high top-line growth and substantial margin expansion. Revenue grew 46% in the second quarter, and ARR grew 47% to 612 million. We added net new ARR of 49 million in the quarter, achieving strong sequential growth of 17%. Our growth was also balanced across geographies, with higher growth in Europe and Asia.
+Revenue from international markets grew 57%, representing 36% of revenue. We continue to achieve a healthy mix of new customers and existing customer expansion. In addition, our momentum with large enterprises, SMBs, and MSSP partners remained strong, which continues to fuel a solid base of long-term growth. As a result, our ARR per customer increased both sequentially and year over year, reflecting strong momentum with large enterprises and broader platform adoption.
+We're taking market share from incumbent and next-gen vendors, and our second quarter performance signifies our competitive strength and enterprise demand for best-in-class cybersecurity. Before turning to our costs and margins, I'd like to provide an update related to the ARR adjustment we announced in Q1. After conducting a comprehensive review, we implemented robust controls, improved processes, and enhanced our ARR reporting structure. In addition, we partnered with a Big Four accounting firm to objectively validate our processes and controls.
+Our systems are fully remediated, and we're glad this issue is behind us. Looking beyond the top-line growth. Our gross margin reached a new record of 77% in Q2, reflecting a year-over-year increase of 5 percentage points. Just two years after setting our long-term gross margin target of 75% to 80% at the IPO, we're already operating well within that range.
+We're seeing continued benefits from economies of scale, data processing efficiencies, and cross-sell from adjacent solutions. And our pricing remains healthy. We have taken a highly differentiated approach to unifying our security and data architecture into a single platform, which delivers real value for us and our customers. Our record gross margin demonstrates the success of our land-and-expand strategy and platform unit economics, where we collect data once and enable more and more capabilities, powered by our proprietary fully integrated security data lake.
+We also delivered substantial operating margin improvement, expanding over 34 percentage points year over year to negative 22%. As market conditions evolved, we became even more selective about our investments and took important steps to align our cost structure, including our previously announced workforce optimization. The efforts we have made are paying off. On a dollar basis, we reduced our operating losses by over 40 percentage points in Q2.
+We also significantly reduced our free cash outflow from 67 million in Q2 of last year to just 15 million this quarter, which reflects an outstanding free cash flow margin improvement of 55 percentage points. This is a result of our proactive efforts to improve working capital and effective cost management. To further demonstrate this, our total cash and equivalents and investments balance reduced by only 2 million in Q2 and only 5 million year to date in fiscal '24. In short, our losses and cash burn have rapidly narrowed, and we are steadily marching toward positive free cash flow and profitability.
+Moving to our guidance for Q3 and the full fiscal year '24. We expect global economic conditions and a broader demand environment to remain consistent with the trends we discussed last quarter as enterprises continue to rightsize their security investments based on near-term budget constraints. Even with this as the market backdrop, we're raising our revenue and margin expectations for fiscal year '24. Our teams are executing well, our win rates remain strong, and we are delivering operating leverage.
+In Q3, we expect revenue of about 156 million, reflecting growth of 35% year over year. Based on this view, we expect Q3 net new ARR to be comparable to Q2 levels, which is consistent with the typical seasonality and still comes on top of our Q2 outperformance. For the full year, we expect revenue of about 605 million, reflecting growth of 43% in fiscal year '24, a $10 million increase compared to the prior midpoint of 595 million. Based on this view, we expect full year ARR to grow in the high 30% range, adding about 195 million in net new in fiscal year '24, This is a higher ARR growth rate compared to our prior expectation of mid-30%.
+Based on our go-to-market and pipeline momentum, we feel confident in our ability to deliver against our Q3 and our stronger full year growth targets. Importantly, we're seeing durability in new business generation and the trajectory of growth rates. We're encouraged by increasing platform adoption and competitive position, offering diverse and meaningful growth opportunities for years to come. Turning to the outlook for margins.
+We expect Q3 gross margin of about 76%, implying a year-over-year increase of more than 4 percentage points. On a constant currency basis, our Q3 gross margin expectation is consistent with Q2. Also, for the full year, we are raising our gross margin guidance to 76%, up about 4 percentage points year over year and up 150 basis points when compared to our prior guided midpoint of 74.5%. We've taken a major step forward as a company by achieving our long-term gross margin target range and expect continued benefits from increasing scale and data efficiencies inherent in our business model to drive higher gross margins over time.
+Finally, for operating margin, we expect negative 22% in Q3, implying an improvement of more than 20 percentage points year over year. For the full year, we are raising our guidance for operating margin to about negative 25%, up 2 percentage points compared to the prior midpoint and at the better end of our previous annual guidance. This implies a notable improvement of more than 24 percentage points compared to fiscal year '23. We've made significant investments in innovation and talent development over the past few years.
+This gives us ample runway to deliver against our product road map and growth targets. We also expect continued benefits from cost management initiatives and operating leverage of our business. We have a very strong balance sheet, with more than $1 billion in cash, cash equivalents, and investments, and no debt. This provides durability, flexibility, and an independent path to generating positive cash flows.
+Our goal is to optimize top-line growth with consistent margin improvement. On our journey to achieving profitability, we don't intend to sacrifice growth or market share. Our investment approach will remain highly selective and focused on key areas of competitive strength. We're delivering industry-leading margin improvement and steadily approaching positive free cash flow generation.
+We remain steadfast on our path to achieving profitability in fiscal year '25. Thank you all for joining today. We will now take questions. Operator, please open up the line.
+Questions & Answers:
+Operator
+We will now begin the Q&A session. [Operator instructions] Our first question is from Ray McDonough with Guggenheim Securities. Your line is now open.
+Ray McDonough
+--
+Guggenheim Partners -- Analyst
+Great. Thanks for taking the question. Tomer, can -- congratulations on a good quarter here and what seems to be an improvement. But, you know, I think the question on a lot of investors' minds here is, you know, the reports that SentinelOne is seeking or at least evaluating strategic alternatives.
+Can you comment on that process? And then separately, can you comment on the partnership or the termination of the partnership with Wiz? You know, when that was first announced, I think there was some excitement, not only from, you know, investors, but also from your field partners and the channel. So, just curious how you're thinking about those two things and how you're thinking about your own road map in cloud security now that you've terminated that partnership.
+Tomer Weingarten
+--
+Chief Executive Officer
+We don't comment on rumors or speculations, but let me be clear. I mean, our focus is on building an independent company for the long term. We're delivering substantial growth and margin improvement. And most importantly, we have the best technology and a clear strategic road map to disrupt a $100 billion market with the potential to multiply our current market share in the coming years.
+I think, also, our teams are executing well. Competitive positioning remains incredibly strong. We delivered excellent results. All in all, I think you're just seeing us being laser-focused on delivering the best innovation we can, the best protection we can for our customers, maximizing our business potential.
+You know, we believe we can do that the best as possible as a public, independent, transparent company. And I think that that is as clear as I can be. You know, on the Wiz, you know, thing, you know, if you kind of bundle it on the acquisition rumors and all that stuff, I mean, again, I'm not going to comment on that, but it's all pure speculation on their part and far from facts. So, you know, it's, again, a head-scratcher to me.
+If we kind of pivot to the partnership, we did not terminate the partnership. You know, I think that's, again, misconstrued. We actually canceled a reseller agreement -- the reselling agreement. So, you know, we still partner with Wiz.
+We still work with them on the field level. You know, we still think there's some form of complementary technology there, and we're focused on delivering customer outcomes. So, when customers want to use Wiz, we'll support that. The technical integration is still there.
+You know, Wiz is a nice little start-up. You know, we like working with them. But again, in terms of the reselling agreement, we didn't see any contribution from that. We didn't feel like that's something that is, you know, fulfilled on their end.
+So, we decided to terminate that. Our cloud-native application platform is growing, I think, in a stellar pace. We're definitely ahead of our targets. We just announced Cloud Data Security.
+You know, that's a major expansion to our workload protection, you know, platform. That's part of that overall CNAPP envelope. And we want ourselves to be focused on our own capabilities, and I think that's natural. And we're also seeing tremendous traction, you know, in that market.
+Obviously, triple-digit growth for our cloud business year over year for a few good quarters now. And, you know, a couple of years now, it's obviously giving us a lot of confidence that we can continue and grow that, and we'll continue to develop our own native capabilities alongside that.
+Operator
+Our next question is from Rob Owens with Piper Sandler. Your line is now open.
+Rob Owens
+--
+Piper Sandler -- Analyst
+Great. Thanks for taking my question. I want to drill down a little bit into retention rates, and I know there was commentary in the shareholder letter, excuse me, around the Attivo legacy product. So, if you could just kind of clarify what exactly those are, and do we still expect the 120 level to be a floor as we move forward or could you see additional pressure? Thanks.
+Tomer Weingarten
+--
+Chief Executive Officer
+Yeah. I think what you're seeing with the net retention rate is something that's industrywide. I don't think it's unique to us. I think we do see our own, call it, natural retention rate still being incredibly high, even in light of macro factors generally causing customers to be much more prudent about their spend and their timing, also, of expansion.
+Attivo legacy product, as you can imagine with any acquisition, there's some degree of customer churn, and that happens typically for the kind of older product lines. Identity security, obviously, is the shining spot. I mean, we continuously grow that. It's a big contributor to all revenue outside of endpoint.
+But things like deception, which is very, very industry-specific, are things that sometimes, you know, we don't put all the focus on. We continue and support the specific customers that use these legacy products, but we're much more focused on identity security, Active Directory assessment, all these more forward-looking products that came with that acquisition and obviously are today integrated into our platform.
+Operator
+Our next question is from Brian Essex with J.P. Morgan. Your line is now open.
+Brian Essex
+--
+JPMorgan Chase and Company -- Analyst
+Hi. Great. Thank you. Good afternoon and thank you for taking the question and congrats on a much better result this quarter.
+Tomer, I was wondering if you could talk about a little bit -- digging a little bit more in the competitive environment. I think we previously talked about -- or at least have commented on win rates relative to both Microsoft and CrowdStrike. Any changes in the competitive environment? And then kind of adjacent to that question, how do you think about growth of sales and marketing expense as you have this kind of tremendous market opportunity ahead of you and you're obviously balancing investment in sales and marketing, market penetration, but also you're delivering some pretty impressive margin expansion in the process? Those two segments would be really helpful to better understand.
+Tomer Weingarten
+--
+Chief Executive Officer
+Our competitive position, I think, is improving. I mean, we're seeing now meaningful differentiation on the technology front. You know, everybody likes to make all sorts of statements about how unified their platform is or isn't. We're the only platform out there that actually delivers on that promise.
+I think that, to us, that becomes more and more meaningful as customers are looking to gain enterprisewide visibility, and they want to do it. They want to do it with one console. They want to do it with one language. They want to do it with one interface.
+That is not what our competitors are selling into the market. I think if you want to talk about competitors, let's also talk about the blatant misrepresentations they had on their earnings call made so clearly. I think it's unbelievable that you see them calling out or implying that, you know, we are a point product company when it's plain to see that we're the broadest platform out there. You know, when they call themselves a unified platform but actually have two distinctively different platforms, two consoles, two languages, two product lines, that's an overt misrepresentation, and that confuses customers.
+I think it's just shocking to see that. When they say that they're the only generative AI company to demo generative AI at conference shows, that's also a blatant lie. I mean, obviously, we've been the first to demo that. There are other vendors that have demoed that.
+Everybody's giving live demos. We actually gave hands-on live demos. So, if we talk about the competition, I think it's important to separate facts, you know, from all these rumors and speculations and misrepresentations. And our competitive positioning, our technology is true.
+I think that's what customers are getting into their hands. That's the reason we win. That's the reason we continue to grow market share.
+Brian Essex
+--
+JPMorgan Chase and Company -- Analyst
+Got it. Very helpful. Thank you.
+Operator
+Our next question is from Alex Henderson with Needham. Your line is now open.
+Alex Henderson
+--
+Needham and Company -- Analyst
+Great. Thank you so much and a nice rebound in the quarter. Clearly, if you'd listen, and I'm sure you did, to the CrowdStrike presentation, they delineated the scale in some of the growth rates around some of their products. And I was hoping maybe you could, you know, take a page out of their book and give us some of the -- some granularity around some of these key products that you call out, whether it be the cloud product, Vigilance, the Ranger, pick your category.
+Thanks.
+Tomer Weingarten
+--
+Chief Executive Officer
+I think, at our scale, I mean, we're not at the point that we're ready to disclose that. I think we're giving you good indications as to what part of our portfolio is growing. We're giving you an indication that more than 30% of our revenue contribution is coming from outside of endpoint. We're giving an indication we gave last quarter that our cloud is growing incredibly fast, triple digit year over year, represents well over 20% of quarterly ACV, on average, if you kind of look at the rearview mirror last 12 months.
+So, all in all, I think that can give you some sense. I also think that for us, you know, data analytics and security data lake, the Singularity Data Lake, these capabilities are just coming online, and they're coming online pretty fast. So, you know, hopefully, as we gain a little bit more scale, I think we'll be able to disclose much more on how we look at our business. But right now, obviously, we just focus on growing as fast as we can between these core tenets that we identified are strategic to our growth.
+Operator
+Our next question is from Andrew Nowinski with Wells Fargo. Your line is now open.
+Andy Nowinski
+--
+Wells Fargo Securities -- Analyst
+Great. Thank you. Congrats on a nice quarter. Nice rebound.
+So, I wanted to ask about net new ARR, particularly the guidance for Q3. I understand the year-over-year decline in Q2 given the tough comp you had from last year. But if you think about all the positive trends you guys described here today, why wouldn't you expect maybe more growth out of net new ARR in Q3 given that the macro really hasn't changed, hasn't gotten worse or better, I guess, is what I meant? Thank you.
+Dave Bernhardt
+--
+Chief Financial Officer
+So, we just exceeded our Q2 net new ARR expectation by double digits. We raised our Q3 net new ARR outlook, and we raised the full ARR growth to the high 30s. So, I think the way to think about it is we're just being thoughtful about macro stabilization, which is still evolving, and I think we just believe that being prudent is the right approach in our view.
+Operator
+Our next question is from Gabriela Borges with Goldman Sachs. Your line is now open.
+Gabriela Borges
+--
+Goldman Sachs -- Analyst
+Good afternoon. Thank you. Tomer, I wanted to ask a question on some of the feedback you're getting from customers that are trying the new Purple product. What are the one or two asks that are coming out of those trials in terms of the next one or two features that customers want in the product and how are you thinking about the pricing model over the medium term? Thank you.
+Tomer Weingarten
+--
+Chief Executive Officer
+Yeah. The first question is always what's the pricing? I think that's consistently what we're hearing from them. And we're starting to share and I actually would say we're testing pricing with these customers. So, I don't have kind of a fleshed-out pricing model to give you just yet, but it's definitely something that we're kind of processing right now.
+I think in terms of their requests, and that is key, is that we continue and push Purple to be an overarching enterprisewide algorithm versus being focused just on endpoint data or just on cloud data. And that, once again, comes back to the level of differentiation that you see with our platform today. When you think about some of these AI capabilities, when you think about the scale you can achieve with AI, you obviously want to start stitching together all these disparate products, all these siloed ecosystem vendors into one cohesive fabric that can also allow you to, in some cases, consolidate the waste of these products. But in some other cases, you know, these products are still going to be there, but you want to make sure that something more intelligent is driving them and that you can orchestrate action.
+So, people want us to do it on an enterprise scale. People want us to do it in a highly autonomous manner and in a highly actionable manner. They don't want more suggestions. They don't want more chatbots.
+They want predictive algorithms that can allow them in real time to react to what they're seeing enterprisewide, and I think that's exactly how we're developing Purple. That's exactly the first iterations of this product. And all in all, it looks just very promising.
+Operator
+Our next question is from Shaul Eyal with TD Cowen. Your line is now open.
+Shaul Eyal
+--
+TD Cowen -- Analyst
+Thank you. Good afternoon, guys. Good to see the bounce back. Dave, a question for you.
+Can you discuss gross margins, the improvement, actually, vis-a-vis what do you see in terms of ASP pressures?
+Dave Bernhardt
+--
+Chief Financial Officer
+You know, obviously, there's no ASP pressures or we wouldn't be setting record gross margins. So, I guess I'll start with that. You know, we had record gross margin this quarter of 77%. You know, I think that's a benefit of our increasing scale, the data processing efficiencies, and the module cross-sell, which we also expect will continue over time.
+So, I think we're proud of the gain we've had in gross margin and just don't seem to be seeing the ASP issues that other competitors may be seeing.
+Operator
+Our next question is from Patrick Colville with Scotiabank. Your line is now open.
+Patrick Colville
+--
+Scotiabank -- Analyst
+All right. Thank you so much for taking my question. So, I mean, this quarter, the operating margin improvement was really impressive. In my model -- so you beat this quarter.
+You lifted fiscal '20 margin by two points. But that means in my model, if I'm calculating it correctly, that my actual 4Q number comes down for operating margin. So, like, why would that be is probably one question. And then how should we think about your kind of like long-term guidance for fiscal '25 and your goal to reach operating margin profitability next year?
+Dave Bernhardt
+--
+Chief Financial Officer
+So, we raised our full year EBIT margin, like you said, by two points at the midpoint. It's the better end of our annual guidance. And now, we've focused on that. And instead of 25% to 29% loss, we're focused on the 25%.
+We believe that's meaningful. You know, we're on track for 25 points or about 25 points of operating margin improvement this year. You know, I think one of the things we're seeing coming off a strong Q2 is also, you know, should we be investing into some things where we're seeing benefits. So, you know, our second half is expecting some of that.
+You know, we're able to do all of that and improve the guidance for the year to the better end of anything we were expecting for the year at the start. So, we're proud of this guidance. You know, we're always going to balance our investments and growth with our commitment to achieving profitability, and our goal remains unchanged for next year, but we'll be guiding that in the future.
+Operator
+Our next question is from Adam Tindle with Raymond James. Your line is now open.
+Adam Tindle
+--
+Raymond James -- Analyst
+OK. Thanks. I hope to get a two-parter in. Dave, first, a clarification on NRR with the Attivo piece.
+Is there any way that you could potentially help us quantify so that we could strip that piece out? I'm just curious what the underlying trends would have looked like for the health of the business ex that. And then, Tomer, as a follow-up, I know we kind of touched on the Wiz subject, but curious, you know, cloud security is obviously one of your fastest-growing areas. Sounds like you're still committed to that partnership. But honestly, why? That piece of the business is growing so rapidly.
+You've got a broad platform. Where do they fit in? What do you -- honestly, what do you need them for? Thanks.
+Dave Bernhardt
+--
+Chief Financial Officer
+I'll start. Our NRR on an organic basis would have been 120%. So, you know, still at the expectations that we've set forth in prior earnings calls. So, you know, the 5% decrement was purely Attivo.
+I'll let Tomer answer the other question.
+Tomer Weingarten
+--
+Chief Executive Officer
+Yeah. On Wiz, I thought I kind of said it. It's really what the customer wants. And obviously, they got a nice little set of customers kind of in the Fortune 100.
+We want to make sure that we support them. Some of them are our customers, too. We want to make sure we deliver the best experience. So, when a customer wants to use Wiz, you know, by all means, then we will be there to support it.
+When a customer wants something more holistic, you know, obviously, we will serve our own. I think there's also a big difference between what they can serve, which is highly limited to public cloud, where if you look at our platform and our workload protection, we cater to folks from on-prem environments and server and workload environments that might be on-premise, all the way to private cloud and then to public cloud. So, it's also a slightly different use case. But I think what you can kind of gather about SentinelOne is that we're very partner-friendly, no matter who the partner is.
+We are guided by what customers want to do, and we will always stand by that, and we would always support customers. So, in that, we -- Wiz another great partner of ours from many other partners that we have, so there's no reason for us not to partner with them.
+Operator
+Our next question is from Joshua Tilton with Wolfe Research. Your line is now open.
+Unknown speaker
+Hey. This is Patrick on for Josh. So, you mentioned last quarter after the adjustments to the ARR that revenue -- that the revenue to ARR correlation should be tighter moving forward. But if you look at that historical delta, it actually ticked up a bit here in 2Q from 1Q and it's a little closer to what we saw last year.
+So, curious, did you see some strength come back in that consumption part of the business and then has anything changed from last quarter with how you factor that consumption part into the guide? Thanks.
+Dave Bernhardt
+--
+Chief Financial Officer
+I'd say we're still very closely aligned. I think revenue increase year over year was 47% and the ARR was 46%. Yeah, I'd say that's pretty close. So, you know, we expect that to continue to be aligned for the rest of the year.
+Unknown speaker
+I guess I meant --
+Operator
+Our next question is from Saket Kalia with Barclays. Your line is now open.
+Saket Kalia
+--
+Barclays -- Analyst
+OK. Great. Hey, guys. Thanks for having me on the call.
+Tomer, I kind of have a two-part question for you if I may. The first one is on the competitive environment. You know, I know we talked about the other endpoint player out there, but I want to ask specifically on Microsoft. One of the things that came out on another conference call was maybe you're starting to see customers question the real price, the real underlying price of Microsoft Defender.
+Do you agree with that? Are you hearing that from customers? That's the first part. The second part of the question is more of an industry question on CNAPP. You know, there are endpoint players that have CNAPP, there are firewall players that have CNAPP, and then there are individual vendors that have CNAPP. What are you hearing from customers on their preference to buy from one category versus another? Is there a natural, I don't know, tendency to buy from an endpoint or from a firewall vendor or is that still something that's being, you know, determined?
+Tomer Weingarten
+--
+Chief Executive Officer
+So, on Microsoft, we definitely see more customers, you know, starting to understand that the lack of price transparency is causing them to actually overpay for what they would actually get from another vendor at a lower price point. I mean, if you bundle together the workload pricing, the logging pricing, the service pricing, you know, all of that together comes up to a pretty hefty price tag if you're going with Microsoft. And I think we can all agree not the best-of-breed security. So, we're definitely seeing more of that.
+I think there is a slight dynamic change there. I wouldn't call any of that right now transformative or pieces changing. I think it's just starting to trickle. I think if you couple that with the fact that, you know, not only Microsoft is not the cheapest solution, Microsoft also doesn't really care as much about customers, just on their sheer scale, right? I mean, we're talking about a complete different level of support.
+If you're going with a stand-alone, you know, cybersecurity provider like our -- like us and some of our peers, I think you're just getting a completely different level of service, and that is something that is also starting to resonate with customers out there. And lastly, I think it's just the complexity. You know, Microsoft has a lot of different ingredients in what they call security. It's not one platform.
+It's a bundle of solutions. And I think that also matters significantly. If we want to touch on CNAPP, I think your observation is 100% correct. And I think that, you know, a lot of folks gravitated toward the stand-alone CNAPP vendors on the back of just great UI.
+I think there is no deep IP, you know, in CNAPP. You know, inventory, attack graph visualization, like all these things, that's not AI, that's not deep IP. And I think that's where you're seeing this commoditization where everybody is coming up with their own capabilities to achieve that. And I think it really is, you know, what flavor that the customer wants to go with.
+And once again, we're flexible. I mean, if you want to get that out of us, you know, we will definitely build the best platform that we can. But if you rather have a different flavor, you know, that's fine, too. We're focusing where there's deep technology.
+And workload protection, runtime protection, this is where you can actually and meaningfully differentiate. This is noncommoditized. This is where, you know, our years of research, you know, supporting Linux environments, containerized environments, you know, bringing best-of-breed telemetry, best-of-breed performance, that's where it matters, and that's where we win the most. And that's why that remains our focus is we build these other capabilities to get to this, you know, holistic approach to cloud security.
+But once again, you'll get different flavors of customers. You're going to get fewer public cloud customers. You're going to get private cloud customers. You're going to get on-prem workload customers.
+You know, not -- it's not one size fits all. And some of these stand-alone offerings, they're not really relevant in any other setting other than a public cloud setting.
+Operator
+Our next question is from Trevor Walsh with JMP Securities. Your line is now open.
+Trevor Walsh
+--
+JMP Securities -- Analyst
+Great. Thanks for taking my question. Tomer, on the subject of the Ranger Insights that you announced earlier in the month, can you just walk us through maybe what kind of [Inaudible] or first type of how the opportunity looks initially vis-a-vis kind of other players in that vulnerability management space and then kind of where you're looking to maybe go with that product and kind of what the opportunity looks like kind of in, you know, six, 12 months? Thanks.
+Tomer Weingarten
+--
+Chief Executive Officer
+Yeah. I mean, great traction already. I think it's something that we kind of vetted and built with customers. And it's focused on identifying vulnerabilities, prioritizing vulnerabilities, and allowing you to gain full context on vulnerabilities together with endpoint data in one same place.
+And given that most vulnerabilities actually lie on endpoints and servers, it really is a very, very natural place for it to live together. And now, we're working on adding more and more remediation capabilities that can inform you. Once you get informed on a vulnerability, you can automatically remediate it. So, I think, you know, for a lot of these vendors right now in that space, you're using all kinds of scanning tools and you need to deploy another agent.
+And sometimes, you need an incumbent vendor that adds just another overhead on the machine. With us, I mean, if you're an existing customer, you're just getting it. It's already there. And I think the most important part of it is that it's also done in a complete continuous manner.
+So, this is not a one-time scan type of thing. It's a continuous profiling of your environment, and we can highlight all these vulnerabilities the moment that they pop up, and we can offer up remediation the moment that something pops up. So, to me, it's a very natural expansion. It's a great little TAM that we can now also serve, you know, between $5 billion to $7 billion.
+And it's just, again, something that we believe will streamline operations significantly for a lot of customers out there. The one last thing I want to say about this is that it's also highly strategic for our MSSP segment. The MSSP partners are always looking for ways to get to better hygiene, to patch customer machines. And by allowing them to use the same remote management platform that they're using today, our SentinelOne Singularity platform, to now also cover vulnerabilities, we're allowing for extreme cost efficiency for them and obviously an avenue for expansion.
+So, strategic on both fronts, and we're very, very proud of launching vulnerability management into our endpoint management suite.
+Operator
+Our next question is from Jonathan Ho with William Blair. Your line is now open.
+Jonathan Ho
+--
+William Blair and Company -- Analyst
+Hi. Good afternoon. Just wanted to understand a little bit better, if you could give us some more detail around the significant improvement around your sales execution and performance. I guess, my question is what's made the most difference and where are we in terms of those improvements? Is there a sort of further opportunities ahead as well? Thank you.
+Tomer Weingarten
+--
+Chief Executive Officer
+We're always working to improve. To us, this never ends. I think, you know, just better scrutiny, better training, better enablement, better pipeline sourcing, better interaction with our channel, all of that, I think, funnel to just better execution, some technical elements like contract execution. You know, all of that has been streamlined.
+Better systems in place. I mean, we've done a lot in the course of 90 days to elevate our performance. And still, a lot remains to be done. I think we're only going to get better from here.
+The important part is that we got great seller DNA, you know, in our sales force. We have worked to diversify our sales force. We're now selling into four different distinct TAMs. You know, we wanted sellers with cloud DNA.
+We wanted sellers with data DNA. We're now building those disciplines. And that obviously allows us to treat all these adjacent growth opportunities in such a tailored manner, and that creates, I think, just better execution, better win rates, better conversion rates on our pipeline. So, all in all, again, continued work, but I think we're doing all the right things.
+Operator
+Our next question is from Mike Walkley with Canaccord Genuity. Your line is now open.
+Unknown speaker
+Hi, guys. Good afternoon. It's Daniel on for Mike. Thanks for taking my question.
+So, you called out another standout quarter with your MSSP partners. Just wanted to see if you could provide some color on sort of what's resonating in this part of your business, especially as it pertains to some of your newer emerging modules you guys highlighted.
+Tomer Weingarten
+--
+Chief Executive Officer
+Absolutely. I think first and foremost is still the core element of our platform. The ability to manage multiple, sometimes thousands of customers in one single-click console is still a very unique capability in this space. So, as our MSSP partners kind of look to grow, look to add more customers, they can do it with ease, they can do it with confidence.
+And obviously, they're well-trained on our platform to date. So, the elements of automation and manageability are first and foremost, I think, why we have that strong footprint in the MSSP realm. The other elements of what we do like MDR, which they're adopting now and reselling to their customer base, is also a nice expansion opportunity for us, where a lot of our MSSP partners want even more tailored security for their customers and they're leveraging our own MDR services as a resell to their partner base. Cloud security is coming online for some of these partners.
+Again, covering server environments. We've actually tapped through a lot of server environments, and they tap those, so far, with endpoint licenses. We're now converting those into server licenses. If you kind of think about the Ranger and Ranger Insights modules, they've already been onboarded on Ranger, which allows them for asset discovery.
+We're seeing traction with that. Ranger Insight will catapult that even further. Again, vulnerability management is a very natural extension to what they do. So, all in all, you know with the MSSP environment, I would say, the opportunity is twofold.
+It's the modules. There's no question that we're still underpenetrated, but at the same time, we're also underpenetrated on licenses, seat counts, and a number of endpoints. And a lot of our MSSP partners still have a huge potential in their estate, and we're working with them every day to expand our footprint and to make sure that they're as competitive as they can be.
+Operator
+Our last question is from Eric Heath with KeyBanc. Your line is now open.
+Eric Heath
+--
+KeyBanc Capital Markets -- Analyst
+Great. Thanks for taking the question and squeezing me in. Tomer, I did enjoy seeing the Purple AI demo at RSAC back in April, and that was impressive. So, I wanted to ask you what your thoughts are on timing for that to become available.
+And then coming back to the CNAPP question, just curious if there's any change in the way you're thinking about either adding or not adding CSPM or application security capabilities to that platform? Thanks.
+Tomer Weingarten
+--
+Chief Executive Officer
+Yeah. Glad you enjoyed Purple AI. You know, we're not sharing, right now, the exact launch date. It will be next year.
+You know, we're definitely baiting this with customers. So, stay tuned. We will share more as time progresses. On the CNAPP stuff, you know, we haven't really changed the way we think about it.
+We always wanted to have and always -- we're always working on broad-based CNAPP capabilities that include CSPM as well. And that hasn't changed. I think the only thing that changed is that we're actually a bit more advanced in our road map than we initially expected, and that's a good sign. Once again, we launched data security, which is another part of that CNAPP spectrum, and it's a very unique capability.
+It's an AI-driven approach to detect threats on storage like S3 and even on-prem storage like NetApp. There's nobody else in the market doing that. So, all in all, I mean, we're always focusing first on the more differentiated parts of the platform versus going to the commodity. But at some point, I think we'll have the full spectrum of capabilities.
+And right now, again, given our traction, we're not in a rush to do any of that. It's not like there's any mandatory requirement to have all of these components baked in together, as evidenced by our success in the market.
+Operator
+We are out of time, and I will now pass the call back to the management team for any closing remarks.
+Tomer Weingarten
+--
+Chief Executive Officer
+Thank you, everybody. Appreciate your time today, and I want to again congratulate all Sentinels for their performance this quarter.
+Operator
+[Operator signoff]
+Duration: 0 minutes

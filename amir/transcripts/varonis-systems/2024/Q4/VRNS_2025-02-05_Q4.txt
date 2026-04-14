@@ -1,0 +1,369 @@
+Operator
+Greetings, and welcome to the Varonis Systems, Inc. fourth quarter 2024 earnings conference call. At this time all participants are in a listen only mode. A question-and-answer session will follow the formal presentation.
+[Operator instructions] It is now my pleasure to introduce your host, Tim Perz. Thank you. You may begin.
+Tim Perz
+--
+Director, Investor Relations
+Thank you, operator. Good afternoon. Thank you for joining us today to review Varonis' fourth quarter and full year 2024 financial results. With me on the call today are Yaki Faitelson, chief executive officer; and Guy Melamed, chief financial officer and chief operating officer of Varonis.
+After preliminary remarks, we will open the call to a question-and-answer session. During this call, we may make statements related to our business that would be considered forward-looking statements under federal securities laws, including projections of future operating results for our first quarter and full year ending December 31st, 2025. Due to a number of factors, actual results may differ materially from those set forth in such statements. These factors are set forth in the earnings press release that we issued today under the section captioned Forward-Looking Statements, and these and other important risk factors are described more fully in our reports filed with the Securities and Exchange Commission.
+We encourage all investors to read our SEC filings. These statements reflect our views only as of today and should not be relied upon as representing our views as of any subsequent date. Varonis expressly disclaims any obligation or undertaking to release publicly any updates or revisions to any forward-looking statements made herein. Additionally, non-GAAP financial measures will be discussed on this conference call.
+A reconciliation for the most directly comparable GAAP financial measures is also available in our fourth quarter 2024 earnings press release and our investor presentation, which can be found at varonis.com in the investor relations section. Lastly, please note that a webcast of today's call is available on our website in the investor relations section. With that, I'd like to turn the call over to our chief executive officer, Yaki Faitelson. Yaki?
+Yaki Faitelson
+--
+Co-Founder and Chief Executive Officer
+Thanks, Tim, and good afternoon, everyone. Thank you for joining us today to review our fourth quarter and full year 2024 results. Today, I would like to update you on the progress of our SaaS transition and to review why Varonis is best positioned to capitalize on the growing opportunity to secure the world's data. We introduced Varonis SaaS to the world a little over two years ago, and we are excited by the progress that has been made in that time.
+During 2024, we added over $200 million of SaaS ARR and ended the year with approximately $340 million of SaaS ARR or 53% of total company ARR. This is happening so fast because our SaaS offering is a better product that allows customers to better secure their data with less effort. While these numbers suggest that providing a better product is easy, there has been a lot of hard work going on behind the scenes to make that happen. And I would like to take a moment to thank our team for their efforts.
+We still have many existing customers to convert to our SaaS platforms, but it is clear that we are well on our way to becoming a SaaS company. Although we have started to realize some of the benefits of SaaS, there are so many more to realize once the transition is complete. For example, once we fully transition to SaaS, our customers will enjoy greater level of security with much less effort, and we expect to see better retention rates. And over time, a market into which we can reaccelerate our upsell motion.
+This is a key reason why we plan to accelerate our transition time and how we expect to complete it by the end of 2025, a year earlier than our previous outlook and two years earlier than our initial expectations. Turning to our fourth quarter results, ARR grew 18% to $641.9 million. And for the first time, SaaS ARR represent the majority of our ARR base. New customer momentum was the single biggest driver of these results, and this is due to the simplicity of our SaaS platform and our MDDR offering, as well as customer interest in deploying Gen AI, which requires them to fortify their data security strategy.
+While our existing customer convergence continue in a healthy way, during the fourth quarter, this convergence are time and resource intensive. We believe our sales efficiency and ability to drive growth from our base will actually accelerate post transition once our reps are able to focus on SaaS upsell and cross-sell rather than converting self-hosted customers. In 2024, we continued to balance strong top line growth with improved cash flow generation, and we generated $108.5 million of free cash flow versus $54.3 million last year. Crossing the $100 million of free cash flow is an important milestone for our company, and we plan to continue to generate meaningful free cash flow going forward.
+Guy will review our results and initial guidance in more detail shortly. Now I would like to take a step back and discuss the growing need for data security and why we are best positioned to win in this market. Our world runs on data, and because of its importance, everyone knows that they need to secure it. When we created Varonis SaaS, we had the benefit of more than a decade of experience securing large complex environments.
+We use those learnings and our considerable resources to transform Varonis into an automated data security platform based on a world-class scalable cloud architecture. It was critical that we did it in the right way because every day, more data is created in more places, and it's become harder to secure. This means automation and scalability are not just core differentiation for Varonis, but also the only way to stay ahead of today's threat environment. As time passes, the need for our automated platform and the value we give to our customers grow stronger for many years, and we had to evangelize our approach, but now the market gets it.
+Data is where the damage happens, and stopping breaches is not only about avoiding fines, it's about keeping the lights on. And in the age of AI, securing data has never been more important. But data has never been more at risk. Today, bad actors don't break in, they log in.
+Attackers instantly become insiders and can easily collect data because the blast radius is unmanaged and everything is connected. AI makes attacker jobs even easier and insiders much more dangerous. They just have to ask the data, and AI will compile it for them. Companies understand this and spend a lot on perimeter technologies, but breaches keep happening, which show that these technologies are important, but they are insufficient.
+Many organizations are also trying to address data security with manual work and point solutions and they all failed. Varonis' automatically secured data, with our unified platform, our goal is to make data security as reliable and effortless as owning a credit card that protects you against fraud. Our cloud-native unified data security platform has a wide coverage and deep functionality to secure data at scale wherever it leads. We automatically locate and classify sensitive data.
+And because we understand what an identity can access and what it should be able to access, we are able to automatically reduce the blast radius. We monitor and understand data-related behavior so we are able to detect suspicious behavior. And if a bad actor gets in or an insider emerges, we help minimize the damage. Our platform has allowed us to bring our unique functionality to every enterprise data domain, from on-prem data stores to SaaS, PAAS, and hyper-scalers like AWS, Azure, and Google Cloud.
+Expanding our coverage into these additional data stores has enlarged our total available market and brought us into new projects where we sometimes compete in RFPs and POCs with point vendors that do discovery and basic posture management, where these vendors help us to build the market for data security. In most cases, we still do not face direct competition when it comes to actually securing large data sets wherever they are in the cloud or in the data center. So, when we do the risk assessment, our differentiated value becomes clear. Simply finding sensitive data does not ensure that it is secure.
+Once sensitive data is located, remediating over exposure at scale is not possible through manual work. Varonis is unique that we discover and classify sensitive data, automatically fix issues, and then detect and stop threats on data, which is the only way to secure data. Switching gears. A year ago, we introduced MDDR, which is the first managed service for monitoring and securing critical data.
+This offering is built on top of our SaaS platforms and leverages our unique data-centric telemetry alongside the AI and machine learning embedded into our platform to deliver automated data security. MDDR has been the fastest adopted new product launch in the history of Varonis. We are already seeing this drive meaningful new business and existing customer conversions. And we are still just scratching the surface of this massive opportunity.
+The proliferation of AI is also expanding our technical mode as we leverage our unique data sets to help prevent data breaches. This gets stronger as we add more coverage in automation, and the network effect grows as we add more customers to our SaaS platform. Customers want to deploy AI, which also bring data security conversation front and center. We saw growing impact during the fourth quarter from these Gen AI initiatives.
+With that, I would like to briefly discuss a couple of key customer wins from Q4. New logos are the driver of our business momentum in this quarter, a large hospital system with 10,000 employees became a customer. They were looking to deploy Copilot, but knew that data security and privacy would be a big concern. And this was confirmed by a risk assessment.
+As a result, they purchased Varonis SaaS for hybrid with MDDR and Copilot. In one week, they automatically locked down 43,000 exposed files and labeled 98% of their sensitive data through the power of automation in Varonis SaaS. The success empowered the CISO to recommend to the Board that the company could safely deploy Copilot throughout the organization and enable this hospital to be a leader in Gen AI adoption. We continue to see strong demand from existing customers looking to convert to our SaaS platform.
+One of those was a large bank with 6,000 employees that first became a customer in 2019, originally using Varonis for visibility into their file shares. Understanding data ownership and automating entitlement reviews over time, they have significantly expanded their deployment to include data classification, alerting on threats, automatically fixing exposures on-prem, and then doing all of these in the cloud before ultimately converting to SaaS this quarter. From conversion, they purchased Varonis SaaS hybrid with MDDR and Copilot and Salesforce. This will allow them to safely deploy Copilot in time and fix overexposed sensitive data in Salesforce.
+In summary, we are excited by the approximately 50% increase in ARR from new customers, which was driven by the simplicity of SaaS and MDDR as well as generative AI, raising awareness to our solution. We look forward to continuing our momentum and completing our SaaS transition in 2025, which will unlock many more benefits as we capture our massive opportunity. With that, let me turn the call over to Guy. Guy?
+Guy Melamed
+--
+Chief Financial Officer and Chief Operating Officer
+Thanks, Yaki. Good afternoon, everyone. Thank you for joining us today. We are pleased with our fourth quarter results, which reflect the story of two companies.
+One, our momentum with new SaaS customers, driven by the simplicity of the platform and Copilot, which for the first time, saw a meaningful contribution from AI-related purchases. And two, our existing self-hosted customers, which despite seeing very healthy conversion activity, is currently diluting our growth rate, which I will expand on shortly. As a result of the strong new customer momentum and sizable existing customer conversions, we ended Q4 with 53% of total company ARR coming from SaaS. Historically, a majority of our ARR growth was driven by expansion within our base.
+But with the move to SaaS, our new business has been exceptionally strong and is the No. 1 driving force behind the momentum in our results. This is happening because of the simplicity of SaaS and MDDR, as well as Gen AI raising awareness for the need to secure your data. SaaS is also increasing the size of and our ability to penetrate our TAM as we are leveraging our platform to expand into new data stores.
+We feel very good that the success we have seen selling to new customers will continue going forward. Conversions of self-hosted customers were also very strong because customers see the value of SaaS and MDDR, which helped customers achieve their goal with very little effort as we do almost all of the work for them. At the same time, these conversions require a lot of effort due to legal and procurement work, and SaaS security checklist requires to get customers to convert to SaaS from self-hosting. Despite the healthy uplift we recognize upon conversion, the amount of time spent on this part of the sales cycle is greater than a traditional upsell or cross-sell.
+In addition, our growth for many years was driven by upsells. And until we convert customers to SaaS, the upsell motion is on hold. This means that conversions are dilutive to sales efficiency during the transition and serve as a headwind to our ARR growth and expansion motion when compared to historical levels. In the fourth quarter, we had a huge volume of conversions, and these took a lot of time and effort for our sales team.
+And yet, we still had strong results despite this temporary productivity headwind. Our view is that when almost all of our customers are converted, we expect that our teams will become more productive primarily due to increased customer satisfaction with the SaaS platform and also a simpler selling process once a customer is on a SaaS contract. Because of this, we're making a strategic decision to accelerate phase 2 and now expect 78% or approximately $580 million of our total ARR will come from SaaS by year-end, completing the transition two years earlier than our initial target and one year earlier than what we said last year. The strength of our business and the inherent leverage in our model have allowed us to show significant margin improvement.
+As a reminder, we set a long-term target of 20% ARR contribution margins by 2027 at our Investor Day in March 2023 and ended 2024 at 16.6%, so we are well ahead of that plan. The leverage of our model allows us to continue to show margin improvement while making strategic investments to reaccelerate our top-line growth back to 20-plus percent and capture the larger opportunity that we see developing. We expect these investments, coupled with sustained new logo momentum, will also enable us to continue to grow ARR at healthy levels this year despite the conversion taking more time and effort to do. In addition, we believe that accelerating the transition will better position us to accelerate our growth post transition and will provide us with several benefits over time, including: one, better sales productivity; two, better ability to upsell these SaaS customers; and three, further increases to our already healthy gross retention due to MDDR and the automation of our SaaS platform, allowing our customers to be better protected with very little effort on their part.
+To summarize, we're thrilled with the momentum of the new business, and we're accelerating phase 2 of our transition from a position of strength. We now expect to complete the SaaS transition a full year earlier than what we told you a year ago, and we expect our business to remain strong in 2025 with continued commitment to improved leverage, although at a slightly slower pace than last year as we see a much greater opportunity we want to take advantage of. In the fourth quarter, ARR was $641.9 million, increasing 18% year over year. And this year, we generated $108.5 million of free cash flow, up from $54.3 million last year.
+These metrics illustrate the ability to drive top line growth, margin leverage and cash flow generation while transitioning to SaaS. We ended the year with 5,600 subscription customers, which grew 13% year over year. ARR per new customer grew approximately 20% year over year as we are successfully moving upmarket to larger organizations and also selling more of the platform in the initial deal. Our dollar-based net retention rate for subscription customers was 105% at the end of 2024, adjusted for FX, which reflects steady gross retention and more limited upsell and cross-sell activity as reps prioritize converting self-hosted customers to SaaS.
+In the fourth quarter, total revenues were $158.5 million, up 3% year over year. During the quarter, as compared to the same quarter last year, we had approximately an 18% headwind to our year-over-year revenue growth rate as a result of having increased SaaS sales in our booking mix, which are recognized ratably versus the upfront recognition of our on-prem subscription products. SaaS revenues were $72.2 million. Term license subscription revenues were $66.8 million, and maintenance and services revenues were $19.5 million, as our renewal rates were again over 90%.
+Moving down the income statement, I'll be discussing non-GAAP results going forward. Gross profit for the fourth quarter was $133.8 million, representing a gross margin of 84.4% compared to 88.5% in the fourth quarter of 2023 despite significant revenue headwinds, which were largely offset by SaaS platform efficiency. Operating expenses in the fourth quarter totaled $118.4 million. As a result, fourth quarter operating income was $15.3 million or an operating margin of 9.7%.
+This compares to an operating income of $27.2 million or an operating margin of 17.7% in the same period last year. During the quarter, as compared to the same quarter last year, we had approximately a 13% headwind to our operating margin as a result of having increased SaaS sales in our booking mix, which are recognized fully ratable versus the upfront recognition of our on-prem subscription products. Fourth quarter ARR contribution margin was 16.6%, up from 13.4% last year. The significant leverage improvement reflects our ability to drive strong incremental margins while growing ARR and transitioning to SaaS.
+During the quarter, we had financial income of approximately $11.6 million, driven primarily by interest income on our cash, deposits and investments in marketable securities. Net income for the fourth quarter of 2024 was $23.9 million or $0.18 per diluted share compared to net income of $34.3 million or net income of $0.27 per diluted share for the fourth quarter of 2023. This is based on $135.1 million and 126.1 million diluted shares outstanding for Q4 2024 and Q4 2023, respectively. As of December 31, 2024, we had $1.2 billion in cash, cash equivalents, short-term deposits and marketable securities.
+For the 12 months ended December 31st, 2024, we generated $115.2 million of cash from operations compared to $59.4 million generated in the same period last year. And capex was $6.7 million compared to $5.1 million last year. I will now briefly recap our full year 2024 results. Total revenues grew 10% to $551 million.
+In 2024, as compared to 2023, we had approximately a 10% headwind to our year-over-year revenue growth rate as a result of having increased SaaS sales in our booking mix, which are recognized ratably versus the upfront recognition of our on-prem subscription products. Our full year operating margin was 2.9% compared to 5.8% for 2023. In 2024, as compared to 2023, we had approximately an 8% headwind to our operating margin as a result of having increased SaaS sales in our booking mix, which are recognized fully ratable versus the upfront recognition of our on-prem subscription products. Turning now to our initial 2025 guidance.
+As a reminder, our initial ARR guidance reflects flat net new ARR as a starting point for the year, similar to the approach that we used last year. For the first quarter of 2025, we expect total revenues of $130 million to $135 million, representing growth of 14% to 18%, non-GAAP operating loss of negative $14 million to negative $11 million and non-GAAP net loss per basic and diluted share in the range of negative $0.06 to negative $0.04. This assumes 113.6 million basic and diluted shares outstanding. For the full year 2025, we expect ARR of $737 million to $745 million, representing growth of 15% to 16%; free cash flow of $120 million to $125 million; total revenues of $610 million to $625 million, representing growth of 11% to 13%; non-GAAP operating income of $0.5 million to $10.5 million; non-GAAP net income per diluted share in the range of $0.13 to $0.17.
+This assumes 137.5 million diluted shares outstanding. In summary, we are excited to finish 2024 with the majority of our ARR coming from SaaS for the first time and are encouraged by the step function change in the new customer momentum we are seeing. We look forward to completing our SaaS transition in 2025, which we believe will better position the company to accelerate growth and show continued free cash flow improvement on our way to our $1 billion ARR target. With that, we would be happy to take questions.
+Questions & Answers:
+Operator
+Thank you. We will now be conducting a question-and-answer session. [Operator instructions] We also ask that each person in the queue to only limit themselves to one question to allow others a chance to ask their question. One moment please as we poll for questions.
+Our first question comes from the line of Matthew Hedberg with RBC Capital Markets. Please proceed with your question.
+Mike Richards
+--
+Analyst
+Hey, guys. This is Mike Richards on for Matt. Thanks for taking the question and congrats on the results and the accelerated timeline here. Maybe if we're sitting here a year from now and we're talking about upside to that flat net new ARR growth, could you talk about maybe where there might be some conservative assumptions around either Copilot uptake or conversions of the base? And how are you accelerating that phase 2? Is that going to be through a carrot and stick approach? Or are we looking at sales incentives? Just any detail on that would be great.
+Thanks.
+Yaki Faitelson
+--
+Co-Founder and Chief Executive Officer
+Thanks for the question. I think that primarily, the acceleration within the base is that customers want to avoid a data breach, make sure that they don't have compliance fines and protect everything effortlessly. And this is what we are doing. So, just natural expansion in the way that we have this deep functionality, a lot of automation in our platform, just covering a lot of data stores.
+Just many times, it's hard for customers to get everything right off the bat. But with time, they understand that they need everything, and we just provide automation and AI just make the data security problem inevitable. You see what's going on a daily basis. And anything that Copilot like them, but you see many Copilots and everybody we work with these agents that primarily what we do by design, take all the data that they can get to these robots will not be able to get only to the data that they need to get, it will end up in a disaster.
+So, we just see the demand in this whole front.
+Guy Melamed
+--
+Chief Financial Officer and Chief Operating Officer
+In terms of the conversions, we saw a lot of success in 2024 converting our existing customers to SaaS. And during the process of doing so, we learned a lot. So, when we look at those learnings, we're making some strategic investments in sales and customer success, support and legal to support the transition, and we really plan to start our renewal process even earlier this year to allow for more time to process the additional paperwork associated with moving to SaaS. So, overall, we feel very good about the opportunity to accelerate our SaaS transition and enable our company to realize the benefit of SaaS a year earlier than our previous expectations and two years earlier than our initial plan.
+Mike Richards
+--
+Analyst
+Thanks, guys.
+Operator
+Thank you. Our next question comes from the line of Hamza Fodderwala with Morgan Stanley. Please proceed with your question.
+Hamza Fodderwala
+--
+Analyst
+Hey, thanks for taking my question. Guy, I'm a little confused by your earlier comments on the renewal process. Are you talking about pulling forward renewal deals? So, that way, you can get more conversion to SaaS from the existing customer base? And then just more on a high level, it seems like you're going to be done with the SaaS transition, spend this year are largely complete. That's two years ahead of your initial plan.
+But as we think about the durability of this mid-teens growth, right, once you surpass this transition broadly, how do we get confidence in the ability to sustain that? Is it going to come from more momentum on the AI front? Is there sort of another product cycle that you're quite confident about? Because I think that's really one of the key areas investors are focused on. Thank you.
+Guy Melamed
+--
+Chief Financial Officer and Chief Operating Officer
+So, first of all, in terms of the renewals, we're talking about the actual renewals that expire within the year. We want to make sure that we're ahead of the game, and then we're talking to customers about the benefits of SaaS. It's a no-brainer for them to move. But sometimes, there's additional paperwork that is part of the process.
+And obviously, when you move from on-prem to SaaS, it's a different checklist from a security perspective. So, there's a lot of documentation. It's not a technological challenge. It's more of a documentational challenge that we want to be ahead of.
+And that's why we want to start the conversation with customers that are about to renew earlier than what we did last year. So, that kind of takes care of that component. When we look at kind of the growth, within 2024, the growth of new customers was outstanding. We're really pleased with the ACV, new customer growth growing at 50%.
+And the actual conversions and kind of the lack of upsell because none of our reps are really dealing with the upsell opportunity. When you're an on-prem subscription customer, you want to make sure that you move them first to SaaS, and only then, you'll start talking to them about additional platforms to sell. So, there's a lot of goodness that can happen once we move through and become a fully SaaS company, and that's what we're planning on doing in 2025.
+Yaki Faitelson
+--
+Co-Founder and Chief Executive Officer
+It's important to understand that the discrepancy in value between the self-hosted and the SaaS is drastic. You're talking about 10% of the effort for the customer and really, what we call 10x more value in terms of just the speed that you get and the way that you are protected. When you're talking about a customer in SaaS that -- we protect the data in the cloud and on-prem, all the data repositories, proxy DNS or experts backed by AI, look at it 24/7, we label and classify everything automatically reduce the blast radius. I look at the intent of these Copilots.
+It's just like second to none. And once we have all the customers there because I think where the world is going, you'll have more and more data repository, data breaches and Snowflake, everything that you have on IaaS. And what you want to do eventually is to avoid the data breaches, to have this operated value proposition that can make sure that you understand any abnormal behavior, you understand any identity, human and nonhuman, how they are accessing data. There is just so much to do in the data space.
+And our ability on this very unique cloud architecture that we built to innovate very fast works very well. And the other thing that works extremely well for us, is a massive problem of scale, we bid this architecture that it can scale. So, we really believe that everything that we have in terms of innovation is extremely relevant for our customers and believe that it's what we call high probability innovation that we can innovate if it can come to the customer and organically stemming on what they bought just to expand to more and more.
+Operator
+Thank you. Our next question comes from the line of Saket Kalia with Barclays. Please proceed with your question.
+Saket Kalia
+--
+Analyst
+OK. Great. Hey, guys, thanks for thanks for taking my question here. Guy, maybe for you just dovetailing off that last kind of topic.
+It's interesting to hear the team sort of bring up the idea of getting back to 20% plus ARR growth someday. Can you just maybe unpack that a little bit in terms of what needs to happen to accomplish that? Maybe how much of that is coming from conversions versus new? Obviously, a very new -- a very successful new logo component this year. Maybe there's new products like MDDR. Any additional color on that goal would be super helpful.
+Guy Melamed
+--
+Chief Financial Officer and Chief Operating Officer
+Absolutely, Saket. When you look at kind of our discussion about going back to the 20-plus percent and if you look at the behavior and the performance in 2024 -- and we talked about it in the prepared remarks, you really see kind of a tale of two companies. You see how the new business is performing. You see the increase in ASPs.
+You see the fact that new business grew 50% in ACV. All of that is trending very well. We're very pleased with that type of performance. When you look at the NRR number, the NRR came in at 105%, and we believe that should improve post transition.
+So, really, when you look at kind of the behavior of where we are, we kind of put ourselves to try and move as quickly as we can in 2025, and that's why we're kind of speeding up the transition. And we believe that as we complete the transition, we're better set up not only to provide value to our customers, but also to go to those customers once we show them the value and sell them additional licenses, which we believe can increase the NRR. And with the simplicity of the MDDR and the fact that Copilot, there's a lot of tailwinds that are working that we expect them to continue and be durable, and that kind of gets us to where we expect to be as a company, growing 20-plus percent.
+Yaki Faitelson
+--
+Co-Founder and Chief Executive Officer
+But it's very simple. If you think it from a perspective of the anatomy of a breach, which can happen on your salesforce.com or in 365, on your file shares, on Databricks, on Snowflake, on the databases. And what happened with our SaaS tactic that we completely reduce friction. It's almost at the only thing that the customer needs to do is to buy, and we will do everything for them.
+And the AI is working for us on so many levels. One level is you are protecting AI, permissions first and abnormal behavior and then intent, but this is one thing that is super critical. But the other thing that is happening is that what we are doing with the MDDR and the robot is just enhancing AI that our analysts and people can be so much more productive. So, just getting to a place that -- there is just no reason to say no.
+We can do everything for the customer, just super fast deployment and from day one, which is what we're doing is automatically locking the data, monitoring it and making sure bad is happening to it without stopping any business process. And this is a very, very, very strong value proposition.
+Saket Kalia
+--
+Analyst
+Very helpful. Thanks, guys.
+Operator
+Thank you. Our next question comes from the line of Brian Essex with J.P. Morgan. Please proceed with your question.
+Brian Essex
+--
+Analyst
+Hi, Good afternoon. Thank you for taking the question and great to see the reacceleration of customer growth here. I guess on that, either Guy or Yaki, I think we've previously talked about phase 1 versus phase 2, and phase 2 being kind of the stick phase where you push customers or incentivize them a little more aggressively to convert. Could you help us understand as you're pursuing more aggressive incentives to bring customers over to the SaaS platform, how should we get comfortable or how do investors get comfortable that you won't see accelerated attrition from the platform? And what are those conversations like? I think you talked about learnings from what you've seen over the past year or so.
+But how can we kind of maybe get some a little bit of insight from those learnings to get us comfortable for durability of the customer base on your platform? Thank you.
+Guy Melamed
+--
+Chief Financial Officer and Chief Operating Officer
+So, we definitely took a lot of the learnings from our previous transition. And I can tell you that one of the things that we have put at the forefront of everything we do is the benefit for the customer and how -- what is better for them. And one of the things that we're seeing is that the SaaS product is by far a better product for them, gives them better protection. And the MDDR offering is not there with the on-prem subscription.
+It's only there with the SaaS offering, and it allows us to do a lot of the work for them and make sure that our platform is the one that's provided in an automated way, a lot of those benefits. So, when we think about kind of the move, we want to make sure that we do it in the right way. And with that customer in kind of the way we're thinking about it, we've also, for 2025, made sure that from a commission perspective, we're incentivizing our sales team on the conversions without neglecting new business. So, the new business is at the forefront of everything, but we're absolutely making sure that it's in everyone's best interest, and it's a win-win to make sure that they -- we complete the transition in 2025.
+Yaki Faitelson
+--
+Co-Founder and Chief Executive Officer
+It was a very hard undertaking to build this very robust scalable architecture because data is a massive problem at scale, as you know. But then what happened now, the innovation is just moving so fast for us and paying massive dividends for customers. So, just -- you have all these new features and with this new world of AI, it's almost -- the data security problem became robots against robots, and it just makes sense for our customers to move with all the automation. Human manually cannot solve this problem, and we just have everything in our cards to make sure that most probably, customers will not have just a data breach and protect them around the clock.
+Brian Essex
+--
+Analyst
+That's helpful. I mean, have you seen resistance from customers? Or is it a lack of resistance that maybe gives you confidence that you can maybe go more aggressively about converting them to the SaaS platform and MDDR?
+Yaki Faitelson
+--
+Co-Founder and Chief Executive Officer
+As you can see, it moved much faster than we thought. And the MDDR is such a strong offering and all the remediation automation that we have in the cloud and value is everything customers get value in a frictionless way, then you can expand. And you see all these massive data stores and almost every big breach is a data breach. This is what organization wants to avoid.
+You go to a CISO today, we'll tell you, I want to make sure you don't have a data breach, to make sure I don't have compliance fine and I want to make sure I'm doing this in an effortless way with a relatively lean team. And this is what we are doing for them. But in order to do it, we need to do it in the cloud. This is why we just put -- we are accelerating it.
+We want to make sure that we are adding value to all of our customers, and in order to do that, they need to be in SaaS.
+Brian Essex
+--
+Analyst
+OK, that's helpful. Thank you.
+Operator
+Thank you. Our next question comes from the line of Joel Fishbein with Truist Securities. Please proceed with your question.
+Joel Fishbein
+--
+Analyst
+Thanks for taking the question. Guy, just for you. I'd love some more color and if you can quantify it in any way, the backlog that you currently have and how the pipeline is? I understand you're having some challenges via the conversions, but I just want to understand the health around that pipeline and the backlog?
+Guy Melamed
+--
+Chief Financial Officer and Chief Operating Officer
+I wouldn't say that. When we talk about the conversions, I think they're weighing on the growth when you look at kind of the new business behavior. But I wouldn't say that it's not something that we can deal with. When you look at the pipeline, we have a healthy pipeline.
+We have a lot of conversations with our existing customers on the conversion to SaaS. We're trying to start the process, as I mentioned before, earlier than what we would otherwise. And I think in terms of setting ourselves up for 2025, we feel very good with where we are today, both on the new customer side and on the existing customer conversion.
+Joel Fishbein
+--
+Analyst
+OK, thank you.
+Operator
+Thank you. Our next question comes from the line of Joseph Gallo with Jefferies. Please proceed with your question.
+Joseph Gallo
+--
+Analyst
+Hey, guys, thanks for the question. You guys have done a nice job of innovating and adding protection for different data stores, whether it's Salesforce, ServiceNow, Databricks, Snowflake, etc. Any quantitative disclosures you can provide on just traction you're seeing there? And then which of those buckets do you expect to see the most benefit to ARR in 2025? Just trying to see outside of Copilot, what areas you can see the most growth in. Thanks.
+Yaki Faitelson
+--
+Co-Founder and Chief Executive Officer
+Yeah. I think that some of them, it's early. We just released the coverage. But overall, in terms of demand, we see it all over because you see that this is where breaches are happening.
+I think the realization that we see from the marketplace is that there is an acute need for data security. And data security to make sure that we don't have a breach and just think about the sheer data size that they can do it automatically that discovery by itself will not work with the military posture. Most of the time, it's not adding value, you really need to make sure that you can understand all the clinical data, remediate automatically. And it's coming from all over.
+We see that the demand is coming from all over the repository, if you are doing it right. Once we can apply all the features, what we can apply the automated remediation, the UBA, everything around it. But we see interest in most of these data stores. You know, source code repositories are critical.
+Databricks is critical. Snowflake is critical. Thinking about Salesforce is where you have PII. Most of the ransomware attacks still happening on patches on-prem.
+It's everywhere. And the other thing that works extremely well for us -- it's also everything that we are doing around identity in the RO stream. So, when you look at our MDDR, most of the bad actors we catch before they get to the data once they get compromised identity. What happens today is that bad actors are not breaking in, they are logging in.
+And we get them -- and once there is a compromised identity, there is no perimeter anymore, and obviously, insiders are a big threat. We just many times catching them -- most times actually before they get to the data. This is also something that's getting a lot of traction for us.
+Joseph Gallo
+--
+Analyst
+Thank you.
+Operator
+Thank you. Our next question comes from the line of Roger Boyd with UBS. Please proceed with your question.
+Roger Boyd
+--
+UBS -- Analyst
+Great, thanks for taking the question. Guy, I wanted to come back to conversions. And I get the dynamic there of wanting to focus on that conversion now and the increased effort required to sell that conversion. But it felt like a couple of quarters ago, there was more optimism around attaching more of the platform at the time of conversion.
+I guess am I getting that right? And if so, have you seen any change to that ability to attach more of the platform? Or conversely, has there been any change to how you're pricing those SaaS conversions? Thanks.
+Guy Melamed
+--
+Chief Financial Officer and Chief Operating Officer
+No, we don't see any change in terms of the pricing. We're seeing healthy uplift on the conversions themselves. We talked a lot about the fact that the price list of SaaS is 25% to 30% higher than the on-prem subscription. We're seeing very healthy conversions in terms of pricing.
+We feel good about the ability to convert our customers. But keep in mind, we only announced the transition two years ago at the beginning of 2023, and we're already at 53% SaaS of ARR. So, when you think about the magnitude and the dollar value that's involved in order to get so many of our customers to SaaS, you have to take that into consideration. 53% getting to the majority of our ARR coming from SaaS within two years is something that we feel very proud of.
+And if -- and with our decision to kind of complete the transition in 2025, if we can execute the way we believe we can, we'll be completing the transition in three years. That's two years quicker than what we initially thought and a year shorter than kind of what we talked about a year ago. So, we're very pleased with our ability to convert. The pricing is holding very well.
+We feel that once we convert our customers, there's an additional opportunity to sell them more platforms. It's in their benefit to move to SaaS, they'll be better protected and it's also better for us. So, it's a win-win for everyone. And that's why we're so happy with that with where we are so far, and we're very optimistic with going into 2025.
+Roger Boyd
+--
+UBS -- Analyst
+Appreciate the color. Thanks.
+Operator
+Thank you. Our next question comes from the line of Shaul Eyal with TD Cowen. Please proceed with your question.
+Shaul Eyal
+--
+Analyst
+Thank you. Good afternoon, Yaki, and congrats. Our checks indicate that you're seeing no headwinds whatsoever from Microsoft's Purview. I would even characterize it that you guys are seeing tailwinds when compared with their products.
+Can you talk to us about your Microsoft relations? Also as we think about it from a Copilot perspective and the potential growth, it could be seen in 2025 and beyond?
+Yaki Faitelson
+--
+Co-Founder and Chief Executive Officer
+So, we have a good partnership with them. Primarily, it's working on a case-by-case basis. We have maybe 20% overlapping feature with Purview. But by now, it's a completely different value proposition in terms of the automated remediation, the UBA, the everything that's related to threat detection, very accurate classification at scale.
+But more than anything, I show we work extremely well together. We just -- we're using their label, them work very well with customers. And Varonis and Microsoft, one plus one equals five. It works very well for customers, and we have good partnership with them, but primarily a very good value proposition together.
+Operator
+Thank you. Our next question comes from the line of Rob Owens with Piper Sandler. Please proceed with your question.
+Rob Owens
+--
+Analyst
+Yeah, good afternoon. Thanks for taking the question. I was hoping you could elaborate a little bit more around the AI contribution comments that you made, saying it was meaningful for the first time this quarter. Can you quantify it or talk about anything that may be changed quarter over quarter that made it become more meaningful? Thanks.
+Guy Melamed
+--
+Chief Financial Officer and Chief Operating Officer
+Absolutely. When we look at our new customer ARR growth, it really accelerated to approximately 50% in Q4. And this was driven both by MDDR and Copilot. And when we look at kind of MDDR and Copilot and the way we price it and the way we allow kind of the packaging of it, it could be sold individually, but the packaging really incentivized selling both as part of a platform sale with one SKU.
+And when we look at kind of the behavior of our packaging throughout 2024, it's worked really well. And it worked so well that it's really hard to pinpoint exactly which one of these two strong growth vectors is driving our business. And we've said in the past that MDDR could be like DatAlert, as every customer should have it. And we talked about Gen AI as raising awareness for our solution and driving demand for Microsoft 365 and Copilot offerings.
+So, we really try to be as transparent as we can and provide as much information as possible. So, we spent a lot of time trying to provide a metric. And we have one that I think can really stand out. When we look at 2024, we added nearly 100% more new users protected by Microsoft 365 offering when you compare that to 2023, which we think is driven by the increased customer interest in protecting Microsoft 365 and Copilot.
+So, really, at the end of the day, it's clear that the new customer momentum is working really well, and both MDDR and Copilot are the key drivers of that, and we believe this trend is very durable.
+Rob Owens
+--
+Analyst
+Thanks, Guy.
+Operator
+Thank you. Our next question comes from the line of Jason Ader with William Blair. Please proceed with your question.
+Jason Ader
+--
+Analyst
+Yeah, thank you. Good afternoon, guys. I guess the first thing I wanted to make sure of is, so the revenue miss in the quarter relative to your guidance, that was purely a function of the faster-than-expected transition to SaaS? Or was there some other elements to the FX or anything else?
+Guy Melamed
+--
+Chief Financial Officer and Chief Operating Officer
+When you go back to our guidance for Q4, we talked about a SaaS mix of 49% for Q4. And we actually got a 53% SaaS of ARR. So, there's $11 million of headwind, which is 7% of headwind to our guide. So, we're very happy that we were able to move quicker.
+And we talked so many times about the fact that the quicker we move, the more headwind we get on revenue because of the revenue recognition difference between on-prem subscription that is recognized upfront versus the SaaS revenue recognition, which is ratable. So, if we continue to miss on revenue because of the fact that we're moving quicker, I think all of us would be happy, investors would be happy, and that's what happened in Q4.
+Jason Ader
+--
+Analyst
+All right. Great. And then so, I understand the revenue headwind, but I'm struggling a little bit on the ARR headwind. So, I just wanted to make sure I fully understand because there is an uplift in a normal SaaS conversion, correct, like a price uplift when you convert somebody.
+Can you just talk about the sort of the puts and takes there? Because it seems like even with the price uplift, you're hitting some headwinds?
+Guy Melamed
+--
+Chief Financial Officer and Chief Operating Officer
+So, we talked a lot about the fact that when you look at kind of the uplift, it's 25%, 30% when we do the conversions. But the one thing to keep in mind is that we're approximately one-third of our existing customers that converted over a two-year period. So, if you take that 25%, 30% uplift and you extrapolate that over a two-year period, it basically gets you somewhere in that NRR number, which is the 105. And we talked about kind of the conversion being somewhat of a drag on the business, especially when you look at how simple the message is to new customers and how the MDDR -- and now we saw in Q4 the Copilot is resonating so well to a point where we saw a significant increase in the new customers.
+So, yes, we are getting that uplift and we're seeing very strong pricing from the uplift. But at the end of the day, we only converted approximately one-third of our customers over a two-year period. And that's part of the reason we want to accelerate our conversions in 2025 and be done with the transition in one more year.
+Jason Ader
+--
+Analyst
+Understood. Thank you.
+Operator
+Thank you. Our next question comes from the line of Fatima Boolani with Citi. Please proceed with your question.
+Unknown speaker
+--
+-- Analyst
+Hey, good afternoon, guys. This is Mark on for Fatima. Thanks for taking our questions. Maybe just digging into the behavior of customers that have converted.
+Now that we're well into the transition, can you maybe share some of the expansion behavior and cadence of converted installed base in year one? And what are some of the patterns of adoption you're seeing in year two? And then additionally, with the observed learnings and the accelerated transition time line, how should we think of the trajectory of NRR through calendar '25? Thanks.
+Guy Melamed
+--
+Chief Financial Officer and Chief Operating Officer
+Look, very good questions, and I'll try and address them one by one. First of all, when you look at kind of the behavior, we only announced the transition at the beginning of 2023. So, we're only two years there. We don't have a full set of data of analyzing how the behavior of SaaS customers progresses because really, there's not enough history there.
+But from the numbers that we have analyzed, we had seen that the 2024 NRR numbers are actually higher, nicely higher than the 105 that we reported for the full existing customer base. So, that gives us a lot of confidence that as we complete the transition, we have the ability to sell additional licenses to our existing customers. The richness of the platform is great, there's a ton of opportunity to sell to the base. We just need to make sure that we move them to SaaS.
+They get the MDDR, we talk about the automation and they feel the automation. And with that automation, we could come back and sell them additional platforms. So, overall, we feel very optimistic. And that's part of the reason that we want to move as quickly as we can in 2025.
+Unknown speaker
+--
+-- Analyst
+Great. Thank you.
+Operator
+Thank you. Our next question comes from the line of Andrew Nowinski with Wells Fargo. Please proceed with your question.
+Andrew Nowinski
+--
+Analyst
+All right. Thank you for taking the question. I just wanted to ask about maybe the size of this conversion. I mean, it looks like you added about $215 million in SaaS ARR in 2024 and your guidance assumes about another $362 million.
+So, significantly more ARR. And I think you just said you still have about two-thirds of your customers left to convert to SaaS. So, it's a pretty big chunk of customers as well. I guess what gives you confidence that you can massively increase, I guess, the conversions to SaaS this year versus what you saw in 2024?
+Guy Melamed
+--
+Chief Financial Officer and Chief Operating Officer
+So, if you remember, when we did our Investor Day in March of 2023, we kind of outlined the plan to complete our transition in 2027. And we defined completing the transition when we get to 70% to 90% of total company ARR coming from SaaS. Now we expect to complete, obviously, in 2025, and we talked about kind of the number that we see at the end of the year being 78% of ARR coming from SaaS. So, from a numbers perspective, the assumption is that SaaS ARR is going to be approximately $580 million by year-end.
+And as you mentioned, it's a significant increase. As we sit here today, the assumption is $240 million of SaaS ARR in 2025, a meaningful increase versus the $215 million that we had in 2024, but you're thinking about it completing the transition by getting to 100. And we're talking from a numbers perspective and where we sit here today of completing the transition when you get anywhere between 70% to 90% and our starting point for the year is 78%. I actually think we can do better than that.
+But as we sit here today, that's the starting point for us.
+Yaki Faitelson
+--
+Co-Founder and Chief Executive Officer
+Because it's very important to understand that we really narrowed a lot of the parity gap between the ops and the SaaS platform, and we build a lot of automation to make sure that we can migrate fast to the SaaS. So, we want to make sure that the migration itself, we work in a frictionless, more automated way.
+Andrew Nowinski
+--
+Analyst
+Got it. Thank you.
+Operator
+Thank you. Our next question comes from the line of Rudy Kessinger with D.A. Davidson. Please proceed with your question.
+Rudy Kessinger
+--
+Analyst
+Hey, thanks for taking my question, guys. As the conversions, I guess, start to wind down -- and I guess it's not really winding down this year, but more so next year, you're obviously going to have cross-sell, upsell and/or new logo ARR -- net new ARR start to simultaneously pick up if you're going to sustain this kind of growth profile, going back to Hamza's question earlier. So, how do you ensure that happens? Like if your reps are so heavily focused on conversions this year, how do you, at the same time, make sure you're building up that cross-sell and upsell pipeline heading into '26 to make sure that pipeline is there to support that sustainable growth profile?
+Guy Melamed
+--
+Chief Financial Officer and Chief Operating Officer
+So, first of all, let's talk about 2024. We finished the year with ARR growth of 18%, and our NRR was at 105. So, when you do the math, you basically see that the driver -- what drove the business in 2024 was the new business. So, I actually think that when we complete the transition, it puts us in a better position to do the upsell.
+And if we can continue to sell to new customers and with the platform that we have and the simplicity and the MDDR and the Copilot and there's a lot of tailwinds that are working in our favor, when you bake that in and you kind of eliminate the headwind that the conversions are generating, it puts you in a much better position. So, look at the results in 2024 and kind of understand where the growth -- where the drivers came from. And I think that if you look at how this company can look post transition, it's a much healthier position with the richness of the platform that allows you to go back to it to much better NRR numbers that we believe we can get to post transition.
+Operator
+Thank you. Our next question comes from the line of Shrenik Kothari with Robert W. Baird. Please proceed with your question.
+Shrenik Kothari
+--
+Analyst
+Hey, guys, thanks for taking my question. Hey, you mentioned that a key benefit of accelerating this SaaS transition, of course, the eventual freeing up of sales and engineering resources to concentrate on features and expansion, and I'm presuming AI security, all of that's part of that. Rather than focusing on conversion and logistics around that. Could you help us better understand the resource reallocation comment and plans, some specifics? Are you anticipating kind of repurposing the sales pre sales force into more specialized roles focusing on like advanced AI and that driven demand security since you mentioned about AI seeing inflection? And then just like how do you see this intersect with the phase 2 in your transition, particularly around converting these large on-prem accounts, which might have pretty specific data residency, regulatory requirements? I really appreciate your thoughts here.
+Thanks.
+Guy Melamed
+--
+Chief Financial Officer and Chief Operating Officer
+So, when you look at kind of the 2025 comp plan, each rep has a specific target to convert their self-hosted customers to SaaS. And that's something that we didn't have in 2024. With that said, we're not losing the focus on new customers. And the new customers is what drove us in 2024.
+And we believe that with the tailwinds that we have and the simplicity of the platform, we can continue seeing that in the years ahead. So, I think the -- it's not that -- some of the resources that we're getting are on top. We already did some hiring, and we're also doing additional hiring for the purpose of making sure that we can cater to the documentational challenges that we're seeing with the conversion. But at the end of the day, it's not like we're changing the framework of the sales force, everything is staying the same.
+We're doing things in a very prudent way. When you look at the expense -- and the ARR contribution margin, we've progressed very well over the last two years since we started the transition, and we're at 16.6% ARR contribution margin. So, everything we're doing, we're doing with -- thinking very well about the leverage, bringing some of it to the bottom line and the free cash flow. So, think about where we are two years into the transition, free cash flow being at $108.5 million, doubling that number from last year.
+I think all that we're doing is trying to make sure that the experience for the customer is as easy and smooth as possible. And some of the lessons that we took from 2024, we're trying to implement in 2025.
+Operator
+Thank you. Our next question comes from the line of Joshua Tilton with Wolfe Research. Please proceed with your question.
+Joshua Tilton
+--
+Analyst
+Hey, guys, can you hear me?
+Guy Melamed
+--
+Chief Financial Officer and Chief Operating Officer
+We can.
+Joshua Tilton
+--
+Analyst
+Great, thanks for sneaking me here at the end. I just have maybe a two-parter. The first one is -- and I apologize to beat a dead horse here, but on this decision to kind of accelerate the transition, many times on the call, you pointed out, you guys are already tracking ahead of your initial plan to convert to SaaS. So, I guess I'm trying to understand, did something change this quarter that's making conversions more challenging than they were previously to the point where you felt like you needed to incentivize an acceleration in the rest of the transition? And then my second part of the question is just how contingent or how necessary is it for you to actually accelerate the transitions in 2025 in order for you to hit the ARR guidance that you gave us tonight?
+Guy Melamed
+--
+Chief Financial Officer and Chief Operating Officer
+I think when you look at -- let's start with the guidance first. So, I think when you look at the guidance that we gave for 2025, it goes based on the same philosophy that we had in 2024, meaning that the net new ARR contribution from previous year is kind of the starting point. And as we sit here today, there's a lot of benefits that we think can become tailwinds for us, whether it's the regulation, MDDR, the threat environment, Gen AI, basically, the increased demand for Varonis as a whole. So, I think it's -- when you look at the guidance, it's a good starting point for the year.
+And as we have done in the past, we'll be more than happy to update our guidance as the year progresses. So, that kind of takes care of the guidance question. I think when you look at the conversions, I'm not -- I don't think there's anything new in what we're saying now versus what we said versus what we said over the last two quarters. You heard us talk a lot about the fact that conversions are not what is leading the company.
+We got a lot of questions over the last couple of months from investors that thought that what's driving the business and what's driving ARR is kind of the conversions and what's going to happen when the company finishes the conversion process. And I think when you look at the numbers in 2024 and you look at the ARR number and you look at the NRR number, you understand that everything that we've said over the last couple of quarters actually is reflected in the numbers. What's driven the growth in 2024 with the new business. I think it's in everyone's best interest that we accelerate the transition, it's in our customers' best interest, it's in our investors' best interest.
+It's in the company's best interest. And we're making sure that we're doing it the right way, in a prudent way, but in a very strategic way to make sure that our customers could be better protected, much quicker than if they stayed on an on-prem subscription.
+Yaki Faitelson
+--
+Co-Founder and Chief Executive Officer
+But what the value is just the functionality on top of this cloud architecture, the overall software. And the way that it works is that we need to bring our customers to SaaS to realize value. Once they are there, the only thing they need to do in order to get the value is to buy the software, almost nothing else. And this is everything.
+We see where we want to put our customers. Once it's there, they cannot have data breaches. They can be in compliance all the time, and we do it with a very, very lean team. As I said before, this is what we are trying to do, and we want to make sure that they are -- it's really 10% of the effort, 10 times more the value in many, many, many cases.
+This is where we want to be. So, this is -- once we are there, everything is much easier for our customers and everything is much easier for us.
+Joshua Tilton
+--
+Analyst
+Super helpful, guys. Makes sense. Thank you.
+Operator
+Thank you and our next question comes from the line of Matt Dezort with Needham and Company. Please proceed with your question.
+Matt Dezort
+--
+Analyst
+All right. Thanks for squeezing me in and congrats on the quarter, guys. I wanted to ask about the Gen AI pipeline. Just curious how your balance is for Copilot across new and existing customers, what the opportunity looks like? And since it sounds like it's being bundled in more and more with MDDR, what sort of uplift are you seeing with those two when included in a deal? Thanks.
+Yaki Faitelson
+--
+Co-Founder and Chief Executive Officer
+OK. This Copilot is something that we believe that almost every knowledgeable worker eventually will have. And I think that so far it's working exactly as we expected. As you roll it out, Copilot more within the organization, the data security problem becomes more evident, you can't ignore it.
+These robots are bringing you a lot of data that you shouldn't get, and many times, employees are doing things that they shouldn't do. So, Varonis is the foundation for a secure deployment of AI, but you can also see for Microsoft that it's still in the early innings for them. But I believe that eventually, it will be in the hands of every knowledgeable worker. So, it's everywhere.
+Every organization that is using AI will need us to protect it and you can see these existing customers, prospects from all over.
+Operator
+Thank you. And this concludes the question-and-answer session. Therefore, I would like to turn the call back over to Tim Perz for closing comments.
+Tim Perz
+--
+Director, Investor Relations
+Thanks for the interest in Varonis. We look forward to meeting everyone this quarter at the investor conferences. Goodbye.
+Operator
+[Operator signoff]
+Duration: 0 minutes

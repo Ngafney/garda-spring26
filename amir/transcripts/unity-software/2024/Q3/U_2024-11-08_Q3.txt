@@ -1,0 +1,252 @@
+Daniel Amir
+--
+Vice President, Investor Relations
+Welcome to Unity's third-quarter 2024 earnings call. My name is Daniel Amir, VP and head of investor relations. After the closing of the market today, we issued our shareholder letter. That material is now available on our website at investors.unity.com.
+Today, I'm joined by Matt Bromberg, our CEO; and by Mark Barrysmith, our Interim CFO. But before we begin, I want to note that today's discussion contains forward-looking statements, including statements about goals, business outlook, industry trends, market opportunities, expectations for future financial performance and similar items, all of which are subject to risks, uncertainties, and assumptions. And you can find more information about these risks and uncertainties in the Risk Factors section of our filings at sec.gov. Actual results may differ, and we take no obligation to revise or update any forward-looking statements.
+Finally, during today's meeting, we will discuss non-GAAP financial measures. These non-GAAP financial measures are in addition to and not a substitute for or superior to measures of financial performance prepared in accordance with GAAP. A full reconciliation of GAAP to non-GAAP is available in our shareholder letter and on the sec.gov website.
+Matthew Bromberg
+--
+President and Chief Executive Officer
+Thank you, Daniel. Good afternoon to everyone. On behalf of all the good folks at Unity from around the world, I'd like to thank you very much for joining today's call. When we were together last quarter, we declared an intention to make meaningful change at Unity.
+We said we wanted to prioritize execution and discipline to drive more rapid product innovation and to restore the strong authentic bond we have with our customers and our community. We've acted on those intentions over the course of the last 90 days in many different ways, and we're feeling the impact of that positive momentum, both inside and outside the company. We started off with the cancellation of the runtime fee, a reversion to a subscription-based model and introducing price increases that customers could understand. And all this has unblocked our renewals pipeline and reconnected us with our community.
+We followed that up with the delivery of Unity 6, the best performing, most stable version of Unity we've ever shipped. Unity 6 marks a fundamental change in how we're going to approach the development cycle going forward. At launch, we introduced a new upgrade philosophy, which through greatly enhanced testing in real production environments, is designed to enable customers to take advantage of new features over time with fewer sacrifices to stability. Maintaining a better and more consistent feedback loop will help ensure we deliver tools that make a tangible difference for our customers every day.
+This combination of a new approach, new pricing and new software is core to our strategy. When developers choose Unity, they're potentially building a business on top of our platform for decades, and we're dedicated to making that choice easier for them every day. The increases we're seeing in early adoption of Unity 6 are a great indication that this strategy is connecting. And we're also really feeling the positive momentum outside of our gaming customer set.
+Growth has remained strong in the industry during Q3 and remains our fastest-growing subscription business. Key new customer accounts this quarter included KLM, the Dutch airline. They're building a VR cockpit training application and Deutsche Bahn, the German national rail operator, who built a series of systems and training simulations in Unity. We also talked last quarter about how we're undertaking a fundamental rebuild of our machine learning stack and data infrastructure and using AI to enhance the return on investment we're able to deliver to our advertising customers.
+We're happy to report great progress on that work, which is already in testing on live data, and we're really encouraged by the early results we're seeing. Game monetization will not be a winner-take-all market. I can tell you for certain from personal experience that customers don't desire that outcome. Unity has a unique insight into how to maximize the lifetime value of the gaming consumer, and it's derived from our integral role in both the development and live operations of cross-platform games.
+The work we're doing to unlock those insights and to improve the gaming industry for developers and consumers alike is what motivates us here at Unity every day. We've also made major strides during the quarter in building out a new leadership team. Attracting leaders with depth of experience to make meaningful positive change is critically important to continue growth over the long term. At the end of October, we brought onboard Steve Collins as our new CTO.
+Steve brings decades of experience from his tenure as the CTO at King, the studio behind hits like Candy Crush as well as being the Co-Founder and CTO of Havok, the pioneering physics engine that helped define modern gaming. Today, we're equally excited to announce that we've hired a new CFO, Jarrod Yahes, who begins full time with us on January 1, '25. Jarrod joins Unity from Shutterstock, where he has served as CFO for the past 5 years, helping drive the company's portfolio expansion into 3D content, data monetization and digital advertising while also emphasizing revenue growth and profitability. So in summary, we're pleased to be progressing against our transformation strategy, while at the same time, delivering quarterly results that exceeded the top end of our guidance range.
+Our vision for Unity is clear. We believe we have a critical role to play in helping drive the game industry forward to its next stage of growth. We're the only company in the world capable of providing a platform to power the entire development cycle from prototyping through live service management to user acquisition and monetization. This puts us in a position to be able to drive fundamental improvements to the economic calculus of making successful games.
+On the production side, AI-enhanced tools will speed the development process and will enable greater innovation. While in live operations, advertising, and monetization we'll be able to provide insights that customers won't be able to get anywhere else. We see every one of the 3 billion monthly downloads of a Made with Unity product as another opportunity to provide value back to the users who are enjoying the product and to our customers who are creating that product. We'll have much more to say about all this as the work continues.
+Our team is aligned and energized to fulfill this vision while also focused really hard on continuing to improve our business every day. I'll turn the call over now to our interim CFO, Mark Barrysmith, for an overview of our financial performance. Before I do, I'd like to thank him very much for his work over the last 90 days or so as we prepare to welcome our new CFO to Unity in the new year. Mark?
+Mark Barrysmith
+--
+Interim Chief Financial Officer
+Thanks, Matt. We are pleased with our third quarter results that exceeded guidance for both revenue and adjusted EBITDA. In Q3, revenue from our strategic portfolio was $429 million, down 2% year-over-year and up 1% sequentially from Q2. This compares favorably to our guidance of $415 million to $420 million.
+Third quarter Create Solutions revenue from our strategic portfolio was $132 million, up 5% year-over-year and up 2% quarter-over-quarter, driven by growth in our subscription revenue, which was up 12% year-over-year. Gross solutions revenue from our strategic portfolio in the third quarter was $298 million, down 5% year-over-year and up 1% quarter-over-quarter, expanding on the sequential growth we saw in Q2. Adjusted EBITDA for the total company for the third quarter was $92 million compared to guidance of $75 million to $80 million. We delivered $115 million in free cash flow in the third quarter, up 11% from $104 million in the prior year.
+Cash and cash equivalents at the end of the quarter were $1.4 billion. With that, let me turn to guidance. We are raising guidance for the full year for our strategic portfolio to $1.703 billion to $1.708 billion compared to $1,680 billion to $1,690 billion previously. And adjusted EBITDA of $363 million to $368 million compared to $340 million to $350 million previously.
+This translates to Q4 guidance of $422 million to $427 million and Q4 adjusted EBITDA of $79 million to $84 million for the total company. The Q4 guide reflects continued caution on the timing of the revenue recovery in our Grow business as well as expectations of some additional compute costs associated with the training of our new machine learning models. With that, let me turn the call to Daniel so that we may take your questions.
+Daniel Amir
+--
+Vice President, Investor Relations
+[Operator instructions] So the first question comes from Jason Bazinet from Citi.
+Jason Bazinet
+--
+Analyst
+Great. Thanks so much. I would just -- so you guys have done a great job sort of stabilizing everything, identifying your strategic priorities and bringing in new talent. I guess for investors that are in this for the long haul, what sort of parameters would you put around sort of what the growth of this business could look like 3 to 5 years down the road?
+Matthew Bromberg
+--
+President and Chief Executive Officer
+Jason, thanks for your question. We -- as I was sort of indicating in the opening -- in our opening remarks, we are really bullish on the long-term value of Unity. We think we're in a really unique spot in a really big, vibrant business. The creation of 3D content in interactive entertainment is just going to grow.
+We believe that we're in an amazing spot as a tools provider to fundamentally change how the next generation of content gets created. Again, I can tell you as someone who made games for a really long time, when you think about starting new projects and how much you can invest, that calculation is a direct result of how many people and how much time. And as a tools provider and a proud tools provider and as a platform provider, we have an opportunity to fundamentally change how people think about creating interactive content. If they can do it more efficiently and more effectively, they're going to make more and they're going to innovate more, and we're going to get growth.
+And we're really excited and proud to play that role. And as I said, again, in the opening statements, we think we are in a unique spot with respect to being the only company, we believe, in the world that can sit as a platform through the entire life cycle of development from prototyping through to operating live service and into monetization and advertising in UA. And those insights that we glean from being a platform, we can share those with our customers. and fundamentally offer insights that we think over time that no one else can.
+And to your point, we've got work to do, to do that. But we know what the work is, and it's work that's doable. And we're excited about it, and we're seeing and feeling the wind at our back from the perspective of how customers are responding and some of the early results of the investments we're making. So this is -- it's a business that we really couldn't be more excited to be in.
+Jason Bazinet
+--
+Analyst
+I don't want to put words in your mouth, but is it fair to say that the algorithm is you believe you can grow faster than whatever the mobile gaming industry is growing given the value that you're providing plus using your software and nongaming verticals on the Create side?
+Matthew Bromberg
+--
+President and Chief Executive Officer
+I would say that there is a -- I guess the way I would say it is there's a lot of runway for us to grow in this market, especially on the UA and monetization side. And we're convinced that as our offering and our tools and our insights improve that, that opportunity is going to be meaningful.
+Jason Bazinet
+--
+Analyst
+Thank you.
+Daniel Amir
+--
+Vice President, Investor Relations
+Thank you, Jason. So the next question is from Clark Lampen at BTIG.
+Clark Lampen
+--
+Analyst
+Thank you very much. Can you guys hear me, OK?
+Daniel Amir
+--
+Vice President, Investor Relations
+We can.
+Clark Lampen
+--
+Analyst
+OK. Perfect. Matt, I wanted to follow up on the sort of Grow topic that we were just discussing a moment ago. You mentioned that you're in live testing now.
+Is it possible to help us understand sort of what the road map for launch and development maybe looks like in '25? And is it possible to sort of contextualize for us also what you're seeing in terms of maybe campaign performance and efficacy sort of like-for-like?
+Matthew Bromberg
+--
+President and Chief Executive Officer
+Yes. I mean I can describe for you the process of sort of building and testing and validating a platform of this nature. And it's one that probably won't surprise you to learn is highly iterative. And what I was making reference to in the opening about testing on live data is we've got kind of our new machine learning models and our new neural network.
+And it's up, and we're testing it on live data. And obviously, what you want to see is you want your new models to be better than your old models. And you want those new models to be meaningfully better in all different leathers in different genres, in different geographies, in different market conditions. And it takes time to validate that work.
+And in the interim, you're effectively operating 2 networks. And the road map looks like us continuing to build out that capability and continuing to validate and continue to test and launching when it's ready. And so I don't want to get too far out in front of the work and be overly specific about that. But again, I would say that we're feeling very good about -- we're feeling good about where we are and the impact we hope it will have.
+Clark Lampen
+--
+Analyst
+Understood. And at the top of the call, you sort of talked about exacting change. You've certainly wasted no time on that front. The runtime transition.
+I'm curious, I guess, I think a lot of folks, myself included, have been really focused on the numbers impact of introducing variable fees and less so, I think, the relationship consequences for you and some of the publishers that are using the platform. If we were to pull back and think about how that's improving, what sort of opportunities with sort of enhancement or expansion of the existing relationship exist or maybe will be sort of front and center for you guys in '25?
+Matthew Bromberg
+--
+President and Chief Executive Officer
+Yes. Thanks, Clark, and thanks for the follow-up. It was -- to your point, the way in which we made the change in repealing the runtime fee was as important as repealing -- as the repeal itself, which is to say that, the relationships we have with our customers and wanting to be in a position of partnership with them, knowing that they are going to be our customers for decades, and many of them have already been our customers for that long and knowing the opportunity to expand those relationships, both on the platform and engine side as well as on the advertising monetization side makes it crucial that we prioritize that -- those relationships. And I think to your point, there was -- in some of the old thinking about pricing, we kind of got away from that -- the sort of human relationship piece and fell back a little bit on an abstraction.
+I mean the truth is that customers have to, over the long term, feel satisfied and feel in sync with the kind of value you're providing and how they are paying for it. And that is crucial for any long-term relationship. So -- and the way we engaged in those conversations with customers and the lead up to it and the time we spent with them testing different ideas, asking them for feedback was again really important in terms of just resetting how we're going to be in the marketplace. And to your point, over the long term, we are very bullish on the opportunity we have to expand the relationships with those and other customers.
+The opportunity to sell consumption-based products, whether they be multiplayer tools, live ops services, tools for data management, asset management, consumption-based pricing on AI-enhanced tools or other things, those are all going to be outgrowth of platform adoption and those customer relationships. And the piece I also mentioned at the top about fundamentally thinking differently about how we develop products is sort of the sister concept here. So in the past, we have built a lot of these products and have acquired some of them, but haven't always validated our work in real-world production environments with real customers. So what I mean is, quite simply, sitting with customers to design tools that deliver the value they need and want so that we can then abstract those solutions and sell them to many more customers.
+So the opportunity to expand those relationships over time is crucial for us and getting in the right space on pricing was crucial. The last thing I'd say about it is that we feel really good about how we're set up on the pricing side, both with the relationship, but also with respect to the growth that the changes we've made, and the increases are going to enable us to see over time without drama and with much more consistency.
+Clark Lampen
+--
+Analyst
+Great.
+Daniel Amir
+--
+Vice President, Investor Relations
+Thank you, Clark. So the next question is Brent Thill from Jefferies.
+Brent Thill
+--
+Analyst
+Great. Matt, just in terms of the changes that you made in your team and good to see the new hire. When you think about kind of where you're through that process, I'm not asking for specific roles, but I mean, how far are you through this process of now getting the right team on the field to execute what you'd like to go going forward?
+Matthew Bromberg
+--
+President and Chief Executive Officer
+Yes. Thank you so much for the question. We feel really good about where we are in that respect. We feel good with the construction of the team.
+Lots of great experience, lots of operational focus, lots of really specific understanding in the markets that we're operating in and just really connected with one another in terms of the vision and being aligned around changing the culture and executing and delivering value to customers. So I'd say that it has been -- we've been really pleased with the sort of pace of that change with our ability to attract the right talent. And the other thing I'd be remiss if I didn't mention is that much of the talent has come from inside our organization. Yes, we've had some key external hires in the CFO and CTO that we talked about today, for example.
+But there's a very strong bench of incredibly smart effective people at Unity that we've been able to elevate who provide us not only the kind of ability to make change and progress, but also a deep understanding of the history of the company. So I'm feeling that we're in a pretty good spot. To your point, there's always -- you're always looking to bring world-class talent in when you can, but pleased with the progress and where we are in that process.
+Brent Thill
+--
+Analyst
+Great. Thank you.
+Daniel Amir
+--
+Vice President, Investor Relations
+OK. Thank you. Next question is Gili from Goldman Sachs.
+Gili Naftalovich
+--
+Analyst
+Hi, everyone. Thanks for taking the question. Confirming you can hear me OK.
+Daniel Amir
+--
+Vice President, Investor Relations
+Yes.
+Gili Naftalovich
+--
+Analyst
+OK. Perfect. Nice to talk to you guys. I'm curious, Matt, as you talk to customers this quarter, how is the cancellation of the runtime fee and the official launch of Unity 6 changed the perception or willingness of customers to adopt the new game engine.
+Curious to know how maybe key metrics you are evaluating such as new game starts or adoption are trending?
+Matthew Bromberg
+--
+President and Chief Executive Officer
+Hi, Gili, thank you very much for the call. Yes, it's important to remember that the pricing that we repealed had a real blocker baked into it, right? So it was this -- it was unattractive from a pricing perspective, but that -- those new prices were tied to the upgrade of Unity 6. So if you didn't want to pay the new prices, all you have to do is not upgrade. That obviously was not a great dynamic from our perspective.
+So in addition to the sort of relationship elements and changing fundamentally in how we're talking to customers, there was also a really enormous practical impact in which, for example, at our Unite Conference in Barcelona, where literally 50 customers came up to me and said, hey, I had said -- I told everybody internally, no upgrade in Unity 6. And now that we've -- you've repealed it and you've reverted to the subscription, we're a green light. So those dynamics change really radically. I think the other important piece for us, and this also came out at our user conference in Unite was -- and I hope that customers heard from us that the most important thing from our perspective going forward is going to be stability and support.
+And ensuring that folks can use our platform for many, many years and not have to make trade-offs between adopting features and stability. And we spent a lot of our time at Unite. Of course, we always talk a little bit about some exciting new things that are coming down the road, but most of what we talked about was how can we help right now and how can we better partners? And we have felt the impact of us -- of all those changes. Unity 6 has been downloaded a little more than 500,000 times now, which is really quickly and pretty significant numbers for a product that's really just starting and compares really favorable to some of our historical numbers in that regard.
+We're also seeing it impact sort of the velocity of the conversations around renewals and other sort of key kind of KPIs from that perspective. So these things will take time to play out and will take time to play out in our numbers. But -- and we did institute a really significant price increase. So those -- some of those conversations are going to take a little while.
+But having said all that, it's -- we feel like we're in a very good place.
+Gili Naftalovich
+--
+Analyst
+Perfect. And one more, if I may. On your previous comments around expanding your existing customer relationships, how have your thoughts or strategy evolved around driving a stronger flywheel between the 2 parts of the business? And like what routes do you see being available to you?
+Matthew Bromberg
+--
+President and Chief Executive Officer
+Yes. And maybe this is a little bit inside baseball, Gili, but you know that expression, you ship your org chart. The first thing we did, and this was months ago, was to combine -- we used to have a separate division that made these other, we call them game services products. And that division was separate from the group of folks who built our editor.
+And the first thing we did was recognize that the greatest value we can provide is deep fundamental integration of these new products into the core editor experience. And so bringing those 2 teams of product designers and engineers together was the first really important step to understanding how to deliver better product. The second one we talked a little bit about a couple of minutes ago, which was ensuring that we're going to design products and inflect our road map with a real understanding of what the actual production reality is. And the third thing that we did there that we're feeling really good about is we elevated a new Head of Product and a new Head of Engineering, both of whom have very, very deep backgrounds as game developers and working with game developers and have a real intuitive, authentic understanding of what needs to be delivered to move the needle for customers.
+And all those things together have been really helpful alongside some modifications in how we're going to market. So we also merged the sales teams that are going to be selling those -- our core engine and editor with these game services. We used to sort of have it spread out in all sorts of different ways. So again, maybe a little inside baseball, maybe not the most exciting, but the execution layer of how you bring these to customers in the right way, integrate in the right way, priced the right way is really important to having success.
+Gili Naftalovich
+--
+Analyst
+Very clear. Thanks so much.
+Daniel Amir
+--
+Vice President, Investor Relations
+Thank you, Gili. Next question is Matthew Cost from Morgan Stanley.
+Matthew Cost
+--
+Analyst
+Great. Thanks for taking the question. I guess, Matt, in the prepared remarks and in the shareholder letter, you sounded really enthusiastic about some of the non-gaming opportunities still ahead for the company. Obviously, this is a business that's been part of the story for a long time, but I think it would be fair to say, has scaled slower than investors hoped for many years.
+So what are you seeing in that business that makes you excited about it and that makes you feel excited to recommit to it, focus on it and try to drive growth there going forward?
+Matthew Bromberg
+--
+President and Chief Executive Officer
+Yes, Matt, thanks so much for the question. Just not to geek out too much, but I think the first thing that's incredibly exciting is really getting into the products that are being created and how incredibly interesting and impactful they are and how broad-based they are, right? So across auto, retail, manufacturing, we see really cool stuff being developed on Unity every day. As I mentioned, KLM has built these cockpit training applications that allows pilots to practice and hone their skills and enhance their situational awareness. Deutsche Bahn has used Unity to help train system simulations for train dispatchers.
+And it's just -- we've seen in healthcare, this like incredibly moving product that was launched by children's hospital that was a no-cost 3D model that for pediatric care, where the viewing software allowed clinicians at any hospital anywhere in the world to interact with virtual 3D reconstructions of patient anatomy. So it's just -- and by the way, not to mention like most of the automotive businesses globally are using Unity for human machine interfaces in their cars. So incredibly broad-based adoption. So that -- part of that was just enthusiasm about seeing the demand if you will.
+I think the second piece that kind of underlies your question around the execution layer is I think we have -- we allowed our enthusiasm to maybe make us a little bit more ambitious than strictly speaking, was ideal. There is a real difference between doubling down on 3D visualization layer, the importing of 3D assets and then the manipulation of those assets and the building of applications on top of that, that can be distributed through our runtime on any device. That's our -- that's going to be our core business here. That's not getting really deep into the tech -- the industrial tech stack of digital twins and doing simulations of nuclear reactors.
+That's not likely to be in the near term for us. So focusing on what our strengths were on where in the tech stack we can come to customers reliably and where they can really understand how to build us in, that was really, really important. And the third piece was -- and it was a little bit like the question that Gili was asking was going to market in a more disciplined way, creating the right relationships with systems integrators, with solution providers so that in situations where you are doing deeper work with large industrial customers, and there are lots of those situations, you need those partnerships to penetrate those markets. And so doing that in a methodical way is starting to really kind of provide some real benefit for us.
+So it's that kind of enthusiasm matched with focus and execution that we're really getting behind.
+Matthew Cost
+--
+Analyst
+Great. And then if I could, just on the transition from Plus to Pro. I think we're about a year out from that where people made the transition on the old pricing. As people start to renew on the Pro pricing, I would expect that, that would be a tailwind to create results.
+Is that something that we should expect to see in the fourth quarter? Or does that play out more in 2025?
+Matthew Bromberg
+--
+President and Chief Executive Officer
+Our price increases tend to play out a little bit slowly over time because they're tied to upgrade cycles or renewal cycles to your point. So I think you're right to identify that as an advantage and something we're going to start seeing. But we'll start seeing that as well as the impact of our other price increases over time.
+Matthew Cost
+--
+Analyst
+Great.
+Daniel Amir
+--
+Vice President, Investor Relations
+Great Thank you, Matt. next question is Ross Sandler from Barclays.
+Ross Sandler
+--
+Analyst
+Great. Can you guys hear me?
+Daniel Amir
+--
+Vice President, Investor Relations
+We can.
+Ross Sandler
+--
+Analyst
+All right. Excellent. So I've got to ask the obligatory Gen AI question. So Matt, there's a bunch of start-ups that are building asset creation tools for gaming, and there's even new like entire environments like Google DeepMind launched this thing called Genie a few months ago that attempt to replicate elements of the Create stack.
+And admittedly, a lot of this is still pretty crappy. But if you look at the pace of improvement of these diffusion models and of AI in general, it gets pretty good pretty quickly. So I guess just as you look at the industry, how do you see and how are your customers integrating Gen AI into their workflow? How do you think this might impact your business, either from pricing or from a cost perspective? And how do you see this all kind of getting integrated over the next couple of years?
+Matthew Bromberg
+--
+President and Chief Executive Officer
+Yes. Thanks, Ross. I appreciate the question, and it's a really important one. Look, we know that AI has a fundamental role to play with our customers in terms of, as I mentioned earlier, making the process of building video games faster and easier and more engaging and innovative.
+So we are a platform and an assembly point for games and other applications. So -- and our extensibility is really our greatest strength. So we feel perfectly positioned to help developers integrate these tools. Keep in mind that from our perspective, we're agnostic as to where and how the 3D assets get created.
+We're about being an assembly point, providing close control, the pipelines you need to build, helping your team collaborate to do that building and then ultimately, cross-platform distribution through the runtime. So the explosion of Gen AI from our perspective, if it helps our customers, then we're going to kind of benefit from a seamless integration of the best first-party and third-party AI functionality inside our editors -- inside the editor. And we're going to offer those -- that to customers. So we feel very good about that, and we're not kind of fighting that at all.
+In fact, we're really excited about it. I think the second piece that I mentioned a little bit is we really believe that our focus should be on using AI to obfuscate some of the complexity in our tool to help unblock and accelerate difficult time-consuming tasks and workflows that our creators are already doing in our tool. That's why -- and that is just -- we can have a massive impact, again, on the equation that game companies make that they're working through this equation on how many new starts can I have every year, right? I've got a certain amount of dollars, a couple of points of EBITDA I'm going to use to make new games. How many games can I make? The more efficiently and the more quickly they can make games, the more starts we'll have, the more innovation we'll have.
+So it's -- I believe it really at the core of the next stage of growth of our industry, and we mean to play a really important part in that. The last thing I'd say is, interestingly, to your DeepMind examples, DeepMind is a Unity customer, and much of that work is -- leverages our technology. So we do have a really fundamental role to play here really throughout the AI ecosystem. And it's one I think we can get smarter and better at over time, and it's one we're spending a lot of time on.
+Daniel Amir
+--
+Vice President, Investor Relations
+Thank you, Ross. Next question is Andrew Boone from JMP Securities.
+Andrew Boone
+--
+Analyst
+Thanks so much for taking my question. I wanted to go back to pricing. Can you talk about the recent price increase that you guys rolled out across the platform and the realization of that pricing across more enterprise accounts? As we think about pricing going forward, I understood the double-digit goal, but is there any color you can add in terms of how we should be thinking about that? And then for my follow-up, I'd love to ask about just the go-to-market in terms of bundling, Create and Grow. As we do think about pricing, how do you think about incentivizing customers to utilize more of the product suite from a pricing perspective?
+Matthew Bromberg
+--
+President and Chief Executive Officer
+Yes. Thank you, Andrew. Really appreciate the question. Let me take the second one first, and then Mark will take the first part.
+We haven't spent a ton of time thinking, honestly, about how to incentivize customers to move to our growth solutions. And the reason is that the best incentive you can provide customers is great performance. And so our work is around making sure we deliver ROI. When we deliver ROI, customers will move.
+ROI and on your UA is the lifeblood of -- certainly of the vast majority of mobile games in the world. And so I don't think we need to think a lot about business model innovation in that respect. I think product innovation is what delivers growth there over time. And I'll let Mark pick up the question about how we're going to start to see the price increases.
+Mark Barrysmith
+--
+Interim Chief Financial Officer
+Yes, Andrew, on the price increases, like we talked about, we think this does give us the opportunity to drive double-digit growth. A few things to bear in mind. The price increases don't go into effect until January 1. So this starts to roll out through 2025 as customers come to renew or upgrade at the level they're at.
+So it's something that we see impacting us over the next couple of years as we make our way through that renewal cycle for customers. And then as we get out into the future, we mentioned that we're going to get back into a more consistent practice on annual price increases, which again helps us drive that double-digit growth that we see the opportunity to achieve.
+Daniel Amir
+--
+Vice President, Investor Relations
+Yes. This is just a double-digit growth in subscription, just to clarify. So next question is -- or last question is actually from Dylan Becker from William Blair.
+Dylan Becker
+--
+Analyst
+Hey, guys. Appreciate the question here. Maybe, Matt, for you. You talked about kind of the unblocking of the backlog.
+I guess, how are you thinking about the importance and validation maybe even of being able to take price under a different mechanism to tie that value to consumers or customers and pairing that maybe with the pace and cadence hiring of this qualified team, maybe both in parallel relative to kind of validation of Unity's strategic importance in this ecosystem, if that makes sense?
+Matthew Bromberg
+--
+President and Chief Executive Officer
+Yes, it does. And thank you, Dylan. I appreciate it. The reason I came to Unity is really because I could see very clearly how crucial the company was in the ecosystem, as you're describing, inside an enormous vibrant market.
+As the question we were just taking on AI, any of these questions we could go through and think about our role in the ecosystem and where it is, and it's a substantial and meaningful one. From my perspective, the only thing we are missing was execution and discipline and customer engagement and partner engagement around how to maximize that position, not through business model innovation or bundling or -- but through quality of relationships through taking our rightful position as a platform provider by delivering quality and by delivering value as that platform provider. And so the two things are fundamentally connected. The dynamics are there.
+All we need to do is put together the offering, the quality of the product, the nature of the platform and the set of relationships inside the ecosystem and understand how we're going to deliver value and how we're going to get paid for it. And doing that in a thoughtful, methodical, meticulous way, it was my view that, that was the only thing standing in between us and being one of the great companies in this space. And so that takes some time. And it's something, as I say, that we want to go out methodically, but it's by far the biggest value creator we can provide to this company.
+Daniel Amir
+--
+Vice President, Investor Relations
+Thank you, Dylan. So thank you, everybody, for dialing in today. We look forward to seeing you at one of our upcoming investor conferences that we have later this quarter that's on our website. And thank you, and have a great day.
+Matthew Bromberg
+--
+President and Chief Executive Officer
+Thanks everybody.
+Mark Barrysmith
+--
+Interim Chief Financial Officer
+Thanks all.
+Duration: 0 minutes

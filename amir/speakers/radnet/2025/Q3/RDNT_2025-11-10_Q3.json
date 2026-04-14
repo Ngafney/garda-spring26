@@ -1,0 +1,372 @@
+[
+  {
+    "speaker": "Unknown",
+    "role": "",
+    "text": "Full Conference Call Transcript"
+  },
+  {
+    "speaker": "Mark Stolper",
+    "role": "",
+    "text": "Good morning, ladies and gentlemen, and thank you for joining Dr. Howard Berger and me today to discuss RadNet, Inc.'s third quarter 2025 financial results. Before we begin today, we'd like to remind everyone of the safe harbor statement under the Private Securities Litigation Reform Act of 1995. This presentation contains forward-looking statements within the meaning of The U.S. Private Securities Litigation Reform Act of 1995. Specifically, statements concerning anticipated future financial and operating performance, RadNet, Inc.'s ability to continue to grow the business by generating patient referrals and contracts with radiology practices, recruiting and retaining technologists, receiving third-party reimbursement for diagnostic imaging services, successfully integrating acquired operations, generating revenue and adjusted EBITDA for the acquired operations as estimated, among others, are forward-looking statements within the meaning of the safe harbor. Forward-looking statements are based on management's current preliminary expectations and are subject to risks and uncertainties which may cause RadNet, Inc.'s actual results to differ materially from the statements contained herein. These risks and uncertainties include those risks set forth in RadNet, Inc.'s reports filed with the SEC from time to time, including RadNet, Inc.'s annual report on Form 10-K for the year ended 12/31/2024. Undue reliance should not be placed on forward-looking statements, especially guidance on future financial performance, which speaks only as of the date it is made. RadNet, Inc. undertakes no obligation to update publicly any forward-looking statements to reflect new information, events, or circumstances after the date they were made or to reflect the occurrence of unanticipated events. And with that, I'd like to turn the call over to Dr. Berger."
+  },
+  {
+    "speaker": "Howard Berger",
+    "role": "",
+    "text": "Thank you, Mark. Good morning, everyone, and thank you for joining today. On today's call, Mark and I plan to provide you with highlights from our third quarter 2025 results, give you more insight into factors which affected this performance, and discuss our future strategy. After our prepared remarks, we will open the call to your questions. I'd like to thank all of you for your interest in our company and for dedicating a portion of your day to participate in our conference call this morning. With that, let's begin. I am very pleased with the performance in the third quarter. Revenue and adjusted EBITDA were both quarterly records and exceeded internal budgets set at the beginning of 2025. Total company revenue increased 13.4% and adjusted EBITDA increased 15.2% relative to last year's third quarter, resulting in a 26 basis point improvement in adjusted EBITDA margins. This performance is reflective of several positive and continuing trends that have been driving RadNet, Inc.'s strong results in recent quarters."
+  },
+  {
+    "speaker": "Mark Stolper",
+    "role": "",
+    "text": "First, same center procedural volume"
+  },
+  {
+    "speaker": "Howard Berger",
+    "role": "",
+    "text": "continues to be robust, particularly within advanced imaging. Advanced imaging increased 13% on an aggregate basis and 9.9% on a same center basis as compared with last year's third quarter. This performance resulted from, among other things, equipment and software upgrades, which have shortened scanning times and increased capacity. A reduction of exam room closures from remote scanning enabled by DeepHealth's TechLive recently approved FDA software. Deployment of AI-assisted dynamic scheduling designed to fill exam slots that would otherwise have gone unused. Recent de novo center openings and tuck-in acquisitions along with the continuing shift from expensive hospital imaging towards more cost-effective ambulatory freestanding imaging. Margins continue to benefit from the continuing shift in procedure mix towards advanced imaging. In this third quarter, 28.2% of our procedures were from advanced imaging compared to 26.7% in the third quarter of last year. While the growth in advanced imaging is due in part to TechLive and the dynamic scheduling, which are serving to expand our operating hours and ensure appointments are fully utilized, it is also the result of certain advanced imaging specialty practices we have been building. Examples of these programs include prostate PET CT or PSMA, amyloid brain PET CT, prostate MRI, and coronary CT angiography. Today's advanced imaging equipment is more capable than ever, and some of the faster-growing advanced imaging studies are an outgrowth of recently FDA-cleared novel radioactive pharmaceuticals and advanced post-processing software. Furthermore, an increased focus within the healthcare delivery system on early detection of disease and population health screening is driving increased clinical indications for ordering more advanced imaging studies. RadNet, Inc.'s strong financial performance in the third quarter is also reflective of improvement in reimbursement rates with commercial and capitated payers recognizing the position RadNet, Inc. offers as a lower-priced alternative to hospital-based imaging. To this end, we have been successful in receiving rate increases from many of the larger commercial and capitated payers, and several capitated contracts have been converted to higher-paying fee-for-service relationships in recent quarters. The stronger operating results in the third quarter relative to our internal budget, along with trends that we are continuing into this year's fourth quarter, resulted in the decision to increase 2025 full-year guidance ranges for revenue and adjusted EBITDA. Mark will discuss this in more detail in his prepared remarks. Steady progress also continues in the digital health operating segment. The EBCD DeepHealth AI-powered breast cancer screening program continues to expand. Currently, we are experiencing a blended adoption rate nationally above 45%, with more cancers being found across RadNet, Inc. centers which otherwise might have only been detected at a later date. In the quest for reimbursement, we continue to make inroads with third-party payers. During the third quarter, several of our larger capitated medical groups agreed to add EBCD as a covered benefit for over 700,000 members. In an effort to boost compliance with annual breast cancer screening guidelines, Regal Medical Group, Lakeside Community Healthcare, ADOC Medical Group, and Desert Oasis Healthcare have agreed to reimburse RadNet, Inc. for its EBCD program. On July 17, the previously announced acquisition of iCAD, a global leader in clinically proven AI-powered breast health solutions, was completed. With over 1,500 provider locations facilitating over 8,000,000 annual mammograms in 50 countries, iCAD's ProFound Breast Health Suite and RadNet, Inc.'s DeepHealth AI-powered breast skin solutions together can materially expand and improve patient diagnosis and outcomes on a global basis through further enabling accuracy and early detection. We have substantially completed the integration to digital health of most of iCAD's operations, with cross-synergies ahead of plan and recent customer wins demonstrating the power of the newly merged entities. Also within digital health, we completed the implementation of C Mode's thyroid ultrasound technology across more than 240 RadNet, Inc. centers. As you may recall, C Mode's initial applications to detect and characterize thyroid nodules and breast lesions in ultrasound imaging improve diagnostic accuracy and enhance clinical workflows. In the most recent month, within the RadNet, Inc. centers, we processed over 14,000 thyroid scans using this technology. Early deployment of C Mode's FDA-approved thyroid ultrasound AI has demonstrated over a 30% reduction in scan time. Furthermore, because a reimbursement code already exists that makes a portion of our over 230,000 annual thyroid ultrasounds eligible for additional reimbursement, we have been successfully billing for C Mode's AI. An initiative is ongoing to pursue FDA approval for C Mode's next application in breast AI ultrasound, which constitutes over 600,000 of RadNet, Inc.'s approximately 2,700,000 annual thyroid exams. Some of you may have also seen last week an announcement that RadNet, Inc. acquired the assets of AlphaRT. AlphaRT has been advancing several mission initiatives around remote technology scanning, including a vendor-agnostic staffing service capable of delivering on-demand access to highly skilled remote MRI technologists, a real-time AI-driven safety alert system to detect unsafe materials or circumstances, and an MRI tech aid certification program designed to strengthen the workforce in an effort to deliver high-quality care. This platform has implications for both operating segments of our business. For digital health, AlphaRT will enable the sales and marketing teams of TechLive to offer a more comprehensive portfolio of solutions around remote scanning to now include providing remote technologists as a staffing service and a training and certification program for tech aids necessary to effectively provide on-site care in conjunction with remote scanning. For the imaging center operating segment, AlphaRT will pursue building and training remote technologists that can be used as a labor pool to scan for RadNet, Inc. facilities. Furthermore, AlphaRT should become the principal training agent for RadNet, Inc.'s tech aids or what we call internally in-suite assistants or ISIs. Before I turn the call back to Mark, I would just like to highlight our financial liquidity and leverage, which continues to be carefully managed. As of 09/30/2025, our cash balance was $804.7 million and our net debt to adjusted EBITDA ratio was approximately 1.0. An attractive pipeline of acquisition opportunities is being evaluated for both the core imaging services division and for digital health, and we have confidence in our ability to invest the cash balance over time in opportunities that advance RadNet, Inc.'s strategic objectives. At this time, I would like to turn the call back over to Mark to discuss some of the highlights of our third quarter 2025 performance. When he is finished, I will make some closing remarks."
+  },
+  {
+    "speaker": "Mark Stolper",
+    "role": "",
+    "text": "Thank you, Howard. I'm now going to briefly review our third quarter 2025 performance and attempt to highlight what I believe to be some material items. I will also give some further explanation of certain items in our financial statements as well as provide some insights into some of the metrics that drove our third quarter performance. I will also provide an update to 2025 financial guidance levels which were released in conjunction with our 2024 year-end results in February and amended following our first and second quarter financial results. In my discussion, I will use the term adjusted EBITDA, which is a non-GAAP financial measure. The company defines adjusted EBITDA as earnings before interest, taxes, depreciation, and amortization and excludes losses or gains on the disposal of equipment, other income or loss, loss on debt extinguishment, and non-cash equity compensation. Adjusted EBITDA includes equity earnings in unconsolidated operations and subtracts allocations of earnings to non-controlling interests in subsidiaries and is adjusted for non-cash or extraordinary and one-time events taking place during the period. A full quantitative reconciliation of adjusted EBITDA to net income or loss attributable to RadNet, Inc. common shareholders is included in our earnings release. With that said, I'd now like to review our third quarter 2025 results. As Dr. Berger highlighted in his remarks, our business continues to demonstrate double-digit top-line growth as a result of a number of continuing and enduring industry and RadNet, Inc.-specific trends. From an operational perspective, we continue to focus on creating capacity at existing centers, opening de novo facilities, shifting our business mix towards advanced imaging, executing on tuck-in acquisitions when available, negotiating reimbursement increases from commercial and capitated payers, and accelerating digital health revenue growth. During this year's third quarter, the 13.4% increase in total company revenue relative to the same period last year was highlighted by strong growth in advanced imaging. Aggregate MRI volume increased 14.8%, CT volume increased 9.4%, and PET CT volume increased 21.1% from last year's third quarter. And on a same-center basis, same-center MRI volume increased 11.5%, same-center CT volume increased 6.7%, and same-center PET CT volume increased 14.9%. As Dr. Berger noted, this is a function of the combination of greater utilization of higher acuity imaging in the healthcare delivery system at large, RadNet, Inc.'s expansion of specialty programs in areas such as cardiac, neuro, prostate, and PET CT imaging, investments we've made to drive capacity for advanced imaging studies, and patient throughput and the continued shift from hospital to ambulatory outpatient imaging. During the quarter, we opened one new facility, a women's imaging center in Rolling Oak, Ventura County region in Southern California. With this de novo, we now have opened five facilities during 2025 with more to come in the fourth quarter of this year. Within our digital health operating segment, revenue increased 51.6% from last year's third quarter, which was partially the result of iCAD's revenue since its acquisition on July 17. AI revenue within digital health inclusive of iCAD revenue from its ProFound AI and DeepHealth solutions in breast, lung, prostate, and neuro increased 112% from last year's third quarter. Also contributing to this growth was a 28.7% increase in EBCD AI revenue as well as a small amount of external ultrasound AI revenue from our recently acquired C Mode."
+  },
+  {
+    "speaker": "Mark Stolper",
+    "role": "",
+    "text": "Excluding the AI revenue, digital health revenue from eRAD, DeepHealthOS, TechLive, and other workflow solutions increased 24.5% from last year's third quarter. The overall business demonstrated margin improvement in the quarter. Adjusted EBITDA margins improved by 26 basis points from 16% in the third quarter of last year to 16.2% in this year's third quarter. This was a result of the strong revenue performance and a focus on cost management and efficiencies. With regards to our balance sheet and financial leverage, as of 09/30/2025, unadjusted for bond and term loan discounts, we had $287.3 million of net debt, which is our total debt at par value less our cash balance. Note that this debt balance includes RadNet, Inc.'s ownership percentage of New Jersey Imaging Network's net debt of $33.7 million for which RadNet, Inc. is neither a borrower nor guarantor. At quarter-end, our net debt to adjusted EBITDA leverage ratio was approximately one times. Contributing to our strong cash position and low leverage was the continuing improvement in our revenue cycle where we have driven DSOs or days sales outstanding down to 31.9 days, which is our lowest historical level. Given the strong third quarter results and the positive trends we continue to experience, we elected to increase revenue and adjusted EBITDA guidance for our imaging center business. We increased revenue by $50 million at the low end and $30 million at the high end of the guidance range. And increased adjusted EBITDA by $5 million both at the low and high ends of the range. We also increased our capital expenditure guidance range by $5 million, which is reflective of additional growth investment opportunities we have been pursuing. We also lowered our range for cash interest expense by $4 million at both the high and low end of the ranges, which is reflective of higher cash interest income from our cash balance than what we originally projected. For digital health, we increased the revenue guidance by $5 million predominantly to incorporate the contribution for iCAD since its consolidation in mid-July. One thing worth noting is that we did not lower the digital health adjusted EBITDA guidance for 2025 despite the fact that iCAD and C Mode were both losing EBITDA at the time of their purchases. Holding the adjusted EBITDA guidance unchanged for digital health is the result of achieving anticipated cost synergies ahead of schedule through faster integration of each of those businesses. It is also due in part to better than anticipated expense performance from the existing digital health operations. I'll now take a few minutes to give you an update on 2026 anticipated Medicare reimbursement. As a reminder, Medicare represents between 23-24% of our current business mix. With respect to Medicare reimbursement, in July, we received from CMS a matrix of proposed rates by CPT code, which is typically part of the physician fee schedule proposal that is released about that time every year. At the time, we completed an initial analysis and compared those proposed rates to our current 2025 rates. We volume-weighted our analysis using expected 2026 procedure volumes. In the proposed rule, Medicare proposed increasing the conversion factor of the Medicare physician fee schedule by about 3.3% from $32.35 to $33.42 along with certain changes to the RVUs or relative value units of specific radiology CPT procedure codes and to the Medicare geographic practice cost indices or GIPCs."
+  },
+  {
+    "speaker": "Mark Stolper",
+    "role": "",
+    "text": "analysis in July of all the various variables of the proposal indicated that RadNet, Inc. on roughly $2 billion of revenue will benefit from an approximately $4 to $5 million Medicare revenue uplift in 2026. A couple of weeks ago, CMS released its final rule, which will govern the 2026 physician fee schedule reimbursement rates. We analyzed the final rule CPT code by CPT code, and we are pleased to report that the impact on Medicare rates in 2026 will be consistent with the proposed rule calculation we completed in July. The $4 to $5 million of revenue benefit next year breaks a trend of about five years of annual cuts to the Medicare physician fee schedule. During the last four years alone, we have absorbed over $35 million of annual cuts. We are pleased that going into 2026, we will not have to overcome Medicare cuts like we have had to do in the past, and this benefit will be reflective in our 2026 financial guidance. We hope that this is a recognition from CMS that it must compensate providers appropriately and that its reimbursement should be commensurate with the rising cost of providing services. I'd now like to turn the call back over to Dr. Berger who will make some closing remarks."
+  },
+  {
+    "speaker": "Howard Berger",
+    "role": "",
+    "text": "Thank you, Mark. As many of you may be aware, RadNet, Inc. will be hosting its inaugural Investor Day tomorrow at the Nasdaq Market site in New York City. I invite all those not attending in person to watch the event via a live webcast or via the archived replay which will follow. You can get the webcast link from the Investors section of the RadNet, Inc. corporate website or from our recent press releases announcing the event. During tomorrow's Investors Day, we will have a full day's agenda that includes numerous digital health demonstrations of its AI-powered portfolio solutions and presentations from the following. Certain physician clinical leaders will discuss some of the specialty growth areas of the company, including important programs in neuroimaging, prostate imaging, PET CT, cardiac imaging, and lung cancer screening. RadNet, Inc.'s chief operating executives will provide a deep dive into many of RadNet, Inc.'s critical operating initiatives that will continue to drive efficiency and growth within our imaging center operating segment. Digital health leadership will provide an update on the progress of development, commercialization, and implementation of the DeepHealth portfolio of solutions both within RadNet, Inc. and progress we are making with outside customers. And finally, Mark will present RadNet, Inc.'s three-year plan, which will include executive management's view on the major operating assumptions and metrics that could drive our business through 2028. Additionally, tomorrow's Investors Day will provide attendees the opportunity to ask questions of and interact with the broader business and clinical leaders of the company."
+  },
+  {
+    "speaker": "Mark Stolper",
+    "role": "",
+    "text": "Whether or not you participate in tomorrow's Investors Day,"
+  },
+  {
+    "speaker": "Howard Berger",
+    "role": "",
+    "text": "three weeks from now, we will also be showcasing the digital health product portfolio at the diagnostic imaging industry's largest convention, RSNA, Radiological Society of North America, in Chicago. We will be hosting two DeepHealth booth tours for investors interested in participating in demonstrations of DeepHealth's portfolio of solutions and in walking the floor of the convention. We look forward to potentially seeing you tomorrow or at the RSNA and further updating you on all our progress on the next financial results call. Operator, we are now ready for the question and answer portion of the call."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Thank you. We will now begin the question and answer session. To ask a question, you may press star and then one on your touch-tone phone. If you're using a speakerphone, please pick up your handset before pressing the keys. If at any time your question has been addressed and you would like to withdraw your question, please press star and then 2. At this time, we will pause momentarily to assemble a roster. We have the first question on the line of David McDonald from Trist. Please go ahead."
+  },
+  {
+    "speaker": "David McDonald",
+    "role": "",
+    "text": "Couple of quick digital health questions to start. Can you guys talk a little bit about TechLive, you talked about the New York market on the 2Q call. Just where we are in terms of rollout with other geographic regions. And then secondly, just on kind of the dynamic scheduling, can you provide a little more detail there? Is that you guys are doing predictive modeling around, you know, who may cancel or, you know, just increasing throughput on the scheduling side. Sure. Hey, Dave. Thanks for the questions. Yeah. With respect to the TechLive rollout, we should be substantially complete by the end of the year, maybe slightly early into the first quarter. With TechLive connecting all of our advanced imaging equipment, MRI, CT, and PET CT. We're substantially through the connection of our MRIs at this moment. And we did call out both on the second quarter and the third quarter in this call, the impact of what we're seeing in some of our markets with respect to the increased capacity that this has created for us. And then that's one of the reasons why you've seen our MRI volume both on an aggregate basis and on a same-center basis grow so substantially relative to last year because what the TechLive has already demonstrated for us is that it has substantially reduced the exam room closures when, you know, in the past, we've had a shortage of staffing for a variety of reasons or techs call in sick in the morning. We've had to close those exam rooms. And very similar to the airline industry or the hotel industry, when we have an exam slot that goes unsold, like an airplane that takes off that has a seat that's unsold, we can never resell that slot. So we did call out on last quarter that we started the rollout here in New York. Happen to be sitting in New York right now for this call. And in 83 of our centers, we reduced exam closure hours by about 42% relative to last year. And that has had a marked benefit to MRI scanning. The other thing that has had a benefit that I know you're not asking about it, but it's worth noting is what we call dynamic scheduling. That we have instituted over the last year where we now have predictive models using AI that can identify patients who might not show up for their exams based upon a number of different factors, including them not confirming those exams via text or other appointment reminders. And we've been essentially overbooking the schedule and expecting for some of these patients not to show up, and that has had a big benefit in filling spots that would otherwise have gone unused. So we expect next year to even have a bigger impact, one, because this impact is gonna be on all four quarters of next year. And also, we will be covering schedules now also for MRI and, excuse me, CT and PET CT as well. Okay. And then just one other quick follow-up, just a payer question. Can you guys just provide a quick update? It sounds like additional progress on coverage pre-EBCD. Just any conversations there, and do you expect to announce additional progress there? And then secondly, just on some of your capitated contracts, sequentially, it looked like you had a little bit of a bump in revenue. Are you seeing any of your capitated contracts start to circle back and kind of realize that the price increases you guys need are pretty reasonable relative to kind of what they'd be looking at otherwise."
+  },
+  {
+    "speaker": "Howard Berger",
+    "role": "",
+    "text": "Hi, Dave. It's Dr. Berger. I'll take that one. That's a multiple part question here, and I'll try to remember to hit all the highlights, Dave. But, in terms of actual commercial payers adopting covering the EBCD. We are in discussions. It's a big ship, and they turn slowly. But the conversations, I think, are positive. Exactly when we might get the first one to adopt is hard to predict right now, but I think it's just a matter of time. Perhaps driving that is the continued growth of adoption by our patients who are opting in to pay it out of pocket. That's now, as we mentioned in our remarks, up to 45%, and we expect to be north of 50% sometime in 2026. And the value proposition for this AI is being very well received by our patients because we do such a substantial or make such a substantial effort in the education of this, not only with the patients but with their referring physicians. And we have a lot of good testimonials, some of which we'll talk about tomorrow in the investor day of how appreciative our patient base is of offering this. In regards to capitated payers, we have been getting increases from all of our capitated programs, some of which when we did not get the desired result, we elected to go on fee-for-service, and we're getting increased rates that were higher than what we were getting under converted capitation rates to a fee-for-service program. And lastly, as I believe you mentioned, we have gotten some of our larger capitated payers in California to begin offering the EBCD program as a benefit to all of their capitated patients, which means we don't ask those patients if they want to enroll in EBCD. Because they get it as a benefit that is paid for on a fee-for-service basis by our capitated medical groups. And I want to highlight the importance of that because the capitated groups recognize that there are two benefits from this. Number one, early detection leads to lowering costs and better outcomes. The other portion of this, which they have actively encouraged us, is to get better and better compliance from patients to do their annual or biannual screening, and that is a major driver for the capitated groups because it improves their HEDIS performance and allows them to get bonuses, some of which we share in at the end of the year. So I am very grateful and very delighted to report that there is a large segment of our patients who are now getting this as a benefit. And I believe that kind of pressure inside the industry will eventually filter down to the commercial payers as something that is truly a benefit that patients deserve under their healthcare plans. We also are doing a lot of education directly with employers since probably about 70% of all the patients covered by commercial payers are actually through employer health plans. So we're very confident that this will continue to be successful. I will also tell you, and we'll be talking about it next year, that we plan to expand capabilities within the EBCD program to further create the ability to not only detect cancers early but also to improve risk prediction models that'll be part of our EBCD program."
+  },
+  {
+    "speaker": "Mark Stolper",
+    "role": "",
+    "text": "And the one thing I'll add is, yeah, to exactly Dr. Berger's point, on October 1, we had a new capitation Desert Oasis Healthcare. Actually, they're an old capitation contract of ours, but they're newly now paying for the EBCD program. So, you know, we're getting more and more traction here, and I think that this is putting more and more pressure on the commercial insurance companies because these capitated patients are HMO patients that are aggregated from the various different HMOs, you know, the United, the Aetna's, the HealthNets of the world. And so now those big insurance companies have certain of their members who are part of these capitated groups that are now getting EBCD paid for as a covered benefit and then other plans that they have that are not getting, and members that are not getting it paid for as a benefit. So I think we're headed in the right direction here. It's just that there's, you know, it's a slow process, and there's a lot of inertia in healthcare. Okay. Helpful. Thanks, guys."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Thank you. We have the next question from the line of Brian Tanquilut from Jefferies. Please go ahead."
+  },
+  {
+    "speaker": "Brian Tanquilut",
+    "role": "",
+    "text": "Hey. Good morning, guys, and congrats on another solid quarter. Maybe, Dr. Berger, I'll start with you. I remember last quarter, you talked about the outlook for joint ventures and how you're getting excited about opportunities that you expect towards year-end. So just curious, where does that stand in terms of partnerships with health systems or physician groups?"
+  },
+  {
+    "speaker": "Howard Berger",
+    "role": "",
+    "text": "Hey. Good morning, Brian. Nice to hear from you. It looks very robust. I don't have anything specific to announce today, although we hope to have those in the coming weeks or early first quarter. What I will tell you, though, is that we are getting more inbound calls from health systems as it relates to helping them with their radiology strategy. Hospitals are being impacted just the way for their inpatient staffing issues. As outpatients are. Meaning, radiologists are in short supply and high demand. There's turnaround time for reports is deplorable, and the shortage is creating staffing issues that nobody could have predicted. So while there perhaps are other people who provide pieces of the puzzle that health systems are made. People are more and more looking at RadNet, Inc.'s comprehensive solutions both on the operating metrics as well as the DeepHealth and AI as a way to solve some of their problems just like it's solving for us. So, the conversations that we're having are robust. And not only with the new systems that are reaching out to us, but also with existing systems that are looking to expand some of RadNet, Inc.'s operating capabilities into their health systems even if it's not part of a joint venture but leveraging up on RadNet, Inc.'s strong management and operating capabilities, much of which is really being driven by the potential value proposition of the digital health segment."
+  },
+  {
+    "speaker": "Brian Tanquilut",
+    "role": "",
+    "text": "I appreciate that. And then any piggyback on that, Mark, as I think about 2026, I know it's too early for guidance, but as we think through, topic de jour, right, EAPTCs, just curious what your health insurance exchange exposure is, or how do you view that. And then how should we be thinking about the inflationary environment for wages as Dr. Berger talked about the radiation technologists and radiologists costs?"
+  },
+  {
+    "speaker": "Mark Stolper",
+    "role": "",
+    "text": "Sure. So, on your first question, regards to the exposure we have to these Medicaid programs and the exchanges, it's a very small part of our business. About 2.5% of our business is Medicaid fee-for-service business. It's also the lowest paying or lowest reimbursing book of business that we have. So, you know, regardless of what happens with this, you know, big beautiful bill on the Medicaid side of the business, I don't think we're gonna be impacted, you know, substantially. We also don't do a lot of exchange work. We do some on the fee-for-service side, and that's, you know, part of our commercial book. But, it's relatively small here. So, you know, a lot of the noise that we're hearing in Washington today, regardless of how it gets resolved, it doesn't feel like it's gonna have a material impact on our business one way or another. With respect to your second question about labor, labor still remains, you know, a challenge for our company, the industry, healthcare at large. We have seen it stabilize a little bit in our industry with respect to radiology technologists, which is our biggest pain point. We've done a lot internally from a grassroots level to be more effective at hiring and retaining talent. We, other than having to pay more, you know, we've been aggressive in establishing relationships with the tech schools, providing internship programs, training programs, tuition reimbursement programs. We've paid bounties to our existing employees who have brought in talent, you know, into our company from the outside. And we've mentioned this in the past. We actually have started our own tech program, tech training program on the West Coast in conjunction with a non-for-profit vocational program out there. So we have seen some stabilization, but it's still challenging out there. We know we will build into our 2026 guidance increases to our employees, you know, at the center level and our technologists. Like, we have been building in over the last several years. But, you know, the big focus for us is on some of the digital solutions that we think will have a major impact in helping us, you know, slow this curve or reverse this curve. You know, TechLive is an example of that where, you know, we're starting to train some of our more capable techs to be able to control multiple rooms simultaneously. It also TechLive also opens up the hiring pool beyond our geographies. So we can fish from a much larger talent pool. And the workflow solutions like DeepHealth and others also make, you know, the, you know, lowers the, you know, scanning time, increases capacity where we can do more scanning in the same number of work hours, which helps us leverage our workforce. Awesome. Thank you very much, Howard."
+  },
+  {
+    "speaker": "Howard Berger",
+    "role": "",
+    "text": "Hey, Brian. I wanna make one other quick comment about the labor market. I believe, and I hope I'm correct, that the challenges in the labor market are at an inflection point. And somebody might say, well, why do you believe that? And I'll give you two reasons. Number one, in general, you've seen many good-sized companies announce staff reductions and layoffs. Some of them use the excuse of AI has made them less dependent upon labor, manual labor. Others, I believe, are running into some of their own operating metrics that need to be right-sized. But more specifically, in the healthcare industry, one of our biggest issues that we've had to deal with is the fact that reimbursement to hospitals has been so substantially greater than it is to imaging centers. That the salaries that hospitals have been able to offer have often, you know, attracted people away from the outpatient imaging centers like ours and others. I believe that's changing. While it's not necessarily always publicly announced, I have seen many articles in the areas that we operate in of hospitals that have never in their history had layoffs, which are now because of high cost of labor as well as anticipated lower reimbursement in 2026 from many of the federal and state programs, so that I believe some of the burden that we've been shouldering for the last several years will now be lessened. It will not be eliminated, but I think that along with our timely entrance into the digital health market and the programs that we are going to continue to develop will help transition us into a less dependent manual labor force. I think you'll be hearing more about that. I do wanna emphasize that in healthcare, AI is not a bubble. It is an existential need that the industry must and will go through in order not only to deal with the challenges facing the market today from a reimbursement standpoint and from a cost standpoint, but simply to improve the quality of care and better outcomes that technology and innovation are capable of doing. And that's why that is indeed the new moniker for RadNet, Inc. that we will be talking about on tomorrow's Investor Day in which I like to think that RadNet, Inc. will be a poster child for that kind of transition."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Thank you. We have the next question from the line of John Ransom from Raymond James. Please go ahead."
+  },
+  {
+    "speaker": "John Ransom",
+    "role": "",
+    "text": "Good morning, team. A couple on digital health. Number one, just with the iCAD acquisition and your AI capabilities that you currently just use for in-house, your own centers, is there a future where RadNet, Inc. develops maybe a virtual radiology capability and uses its enhanced, yeah, EBCD technology to read just, you know, for scans, not just on the NS4 walls. I believe yeah. Good morning, John."
+  },
+  {
+    "speaker": "Howard Berger",
+    "role": "",
+    "text": "Hope you're doing well. Yes, sir. Yeah, John. I believe that is an inevitability. It's not something that is designed to eliminate radiologists if as some people have feared or have told about, but rather to address the enormous challenges that radiologists face in trying to manage all the information that is presented to them through breast imaging in particular. When I started practice, which was kind of in the horse and buggy days, there might have been two or three or four images that you would look at to try to read a mammogram. Today, and I'm not exaggerating, it's thousands of images. And to some extent, breast cancer, like other cancers, particularly if you're gonna attempt to diagnose them as early as possible. So, like, sometimes, like, looking for a needle in a haystack. That being said, the advances in technology are creating this kind of demand in an already challenged workforce, meaning radiologists, and the ability to look at patterns, which is really what radiology is about, what imaging is about, and what machine learning is about to create these AI models. Is a natural evolution to being able to, at the very least, give with greater certainty and perhaps with autonomous outcomes, those that are normal from those that are not normal. So I believe that is the future. It's something that we and others are working on. And it will not be limited to just breast imaging and cancer detection. So the tools that we're embracing and will continue to embrace and invest in will be to assist our radiologists in providing faster, better, and more accurate outcomes."
+  },
+  {
+    "speaker": "John Ransom",
+    "role": "",
+    "text": "Great. And my second question, I yeah. To your credit, you all described, you know, the DeepHealth enterprise sale as a long cycle sale, and I think that's proven to be the case. But I just wonder, a few months now, nine months now into this launch of DeepHealth. Where are you getting traction in the market? What I know it's a modular solution, but what modular solutions are getting traction? You know, against a sea of, you know, what's been described as pretty good point solution. So where are clients latching on and what's the opportunity set? I don't wanna steal your thunder about tomorrow, but I'm just curious where DeepHealth sits today in this marketplace opportunity."
+  },
+  {
+    "speaker": "Howard Berger",
+    "role": "",
+    "text": "Well, we're still currently in the process, John, of rolling out all of the modules inside RadNet, Inc., and that's something that we'll be emphasizing in tomorrow's investor day is, you know, the unique capability that RadNet, Inc. provides is not only a laboratory for development but an opportunity to deploy these do what we call co-development or co-piloting of these products and get very quick feedback as to how they're impacting both the clinical and operating metrics here. So, we're getting very good adoption internally. We're trying to finalize what I'll call some of the modules that'll be primetime and ready for adoption next year. Which at this point is only about seven weeks away. So we're excited about that. But things that we're doing, there's no reason to think that anything we're doing internally won't be embraced by someone somewhere to put into their system. I also wanna emphasize that I think as you have correctly pointed out, John, there's a lot of point solutions that in fact is, and we'll try to go into deeper, take a deeper dive in tomorrow. Part of what the benefit of the RadNet, Inc. DeepHealth operating system is, it's a platform for all of these modules or opportunities, whether they're ones that RadNet, Inc. owns and develops or whether it's one that somebody, including RadNet, Inc., may wanna license can operate on a single platform and have RadNet, Inc. be responsible for the implementation and integration of it rather than somebody have to deal with perhaps as many as 100 different vendors to do all of these point solutions. So I would encourage everybody who is able to listen in to the Investor Day either live or subsequently to understand that what we're talking is a transformative tool that we believe is going to markedly improve and address the challenges that not only radiology but healthcare itself faces."
+  },
+  {
+    "speaker": "John Ransom",
+    "role": "",
+    "text": "So, Howard, when you were reading scans, you know, back in the horse and buggy days, did you ever think you'd become a software salesman?"
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "You know? That's that's that's that was pretty good."
+  },
+  {
+    "speaker": "Howard Berger",
+    "role": "",
+    "text": "Yeah. John, I'm not even sure up until fairly recently I knew what the word software meant."
+  },
+  {
+    "speaker": "Mark Stolper",
+    "role": "",
+    "text": "funny. But, actually, you bring you bring up a very good"
+  },
+  {
+    "speaker": "Howard Berger",
+    "role": "",
+    "text": "point, John, and thank you. The future of radiology, the future of imaging is more about software than it is hardware. And I'm not trying to diminish the importance of hardware one bit. It has been instrumental in evolving imaging to where it is today. But the future is about software. We'll be talking about that tomorrow. And, you know, as opposed to what I continually hear about AI being a bubble and people being concerned about it, that's the least of our concerns inside healthcare and particularly in imaging. AI is here today. It has both clinical and operating implications which are going to be transformative, not just as I said, to the radiology community, the imaging community, but to healthcare. And we're excited to be leading that way."
+  },
+  {
+    "speaker": "Brian Tanquilut",
+    "role": "",
+    "text": "Lastly, for me and"
+  },
+  {
+    "speaker": "Mark Stolper",
+    "role": "",
+    "text": "not that we don't love New York and California, but yeah, you guys raised have raised a pile of money. It's largely been fallow from just the core imaging M&A side. So I just wondered, you know, is there still a bid-ask spread for these larger portfolios? Is there anything cooking? What's going on with the kind of external growth model on the core imaging side? Thanks. I'll stop there."
+  },
+  {
+    "speaker": "Howard Berger",
+    "role": "",
+    "text": "Core imaging will always be"
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "or core to RadNet, Inc. It"
+  },
+  {
+    "speaker": "Howard Berger",
+    "role": "",
+    "text": "no matter how large the DeepHealth division gets, at the end of the day, what we do is we are a service business that has patients which next year will do over 12 million exams coming into our offices. In which we plan to continue to invest in and grow robustly. It's important to realize, and, again, it'll be part of what we hope to communicate tomorrow on Investor Day, that the software or the DeepHealth or the digital health part of our business will help improve operating metrics, which will apply across the entire spectrum of RadNet, Inc.'s services. And so, our investment of that in anywhere we decide to take it will only help create better operating leverage for the company, allow us to go into other markets perhaps with less capital intensity than we have in the past. But have a reach that two or three years ago, we would never have even considered, not only domestically, but perhaps internationally."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Thank you. We have the next question from the line of Andrew Mok from Barclays. Please go ahead."
+  },
+  {
+    "speaker": "Andrew Mok",
+    "role": "",
+    "text": "Hi. Maybe just a quick"
+  },
+  {
+    "speaker": "Brian Tanquilut",
+    "role": "",
+    "text": "follow-up on that, sales cycle question. From a personnel standpoint and following the iCAD acquisition, do you have the appropriate number of salespeople in the seats to sell DeepHealth, or is there more hiring needed on that front? Thanks."
+  },
+  {
+    "speaker": "Howard Berger",
+    "role": "",
+    "text": "Yes and yes. Yes. We need more, but there's other ways of acquiring that we'll be talking about. The Salesforce for doing this is more and more being recognized by us. That cross-selling and bundling of these tools is the way to best enhance the overall penetration of DeepHealth in the market. I think as John had just pointed out, point solutions are nice to talk about, but implementing them and maintaining them with several different companies is impractical. So what we have found and where we're particularly excited is that we gained a very substantial sales force with the iCAD acquisition. And that has, in fact, allowed us to accelerate cross-selling not only of various breast imaging suites but starting to or our breast imaging suite, but also introduce other opportunities for them to cross-sell that they're very enthusiastic about and which would have taken us quite a bit of investment in time to achieve. So it's quite likely that as we begin to embrace other areas"
+  },
+  {
+    "speaker": "Howard Berger",
+    "role": "",
+    "text": "AI software in imaging, that same philosophy is something that we will be looking at carefully so that we can accelerate what is a truly transitional time in imaging, and that is ripe for these kinds of solutions."
+  },
+  {
+    "speaker": "Brian Tanquilut",
+    "role": "",
+    "text": "Great. And maybe just a follow-up on EBITDA margins in the quarter. Was a little surprised you didn't see better flow through on very strong advanced imaging volumes. Anything to call out on the cost side or incremental margins in the quarter preventing"
+  },
+  {
+    "speaker": "Grayson McAlister",
+    "role": "",
+    "text": "margins from expanding more? Thanks."
+  },
+  {
+    "speaker": "Howard Berger",
+    "role": "",
+    "text": "Well, I think on some level, you know, we can create the capacity, but you know, as we create that capacity and fill it, it will, in and of itself, reach certain limitations. So, I think we've had a very good run of this virtually every quarter. And if you compare the quarter last year over the quarter this year, last year was actually a very good quarter for us. So I was happy to see some improvement, even compared to a very good quarter last year. But I think some of the things that we talked about and that will go into more detail and, in fact, even show some slides will show that this sustainability is not just because of capacity that we're creating through the tools that we've used up to now, but how next year will be a transition that margin improvement is more likely to come through the digital health side as we begin to implement both some of the clinical and now operating tools that we're beginning to implement inside of RadNet, Inc. And so margin expansion is certainly something that is the primary focus of the company. First, to make certain that these products are capable of delivering that on our 12 million exams that we're doing annually right now. And then honing these tools so they become that much more attractive for external use. Some of that external use, again, being in a built-in customer base that we have with our current and growing joint venture health system. So I think you know, we're hitting if you look at, and we'll be showing this a slide tomorrow, the actual growth of our margin the last four years has been over 300 basis points. We think we can continue that, but not just by the more, by the tools that we've been using over the last four years and particularly in the last, you know, eighteen months to twenty-four months, but how now the act the investment in artificial intelligence will continue to drive, you know, those opportunities, which by themselves have almost unlimited potential. So we're just getting started, and I think tomorrow's investor day will hopefully amplify kind of the handover of what has been capacity creation and margin improvement over to AI and software further improvement. That'll happen primarily from the operating side, which are equally exciting for us."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Andrew, will that be all? Or do you have any follow-up questions? Alright. We move on to the next question. We have the next question on the line of Wan Ji from B. Riley Securities. Please go ahead."
+  },
+  {
+    "speaker": "Wan Ji",
+    "role": "",
+    "text": "Good morning. Thank you for taking our questions, and congrats for a good quarter."
+  },
+  {
+    "speaker": "Brandon Carney",
+    "role": "",
+    "text": "So, Mark, maybe can you clarify the digital health revenue for 4Q after acquisition of iCAD, which contributes about $5 million a quarter in revenue. Does it mean the digital health will be or even decreasing year over year for April?"
+  },
+  {
+    "speaker": "Mark Stolper",
+    "role": "",
+    "text": "No. We didn't mean to imply that. I mean, we increased the revenue, the guidance by $5 million. Digital, iCAD this quarter"
+  },
+  {
+    "speaker": "Mark Stolper",
+    "role": "",
+    "text": "about $3.9 million of additional revenue. We feel comfortable with the new range for digital health that we gave, but we're really not implying that digital health itself was going to be down. I mean, you know, with the iCAD revenue, we were up, you know, 56% this quarter over last year's third quarter. And, you know, we're expecting a strong performance in the fourth quarter of digital health. So we'll, you know, we'll look at where we are at the end of the year, and then that will be the kind of run rate going into next year."
+  },
+  {
+    "speaker": "Brandon Carney",
+    "role": "",
+    "text": "Yeah. Got it. We probably will hear this more tomorrow, but within the 15 to 20% year-over-year volume growth of PET CT, can you comment on the growth from oncology versus Alzheimer's? And are you preparing for new agent launching in 2026? Thank you. Yeah. Yeah. So"
+  },
+  {
+    "speaker": "Mark Stolper",
+    "role": "",
+    "text": "PET CT is still being driven by, you know, significant growth in two areas, the PSMA, prostate imaging, as well as the amyloid brain studies, you know, for Alzheimer's and dementia. And the two of those together are now about 20% of all of our PET CT procedure volume. PSMA is currently running about 12% of our PET CT volume where the amyloid brain study is another 8%. And that's it's the strong growth continues. I mean, it's pretty remarkable, and we think both of these studies are still very much underutilized within health. So there's more growth to be had there, and you'll see this tomorrow in our Investor Day that there are a number of newer radioactive or novel radioactive tracers that are in, you know, sort of the final stages of clinical trials that we think are gonna be coming on the market in the coming years that is gonna continue to make, you know, nuclear medicine and PET CT grow substantially in the future. And these are tracers that are tumor-specific and will be driving more and more utilization of PET CT in the future."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "That'll be all, Mr. Ji?"
+  },
+  {
+    "speaker": "Brandon Carney",
+    "role": "",
+    "text": "Yes. Thank you. Thank you."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "We have the next question from the line of Jim Sidoti from Sidoti and Company. Please go ahead."
+  },
+  {
+    "speaker": "Jim Sidoti",
+    "role": "",
+    "text": "Hi. Good morning, and thanks for taking the call."
+  },
+  {
+    "speaker": "Lawrence Scott Solow",
+    "role": "",
+    "text": "You know, just to follow-up on the core business. I believe you said you added one center in the quarter. So are you up to 406 centers at this point?"
+  },
+  {
+    "speaker": "Mark Stolper",
+    "role": "",
+    "text": "We're at 407 centers. Yeah. And that includes, you know, acquisition centers in the quarter, the new center and new centers and includes consolidation of centers. So net at 09/30/2025, we were at 407 locations."
+  },
+  {
+    "speaker": "Lawrence Scott Solow",
+    "role": "",
+    "text": "And where do you think you'll be by the end of 2025?"
+  },
+  {
+    "speaker": "Howard Berger",
+    "role": "",
+    "text": "By the end of"
+  },
+  {
+    "speaker": "Brandon Carney",
+    "role": "",
+    "text": "we'll be higher. I mean, we've got some acquisitions, you know, in the pipeline that"
+  },
+  {
+    "speaker": "Mark Stolper",
+    "role": "",
+    "text": "we're hoping to, you know, be in a position to close by the end of the year. We've got other de novo centers that will open between now and the end of the year. So why we don't really make those projections because it's difficult to know the timing of when acquisitions potentially close. But, yeah, we'll be, as Howard said, we'll be higher."
+  },
+  {
+    "speaker": "Lawrence Scott Solow",
+    "role": "",
+    "text": "Okay. And you gave us same center numbers for the advanced imaging procedures, but what was the overall same center volume"
+  },
+  {
+    "speaker": "Mark Stolper",
+    "role": "",
+    "text": "I think, you know, because, you know, 70, 72% of our"
+  },
+  {
+    "speaker": "Mark Stolper",
+    "role": "",
+    "text": "mix is routine imaging that tends to, you know, from a law of averages that tends to dominate, you know, the overall average, but, including and, you know, advanced imaging is growing much faster than routine imaging. But net, when you put all these two together, I believe it was 4.9% total same center procedure volume inclusive of both advanced imaging and routine imaging."
+  },
+  {
+    "speaker": "Lawrence Scott Solow",
+    "role": "",
+    "text": "Okay. And then last one for me. You talked a little bit about the AlphaRT acquisition. Can you just give us some broad, you know, what you paid for it, how you paid for it, you know, and just some magnitude on what that was."
+  },
+  {
+    "speaker": "Mark Stolper",
+    "role": "",
+    "text": "Yeah. Sure. And we had an 8-K to this effect because we paid it all in stock. It registered that stock. And I believe that the day of announce, you know, at the day of completion, it was somewhere in the range of $5 million, give or take a few bucks here and there, and it was all stock. And really, what AlphaRT is it's a platform that fits in really nicely with our TechLive remote scanning technology where AlphaRT is a platform where they're providing remote technologists, meaning, you know, technologists that are sitting either in Coral Springs, Florida where they're headquartered or elsewhere, that are available to read these scans remotely, and we can use that both internally within RadNet, Inc. to cover our centers as well as provide this as a service to other customers who might be looking when they're buying TechLive from this or licensing TechLive a more comprehensive offering. So we're excited about that. They also have a technology for safety within the MRI room where it's an AI-powered camera technology that can identify materials that could be brought into an MRI room that have that are metal, which has patient safety and equipment safety implications to it. And so we're, and they also further have a certification program and a training program for tech assistants or what we call in-suite"
+  },
+  {
+    "speaker": "Mark Stolper",
+    "role": "",
+    "text": "you know, if you remove the tech from the location, and they're scanning remotely, we still need someone on-site to greet the patient, to bring the patient out of the changing room, into the exam room, position them on the table, potentially position them in MRI coils. And so, AlphaRT has a platform to train this whole new, you know, employee base."
+  },
+  {
+    "speaker": "Howard Berger",
+    "role": "",
+    "text": "Yeah. I just for a moment, I'll introduce a term that we're gonna talk about tomorrow. So, you know, we sell an AI tool called TechLive. What the AlphaRT opportunity will allow us to do is to provide live tech. So that we will become, up for ourselves and for others an opportunity for staffing, not just providing AI. Which in today's market could wind up being a product of our services division and one that perhaps, given the demand and compensation that people get for providing this somewhat very needed and in short supply service, with greater margins than even our AI business."
+  },
+  {
+    "speaker": "Lawrence Scott Solow",
+    "role": "",
+    "text": "Alright. Well, thank you. I'm looking forward to hearing more about it"
+  },
+  {
+    "speaker": "Lawrence Scott Solow",
+    "role": "",
+    "text": "Thank you, Jim. Thanks, Jim."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Thank you. This concludes the question and answer session. I would now like to turn the conference back to Dr. Berger for the President and CEO for any closing remarks."
+  },
+  {
+    "speaker": "Howard Berger",
+    "role": "",
+    "text": "Okay. Thank you very much, operator, and I want to thank everybody for attending today's"
+  },
+  {
+    "speaker": "Howard Berger",
+    "role": "",
+    "text": "I thought it was gonna be a slightly shorter, but apparently not, earnings call given the Investor Day tomorrow, but I'd encourage everybody who's interested and who will get a substantially deeper dive into the metrics that we look at every day and which, up till this time, we've not had an opportunity perhaps to display as vividly as we will tomorrow, to sign in and listen to both a clinical and an operating presentation, which is something that has not ever been done in our industry. So we look forward to seeing those of you tomorrow. And, otherwise, for our fourth quarter earnings call in March."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "The conference has now concluded. Thank you for attending today's presentation. You may now disconnect."
+  }
+]

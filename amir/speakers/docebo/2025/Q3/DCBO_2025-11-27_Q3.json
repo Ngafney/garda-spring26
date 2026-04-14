@@ -1,0 +1,272 @@
+[
+  {
+    "speaker": "Unknown",
+    "role": "",
+    "text": "Full Conference Call Transcript"
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Good morning, everyone, and welcome to the Docebo Q3 2025 Earnings Call. [Operator Instructions] I'd now like to turn the call over to Docebo's Vice President of Investor Relations, Mike McCarthy. Please go ahead, Mike."
+  },
+  {
+    "speaker": "Michael McCarthy",
+    "role": "",
+    "text": "Thank you. Earlier this morning, Docebo issued its Q3 2025 results. The press release, which included a link to management's prepared remarks and our quarterly investor slide deck, were all posted to our Investor Relations website. This morning's call will allow participants to ask questions about our results and the written commentary that management provided this morning. Before we begin this morning's Q&A, Docebo would like to remind listeners that certain information discussed may be forward-looking in nature. Such forward-looking information reflects the company's current views with respect to future events. Any such information is subject to risks, uncertainties, and assumptions that could cause actual results to differ materially from those projected in the forward-looking statements. For more information on risks, uncertainties and assumptions relating to forward-looking statements, please refer to Docebo's public filings, which are available on SEDAR and EDGAR. During the call, we will reference certain non-IFRS financial measures. Although we believe these measures provide useful supplemental information about our financial performance, they are not recognized measures and do not have standardized meanings under IFRS. Please see our MD&A for additional information regarding our non-IFRS financial measures, including reconciliations to the nearest IFRS measures. Please note that unless otherwise stated, all references to any financial figures are in U.S. dollars. Now I'd like to turn the call over to Docebo's CEO, Alessio Artuffo; and our CFO, Brandon Farber. Operator, we're now able to take questions."
+  },
+  {
+    "speaker": "George Sutton",
+    "role": "",
+    "text": "Nice results. So it all comes down to ARR. So I wondered if we could start there. It was up $2.5 million, sequentially. Can you just unpack the components?"
+  },
+  {
+    "speaker": "Alessio Artuffo",
+    "role": "",
+    "text": "As you are suggesting, we are quite pleased with the results this quarter. The way we think about it is our business actually grew 14% year-over-year by excluding the Dayforce business. And I understand that we haven't disclosed this in the past. But I would add to that, that this is the second sequential quarter in which we've seen this growth happening, again, excluding Dayforce. And in a minute, we'll tee up why this matters. What I'm really pleased by is the fundamentals and the execution that led to this result, a trend that I continue to see in the future. First, we've seen our mid-market business exceeding performance and expectations. This has happened due to the changes and evolution brought in by our new leadership team, and changes that we had performed at leadership level in the quarters in the past. We're starting to reap the benefits of those improvements, not only in terms of people, but also framework, processes and improved pipeline processes. Secondly, we've seen, frankly, against seasonality -- and EMEA performance also exceeding expectations, something that has pleased us very much with the key logos, very material ones signed in EMEA during the quarter. And finally, not to be forgotten, our core business retention continues to improve. We also think this is a very important component and a part of the storytell. Notwithstanding all of the above, our turn with our -- with Dayforce accelerated faster than expected, and the results are just the reflection of that."
+  },
+  {
+    "speaker": "George Sutton",
+    "role": "",
+    "text": "Perfect. Just one other thing on FedRAMP. Obviously, impressive to see the wins pretty early. I'm curious if that's earlier than you had expected, or on track. And then we are sitting here in the U.S. with the government that's not effectively open. I'm just curious how that impacts the opportunity."
+  },
+  {
+    "speaker": "Alessio Artuffo",
+    "role": "",
+    "text": "Great. So we are very pleased to be achieving already 2 new federal customers shortly after our May dated FedRAMP listing. We believe that's an impressive outcome considering that originally, our thesis was to start winning federal business in fiscal 2026, and more backdated in the second half, because that is more aligned with our federal purchases. Not only we have expanded an account with the Department of Energy, which we were very pleased about, but also, we've been working closely with our partner, Deloitte, to secure the business of the Air Force Cyber Academy. In addition to that, outside of federal, which I understand is the headline, given the complexity of doing deals in federal in such a short time frame, we have continued to execute well also on the state and local side. And that trend is expected to continue. As it pertains to government shutdown, actually, we've been building pipeline at a very impressive pace, both in federal and SLED. Fortunately, if you will, the government shutdown did not affect the seasonal buying cycle that occurred with the deals that we disclosed. And I would say quarter 4 historically, for federal deals, is a very slow quarter because budgets get spent in quarter 3, our quarter 3. And in quarter 4, organizations, the federal organizations take a pause typically from purchases reigniting in our fiscal year 2026, by which time we expect the shutdowns have been addressed. I would also add and tee up by saying our progress in SLEDs is tied to our progress in federal. Why? Because we're seeing organizations in the state and local demand more and more frequently a barrier of interest called state RAM, which we do address via FedRAMP certification. So to tee it up, our investment in FedRAMP is playing a dual role here. Not only it's allowing us to increase TAM, but it's allowing us to win more in the SLED market, creating a great competitive differentiator for us for the future."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Our next question comes from Kenneth Wong from Oppenheimer. Hoi-Fung Wong: Alessio, I wanted to maybe dive into the FedRAMP SLED dynamic a little more. As you think about the guidance that you guys put out there for 4Q, I realize it's a kind of seasonally low quarter. But any heightened conservatism in terms of what's coming in from the pipeline on the public sector side, just given that there is that shutdown?"
+  },
+  {
+    "speaker": "Alessio Artuffo",
+    "role": "",
+    "text": "Like I said, I wouldn't say that we have seen a direct correlation between the pipeline outcomes and government shutdown. On our side, we're very, very focused on diversifying where we execute across state, local, and education. It's a big market. We're seeing more response and more, if you will, interest coming from civilian organizations. And the other thing I can say is that our technology favoring the use of Docebo, for both internal use cases but also external use cases, opens up to a new opportunity that in the market of government has been stark in terms of offering. So I believe that our continued pipeline execution is really the reflection of good timing, good execution, and great product market fit."
+  },
+  {
+    "speaker": "Brandon Farber",
+    "role": "",
+    "text": "Brandon here, I just want to add and great to have you on the call. If you think about it, we started down the government route of building the business from the ground zero, roughly 2 years ago. And part of that was building relationships with all various federal departments. And while we were building and looking to achieve FedRAMP authorization, we're able to demo and show our platform and have interest from various different federal departments. So while we see the cutdown temporarily impacting the ability to generate new pipeline, we are very confident in the relationships we've built over the past 2 years, and that will enable us to start winning material contracts in Q3 of 2026. Hoi-Fung Wong: Perfect. Then maybe we would love to get an update on the enterprise side. It looks like both customer counts and kind of ARR coming from large -- $100,000 customers is pretty strong. Would just love to get a sense of kind of how the pipeline was shaping up this quarter. What did sales cycles look like? Any extensions there as we head into the fourth quarter? And any thoughts on whether or not you might see some sort of a budget flush from customers going into Q4?"
+  },
+  {
+    "speaker": "Alessio Artuffo",
+    "role": "",
+    "text": "Yes. So a few things on enterprise. Enterprise is a very critical area for us, and we continue to increase the customers over $100,000 sequentially, which is a strong sign of execution in our enterprise segment, but also in our mid-market segment that is able to sign customers with multiple use cases and multiple modules, and very healthy ACV. Additionally, on enterprise, I would say the following. In general, we continue to see deal elongation in the market. This is continuing to happen. But you're right, historically, quarter 4 is the strongest quarter within the enterprise segment for us, and we continue to expect that going into this quarter. A couple of notes that I would make on some enterprise wins notable in this quarter. I was very impressed with the ability to sign a multinational like Veolia. This kind of tees up not only the EMEA business, but also the capability of multi-use case -- and this is an organization with more than 200,000 employees headquartered in France -- and additionally, I would say our ability to expand upon Amazon, which is a customer of ours that we've had for a while. This is our third department that we're signing in the quarter is very significant. So both on the new logo side and expansion side, we're very, very happy about the results and expect a strong quarter 4. I would say important in the enterprise story is the system integrator story. We have invested heavily in partnership programs and system integrator programs to support that enterprise motion. And the large majority of the deals that we're doing in enterprise have a system integrator attached to it. And so that's the result of years of work."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Our next question comes from Ryan MacDonald from Needham & Company."
+  },
+  {
+    "speaker": "Ryan MacDonald",
+    "role": "",
+    "text": "Congrats on a great quarter. Alessio, I very much appreciate that, obviously, the enterprise is really the driving force around growth moving forward. But can we get a bit more color on sort of the OEM wind down, the Dayforce wind down? Obviously, you mentioned it sort of occurred a bit faster than you expected in the quarter. But as we think about fourth quarter and into next year, can you just help us get a bit of a better understanding on the trajectory there and what opportunities you might have to sort of compete more directly within that base of customers?"
+  },
+  {
+    "speaker": "Brandon Farber",
+    "role": "",
+    "text": "Ryan, it's Brandon. I'll take that question. So just taking a step back and just looking back, as a reminder, Dayforce started OEM and white labeling Docebo back in 2019. And they were very successful selling Docebo as an LMS, and got as big as roughly 9% to 10% of our total ARR at a specific point in time. Back in early 2024, Docebo acquired eloomi, which we all know. At that specific point in time, they were an LMS provider in Europe focused mainly on the SMB market. Subsequent to the acquisition, Docebo initiated legal action and was quickly resolved with Dayforce. Really, the goal of that lawsuit was 3 outcomes: number one, protecting our IP; number two, supporting the contributor of our revenue base; and number three, preserving our day-to-day relationship with Dayforce. How we're looking at it on a go-forward basis, we continue to expect economic benefits to flow to Docebo, and the contract to wind down over extended period of time. To provide a little bit more color, we anticipate Dayforce to represent approximately, 3.5% to 4.5% of our total revenues in 2026, 1% to 2% of our total revenues in 2027, and become immaterial thereafter. Just to leave on a positive note, it is important to note in the current quarter and since 2024, we've continued to grow. We've continued to diversify our revenue base away from Dayforce, and we're pleased with the ARR growth we had this quarter, excluding Dayforce of 14%."
+  },
+  {
+    "speaker": "Ryan MacDonald",
+    "role": "",
+    "text": "Maybe my second question, I wanted to talk on AI. As we've sort of spoken with companies and a number of companies rolling out AI strategies, it feels like there's sort of three buckets in which organizations are trying to sort of monetize AI efforts today. It first seems to be in improved customer retention and sort of, renewal rates. The second tends to be in sort of, building in higher annual price increases as you deliver more value with AI. And then the third tends to be sort of, separate SKUs or modules that are AI-specific modules that you can start to charge for. I'm just curious, as you think about the three buckets where you're seeing the benefits from AI. And at least in the shareholder letter, it seems like with these AI credits rolling out, it seems like you're getting a head start on that third bucket going into next year. So would love a little bit more color on that as well."
+  },
+  {
+    "speaker": "Alessio Artuffo",
+    "role": "",
+    "text": "Great breakdown of the 3, say, areas of return of AI. We very much agree with those 3 areas. I would say that having started with AI several years ago, our focus has certainly been more on the creating value and infusing AI in the product everywhere we can more lately. Originally, when we approached AI years ago, we were creating features that were supported by AI, mostly to provide a better customer experience, i.e., getting to the outcome faster. But at that time, monetization strategies were not a priority. As we have matured and are maturing every day at a really rapid pace, our posture on AI, I can say that your category #2 and category #3 are the ones that we think of very much. You are correct in saying that we've introduced recently an AI credit-based system that aimed at managing through this credit-based system, our AI pricing. The way it would work is for modules like AI Virtual Coach and AI Video Presenter, a consumption model whereby our customers using these modules consume credits that run against the packages they would buy upfront. We don't have a long history of doing this. We've recently started this, but we -- our thesis is to continue to roll in AI capabilities against this model to make it more meaningful from a monetization standpoint in the future. But then we also believe that continuing to provide AI capabilities will give us an edge against the competition, which will allow us and help us defend a premium of our product against the competition as a result. Finally, I would say retention is -- remains an evergreen goal that we have. So we infuse AI features everywhere. Every single product manager in the company is required to think AI first as they build new products and revise existing features, so that our customers have a better experience with the product."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Our next question comes from Robert Young, from Canaccord Genuity."
+  },
+  {
+    "speaker": "Robert Young",
+    "role": "",
+    "text": "You said in the prepared remarks that you've seen the second consecutive quarter of improved retention. I assume that's with the OEM piece aside. So I was wondering if you could dig deeper into that. If you could update us on where churn is, where the elements of churn are, if that's improving? And then where you think that's going to go in '26?"
+  },
+  {
+    "speaker": "Brandon Farber",
+    "role": "",
+    "text": "Rob, it's Brandon. As you know, we only disclose NRR on an annual basis, so we won't go into specific numbers. But you are right. We did see 2 consecutive quarters in a row of retention improvements, whether you look at it from a gross retention or net retention. This is actually very consistent with what we have been saying for the past 2 quarters. We knew in Q1, we had a large renewal base that would bring it down and we'd only go up from there. One thing that is important to mention is that we did lap the large Thomson Reuters downgrade that happened in Q3 of last year of roughly $2 million. So obviously, lapping that did result in improvement. And to be completely transparent, we do expect that metric to go down next quarter because of the AWS downgrade. So a couple of things that I'd say is we have a renewed focus on retention. We are putting together account mapping for every at-risk customer, and making sure we're proactive and not reactive. And we feel really good about the programs we have in place to continue strong retention metrics in the future."
+  },
+  {
+    "speaker": "Robert Young",
+    "role": "",
+    "text": "You noted the AWS Skill Builder roll-off. How is that handover progressing? Is there a potential for a subcontract, a support contract in 2026? Or is that going to disengage completely, as you expect?"
+  },
+  {
+    "speaker": "Brandon Farber",
+    "role": "",
+    "text": "Rob, we expect that to completely disengage, December 31."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Our next question comes from Josh Baer from Morgan Stanley."
+  },
+  {
+    "speaker": "Josh Baer",
+    "role": "",
+    "text": "Congrats on reaching 20% EBITDA margin early. That's something that you guys have been talking about for a long time. I wanted to just follow up with a couple more on the OEM. Just curious what that percentage was last quarter? Do you have that?"
+  },
+  {
+    "speaker": "Brandon Farber",
+    "role": "",
+    "text": "Sorry, maybe if I could just rephrase, are you asking for what ARR growth was, excluding Dayforce?"
+  },
+  {
+    "speaker": "Josh Baer",
+    "role": "",
+    "text": "No. The percentage of ARR, so 6.2% this quarter. Just wondering what it was last quarter."
+  },
+  {
+    "speaker": "Brandon Farber",
+    "role": "",
+    "text": "Instead of giving you that exact metric, what I can give you is what our ARR, excluding Dayforce was last quarter, which was roughly 13.9%."
+  },
+  {
+    "speaker": "Josh Baer",
+    "role": "",
+    "text": "I guess I'm just wondering why it was like a greater wind down than expected? Was it Dayforce-led? Was it customer-led? Any context there? And then I did want to just follow up, like is it a lot of smaller customers noticed like there was a big jump again in average contract value. So some really nice acceleration there. Wondering if it's related. I know you also had success more broadly in enterprise. But in part, I want to get a better sense of like does this average contract value continue accelerating? Or should we expect that to slow down? And then when we do get the total customer count at the end of the year, like should we expect that to move lower due to this Dayforce?"
+  },
+  {
+    "speaker": "Brandon Farber",
+    "role": "",
+    "text": "Yes. A lot of what you just said is bag on. So our ACV this quarter did grow as a result of the Dayforce wind down. If you think about the customers that typically get attracted to an HRS system plus an LMS, they tend to be a customer who use it for 1 to 2 use cases, which is onboarding and compliance. And those average tickets tend to be materially lower than a customer that would sign directly with Docebo, for multiple different use cases. So you should expect and you should model that our ACV with Dayforce is materially lower than a customer that signs directly with Docebo. Regarding customer accounts, you should expect that our customer count overall will be down, and that is a result of the wind down of Dayforce."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Our next question comes from Yifu Lie from Cantor Fitzgerald."
+  },
+  {
+    "speaker": "Yi Lee",
+    "role": "",
+    "text": "Congrats on the strong 3Q print and a busy week of earnings. So to start with you, Alessio, I want to go over the AI product vision. We understand from Inspire, Alessio, your model is to build a product that delivers value to customers first, and they will eventually pay Docebo and you can monetize it, right? So looking at the new product lineup, whether it be Harmony Search, support AI offering, Virtual Coaching, Copilot, et cetera. So which of these products, Alessio, would you say is closer to monetization potential? On the second part of this question, Alessio, in the end of your prepared remarks, you talked about redefining the future of learning. And I understand you like to solicit continuous feedback from your customers. What are the key things you've learned from your customer and stakeholders that you want to apply to your product road map for the end of this year and 2026? And I also have a follow-up with Brandon after this."
+  },
+  {
+    "speaker": "Alessio Artuffo",
+    "role": "",
+    "text": "Lovely question. Let's get started. start on the AI and product. First, let me share that you are correct. Our vision around our Harmony ecosystem is very ambitious, and we have executed. So far, Harmony Search from its recent launch has already powered about 0.5 million search with 0.5 million queries, which is a very positive result against our expectations. This is not only stopping with search. Search was just the beginning of a journey where we want to get Harmony to become the assistant of our customers. Harmony, in fact, was now evolved into a Copilot logic. The goal is to improve the productivity and the self-servicing of capabilities in the platform. So you can go in Docebo and ask Harmony to perform tasks for you and help you identify how to get things done in the product, and Harmony will either point you to it or do it for you. This is just the beginning of a journey towards full platform automation, which is a longer-term vision that we have that we're going to pursue. In terms of Creator, which you mentioned, I think your question was around which capability do I think will contribute the most to monetization. Creator is the engine behind the experience creation in Docebo, which includes, as part of it, our AI Virtual Coach, the ability to create simulations, and to simulate any scenario from customer service leadership and sales enablement, something that we have evolved this past month by releasing a new version of Creator, which -- sorry, of Virtual Coach, that initially was addressing only the sales enabling use case. Now that module is well rounded up and allows an organization to map simulation scenarios against any custom role play scenario they want to implement. So we do expect Creator and Virtual Coach to be great contributors to our monetization strategy in the future. No, I was just going to wrap up by saying our road map reflects our belief that a platform from a differentiated standpoint, you asked about the customers and what we are hearing. We are hearing customers saying they want more ability to create personalized experiences. They want to do less leaking and to be able to create content at a more rapid pace in automated way. That's what we're executing with Harmony and with Creator."
+  },
+  {
+    "speaker": "Yi Lee",
+    "role": "",
+    "text": "Alessio, I want to follow up on the -- obviously, you guys made on the customer wins, especially I want to focus on the industrial one, the 200,000 seat, right? Obviously, you're leaning more towards the system integrator channels similar to other Tier 1 SaaS software companies. I just wanted to get your sense on like what types of partnerships are you engaging? I know Deloitte is a big one, right? What's working and what needs to work on? Then I'll just ask a financial question as well, Brandon. On the financial side, I'm just looking at the KPIs for new logo ACV, 71k is flat year-over-year, but up 8% quarter-over-quarter. But in terms of the story, it seems like you guys are going upper enterprise, right? So why is that metric flat year-over-year? That's it for me."
+  },
+  {
+    "speaker": "Brandon Farber",
+    "role": "",
+    "text": "I'll kick it off on the last part of that question. So how we look at ACV is given the fact that we're seeing extremely strong success in mid-market, and this is 2 quarters in a row where we've seen that strength, and we're seeing leading indicators that strength will continue into Q4. That is impacting obviously, the ACV, as we have larger concentration of customer accounts coming in at the mid-market. When you think about the enterprise space, you tend to have a lower number of customer wins, but at a larger ACV. So during the quarter, we actually did have really strong performance of units that had very healthy ACVs, upwards of, let's call it, $500,000 ACV. And seasonally, we do expect Q4 to be strong enterprise quarter, and we do expect that ACV to go up in Q4 as well."
+  },
+  {
+    "speaker": "Alessio Artuffo",
+    "role": "",
+    "text": "On the first part of the question, you asked about how we view the market of system integrators, and you mentioned the big logo that we mentioned earlier. I would say a few things. In the past calls, we've outlined how we made such great strides in partnering with the Accenture and Deloitte type of system integrators. That work continues, and we continue to advance our relationships with them and really formally progress our status as partner type within those organizations, which in turn, will only give us more penetration in their go-to-market efforts. But also remember, it's not only a matter of pipeline creation, it's also the ability for them to support us in complex implementations, which has an incredible amount of value with large enterprises. I would add a different type of color in this call by saying that not only we've been working with these very large system integrators, but also regionally, internationally, we've identified a number of system integrators that are leaders in their respective markets. And so when you think about wins like that, the State Administration School of Latvia, we would have not been able to do that with a critical regional partner that helped us become the de facto platform for the entire public sector of the country of Latvia. And so as we continue to expand with these regional and more focused system integrators, we expect deals like these to become more and more frequent."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Our next question is from Erin Kyle from CIBC."
+  },
+  {
+    "speaker": "Erin Kyle",
+    "role": "",
+    "text": "I just had a question on how we should be thinking about the margin profile here into 2026, as you continue to expand the federal pipeline and opportunity here. Do you expect to see an increased spend in sales and marketing, or the 20% margin in Q4? I guess my question is, how sustainable is that you think going forward?"
+  },
+  {
+    "speaker": "Brandon Farber",
+    "role": "",
+    "text": "The way we're thinking about EBITDA margin, and it is important to note, we do have a bit of seasonality in EBITDA where we do expect Q3 and Q4 to always be stronger than Q1 and Q2, given Q2, we have our big Inspire event in Q1, we tend to have seasonally higher payroll costs. How we're thinking about EBITDA going forward, we do think we're fairly staffed from a sales and marketing perspective. We've invested and spent money in government over the past 2 years, and we've staffed that team up for success. We do have pipeline targets, coverage ratios that once it exceeds those ratios, we will certainly accelerate hiring. But for now, the government team is fully staffed. How we're thinking about EBITDA margins going forward, we do post in our investor deck every quarter goals from a spend level. And one number to call out is we're at 20% EBITDA today. Our G&A as a percentage of revenue is roughly 15%, and our long-term or midterm goal is 9% to 11%. So if you think about incremental 5% leverage in G&A alone, that gets you to 25% margin over a mid-to long-term basis. And that's without sacrificing any investments we have to make in R&D and sales and marketing."
+  },
+  {
+    "speaker": "Erin Kyle",
+    "role": "",
+    "text": "Maybe I can just ask one more just on the professional services revenue in the quarter was a bit higher than we had expected. Is that related to the strength in the mid-market? And if that's the case, should we expect that to trend higher in Q4 and going forward as well as you see that mid-market strength continue?"
+  },
+  {
+    "speaker": "Brandon Farber",
+    "role": "",
+    "text": "Yes, it's a great question. So what we're seeing is that the type of customers in mid-market that tend to be attracted to Docebo, are customers that have complex onboarding needs and complex use cases. And with complex use cases tend to lead to more hands-on onboarding experience. What I would say is that while we're pleased with the professional revenue growth, it's not a line item we're focused on. We're really focused on growing high-margin accretive subscription revenue, and we're very comfortable with handing off professional services revenues for our partners, such as Deloitte and Accenture."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Our next question comes from Suthan Sukumar from Stifel."
+  },
+  {
+    "speaker": "Suthan Sukumar",
+    "role": "",
+    "text": "For my first question, I wanted to touch on the Amazon expansion. I thought that was a positive read on sort of, the state of that relationship. Can you speak a little bit about -- aside from the AWS contract, what use cases you are involved with Amazon, and how you expect that relationship to evolve going forward?"
+  },
+  {
+    "speaker": "Alessio Artuffo",
+    "role": "",
+    "text": "Sure. So first, let me underscore the fact I'm very pleased with the fact that notwithstanding Amazon divesting from us on the Skills Builders initiative, we continue to attract the business of other Amazon companies who continue to entrust us with our products and services. I think that's a testament also to the great work that we've done over the years with Amazon Skills Builder. Because if we had done so, you would presume that the reference calls that would happen in order to sign with Docebo, would bring these Amazon companies to make different decisions. So I think that's a little bit of also in the retrospective to clear up any doubt remaining. I would say on the current win, we did sign Amazon Health, which is the health care division of Amazon. It's a very important win for us because not only it adds another Amazon logo to our customer base, but also it's a perfect fit for our products and services. They are going to be using Docebo for both customer experience, doing customer and partner education, effectively supporting health care professionals and technology partners and service teams. And then on the employee side, they're going to be using Docebo for sales enablement, onboarding, leadership development, professional development, and compliance. What we know is that organizations that use Docebo for more than 4, 5 use cases have the best metrics in terms of unit economics and retention. And so we love what we can bring in companies that effectively become so. And on the competition side, you guys usually ask that I want to know, unsurprisingly, we did overcome the other competitors, both on the mid-market and I would say, legacy enterprise side."
+  },
+  {
+    "speaker": "Brandon Farber",
+    "role": "",
+    "text": "One thing I'd add is that this new use case with Amazon, they were not interested in a short-term relationship with us. They did sign for 5-year contract, which just shows the strength of Docebo's relationship with Amazon."
+  },
+  {
+    "speaker": "Suthan Sukumar",
+    "role": "",
+    "text": "Great. My second question, I just wanted to kind of touch on the growth profile. You guys are -- ARR is now down 10% year-over-year. But when you exclude Dayforce, 14%, I think that does speak to the strong underlying growth momentum in the business. Can you remind us the impact with the AWS contract roll-off would be to ARR? And more broadly, what would need to happen for growth to continue reaccelerating from here? I'm just going to keep in mind that you guys have a new CRO in the seat. Just curious what sort of changes and priorities are playing out here to support that growth reacceleration."
+  },
+  {
+    "speaker": "Brandon Farber",
+    "role": "",
+    "text": "I'll start off and pass it off to Alessio. So the AWS impact consistent with last quarter is approximately $4 million hit to ARR, which will come out December 31."
+  },
+  {
+    "speaker": "Alessio Artuffo",
+    "role": "",
+    "text": "So on the question of reacceleration -- look, I think you were bang on in your observation. And I would underscore that our CRO and CMO, have been in seat for a relatively short time frame. In the past 90 days alone, though, I have seen them making a significant impact that Kyle and Mark, who hopefully are listening to us today. I'm going to say good things about their work. I've been very impressed with the level of sophistication that we've been able to already inject in our revenue architecture. There are a lot of practical details that are being improved from forecasting methodology to customer success methodology. We are investing significantly in optimizing our spend on the marketing side, becoming leaders in this AI referral traffic generation, which is a big aspect, and marketing -- digital marketing is changing a lot in the kind of post every single SEO era. So their execution has been start, and I'm seeing already the beginning of a trajectory that will continue in the years to come. In terms of reacceleration is achieved through a few things that we're pursuing. I would highlight four areas that we are particularly focused on. The first one is an evergreen, as I say, always improving our retention metrics. And that is not just improving our retention, but also improving our net dollar retention by strengthening our expansion engine. We're very focused on this, and we're seeing positive momentum in the pipeline in the business. The second one that I would mention is performance in the mid-market. As we mentioned, we are executing really well as a result of a mix of things, our people, and processes. And we expect this performance to continue in the quarters to come. The third one that I would mention is, again, government. We've only seen the beginning of a journey that started in May with federal, and will continue strong into 2026, alongside our continued execution in flat. And finally, we have been working on strengthening our enterprise momentum and pipeline. We're starting to see the results of that. We expect good signals in quarter 4, but we believe 2026 will be the year of enterprise at Docebo."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Our next question comes from Richard Tse from National Bank Capital Markets."
+  },
+  {
+    "speaker": "Richard Tse",
+    "role": "",
+    "text": "I just want to go back to this AI product portfolio. Can you help us understand your assumptions around how your attach rates are going to scale with those products? And with that, how the revenue profile will lift alongside that?"
+  },
+  {
+    "speaker": "Brandon Farber",
+    "role": "",
+    "text": "Richard, I'm going to wait to answer that question for Inspire, where we'll have an investor update and talk a little bit more about how we're envisioning AI credits to impact our overall business. The one thing that I would say is that we will have ARR that will lag a little bit in linearity with our typical nice ratable revenue as we'll recognize ARR credits as it's consumed. So the biggest impact is if we sign a new customer with -- that has an AI credit bundle, they won't start consuming until after onboarding. But we definitely see AI credits as a very strong way to lift our NRR, and have expansion within our existing customer base."
+  },
+  {
+    "speaker": "Richard Tse",
+    "role": "",
+    "text": "I guess the other question is around partnerships. You've been spending a lot of time talking today about SI partnerships. I think a few years ago at your conference, you showcased Microsoft from a technology partnership standpoint. So when you sort of look at those 2 types of partnerships, what's your sort of perspective on each in terms of driving lifetime value? I was under the impression that sort of the integration with Microsoft tends to make it stickier and potential to expand those offerings. And if that's the case, are you pursuing those type of partnerships as well in addition to these SIs?"
+  },
+  {
+    "speaker": "Alessio Artuffo",
+    "role": "",
+    "text": "Our technology partnerships are an important part of our partnership thesis. On the Microsoft side, I believe you may be referring to our module called Microsoft Teams, which is a module that allows customers that use Teams, to connect Docebo to it. It's a module that we're seeing having success in organizations that are Microsoft add. In terms of our overall technology partnerships, what we're favoring and what we're leading with are capabilities that our customers can use to extend the value of the Docebo platform. To give you an example, we have integrated with Docebo tightly technologies like S'ABLE for Virtual Labs, or Honorlock for Proctoring. I would say our partnership focus remains more on the go-to-market side. And as far as the technology side, we will continue to invest to some extent with the integrations with the core platforms like Teams, Slack and others."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "We have no further questions. I would like to turn the call back over to Alessio Artuffo, for closing remarks."
+  },
+  {
+    "speaker": "Alessio Artuffo",
+    "role": "",
+    "text": "Thank you very much for attending and for helping us tell a story of another exciting quarter at Docebo. We look forward to seeing you at the end of February, for our Q4 results. Thank you."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "This concludes today's conference call. Thank you for your participation. You may now disconnect."
+  }
+]

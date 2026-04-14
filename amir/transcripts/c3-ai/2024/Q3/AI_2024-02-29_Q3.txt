@@ -1,0 +1,274 @@
+Operator
+Good day and thank you for standing by. Welcome to the C3.ai's third-quarter fiscal year 2024 conference call. At this time, all participants are in a listen-only mode. After the speakers' presentation, there will be a question-and-answer session.
+[Operator instructions] Please be advised that today's conference is being recorded. I would now like to hand the conference over to your speaker today, Amit Berry. Please go ahead.
+Amit Berry
+--
+Investor Relations
+Good afternoon and welcome to C3.ai's earnings call for the third quarter of fiscal year 2024, which ended on January 20 -- January 31st, 2024. My name is Amit Berry, and I lead investor relations at C3 AI. With me on the call today is Tom Siebel, chairman and chief executive officer; Juho Parkkinen, chief financial officer; and Hitesh Lath, chief accounting officer. After the market closes today, we issued a press release with details regarding our third-quarter results as well as a supplemental to our results, both of which can be accessed through the Investor Relations section of our website at ir.c3.ai.
+This call is being webcast and a replay will be available on our IR website following the conclusion of the call. During today's call, we will make statements related to our business that may be considered forward-looking under federal securities laws. These statements reflect our views only as of today and should not be considered representative of our views as of any subsequent date. We disclaim any obligation to update any forward-looking statements or outlook.
+These statements are subject to a variety of risks and uncertainties that could cause actual results to differ materially from expectations. For a further discussion on material risks and other important factors that could affect our actual results, please refer to our filings with the SEC. All figures will be discussed on a non-GAAP basis unless otherwise noted. Also, during today's call, we will refer to certain non-GAAP financial measures.
+A reconciliation of GAAP to non-GAAP measures is included in our press release. Finally, at a time in our prepared remarks, in response to your questions, we may discuss metrics that are incremental to our usual presentation to give greater insight into the dynamics of our business or our quarterly results. Please be advised that we may or may not continue to provide this additional detail in the future. And with that, let me turn the call over to Tom.
+Tom Siebel
+--
+Chairman and Chief Executive Officer
+Thank you, Amit. Good afternoon, everyone, and thank you for joining our call today. C3.ai had a great third quarter. Total revenue of 78.4 million grew 18% year over year, exceeding the high end of our guidance range.
+The total number of customer engagements was 445, an increase of 80%, compared to 247 a year ago. Subscription revenue was 70.4 million, constituting 90% of total revenue and increasing 23% from a year ago. Non-GAAP gross profit was 54.7 million, representing a 70% gross margin. Our GAAP operating loss was 82.5 million.
+Our non-GAAP operating loss was 25.8 million, better than our guidance for a loss of 40 million to 46 million. Our non-GAAP net -- our non-GAAP net loss per share was $0.13. We ended the quarter with $723.3 million in cash, cash equivalents, and investments. All these numbers exceeded our guidance and exceeded analyst consensus. This is the 13th consecutive quarter as a public company in which we have met or exceeded our revenue guidance range.
+None of this should have come as a surprise. The enterprise AI market is on fire. We have been predicting for some years that the market for enterprise AI would be quite large. Those predictions were subject to much speculation in the analyst community and media. As of February 2024, I believe it's broadly resolved that the enterprise AI market opportunity is substantially larger than anyone predicted, constituting a secular change in the composition and growth rate of enterprise software writ large.
+Cloud infrastructure is scaling rapidly. Nvidia Group, 265% year over year. Nvidia's data center GPU sales grew by 409% year over year. Now, some believe this capacity is built -- is being built to use LLMs to write Christmas cards in the style of Charles Dickens, OK, and write college application essays to Yale. But that's simply not the case.
+This capacity is being built to run enterprise AI applications. Stochastic optimization of the supply chain, supply network risk, predictive maintenance, demand forecasting, fraud detection, perception optimization, customer engagement, predictive medicine, precision medicine, and government services. And that is what we do at C3 AI. So, as we power into 2024 and 2025, the world is very much coming our way. C3 AI has been preparing for this enterprise AI market explosion for 15 years.
+We started in 2009 at the infancy of AWS. This is before Azure and before Google Cloud even existed, OK? We carefully designed, developed, and tested a reference AI software platform architecture, now known as the C3 AI platform. We then used that platform to design, develop, and bring to market over 45 production enterprise AI applications that address the value chains of manufacturing, financial services, agribusiness, chemicals, lumber, paper products, utilities, oil and gas, state and local government, defense and intelligence. The market for enterprise -- the market interest in enterprise AI is staggering. Virtually, all commercial, military, and government organizations are focused today on leveraging AI to improve their operations, optimize their processes, and transform their businesses. Our qualified opportunity pipeline has increased by 73% from a year ago.
+Now, this is led by C3 Generative AI opportunities. Our go-to market with partners is driving strong pilot additions, and it's still in the earliest innings. In the third quarter, we closed 62% more bookings with our partner network than we did in Q2, 337% more bookings than a year ago. Bottom line, the market demand for enterprise AI products is overwhelming. Customers.
+In the commercial sector, in Q3, we signed new agreements with Boston Scientific, Pantaleon, Booz Allen, Southwire, Carpenter Technology Corporation, Florida Crystals, Santa Ana Agriculture, Cerveceria Guatemala, AbbVie, T-Mobile, Bloom Energy, Ball Corporation, DLA Piper, Carlisle Companies, and Holcim, among others. Holcim, a European leader in sustainable building solutions, embarked upon a production pilot with C3 AI beginning in May 2023 to configure and deploy the C3 AI Reliability suite. Following a successful six-month pilot, Holcim entered into a four-year subscription agreement with C3 AI to scale the reliability application across its 100 -- in excess of 100 cement plants. Holcim's predictive maintenance program monitors a large number of assets and will generate significant yearly economic value in reduced maintenance costs and production increases. Holcim is also implementing C3 Generative AI to enrich the reliability application and to assist with complex machinery troubleshooting.
+Another example, DLA Piper, a global law firm pioneering technology innovation in the legal sector, worked with C3 AI to create a first-of-kind generative AI application to streamline the analysis of complex legal agreements. In just three months, DLA Piper applied C3 Generative AI to reduce the time it takes to create over 200-point due diligence analyses of limited partner agreements, and it reduced the effort by 80%. As a result of this application, DLA Piper is realizing new operational efficiencies and freeing up their attorneys' time to focus on delivering increased value to their clients. State and local government had a huge quarter, generating 29% of our bookings. Lighthouse agreements with San Mateo County, Daly City, and Riverside County, California are spearheading growing awareness for our state and local governments' suite of applications, and we're now closing deals nationally.
+We see a huge potential to expand our footprint to the counties, cities, and municipalities across the United States. San Mateo County Sheriff's Office and the Daly City Police Department both signed multi-agency expansion contracts for the C3 AI Law Enforcement application as a countywide crime investigation platform to combat organized retail, vehicle, and cargo theft. This contract involves a combined 15 local police departments and 16 agencies deploying the application in -- in coordination, including Burlingame, Daly City, the City of San Mateo, San Bruno, Atherton, Redwood City, South San Francisco, Menlo Park, Foster City, Belmont, Pacifica, East Palo Alto, Colma, Broadmoor, Brisbane and others. These deployments promise to significantly decrease the investigative timelines to solve crimes and empower multi-agency collaboration to help prevent crime. These -- these engagements -- engagements were funded through the Organized Retail Threat Grant from the California Board State -- the Board of State and Community Corrections. And by the way, of all the submissions to the -- to -- to this board, San Mateo County submission ranked No.1, OK, as the -- in priority as -- as the best submission in the state, OK, with C3 AI Law Enforcement being the top investment in their initiatives to combat retail theft in the state of California. We also executed an agreement -- actually, multiple agreements, OK, with San Mateo County to deploy C3 AI Property Appraisal, C3 AI Loss -- Law Enforcement, and C3 AI Generative -- and C3 Generative AI applications.
+The assessors and county clerks, recorders and Elections Office licensed C3 AI Residential Property Appraisal and C3 AI Commercial Property Appraisal to kind of modernize the appraisal of over 230,000 parcels each year, constituting more than $300 billion in assessed property value, and to do this more accurately, more equitably, more expeditiously, and more defensively. Our U.S. federal business continues to show significant strength. Third-quarter revenue was up over 100% year over year, and bookings were up 85%. We signed new and expansion agreements with the Missile Defense Agency, the Department of Defense, the United States Air Force, and the U.S.
+intelligence community, including seven new generative AI agreements at the Missile Defense Agency, the United States Air Force, JROC, and the U.S. Marine Corps. We have a really substantial growth opportunity in federal, and we're laying the groundwork to seize it. We're getting strong traction with partners in this federal space, not the least of which is AWS. We've deployed our federal solutions on the AWS Marketplace for the U.S.
+intelligence community in June of last year, and we're basically on speed dial collaborating with -- with AWS federal executives every day in the defense and intelligence communities. Additionally, and importantly, we entered into an enhanced partnership agreement with Paradyme. This is a -- this is a high-end professional services organization in the federal sector. And we did this to increase our capacity for deploying appropriately cleared data scientists and application engineers into our classified government installations. We've aligned with Paradyme in our commitment to support the defense intelligence communities in their critical missions related to national security. Under the new agreement, Paradyme will significantly grow its number of dedicated C3 AI staff to accelerate joint selling and to accelerate the delivery of these secure, classified, and powerful AI applications, predicting -- you know, providing predictive insights into these federal agencies.
+In addition, Paradyme will jointly mark up the C3 Generative AI for Defense application and the C3 AI Law Enforcement applications. I want to highlight the continued diversification in our -- in our go-to-market efforts. Our business continues to diversify across industries. In the last quarter of Q3, our bookings distribution by industry was 29% state and local government, 25% federal defense and aerospace, 16% manufacturing, 11% agribusiness, 8% chemical, 7% professional services, 2% energy and service utilities, 1% food processing and consumer packaged goods, and 1% oil and gas. Now, let's take a minute, and this is important, so please pay attention and look at the evolution of our go-to-market model. And I want to particularly talk about the transition to consumption-based pricing.
+You'll recall that, six quarters ago, we changed our go-to-market model from a leading with a subscription-based pricing model to leading with a consumption-based pricing model, the general idea being that rather than people licensing 10, 20, 30, 40, $50 million upfront, they would simply do a project -- a pilot project for, say, a half a million for six months. And we'll bring the predictive maintenance application, the supply chain optimization, the demand forecasting application, whatever it may be, into full production in six months and then -- to the customer for half a million dollars, which is insignificant. And if the customer likes it, they could keep it and they pay depending upon the volumes. Generally, you know, $0.40 to $0.55 per vCPU hour to run the application. Bring it live, if you like it, keep it.
+That was the idea. And this clearly and substantially lower the price barrier for -- for companies to engage with us. And we've seen this now in the -- you know, the size, the number of deals that we close each quarter, the size of the -- you know, of the transaction that we're doing, it's been very effective. So, this model has been and continues to be very successful in driving engagement. And our contract volume has grown as we expect it.
+Now, at that time, we provided expectations of vCPU consumption ramps, pricing, and pilot conversion rates. And now, we've compared this to the empirical data that we've realized over the past four quarters, and it turns out, those initial assumptions have been proved to be quite accurate. Our estimates on VPC --vCPU usage and how that ramps, those -- how that ramp, say, over four, five, six, seven, eight quarters, they're pretty darn accurate. And I would say that, you know, say, plus or minus 10% in -- you know, it's about right on. OK, we assumed a pilot conversion rate of 70%, and what we're seeing, that appears to be about right.
+OK, we're also pleased to share that the pricing on the converting part -- on the converted pilot is pretty much in line with our expectations. Now, when we began the transition, we assumed that virtually almost all pilots actually would convert to month-to-month pay-as-you-go consumption-based pricing. Counterintuitively, it hasn't quite worked out that way, and the empirical data show that the majority of our customers are choosing to sign multi-year subscription contracts rather than, you know, after the trial, they have the option, OK, and they're choosing to sign multi-year subscription contracts rather than month to month pay as you go. And so, why are they doing that? After pilot completion, many customers are electing to deploy multiple applications across multiple business units, and they're electing for a multiyear subscription -- committed subscription pricing model as it offers them a more predictable cost model at large scale. Now, note also, it's not quite this simple, for those of you who are working out models, because that subscription agreement also involves a consumption runtime component. So, this is not going to be easy to model, people, for those who are working on your spreadsheets.
+OK, now, the good news is that our customers are making significant commitments to C3 AI, and our multi-year subscription agreements are a positive indicator of the depth of their commitment. Also, our data shows that over the term of the contract, the revenue from the subscription agreements is generally equal to the revenue from our consumption agreements. So, whatever the customer chooses is fine to us because it's revenue neutral over, say, 10 to 12 quarters. Bottom line, our go-to-market transition is working as evident from the growth of our opportunity pipeline, the increase in our customer cases, and increased revenue. Now, let's take a minute and talk about generative AI because this is a -- this is a very significant market development.
+The opportunity ahead of us in generative AI is enormous. C3 AI has been at the vanguard of enterprise AI innovation now for 15 years. We spent 15 years building enterprise AI applications for manufacturing, supply chain, demand chain, finance, defense, intelligence, smart grid, oil and gas, etc. We -- in all fairness, we largely established the enterprise AI category. Now, with the advent of generative AI, I mean, this is fundamentally changing the nature of the market.
+It's changing the nature of the human-computer interface. It's unlocking new use cases, and it's breaking -- and it's creating kind of breakthrough opportunities for non-obvious applications in new industries and -- and enterprises that we might -- that we would not have expected. And we're just in the earliest days of this. Gartner predicts -- Gartner Group predicts that by 2026, over 80% of enterprises will be using generative AI, including the deployment of generative AI-enabled applications in their production environments. This is up from basically zero in 2022.
+Per Gartner, organizations that "do not consistently manage AI risks are exponentially inclined to experience adverse outcomes such as security failures, financial and reputational loss, and social harm," OK? We are leveraging our first-to-market advantage in scalable, trusted enterprise AI to bring secure, deterministic, hallucination-free, traceable, domain-specific generative AI solutions and generative AI-augmented applications to market. And we're seeing a groundswell of interest in all of our generative AI offerings and our remarkable uptake of the C3 Generative AI suite. Our generative AI customer activity has ramped sharply since we introduced this product to market four quarters ago. We're now applying AI -- generative AI in kind of areas where we wouldn't have expected, in operator assistance in a major manufacturing facility, customer assistance at a global financial services company, and field technical support at a major multinational manufacturing group. DLA Piper is using generative AI to significantly reduce the labor associated with limited partner agreement due diligence. Another leading law firm is using the corpus of S-1s that are contained in SEC.gov to train a large language model to reduce the attorney labor, OK, in generating first drafts of S-1 for IPO candidates.
+I mean, imagine you train a large learning model on the corpus of S-1s in sec.gov. And then, you want to come up with your first draft of your S-1 if and when the IPO market opens again, OK, and you put in the name, address, the finances, the key risk factors, hit the carriage return, and you know, ipso facto, you know, the first draft of the S-1 is there. And we've saved, you know, God knows how many person weeks of legal associates, where now they can just edit it and get it done. So, it's really -- this is -- this is pretty neat. Baker Hughes is using C3 Generative AI, on top of Workday and ServiceNow, to provide its global employees broad and immediate answers to all employee questions about -- you know, employee questions, policies, benefits, compensation, what have you. Riverside County in California is using C3 Generative AI to assist their staff in answering questions about citizens questions, about taxation, zoning, building codes, etc. We continue to be really impressed by the broad range of applications to which the -- this generative AI technology is applicable.
+In -- in Q3, we closed 17 generative AI applications pilots across a broad range of industries including federal defense, aerospace, ag, forestry, food processing, manufacturing, state and local government, chemicals, life science, and others. And these generative AI pilot spanned Europe, Latin America, North America. There are no bounds to this. We continue to drive innovation in the generative AI market with our highly differentiated C3 Generative AI solution. Our newest innovations include omni-modal data support.
+You've heard about multimodal. Well, multimodal doesn't cut it. Multimodal includes text and images, that doesn't get you very far. You need to include you know -- you need, you know, enterprise data, ERP, CRM, OSI PI data, telemetry, images, text, photos, voice. So, you know, in order for this -- for this dog to hunt, OK, it needs to, you know -- you know, multimodal, it doesn't get you anywhere.
+You need omni-modal data support, which is what we support in the C3 AI product today. We have advanced parsing and embedding capabilities with increased reasoning on tables and images within documents, OK. We have the planning and execution of complex multi-step workflows. We support multilingual support and the automatic invocation of advanced math tooling, OK.
+We do this in a manner that is virtually hallucination-free, OK, and it's LLM-agnostic. So, it's -- our solution here is really quite unique and it's getting a lot of traction. And we are installed today in, you know, some of the most secure installations on the planet Earth. Earlier this year -- or last year actually, then we announced in last quarter's conference call, we made a well-considered decision to accelerate our investments in generative AI to seize market share in this large and rapidly growing market opportunity. As a result of that investment, last quarter, our way -- our web page views are up 57% year over year in Q3, our organic search traffic is up 68%, and our unique visitors to our website are up an eye-popping 230%.
+So, this decision is already accelerating our business, already accelerating our -- our product innovation, and it's driving definitely broader market awareness of what we do in enterprise AI and in generative AI. That being said, we continue to expect that we will operate a positive free cash flow business, OK, in Q4 of -- in the next quarter. Now, while we're not giving fiscal year '25 guidance yet, we will continue to expect a positive free cash flow -- we continue to expect positive free cash flow for the full year of fiscal year '25. Talk -- talk a minute about our international users group conference, C3 Transform. We'll be holding our fifth annual international users group conference, C3 Transform, in Boca Raton next week, March 5th to 7th. Over 500 customers and partners are registered to attend, including leaders from almost every industry sector.
+General sessions on March 5th and 6th will be substance-packed, including C3 AI product roadmaps, C3 AI customer success stories, best practices in enterprise AI from C3 AI customers and partners, AI innovation in defense and intelligence, and discussions from experts about the past and future of generative AI. And I'm very pleased to announce that the C3 Transform general sessions will be simulcast to qualified investors and analysts, and those of you who are interested can register online beginning this Friday and -- and tune in -- in real time to participate in any of those -- to those general sessions that you would like. And I think you'll find them these are not cheesy sales pitches, folks. This is -- this is -- this is pretty substantive stuff. And for those of you who are either interested in C3 or interested in AI in general, I think you'll find it a -- you know, we hope you'll join us, and you're welcome to. In conclusion, business is good, prospects look bright, and C3.ai has returned to accelerating growth.
+Talk about guidance. So, given current market conditions, we are increasing revenue guidance for Q, OK, and for fiscal year -- this fiscal year, 2024. We're -- for Q4, we're anticipating revenue in the range of 82 million to 86 million. And for the year, we're anticipating revenue in the range of 306 million to 310 million.
+Our non-GAAP loss from operations is expected to be in the range of 43.5 million to 51.5 million for the quarter, and our loss -- our non-GAAP loss from operations for the year is expected to be in the range of 115 million to 123 million. Now, let me turn the call over to my colleagues, Juho Parkkinen, the chief financial officer; and Hitesh Lath, the chief accounting officer, for additional detail. Juho.
+Juho Parkkinen
+--
+Chief Financial Officer
+Thank you, Tom. I will now provide a recap of our Q3 financial results and some additional color on pilot activity, then I'll discuss factors that will drive our financials in Q4 and in FY '25. All figures are non-GAAP unless otherwise noted. Total revenue for the third quarter increased 17.6% year over year to 78.4 million.
+Subscription revenue increased 23.4% year over year to 70.4 million and represented 89.8% of total revenue. Professional services revenue was 88.0 million and represents a 10.2% of total revenue. Gross profit for the third quarter was 54.7 million and gross margin was 69.7%. As a reminder, we continue to expect short-term pressure on our gross margins due to higher mix of pilots, which carry a greater cost of revenue during the pilot phase of the customer life cycle. Also, as we discussed last quarter, we expect short-term pressure on our operating margin due to the investments we're making in generative AI and upgrading customers to our platform version 8.3.
+Operating loss for the quarter was negative 25.8 million, compared to our guidance range of negative 40 million to negative 46 million. The improvement in operating loss versus guidance was driven by our team's ongoing focus on disciplined expense management, as well as the timing of additional investments we're making to capture market share. At the end of Q3, our accounts receivable balance was 173.5 million, including unbilled receivables of 102.6 million. Total allowance for bad debt remains low at 400,000, and we have no concerns regarding collections. The general health of our accounts receivable remains strong.
+Six quarters ago, we announced a transition from subscription-based pricing to consumption-based pricing, a standard in the industry. We anticipated and announced that this transition would have a short to medium-term negative effect upon revenue growth and RPO, as the average sales price was significantly reduced and the contracts often lack the time of certain multi-period commitment. As the transition progressed, we expected to return to revenue growth as customer engagements accelerate and customers expand their consumption. Reflecting our transition to a more consumption-based contract, we reported third-quarter GAAP RPO of 286.9 million, which is down 28.8% from last year, and current GAAP RPO of 172 million, which is down 2.4% from last year. Free cash flow for the quarter was negative 45.1 million. We continue to be very well capitalized and closed the quarter with 723.3 million in cash, cash equivalents, and marketable securities.
+Now, I'll provide some additional metrics for the third quarter. During the quarter, we started 29 pilots, a 71% increase from last year and down 19.4% from last quarter due to the timing of the sales activity. Ten industries were represented in our pilot starts. At quarter end, we had cumulatively signed 138 pilots, of which 132 are still active. This means they're still in their original three- to six-month term, extended for some duration, converted to consumption or a licensed contract, or currently being negotiated for a production license.
+Our customer engagement count for the quarter was 445, an 80.2% increase from 247 a year ago. As the last item on our call today, I wanted to inform you that after three wonderful years at C3.ai, I will be stepping down as the company's CFO and assuming a role as VP of finance. I have been at C3.ai for three amazing years and two as its CFO. I'm grateful to Tom and the board of directors for the opportunity. It has been a privilege to work beside Tom and the entire executive team in this role. As you all are aware, C3.ai is a unique hyper-performance technology company, 100% in the office, incredibly hardworking, fast-paced, you have to be on 150% all the time.
+And for me, personally, I need to take a break and step aside for a bit and spend more time with my family. I am pleased to inform you that my colleague, Hitesh Lath, is assuming the role as CFO. I hired Hitesh about three months ago as our chief accounting officer. Hitesh comes to us from Ernst and Young, where he was a partner for over eight years and brings a total experience of 24 years spent serving large multinational technology clients.
+I've known Hitesh for over a decade, and in fact, when I was at Ernst and Young, I worked for him at some of the engagements. From day one, Hitesh jumped right in and was heavily involved in preparing the financials for this quarter. And I am very excited to hand the finance team into Hitesh's capable hands and expect him to continue the progress we have made and take the team to new heights. I will remain a C3.ai employee, advising Hitesh and Tom and assisting the team as necessary to make sure our operations are smooth and our financial reports continue to be pristine. Hitesh, would you like to say something?
+Hitesh Lath
+--
+Chief Accounting Officer
+Thank you, Juho. I have been here at C3.ai for about three months, and I'm very excited to take on this role. These are great times for AI and for C3.ai, and I look forward to working with Tom and the rest of the executive team and be a part of the growth story. With that, I'd like to hand it over to the operator for Q&A.
+Questions & Answers:
+Operator
+Thank you. [Operator instructions] And our first question comes from Timothy Horan of Oppenheimer.
+Tim Horan
+--
+Oppenheimer and Company -- Analyst
+Thanks, guys. Can you give us a little bit more metrics on the productivity improvements your customers are seeing or success stories? And, you know, where is generative AI adding the most value to AI as you see it now? Thanks.
+Tom Siebel
+--
+Chairman and Chief Executive Officer
+Timothy, hi, it's Tom. Thanks for the question. I would -- you know, to the extent that you have time, either you or have one of your of associates dial in next week to our users group conference, because your customers are going to say what the productivity increases they're getting. I mean, Shell has stood up and said they're getting, you know, $2 billion in economic benefit, OK.
+The United States Air Force, who will be presenting, OK, at this, at this has said that they're getting a 25% increase in aircraft availability -- increase in aircraft availability from our predictive maintenance applications deployed as a standard in the Air Force. So, I mean, that's 25% increase in capability in the United States Air Force is a lot of capability. So, you know, those are two examples. Generative AI, to me, this -- there's just no telling where this goes, whether it's sitting on top of Workday, sitting on top of ServiceNow, sitting on top of SAP, sitting on top of Salesforce, driving contracts for lawyers, you know, the work we're doing at DLA Piper. I mean -- one of the applications you're going to see, like, you know, for those of you that tune in to our users group conference, they'll talk about our RSO application. This is the -- this is the application we -- this is one of the largest AI applications on Earth to support and deployed at the United States Air Force.
+And, you know, now we're putting -- and this -- this is -- we've used the data from 22 weapon systems into a unified federated image, F-15, F-16, F-18, F-35, KC-135, etc., and including the telemetry from many of these devices. And a B-1 bomber has 42,000 sensors emitting telemetry. It's something like eight hertz cycles. So, there's a lot of data. I think it's order of 100 terabytes of data.
+And like any application of this nature, it has a highly technical interface. When we put generative AI on top of it, it has a Mosaic browser user interface. The Mosaic browser, you guys know, that is basically the Google browser, OK. Google copied it, OK.
+And Mosaic browser came out of University of Illinois, I think, in 1993. And the -- so now, you simply -- anybody in the Air Force with the proper authority can ask any question about any weapon system -- or any weapon systems and immediately get the answer: What am I writing up [Inaudible] for F-35 squadrons in Central Europe? What's my cost of running the B-1 b program in each of the last five years? OK, what are my biggest parts issues associated with the F-35 project, whatever it may be. So, it really is -- so, as it relates to the -- you know, as we deploy these enterprise AI applications in mass across organizations, it provides a user interface, it makes the change management project process much simpler. So, these are examples in both those areas. And, you know, I don't know how this big -- how big this generative AI thing is, but it's bigger than a breadbox I can tell you that.
+Tim Horan
+--
+Oppenheimer and Company -- Analyst
+Thank you.
+Operator
+Thank you. One moment for our next question. And our next question comes from Sanjit Singh of Morgan Stanley.
+Sanjit Singh
+--
+Morgan Stanley -- Analyst
+Thank you for taking the questions. And sorry, Juho, to see you go, and best of luck spending time with the family. Tom, I wanted to ask a little bit about retrieval-augmented generation. It seems like that's an AI access pattern that's getting really really popular across enterprises and across AI companies.
+And so, there's a lot of companies sort of pursuing this opportunity. And I wanted to hear a little bit about how C3 is sort of differentiated in terms of providing this capability to enterprises. You know, what sort of differentiates RAG from C3 versus some of the other players that are -- that are trying to to make this a reality for customers?
+Tom Siebel
+--
+Chairman and Chief Executive Officer
+OK, Sanjit, you talk about enterprise AI in general, or specifically generative AI?
+Sanjit Singh
+--
+Morgan Stanley -- Analyst
+Generative AI, but then specifically about the retrieval-augmented generation, like, RAG, it seems like one of these use cases that's catching fire with enterprises and just wanted to see, like, how C3 is allowing customers to pursue RAG use cases.
+Tom Siebel
+--
+Chairman and Chief Executive Officer
+OK, well -- well, RAG, usually, what we're referring to is a technology that allows the answer to be traceable, OK. It allows you to do so, when you ask the question, it tells you where the answer comes from. And most large language models will not do that, OK. The C3 generative, by combining 15 years' worth of platform architecture with the large language model, we're able to solve the generative AI equation in a -- in a highly differentiated manner, OK.
+The C3 AI Generative AI, when we simply generate, all the answers are deterministic, not -- not random. That means every time you ask the same question, you get the same answer. Go on to Bard or go on to ChatGPT. It doesn't work that way.
+Every time you ask the same -- if two people ask the same question, you get different answers, OK? Secondly, everything that we do is traceable, OK? And this is where we use a RAG, you know, retrieval-augmented generation technology so we know exactly where the answer came from, OK. And most large language models will not do that OK. Because we have the temperature turned down to zero, OK, we don't -- we don't hallucinate. If it doesn't know the answer, it doesn't tell you where the answer is.
+Most of these other solutions are unimodal. You know that, OK? They can input anything you want as long as you put in text. That's not useful. Now, they're thinking about multimodal. Multimodal, if you ask Andrew Ng, means, you know, text plus images.
+That's not that useful either. If we're going to do generative AI, for example, on this airport application, it needs to be omni-modal: text, images, graphics, enterprise data, telemetry, voice, signals, what have you. And so, we're omni-modal. We -- almost all of these other LLM solutions, whether they come from OpenAI or Anthropic or -- or Google or whoever they might be, they are LLM-specific. Our answer is we're LLM agnostic.
+So, you can change out the large language model every week as these guys out-innovate each other, OK. One of the big hobgoblins associated with large language models is data exfiltration. This is what -- this is what is stopping these applications from being installed everywhere. See Samsung for details. There's a lot of research, particularly coming out of university -- Carnegie Mellon, OK, that are showing the cyberattack vectors that are opened by these large language models.
+And then, you know, the story about Samsung with the kind of massive data exfiltration of their intellectual property onto the public internet, OK. Because the way that our system is structured, we have the LLM has no access to the data, therefore it can't exfiltrate and it's not a vector for cyber, OK. It also because it doesn't have access to the data, it doesn't have the opportunity to hallucinate, OK. Another reason why these LLMs are not being installed has to do with IP liability.
+The IP liability is associated with these large language models that are trained on the public internet are unbounded OK. Unbounded liability is a problem for Bank of America. Unbounded liability is a problem at Cargill. It's a -- it's a problem at any responsible organization, you know, even you know, Morgan Stanley, OK. And the -- you know, the way that -- the way that our system works, only your data are available to the large language model, so there is no IP liability problem.
+And finally, our solutions, our LLP, you know, we -- I already mentioned LLP -- LLM-agnostic. So, our solutions are highly differentiated from the other solutions that are out there. And for any one of those reasons I mentioned, OK, that system does not get installed at Goldman Sachs, does not get installed at Morgan Stanley, OK, Koch Industries, United States Air Force, or the CIA. That dog doesn't hunt and ours does, that's the difference.
+Sanjit Singh
+--
+Morgan Stanley -- Analyst
+That's a super comprehensive answer, Tom, and I'm really looking forward to watching some of those sessions at C3 Transform next week.
+Tom Siebel
+--
+Chairman and Chief Executive Officer
+And there is a session specifically on that with -- with Nikhil Krishnan who you know, James Lawrence also, OK, and for -- and Rowan Curran from Forrester Research on exactly that and at 9:15 on March 6th. I highly recommend it.
+Sanjit Singh
+--
+Morgan Stanley -- Analyst
+Perfect. I did have one follow-up, and it goes to some of the -- the color that you provided on, you know, the customers coming out of pilot and how they're choosing to -- to license going forward. And so, with the kind of more of a shift or more of a preference, I guess, for kind of subscription contracts, directly, what does that imply for, like, quarterly revenue over the next couple of quarters, right? Because we've been trying to think that, you know, there might be a headwind as customers move to, like, consumption contracts and, you know, consumption will eventually sort of, you know, grow and that becomes revenue accretive. So, now with this mix shift, directionally, how should I think about that impacting quarterly revenue? Does that trend continue from -- from here on going forward?
+Tom Siebel
+--
+Chairman and Chief Executive Officer
+Let's see. I'm trying to find a headwind in either of these stories, OK. Sometimes, you have to, like, offline tell me where the headwind is, OK. The -- the bottom line is the customer has the option of licensing it, you know, completely, the pilot.
+Say, OK, we'll take it month to month, and we'll pay for these -- for the -- for the per, you know, CPU hour, OK. Or many of them, you know, want to deal with price certainty because they plan on expanding in a pretty big way. And they say, "Hey, guys, let's talk about a three-year commitment." You know, we're going to commit to, you know, a certain amount of money in year one, year two, year three, and there's a consumption pricing component. Now, the bottom line is, Sanjit, it's revenue-neutral to us over 10 quarters, so it doesn't matter. And, you know, our business is -- our business is -- we're in the customer service business.
+However the customer wants to buy it, we're going to sell it. But it has really no meaningful impact on our revenue modeling. But it did come as a surprise. It's counterintuitive.
+Sanjit Singh
+--
+Morgan Stanley -- Analyst
+Yeah. No, that's -- that's great. And I'll leave it there and give the floor to -- to the other analysts. Thank you so much, Tom.
+Operator
+Thank you. One moment for our next question. And our next question comes from Pat Walravens of JMP Securities.
+Pat Walravens
+--
+JMP Securities -- Analyst
+Oh, great. I'd like to start with one sort of financial one. And then -- and then, Tom, I have a big picture one for you. So, you know, maybe on your way out, I mean, this is your Q3, next quarter's Q4, and then you're going to -- you're going to give us some guidance for fiscal '25 just to keep us all in check, you know, a quarter ahead of it.
+Yeah. Let's not get ahead of ourselves. Can we just -- can we just get some sense of what -- what -- you know, some boundaries in terms of what we should think about for -- for fiscal '25?
+Juho Parkkinen
+--
+Chief Financial Officer
+Thank -- Pat, thanks, first of all, for that question. But I mean, we're still -- we're still planning for FY '25. I mean, we think the opportunity is massive. We're very excited about the generative AI opportunity, but it's too early for us to give you any sort of guidance as to what the FY '25 revenues look like.
+We are confident on free cash flow positivity for '25, however.
+Pat Walravens
+--
+JMP Securities -- Analyst
+OK. All right. Well, that's helpful. All right, and then, Tom, the big one for you is I'm just wondering about the sort of, I think, future demand curve for, you know, nation states, sovereign clouds, that sort of thing.
+I had breakfast with another AI executive this week, and one of the comments he made was if you don't have access to --if you don't have your own committed access to AI in-country, you are dead. So, is he overstating the case, or is this -- is this another area where there's potentially a lot of work for you guys to do?
+Tom Siebel
+--
+Chairman and Chief Executive Officer
+Who's you, the you don't have access? All of our --
+Pat Walravens
+--
+JMP Securities -- Analyst
+Pick -- pick whatever -- pick whatever. Pick the -- pick the prime minister or president of any of our allies.
+Tom Siebel
+--
+Chairman and Chief Executive Officer
+Well, I think, you know, France, Germany, U.K., we do have sovereign access, OK. And so, we're not finding this a problem -- or data sovereignty a problem because one or more of the cloud providers does guarantee data sovereignty. I think, actually, the interesting trend, Pat, that we're seeing, and this is really counterintuitive, I think -- I think we're going to see the return of in-house data centers, OK. And, you know, I think this, you know, like what HP is leading, you know, with, what do they call it, green -- green grass, greenhouse with these supercomputers that will be inside of, you know, Goldman Sachs and -- OK, and -- and Bank of America and other firms. I think -- I think we're going to see a return to in-house data centers, believe it or not, OK, where people have the G -- will get the GPUs inside. But data sovereignty is not a difficult problem to solve, and we're able to address it.
+We have customers all over the world. And, you know, I believe it's a level-zero requirement. And the -- the -- you know, our friends at Azure and AWS, in particular, do kind of nail that quite well.
+Pat Walravens
+--
+JMP Securities -- Analyst
+OK, can I -- can I go a little deeper on your comment about why we're returning to in-house data centers?
+Tom Siebel
+--
+Chairman and Chief Executive Officer
+Why do I think that?
+Pat Walravens
+--
+JMP Securities -- Analyst
+Yeah. Well, what are you seeing that -- that's driving that?
+Tom Siebel
+--
+Chairman and Chief Executive Officer
+I'm hearing this in the marketplace, and even my engineers have talked about it OK, that it's going to be cost-effective for us to build. Now, the constraint is that, you know, you think, well, somebody needs to call up Jensen and beg for GPUs. So, let's say we could figure out how to do that. Maybe we know somebody who knows Jensen, OK.
+The -- the hard part is we can't get power. So, I think the constraint on this going for everybody is -- the constraint is availability of GPUs. I think a constraint on this soon is going to be the availability of power. You cannot get power to build a data center in Silicon Valley. You know this, right? You get, you know, northern Silicon Valley is -- is PG&E, which is I have no comment on that.
+And the southern -- southern Silicon Valley, some other power company I know not what, but they will not give you power for a data center. So, it's -- I think -- I think this -- I think this GPU constraint is ephemeral, and soon it's going to be power.
+Pat Walravens
+--
+JMP Securities -- Analyst
+All right. Awesome. Thank you.
+Operator
+Thank you. One moment for our next question. And our next question comes from Mike Cikos of Needham and Company.
+Matt Calitri
+--
+Needham and Company -- Analyst
+Great. Thanks, guys. This is Matt Calitri on for Mike Cikos over at Needham. Good to hear that the consumption transition is tracking in line with your initial targets.
+On that note, what can you tell us about the size of your sales force, the ramping of these reps, and the number of pilots being signed per sales rep relative to your expectations?
+Juho Parkkinen
+--
+Chief Financial Officer
+Hi, Matt. This is Juho. So, the sales -- we are still hiring actively in all of our sales functions but not as fast as we'd like. So, we -- we -- our sales force is not as high as we initially projected when we provided these sort of assumptions, but we continue to ramp up on that.
+As it becomes to the ramping up the sales force, I think, previously, we've said that everybody should make some sort of expectations and assumptions in their models until they close their first pilots. But a reasonable assumption would be, you know, one and a half, two quarters before they get fully ramped up and get going on -- on -- on closing their first pilots. And then, well, Matt, what was your third question?
+Matt Calitri
+--
+Needham and Company -- Analyst
+Just if -- if anything is -- has changed as far as, like how many pilots you're expecting each -- each rep to close. I know that was part of the initial assumptions, I think, in Q4.
+Juho Parkkinen
+--
+Chief Financial Officer
+Yeah, I think -- yeah, yeah. Once again, we lead with the pilots sales motion. So, all the sales reps, when they close new business, is expected to meet with a target. So, we would expect each of the sales guys to bring in at least a pilot a quarter once they're fully ramped up and -- and everything's at scale, but we're not quite yet there.
+Matt Calitri
+--
+Needham and Company -- Analyst
+OK. Great. Thanks for that. And then, has the company noted any change in the length of sales cycles this quarter versus the prior quarter, given management's comments on customer considerations for AI governance?
+Tom Siebel
+--
+Chairman and Chief Executive Officer
+I think we published that, didn't we?
+Juho Parkkinen
+--
+Chief Financial Officer
+We took it out from the -- the Q. So -- so -- but the sales cycle is about the same, yeah
+Tom Siebel
+--
+Chairman and Chief Executive Officer
+It's about the same, Matt.
+Juho Parkkinen
+--
+Chief Financial Officer
+Yeah.
+Tom Siebel
+--
+Chairman and Chief Executive Officer
+It hasn't changed.
+Juho Parkkinen
+--
+Chief Financial Officer
+Yeah, which is about three and a half months. Yeah.
+Matt Calitri
+--
+Needham and Company -- Analyst
+All right. Beautiful. Thanks so much, guys.
+Operator
+Thank you. One moment for our next question. And our last question comes from Kingsley Crane of Canaccord Genuity.
+Kingsley Crane
+--
+Canaccord Genuity -- Analyst
+Great. Thank you for taking the question. Commend you for the great Q3 and really strong momentum in the business. With respect to your comments on Nvidia and enterprise AI, I think what we're all trying to figure out is when does Nvidia's 200-plus percent growth in hardware investments start flowing into the software layer. And we're seeing some of it already, but is that more like one year, five years? I think we see the tidal wave coming, but we're all trying to time it.
+Tom Siebel
+--
+Chairman and Chief Executive Officer
+Well, you know, Kingsley, it's a good question, you know. But I can tell you, all this infrastructure is not being put out there to, like, play games, OK? It's put out there to run enterprise AI applications. And so, these guys are out there building highway for us, and thank goodness for that. And I think that, you know, we -- you know, the -- in terms of if you look at the -- I think you're generally aware of the market interest in AI applications. And I think you're generally aware -- maybe more than generally, probably specifically aware, of the -- of the interest in generative AI applications.
+And that's what those GPOs are going to be doing, they're going to be running them. And the good news is they'll be there. So, it's -- you know, there's a lot of things coming into place.
+Kingsley Crane
+--
+Canaccord Genuity -- Analyst
+Thank you. That's -- that's really helpful. And so, last one is just that we're seeing so much investment domestically. You've had such great success both with federal and state and local.
+How are you doing the international opportunity today both in Europe and then in regions like APAC?
+Tom Siebel
+--
+Chairman and Chief Executive Officer
+Well, I disclosed, I think, last quarter that our performance in EMEA was significantly substandard, OK. And any -- and I was pretty clear about that. And, you know, come as a big surprise to everybody on this call, but maybe we made some organizational changes. And the -- I'm pleased to report that those changes have been quite positive.
+And we're seeing the -- the levels of sales activity and customer engagement increasing dramatically in the EMEA theater and, interestingly enough, the South American theater, too. So, there's that. That's -- thanks for the question. And we're seeing, you know, very positive news there.
+Kingsley Crane
+--
+Canaccord Genuity -- Analyst
+That's great. Thank you. And, Juho, it's been fantastic to work with you. I wish you the best luck.
+Thanks again.
+Juho Parkkinen
+--
+Chief Financial Officer
+Thanks, Kingsley.
+Operator
+Thank you. I would now like to hand it back to Mr. Siebel for closing remarks.
+Tom Siebel
+--
+Chairman and Chief Executive Officer
+Ladies and gentlemen, thank you for your time this afternoon. We appreciate the opportunity to update you on the state of our business. I can tell you that, you know, for those of you who have visited us, you know, this is a very unique place. We're the only full parking lot in Silicon Valley.
+There are 500 or 600 people here working with us today, shoulder to shoulder. They're here Monday through Friday, and we're working. And, you know, Chicago; Atlanta; Tysons, Washington, D.C.; London; Rome; Paris, were all at it. We have a very unique, high-performance corporate culture that I think is going to serve as a real strong competitive advantage in the long run.
+So, this place is just kind of vibrating with excitement. And I think for all of us involved, it's the professional experience of a lifetime. And we thank you for the opportunity to share it with you. And we look forward to bringing you up to speed next quarter.
+And let me just -- last thought, for those of you who got time, I really encourage you to dial in to C3 Transform next week because I think you'll -- you'll find it these are professional presentations that are quite substantive. And it will be a good use of your time if you have time. Ladies and gentlemen, thank you very much, and we look forward to talking again soon.
+Operator
+[Operator signoff]
+Duration: 0 minutes

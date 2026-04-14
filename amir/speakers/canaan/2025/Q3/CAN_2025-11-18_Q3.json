@@ -1,0 +1,247 @@
+[
+  {
+    "speaker": "Unknown",
+    "role": "",
+    "text": "Full Conference Call Transcript"
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Ladies and gentlemen, thank you for standing by. Welcome to Canaan Inc. Third Quarter 2025 Earnings Conference Call. At this time, all participants are in listen-only mode. After management's prepared remarks, we will have a question and answer session. Please note that this event is being recorded. Now I would like to hand the conference over to your speaker today, Gwyn Lauber, Investor Relations for the company. Please go ahead, Gwyn."
+  },
+  {
+    "speaker": "Gwyn Lauber",
+    "role": "",
+    "text": "Thank you, operator. Hello, everyone, and welcome to our earnings conference call. Joining us today are Chairman and CEO, Nangeng Zhang, and our CFO, James Jin Cheng. Leo Wang, Vice President of Capital Markets and Corporate Development, and Shi Zheng, Senior IR Manager, will also be available during the question and answer session. Our CEO will start the call by providing an overview of the company and performance highlights for the quarter. Our CFO will then provide details on the company's operating and financial results for the period before we open up the call for your questions. Before we begin, I would like to refer you to our safe harbor statement in our earnings press release. Today's call will include forward-looking statements. These statements include, but are not limited to, our outlook for the company and statements that estimate or project future operating results and the performance of the company. These statements speak only as of today, and the company assumes no obligation to revise any forward-looking statements that may be made in today's press release, call, or webcast except as required by law. These statements do not guarantee future performance and are subject to risks, uncertainties, and assumptions. Please refer to the press release and the risk factors and documents we file with the Securities and Exchange Commission, including our most recent annual report on Form 20-F, for information on risks, uncertainties, and assumptions that may cause actual results to differ materially from those set forth in such statements. In addition, during today's call, we will discuss both GAAP financial measures and certain non-GAAP financial measures, which we believe are useful as supplemental measures of the company's performance. These non-GAAP measures should be considered in addition to, and not as a substitute for, or in isolation from, GAAP results. You can find additional disclosures regarding these non-GAAP measures, including reconciliations with comparable GAAP results, in our earnings press release, which is posted on the company's website. With that, I will now turn the call over to our Chairman and CEO, Nangeng Zhang. Please go ahead."
+  },
+  {
+    "speaker": "Nangeng Zhang",
+    "role": "",
+    "text": "Thank you, Gwyn. Hello, everyone. This is Nangeng Zhang, CEO of Canaan Inc. Welcome to our earnings call. Together with our CFO, James Jin Cheng, we are calling from our Singapore headquarters to discuss our Q3 2025 business results. Let me start with an overview. During the third quarter, the global macro environment remained highly uncertain. In particular, the US Reserve's reciprocal tariff policy increased mining costs in North America. However, we also saw the resilience of the North American market. Once there was a bit more clarity, demand started to recover clearly during this quarter. Bitcoin prices increased from approximately $107,000 at the end of June to about $114,000 at the end of September. This shows a rapid increase in total global hash rate, which rose from 846 exahash per second at the end of Q2 to 1,041 exahash per second at the end of Q3. Accompanied by a significant rise in mining difficulty, with growing energy competition globally, the mining industry is facing higher operational challenges. Despite the complex external environment, we delivered results that exceeded expectations. Total revenue for the quarter exceeded $150 million, up 50.2% quarter over quarter and 104.4% year over year, and beat our guidance range of $125 million to $145 million. Gross profit reached $16.6 million, much higher than the $9.3 million reported in Q2. This improvement in revenue and gross profit reflects our rapid response to market demand and ongoing optimization of global mining operations. Supported by strong sales and revenue momentum, our cash balance at the end of the quarter increased to $119 million, representing an 80.9% sequential increase."
+  },
+  {
+    "speaker": "Nangeng Zhang",
+    "role": "",
+    "text": "In mining machine sales, we delivered a record high of 10 exahash per second of computing power in Q3, up 55.6% sequentially and 37.7% year over year. Our average selling price increased 33.8% year over year, to $11.8 per terahash. Despite a slight rise in cost per terahash due to changes in international trade policies during this quarter, we achieved a product gross margin of approximately 17%. We continue to serve strong hash rate demand in Asia and also captured the recurring demand in North America. Notably, during this quarter, we secured large orders from well-known customers in the region, including Bitfury, Cypher, CleanSpark, and Luxor. In early October, we signed a purchase agreement for over 50,000 A15 Pro models with a US-based miner client. This highlights the growing recognition of our product performance, quality, and service by North American institutional customers. In the consumer-grade mining machine market, our Avalon Home series continues to lead in this emerging space. In addition to regular marketing and promotional activities, we have also included the Home series in our open-source code program. We are actively growing our user and developer community and expanding our brand influence. At the same time, we are exploring new applications of the Home series in smart home scenarios. Currently, we are developing software to make our products compatible with Matter, the mainstream protocol standard for smart home devices. In terms of consumer-grade product sales, we delivered 14,000 units of the Avalon Home series in Q3, generating over $12 million in revenue."
+  },
+  {
+    "speaker": "James Jin Cheng",
+    "role": "",
+    "text": "A sequential increase of 115.3%. The AvalonQ model was the top performer this quarter. By supporting scale sales through channel partners, the Home series achieved nearly $4 million in gross profit, with a solid gross margin of around 33%. Overall, our total product revenue reached $118.6 million, with gross profit close to $20 million in Q3. The Avalon Home series contributed 10.3% of total product revenue and about 20% of product gross profit. Based on what we are seeing, competition in the consumer mining market remains relatively healthy. We plan to maintain solid gross margins with large new products and expanding channel coverage to drive scale. Turning to mining operations, despite a notable increase in mining difficulty during this quarter, our disciplined execution allowed us to steadily enhance hash rate development, utilization, and overall mining efficiency. As a result, we generated another quarterly record of $30.55 million in mining revenue while maintaining competitive power costs. In the third quarter, we added approximately 1 exahash per second of new deployed capacity in North America, bringing our total deployed hash rate to 9.3 exahash per second by the end of the quarter, with approximately 7.8 exahash per second energized. We mined 267 BTC during this quarter, which further contributed to our crypto asset balance. Our Bitcoin holding reached an all-time high of 1,582 BTC by the end of the quarter, providing solid support for our balance sheet. We are also actively exploring innovative mining projects. This quarter, we partnered with Solana to deploy machines at a 20-megawatt wind power mining facility in Texas. In Canada, we worked with a local energy infrastructure partner on a pilot project that converts stranded natural gas into computing power. We also supplied the mining equipment for a project designed to support local grid stability. These projects mark our first step into the energy infrastructure space, bringing with them the utilization of stranded energy. Our long-term vision is to integrate high-density, interoperable Bitcoin mining loads with energy-intensive AI and HPC workloads, building a future where computing and energy infrastructure grow together. We are entering an era in which AI software and data centers will profoundly shape daily life. At the same time, we believe that public awareness and demand for sustainable energy will continue to grow. Throughout Canaan's history, we have held a consistent belief that technology should make society more efficient. Today, we are seeing that vision become materialized. We have unique advantages in this transformation, with more than a decade of developing technologies that make chips and systems more energy-efficient. We are now extending these capabilities to both home use and the traditional energy sector. Energy operators can use our computing systems to balance the grid, improve transmission efficiency, and generate new revenue. On the consumer side, utilizing excess heat from home mining is only the beginning. Over time, we envision this concept expanding into broader home computing applications. For R&D, we continue to innovate and upgrade our products. In October, we officially launched our next-generation Avalon A16 series. The AirCut A16 XP model delivers 300 terahash per second of hash rate per unit with an industry-leading power efficiency of $12.8 per terahash. This marks the first time our AirCut miner has reached the 300 terahash level, clearly showcasing our strong leadership in Bitcoin ASIC design. We see improvements to production and supply chain. Our global delivery system is now more flexible and resilient. Today, we have manufacturing capabilities laid out in Mainland China, Malaysia, and the US, working seamlessly together to support delivery and after-sales service for consumers worldwide. While enhancing our product and supply chain capabilities, we have also sharpened our focus on core operations. Starting this quarter, we realigned our R&D team around projects that offer clear revenue visibility and strategic value. We have also streamlined headcount to support this focus. In addition to organizational and cost optimizations, we are also allocating additional resources to expand our business footprint. We have established a dedicated consumer product team to optimize product quality and accelerate product iteration. Additionally, we are allocating more resources to our hash rate finance and energy infrastructure initiatives. We see new power-related opportunities in many regions, from home users and small businesses to power utilities. In Europe and Asia, customers are exploring ASIC-based grid balancing applications. In North America, stranded energy opportunities continue to grow, with similar projects emerging globally, including in the Middle East. In our digital assets treasury management, we continue to execute our flexible strategy. At the end of the third quarter, we held 1,582 Bitcoins and 2,830 Ethereum. In early November, during a market pullback, we strategically acquired an additional 100 Bitcoins as part of our crypto asset management strategy, further enhancing our asset allocation and potential liquidity. To sum up, Q3 was a highly strategic quarter in Canaan's development journey. We achieved strong revenue growth and improved gross profit while also optimizing our business structure and organization. At the same time, we made encouraging progress in several new areas. Looking ahead, we are fully focused on driving Q4 sales, fulfilling large customer orders, and converting preorders for our new A16 series. At the same time, we are accelerating the deployment of newly signed mining projects to further expand our mining hash rate. We are closely monitoring the impact of US tariff policy, macro liquidity conditions, and potential changes in global mining and energy regulations. Taking all of these factors together, we remain cautiously optimistic for the fourth quarter and expect total revenue to be in the range of $175 million to $205 million. This outlook is based on current market and operating conditions, and actual results may vary with policy uncertainties and market volatility. This concludes my prepared remarks. Thank you, everyone. Now I will hand it over to our CFO, James Jin Cheng. Please, sir."
+  },
+  {
+    "speaker": "James Jin Cheng",
+    "role": "",
+    "text": "Thank you, Nangeng. Good day, everyone. This is James Jin Cheng, CFO of Canaan Inc. I'm very glad to share our Q3 financial results with you. Even today, we are witnessing Bitcoin price under big pressure. As Nangeng stated at the start of the call, the macroeconomic environment in Q3 was highly uncertain. Reciprocal tariff policies from the United States added mining costs in North America. Global network hash rate growth continuously outpaced Bitcoin's price appreciation. This all led to increased mining difficulty and intensified operational challenges across the industry. Despite market volatility, we delivered strong results this quarter. Our revenue exceeded our own expectations. Our gross profit showed consistent growth, with the average selling price climbing again, and our reserves of cash and digital assets increased significantly in our ending balance sheet of September. Let me give a quick summary of our financial performance. First, we delivered a total revenue reaching $150.5 million, exceeding our guidance and representing a 104% year-over-year increase. This was primarily driven by growth in our product sales of $118.6 million, surpassing the $100 million milestone for the first time in the past three years. This growth was achieved while we set a new record of 10 exahash of quarterly computing power sold, and the average selling price continued rising to $11.8 per terahash per second, a new high for the past two years. After a very quiet Q2, our clients from the United States started actively placing sizable and repeating orders for the A15 series. Sales of North American customers contributed 31% of our total revenue in Q3. We are happy to witness the strong demand recovery of the North American market. Also, our sales of Avalon Home series generated $12.2 million in revenue during the quarter, representing a 115% quarter-over-quarter increase. This is the first time Avalon Home products have contributed over 10% of total product revenue since the launch just over a year ago. As Nangeng said, we are cultivating the consumer market and establishing our leadership position in the newly defined house mining category. Second, our mining business also delivered another record result this quarter. Mining revenue reached $30.6 million, an all-time high and a 241% year-over-year increase. We mined 267 Bitcoins during the quarter, representing 82% year-over-year growth. During the quarter, we deployed over 8,000 mining machines across our projects in the United States and other countries, expanding our total deployed hash rate by 14% from 8.15 exahash per second at the end of Q2 to 9.3 exahash per second at the end of Q3. Our installed computing power in the United States also grew by 20%, from 3.66 exahash per second at the end of Q2 to 4.4 exahash per second at the end of Q3. We also strategically closed our mining operations in Kazakhstan and initiated a small-scale project in Malaysia."
+  },
+  {
+    "speaker": "James Jin Cheng",
+    "role": "",
+    "text": "Next, our profitability continued to improve this quarter. Gross profit reached $16.6 million, up 78.6% quarter over quarter, marking a significant turnaround from a gross loss of $21.5 million in the same period last year. Product gross margin reached 17% this quarter. Both gross profit and margin continued their growth in Q3, extending the upward trajectory and reinforcing the positive trend. Our Avalon Home series generated nearly $4 million in gross profit with a gross margin of approximately 33%. The Avalon Home series accounted for around 10.3% of product revenue, and it contributed 20% of the product's gross profit. The Home series has already become a stable revenue pillar and a recognized gross profit contributor. Last but not least, our total cryptocurrency treasury reached approximately 1,582 Bitcoins and 2,830 Ethereum, with an estimated market value of approximately $189 million at the end of Q3. Our unrealized total gain was approximately $87 million, reflecting the appreciation in value of the digital assets accumulated from mining and other operations. As of October 31, our total Bitcoin treasury increased to 1,610, as previously disclosed in our monthly report. In early November, we further strengthened our digital asset portfolio by purchasing another 100 Bitcoins. Turning to expenses, our operating expenses totaled approximately $40.5 million. We recorded $1.5 million in one-time expenses relating to the operational efficiency initiative, including organizational optimization, travel control measures, and other related items. In addition, we recorded $1.2 million in impairment related to mining machines deployed in Kazakhstan. By the end of Q3, the price of Bitcoin increased to around $113,000 versus around $107,000 at the end of Q2. The price of Ethereum increased to around $4,100 at the end of Q3 versus around $2,500 at the end of Q2. This price appreciation resulted in an aggregate unrealized fair value gain of $5.7 million on our digital asset holdings. A non-cash change in fair value of preferred shares impacted our Q3 bottom line by $9.5 million. This included a $5.4 million impact from the Series A-1 preferred shares, which were fully converted during the quarter, and another $4 million from Series A preferred shares, which were fully converted in early October. To provide a clearer view of our underlying operational performance, we have excluded the impact of this accounting treatment from our non-GAAP measures. With all preferred shares now fully converted, we expect Q4 to include a final impact related to the change in fair value of these instruments. Benefiting from strong top-line growth, improved margins, and firm cost discipline, we delivered a positive adjusted EBITDA of $2.8 million in Q3. Our net loss per ADS narrowed to just $0.05 versus $0.27 in the same period last year, demonstrating continued momentum toward profitability. Turning to our balance sheet and cash flow, we generated a net cash inflow of $53 million in Q3. This was driven by $189 million in sales collections, the highest quarterly level in the past two years, and supplemented by approximately $10 million in export VAT refunds. These inflows fully covered the quarter's major cash outflows, including $56 million in wafer prepayments and $90 million for production and operations. As a result, our cash balance increased to $119 million at quarter-end. Now moving to our contract liability, the balance of contract advances reached nearly $87 million as of this quarter-end, with over 85% contributed by North American clients. As of the end of Q3, we recorded account receivables of $7 million, all from customers using Bitcoins as collateral for installment payments. We will continuously evaluate market demand and adopt corresponding credit policies with caution. Now turning to our recent fundraising, in early November, we closed a strategic investment totaling $72 million with three top-tier institutional investors: Breven Howard, Galaxy Digital, and Waste Asset Management. The proceeds are intended to fund the acquisition and deployment of North American data center sites, as well as the expansion of our Bitcoin mining machine production capacity. In late October, we renewed the ATM program to broaden banking relationships and enhance our financial flexibility for future growth initiatives. Following the renewal, we sold approximately 4.8 million ADSs, raising gross proceeds of about $7.8 million. As previously reported in the monthly report, we have elected to pause further sales under the ATM for the remainder of 2025. As of the date of the earnings, we have cumulatively repurchased approximately 5.1 million ADSs for approximately $3.4 million under our share repurchase program. In the future, we plan to execute on our repurchase plan as market conditions allow us. Moving forward, as our CEO just mentioned, strategically, we will continue our technology-driven efforts with the goal of improving the efficiency of society. These efforts include the development of energy-efficient chips, similar to what we did in the past decade. This includes an extension of our energy operations, which leverages computing technologies. Also, on the consumer side, these efforts include Bitcoin computing and heat reuse. To better utilize our resources, we set up additional internal controls to oversee the operation of our business. These priorities are of strategic importance and will help to provide us with additional revenue visibility. We will increase the expansion of our consumer products and energy operations, but at the same time, streamline existing R&D and administration cost structures. In cash flow management, we will continue to invest in R&D on new products and wafers in the supply chain. We will also seek opportunities that will increase our energy operations around the world, as well as help our digital assets treasury to accumulate more digital assets on our balance sheet. All this will happen in a very dynamic environment. We remain cautiously optimistic as we execute on our strategy while focusing on protecting and increasing our shareholder value. We expect revenue for the fourth quarter to be in the range of $175 million to $205 million. This forecast reflects current market conditions, and actual results may vary given policy uncertainties and market volatility. This concludes our prepared remarks. We are now open for questions."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Thank you. We will now begin the question and answer session. As a courtesy to other investors and analysts who may wish to ask a question, please limit yourself to one question and one follow-up. If you have any additional questions after the Q&A session, the Investor Relations team will be available after the call. For the benefit of all participants on today's call, if you wish to ask your question to management in Chinese, please immediately repeat your questions in English. To ask a question, please press 11 and wait for a name to be announced. One moment for the first question. Your first question comes from the line of Mike Grondahl from Northland. Please go ahead."
+  },
+  {
+    "speaker": "Mike Grondahl",
+    "role": "",
+    "text": "Hey, guys. On the 50,000 machine order for the A15 Pros, can you talk a little bit about delivery timing there and gross margin on those sales?"
+  },
+  {
+    "speaker": "Nangeng Zhang",
+    "role": "",
+    "text": "Hi. Good morning. Yeah. You know, this order for more than 50,000 A15 Pro units is one of our most important deals this year. So under the contract, we expect to complete all deliveries by the end of 2025. So far, we have shipped a part of the orders and are progressing in the remaining production and logistics after that. Yeah. You know, given the size and the tight timeline of this order, and the fact that Q4 is generally a peak period for supply chain logistics and cost chains, our production and operations team are working at full strength to ensure on-time delivery while maintaining product quality. And, also, you know, at the same time, we are expecting deliveries for other customers in parallel to avoid any impact on our other long-term partners. This is a key test of our delivery management capabilities. It's a really hard job. Yeah. So for the gross margin, yes, we have a positive gross margin. Yeah. But maybe I cannot have the exact numbers. Yes, we have close one."
+  },
+  {
+    "speaker": "Mike Grondahl",
+    "role": "",
+    "text": "Got it. And then just maybe a follow-up. Your home mining sales have done really well lately. What are the margins on that business line versus the industrial mining equipment?"
+  },
+  {
+    "speaker": "Nangeng Zhang",
+    "role": "",
+    "text": "I think, you know, for our home series, in Q3, we got a 33% gross margin. And by the end of this year, I think we should maintain above a 30% gross margin. It is significantly higher than industrial miners. Yeah. Yeah. Definitely. I think the competition. Yeah. Yeah. Right. So yeah, so for the home miners' roadmap, we are planning to launch several new products over the next twelve months. And, you know, further compete about 2C, you know, the 2C product portfolio always needs a refresh every year. So we need to refresh almost all existing models in the coming year. But still, for 2026, our most important KPI for the home series is still to go mainstream and break out of the crypto niche. So please give us some more time. Yeah. Thank you."
+  },
+  {
+    "speaker": "Mike Grondahl",
+    "role": "",
+    "text": "Got it. Okay. Thank you."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Thank you for the questions. One moment for the next question. Next question comes from the line of Nick Giles from B. Riley. Please go ahead."
+  },
+  {
+    "speaker": "Henry Hurl",
+    "role": "",
+    "text": "Thank you, operator, and good morning or good evening, everyone. This is Henry Hurl on for Nick Giles. So for my first question, when is the earliest you guys could ship your new A16 models and at what scale? And what are your expectations on price and margin respectively? Thanks."
+  },
+  {
+    "speaker": "Nangeng Zhang",
+    "role": "",
+    "text": "Yeah. The A16 series was officially launched in October. And now we are at the first batch of sample production, and yeah, and we finished the testing stage. According to our plan, we will start shipping samples to selected customers by the end of this month for their testing and evaluation. Yeah. This is consistent with our launch strategy. And we expect to begin our volume shipments in 2026. And yeah, and then we will adjust the production and delivery pace dynamically based on the presale and customer feedback. For pricing, you know, we will adhere to market-driven principles, taking into account supply demand, competitive dynamics, and customer mix. So at first, I think our new flagship product A16 delivers major performance. The AirCut A16 XP can offer over 300 terahash at $12.8 per hash, which is really industry-leading. So I think it will provide higher returns per unit, and also, we can share these benefits with our customers. Yeah. So about our margins, based on the current wafer material and manufacturing cost, the per terahash cost for A16 is under control, and we've seen our expectations, and also the yield is acceptable. So I think the product's pricing power will help us to offset some cost pressures. Sure. You know, the A16 cost per test is higher than A15. So yeah. So let's see. Thank you."
+  },
+  {
+    "speaker": "Henry Hurl",
+    "role": "",
+    "text": "Yeah. And then for my follow-up, I wanted to get your guys' thoughts on the fact that several public Bitcoin miners have been very vocal about winding down their mining operations in the medium term, and then at the same time, the supply of ASIC appears to be increasing. So what do you guys think the market impact will be, and then how is Canaan responding to this trend?"
+  },
+  {
+    "speaker": "Nangeng Zhang",
+    "role": "",
+    "text": "Yeah. For this question, yes, we observed that some listed miners, maybe they are facing balance sheet pressure, share price performance issues, and a desire to pivot toward AI HPC, have publicly stated their intention to reduce Bitcoin mining over the medium term. Yeah. But from my perspective, yeah, firstly, I think the slowdown, you know, I don't think the global hash rate will slow down this year in the near term. And also, the HPC AI HPC deployments still need some time. By our investigation into the energy market in the US, the AI HPC applications need high-quality electricity, which is high quality always means higher cost. So I think fundamentally, in the next one to two years, the power suitable for mining is not in competition with the energy used for AI HPC. It's not the same electricity. So I know our customers, including ourselves, are thinking about how to build AI-ready mining facilities for the future. But at this stage, deploying more ASIC Bitcoin miners is still the best way to allocate energy today and generate revenues from this date, not waiting for another one or two or three years. So I think still, the things are hard to foresee for the long term. So we focus on, yeah, because there's no answer for three or five years later, so now we are focused on cooperating with our partners to fulfill their requirements. Also, we are trying to find more energy resources in the US and building our own mining sites today. And maybe we should have potential possibilities to transfer to the AI infrastructure in the future. This is what I personally observed in the past maybe six months. Thank you."
+  },
+  {
+    "speaker": "Henry Hurl",
+    "role": "",
+    "text": "Great. Thank you, and continued best of luck."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Our next question comes from the line of Kevin Cassidy from Rosenblatt Securities. Please go ahead."
+  },
+  {
+    "speaker": "Kevin Cassidy",
+    "role": "",
+    "text": "Thank you, and congratulations on the strong results. And your guidance for $190 million for the fourth quarter is impressive. Do you have orders also scheduled out into the first quarter? I guess, what kind of visibility are your customers giving you?"
+  },
+  {
+    "speaker": "James Jin Cheng",
+    "role": "",
+    "text": "Thank you, Kevin. I think Q4 is a peak quarter in terms of seasonality, and we provided the guidance in a very optimistic way. And also, we have already collected some of the orders. We try our best to deliver in Q4. It looks to me, Q1 traditionally is the low season because there is a New Year and the Chinese New Year together. In the Western part of the world and the Eastern part of the world, both having all kinds of holidays and the global logistics supply chain is not in the normal shape. So I don't personally see another peak time for Q1. I think the revenue could go down a little bit. But we will try our best to deliver Q4 first, and then we predict Q1 later when we have a clear understanding of the demand. Also, recently, the Bitcoin price is not in a good shape. So it's under turbulence. And some of the customers, they tend to be more cautious and hesitate to make their decisions immediately. That will also have a kind of impact on Q1 orders. So we will try to make a flexible supply. Anyway, currently, I think the demand is still higher than supply. We're just focusing on Q4 delivery first, and then let's see how it goes in Q1. Maybe we can balance between the demands of the sales and also the self-mining side. If we do have some inventory, we can allocate it to self-mining in the United States. That will also be a long-term strategic goal for us. Yeah. I think that's my 2¢, Kevin."
+  },
+  {
+    "speaker": "Kevin Cassidy",
+    "role": "",
+    "text": "Thank you, James. Very good detail. Thanks. And maybe you did note that there's a rebound in demand in the US. Is the US market less sensitive to the price of Bitcoin?"
+  },
+  {
+    "speaker": "James Jin Cheng",
+    "role": "",
+    "text": "Sorry. Come on again. You mean, oh, okay. Yeah. Just you had mentioned that with the price of Bitcoin being down in the just very recent times last few days, and you'd mentioned that would be sensitive to the demand for mining machines. And I was just wondering if, you know, the rebound we've seen in the US that you, I think you said it was 31% of revenue in the third quarter, whether that continues, even with, you know, I guess, is it less sensitive in North America to prices of Bitcoin versus the rest of the world?"
+  },
+  {
+    "speaker": "James Jin Cheng",
+    "role": "",
+    "text": "Yeah. Kevin, it looks to me, in my observation, North America is now the leading area for the global mining industry. The whole total hash rate in North America is some percentage between 35 to 40% globally. And there are, you know, around 20 listed companies in North America doing mining. They are kind of institutional players. They are more professional, building up the sites, the electricity facilities, and eventually becoming mining sites. So they have their schedule. It's not easy for them to stop their own schedule even when Bitcoin price has some short-term turbulence. For them, they look at, you know, long-term goals. That's why they are not very price sensitive in a very short-term time. But we observed the tariff did have a kind of impact on their cost structure. That increased their mining cost. That means some of the miners, especially the smaller ones, even if they are sitting in the United States, with the, you know, consistent policy advantage, they could still withdraw from Bitcoin mining to other, you know, activities. They may, you know, want to change their miners' purchase plan in Q4. So I should say US customers are the most important customers for us, and we observed their worries in the short term. But we also respect their long-term strategic goals, and we try our best to support strategic goals to get realized. So that's something we do together with them."
+  },
+  {
+    "speaker": "Nangeng Zhang",
+    "role": "",
+    "text": "Yeah. And also, I think for looking at this year, especially, the market initially expected the demand would flow rapidly into North America. However, changes in tariff policy led to a significant contraction in North American demand from late Q1 to Q2. And at that time, I think everyone was very, very nervous. But hash rate demand ramped up quickly and partly offset the weakness in North America. And in Q3 and Q4, North American customers showed very strong resilience. Together, we adapted to the new trade environment, and the demand there has recovered quickly since late Q3. In effect, for the potential already delivered in Q4, North America has again accounted for more than 50%. So, you know, Bitcoin price volatility is constant. Sharp moves over a few days or weeks do cause some customer shifts, especially small customers, to pause and reassess. But over multi-year time frames, I think the impact on underlying demand trends is limited. And I highly disagree with, like, running a business by counting numbers day by day. So this is my personal opinion. Thank you."
+  },
+  {
+    "speaker": "Kevin Cassidy",
+    "role": "",
+    "text": "Okay. Thank you very much."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Thank you. Our next question comes from the line of Michael Donovan from Compass Point. Please go ahead."
+  },
+  {
+    "speaker": "Michael Donovan",
+    "role": "",
+    "text": "Thank you, operator. Hi, Nangeng and James. So how much inventory do you have left for the A15 series? And then for Q4 guidance, what mix do you expect between A15 orders and preorders for A16s?"
+  },
+  {
+    "speaker": "James Jin Cheng",
+    "role": "",
+    "text": "Thank you for the question, Michael. I think our inventory in Q3 is like $200 million, including some of the raw materials, like wafers, like, you know, other components. And it mainly reflects the strong demand in Q4, and you have already known when we got the big order around 50,000 units to the United States. So we have to prepare the inventory. Other than that, if we digest the inventory in Q4, I don't think our inventory level will be that high. In Q1, we will see a lower inventory level for A15. And that's because we are expecting the uncertainties of the market demand in Q1. And for A16, I think it's mainly like Q3 to be the mass delivery. I think the early delivery could be late Q2. But in the transition, we will continue to produce A15 and make it better and better. I think that's the plan. Did I answer your question, Michael?"
+  },
+  {
+    "speaker": "Michael Donovan",
+    "role": "",
+    "text": "No. You did, James. I appreciate that. And then I guess for my next question, can you expand a bit more on the pilot projects that you have, the 2.5 megawatts in Alberta, Canada, and 4.5 megawatts in Japan? What are the growth opportunities in those two countries?"
+  },
+  {
+    "speaker": "Nangeng Zhang",
+    "role": "",
+    "text": "Yeah. I think we are running several similar pilot projects globally. Actually, this includes Japan, Canada, the US, and as well as some small projects ongoing in Europe and Asia, other Asian countries. Since these are pilots, our primary goal is to validate the technology and the business model rather than maximize early-stage financial returns. Yes. Thanks to the use of stranded gas and energy, the power cost for these pilot projects is relatively low, and the project-level gross margins are decent. But, you know, like most mining operations, meaningful economic benefits ultimately require scale. But based on the current results, we believe that these pilots all have the potential for scale-up. It is very important to remember that power and gas infrastructure are very traditional, long-cycle industries. Building trust and proving out a new model takes time and patience. Our strategy is to run the pilots in a stable way, cement the partnerships, and then we will pass on to larger megawatt levels at the right time. For example, the Canada stranded gas project has a very high possibility to scale up to 20 megawatts in the middle of next year. And also, we can do more, like I just mentioned, the AI-ready site mining farms in the US with our partner, Oxford. So yeah. So I think still, please give us some time. Yeah."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Thank you. One moment for the last question. Our last question comes from the line of Kevin Dede of HCW. Please go ahead."
+  },
+  {
+    "speaker": "Kevin Dede",
+    "role": "",
+    "text": "Gentlemen, thanks very much for having me on the call. Appreciate it. Nangeng, I'm wondering about your self-mining objectives. Can you refresh us on where you plan to take self-mining, in particular, Ethiopia, which remains the largest contributor of your exahash? We're hearing that power tariff rates have increased there, and we're wondering how you might rethink hash deployment."
+  },
+  {
+    "speaker": "Nangeng Zhang",
+    "role": "",
+    "text": "Thank you. And I think for our strategy, you know, now in the short term, there's some pullback in Bitcoin price. And many people are asking the question about our strategy of mining. Yeah. I think in the near term, over maybe a few months, our attention will be on delivering large mining orders, which does slow the pace at which we add our self-mining hash rate. Please remember there are still other customers. We cannot lose our long-term partners at this time. So because of the lack of machines, at the same time, we are actively developing more power sources, including potential greenfield sites. These projects have longer construction cycles but relatively controllable cash outlays, and they offer better long-term value and operational flexibility. The gas-to-compute pilots in Canada and the 20-megawatt data center projects in Texas with Solana are only examples of what we see in the market. I think this is indeed more attractively priced mining assets now. The pullback for Bitcoin price gives us benefits to get more energy resources, especially in the US. Yeah. So I think our security projects with solid resources, but short-term funding pressure. So this offers us better entry points. We are continuously screening special entities and their strict return and risk control, and we aim to expand our self-mining footprint in a more prudent, value-attractive way. So in short, I think we are still keeping the expansion in the US, and we are moving to more fundamental sites like the energy infrastructure. And long term. Yeah. And the big order and Bitcoin pullback give us time to redirect our direction to find a better way to expand in the US."
+  },
+  {
+    "speaker": "Kevin Dede",
+    "role": "",
+    "text": "James, I was wondering if you could offer a little more color on the $56 million wafer purchase and the $90 million in processing. Would that include pretty much everything that you need for the A15 and A16 XP, at least as you see orders initially? And how much of it do you think translates to the Avalon Home series?"
+  },
+  {
+    "speaker": "James Jin Cheng",
+    "role": "",
+    "text": "Well, Kevin, I don't think $56 million is all the wafer supply we can get for Q1. It's actually some payments that happen to be in the phase of payments just in Q3. So the $56 million is some prepayments, also some closed payments for the previous contract. And I think in Q4, we'll pay more. It's just a kind of pacing difference. And for the home series, I think currently, it's wintertime. We observed that the demand from North America is actually getting stronger compared to Q3 and Q2. It seems like we will allocate more chips to the home series. But, of course, we don't want to generate a lot of inventory. We will still produce according to the orders. But to be very honest, currently, we have already noticed the home series will occupy a higher percentage in Q4. And while the total revenue is so big, we are expecting the sales for Q4 of the home series. And actually, a lot of buyers, a lot of consumers, they posted on their social media talking about Avalon Q. They like it because it's quiet, and it can generate Bitcoins. And, you know, using the same kind of energy, they in the past, they buy a heater can do. So, actually, we can feel the passion from the consumers asking more for the supply side. That's why when we do allocate the chips, I think internally, we have some discussions and sometimes even very fierce competition between the consumer sector and the sector. But, of course, Nangeng will try his best to balance different product lines and different categories to try to satisfy most of the customers and consumers."
+  },
+  {
+    "speaker": "Nangeng Zhang",
+    "role": "",
+    "text": "Yeah. And, also, you know, currently, the macro environment is indeed very complex and changing very fast. And especially for the semiconductor sector. You know, like, the DRAMs price has maybe doubled in the past few months. It's only, you know, it indicates the tightness of the global capacity for the semiconductor industry. So, currently, I think we had, you know, the demand because the demand for vast chip growth, especially for AI-related applications and many other stuff. The foundry capacity today is very tight, and also the price is trending up significantly. I think this could impact both our manufacturing cost and the mining CapEx. And this is the whole industry, not only us. That said, well, we cannot share the exact figures, but we have already secured meaningful wafer allocation for next year at favorable pricing and payment terms. Thanks to our strong relationships with our key suppliers, the volume is built on very cautious numbers, but this will, I think, definitely give us a good cost position heading into 2026. Yeah. This is my 2¢. Thank you."
+  },
+  {
+    "speaker": "Kevin Dede",
+    "role": "",
+    "text": "James, if you didn't touch on the $90 million processing, can you just give us a feel for that and what the implications are for future cash use?"
+  },
+  {
+    "speaker": "James Jin Cheng",
+    "role": "",
+    "text": "$90 million. I think it's too much. Yeah. I think you mean the $72 million we raised from the strategic investors and also $7.8 million from the ATM program. I think putting this together is like $80 million. Yeah."
+  },
+  {
+    "speaker": "Kevin Dede",
+    "role": "",
+    "text": "Okay. No. I thought that when you were discussing cash use in the third quarter, you mentioned $90 million. I apologize. I probably have the number wrong, but..."
+  },
+  {
+    "speaker": "James Jin Cheng",
+    "role": "",
+    "text": "Oh, yeah. You mean the operational and the supply chain together? The expenses. Right. Okay. I think that outflow is for some payments of the supply chain, like components, like all kinds of production and logistics to shift the components from here and there. You know, a lot of things, including some of the expenses related to that. I think that's a major part of the supply chain expenses. And also, I think there is the R&D, G&A, and also sales and marketing fees inside this. I think the run rate is still like $28 to $29 million. Even the P&L shows it's like $40 million, but then that includes a lot of non-cash items like share-related salaries. But the rest goes to like $28 to $29 million for the normal operation. And also, we have expenses related to the operation like travel, like marketing, especially for the consumer product. We start to have some marketing try in Q3. But not much expenses. But that is something we try to do in the transition from a pure machine company to a kind of operational company with energy and also with the consumer product. We will also increase our marketing expenses in the future. I don't know if I answered your question."
+  },
+  {
+    "speaker": "Kevin Dede",
+    "role": "",
+    "text": "Yeah. Just one more little nuance. I'm just wondering if those payments include prepayments for supply chains, you know, securing supply chain components through, you know, through December and then into March?"
+  },
+  {
+    "speaker": "James Jin Cheng",
+    "role": "",
+    "text": "That's wonderful, Kevin. Usually, we only do prepayment for wafers. Most of the components, we usually get the components first, and then we pay them a little bit later in different kinds of terms. For example, like fifteen days, thirty days, something like that. It's usually not the month payment."
+  },
+  {
+    "speaker": "Kevin Dede",
+    "role": "",
+    "text": "Well, congratulations on that 50,000 unit order. Congratulations on the sharp pop in revenue and gross margin. Thank you very much for taking my questions."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "As there are no further questions now, I would like to turn the call back over to the company for any closing remarks."
+  },
+  {
+    "speaker": "Nangeng Zhang",
+    "role": "",
+    "text": "Thank you once again for joining us today. If you have further questions, please feel free to reach out to us, and we look forward to speaking with you throughout the quarter. Thanks."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Thank you. That does conclude today's conference call. Thank you, everyone, for attending. You may now disconnect."
+  }
+]

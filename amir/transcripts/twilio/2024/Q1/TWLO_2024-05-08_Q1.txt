@@ -1,0 +1,373 @@
+Operator
+Hello, and welcome to the Twilio Inc. first-quarter 2024 earnings conference call. [Operator instructions] Please be advised that today's conference is being recorded. It is now my pleasure to introduce senior vice president of investor relations and corporate development, Bryan Vaniman.
+Bryan Vaniman
+--
+Senior Vice President, Investor Relations
+Good afternoon, everyone, and thank you for joining us for Twilio's first-quarter 2024 earnings conference call. Joining me today are Khozema Shipchandler, chief executive officer; and Aidan Viggiano, chief financial officer. As a reminder, we will disclose non-GAAP financial measures on this call. Definitions and reconciliations between our GAAP and non-GAAP results can be found in our earnings release and earnings presentation posted on our IR website at investors.twilio.com.
+We will also make forward-looking statements on this call, including statements about our future outlook and goals. Such statements are subject to known and unknown risks and uncertainties that could cause actual results to differ materially from those described. Many of those risks and uncertainties are described in our SEC filings, including our most recent Form 10-K and our forthcoming Form 10-Q. Forward-looking statements represent our beliefs and assumptions only as of the date such statements are made.
+We disclaim any obligation to update any forward-looking statements, except as required by law. With that, I'll hand it over to Khozema and Aidan, who will discuss our Q1 results, and then we'll open the call for Q&A.
+Khozema Shipchandler
+--
+Chief Executive Officer
+Thank you, Bryan. Good afternoon, everyone, and thank you for joining us today. Twilio had a solid start to the year, exceeding our Q1 guidance, delivering $1.047 billion in revenue and $160 million in non-GAAP income from operations. Our teams executed well across the board in Q1 as evidenced by a record quarter of non-GAAP gross profit of $566 million, a 54% year-over-year increase in our non-GAAP income from operations, and another strong quarter of free cash flow of $177 million.
+We are in the early stages of reinvigorating the business and are optimistic about our progress thus far. In fact, we're executing with greater discipline, rigor, and focus on innovation than ever before. In the last 5 quarters, we've begun delivering significant non-GAAP operating profitability. In the last 4 quarters, that's been paired with significant free cash flow, and we are committed to additional operating leverage and accompanying free cash flow.
+In the meantime, we are also making new targeted R&D investments that we expect to reaccelerate growth over time. In March, we announced an accelerated target for GAAP operating profitability to Q4 2025, and we also announced that the Board authorized an additional $2 billion of share repurchases, bringing our total share repurchase authorization to $3 billion. This is a reflection of the board's confidence in our strategy and the opportunity ahead. As of today, we've repurchased approximately $1.5 billion of shares, and we're targeting to complete the remaining $1.5 billion of repurchases by the end of this year.
+At that same time, we also completed our operational review of segment, and the team is focused on executing the plans we outlined, including more focused product innovation, embedding segments capabilities into communications products, and the commitment to getting Twilio's segment to breakeven on a non-GAAP operating income basis by Q2 2025. We are making progress in each area. Across the board, we're innovating and releasing new products, many of which are underpinned by customer AI, our predictive and generative AI layer. Finally, we welcomed a new bench of leaders to Twilio, who will play an important role in shaping the next chapter of our company as we operate with greater financial discipline, operational rigor, and focus on innovation.
+And now let's turn to our business highlights. Our Twilio communications business had a strong first quarter with revenue of $972 million, up 7% on an organic basis year over year and representing 93% of our overall revenue. During the quarter, communications landed meaningful customer wins, released new products, and deepened our relationships with ISVs, partners, and resellers. With this disciplined approach, we're focused on growth levers that we believe will drive reacceleration in both the short and long term.
+In the short term, our growth will be fueled by expanding our network of ISVs and global partners, driving more self-service and cross-sell momentum, and extending the value that we're delivering to customers. In Q1, we signed a 7-figure partner agreement with China Unicom, one of China's wireless carriers who will resell a majority of our communications products for its enterprise customers across Singapore and Hong Kong. We also signed a partnership with Bloomreach, a leader in the marketing automation space, and we'll be working with them to co-sell Twilio products. Over the long term, our focus on innovation will unlock more value for customers, creating stickier relationships and ultimately expand Twilio into new markets and larger deal sizes.
+We made progress on a number of our AI products and are driving better synergies with our communications and segment products. In Q1, we announced Agent Copilot, our first of three launches in 2024, where Twilio will natively embed segment into Twilio's communications products. With Agent Copilot, we've embedded unified profiles powered by segment within Flex, giving agents deeper insights into their customers' behaviors and preferences. By accessing the real-time data from unified profiles, Agent Copilot assists in intelligent routing to agents and provides them with actionable insights for each customer interaction, automating and enhancing agent productivity while reducing resolution times.
+Agent Copilot and unified profiles are currently in public beta and customers, like UniversidadUk, are already leveraging these capabilities within their contact centers. As a result, they've driven a reduction in handle time by 30%. And by using our embedded AI automation tools, they've been able to deflect 70% of support cases in just 2 months. While it's still early, these results are impressive as it illustrates how our customers are able to quickly realize tremendous business value at scale when combining segment within our communications capabilities.
+Our customers also continue to realize tangible benefits when using our other customer AI innovations, including voice intelligence, which has gotten a great response from our initial public beta customers. With voice intelligence, brands like PGA of America, are leveraging transcriptions for their customer support interactions within their Flex instance, getting valuable data insights from call recordings. Of the hundreds of customers that have deployed voice intelligence, over half are using language operators, which allows brands to trigger an action based on any keyword, allowing for better personalized communications. We also recently introduced language operators that uses generative AI and large language models to determine the best sentiment for the overall conversation.
+Some brands can get a better sense of where escalations or customer churn may take place. And we're continuing to embed AI capabilities into our verification products. We currently have over 11,000 customers leveraging Verify Fraud Guard. And in Q1 alone, Fraud Guard blocked more than 62 million fraudulent messages.
+We are not only saving our customers money, but we're also ensuring our customers and users have a seamless experience. During the quarter, we signed a competitive deal with Bluesky, a social media app, which recently launched its app to the public. They chose Twilio's Verify API to ensure a seamless and secure sign-up process for new users. At launch, the company saw an impressive amount of sign-ups, gaining almost 800,000 new users in one day.
+And Fraud Guard not only helped save the company hundreds of thousands of dollars, but it ensured new users received secure authentication. Now turning to our Twilio segment business. For Q1, segment revenue was $75 million, up 2% year over year. It was a challenging quarter, but we came out of our segment operational review in March with greater clarity around a short list of priorities that we believe will address the underperformance of segment.
+We will continue to focus on rationalizing our investments to rightsize segment's cost base, accelerating time to value for customers by using AI to automate onboarding, and enhancing data warehouse interoperability, delivering three products in 2024 that natively embed segment into communications and capitalizing on customer AI momentum. In the month following the review, we've already made meaningful progress against all of these areas, and we believe that we have the right set of plans in place to turn this business around, address churn and contraction, and improve its financial performance. We are also committed to getting segment to breakeven on a non-GAAP operating income basis by Q2 2025. During the quarter, we deepened our partnerships with Databricks and Snowflake.
+With Databricks, we launched a new bidirectional integration that allows customers to seamlessly ingest and activate data. We are on track to deliver further enhancements to our data warehouse interoperability offerings across partners in Q2. And as mentioned earlier, we delivered focused product innovation like Agent Copilot that demonstrates segment's value when it's natively embedded into communications. Customer AI predictions is continuing to get adopted by new customers.
+And since its GA in Q3 2023, more customers are realizing the benefits and positive material impact to their businesses. For instance, XP Inc., a Brazilian investment management company, said that since implementing customer AI predictions and by using our out-of-the-box tools, they've been able to save their team 4 weeks of data science work and improved audience engagement and conversion rates. Looking ahead to Q2, we'll bring our second product that natively embed segment into communications into beta, which further demonstrates the value we can deliver to our customers by combining segment data with our communications products. Before turning things over to Aidan, I want to take a moment to welcome the new leaders that have joined my management team.
+During the quarter, we welcomed Inbal Shani as our chief product officer for Twilio Communications and Thomas Wyatt as our president of segment. And yesterday, Chris Keller joined as our chief marketing officer. We've also taken a thoughtful approach to evolving our governance practices. First, we welcomed Andy Stafman, a partner at Sachem Head Capital Management, to Twilio's Board of Directors.
+And second, we announced in early April that we plan to hold an Investor Day within the next 12 months, at which time we'll share an updated medium-term financial framework and set of targets. And finally, we recently submitted a proposal for the declassification of our board, which will be voted upon at our annual shareholder meeting in June. In summary, we're making a lot of progress in a very short period of time, and we're continuing to drive significant change. We're maturing as a company and as a team.
+We're making deliberate decisions with discipline, rigor, and focus to deliver attractive levels of growth and profitability over the medium term. While we've started to see positive impacts from some of these changes in our recent financial results, others will take longer to bear fruit, but we are confident that the opportunities we pursue will create meaningful value for all of our stakeholders and allow us to deliver on our commitment to drive durable, profitable growth over the long term. And with that, I'll turn it over to Aidan.
+Aidan Viggiano
+--
+Chief Financial Officer
+Thank you, Khozema. In Q1, we exceeded our guidance on both revenue and non-GAAP income from operations and delivered our fourth consecutive quarter of solid free cash flow generation. Q1 revenue was $1.047 billion, up 4% reported and 7% organically year over year. Communications revenue was $972 million, up 4% reported and 7% organically year over year.
+And segment revenue was $75 million, up 2% year over year. Our Q1 revenue growth was impacted by the crypto headwinds that we've referenced in the past several quarters as well as the sunsetting of the software component of our Zipwhip business that we discussed during our Q4 2023 earnings call. These represented a combined 210-basis-point headwind to our organic revenue growth in Q1. Excluding these items, consolidated Q1 organic revenue growth was 9%, and communications organic revenue growth was 10% year over year.
+We have now lapped the crypto headwinds and do not expect a material negative impact to revenue growth from these customers moving forward. We continue to expect modest headwinds throughout 2024 from sunsetting the software component of our Zipwhip business, which we estimate to be roughly 100 basis points in Q2 and 80 basis points for the full year. We also previously announced the sunsetting of our video product. However, based on customer feedback, we've extended the transition support timeline through 2026.
+As a result, we no longer expect notable headwinds from video in 2024. Our Q1 dollar-based net expansion rate was 102%. Our dollar-based net expansion rate for communications was 103%, a modest improvement quarter over quarter. Our dollar-based net expansion for communications was 105%, excluding crypto and Zipwhip software customers.
+Our dollar-based net expansion rate for segment was 92%, driven primarily by elevated churn and contraction. As discussed during our operational review in early March, we are focused on improving customer time to value, and we're also investing in data warehouse interoperability, both of which we believe will improve segment trend and contraction over time. We delivered record non-GAAP gross profit of $566 million, up 8% year over year. This represented a non-GAAP gross margin of 54.1%.
+This was up 180 basis points year over year and 170 basis points quarter over quarter. The margin improvement quarter over quarter was primarily driven by lower international messaging mix and lower hosting fees as a result of larger credits on our cloud spend, which benefited both communications and segment gross margins. As a reminder, we continue to manage the business toward gross profit dollar growth. Q1 non-GAAP gross margins for our communications and segment business units were 52.2% and 77.6%, respectively.
+As a reminder, we are migrating part of segments architecture to new infrastructure providers this year to recognize greater efficiencies. During this transition, we will incur some overlapping vendor expenses. As a result, we expect segment's gross margin rate to decline throughout the year until the migration is completed. Q1 non-GAAP income from operations was $160 million, up 54% year over year.
+As we mentioned last quarter, this included $19 million of sequential incremental expenses associated with our new employee cash bonus program, which we initiated to reduce stock-based compensation expenses over time. Our Q1 non-GAAP operating margin of 15.2% was up almost 500 basis points year over year and down 80 basis points versus the prior quarter, driven by a 10-basis-point impact from the new employee cash bonus program. Q1 non-GAAP income from operations for our communications business was $249 million, and the Q1 non-GAAP loss from operations for our segment business unit was $21 million. Q1 GAAP loss from operations was $44 million, which included $10 million of expenses associated with restructuring charges.
+Stock-based compensation as a percentage of revenue was 14.9% in Q1, excluding approximately $2 million of restructuring costs, down 40 basis points quarter over quarter and 100 basis points year over year. We generated free cash flow of $177 million in Q1, inclusive of $23 million of restructuring payments. This is up $292 million year over year. And over the last 12 months, we've generated free cash flow of $655 million.
+I'm really pleased with our continued progress on free cash flow. It's been a key area of focus for the team over the last several quarters and reflects our ongoing work to drive efficiency in the business. As a reminder, in March, we provided fiscal-year 2024 target of 5% to 10% organic revenue growth and $550 million to $600 million of non-GAAP income from operations, inclusive of an estimated $90 million of incremental expenses associated with the new employee cash bonus program that was introduced to reduce stock-based compensation expenses over time. And as Khozema mentioned, we accelerated our target for GAAP operating profitability from fiscal-year 2027 to Q4 2025.
+We also committed to driving segment to breakeven on a non-GAAP income from operations basis by Q2 2025. Finally, we're continuing to make good progress on our $3 billion share buyback program, having repurchased over $720 million since our last earnings call in February. This brings our total repurchases to date to approximately $1.5 billion. We intend to complete the remaining $1.5 billion of authorized repurchases by year's end, which should meaningfully reduce our outstanding share count over the next few quarters.
+Moving to guidance. For Q2, we're initiating a revenue target of $1.05 billion to $1.06 billion, representing year-over-year growth of 1% to 2% on a reported basis and 4% to 5% on an organic basis. We're also reiterating our full-year organic revenue growth range of 5% to 10%. Turning to our profit outlook.
+For Q2, we expect non-GAAP income from operations of $135 million to $145 million. This is down sequentially primarily due to incremental payroll expenses associated with our standard barrier increases that go into effect in Q2 consistent with prior years as well as increased marketing and travel expenditures. However, given our outperformance in Q1, we're raising our full-year non-GAAP income from operations guidance to $585 million to $635 million. Additionally, we are continuing to focus on improving our free cash flow profile, and we anticipate that full-year free cash flow generation will be in line with our full-year non-GAAP income from operations.
+As we look ahead, we're investing in initiatives to reaccelerate growth. At the same time, we've accelerated our path to GAAP profitability. We're generating significant free cash flow and share buyback program. I'm excited to continue to build on the progress we've made to deliver improved outcomes for both our customers and our shareholders over the coming quarters.
+And with that, we'll now open it up to questions.
+Questions & Answers:
+Operator
+Thank you. [Operator instructions] Our first question comes from the line of Jim Fish with PSC.
+Quinton Gabrielli
+--
+Piper Sandler -- Analyst
+Hey, guys. This is Quinton on for Jim Fish. Thanks for taking my question. Maybe first, how are you looking at kind of the bifurcation between budgets or demand strength across, call it, your mid-market and commercial versus your more enterprise customers at this point? Is the willingness to spend very similar across those two verticals? Or are you seeing significant strength or weaknesses across one or the other?
+Khozema Shipchandler
+--
+Chief Executive Officer
+Yeah, I would say that in general, we're seeing kind of demand volume kind of hanging there across the board. I think that the growth profile that we've seen with most customers continues to be pretty good. There's a couple of pockets, I'd say, especially with respect to internationally terminating traffic, where we're seeing a little bit more weakness. But I think that as you look at most of the industries that we end up serving, we are seeing year-over-year growth.
+Obviously, there's some noise in our business with respect to what we've got in terms of Zipwhip and the comps that that creates. And then I think in general, like we've oriented our sales team around gross profit dollars, as Aidan mentioned in her remarks. And we're trying to maintain the price discipline that we've always talked about in prior calls like these. I think kind of the wrapper on the whole thing is is that we've seen volumes stabilize for some period of time.
+We haven't seen them quite inflect upwards. And I'd say, in particular, that's a call out for international. I think on the flip side, there's a number of things that we're working through, both short-term and long-term kind of growth initiatives. And we feel pretty good about those, but those are going to take some time to kind of play out.
+I think in the short term, cross-sell is an area that we're particularly focused as well as with ISVs that should drive incremental growth over time. And in the meantime, we're really focused on cash flow and additional operating leverage.
+Quinton Gabrielli
+--
+Piper Sandler -- Analyst
+Got it. And then, Aidan, maybe for you. Gross margins here was a bright spot for sure. Can you talk about why this wouldn't be a kind of sustainable uplift, understanding some benefit from product mix? But why couldn't we see this kind of upside continue through the rest of the year? Thank you.
+Aidan Viggiano
+--
+Chief Financial Officer
+Yeah, sure. So we saw gross margins up 170 basis points quarter over quarter, with both business units up as well. So a couple of dynamics. First, on the communications side, which is the business that carries Twilio at this point.
+They were up 150 basis points quarter over quarter. Part of it was what you said, which was the favorable mix between U.S. and international. As Khozema just mentioned, we did see lower international terminating traffic.
+So that has a benefit to gross margins because we know gross margins, as we've communicated in the past, are lower internationally than domestically. We also had, in this quarter, as I said in the prepared remarks, some benefit from credits related to hosting spend. That benefited Q1 by about 80 basis points. We don't expect it to continue.
+And so I'd say the combination of those two things, the hosting credits not continuing as well as the fact that mix isn't necessarily controllable by us is kind of how I think about gross margins going forward.
+Operator
+Thank you. One moment please for our next question. Our next question comes from the line of Mark Murphy with J.P. Morgan.
+Mark Murphy
+--
+JPMorgan Chase and Company -- Analyst
+Thank you very much. Khozema, I was -- you're thinking back prior to the business review, our sense was that the segment business could preserve some of the AI optionality because you can combine that with comms, as you mentioned, and then the broader customer AI vision, just recognizing it's sluggish overall in that business. Is segment seeing some usage for pulling customer data into LLMs? And I'm also wondering about that because you did mention the Databricks connectivity, and I was just trying to understand what kind of projects those are and if you're seeing more of that in the pipeline. And then I do have a very quick follow-up.
+Khozema Shipchandler
+--
+Chief Executive Officer
+Yeah. Good question, Mark. So there's kind of two dynamics there. So I think the first is is that with respect to segments specifically, like one of the things that we committed to as part of the operating review was to make sure that we were able to combine some of the data elements of segment with the communications capabilities that we have.
+We launched that product. It's called the Agent Copilot. That Agent Copilot uses something that we refer to as unified profiles. And so basically, what that allows for is is the ability for an agent to be able to absorb information during the context of a call for that data to be stored subsequently and then for us to be able to create a flywheel so that every subsequent interaction with that consumer and then with consumers more broadly for one of our customers, they are able to get value out of that, fundamentally reduce cost, have a better customer experience.
+And that kind of creates like a generative flywheel, if you will, where segment is continually used through the unified profile, that data is then subsequently fed back into the copilot, and then that flywheel just kind of keeps on turning. And so that's how I kind of think about the optionality with respect to segment. We committed to three products actually during the course of the year. We've delivered one.
+We kind of alluded to the second one being on track for the upcoming quarters. So we feel pretty good about our progress there, too. And then I think more broadly, like there's a number of generative AI elements, both within communications as well as segment, and those things are happening nicely. The other part of the question that you asked about was Databricks.
+And with Databricks and Snowflake actually, one of the priorities that we also laid out as part of the operating review was to establish greater data warehouse interoperability with those folks as well as the other big data warehouse players that are out of the market. And so the way that you should think about some of the announcements that we made as part of the release today is that fulfilling on that exact same roadmap that we articulated about 1.5 months ago. We're making the progress that we intended to make. We're starting to see traction with those two players, in particular, U.S.
+about Data bricks. That allows us to basically seamlessly offer data back and forth on behalf of our customers who may be already Databricks users. And so we think that that's additive, not just to the segment, but increasingly to the entire enterprise as we leverage the combined capabilities of segment communications.
+Mark Murphy
+--
+JPMorgan Chase and Company -- Analyst
+OK. That's very clear and compelling. I'm going to hold off on my other question and try to preserve some time for others now. Thank you and talk soon.
+Khozema Shipchandler
+--
+Chief Executive Officer
+All right. Thanks.
+Operator
+Thank you. One moment please for our next question. Our next question comes from the line of Meta Marshall with Morgan Stanley.
+Meta Marshall
+--
+Morgan Stanley -- Analyst
+Great. Thanks. Maybe following up on segment, understanding kind of the product rollouts that are happening, but maybe just we're about 60 days into new leadership there. Just any thoughts of new leadership as they've gotten in and how to improve the go-to-market there, that would be helpful.
+Thanks.
+Khozema Shipchandler
+--
+Chief Executive Officer
+Yeah. Good question, Meta. So I'll just kind of answer your question more generally, and then I think more specifically about Thomas and I think the leadership that he's brought. So I think in terms of the business, we've started to take steps in terms of our path toward the non-GAAP operating profit target that we established for Q2 '25.
+And we feel like we're on track for that. We're making good progress. That path isn't necessarily going to be linear. And while we're seeing good progress in terms of bookings, that's going to take some time to kind of catch up and ultimately show up in the revenue line, and so there's like sort of some dynamics there.
+In the meantime, we're going to control our costs and be very focused about the R&D areas of prioritization. In terms of go-to-market for Thomas, we are starting to see some green shoots. There's a couple of customers that we referenced in our talk track. I think we're very excited about the nature of those customers, what they do, our ability to grow with them.
+I think in particular, what we're very excited about is our ability to deliver time to value for those customers significantly faster than, I think, where we've been historically. I think in the past, that had taken us up to 6 months in some cases to be able to get to value initially, and I think we're starting to see some in several instances actually where we've been able to achieve that in as fast as 30 days. I think Thomas has been an awesome addition to the leadership team. Quite frankly, with respect to all of our leaders, I feel very, very strong about our leadership bench overall.
+But in terms of Thomas specifically, given his deep knowledge of the product, just given his background, where he focused both on sort of product as well as marketing, which is useful because the marketer often tends to be the buyer in some of these instances, I think that's been a real accelerant in terms of the progress that we expect. And I think just in general, it's provided some stability and focus, which is also something that we're very geared toward with respect to segment.
+Meta Marshall
+--
+Morgan Stanley -- Analyst
+Great. Thanks so much. I'll pass it on.
+Khozema Shipchandler
+--
+Chief Executive Officer
+Thanks.
+Operator
+Thank you. One moment please for our next question. Our next question comes from the line of Taylor McGinnis with UBS.
+Taylor McGinnis
+--
+UBS -- Analyst
+Yeah. Hi. Thanks so much for taking my question. I'm hoping that you could provide a little bit more color on what's driving the slower organic growth guide in 4% to 5% in 2Q.
+So it looks like crypto revenue in 1Q was actually higher than 4Q. So that, combined with some of the other headwinds that you might be lapping, you would think that that would lead to accelerating growth. So can you just maybe comment on why that might not be materializing. And at the start of 2Q, has there been any deterioration in the macro or anything in the demand environment that may be driving some of that? Thank you so much.
+Aidan Viggiano
+--
+Chief Financial Officer
+I'll start, Taylor. And if Khozema wants to add, he can. So a couple of things to call out. So we have largely lapped crypto at this point.
+We don't expect it to be a headwind in Q2. We do have some product-specific dynamics that we call out for. So as we've said, so first segments revenue was 2% in Q1 from a growth perspective. We expect it to be muted for the year.
+As Khozema said, we're working on a number of different initiatives there, but they'll take time to kind of show up in our financial results. We also have some noise from the end of life of our Zipwhip software product. That will be a headwind to growth. It will be about 100 basis points of a headwind in Q2, roughly 80 basis points for the year.
+And then I'd just say more broadly, we've continued to see volumes stabilize, as Khozema mentioned, in our communications business. And we are seeing year-over-year growth in most of the industries that we operate in, but we're not yet seeing total volumes kind of inflect or growth reaccelerate. And I'd say that trend is more evident with our internationally terminating traffic. So we've seen lower internationally terminating traffic volumes, which is reflected in kind of what we talked about with gross margins being a little bit higher, as I mentioned earlier.
+We're really reorienting the teams around gross profit, and we're maintaining price discipline as we pursue certain international markets. And so we saw gross profits grow by 10%. We think that's the right way to run the business, but we are seeing lower traffic there. So that's having a bit of an impact.
+But we're not standing still, as Khozema mentioned. We have a number of short long-term growth initiatives underway. I'm not going to reiterate all of the actions and the opportunities that he's talked about. The last thing I'll say is that regardless of where we are in the growth range, we're going to continue to deliver the profits and cash flow.
+We've proven over the last year that we can drive significant profitability and cash generation in this business. And while we're working through reaccelerate growth, we're confident in our ability to get there on both profit and cash as evidenced by the incremental guidance that we gave on total year free cash flow today, and I'd say we're also willing to be opportunistic and repurchase our shares when we believe they're undervalued.
+Taylor McGinnis
+--
+UBS -- Analyst
+Great. Thanks so much.
+Operator
+Thank you. One moment please for our next question. Our next question comes from the line of Alex Zukin with Wolfe Research.
+Alex Zukin
+--
+Wolfe Research -- Analyst
+Hey, guys. Thanks for taking the question. I guess maybe any bit of changes in the competitive environment internationally? And then domestically, again, it sounds like a stabilization in messaging volume. Is that more of a mix shift toward SMS and personalized messaging as a brand calling? Curious what's helping kind of drive that NRR stabilization, and then just a quick follow-up.
+Khozema Shipchandler
+--
+Chief Executive Officer
+Yeah Alex, I'm just going to repeat back the question because we had a little bit of difficulty hearing you. So the way that I heard you ask it was whether or not we were seeing any changes in the competitive environment, international or domestically, that it sounds like to you that there was stabilization in messaging volumes. And then is there more of a mix shift toward SMS, precise messaging, basically what's kind of driving NRR stabilization? Did we hear the question, right?
+Alex Zukin
+--
+Wolfe Research -- Analyst
+Yes, you did.
+Khozema Shipchandler
+--
+Chief Executive Officer
+OK. So in terms of the competitive environment, maybe tick that one first, I wouldn't say that we've seen any real changes there. I think that, as Aidan alluded to in her prior answer, we have seen a little bit of softness in terms of internationally terminating traffic. I think from our perspective, like we always want to maintain price discipline about the way that we think about those markets, and so that's kind of what we've seen.
+Otherwise, the volumes across the board have been more or less stable. But they haven't inflected, and I think that's kind of impacting some of the growth dynamics as we look forward. There's a bunch of new stuff in the hopper that we're kind of thinking about and executing against. It will just take a little bit of time for that to show up in some of the growth numbers.
+In terms of mix, I wouldn't say that there's like anything significant happening in mix other than what we've already talked about in terms of as international weakens a little bit and you see strength in domestic, that's obviously going to have an impact on gross margins. But I think as it relates to more personalized messaging over time, I think that is certainly our expectation, especially as we pull in segment into more of our communications workloads. I think we're already starting to see examples of that with customers wanting to deliver much more personalized communications using data. I think you'll see more of that through some of the products that we kind of called off.
+I think Agent Copilot with unified profiles is one. But voice intelligence, which we've been kind of using within the confines of voice itself, is another. And I think increasingly, you'll start to see a lot more personalized communications. I think that's the way that generative AI is really going to accelerate our business and some of the impacts that we see with customers fundamentally to reduce costs and generate better outcomes.
+Alex Zukin
+--
+Wolfe Research -- Analyst
+Makes sense. And then on the opex side, obviously, some kind of moving pieces here in Q1 and Q2. But where do we -- as you guys think about kind of the balance of both getting the most leverage out of the model and where you're actually hiring and investing incremental dollars, how should we think about the hiring targets for kind of the next kind of incremental year or two quarters?
+Khozema Shipchandler
+--
+Chief Executive Officer
+Yeah. I can kind of take the question more generally. I think that we don't feel like we have significant headcount needs right now. I mean, obviously, we go through kind of the normal process of backfilling and stuff like that, but we're not looking to do any material adds.
+I'd say that our priorities right now have been around R&D. It's just kind of replenishing the pipeline there. We have a number of really focused projects in both communications and segment that we do expect to bear fruit over sort of the medium to long term. And I think that over time, this will start to show up in some of the growth numbers.
+I think other than that, I wouldn't really expect anything around opex other than what we've called out in the past, which is we've got this bonus program that we've obviously rolled out across the business. That's kind of a near-term impact on opex, but I think you understand the dynamics there and the way that that impacts stock-based compensation over time. But otherwise, I think we feel pretty good with the cost basis that we've already got. And I think just one last thing maybe I'll add is we still see opportunity in terms of like geo diversification of the roles that we're hiring.
+And then I think the last one is like automation, right? We're obviously doing a lot with automation for customers, and we would expect that a lot of those same workloads that we're offering externally should have positive benefits that accrue to Twilio as well.
+Alex Zukin
+--
+Wolfe Research -- Analyst
+Perfect. Great. Thank you, guys.
+Khozema Shipchandler
+--
+Chief Executive Officer
+Thanks.
+Operator
+Thank you. One moment please for our next question. Our next question comes from the line of Ryan Koontz with Needham & Company.
+Ryan Koontz
+--
+Needham and Company -- Analyst
+Thanks for the question. I wanted to follow up if I could on Alex's last question there about the competitive dynamic. And how would you explain kind of what's happening with registered and unregistered messages these days? I know you are a leader certainly in driving toward that. And how is that impacting the competitive landscape today? And is there any -- what's also your perspective, I guess, on the opportunity around political messaging as it relates to the election coming up? Thank you.
+Khozema Shipchandler
+--
+Chief Executive Officer
+Yeah. A couple of questions in there, Ryan, so let me take the political one first. So I think in 2024, generally, obviously, we're in the middle of an election season cycle, we'll generate some revenue from political customers, but we don't really anticipate an expected outsized impact as a result of the race. Just as a reminder, we have registration requirements and an acceptable use policy in place that we expect all of our customers to follow, especially as it relates to opt-ins.
+And that really just sort of ensures the quality of traffic on our network, it protects consumers. And so we're not going to accept any business where that policy is not being properly followed during this upcoming cycle, and we think that's in the best long-term interest of the business and the best long-term interest of certainly the American consumer, but that has actually global applications as well because we're taking kind of the same stance in most markets. That's kind of a good segue to the dynamic that you asked in the first part of your question. The whole DLC thing is entirely behind us.
+We went through that process last year. I think we felt a very small impact as a result of that, and so I don't think that there'll be really any impact as a result. And toll-free is kind of a nonissue as well because that got done at that point as well. And then finally, just in terms of competitive dynamics, like I don't really think it alters anything other than the feedback that we receive from our customers is that, a, they want to work with a trusted provider.
+And so we think that we benefit from using compliance, not just to sort of our regulatory posture, but actually as a unique selling point of the business. And b, I think increasingly, they want to work with someone who doesn't just prosecute that traffic in that fashion, but also ensures that no fraud or anything of that nature is being committed as well, which is where our AI tools and the like can really play a role in helping our customers with their traffic and ensuring that it's clean.
+Ryan Koontz
+--
+Needham and Company -- Analyst
+That's really great, Khozema. Thank you. And just a real quick follow-up. On the fee side, is that relatively stable now? Or are those still inching up?
+Khozema Shipchandler
+--
+Chief Executive Officer
+I'd say it's relatively stable at this stage. There's nothing kind of new to talk about since, I don't know, a couple of years ago, I guess.
+Ryan Koontz
+--
+Needham and Company -- Analyst
+OK. Got it. Super. Thank you.
+Khozema Shipchandler
+--
+Chief Executive Officer
+Thanks.
+Operator
+Thank you. One moment please for our next question. Our next question comes from the line of Samad Samana with Jefferies.
+Billy Fitzsimmons
+--
+Jefferies -- Analyst
+Awesome. This is actually Billy Fitzsimmons on for Samad. I'll keep it pretty quick. Intra-quarter, you gave an organic growth target range and read today.
+Can you just remind us what that growth range kind of assumes in terms of macro dynamics that would progress through the year? Thank you.
+Aidan Viggiano
+--
+Chief Financial Officer
+Yes. So we've seen relatively volume -- stable volumes, Bill, as we've talked about. And I'd say as you think about kind of the range of outcomes between the low end of the range and the higher end of the range, I would say volumes -- we didn't see any erosion kind of overall in volumes. I would say that would kind of get you to the lower end of the range.
+Conversely, if we started to see volumes in flex up and we continue to execute on our cross-sell initiatives and expansion with ISVs and the different initiatives that we're working on, we could see volume and revenue at the higher end of the range. What I would say is, I said this before, but regardless of where we are in the range, we're going to deliver on the profit and free cash flow. We're very intent and focused on that. We were kind of very zeroed in regardless of where we land on on the revenue range.
+Billy Fitzsimmons
+--
+Jefferies -- Analyst
+Understood. Thank you very much...
+Operator
+Thank you. One moment please for our next question, and our next question comes from the line of Michael Turrin with Wells Fargo.
+Michael Turrin
+--
+Wells Fargo Securities -- Analyst
+Hey, thanks. I appreciate you taking the question. Just on the communications customer metric, that had ticked down a bit Q3 to Q4 and picked back up in Q1. So I'm just curious if any of that is definitional just tied to the splitting of segments or if that is a return to just a bounce back in customer activity on the core communications segment?
+Aidan Viggiano
+--
+Chief Financial Officer
+No, it's not definitional. It is -- I would say the bounce back given the two options that you gave me there. But what I would just say overall is that this metric represents is anchored to a minimum $5 monthly revenue spend. And so we have a large number of active customer accounts with relatively low individual spend that in aggregate do not drive like a significant portion of the revenue.
+So it has nothing to do with definitional. It's a bounce back, I guess, in terms of the customer count. But I would just say the relative importance of this metric, given the size and the scale of the business at this point, and we're talking about a $5 threshold, I don't think it's probably the most relevant metric today with just how much has been grown.
+Michael Turrin
+--
+Wells Fargo Securities -- Analyst
+On segment, just how should we think about the timeline to get that piece of the business to a good foundational cost base to restart from? Obviously, there had been an evaluation period. So now going forward, how should we think about the timeline of where you've gotten to at least sort of a good foundational restarting point, if you will?
+Aidan Viggiano
+--
+Chief Financial Officer
+From a cost perspective, Michael?
+Michael Turrin
+--
+Wells Fargo Securities -- Analyst
+I think so, yeah. Yes. I mean just when you feel like the -- I mean, obviously, there are some moving pieces there, but when you feel like the sort of the foundation is in place of at least the initial efforts in rebuilding that business.
+Aidan Viggiano
+--
+Chief Financial Officer
+Why don't I start with the cost side and then Khozema can talk more around all the actions that we're taking? What I would say is the business lost $21 million in the first quarter. That was actually up a little bit versus the fourth quarter. We have a path to get that business to breakeven by the second quarter of next year. What I would say is we don't expect it to be completely linear, right? We have a number of initiatives that we're working on.
+Khozema talked about the product -- from a product perspective, getting to data warehouse interoperability. There's a number of things we're working on with regards to time to value. So we intend to incur some costs to deliver on those objectives, but we will get to the breakeven by Q2 of 2025. It just that decline for Q2 2025 won't necessarily be linear.
+So we have plans in place, but I just wanted to put that out there so you know how to think about that and model it.
+Khozema Shipchandler
+--
+Chief Executive Officer
+Yeah. The only thing that I would add there, Michael, is that this management team has been quite good about meeting targets that we set out for ourselves, and nothing's changed about our ability and confidence in being able to get to non-GAAP breakeven by Q2 '25 of next year. In the meantime, there are a number of other things that we also committed to that were more operational in nature, data warehouse interoperability, delivering a combined segment Twilio offering, making sure that we had a number of additional things like that on our roadmap upcoming, improving our time to value. And against each of those operational areas, we're actually making quite good progress.
+And again, as you alluded to, there are some dynamics here in terms of both revenue and cost. And some of the revenue dynamics are going to just take a little bit of time given the nature of how bookings have to kind of catch up, but we are seeing green shoots. We are seeing interesting new customers. And I think as we continue to execute on the operational items that are important to the future of the business, I think we feel increasingly confident that segment is a really important asset to Twilio.
+That data is going to play a really critical role in terms of the way that we're going to deliver customer outcomes, and I think you saw the first one of those with the Agent Copilot that we released using segment and comms in Q1.
+Michael Turrin
+--
+Wells Fargo Securities -- Analyst
+Thank you, both.
+Operator
+Thank you. One moment please for our next question. Our next question comes from the line of Ryan MacWilliams with Barclays.
+Pete Newton
+--
+Barclays -- Analyst
+This is Pete Newton on for Ryan MacWilliams. Just a question on the sales side. Maybe how is sales efficiency in rep execution trended recently? Is this efficiency level in line with this internal--
+Aidan Viggiano
+--
+Chief Financial Officer
+We have a little bit of a bad connection to you. Can you try again?
+Pete Newton
+--
+Barclays -- Analyst
+Is this better?
+Aidan Viggiano
+--
+Chief Financial Officer
+Yeah.
+Pete Newton
+--
+Barclays -- Analyst
+Perfect. Just a question on the sales side. How is sales efficiency trended recently? And is this in line with internal expectations? Maybe if you could delineate between sales efficiency on the segment side versus the communication side just we can get a full picture.
+Aidan Viggiano
+--
+Chief Financial Officer
+Yeah, I think on the communications side of the house, it's in line with where we expected it to be. There's a team executing. We have reoriented that team to gross profit dollar generation for the most part. I'd say probably 80% of the team is measured on that, and they're performing kind of in line with expectations.
+On the segment side, we are kind of in a bit of a rebuild here. I'd say bookings came in, I would say, a little better than we wanted to be like longer term in the segment business in Q1. But the team has a number of actions in place, and Khozema kind of talked about them several times now that I won't reiterate them. But it's going to take a couple of quarters for Thomas and the team to get that business back and humming kind of where we want it to be, and it will take some time for that to show up in the financial metrics.
+Khozema Shipchandler
+--
+Chief Executive Officer
+I think sales efficiency generally has been pretty good. I mean we obviously took some very significant cost actions last year. Revenue line continues to grow. As Aidan mentioned, we're anchoring everybody against the gross profit dollar metric, and we think that's important to be able to incentivize the sales force.
+And so I think that combination of things has yielded a lot of the operating leverage that you've seen over the last year, which we continued into Q1. And obviously, a lot of that now is starting to translate to really significant cash flow, which feels quite good.
+Pete Newton
+--
+Barclays -- Analyst
+Very helpful. Thanks, guys.
+Operator
+Thank you. One moment please for our next question. And our next question comes from the line of Arjun Bhatia with William Blair.
+Arjun Bhatia
+--
+William Blair and Company -- Analyst
+Thanks for taking the question. Just one quick one for me. When we're thinking of some of the segment plans that you had laid out with the deeper integration to and I think you touched on some of this a little bit, but curious like how long -- I know there's quite a bit still left to do here. But how long before we start to see results from some of that flow through to enhance the comms business? Is that something as a '24 outcome or with some of the product were still to be done something that maybe we should expect in '25 and beyond?
+Khozema Shipchandler
+--
+Chief Executive Officer
+Yeah. I mean I think we have to delay a little bit between when it shows up in our financials versus how customers are starting to get value from it. But we cited an example in our earlier remarks about how when a customer fielded the combined capability of segment inside of communications, that was a specific contact center environment. It was a really powerful outcome, right? They were able to reduce their cost by about 30%.
+They were able to increase their deflection rate by about 70%. And what's at the core of this is fundamentally, how do we deliver a better outcome for a customer at a materially lower cost point for them overall. Now some of that value obviously accrues to us because we'll be able to kind of upsell using AI some of these different products that we're trying to uplift. So I think that, in general, we feel pretty good about the customer delivery.
+And again, we'll use examples like that to kind of prove that this adds really demonstrable value to customers. We'll continue signing new logos on that basis over the next several quarters. And then those bookings will just take time to turn into revenue. But so far, so good, and I'm certainly very encouraged by some of the early examples.
+Arjun Bhatia
+--
+William Blair and Company -- Analyst
+All right. That's good to hear. Thank you.
+Operator
+Thank you. One moment please for our next question. Our next question comes from the line of Michael Funk with Bank of America.
+Michael Funk
+--
+Bank of America Merrill Lynch -- Analyst
+Yeah. Thank you for the question this evening. So on the international softness that you cited, I'm curious how much of that is due to shift in traffic, so to RCS and WhatsApp, for example, versus a reduction in traffic volume?
+Khozema Shipchandler
+--
+Chief Executive Officer
+Yeah. I wouldn't say it's due to a shift in anything actually, Michael. I think that if there's just a little bit soft from a kind of demand environment perspective in terms of the international termination. I think in terms of RCS more specifically, like we haven't really seen significant activity there yet.
+We certainly expect RCS to play a role down the line. I think if anything, it will probably be accretive to the business, but that's not what we saw in international volumes.
+Michael Funk
+--
+Bank of America Merrill Lynch -- Analyst
+That's very helpful. And one more quick one, if I could. Thank you for the color on Agent Copilot embedding segment and more of the comms products. For clarification there, are you charging additional or separate for the embedding of segment? Or is it more of a teaser to get customers more familiar with segment and hopefully drive churn lower, higher usage, and engagement, and interest in that product over time?
+Khozema Shipchandler
+--
+Chief Executive Officer
+Yeah. Ultimately, it will result in a price upsell. There's like a lot of details. But just to answer your question in short, it will fundamentally result in a price upsell.
+There's a number of like kind of packaging and pricing considerations that kind of go into how we'll ultimately take some of these products to market. But the short answer is it will ultimately result in increased price.
+Michael Funk
+--
+Bank of America Merrill Lynch -- Analyst
+OK. But in the short term, as you initially launched, there is no price increases simply embedded in the product. But over time, there will be separate SKUs or pricing. Is that correct?
+Khozema Shipchandler
+--
+Chief Executive Officer
+And it's in private beta. We typically offer it for like a teaser period, where there's not as much of a price increase. But once it kind of goes out of the private and it's fully GA and the customer is actually using it beyond kind of the test period, then there is fundamentally a price increase that goes into effect. So it's not meant to be just protective.
+It's meant to be value-enhancing and therefore with the price uptick.
+Michael Funk
+--
+Bank of America Merrill Lynch -- Analyst
+Great. That's very helpful. Thank you.
+Operator
+Thank you. One moment please for our next question. Our next question comes from the line of Peter Weed with Bernstein.
+Peter Weed
+--
+AllianceBernstein -- Analyst
+Thank you. One of the things that you changed in some communications here recently was grouping in Flex and some of the marketing in with communications, and I'm wondering how much they may either be benefiting or dragging on the communications business if we just looked at what would be isolated and what we might have been looking at in the communications business more historically.
+Aidan Viggiano
+--
+Chief Financial Officer
+And the question was when we moved over Flex and marketing campaigns to communication, is there like a -- well, just to be clear, like when we talk about communications, we talk about it on an apples-to-apples basis. So all of history has kind of been recasted for Flex and marketing campaigns moving over. So there's no like artificial benefit from that reorganization.
+Peter Weed
+--
+AllianceBernstein -- Analyst
+Sure. Yeah, yeah, no. I get that. I'm more like I'm just thinking about before it was moved over, we kind of knew how it was going, and I just don't know if they're -- the reason that is ticking up from an NRR or would NRR for communications be picking up more aggressively, and those are more like segment, where they've got below 100% NRR and actually dragging down communications.
+Aidan Viggiano
+--
+Chief Financial Officer
+No, I wouldn't say that. I'd say like we'd be roughly in the same position. They're not dragging down. They're not necessarily benefiting the communications business either in terms of pulling up the NRR.
+Peter Weed
+--
+AllianceBernstein -- Analyst
+OK. Thank you.
+Operator
+[Operator signoff]
+Duration: 0 minutes

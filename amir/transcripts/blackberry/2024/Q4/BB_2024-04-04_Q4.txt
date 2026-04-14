@@ -1,0 +1,173 @@
+Operator
+Good afternoon, and welcome to the BlackBerry fourth quarter and full fiscal year 2024 results conference call. My name is MJ, and I will be your conference moderator for today's call. During the presentation, all participants will be in a listen-only mode. We will be facilitating a brief question-and-answer session toward the end of the conference.
+[Operator instructions] As a reminder, this conference is being recorded for replay purposes. I would now like to turn today's call over to Tim Foote, CFO, cybersecurity division and head of investor relations. Tim, please go ahead.
+Tim Foote
+--
+Chief Financial Officer, Cybersecurity Business Unit and Head of Investor Relations
+Thank you, MJ. Good afternoon, everyone, and welcome to BlackBerry's fourth quarter and full fiscal year 2024 earnings conference call. Joining me on today's call is BlackBerry's chief executive officer, John Giamatteo; and chief financial officer, Steve Rai. After I read our cautionary note regarding forward-looking statements, John will provide a business update, and Steve will review the financial results.
+We will then open the call for a brief Q&A session. This call is available to the general public via call-in numbers and via webcast in the investor information section at blackberry.com. A replay will also be available on the blackberry.com website. Some of the statements we'll be making today constitute forward-looking statements and are made pursuant to the safe harbor provisions of applicable U.S.
+and Canadian securities laws. We'll indicate forward-looking statements by using words such as expect, will, should, model, intend, believe, and similar expressions. Forward-looking statements are based on estimates and assumptions made by the company in light of its experience and its perception of historical trends, current conditions, and expected future developments, as well as other factors that the company believes are relevant. Many factors could cause the company's actual results or performance to differ materially from those expressed or implied by the forward-looking statements.
+These factors include the risk factors that are discussed in the company's annual filings and MD&A. You should not place undue reliance on the company's forward-looking statements. Any forward-looking statements are made only as of today, and the company has no intention and undertakes no obligation to update or revise any of them, except as required by law. As is customary, during the call, John and Steve will reference non-GAAP numbers in their summary of our quarterly results.
+For reconciliation between our GAAP and non-GAAP numbers, please see the earnings press release published earlier today, which is available on the EDGAR, SEDAR+, and blackberry.com websites. And with that, I'll turn the call over to John.
+John Giamatteo
+--
+Chief Executive Officer
+Terrific. Thanks, Tim, and thank you all for joining us today. BlackBerry delivered a solid quarter, where we either met or exceeded expectations and, in the process, set a number of new records. We beat expectations for earnings per share.
+And given our laser focus on profitable growth, we further improved operating cash flow as we said we would. In fact, this quarter, we more than halved operating cash usage. And despite being prudent and measured with our top-line outlook, we expect to be both cash flow and EBITDA positive this coming fiscal year. In the quarter, our IoT business recorded its best ever quarter for revenue.
+Despite the delays automakers have experienced with their software development programs, we also achieved our strongest year for adding royalty backlog from new design wins. This design win momentum has driven an all-time high QNX royalty backlog of approximately 815 million or 27% year-over-year growth. On the cyber side, we saw a very important data point with ARR stabilizing and even growing a little sequentially. We believe this demonstrates the impact of the many improvements the team has been enacting recently.
+Cyber also recorded solid year-over-year growth from a revenue standpoint as well. So, let me start my review with the IoT business unit. As you know, the QNX business benefits from its strong multi-year customer relationships. Given this longtime horizon, the key metric for the health of the business is royalty backlog.
+This gives a view on estimated lifetime royalty revenue from the design wins that we have secured. And this metric has never been better, reaching approximately $815 million this past quarter. As I mentioned, it was a strong year for adding new backlog from design wins, surpassing last year. And this past quarter, we secured a number of design wins that contributed to this achievement.
+Within automotive, we continued to dominate the digital cockpit domain. And among the wins was Hyundai Mobis, who selected the QNX Hypervisor to enable mixed criticality in the cockpit without sacrificing performance. Beyond our core RTOS, we recorded a design win with a Japanese OEM for our acoustics middleware that will enable audio in the digital cockpit across a range of vehicles. Outside of automotive, we have a strong and growing position in a number of general embedded markets, especially medical.
+Among the wins this quarter was one of the five largest medical OEMs in the world who selected the QNX RTOS as the foundation for a next-generation medical imaging machine for assessing blood and heart health. We also secured a win with a leading US-based OEM, where our QNX real-time operating system will provide a secure, reliable platform for their fifth-generation surgical robot. In other applications, our QNX real-time operating system has been selected for use in a digital display for recreational power sport vehicles, demonstrating the potential for BlackBerry to expand into new verticals as the edge becomes progressively more intelligent. So, moving to the quarter's financials, we delivered revenue at the top end of our guidance range.
+Revenue came in at 66 million, representing 20% sequential and 25% year-over-year growth. Gross margin remained at a very strong 85%. Revenue growth was primarily driven by automotive and very strong QNX development seat revenue, which is relatively lumpy from quarter to quarter and reflects the strength of the recent new design wins. Within automotive, the digital cockpit and ADAS remained the largest revenue drivers.
+And royalties and professional services were broadly in line with the strong quarter we recorded in Q3. In January, we had a very successful CES event in Las Vegas. Our booth was incredibly busy, and we held many productive meetings with current and potential customers. In addition, we made a number of very important product announcements.
+The first was the launch of our next-generation QNX operating system, SDP 8.0. This offers a very significant step-change in performance on high-powered silicon, scaling almost linearly even up to 64 cores. This allows BlackBerry to offer performance similar to, and in some cases better than, Linux without the fundamental open-source safety limitations and future-proof software designs as new, more powerful chips become available. We see this as a significant step in expanding our competitive mode in our core safety critical use case while also expanding our addressable market into non safety critical as well.
+The industry response since CES has been very encouraging, including engaging this past quarter with one of the world's leading automotive chip suppliers to purchase our SDP 8.0 development tools. Another key announcement was that our Hypervisor has joined our RTOS in being available in the cloud. This allowed Stellantis to develop the world's first digital twin of their digital cockpit, allowing their software development teams to collaborate from anywhere around the world, greatly reducing the need for physical hardware and significantly increasing productivity. In addition, we made some announcements regarding our various middleware offerings.
+The Mobility in Harmony Consortium selected IVY for its Project X electrical vehicle platform. Further, we launched QNX Sound, a complete audio and acoustics platform that enables software-defined audio experiences without the need for heavy and expensive hardware in the car. And we've already recorded our first design win with a major European automaker. So, moving to the outlook for the IoT business, due to the timing for potential upcoming design wins, we expect Q1 to be relatively quiet for potential new development seat sales compared to this past quarter.
+In addition, as we've spoken about throughout the past fiscal year, the auto industry continues to face material delays in software-defined vehicle programs. While this clearly presents challenges for the near term, it actually represents potential upside to the long-term view for the business. In order to address delays in developing next-generation software-defined platforms for their vehicles, automakers are increasingly discussing the potential for greater support from BlackBerry to help them solve undifferentiated software development tasks. In fact, rather than OEMs attempting to address this themselves, having a trusted expert like Blackberry handle the complex integration of middleware on top of the RTOS frees up their development teams to focus on the differentiating experiences further up the stack.
+Allowing Blackberry to create what is sometimes referred to as a vehicle OS has the potential to greatly simplify and accelerate software development while allowing automakers to retain full control over their platforms. Further, we're expanding our professional services team to provide greater support to our customers in integrating our software into their development projects. So, with all these dynamics in mind, we expect revenue for Q1 to be in the range of 48 million to 52 million, which is approximately 11% year-over-year growth at the midpoint. For the fiscal year, we expect revenue to be in the range of $220 million to $235 million.
+Now, let me turn to the cybersecurity division. Revenue for the quarter beat expectations and came in at 92 million, representing 5% year-over-year growth. The strength this quarter came from our Spark product group, that is Cylance and UEM. Now, we consider annual recurring revenue, or ARR, to be one of the key indicators for our cyber business.
+As outlined during our last earnings call, this quarter we delivered stabilization of ARR on a sequential basis. In fact, ARR even increased slightly by 3% to 280 million. DBNRR also increased by 3 percentage points sequentially to 85%. These small but very important steps in the right direction for these key metrics illustrate the impact of the number of the improvements we've made are having within the business.
+In fact, the CEM and UEM renewal rates have been improving, and the past two quarters have been the best renewal rates in the past four years. In particular, this was a strong quarter for our CylanceGUARD managed service offering, as well as net new logos. We see CylanceGUARD as being a driver for growth this coming year, and we're doubling down on this and other areas where we have demonstrated we are winning. During the quarter, we successfully deployed a number of products and services that were part of the significant deal with the Malaysian government that we announced in November.
+In addition, you may have seen that last week, we were proud to officially open our Cybersecurity Center of Excellence in Kuala Lumpur. This center will provide a wide range of globally recognized training courses that will help Malaysia grow a skilled cybersecurity workforce. Some examples of the wins for the cyber division this quarter included renewals and upsells with leading government agencies, such as the U.S. Air Force, Department of Homeland Security, as well as wins across the globe such as the Netherlands police, U.K.'s National Crime Agency, Greater Manchester police, and British transport police.
+In financial services, in addition to major U.S. and Canadian banks, we secured business with Schweizerische and Julius Baer in Switzerland and the Bank of India. So, moving now to the outlook for the cybersecurity business. From a longer-term standpoint, the addressable market for security software is so large and our customers need so diverse that no single vendor is in a position to dominate this market.
+Despite any near-term dynamics, we see significant opportunities for growth for our cybersecurity business in the years ahead. That said, in the near term, given the ongoing budget constraints of some of the leading government customers, which is a large portion of our customer base, we take a prudent view on both the timing and ability to close large deals that can drive near-term revenue as was the case in Q1 of last year. For our enterprise and mid-market customer base security remains a mission critical priority. And we see a broadly unchanged, although somewhat challenging, macroeconomic environment compared to recent quarters.
+This consistent backdrop gives us confidence that we can continue to stabilize our core recurring revenue base, and we expect ARR to be flat sequentially into Q1. Therefore, we expect a more predictable revenue stream as we head through this new fiscal year. Allowing for a smaller impact from large lumpy government deals and the ongoing macroeconomic environment, we expect revenue for the first quarter to be in the range of 78 million to 82 million and for the full year to be in the range of 350 million to 365 million. So, touching briefly on licensing, revenue for the quarter came in stronger than expected at 15 million.
+Looking to the coming fiscal year, we expect revenue to be approximately 4 million in each of the four quarters. So, now, let me turn the call over to Steve, who will provide you a little more color on our financials. Steve?
+Steve Rai
+--
+Chief Financial Officer
+Thank you, John. As always, my comments on our financial performance will be in non-GAAP terms, unless otherwise noted. Total company revenue for the quarter was 173 million. IoT revenue was 66 million.
+Cybersecurity revenue was 92 million. And licensing revenue was 15 million. The percentage of software product revenue that was recurring increased to approximately 90%. Total company gross margin improved to 75%, while operating expenses decreased to $113 million.
+Non-GAAP operating expenses exclude a 35 million goodwill impairment charge, 20 million of restructuring expenses, 8 million in amortization of acquired intangibles, 5 million in stock compensation expense, and 4 million in impairment of long-lived assets. Both non-GAAP operating profit and net profit for the fourth quarter were 16 million. BlackBerry delivered $0.03 of non-GAAP basic earnings per share for the quarter, beating expectations. Adjusted EBITDA, excluding the non-GAAP adjustments previously mentioned, was 21 million.
+Total cash, cash equivalents, and investments increased to 298 million as of February 29. Cash used by operating activities more than halved sequentially to 15 million. As a reminder, two quarters ago, this was 56 million, and Q3 was 31 million. Traditionally, Q1 is a seasonal low for cash flow driven by the annual billings and payments profile.
+Therefore, we would expect a sequential increase in operating cash usage, however, a year-on-year improvement after factoring in the impact of the sale of our noncore patent portfolio in Q1 of last year. We expect EPS for Q1 to be in the range of negative $0.04 to negative $0.06 and adjusted EBITDA to be in the range of negative 15 million to negative 25 million. For the full fiscal year 2025, we expect EPS to be in the range of negative $0.02 to negative $0.06 and adjusted EBITDA to be in the range of breakeven to positive 10 million. We also expect to exit the year with both positive EPS and positive operating cash flow in Q4.
+This quarter, we recorded a 35 million noncash accounting impairment of goodwill for the Spark reporting unit. This represents a noncash charge of $0.06 to GAAP earnings per share. In accordance with accounting rules, we were required to perform a goodwill impairment review by determining a fair value for all reporting units, the total of which is required to reconcile to our market cap. Further details will be disclosed in our Form 10-K.
+As we announced during the past quarter, we successfully completed a $200 million five-year convertible debt raise. The level of interest in the offering was high, and we were able to achieve competitive rates. As a result, we were able to fully repay the $150 million of short-term extension debentures that had been in place since the previous debentures matured last November. With this long-term financing in place, BlackBerry has a solid balance sheet, and we are well positioned to execute on our strategy.
+That concludes my comments, and I'll turn it back to John.
+John Giamatteo
+--
+Chief Executive Officer
+Thank you, Steve. OK. So, hey, as Steve mentioned, we are currently executing on our strategy to establish two profitable stand-alone divisions. During the quarter, we provided an update on actions we expected to take, and I can confirm that we delivered as planned.
+We have appointed divisional leaders, such as finance, HR, and legal. And those leaders. are currently building out their teams to address the specific needs of the businesses they support. In regards to cost, you may recall that during Q3, we executed on approximately $50 million of run rate savings, predominantly within the cybersecurity business and including approximately 200 headcount reductions.
+During this past quarter, we went further and took actions that will enable an additional $55 million worth of savings. Approximately 35 million of this came from cybersecurity -- the cybersecurity business, and 20 million came from our central G&A functions. We understand how important it is for shareholders to see the benefits of these cost reductions starting to realize in the P&L. So, in order to make it easier to track the cost improvements, starting this quarter, we are reporting sales and marketing separately from general and administrative.
+This new split aligns to how we're tracking toward our long-term targets as a percentage of revenue. Also, we think it is helpful to provide a cost run rate from before we started the reductions described as a baseline for comparison. Without getting into too many various one-time puts and takes in the reporting opex for Q1 and Q2 of this past year, we consider the average of the two to be a fair baseline to use. Non-GAAP opex for Q1 was 145 million, and Q2, 114 million, giving an average of 130 million a quarter.
+This past quarter, non-GAAP opex was 113 million. That is 17 million lower than the 130 million baseline, or 68 million lower on an annualized basis. This shows that the actions we've taken are already having a significant effect, although you can expect it will take time for them to fully reflect in the run rate. We expect the average quarterly opex run rate for this coming fiscal year to be approximately 110 million.
+That is approximately 80 million lower than the baseline on an annualized basis. This reconciles to the 105 million of savings by allowing for timing reductions in fixed cost of goods sold in addition to opex, and incremental targeted investments, particularly in our IoT business. In addition to the savings outlined, we are working toward further incremental run rate reductions. And as you can expect, these will take a little longer to action due to having more complex dependencies like systems or process efficiencies.
+Given the impact of the various cost reductions, we are modeling for positive operating cash flow and adjusted EBITDA for fiscal year 2025. So, before we open the lines for Q&A, let me quickly summarize the key messages. This was a solid quarter for BlackBerry in which we set a number of new records. The IOT business recorded its best-ever quarter for revenue, its best-ever year for adding new backlog from design wins, and its highest-ever royalty backlog of approximately 815 million.
+Cyber ARR stabilized as we said it would, in fact, showing some modest sequential growth. And revenue for the quarter grew 5% year over year. In addition to the positive news for the top line, we're also very focused on the bottom line. We executed on a number of significant cost saving actions that build on those from the previous quarter and are helping drive positive EBITDA and cash flow this coming fiscal year.
+That concludes my prepared remarks. So, MJ, why don't I turn it over to you so we can open the line for Q&A?
+Questions & Answers:
+Operator
+Thank you, sir. We will now begin the question-and-answer session. [Operator instructions] Our first question today will be from Mike Walkley with Canaccord Genuity. Please go ahead.
+Mike Walkley
+--
+Canaccord Genuity -- Analyst
+Great. Thank you. Hey, John. Just wanted to delve in a little bit to the improving ARR on the cybersecurity business.
+You know, with the endpoint market still over 40% legacy solutions, and it sounds like Cylance was part of the improvement this quarter, can you just talk about how Blackberry's position relative to some of the legacy players and how you see maybe growth in this segment over the course of the year?
+John Giamatteo
+--
+Chief Executive Officer
+Yeah, absolutely, Mike. Hey, we're really pleased. You know, it's been a long journey to get our ARR to where we -- it started to stabilize and pivoting for growth. So, a lot of heavy lifting in the product and in our customer engagement activities.
+So, we're pleased that we're kind of starting to see that stabilize. As we think about, you know, future growth, we still think there's a tremendous amount out there. When you think about the legacy endpoint providers, like the Trellix's of the world, like the Trend Micro's of the world, like the Broadcom Symantec install base, there's a lot of opportunity that we think are up for grabs for a next-generation endpoint capability along the lines of what we offer in Cylance. So, it was actually telling a lot of new logos, albeit smaller logos, but a lot of new logos over the course of the last quarter.
+And between that and our GUARD platform, we're, you know, cautiously optimistic for opportunities to move that in the right direction in the next fiscal year.
+Mike Walkley
+--
+Canaccord Genuity -- Analyst
+Great. And just for my follow-up question, on the IoT business, you know, strong close to the year and a lot of records in that strong royalty, you know, backlog. But you've laid out some delays, and the guidance kind of suggests maybe mid single-digit growth this year. You know, based on your conversation with customers and some of these delays, are these multiyear delays, you know, as you talk about the opportunity to grow that backlog? Or do you see things kind of ramping through this year and picking up in calendar '25?
+John Giamatteo
+--
+Chief Executive Officer
+Yeah, we have not -- you know, the delays that we talked about last quarter, like a kind of a four-quarter shift, six-quarter shift, we have not seen that improve yet. You know, so just the complexity of the software-defined vehicles, the skill sets of the OEMs, and, you know, it's not their core competency. Getting these things out is a little more of a complex and a little more challenging. I will tell you, we're doing everything we can to help them.
+One of the -- as I mentioned, we're going to increase more in our engineering at the edge with our customers to help them do some of that integration with their development projects. But, you know, we're trying to be a little cautious because we're not seeing, you know, the flood gates wide open at this point. We're still seeing some sluggishness in getting those new software-defined vehicle programs launched.
+Mike Walkley
+--
+Canaccord Genuity -- Analyst
+Great --
+John Giamatteo
+--
+Chief Executive Officer
+That's why we're being a little -- that's why we're being somewhat cautious and prudent about it based on what we're seeing. Understood.
+Mike Walkley
+--
+Canaccord Genuity -- Analyst
+Thanks for taking my two questions, and congrats on the cost execution.
+John Giamatteo
+--
+Chief Executive Officer
+Thanks, Mike.
+Operator
+Thank you. The next question is from William Kerwin with Morningstar. Please go ahead.
+William Kerwin
+--
+Morgan Stanley -- Analyst
+Hi, everyone. Thanks for letting me get a question in. Maybe just to keep it on the IoT business, obviously, a lot of positive announcements at CES. Just curious, you know, how those have been received so far over the course of the past three months.
+And are they already gaining some traction in the pipeline as you look going forward? And just, you know, maybe as a follow-up to that, you know, the path to get toward, you know, kind of a double-digit growth profile in this business, I understand it's still growing, but, you know, slower than you would probably like. Thank you.
+John Giamatteo
+--
+Chief Executive Officer
+Yeah. Thanks, William. Yeah, so a couple of things. The product, the pipeline is just -- it's just exciting.
+You know, SDP 8.0, you know, there was a buzz at the -- at CES as we were walking through that. It's a step-change in capability that really, I think, puts us in a strong position. And it's actually, you know, to have one of the leading chip suppliers buy some development tool is a strong kind of statement to, you know, the impact of that. You know, the acoustics capability, you know, the cloud capability, the fact that we got a couple of design wins there.
+We're supporting Stellantis in their efforts to leverage the cloud to be much more productive in their process. Pipeline is growing nicely. We're excited about, you know, the base level platform and with RTOS and ADAS, but now these other capabilities just, you know, puts us in that much more of a stronger position. So, we're excited about the pipeline for the future.
+To your point, we wish some of this, you know, stuff would -- some of that $815 million backlog would roll off a little bit faster than it's been. But we think when that stuff opens up, it's going to be a really good opportunity to drive some business model leverage into the business.
+William Kerwin
+--
+Morgan Stanley -- Analyst
+Awesome, that makes sense. And if I could just tack one more on, obviously, some good progress on the cost savings already. Just curious if you could talk through, you know, why you think the targets that you've laid out are the right size for the business and how you see the progress going forward, you know, I guess, longer-term, past fiscal 25. Thanks.
+John Giamatteo
+--
+Chief Executive Officer
+Yeah, great question. You know, to me, it's kind of a twofold impact from the cost side of things. One, I think that really helped us clarify where we're investing and how. It's just how we embarked on our strategy that split into two divisions.
+That really kind of makes us -- forces us to look and say, "Where are we investing? Where can we, you know, back off of that?" In fact, we had some, you know, some really renowned industry consultants provide us, you know, some advice with some benchmarking on where we are and where the industry is. So, you know, we kind of target the right levels and the right benchmarks for that. So, I think that's one aspect of it. I think the other is, you know, you can see a lot of it came out of cyber.
+So, I think rightsizing cyber, getting the efficiencies out of cyber, that we think we're there. I think I mentioned in the past, you know, cyber grew throughout five or six different acquisitions over the years. So, there was a lot of, you know, R&D rationalization that we thought was not going to impact the innovation cycle but, at the same time, improve the overall business. So, I think between working with consultants on the split of -- into two divisions, as well as some really focused efficiencies on the cyber side, we kind of feel like we're landing at the right place right now from a cost standpoint.
+William Kerwin
+--
+Morgan Stanley -- Analyst
+Awesome. Thanks so much, and congrats on the beat this quarter.
+Operator
+Thank you. The next question comes from Paul Treiber with RBC Capital Markets. Please go ahead.
+Paul Treiber
+--
+RBC Capital Markets -- Analyst
+Thanks very much, and good afternoon. The -- it's helpful that I think next quarter, you're breaking out sales and marketing from G&A. You touched on the split of the company into IoT and cyber. What should we expect in terms of the disclosures around segmented profitability by -- between IoT and cyber and the timeframe for that?
+Steve Rai
+--
+Chief Financial Officer
+Yeah. Thanks, Paul. So, you know, obviously, there's a lot of activity internally at play, both from a separation -- business separation standpoint and from a cost streamlining and restructuring standpoint. So, you know, the markers that we've kind of given on a total company basis, I appreciate, you know, the desire to kind of have, you know, basically a full P&L for each of the business units.
+We're not in a position to provide that at this time. But, you know, on that, we would ask you to just, you know, stay tuned as we work toward that.
+John Giamatteo
+--
+Chief Executive Officer
+Paul, it's a good question. Kind of feel -- like you said, think of it as the breakout of sales and marketing in G&A. That's a downpayment on giving you more transparency to our overall cost structure. And as Steve articulated, in the quarters ahead, I think we'll be in a better position to kind of take that to the next level.
+So, hang in there with us, and we'll provide you updates as we go throughout the year.
+Paul Treiber
+--
+RBC Capital Markets -- Analyst
+OK. And my second question just relates to the future opportunities for cost savings. And also with that, you know, what's the timeframe that you're targeting to make those announcements? And does that also relate to the split of those segments so we may get everything at once? And then, can you also elaborate on like the nature of those reductions that you're considering?
+Steve Rai
+--
+Chief Financial Officer
+Maybe I'll start there. I mean, there's a number of structural items, you know, ranging from corporate legal entity structures, which we've talked about before just in terms of simplifying IT systems, the supporting back office infrastructure, you know, particularly from an IT standpoint. You know, those types of things are, you know, bigger rocks and, you know, that doesn't happen overnight. So, I -- you know, we'll obviously actively looking at how to go about that and formulating the plans to execute on those.
+You know, we'll be able to squeeze some of those types of items out, you know, this year. But by and large, that's probably going to go. That will go beyond this fiscal.
+John Giamatteo
+--
+Chief Executive Officer
+And I'd add to that, Paul, just November of last year to now, we did some heavy lifting on $105 million worth of real costs that's coming out. We're starting to see it in the run rate. And that's heavy lifting on things that, you know, structural. You know, we talked about facilities, I think, last time that we closed down.
+We're rationalizing our labs. We're fine tuning our go-to-market and cyber. We're doing a lot of those things underpinned $105 million heavy lift. The next peak, we're going to continue to focus, and we think there's still more opportunities to be more efficient.
+But, you know, those are -- like I said, those are a little -- as Steve said, they're a little trickier. They're a little more intertwined. There's more dependencies. We got to be a little more careful and a little more thoughtful how we proceed on that, not to, you know, disrupt some of the momentum that we have in the business.
+So, a lot of work that's done in the last six months, we still have a lot more to do. But we'll, you know, be cautious about it and we'll provide you updates as we go throughout the year.
+Paul Treiber
+--
+RBC Capital Markets -- Analyst
+Thank you.
+Operator
+[Operator instructions] Seeing no further questions in the queue, I would like to turn the call back over to John Giamatteo, CEO of BlackBerry, for closing remarks.
+John Giamatteo
+--
+Chief Executive Officer
+Terrific. Thank you. Thank you, MJ. Just, hey, thanks, everybody, for being part of the call today.
+We are -- as we talked about, solid quarter for the company, in many, many ways set new records within the IOT. It's really encouraging to see the cyber business stabilizing and the opportunities that we have in front. We're executing really well on the -- our strategy to split this company into two divisions and marching toward profitability on both of them. And, you know, we're pleased with the progress that we've made thus far.
+And we're going to look forward and committed to providing you all more, you know, transparent updates as we go throughout the fiscal year. So, thanks for being on the call with us today, and we'll talk to you next quarter.
+Operator
+This concludes today's call. Thank you for your participation. [Operator signoff]
+Duration: 0 minutes

@@ -1,0 +1,312 @@
+Peter Nyquist
+Hello, everyone, and welcome to this Ericsson's third quarter 2023 result. With me today I have here in Kista, our CFO, Carl Mellander; and direct from New York, I have our CEO, Borje Ekholm. Last week Thursday, we preannounced our Q3 numbers as we announced the impairment of goodwill attributed to acquisition of Vonage. Today, however, we will not only give you details around the Q3 report expectations going forward.
+We will actually spend some time talking about the GNP strategy. So we'll start with Borje summarizing Q3, and then we will talk more about the GNP strategy, and then Carl will return back and give more details around the Q3 result and expectations going forward. As usual, we will end the presentation with a Q&A session. In order to ask those questions, you need to join the conference by telephone.
+Details can be found at today's press release or at our website, ericsson.com/investors. Please be advised that today's conference is being recorded. But before handing over to Borje and Carl, I would like to say the following. During today's presentation, we will be making forward-looking statements.
+These statements are based on our current expectations and certain planning assumptions which are subject to risks and uncertainties. The actual results may differ materially due to factors mentioned in today's press release and discussed in this conference call. We encourage you all to read about these risks and uncertainties in the earnings report, as well as in the annual report. With that said, I would like to hand over the word to Borje.
+So please, Borje.
+Borje Ekholm
+--
+President and Chief Executive Officer
+OK. Thanks, Peter. First of all, welcome to our report presentation for the third quarter, and thanks, everyone, for joining us. As Peter mentioned, we will spend some time -- some more time now on GNP in this presentation.
+But first, let me hit on some key takeaways. So Q3 was in line with our previously indicated expectations with the bits of the top line in North America than we expected but with better margins in the rest of the business. Despite the uncertain macroeconomic backdrop, we continue to execute against our three key priorities: strength and our leadership in mobile networks built upon technology leadership, grow our enterprise business, and drive a continued cultural transformation. We're encouraged by the progress we're making, and it's truly a testament to the strength of our team, our strategy, and the excellence of our product, and our ability to execute.
+I would like to use this presentation to describe why we are excited about what we're creating with GNP and the value we believe it will deliver to our shareholders. Carl will take you through the more financials in detail and outlook in greater detail. So in common with the rest of the industry, rising interest rates and changing demand trends have been headwinds to Vonage's current core business, and the impairment we took last week is simply a consequence of this. And Vonage, in itself, remains key to our expansion into enterprise and to the transformation of our business.
+We believe this is a massive opportunity that can redefine our industry by providing a new source of revenues to the whole industry. But first, let me touch on the market environment. Over the last two decades, we've seen that investments in the mobile infrastructure have had built-in cycles and in aggregate have been overall flattish. We believe this pattern will continue.
+We don't believe the peak levels of 2022 will return, but we do believe that investments will normalize from current levels. And the reason for this recovery is that data traffic continues to grow, and thus, more capacity will be needed, as well as modernizations of the networks will be needed. So it's important to note that while data traffic continues to grow at a very high rate, this implies a market normalization, not an incremental market growth. So the reason for a flattish market for mobile infrastructure is really that the operator's service revenues have only had very limited growth, and this is something we actually also see reflected in the operators' market multiples.
+So to achieve growth in our core infrastructure market, we need a catalyst to increase service revenue growth for the operators, and we need that by addressing new monetization opportunities. And this is what we've been driving with our Global Network Platform, and more on that later on. We remain committed to our long-term EBITA margin target of 15% to 18%, and we aim to get there as soon as possible. However, given that our customers are cautious on investments in the current uncertain market environment, we will not give guidance beyond Q4 of this year.
+We have started to see more positive discussions with operators about network investments, but it's clearly too early to call this a turning point. We are, though, confident that the recovery will come, but the timing is really in our customers' hands. And given that we think it's prudent to plan for current market conditions to prevail into 2024. Therefore, that provides the basis for how we manage our business with a focus on cost control, as well as operational efficiency.
+And with the actions we take when the market recovers, we will actually see significant operating leverage in the business. So now, let me move over to comment on what we're building with Vonage. As you've heard us say before, we're on a journey to fundamentally reimagine our business. While this takes time, we remain confident in our long-term plans and trajectory and believe that Ericsson has a very exciting future ahead of us.
+Our enterprise strategy and positive outlook on the Global Network Platform remains unchanged. Positive interactions with customers have further strengthened our belief in the area. From a strategic lens, Vonage is developing how we saw it and how we envisioned it. So with Vonage, we're developing a platform business and have extended our growth trajectory in new and existing markets, adding to our total return profile for our shareholders.
+None of this would be possible without the acquisition. This quarter, we were also proud to announce that Vonage was recognized as a leader in 2023 Gartner Magic Quadrant for CPaaS. But let me take a step back now and expand on our strategy for this area a bit more. So in the coming five to 10 years, we will see an acceleration of major trends, such as electrification, the green revolution, resilient supply chain, increased efficiency, productivity, and automation.
+These trends will not progress, unless we fully leverage the mobile-first, cloud-first, and AI-first world. Making this future a reality will require ubiquitous high-performance differentiated networks and a broad ecosystem of businesses and developers who can innovate and build upon the network's powerful capabilities. That's what we are doing through our strategy: making networks fully programable and globally available with open interfaces and open APIs that enable continuous business growth and innovation. This includes our investments into Cloud RAN.
+And in doing all this, we can drive a much-needed transformation of the telecom industry. The Global Network Platform is a vital part in exposing the capabilities of the mobile network to the full ecosystem around us, including the developers. And at the heart of all this is 5G. With 5G, we have a technology that is 10 times more powerful than previous generations and actually has a potential to revolutionize society.
+While the previous generation of mobile technology digitalized the consumer and gave rise to the app economy, it was based on best-effort connectivity. However, best-effort connectivity is no longer good enough. Rapidly digitalizing enterprises need more than consumers. They need predictable and reliable connectivity with predetermined SLAs, and 5G was actually designed to do just this.
+With advanced capabilities, such as speed, ultra-low latency, and the ability to offer differentiated quality of service, 5G is a critical tool for transforming industries and consumers. To seize on this potential, we must redefine how telecom industry delivers and captures value. A few years back, we tested speed on demand with a push of a button and saw very strong interest from application developers. But we also realize, to commercialize this, it would require all developers to individually contract with operators around the world, and that was something that simply is not doable if we want to commercialize it.
+What was needed was instead an easy way to expose these advanced network capabilities, in this case, speed on demand, along with a strong developer community that actually can use the features to drive the next wave of innovation. And this is the underlying reason why we acquired Vonage. Vonage actually provides us with both the platform technology in CPaaS and the developer community of today 1.4 million developers. We need to make our vision a reality.
+Vonage is actually critical to our journey to build a platform business. We recently took an important step toward this strategy and launched a Global Network Platform, which combines the power of Vonage and network APIs, enabling mobile networks and applications to talk to each other. This platform makes it easy to expose, consume, and pay for advanced network capabilities. Last month, we announced a historic milestone in the network API journey, together with Deutsche Telekom.
+So powered by the Global Network Platform, DT is able to offer a globally scalable one-stop shop for both communication APIs, such as voice, SMS, two-factor authentication, and enhanced security, as well as network APIs, location device status, and quality on demand. Through the Global Network Platform, we're creating a new market for exposing 5G capabilities, an opportunity that we believe -- or analysts estimate to be about $20 billion by 2028, and we aim to capture a sizable part of the market as we are the front-runner today. We expect the first revenues from network APIs during 2023, although limited in scale. There is a change in the market now when we are discussing network APIs with all our customers today, and all of them see this as a major opportunity to monetize the network and the investments in 5G.
+With network as a platform, every contributor in the ecosystem adds value to the whole, basically creating a flywheel of exponential growth and innovation. It starts with the network APIs that allow developers and enterprises to create enhanced services. These solutions, combined with performance-based business models, offer CSPs new ways to monetize their network. This attracts more CSPs to join the platform, which fuels network enhancements in order to meet growing demand for more advanced capabilities, and in turn, supports demand for our core business in mobile networks.
+We also start to see the interest from the developer community increasing as a function of network APIs, further reinforcing the flywheel. Wireless networks are truly transformative with this flexibility, broad and global availability, and cost efficiency. We believe that by exposing them in an easy, scalable way, developers and businesses worldwide can use and build meaningful applications, making wireless networks the center of enterprise digitalization and transformation. What excites me is that this is just the beginning of an extraordinary opportunity for our industry.
+This will truly transform the telecom industry. This is an entirely new opportunity that we're creating and developing together with leading CSPs. The winners will be the ones who scaled their platform first. The time is now to seize on this opportunity, and we are very excited about our position.
+But now over to Carl for a review of the numbers for Q3.
+Carl Mellander
+--
+Chief Financial Officer
+Thank you, Borje, and very good morning to everyone. Thanks for joining us here. So well, as you saw already last week, our Q3 results are in line with the guidance we issued back in the Q2 report, but I want to address some of the key items around the financials in the quarter before commenting on the underlying result. So I just want to refer again to the impairment related to Vonage goodwill that we announced also last week.
+And just to add to what Borje already mentioned, this impairment of SEK 31.9 billion corresponds to 50% of the total amount of goodwill and other intangible assets attributed to Vonage. And the total goodwill in the group now, post this impairment, amounts to SEK 56.7 billion. And I can also mention that we have done a rigorous impairment testing of all of that, and that did not indicate any other impairment needs, other than Vonage. Now turning to the underlying business results.
+And first of all, if we have a look at the market and our top line then, I would say much of the market development, the financial development we saw in the first and the second quarter continued into the third quarter. And as Borje outlined before, the telecom market outlook remains uncertain but is expected to recover to more normalized levels over time, and we base this on the fundamentals. I mean, the operators need to continue to invest to manage data traffic growth, costs, energy usage, network quality for their customer experience. And -- but what we see now, the sales mix shift in the networks, particularly that we have discussed many times, where sales decrease in North America and increase in India with large rollout projects, that continued in a similar manner in the third quarter.
+And I would say we have worked a lot on our resiliency to limit the sensitivity to geographical mix changes. But of course, we see an impact on group numbers from this mix change, both on sales, gross margin, EBITA, and cash flow. So on top line and group, organic sales declined by 10% and I would say primarily driven by a 60% drop in North America in the networks business where we continue to see operators adjust inventory, we've talked about this many times, but also slower deployment pace. I think it's important to note that Q3 last year in 2022 was an absolute record quarter in North America with very large volumes of radios shipped and deployed.
+So that year-over-year comparison is very tough but nevertheless a 60% drop. The drop down in North America was partly offset by continued rollout in India, which continued at full speed, incredible speed. And our sales quadrupled actually year over year to almost SEK 10 billion in the quarter. And we are talking here about large rollout projects, and therefore working capital builds up, and that's quite significant.
+We'll come back to that in a minute. We also saw that some front-runner customers on 5G resumed investments. This is a bit of a second wave of 5G investments. It's encouraging, but I would say it's too early to see this as a trend but nevertheless a positive sign.
+We closed another IPR licensing agreement in the quarter that's been announced earlier that positions us well to land additional agreements with previously unlicensed vendors. And IPR our IPR now, net sales landed at SEK 2.8 billion in the quarter, and we are on track to reach the levels that we have discussed before for the longer term. So that was top line. Secondly, gross margin, we came in at 39.2%, excluding restructuring.
+Networks, I want to highlight again, we achieved a 39.9% gross margin, which was very much in the upper part of the range that we had guided for, 38% to 40%. And of course, it again is the market mix that we talked about that continued to impact gross margin in networks. But however, and I think this is important, actually, achieving 39.9% gross margin is a strong proof point because it demonstrates the resiliency of our company. It's a sign of how the business transformation that we've been on to over the years now has made us less sensitive to these swings between geographies.
+Third point regarding EBITA margin, we exceeded the previously mentioned expectations due to early positive effects of the cost-out ambitions. So for the group, we came in at 7.3%. That's a decline, of course, versus last year's 11.3%, again driven by the gross income in the networks. Cloud software and services delivered actually well in the quarter.
+EBITA was SEK 0.4 billion. And here, we continue to execute on the turnaround strategy that we launched actually at the CMD last year. We're talking about strict commercial discipline, improved software sales, accelerated service, delivery automation as some of the key pillars there. But given the nature of the cloud, software, and service business, results will fluctuate between individual quarters.
+So to assess how this business performs over time, my recommendation is to look more at the four-quarter rolling basis. And if you do that, you will see a positive EBITA number. You will find all those numbers in the back end of the report, and you can compare this positive number with the four quarters, one year earlier where we had an EBITDA loss of over SEK 1 billion. So we are clearly on track, moving in the right direction.
+I would say, as you know, we have discussed a breakeven target for -- or at least breakeven for full-year 2023. We'll come back to guidance a bit more later, but this quarter is, of course, a good stepping-stone toward that ambition as well. On the enterprise side, we are impacted by a weaker market, such as macroeconomic headwinds, just like other participants in this ecosystem. But it's encouraging, though, to see that the global communications platform, and as you will remember, that's where Vonage resides, delivered a positive EBITA also in the third quarter.
+Fourth point, free cash flow before M&A came in at SEK 0.5 billion negative. And this, we have also explained many times that this is really a result of this same business mix shift, which includes big rollout projects with a longer order-to-cash cycle. And maybe I should explain and expand a little bit more on this. In North America and some of the other early markets, customers largely manage the installment of equipment themselves.
+So payment terms are mainly related then to timing of delivery hardware and software rather than completion of sites and installment of equipment. But most of the large rollout projects, on the other hand, like in India, contrast are rather project-based, meaning that we have been assigned to build and install large-scale networks. And that leads to, of course, higher working capital in relation to sales volumes. But we expect the situation to taper off next year as the pace of these large rollouts will decrease.
+And when that happens, we expect to -- working capital to reduce. And then gradually, over time, we will and should return to our long-term free cash flow target, as you know, 9% to 12% of net sales. Finally, and as my fifth point on this slide, I wanted to highlight that we deliver on the cost-out efforts. Year to date, we have achieved run-rate savings of SEK 10.5 billion, of which SEK 1.9 billion has impacted the P&L in the third quarter.
+It's about SEK 1.2 billion in cost of sales, SEK 0.7 billion in opex. The savings are primarily visible in the mobile networks business, less in enterprise, because in enterprise, we continue to increase investments for value creation in that business, both when it comes to the product, meaning competitiveness, but also go to market. We booked provisions for restructuring so far in the year, amounting to SEK 5 billion, of which SEK 0.9 billion in Q3, and that's all in line with the cost-out plans. So now with this track record, we're slightly ahead of our internal plans for cost out.
+And as such, we have raised the ambition now by SEK 1 billion to SEK 12 billion of run-rate savings until the end of the year. And we will continue to take additional and decisive cost action cost-out action, as needed, over time. So we can move to the outlook for Q4. We are guiding basically for four key parameters.
+We expect gross margin in networks to land within the range of 39% to 41% in Q4, so up from the guidance we had for Q3. Top-line seasonality between Q3 and Q4 in networks will be somewhat less than normal, and this is mainly actually due to a specific factor. And that's the fact that India is expected to be sequentially flat Q3 to Q4. In cloud software and services, EBITA is expected to reach at least breakeven for the full year, as we've said before, but with a lower sales top-line seasonality than normal between Q3 and Q4.
+And again, important here to note that given the characteristics of this business, we don't expect a linear result development quarter after quarter. Results will vary between quarters, depending on software deliveries, project acceptance, and so on. And then looking at group EBITA margin for fourth quarter, we expect to reach around 10%. We see similar market trends from Q3 continuing in Q4, but we will see increased support from the cost-out program.
+And here on the slide, you see a few other planning assumptions related to opex, amortization, restructuring. But as usual, please refer to the full -- to the report for the full set of planning assumptions. So with that, thank you, and I would like to hand back the word to Borje.
+Borje Ekholm
+--
+President and Chief Executive Officer
+OK. Thank you, Carl. So while near-term dynamics are uncertain, our long-term confidence remains undiminished. In the current environment, we focus on what's within our control and executing on our strategy to extend our leadership in mobile networks, grow our enterprise business, and drive a lasting cultural transformation.
+As we look ahead, we see the mobile networks investments intensity is on the lower end as our customers are cautious with investments, and this gives us good confidence the recovery will come. Until then, we will continue to take actions that position Ericsson in the best way to create value, which with a market recovery, of course, will create good operating leverage. I'm very confident in our team and the work they do every day. So our goal is to make Ericsson a more profitable company, returning to our cash flow target and capturing the next major wave of network innovation with a substantial platform business.
+With that, I think it's time for some Q&A, Peter.
+Peter Nyquist
+That's correct, Borje. So we will now then start the Q&A session. [Operator instructions] So let's look at the queue here. I'll think I have the first question from Aleksander Peterc at Societe Generale.
+Good morning, Aleksander.
+Aleksander Peterc
+--
+Societe Generale -- Analyst
+Yes. Good morning, everyone. Thank you for taking our question. The first one will be just in broad terms.
+I know you don't guide on '24 now that we no longer have this 15% EBITA margin target. But could you give us a sense of whether you think network's gross margins will toward plateau or out 40% that you hold in the third quarter and also into the fourth quarter despite the adverse developments in the U.S. market? So would you be able to hold this into next year or maybe improve it given the cost actions you're taking? And then just a very quick follow-up on India. Is that now leveling off at high levels and may roll off into declines next year? Or do you see further expansion there? Thank you.
+Borje Ekholm
+--
+President and Chief Executive Officer
+Carl, start.
+Carl Mellander
+--
+Chief Financial Officer
+Yeah, Borje, I start. Yes, I think what we say here and report is really that the tides will turn. The market mix is going to recover at some point. The timing is unclear.
+But if you look at Dell'Oro forecast, for example, North America is -- would grow by 15% next year. And India, to weave in now your last question, India will taper off. That's quite clear from this record year in 2022. So I think that could support gross -- our gross margin development in networks, combined with the other thing that you also mentioned yourself, the cost-out, which we have seen a part of the effect so far in the P&L.
+But of course, as we reach the end of the year, we will have completed all of that SEK 12 billion cost reduction, and that will play out also in cost-out sales. So those are some of the factors that we'll support going forward.
+Peter Nyquist
+Thank you, Carl. Thank you, Aleksander, for those questions. We will move to the next question, and the next question will come from the line -- let's see here. Joachim Gunell at the DNB.
+Good morning, Joachim.
+Joachim Gunell
+--
+DNB Markets -- Analyst
+Good morning. So two questions from my side, starting off a bit where Andrew asked. Based on the positive customer discussions here but of course low visibility, can you just comment on to what extent you have the conservatism into your view of, call it, 2022 -- 2024 market recovery, other than walking away from the margin target?
+Carl Mellander
+--
+Chief Financial Officer
+Borje, did you want to start this one?
+Borje Ekholm
+--
+President and Chief Executive Officer
+I can start. I would say I think what we like to do is basically to say that there will be a recovery in the market. It's going to happen. Timing is unknown.
+And given that, we think it's just prudent to plan for the current market conditions to prevail. So that allows us to take the right actions on the cost side, the way we run the company basically for operational efficiency. And when we set ourselves up that way, so when the market recovery comes, we get the operating leverage. So we're kind of planning more cautiously in that sense.
+But rather saying when the recovery comes, let's talk about it at that point in time.
+Joachim Gunell
+--
+DNB Markets -- Analyst
+Perfect. And then one question for Carl. What, in particular, does the additional SEK 1 billion in cost savings pertain to? And can you also comment a bit on the timing of identifying this at this stage? Thank you.
+Carl Mellander
+--
+Chief Financial Officer
+Sure, Joachim. No, I would say this is also a learning from the last time around when we had a big cost-out effort that once you start this machinery, you find more efficiencies, more possibilities to take out structural costs. That has happened also here because every manager in the company is working on this since several quarters. We now see when we sum up the plans that exist that actually we beat.
+Well, first, that SEK 9 billion that we had initially communicated and then up to SEK 11 billion. Now we see that we can beat that as well and deliver SEK 12 billion of savings. So it's not about singling out a specific area, many contributing factors for us, and it's been a great momentum, actually. As I said, we are slightly ahead of our internal planning as well.
+SEK 10.5 billion so far executed on out of the SEK 12 billion, so we clearly see the path to SEK 12 billion as well, and we will see the impact in the P&L more and more as we continue.
+Peter Nyquist
+Thanks, Carl. Thank you, Joachim, for that question. So we'll move further to the next question, and I have the next question from the line of Francois Bouvignies at UBS. Good morning, Francois.
+Francois Bouvignies
+--
+UBS -- Analyst
+Good morning, everyone. So I have two quick questions. The first one is on more high level. But if we look at the current environment, especially in North America, quite extraordinary correction, I mean, with your sales back to 2018 level and now with significant growth decline.
+And given the level of macro uncertainty and uncertainty around the recovery, how do you see the pricing evolving going forward? I mean, do you see any pressure from the operators given the challenge they are facing? So it would be very interesting to know your -- the pricing dynamic here and if you see any pressure. And maybe from a very high level, if we look at the past -- last ten years, and you say in your past two decades, you say that the mobile network market has been flattish and your top line is reflecting this dynamic, and yet, level of investment remains very high. When you look at your R&D SG&A, I mean, R&D is 18% of your sales; SG&A, double-digit percentage as well in the network at least. So I'm just wondering is there any thought process that maybe you can make it structurally much more efficient this investment related to the return you get.
+And you see that you have a couple of cost-saving programs and is not new. We have been doing that for a few years now. But can you go a bit deeper, maybe internally, in terms of discussion on the level of investment compared to what you return in terms of revenues, in other words, managing the business more for margins or cash flow, if you like, rather than for top-line growth? Does that make sense?
+Peter Nyquist
+Should we start with Borje?
+Borje Ekholm
+--
+President and Chief Executive Officer
+And it's a highly relevant question you're asking. This is one of the areas we're looking at. We do believe and not focusing on the North American market here, but we actually face competitors in all other markets or most other markets that actually where we will be evaluated based on technology leadership and what type of solutions we provide. And therefore, we need to provide leading-edge solutions so that drives a bit of the R&D intensity in the industry, which then is very high.
+Having said that, there are areas where we can leverage much more or improve the way our R&D efficiency in many ways. And one of the things we are working on is actually to get more efficient R&D. You know we've been -- take for example BCSS where we have gone from almost a hardware-centric model into a software model, and we see now that we can improve the software development efficiency, and we are working on that. And the same thing on the BNEW side.
+So I do think there are opportunities, but I would also say that given that we compete for global scale with vendors that are investing very heavily, we need to match that. So it's really a bit of a tricky question. If you would only have a market where technology would not matter, you could actually slow down a bit of the investments, but that would make us uncompetitive in most parts of the world. So I do think we should expect R&D intensity to be high, but we need to be more efficient in the way we develop our solutions.
+And that that is -- you actually see part of the cost savings now come out of -- a bit of a reduction in R&D as well, and you will see that continue.
+Peter Nyquist
+Maybe, Borje, you want to take the first question about pricing discussions with customers as well if you --
+Borje Ekholm
+--
+President and Chief Executive Officer
+Yeah, it is -- I mean, it's actually a global industry. So when we think about prices, it's set in competition with other vendors, and that's kind of where the market environment is. So that's why I would say it used to be very competitive. It continues to be very competitive.
+Francois Bouvignies
+--
+UBS -- Analyst
+Thank you very much.
+Peter Nyquist
+Thank you, Francois, for that question. We will then move to the next question, and we have the next question coming from Daniel Djurberg at Handelsbanken. Good morning, Daniel.
+Daniel Djurberg
+--
+Handelsbanken Capital Markets -- Analyst
+Good morning, Peter, and good morning, Borje and Carl. And my question would be a little bit on the given capex constraints. I obviously understand it's tricky to forecast CSPs around spending in 2024. But if we would see an improvement in the visibility, I should say, for example, Mobile World Congress or whatever, is that your ambition to return to guidance with regard to the '24 adjusted EBITA range? Or is it -- should we forget about that also in the later stage?
+Peter Nyquist
+You want to start, Carl?
+Borje Ekholm
+--
+President and Chief Executive Officer
+Daniel, I think it's fair to say that let's take that discussion when we see you know the change in market sentiment. Right now, I feel we need to be prudent and plan for the current conditions to prevail because then we take the right operating decisions. So when that changes, let's see where we are.
+Daniel Djurberg
+--
+Handelsbanken Capital Markets -- Analyst
+Perfect. And I know you don't want to speak on specific customers. But recently at the Mobile World Congress Las Vegas, we heard from Verizon executive vice presidents talking about that they have deployed 7,000 mobile sites with VRAN, mainly with Samsung, in last 12 months but that they have started to deploy Ericsson VRAN right now. My question is, have you seen this kind of changes, up or down, that if the project goes to someone else, and then it's your turn, back and forth? And should we expect to see an improvement coming from the U.S.
+soon given the statement from Verizon, for example?
+Borje Ekholm
+--
+President and Chief Executive Officer
+We would never comment on specific customers, but the -- our investments, for example, into Cloud RAN has continued, and you'll see us launch our signed MOUs here, together with Telefonica, for example, to actually deploy Cloud RAN and Open RAN on an industrial scale. We believe networks in the future are going to be much more open, and we're always better off leading that, and that's what we invest for. We see that to work with leading customers, including the U.S. operators as well.
+I don't want to go into specific customers because I think they ought to comment on that themselves.
+Daniel Djurberg
+--
+Handelsbanken Capital Markets -- Analyst
+Yeah, I understand. And just super quick to call the extra SEK 1 billion cost savings, is that the cost for that included in the SEK 7 billion restructuring charges? Or is it -- will it come in 2024?
+Carl Mellander
+--
+Chief Financial Officer
+It's included. So we maintain the SEK 7 million as a SEK 7 billion restructuring charges as the full-year number. So we have done SEK 5 billion so far, a bit more then coming in the second -- the fourth quarter, sorry. And with that, we will deliver the SEK 12 billion run-rate saving.
+Daniel Djurberg
+--
+Handelsbanken Capital Markets -- Analyst
+That's great. Thank you.
+Peter Nyquist
+Thank you, Carl. Thank you, Daniel, for that question. So we will move further in the queue, and I have the next question coming from Erik Lindholm-Rojestal from SEB. Good morning, Erik.
+Erik Lindholm-Rojestal
+--
+Skandinaviska Enskilda Banken -- Analyst
+Yes. Good morning, and thank you for taking my questions. So starting on the guidance for network seasonality here in Q4, you mentioned that you see India flat sequentially. But can you talk a bit what this means for North America and what you assume there? And is there any other market sort of standing out into Q4? And I'll follow up with another question.
+Thank you.
+Carl Mellander
+--
+Chief Financial Officer
+I would say, overall, we see that the average seasonality is representative on markets, excluding India, where we have a flat development. And of course, given the size now, the magnitude of India, the proportion of Indian total sales, it matters for the full seasonality calculation or development, you could say. So all other markets, I would say no specific guidance, other than normal; India, flat.
+Erik Lindholm-Rojestal
+--
+Skandinaviska Enskilda Banken -- Analyst
+All right. Thank you. And just to follow up on that, I guess. I mean, I guess a key topic has been the inventory levels in the U.S.
+market. I mean, what are you seeing now in terms of inventory levels at the top telcos in the U.S. market? And yeah, do you see these inventory adjustments being done now in Q4 is still the case?
+Carl Mellander
+--
+Chief Financial Officer
+Yes, yes. So we saw a continuation in the third quarter, but it's starting to flatten out and even more so in the fourth. It's basically done on the part of inventory that matters that has the larger value. We are really flattening out in the fourth quarter.
+So that's, of course, a helpful fact for us as well.
+Erik Lindholm-Rojestal
+--
+Skandinaviska Enskilda Banken -- Analyst
+All right. Perfect. Thank you, Carl.
+Peter Nyquist
+Thank you, Erik, for those questions. And we'll have the next question from Andreas Joelsson, Danske Bank. Good morning, Andreas.
+Andreas Joelsson
+--
+Danske Bank -- Analyst
+Good morning, everyone. Just a question on a reference that you made very -- in the beginning that you need a catalyst to see investments coming through from the operators over time. Just curious to understand if you are a little bit surprised by the 5G business models from the operators so far because it hasn't really kicked off in terms of ARPU growth, etc. What do you see that they are missing from a 5G business model so far?
+Borje Ekholm
+--
+President and Chief Executive Officer
+That's a great question. What we see, so far, with the 5G networks launched, it's kind of a little bit better mobile broadband. But to really get -- kind of deliver on the promise of 5G, we need to tap into new revenue pools, and that's where enterprises come in and enterprise digitalization. So we need to basically -- and there is an opportunity, I would say, to leverage wireless for enterprise digitalization, just because of the way -- think about the flexibility of a wireless network.
+Think about the global availability of the network. And actually that it has a very high level of security as well, so you -- when you start to put that, we can actually digitalize so many more enterprise processes using 5G That is an area that naturally lends itself. We should enter enterprises with 5G. We see that, of course, on enterprise network, so dedicated networks, for example.
+We see that to be a very early market, but that's happening. It's -- we're using wireless networks to digitalize enterprises, and we see that some large automotive OEMs, for example, are deploying them now in -- on their sites to drive new type of automation. But we also see this as the major -- this is the kind of starting point for our Global Network Platform. So if we can create the network into a horizontal platform that can make the features of the network easy to expose, consume, and pay for, we have actually created something for a developer to drive, and we start to see this.
+We're launching some new network APIs with great interest from the developer community. And of course, we -- this is a market where we don't want to talk about it until we have launched basically for competitive reasons. But we think it's actually a major opportunity to create this new type of revenue pool that the industry need to drive more investments into the network. Otherwise, the network will network investments will just continue to be flat.
+If the service revenues for the operators are largely flat or very low growth, there is not going to be growth for network investments either. So we need to create this new type of monetization pool in order to drive investments.
+Andreas Joelsson
+--
+Danske Bank -- Analyst
+Thanks, Borje.
+Peter Nyquist
+Thank you. Do you have a second question?
+Andreas Joelsson
+--
+Danske Bank -- Analyst
+No, that's perfect. Thanks.
+Peter Nyquist
+Thank you, Andreas, for that question. So we'll move further on. We have the next question from the line of Janardan Menon at Jefferies. Good morning, Janardan.
+Janardan Menon
+--
+Jefferies -- Analyst
+Hi. Good morning, Peter. Good morning, everyone. I just want to follow up on the GNP business and Vonage.
+Can you give us some kind of an indication of timing when you will have developed the required number of 5G network APIs. Clearly, you have been on that process since the acquisition. Is that something that we can say by the end of 2024 you will have the required number? And by then, you would have signed up enough agreements like the Deutsche Telekom agreement with operators worldwide and with developers, and so we can -- at least we can start seeing that revenue inflecting sharp more sharply upwards? Is there some kind of a timing that you can give on when you expect that process to happen? And secondly, just on the India side, you're saying that the revenues are beginning to flatten out. You had said that the network rollout initial portion has lower margins because of -- and of course, higher cash intensity.
+Are we reaching the second phase of India from Q1 next year? And will that result in average India margins being higher in 2024 compared to 2023? Thank you very much.
+Borje Ekholm
+--
+President and Chief Executive Officer
+So I take the GNP, and you take the India question, Carl. So if you look at GNP, we actually started already in 2019 with customer trials of speed on demand. So this -- that was really the trigger point when we could see the customer interest, and we're thinking about application developers here, both in the gaming side as well as in the collaborative softwares. So there was a great interest.
+We saw that. Of course, to launch quality-of-service APIs, you need some network investments. We need a network exposure layer, etc. So it takes some time to get there.
+There are some other simpler network APIs that still rely on the network, but they can be presented over CPaaS. Those will be the first ones. We'll come back to tell you what we're launching. But we expect to see some early revenues this year, small in scale.
+We're talking tens of millions of kronor this year, but they will start to grow into next year really to be meaningful. I think the fair thing is to expect that during 2025 in reality because it we really need to get not only several operators involved. We need to get the industry and the developers to start using the APIs as well for this to scale, and it's hard for them or actually impossible for them to use it before we've gotten the operator community signed on to a similar type of solution. We're not going to be alone with our GNP.
+There are going to be other platforms as well, but we are at least a front-runner, so we should be able to run as long as we can run fast. We are going to be rather attractive to sign up with, but we'll face competition here as well. But I'm convinced we can outgrow where we are today but don't expect this to be really meaningful until the '25 time frame.
+Peter Nyquist
+OK. And then India question, Carl?
+Carl Mellander
+--
+Chief Financial Officer
+Thank you, Janardan. Thanks for the India question, I'll take that. So I mean, I won't comment on specific margin profiles for different customers for obvious reasons. But of course, it's our job to deliver customer value and make sure that we make decent margins out of that.
+And I think that has been the case already. Now the big rollout projects or the pace of rollout, I should say, will be coming down. The more -- maybe more interesting fact is on the cash flow side because we tie up significant working capital because of the nature of this business with rollout, but that tide will turn. As volumes come down, we will start to collect more and get a positive cash flow impact from that.
+So that we should see in 2024. Margin is an everyday job for us, of course, to make sure that we have the right margins. And that, we will continue with.
+Peter Nyquist
+Thanks, Carl. Thank you, Janardan, for that question. So we'll move further in the queue here, and we have the next question coming from the line of Sandeep Deshpande at J.P. Morgan.
+Good morning, Sandeep.
+Sandeep Deshpande
+--
+JPMorgan Chase and Company -- Analyst
+Good morning. Can you hear me?
+Peter Nyquist
+Yes.
+Sandeep Deshpande
+--
+JPMorgan Chase and Company -- Analyst
+Yeah, hi. My question is on the margin going into '24. I mean, clearly, you seem to be seeing some positive impact from the restructuring in CSS and possibly in the networks business itself. If you say India is potentially flattish into Q4 and then potentially rolling off in 2024, U.S.
+should increase as a percentage of business, as well as your restructuring should kick in, so theoretically, we should be assuming that your networks margin and your CSS margin should be improving in '24. Is this the correct contention? And my second question is, are there any signs of any revival in demand in Europe? Europe has had very little 5G rollout. I mean, they have invested very little this year as well compared to where India has invested, which is a much -- historically much further behind market compared to Europe. So what are you hearing from your European customers at this point and regard to '24?
+Carl Mellander
+--
+Chief Financial Officer
+Borje, do you want to take the Europe, and I take the first one afterwards?
+Borje Ekholm
+--
+President and Chief Executive Officer
+OK. I can. You can take the start.
+Carl Mellander
+--
+Chief Financial Officer
+I go. OK. Hi, Sandeep. No, the factors that you point to, they are relevant.
+And as you see in the report, we are not guiding for specific models beyond Q4 where we say 39% to 41% in the networks segment on gross margin. But the factors that you point to, of course, are the positive ones that could support gross margin. We have the cost out that will be fully executed by year end on the current SEK 12 billion that we have communicated. We are talking also about the market mix recovery which is needed for us to improve margins going forward.
+And to the extent that that happens, that should support gross margins, of course. And I mean, again, we are fully committed to the 15% to 18% EBITA margin target for the long term. And of course, we will work very hard in Ericsson to reach that as soon as possible. I mean, that's the key message as well, and we are dependent on this market mix to improve.
+At some point, it will come. So I just want to repeat that again. That is what will drive the margins upwards when that happens.
+Borje Ekholm
+--
+President and Chief Executive Officer
+So tie into your question about the global rollout of 5G, it varies a bit by region. But in average, it's about one in four that's upgraded for mid-band, 5G mid-band. And so it's really -- compared to previous generations, we're still relatively early in the cycle. Investments in Europe have been slower than that in average.
+Depending -- varies a bit by market. But overall, the rollout of 5G, especially mid-band, have been very, very slow and much slower than India. India basically have nationwide 5G coverage now or at least of the metropolitan areas, in a way kind of just second to China today, very strong, have also a nationwide 5G stand-alone network. So we are likely to start to see applications now coming out of India as well, leveraging the very strong digital infrastructure.
+Europe is not on that map today. We see very limited buildout as several of the European operators are under pressure and you know that in the capital markets as well. So it's a challenge. Personally, I worry a bit about Europe's future competitiveness.
+Infrastructure tend to be something that drives a nation's long-term competitiveness. And without a digital infrastructure in Europe, it is going to be a bit of a challenge. So I do think that or I hope that we will start to see investments come up because it's going to be needed for future and long-term competitiveness of our industry in Europe.
+Peter Nyquist
+Thanks, Borje, and thanks, Sandeep. We are then moving to the last question of this call, and that question will come from Sebastien Sztabowicz from Kepler Cheuvreux. Good morning, Sebastien.
+Sebastien Sztabowicz
+--
+Kepler Cheuvreux -- Analyst
+Yeah. Hello, everyone, and thanks for taking my question, Peter. One question on Vonage. You did this big write-off on Vonage because the business seems to be slowing down.
+Which part of Vonage business is really slowing down? And what kind of growth trajectory do you expect for the global communication platform segment for the next few years? Can you give us a little bit of an indication there? And the second one is linked to cloud software and services, which has been growing nicely over the last four quarters. Do you see, finally, 5G core deployments picking up? Or is there any different reason for this business to restart to grow? And what is the outlook for the next few years for cloud software and services? Thank you.
+Peter Nyquist
+Borje?
+Borje Ekholm
+--
+President and Chief Executive Officer
+So if we look at -- start with Vonage, we see basically it's a couple of reasons for the goodwill impairment that we took. There are, of course, a slowdown in the market that we've seen in for kind of the demand trends have been softer, and we see a much higher interest rates as well. When you put those two together, the impairment is the right thing to do to take that. And by the way, it also led to a lot of the peers traded significantly lower in the market.
+So that's no doubt about that. And those trends have come down. We have, so far grown, in line or faster than competitors. But I would say it's fair to say that the market expectation is somewhat lower today than it was if you look a few years back.
+The growth trajectory on -- and we believe it will be in line or slightly better the market going forward as well. But really, what we're investing for is not the core business in Vonage that we really did the impairment testing on. It is the Global Network Platform, which will provide ample growth opportunities in the future and position Ericsson to be a completely different company in a few years' time. That's really the underlying strategy behind the Vonage acquisition.
+So in a way, the reason for taking the impairment relates to the core business, but that was not really our investment thesis when we acquired Vonage. So that -- so our strategy stands firm on developing Global Network Platform. The traction we have with customers is very strong today, and the inbound interest we get from basically all the operators are very exciting and I think positions us well for the future. It's up to us to deliver.
+It's up to us to execute on that, and that's what we are focusing on 100%. Missed your second question.
+Sebastien Sztabowicz
+--
+Kepler Cheuvreux -- Analyst
+On cloud software and services, the growth expected, 5G core not least.
+Borje Ekholm
+--
+President and Chief Executive Officer
+Yeah. I would say we're still early in the 5G core deployments. It's -- it really needs to be 5G stand-alone to be widely deployed. And that's so far, call it, is maybe some 40 and 50 networks around the world, very few.
+So we're not seeing the big ramp until that happens. So I would not hang it on there. We've seen some good developments in other areas of the business that actually has started to grow, and that's encouraging as well. But I would say the 5G core, the future is ahead of us.
+Peter Nyquist
+Thanks, Borje, and thanks, Sebastien. So that concludes today's call. So I thank you, all, for listening to this Q3 earnings call for -- in 2023. So I'm looking forward to the next call here in January.
+With that, have a great day. Goodbye. Thank you.
+Borje Ekholm
+--
+President and Chief Executive Officer
+Thank you.
+Carl Mellander
+--
+Chief Financial Officer
+Thank you.
+Duration: 0 minutes

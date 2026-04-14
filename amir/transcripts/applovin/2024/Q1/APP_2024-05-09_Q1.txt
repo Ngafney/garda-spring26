@@ -1,0 +1,274 @@
+David Hsiao
+Welcome, everyone, to the AppLovin earnings call for the first quarter ended March 31, 2024. I'm David Hsiao, head of investor relations. Joining me today to discuss our results are Adam Foroughi, our co-founder and CEO and chairperson; and Matt Stumpf, our CFO. Please note our SEC filings to date as well as our shareholder letter and press release discussing our first quarter are available at investors.applovin.com.
+During today's call, we will be making forward-looking statements regarding our products and services, market expectations, the expected future financial performance of the company, and other future events. These statements are based on our current assumptions and beliefs, and we assume no obligation to update them, except as required by law. Our actual results may differ materially from the results predicted. We encourage you to review the risk factors in our most recently filed Form 10-K for the fiscal year ended December 31, 2023.
+Additional information may also be found in our quarterly report on Form 10-Q for the fiscal quarter ended March 31, 2024, which will be filed on or before May 10, 2024. We will also be discussing non-GAAP financial measures. These non-GAAP measures are not intended to be a substitute for or superior to our GAAP results. Please be sure to review the reconciliations of our GAAP and non-GAAP financial measures in our earnings release and shareholder letter available on our Investor Relations site.
+This conference call is being recorded, and a replay will be available for a period of time on our IR website. Now, I'll turn it over to Adam and Matt for some opening remarks, then we'll have the moderator take us through Q&A.
+Adam Foroughi
+--
+Co-Founder, Chairman, and Chief Executive Officer
+Welcome, everyone, and thank you for joining us. We're thrilled to report another record quarter in Q1, continuing our pattern of delivering strong financial results. With AXON 2 turning one year old and achieving nearly a full recovery in our share price, after a very difficult 2022, I wanted to reflect on some key themes that we've consistently stated and now actively proven out. We believe our culture is unique.
+By staying lean and retaining key contributors, we have built an exceptionally high-performing team of subject matter experts capable of innovating faster and more effectively than those at other companies. We believe our business is not limited by the size of the mobile gaming market, but rather that our business can drive market growth. Advertisers have increased their spend on our platform as a result of the improved performance from AXON. And now, we're seeing the industry return to growth.
+We stated the operating leverage of our software platform business is as good as any technology company in the world. In one year, our quarterly software business revenue grew from $355 million to $678 million. Of this incremental $323 million of revenue, 84%, or $273 million flowed through to adjusted EBITDA. Now, two more themes that are important to understand as our business goes forward.
+First, a key driver of our growth will be the ongoing improvements to AXON. Our models are still in an early stage and will continue to improve themselves. But more importantly, our teams are still finding ways to materially improve these algorithms. While these gains may not be predictable, they may sometimes lead to quarters like Q1 where we far exceed expectations.
+Second, there is nothing that limits our models to just gaming. By expanding into web-based marketing and e-commerce, we expect our AI models to improve with added demand diversity. As we continue to execute on the previously discussed themes, we expect to see further growth in our business. While our early days in the public markets were volatile since we started this company 12 years ago, our business has consistently remained strong, and we hope over time, all of our shareholders and prospective investors will gain the same confidence in our business and vision that we have always had.
+I can promise you that we've never been more excited about our prospects. With that, I'll hand it off to Matt to run you through the financial highlights.
+Matt Stumpf
+--
+Chief Financial Officer
+Thanks, Adam, and good afternoon. I'm happy to share we had another quarter of exceptional financial results, generating total revenue of $1.06 billion and adjusted EBITDA of $549 million, which is a 52% margin. Our revenue grew nearly 50% from the same period last year, while adjusted EBITDA has doubled. During the first quarter, we generated $388 million in free cash flow.
+That's an incredible 71% flow-through from adjusted EBITDA. Our software platform also had another excellent quarter, with revenue of $678 million and adjusted EBITDA of $492 million, retaining our 73% margin and more than doubling our adjusted EBITDA from the same period last year. This represents a 71% flow-through of revenue from the prior quarter. While we remain diligent about cost discipline, we did have a slight step function increase in our cloud data center costs at the end of Q4 to reserve GPU capacity to support future growth.
+We saw the full impact of the cost increase during this quarter and expect future flow-through to improve. Our business was reinforced by strong market conditions, including expansion in the mobile advertising market and continued adoption of real-time bidding. Our software platform also benefited from technology improvements, including ongoing self-learning, additional data, and enhancements by our engineering team. We continue to be optimistic about our ability to drive compounding efficiencies leading to improved performance for our advertising partners.
+Our Apps portfolio remained stable from last quarter, maintaining 15% adjusted EBITDA margin. Turning to our capital structure. During the quarter, we amended our term loans, capitalizing on favorable market conditions to further reduce interest expense while at the same time, amending our loans to include outstanding revolver borrowings previously used for share repurchases. Continuing our commitment to share management.
+In Q1, we repurchased and withheld a total of 14.9 million shares of our stock. Net of issuances during the quarter, we reduced our total shares outstanding by approximately 3%. Since we began our share management activities in early 2022, we have spent nearly $2.6 billion to repurchase and withhold a combined 79 million shares. That's a remarkable 20% pro forma reduction in our total shares outstanding.
+Turning to our second-quarter guidance. We expect to deliver between $1.06 billion and $1.08 billion in revenue. Adjusted EBITDA is expected to be within the range of $550 million and $570 million. That represents an adjusted EBITDA margin between 52% and 53%.
+In conclusion, we continue to have confidence in our ability to drive growth from our core business while we work to expand our long-term opportunities. Now, with that, we'll move on to Q&A.
+Questions & Answers:
+Operator
+Thank you so much, Matt. And now, we will take your questions. [Operator instructions] Again, we will take as many questions as time permits. Our first question is going to come from Clark Lampen with BTIG.
+Clark, please go ahead.
+Clark Lampen
+--
+BTIG -- Analyst
+OK. Can you guys hear me OK?
+Adam Foroughi
+--
+Co-Founder, Chairman, and Chief Executive Officer
+We can hear you, Clark.
+Clark Lampen
+--
+BTIG -- Analyst
+Perfect, perfect. OK. Adam, I've got two on software and AppDiscovery. You mentioned in the prepared remarks that this quarter results exceeded your internal expectations. Is there anything specific that you might call out for us among the sort of key sources of outperformance? And then I guess sort of second and bigger picture, as we think about the trajectory for software and AppDiscovery after a couple of quarters of really strong sequential revenue growth, I think there's some concern percolating that once we anniversary the start of the AXON cycle that maybe growth starts to asymptote.
+Could you help us frame up, I guess, current momentum and the runway that you see within both the core gaming market and new channels like e-commerce?
+Adam Foroughi
+--
+Co-Founder, Chairman, and Chief Executive Officer
+Yeah. Thanks, Clark, for the question. So, on the first one, I touched on this in the script. But we've got a few growth vectors.
+One is going to be adding more advertisers both within gaming and then breaking out to these new verticals that we're working on and quite excited about. Secondarily and more importantly, anytime we see improvements in our core models, we see gains in our business. And there's two forms of improvements. These models are self-learning.
+So, we've got them in the marketplace. We're serving a ton of impressions every single day. And there's a feedback loop that gets this data back into the model and it improves itself. So, there's a component of that.
+That's why the system continues to get better since we launched it. And the second piece is our team, obviously, is still working every single day. So, every time our research science team creates some sort of innovation or breakthrough on those models, that ends up a step function gain in the business. Because if you think about these models, it's all math and if the math gets more accurate, then we're going to see a gain in the business.
+And these are very high-margin gains because there's no cost associated with that gain, there's no sales process to go bank that gain, it's just a gain in the business. And so, I try to tie it back to the first quarter and performing really well against, obviously, the toughest quarter in advertising against Q4. The gain we saw in the first quarter was predominantly due to just enhancements to the models themselves. And so, that's going to be one of our core drivers going forward.
+Now, to the question of the software growth is slow, look, software is growing about 90%, 100% year over year, and it's a 73% margin business. So, we don't need it to grow double every single year. It's a net revenue reported business on the vast, vast majority of the revenue. So, every incremental dollar is very, very high margin.
+We'd love to be in the neighborhood of 20%, 30% long-term grower for many years to come. In order to do that, how do we think about the business longer term? It's the same building blocks that we just talked about. We're going to get more advertisers in gaming that are buying on our platform because now at this point, our platform is the best channel for a mobile gaming customer to go buy advertising. Now, we're the best in the world today at driving value to mobile gaming advertisers, and there's nothing that limits our technology from working outside gaming, how good could we be in other verticals? So, the vertical expansion is a key part of our focus.
+And then beyond that, we're in the business of creating improvements to our technology. So, if you start adding all that up, how do we keep growing this business, there's a lot of levers that we have to pull to be really excited. And that's why it ended with we've never been more excited about the prospects we have in front of us than we are today.
+Clark Lampen
+--
+BTIG -- Analyst
+Thank you.
+Operator
+And Ralph Schackart with William Blair has the next question.
+Ralph Schackart
+--
+William Blair and Company -- Analyst
+Good afternoon, and thanks for taking the question. You've been fairly consistent in saying that AXON 2 engine works outside sort of the gaming vertical, and you sort of touched on that in your last response. Can you maybe give an update sort of where you are in that sort of effort outside of gaming? Do you need a new sales force? Are you testing? Any results you could share? Sort of want to get a sense of sort of where you are in that effort. Thank you.
+Adam Foroughi
+--
+Co-Founder, Chairman, and Chief Executive Officer
+Yeah. Thanks, Ralph. Good to see you. And a couple of things.
+One is, we look at the advertising world with apps and websites, right? Like there's two forms of media that people are buying to the end destination. And today in the app marketing world, we're very good at gaming. We also work with nongaming apps, and we've seen success once we rolled out AXON 2 across a variety of nongaming companies growing on our platform, too. And I think last call, we touched on that the non-gaming app space is growing faster than the gaming app space on our platform just because it starts from a lower base.
+That success hasn't changed. We still see the same trajectory. Now, what has us excited and what we've been working on is launching the first form of web advertising on our platform. And if you think about a lot of transactional industries, e-commerce, in particular, most of the transactions are still done on the website, not the mobile application because a lot of shops don't even have a mobile application.
+And so, that's been work we've been doing. We will be bringing that product to market this quarter, and it's something we're very, very excited about as a way to really build out a lot more demand density into our platform.
+Ralph Schackart
+--
+William Blair and Company -- Analyst
+Great. Thanks, Adam.
+Operator
+Moving on to Jason Bazinet with Citi.
+Jason Bazinet
+--
+Citi -- Analyst
+I'm afraid to ask this question because you guys are doing so well. Would you mind just giving us an update on your sales process? I remember several years ago, you sort of made fun of yourself because you didn't really have a sales force and didn't think about it. And I'm just trying to get a sense. You haven't talked about it as a vector.
+But is all of this growth we're seeing a function of sales and the technology? Or is it just purely the technology, and it's sort of selling itself based on the return?
+Adam Foroughi
+--
+Co-Founder, Chairman, and Chief Executive Officer
+So, look, since Day 1, I know that I'm not a very good seller, and it was something that we really focus on being product first at the company. We believe if we build great products and we innovate well, that if the advertisers are seeing success on our platform, they're going to tell their peers and their peers are going to come to our platform and this thing could self-sell itself. And we've seen that happen in mobile gaming as AXON 2 continues to perform well. A lot of the mobile gaming customers who either hadn't heard of us or had chosen not to work with us have adopted our platform over the last year.
+So, we haven't ramped up sales to go get those relationships. And a lot of those relationships are still in an earlier stage than some of the companies that have been on our platform for years. So, that will contribute to growth in the gaming vertical over time. When we look at outside of gaming, we're still -- we have no interest in getting into brand advertising.
+So, everything is performance-based. We fundamentally want to play -- replay the same playbook, where we're not going to invest heavily in sales now. In some of these transactional categories outside gaming, you do need some presence, some marketing, some sales, but it's not going to be a heavy investment. And we do believe that if we're able to go drive the same result where, for instance, in e-commerce to shop, see a lot of benefit from marketing on our platform and they can measure the result and they see a stronger result on our platform and some of the other channels they buy on, there's going to be a lot of interest because these other transactionally charged categories desperately need more marketing available to them as those industries are struggling to grow themselves.
+Operator
+Thanks, Jason. Omar Dessouky has the next question. And just to let you both know, he's on audio only, so you won't see him.
+Omar Dessouky
+--
+Bank of America Merrill Lynch -- Analyst
+Hey, thanks. I had a couple of questions about header bidding, aka real-time bidding, I guess, those are the same term. What is the quarterly revenue run rate trajectory for the rest of this year for that? I think you guys said that you collect a 5% fee on header bidding into MAX supply. I was wondering where that stood and how that's going to move going forward.
+Matt Stumpf
+--
+Chief Financial Officer
+Yeah. So, Omar, we don't disclose that level of detail, the revenue for specifically the MAX business or for header bidding. But we have continued to see that trend that we've been talking about historically, the trend of people shifting over to header bidding with an acceleration in Q1. So, we're continuing to see that positive trend.
+Omar Dessouky
+--
+Bank of America Merrill Lynch -- Analyst
+OK. Then I've heard that Unity will be bidding into AppLovin MAX supply. And I was wondering if you could maybe describe the strategic implications or importance of that to you, right, because they're viewed as a competitor. Is there any new data that you'll be getting about your primary competitor as a result of this? And why does it take so long for this to happen?
+Adam Foroughi
+--
+Co-Founder, Chairman, and Chief Executive Officer
+Yeah. So, a bunch of questions embedded in there. But for one, let's just start with the market. The vast, vast majority of the market bids today, 80% plus.
+So, the transition that was a multiyear effort to get the market to go from traditional ad tech in mobile app to go to a real-time format is nearly complete at this point. Two, MAX is, by far, the largest mediation solution in mobile gaming. We've touched on this in the past, and it continues to be a very strong platform. So, as the marketplace, third parties want to buy on our platform in a real-time format.
+It's just more efficient. And when any company ends up buying on our platform, they're an advertising solution that's competitive with us. And so, I wouldn't call any one company a primary competitor. We're all friendly competitors.
+And we've also talked about what drives this market, in particular, that's quite unique to other markets is there's no zero-sum in this ecosystem. If the whole market is buying efficiently and the publishers are making more, the publishers reinvest more in the user acquisition, the pie grows and all of us advertising companies are hopefully benefiting from that. The last point to make, and I think there's a misunderstanding in the marketplace on this. We don't have some sort of data advantage with any of the companies that are buying into our platform.
+We're very secure about data. Our partners can audit us when it comes to our data practices. The data that we have available to us is the same data that any bidder on our platform gets available to them. And so, therefore, there isn't some data advantage from a Unity or anyone else buying on our platform.
+It's a completely fair, transparent, and clean auction, and it provides a huge benefit to the publisher. And for us, it's been a very good product that we have in the market and is continuing to do well.
+Omar Dessouky
+--
+Bank of America Merrill Lynch -- Analyst
+Do you have time for one -- just one quick one? I didn't see net revenue for install growth on your letter. Could you update us on that and give us any kind of the puts and takes around that?
+Matt Stumpf
+--
+Chief Financial Officer
+Yeah. So, the numbers will be disclosed within our 10-Q. Omar, so you can see all the actual figures there. But similar to prior quarters, we've had an increase in both the net revenue per install as well as the volume of installations, and that's through the continued improvement of AXON that we've been talking about.
+As the technology continues to improve, we should see both a growth in the amount of money that we're making per installation and volume of install as we see more advertisers increasing their spend.
+Omar Dessouky
+--
+Bank of America Merrill Lynch -- Analyst
+Thanks a lot, guys.
+Operator
+And we will now hear from Tim Nollen with Macquarie.
+Tim Nollen
+--
+Macquarie Group -- Analyst
+Hi, guys. Thanks for taking the question. I'd like to pull a few strings together from what we've been hearing already. And I'd like to ask about going beyond mobile gaming base of advertising.
+You answered the question about having access to sales force and accessing other verticals. And you've spoken in the last couple of quarters about expanding your Wurl business into bringing some more demand into CTV. So, I just want to combine these into a question to ask, why does that need to be focused on performance-based advertisers and not brand advertisers? I understand the difference, but if you've got an expanded advertising base, more verticals moving into connected TV, I'm just wondering if you could update us on what you're doing with Wurl and why you couldn't become more of a competitor in that CTV ad buying space.
+Adam Foroughi
+--
+Co-Founder, Chairman, and Chief Executive Officer
+Yeah. So, Wurl, to us, it just added eyeballs. It's added supply. CTV channel versus the mobile app ecosystem, we touched on.
+We have over 1 billion daily actives in the mobile app ecosystem. We've got a lot of access to eyeballs, but five hours a day of TV watching is inaccessible if we don't get to an SSP that sits in connected TV. So, that was the idea with Wurl is bringing a lot of supply online. Now, it's our job to go monetize it.
+We've never wavered from being focused on performance advertising at the company in a couple of reasons. One, again, I don't want to build out a sales force. And if you're selling someone to buy a brand-advertised spent dollar, you have to really convince them that that dollar is well spent. There's no data that backs it up.
+The attribution is murky at best. And so, you have to have a salesperson that convinces the other side that $1 spent was well spent. Our model is the advertisers spend $1 and everything is measurable. It's all closed loop.
+It's real-time reported. And they know if they spend $1 and they made more than $1, they're buying as an arbitrage marketer, and there's not a whole lot of selling to do in the middle there. If you have someone spend $1 and earn $2, they will spend that $1 as many times a day as you will spend it on their behalf. And so, all of our algorithms, our entire system is predicated on that concept.
+And what's powerful about that concept is when we can create lifts in our business, as you've seen over the last year, and I touched on the incredible flow-through of this business that we've consistently set as a theme in our business model, we don't have to go convince advertisers to spend more. They will automatically spend more. So, our constraint is just how many dollars can our systems accurately, on their behalf, place in the universe. To create growth, the systems have to improve, which we've shown can drive a lot of growth, and we have to go access more eyeballs.
+And that's the goal around Wurl. We do think in connected TV advertising, as we get into e-commerce and prove an efficient model for shops to advertise on our platform that will extend very naturally to the e-commerce, to the CTV landscape because the shopping ad could be very beneficial for consumers in that media.
+Tim Nollen
+--
+Macquarie Group -- Analyst
+OK. That makes sense. Thanks. Any comments on Wurl's growth or contribution to revenues or anything you can share?
+Adam Foroughi
+--
+Co-Founder, Chairman, and Chief Executive Officer
+It's still too small to break out, so we don't talk about it. But they've done a great job of bringing a lot of supply online. So, now the other side is the opportunity is bringing the demand online.
+Tim Nollen
+--
+Macquarie Group -- Analyst
+Got it. Thank you.
+Operator
+Moving on to Eric Sheridan with Goldman Sachs.
+Eric Sheridan
+--
+Goldman Sachs -- Analyst
+Thank you very much. Maybe following up on Tim's question, but asking it a little bit different way. Adam, when you think about entering new verticals or new campuses, we've seen you taken a number of different approaches, purchasing companies, taking stakes in companies, partnerships. How should we be thinking about the capital allocation dynamics around thinking through organic versus inorganic growth? How that sort of maximize for ROI when you think about how far-reaching the platform can become as you look at some of these campuses over the medium to longer term? Then second question would just be incremental margins.
+Obviously, you guys continue to produce very high incremental margins after the investment cycle you've been through in the prior 12, 18 months. Just continued thoughts on guideposts around incremental margins as the business continues to sustain relatively high levels of growth. Thanks so much, guys.
+Adam Foroughi
+--
+Co-Founder, Chairman, and Chief Executive Officer
+Yeah. I'll start with the first, and Matt can answer the second. Thanks, Eric. Really, when we think about our business, we've built a very, very compelling implementation of AI, one of the most powerful systems the world has ever seen in this space.
+And so, organically, we have a huge advantage to continue to build on that. And how do we build on that? It will come from a few different things, get more partnerships, get more data, and get more reach. And so, all of that in terms of like the way we think about it, getting more reach is accessing eyeballs. Well, we have a carrier OEM business, now we have a CTV business, and we have our core business, and there's over 1 billion daily active users just on the core business.
+So, we access a lot of eyeballs already. So, the reach is sort of there sitting there for us to go capitalize on. Demand diversity is, we fundamentally believe, is an organic problem. The algorithms are going to be able to execute on any transactional vertical.
+And so, we just have to get this product rolled out. The R&D effort was building the system to be able to do web marketing for the first time. This is just not something a company named AppLovin really thought about over the last 12 years. And so, now, as we go forward, we've got that technology, we're going to be able to execute in that space.
+And so, that, again, is an organically charged effort. And the hardest part of all of this was building the algorithms. Building that -- the AI models are incredibly complex. And a lot of companies, obviously, in the world today and technology almost every company will talk about the AI strategy, but very, very few have been able to actually execute on a large-scale implementation of complex systems like these.
+So, having that at our disposal really keeps us excited about this organic path we've got going forward.
+Matt Stumpf
+--
+Chief Financial Officer
+And just in terms of expectations around margins, Eric, I mean, we expect the margins to continue to expand to the extent that we see increased development for AXON, right, as Adam has talked about in the past the improvements to the actual technology because we're already reporting net revenue, essentially dropped to the bottom line. So, what you're seeing is as margins, margins grow through that development is that it should continue to expand. Obviously, as volume's growing, then margins should stay relatively flat. So, at this point, we wouldn't expect any decrease from our existing level of order.
+Eric Sheridan
+--
+Goldman Sachs -- Analyst
+Thank you.
+Operator
+Jefferies' James Heaney has the next question.
+Ed Alter
+--
+Jefferies -- Analyst
+Hey, guys. This is Ed Alter on for James Heaney. Thanks for the question. Piggybacking on some of the earlier questions from some of our checks, we're seeing that the bigger the app developer is, the more they actually are kind of spending share of AppDiscovery.
+So, besides, obviously, AXON, what are you seeing that is winning those incremental dollars versus others? And where are the bounds of that?
+Adam Foroughi
+--
+Co-Founder, Chairman, and Chief Executive Officer
+I mean, in our system, we don't really have a limit to what an advertiser spends most. All of our partners don't set any sort of budgetary limitation. So, the bigger advertisers, obviously, by definition, have a better base business. They've got probably in mobile gaming and more successful games.
+So, they're a bigger company. Then, therefore, they can spend more dollars per day. And the really nice thing about our system today is somehow someone on our research science team tomorrow had a breakthrough and our models got twice as effective. The business would double overnight because there isn't a budgetary constraint.
+So, we think like, at this point, our job in mobile gaming to deliver value to the advertiser has been effectively accomplished. And now, a lot of the growth is going to come from new advertisers, both in gaming -- but we don't work with 100% penetration of the market or even close to that. So, gaming customers around the world now are hearing about this platform that a year ago didn't exist and now is outperforming every other platform in the world. And so, as we continue to see organic adoption of our platform in the gaming category, we will see growth from these new advertisers, which some are large, some are small, but it all adds up.
+And then secondarily, again, this expansion outside the mobile gaming business is something we're really excited about.
+Ed Alter
+--
+Jefferies -- Analyst
+Yeah. Great. Great. Maybe just a follow-up on your view of the -- where we sit in the mobile gaming market in general.
+After a couple of years of down some or expecting growth this year, is that what you guys see as well? And what's driving that?
+Adam Foroughi
+--
+Co-Founder, Chairman, and Chief Executive Officer
+Yeah, totally. We said it on the talk track. But our platform is really large. If you think about our net revenue reported advertising network, which is the vast majority of our software business, for us to have doubled the software business in the last year, there's billions of incremental dollars that were spent in the mobile gaming category on our platform.
+That didn't hold from other channels. So, companies in mobile gaming, they'd go, "Today, I can spend $0.10 extra over here. Therefore, I'm going to take $0.10 from this other channel and move it over." They'll just say, "I can spend $0.10 more in my goal. Therefore, I'm going to spend more on my goal, and that's it." And so, it takes a while for that to compound and be reflected in the $100 billion TAM that everyone looks at because these -- the paybacks on the user acquisition tend to be somewhere between three to 12 months.
+So, if you build out like, OK, well, what happened? Well, AppLovin doubled in a year their business, so billions of more dollars were spent on an industry that spends tens of billions of dollars of user acquisition. So, there is certainly a material amount of growth in the dollars invested because of the AXON breakthrough, then you'll start seeing the TAM start expanding once that starts paying off. Users are paying back into those cohorts, into the games that they downloaded, the cohort start stacking and the whole category will expand. And so, a lot of the TAM expansion you're starting to see reflected by single-digit growth, which is what -- a lot of that is attributed directly back to the success our technology is having driving growth to these advertisers.
+Ed Alter
+--
+Jefferies -- Analyst
+Yeah. Thanks. Thanks. Congrats on the quarter.
+Adam Foroughi
+--
+Co-Founder, Chairman, and Chief Executive Officer
+Thanks.
+Operator
+Moving on to Vasily Karasyov with Cannonball.
+Vasily Karasyov
+--
+Cannonball Research -- Analyst
+Good afternoon. I have a question about your competitive dynamic. Obviously, your results are so good. AXON 2 is working so well.
+Do you see any competitors ramping up to go after your business and put up a fight against you? And if so, how do you feel about it? And obviously, the returns are too good, right, to pass up. Do you see any changes in the competitive situation at this point? And how are you preparing for that? Thank you.
+Adam Foroughi
+--
+Co-Founder, Chairman, and Chief Executive Officer
+Yeah. Thanks, Vasily. We've been asked about competition for years, and we always say we don't necessarily pay attention to the competition because, look, there's some people who get the technology that we have and in the industry that we do, and they view it in an oversimplified manner and thank one company build some sort of algorithm and everyone else can just copy and everyone is going to catch up. These systems are really, really complicated.
+We built cutting-edge AI technologies. It's a multiyear effort for anyone to be able to look at that and be able to replicate that. And I don't even think it's conceivable that it's something that could be replicated. So, by the time there's anyone that's actually going to be able to compete against our technology, we'll be years advanced from where we are today because we're continuing to evolve the technology.
+Second piece is, we can open source our code tomorrow. We can hand out the code to competition. It still won't matter because these technologies need data that they're achieving in the marketplace to be able to drive themselves. So, if you think about like AI models, like what makes an AI model impactful, well, they're utilized, and that data feedback that they get from human behavior retrains the model and allows the model to continue to improve itself.
+ChatGPT being a perfect example of an AI model that's super compelling. Every search -- every word that we all type into it gets a result and that result -- the efficiency of that result and the way the user engages with that result retrains that model, if you give it a thumbs up, thumbs down. In our model, we're getting an insane amount of data into the system every single day. The system is continuing to improve itself.
+So, we sort of look at the world now and say, we've got cutting-edge technologies. We're in a leadership position in a category that's pretty large. This isn't the largest and certainly isn't very fast growing, but we've got an opportunity to really go out and expand our business and go deliver value to companies all over the world well outside of mobile gaming and allow them to unlock value for their business through our use of AI. And that's something that we're very excited about and we think is going to continue to allow us to distance ourselves from other players in our ecosystem.
+Vasily Karasyov
+--
+Cannonball Research -- Analyst
+Thank you very much.
+Operator
+And our next question will come from Martin Yang with Oppenheimer and Co.
+Martin Yang
+--
+Oppenheimer and Company -- Analyst
+Hi. Thank you for taking my question. In your shareholder letter, you highlighted that underlying advertising market have grown year over year. And can you maybe comment on what's -- from your view, how much have that market grown in 1Q and you have the number, how much has the market grown in 4Q?
+Adam Foroughi
+--
+Co-Founder, Chairman, and Chief Executive Officer
+You're asking how much of the market grow from quarter over quarter or year over year?
+Martin Yang
+--
+Oppenheimer and Company -- Analyst
+If you have both year-over-year numbers for 1Q and 4Q, respectively.
+Adam Foroughi
+--
+Co-Founder, Chairman, and Chief Executive Officer
+It's very hard for us to understand the whole ad market. And it's also like -- I'm not sure the whole ad market has ever been fairly defined. Is it the global advertising spend? Is it the global advertising spend in mobile apps, like what we look at when we talk about growth are the two areas that drive our business. One, IEP category, so we talk about mobile gaming as a vertical a lot.
+When we talk about the advertising market, in large part, we're talking about the MAX marketplace. That's growing quite a lot, double-digit plus year over year, but we don't disclose what the annual year-over-year growth is of the actual MAX marketplace.
+Martin Yang
+--
+Oppenheimer and Company -- Analyst
+Got it. So, is it right to -- are you assuming MAX marketplace is a good proxy for the VAR market?
+Adam Foroughi
+--
+Co-Founder, Chairman, and Chief Executive Officer
+For mobile gaming advertising, yes, given our leadership position in the category and what we've talked about percentage of market share of the MAX product that we think it's so diversified at this point that it is a very good proxy for the growth in advertising-based mobile gaming businesses.
+Martin Yang
+--
+Oppenheimer and Company -- Analyst
+Got it. My next question is on your net revenue per install and volume of install this quarter, it's 5% and 87%, respectively. The net revenue per install change on a year-over-year basis is very different from preceding quarters. How should we interpret those two numbers and the changes? Is there any relationship between the two that tell us the underlying changes in the market?
+Matt Stumpf
+--
+Chief Financial Officer
+Yeah. So, I think we've talked about this in the past, Martin, we see a very large increase in the volume of installations as we were talking about in this quarter. That's correlated to an increase in advertiser spend. So, as a result, year-over-year rate comparing to Q1 of 2023 to Q1 of 2024, we saw the AXON on launch during that period.
+And so, as a result of that, we saw advertisers increase their spend pretty dramatically over the last four quarters.
+Martin Yang
+--
+Oppenheimer and Company -- Analyst
+Got it. Thank you.
+Operator
+That concludes today's question-and-answer session and today's webinar. We thank you all for your participation, and we look forward to seeing you next quarter. Take care. Until then.
+Adam Foroughi
+--
+Co-Founder, Chairman, and Chief Executive Officer
+Thanks, everyone.
+Duration: 0 minutes

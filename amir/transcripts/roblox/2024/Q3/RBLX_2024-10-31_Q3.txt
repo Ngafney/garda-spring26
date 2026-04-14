@@ -1,0 +1,282 @@
+Operator
+Good morning. My name is Amy, and I will be your conference operator for today. At this time I would like to welcome everyone to the Roblox third quarter 2024 earnings conference call. All lines have been placed on mute to prevent any background noise.
+After the speakers' remarks, there will be a question-and-answer session. [Operator instructions] It is now my pleasure to turn the call over to Stefanie Notaney. You may begin your conference call.
+Stefanie Notaney
+--
+Director, Financial Communications
+Thank you, Amy. Good morning, everyone. Thank you for joining our Q&A session to discuss Roblox's Q3 2024 results. With me today is Roblox co-founder and CEO, David Baszucki; and CFO, Mike Guthrie.
+Our shareholder letter, press release, SEC filings, supplemental slides, and a replay of today's call can be found on our investor relations website. Our commentary today may include forward-looking statements, which are subject to risk uncertainties and assumptions that could cause actual results to differ materially from those described in our forward-looking statements. A description of these risks, uncertainties, and assumptions are included in our SEC filings, including our most recent reports on Form 10-K and Form 10-Q. You should not rely on our forward-looking statements as predictions of future events.
+We disclaim any obligation to update these statements, except as required by law. During this call, we will also discuss certain non-GAAP financial measures. Reconciliations between GAAP and non-GAAP metrics can be found in our press release and supplemental slides. With that, I'll turn the call over to Dave.
+Dave Baszucki
+--
+Co-Founder and Chief Executive Officer
+Thank you. Good morning, everyone, and thank you for joining us today. We're excited to share our outstanding Q3 results. But before we get into our numbers, which are included in our shareholder letter and in our 10-Q that we filed today, I want to take a step back and talk about what we're trying to accomplish at Roblox.
+Our mission is to connect 1 billion people with optimism and civility. We believe this is an admirable mission. And over the years, I've had an untold number of parents, users, and developers reach out to share the enormous impact that Roblox has had on their lives. This is personal to me because I've had several people share with me that their kids are literally alive today because of the connections they've made on Roblox.
+Contributing to online civility is challenging, but it's very much needed, and we believe we can have an outsized impact. And this is even more important today. Since the earliest days of Roblox, it was clear to Erik and to me that safety would be paramount, and so building safety into our product has been a huge effort for almost 20 years. We have every incentive to prevent bad behavior on our platform.
+Our approach to safety includes multiple proactive measures, as well as parental controls, and we partner with leading safety organizations around the world. Even one person having a bad experience on our platform is too many. And thus, we continue to invest heavily. We've shipped over 30 improvements to our safety and policy systems this year to date.
+And for example, in Q3, we reduced toxicity in voice chat through our improved nudging models. We gave our developers improved tools to moderate their own experiences. We launched major improvements in agent training to improve accuracy of our moderation for voice chat and image moderation. And we introduced numerous improvements in our internal tooling to increase the overall quality and throughput of our moderation and support systems.
+Enhancing moderation and safety systems with artificial intelligence is an exciting tool we have to combat bad actors. For example, our internally developed voice safety model, which we have now open-sourced to the world on Hugging Face, has been downloaded over 10,000 times and is being adopted by numerous other organizations. As part of achieving our mission, we'll never stop working to make Roblox as safe and civil as possible, and this goes all the way to the core of our values. One of our core values is respect the community.
+We consider our impact on the world. We strive to make decisions with everyone's best interest in mind and to communicate authentically. We prioritize our community, including users and investors above the company. And when we report our results to investors, we strive to be accurate, consistent, and transparent so that investors have the information they need to make decisions.
+We also do our best to make that communication as clear as possible to everyone. And as you very well know, another core value of Roblox is to take the long view. This means we drive innovation by setting a long-term vision. We do our best to optimize the long term in accordance with driving enterprise value.
+And as a result, we're willing to focus on hard problems if these can lead toward significant longer-term gains. We announced at RDC in September our goal of 10% of the world's gaming software market running on Roblox. We believe this is achievable, and we're now mapping our plan toward supporting the content that will drive this. And now, turning to Q3 results.
+I'm really pleased to share our Q3. We delivered high growth across our key financial and operational metrics, and we surpassed the guidance we provided on our Q2 earnings call. Revenue in Q3 was 919 million. That was up 29% year on year and ahead of our guidance we gave last quarter of between 860 million and 885 million.
+Our Q3 bookings were 1.129 billion. This grew even faster at 34% year on year. This was ahead of our guidance of 1 billion to 1.025 billion. We had record DAUs of the 88.9 million.
+This was up 27% year on year and strong across all regions. We had huge improvements year on year in U.S. and Canada, up 26% year on year; and in APAC, up 37% year on year. A few countries we'll call out.
+Japan, DAUs grew 59% year on year. India, DAUs grew 55% year on year. Over 13 DAUs were particularly strong with 34% year on year growth. And now, over 60% of our total DAUs are over 13.
+We also had record hours engaged at 20.7 billion hours in the quarter. This was up 29% year on year. Biggest growth improvements included U.S. and Canada, up 28% year on year; APAC, up 45% year on year.
+Japan hours engaged grew 69% year on year, and India grew 57% year on year. We also managed costs in Q3 of 2024. Our developer exchange fees were 231.5 million. This was an all-time high, reflecting our commitment to creators.
+This increased 36% year on year. Our infrastructure and safety costs were up 4% year on year and 6% versus Q2. I want to highlight that this increase versus Q2 is driven by investments in AI. And this includes migrating more and more of our safety infrastructure to AI where possible and where responsible to do so.
+In the process, we are continuing to improve the quality of both our content and communication safety systems. Fourteen percent of revenue and 11% of bookings went to infra trust and safety compared to the previous year, and it showcases the ability to put leverage into our strong top line. Personnel costs, exclusive of stock-based comp were 202 million. This was 22% of revenue and 18% of bookings.
+This decreased compared to the previous year as both a percent of revenue and bookings. Through this combination of thoughtful cost management and robust top-line growth, our Q3 cash from operations was 247.4 million. This was up 120% year on year. This is better than our guidance of 147 million to 162 million.
+Our Q3 cash flow was 218 million. Free cash flow, up 266%, and better than our guidance of 105 million to 120 million. We're confident on our strategy and the long-term growth of the Roblox platform. I want to highlight a few key initiatives that fuel the quarter's outstanding performance.
+Since Q1, we've been highlighting our focus on search and discovery. We've made enhancements to our AI-powered discovery algorithms. We've improved personalization, and we continue to show more relevant experiences to our users. We've continued to improve our virtual economy and marketplace.
+We've introduced dynamic price floors, UGC for everyone on the platform, and we've launched inexperienced price optimization for all creators now just in the last month. On overall systems performance, continued improvements in our app launch times, continued reduction in crash rates, and we continue to increase frame rate and app quality across all platforms. And finally, happy Halloween, everyone. We're in the middle of The Haunt, one of our Live-Ops events that are attracting new users and really, in the case of The Haunt, showing off new technology, including image capture inside of Roblox.
+As we go through our shareholder letter, I wanted to share a few developments we're seeing on the platform. First is our dev community is publishing more significant content updates compared to last year, and we believe this is further driving DAUs. We're seeing more content updates and a faster cadence of content. We're also seeing experiences that are continuing to go viral really.
+In Q3 of 2024, we saw experiences like RIVALS and Dress To Impress. RIVALS is a team-based shooter. Dress To Impress is a dress-up experience. Really go viral around the world.
+And we're seeing success as we see more experiences in emerging genres show up on the platform. We've also seen a distribution of experience and spending on the platform. Spending growth is more evenly distributed among the top experiences in Q3. Relative to brands on the platform, we welcome the NFL.
+They licensed their IP on NFL Universe Football. This was the 32nd highest experience by spend from their launch in September 13, and it's continuing to rise in October. As far as our partnerships, DoubleVerify for standard measurement is live now. We've added to accelerate brand education.
+And we have announced our integration with Shopify. At RDC in September, we highlighted our goal of 10% of the world's gaming software market revenue flowing through Roblox. And we shared this with our community. This is a market we currently estimate at $180 billion.
+We have enormous headroom here. We're currently at less than 3% of our TAM in the gaming market space. And we shared our strategy for getting there. We shared our mapping of genres on the platform.
+We have great traction in genres like simulation, role play, and action. But we also have the opportunity for enormous growth in genres like sports and racing, shooters, and open-world RPG. We'd like to double our market share in sports and racing on our platform; triple it in shooters, including Battle Royale; and double it in open world in RPG share, for example. The roadmap for doing this is evolving our platform tech to support all of these genres really at higher performance and fidelity; increasing our developers' opportunities for economics, including rewarded video and other expansions of our econ system; and amplifying creator growth through off-platform, organic, and paid acquisition, in addition to the organic growth that's driven our platform.
+I want to highlight where we're going with AI. It's really at the heart of our safety systems and more and more at the heart of everything we're doing on Roblox. We announced a 3D foundational model that we're building at RDC and an open-source 3D AI generative model. We're going to be starting with inexperienced object creation and evolving to scene creation.
+And we're already using AI on our Roblox assistant, code assist, and our material and text generation. We also use, of course, AI extensively for safety and discovery throughout the platform. Finally, our keynote from the RDC Roblox Developer Conference last month is available online. And for anyone who would like to see our technical roadmap, I invite you to go check out our RDC keynote.
+With that, I'll hand it over to Mike.
+Mike Guthrie
+--
+Chief Financial Officer
+Thanks, Dave, and good morning, everyone. I just want to make a few quick comments. First, I do think this is the best quarter -- financial quarter in our history, highlighted by fantastic top-line growth. But in addition, I just want to call out the strength of the operating leverage, improvement in margins, and cash generation at the company.
+I really think this quarter, we laid the foundation five quarters ago in Q2 of 2023. That was when we had started to see sustained 20% plus growth on the platform, but we had made significant investments in infrastructure and people in the prior years to, in effect, catch up to the demand that we saw during COVID. We had several conversations with many of you at the time and tried to ensure everyone that we did, in fact, have the ability to manage those costs as we started to see the benefit of those investments. And this quarter really highlights that.
+Five quarters ago, the operating cashflow of the company was 28.4 million. Today, it was 247.4 million. Five quarters ago, free cashflow was negative 95.5 million. Today, it was 218 million.
+So, the business has, in fact, great unit economics. And this year, we have made incredible progress, not just on top-line growth but on driving really significant growth in cash flow. We made further comments in November at our investor day, where there were three things that we highlighted. We would continue to grow the top line at over 20%.
+We would continue to drive operating leverage. And finally, we would turn that operating leverage into free cash. I think this is another quarter where we achieved on all of those things, and we're really pleased to see that. Cash balances, as a result of all that, sit -- now sit at $4 billion.
+We have 3 billion of net cash. Moody's upgraded our senior notes this quarter from Ba2 to Ba1. That matches what S&P did last quarter. We have no need to go into the markets again, but if and when we go back to the credit markets, we want to make sure that, at that moment, we're in investment grade credit.
+So, all in all, an incredibly strong quarter. And now, we want to open it up for questions.
+Questions & Answers:
+Operator
+Thank you. The floor is now open for questions. [Operator instructions] We do request for today's session that you please limit to one question and one follow-up. We'll pause for just a brief moment while we compile the Q&A roster.
+Our first question comes from the line of Tom Champion with Piper Sandler. Your line is now open.
+Thomas Champion
+--
+Analyst
+Hi. Good morning. Congrats on the really nice results. Dave, I'm wondering if you could just talk about some of the new initiatives in learnings in the virtual economy, you know, things like dynamic pricing.
+I think, earlier, there was a blog post about new paid access experiences where developers earn larger payouts. What are your learnings here? And what are the initiatives that you think are really beneficial to Roblox and your developer base? Thank you.
+Dave Baszucki
+--
+Co-Founder and Chief Executive Officer
+Yeah, I'll share one learning we had with price optimization for developers. And we did an experiment with this where we started with an early subset of our creators to do dynamic price optimization for the items in their experience. Something super interesting we found is that, generally, when we -- our optimizer pointed to reducing prices rather than increasing prices to drive overall revenue for individual developers. The second thing our price optimizer is showing is that it is not a zero-sum game.
+We believe that every developer can optimize their prices independently without pulling from one and pushing to the other. The other thing in exploring the efficiency of our infrastructure and trust and safety systems, once again, getting better as they're powered by AI. This has enabled us to launch, we believe we'll be launching in December, paid access experiences, where at 49.99, developers will be earning 70%. So, stay tuned for that.
+Mike Guthrie
+--
+Chief Financial Officer
+And, Tom, I just want to add. If you look at some of our metrics, bookings per daily active user grew year over year by 6%. So, sometimes, these changes in the economy take a while to flow through. Obviously, we're always growing user base quite rapidly as well, but we did see very strong growth in bookings per daily active user at 6%, and bookings per payer grew year over year at 4%.
+So, we're starting to see the benefit of changes in the economy in the monetization, which is the core metric that that team focuses on.
+Thomas Champion
+--
+Analyst
+Thanks, guys.
+Operator
+Your next question comes from the line of Drew Crum with Stifel. Your line is now open.
+Drew Crum
+--
+Analyst
+OK, thanks. Hey, guys. Good morning. Dave, just following up on your preamble concerning the new content moderation tools and adjustments to parental controls, when will these go live? Should we anticipate any step change in investment spend? And do you see these impacting user behavior? And then, Mike, on bookings, the 34% increase in 3Q was well ahead of your longer-term notional model.
+And in your shareholder letter, you highlighted bookings have exceeded 20% in six of the last eight quarters, but it sounds like you're not ready to endorse a higher rate of growth over the longer term. You know, I guess, what's holding you back? And what do you need to see in order to get more comfort with the faster rate of growth? Thanks, guys.
+Dave Baszucki
+--
+Co-Founder and Chief Executive Officer
+Yeah, I'll go first. We don't see a step change because safety is already the top priority and the biggest, really, area in the company where we focus. And we always allocate safety, whatever they need to build our excellent systems. Safety shipping -- safety and civility systems are shipping and improving constantly.
+This is several times a month rather than step changes. And we anticipate several more releases before the end of the year around verifiable parental consent, improvements to our filters, and things like that. So, we don't see a step change. We're constantly improving.
+And you'll see a lot of releases in the next two months.
+Mike Guthrie
+--
+Chief Financial Officer
+And, Drew, on your question, yeah, we're very happy with bookings growth this quarter at 34%. As we mentioned in the letter, the nonconsole business grew at 28%, also fantastic, also well ahead of the guidance in terms of longer-term growth that we laid out, I think, for the first time in last November at investor day. What we're looking for, really, is just more time and consistency, and we just don't want to get out ahead of ourselves. But there are a lot of things in the investor letter that we talk about that we are really excited about, and the dynamics look really strong.
+But for us, it's just a little more time to make sure that we see consistent growth above that target before we change.
+Drew Crum
+--
+Analyst
+OK. Appreciate it. Thanks, guys.
+Mike Guthrie
+--
+Chief Financial Officer
+Thanks.
+Operator
+Your next question comes from the line of Clark Lampen with BTIG. Your line is now open.
+Clark Lampen
+--
+BTIG -- Analyst
+Thanks. Good morning. I wanted to talk about the monetization growth that we saw in the quarter. It was helpful to have the sort of console and nonconsole comps called out in the shareholder letter.
+Did the console impact have -- did that swing or sort of contribute to the 6% number? I know that's not a perfect way of looking at it, but that's the fastest rate of monetization growth that we've seen since the business was basically 70% smaller than the current level during COVID. So, we'd just be curious, I guess, what sort of contributing and how maybe we should think about advertising the other sort of components of this and how maybe monetization, more importantly, is going to factor into sort of 20% plus growth moving forward? Thank you.
+Dave Baszucki
+--
+Co-Founder and Chief Executive Officer
+I'll do the intro, and then Mike will probably have the more detailed thing. Key point to remember is we're always driving several things. We're always trying to increase the number of people on our platform. We're always trying to increase the amount of time they spend.
+And then, we're driving monetization as well. And we track monetization in bookings per hour, which, as you've seen, increase. So, in Q3, we had two things going on, increases in monetization, as well as introduction of PlayStation, which has gotten better over time. So I think both of those are occurring.
+Mike, I don't know if you want to comment on the 6%.
+Mike Guthrie
+--
+Chief Financial Officer
+Hey, Clark. Console does monetize well. It certainly contributed to the monetization improvements. But quite candidly, everything contributed to the monetization improvements this quarter.
+Growth on all platforms, growth in all geographies, growth in all ages, growth in all gender, it was very strong across the board. And console is a relatively small part of the business so it's hard for it to have outside impact on the contribution. Over time, we -- as we look at longer-term growth, we've always believed that we would improve monetization.That is the job of our economy team. They're doing a fantastic job.
+And yet, we continue to grow users, and we continue to grow payers. So, depending on what your metric is, it can move up or down in a given period of time. Whereas a -- as forecasters, we generally forecast inside the company small improvements in monetization because we're really focused on growing the base of users and engagement. But ultimately, we think it will contribute right alongside.
+I don't know that we'll do 6% every single quarter, but we're certainly bullish and optimistic about the ability for the platform to have significantly higher monetization without a reliance on ads and brands. So, just core business, core micro transaction business is primarily what's driving this. Brands and ads will be incremental down the road.
+Clark Lampen
+--
+BTIG -- Analyst
+Thank you.
+Mike Guthrie
+--
+Chief Financial Officer
+Thank you.
+Operator
+Your next question comes from the line of Cory Carpenter with JPMorgan. Your line is now open.
+Cory Carpenter
+--
+Analyst
+Thanks for the question. I wanted to ask more about advertising. I'm just hoping for a broader update on your initiative here following your PubMatic and DoubleVerify partnerships and maybe what the next steps from there are to continue building your offering. And, Mike, as a follow-up for you, just maybe more specifically around 2025, you know, is there any way to think about advertising's contribution to your comments around your preliminary 2025 booking spots? Thank you.
+Dave Baszucki
+--
+Co-Founder and Chief Executive Officer
+Yeah, I'll highlight the three big systems that are on the platform and continuing to improve on the platform. The first is traffic, and there's three mechanisms live for traffic that we continue to see growth in. The first is on our homepage. We've added paid sponsored tiles, along with organic discovery and curated.
+That's complementing our teleport traffic ads. And we have introduced now search advertising as well. And if you go to Roblox and search either for a term or another experience, you can see that creators are now starting to bid against that. So, that is a robust future mechanism for both brands and developers who are launching their experiences to buy traffic.
+The second is video. We're live with video. We're moving to support rewarded video, as well in experience. And that's continuing to do well.
+And then finally, we announced our Shopify partnership that allows developers and brands to sell in game and physically. We're not breaking the numbers out right now in any of these, and I want to highlight the complement the growth and sit on top of the growth of our current economy.
+Mike Guthrie
+--
+Chief Financial Officer
+And, Cory, to your question, on 2025, we didn't give obviously a ton of detail on 2025. We just said we're comfortable that we'll continue to grow at the 20% rate that we put forward at the November 23 investor day. But if you go back to our comments at RDC this year, about 10% -- getting to 10% of the gaming dollars flowing through Roblox, and we're at a very small percentage today, that leads us to believe that just in the core business that we have today, we have a very long way to go. And we should be able to drive organic growth in our more gaming-related business at the kinds of growth rates that we talked about.
+We are, obviously, if you just take the 28% growth in the non-console business this quarter, we're growing at a multiple of the overall gaming business. That means we're taking share. We feel really good about that. And so, what we're talking about in 2025 does not require incremental higher-growth revenue streams to drive the kind of numbers that we're talking about.
+Cory Carpenter
+--
+Analyst
+Great. Thank you.
+Operator
+Your next question comes from the line of Andrew Marok with Raymond James. Your line is now open.
+Andrew Marok
+--
+Analyst
+Hi. Thanks for taking my questions. Wanted to start with one on Live-Ops. Now that you've gotten a few events under your belt, is this cadence we've seen of about one per quarter the right frequency? And as we think about assessing specific events, what kind of variables drive differences between engagement? Is it just a selection of included experiences? Or are there other kind of common factors you've seen stand out?
+Dave Baszucki
+--
+Co-Founder and Chief Executive Officer
+Hey, great question. I believe the frequency may be slightly higher than one per quarter. So, we should check on that. I also want to highlight that we're using our events primarily to highlight the amazing creators on the platform.
+We also, in The Haunt event, use the event to highlight future tech on the platform. So, the event that's live right now is allowing people on our platform to take, really, screen shots or shots of their costume and then vote on them in a hub, all going through our safety and civility systems. So, we are doing both. We have a lot of great ideas for future events to highlight this.
+We're trying to keep the diversity of the types of experiences that we have live. So, the cadence is going to be higher than once per quarter. I think it already has been higher than once per quarter.
+Andrew Marok
+--
+Analyst
+Great. Thank you. And then, maybe following up on that a little bit. In the shareholder letter, you mentioned you're seeing more diversity in terms of the experiences in the top charts.
+So, I know you normally break that out kind of at year-end, but is there any way to provide color now in terms of that trend you're seeing that made it worth highlighting on the shareholder letter? And kind of what does an ideal distribution look like in that respect? Thank you.
+Dave Baszucki
+--
+Co-Founder and Chief Executive Officer
+Yeah. High level, the distribution is slightly wider and slightly flatter. High level, the distribution has a lot of new entrants into the top 25. Highlight, we're seeing, once again, experiences like RIVALS and Dress To Impress rise quickly and participate in engagement.
+And I want to -- so, overall, I think the shape is getting flatter and wider. I think that should naturally happen as we have a wider age range of people on our platform and as we have more people around the world. So, we -- I think there's a really healthy sign. Mike, any reporting on distribution?
+Mike Guthrie
+--
+Chief Financial Officer
+Yes. Just two things I would add to that. One is, recently, we have seen spending more broadly distributed among the top 100. So, there are periods of time where top 1, top 5 may be very concentrated in spend or more concentrated in spend.
+Right now, it's more distributed. It's not necessarily per se the best or the worst thing. There are times when very, very popular experiences update, and we might be more concentrated, but growing very quickly. But ultimately, I really go back to the search and discovery algorithms, more content, finding an audience, there's just a higher likelihood that the spending is more broadly distributed.
+And overall, I think we view that as healthy, especially when, as Dave just mentioned, new experiences are able to move in very, very quickly and get to scale and virality. The second thing that you didn't ask about, but we're going to start talking more and more about is the breadth of genre on the platform. So, we are -- you know, Dave already talked about sports earlier. We are tracking the breadth of genres in that top 100, top 1,000.
+And there are still genres that we're not as strong in. And so, we're really pushing hard to make sure that we're broader there. And we'll talk more about that in subsequent calls, but that's starting, I think, to have a real impact.
+Dave Baszucki
+--
+Co-Founder and Chief Executive Officer
+I want to highlight one thing we're doing as we map our progress toward, what we believe is possible, which is 10% of the gaming software market running on Roblox. And that is, as we map out what that looks like and what the specific genres are that participate in that, sports is an example, it allows us to put focus on the platform and the technology that will support sports experiences on the platform at higher fidelity and higher performance. So, this really rolls back into our platform technology strategy.
+Operator
+Your next question comes from the line of Matthew Cost with Morgan Stanley. Your line is now open.
+Matthew Cost
+--
+Analyst
+Good morning. Thanks for taking the questions. So, I know we've talked a little bit over the course of the year about the impact of console, but it's just showing up so strong in the quarter. So, I want to double-click on the success there.
+So, obviously, Roblox has been available on Xbox for a long time, you know, PlayStation is a more recent development. What is the breakthrough, you know, that you're seeing in terms of behavior on console? You know, what is it that has caused this big change in uptake as you've gone on to PlayStation? And then, are people creating content at the same rates when they're engaging with Roblox on -- or is that still -- excuse me, kind of more left toward other platforms? Then I have one follow-up. Thank you.
+Dave Baszucki
+--
+Co-Founder and Chief Executive Officer
+Yeah, I would say the breakthrough is really more going to the origins of Roblox and the foundation of our strategy, which is that immersive 3D content, once created, can run on any device and any form factors. So, when we launched on PlayStation a year ago, there was already amazing content, content that was being played on Xbox and PCs and phones and tablets. And arguably, there was just a giant market sitting there waiting for that content to become available on PlayStation. I would say there's a secondary effect that over the last year, roughly adding PlayStation and a very, very rough way doubles the number of players playing on console.
+And what that allows is certain classes of experiences that may slightly nudge to console to have double the economic availability for our creators. So, I think it's -- it was initially just being on all platforms and then, second, doubling the roughly size of our console market, enabling creators to make double on console. But I think it highlights content on Roblox. Dress To Impress, for example, is very engaging phone, tablet, computer, and console across all of those devices.
+Mike Guthrie
+--
+Chief Financial Officer
+Yeah, Matt, just -- I'll just add to that. This quarter, Q3, we have the benefit of a very strong Xbox upgrade this time last year. So, it's now flowed through for four quarters. And obviously, in Q3, we have a business this quarter that has PlayStation comparing to a quarter when we didn't have PlayStation.
+So, it's really that simple. So, the growth in those two -- in the console business combined was basically at its peak levels in the third quarter. And so, as we strip out console to make sure the overall business is growing very quickly, we see all the other platforms combined are growing at 28%, which is great. As we go into the fourth quarter, we're generally making assumptions that console won't grow.
+It might, but we're generally making assumptions that it won't. Part of that is a little bit of a halo effect of the launch. But over time, you know, again, Xbox is growing very quickly. And, you know, we believe going into '25, it should grow like all the other platforms are growing.
+So, we'll get through the fourth quarter comparables, and then console will be a part of the business like it's always been a part of the business.
+Matthew Cost
+--
+Analyst
+Great. Thank you. And then, just on the payer conversion, I think, you know, daily payers as a percentage of DAUs went up quite a bit from like 1.2% to 1.3% in the quarter. I mean, you've talked a lot about search and discovery and dynamic pricing floors and all these things, which you're inducing people to spend more money, engage more deeply, find the right experiences.
+I mean, are those drivers that could potentially push payer conversion further up from here? Or, you know, is it more about monetizing people who are already spending money growing the overall audience?
+Dave Baszucki
+--
+Co-Founder and Chief Executive Officer
+I'll share one trend that I want to highlight. Our economy team is generally driven by optimizing enjoyment on the platform and engagement. And we're always -- that's our highest North Star. What we shared -- one trend that you might expect and we saw this with the experiment that we initially did with dynamic pricing and now we've launched it for all creators is the notion that creators can have a better business in many cases by reducing prices rather than by increasing prices.
+And over time, as creators make more money reducing prices. One might look to a trend where more people participate in the economy as a result of that. I'm not saying that contributed to what we saw in the last quarter, but it was the surprising result of our price optimization experiments and what we're going live with.
+Mike Guthrie
+--
+Chief Financial Officer
+Yeah, just a quick add on that. If you look at the overall number of payers in our supplemental materials, it's I think Page 16, we really had fantastic growth, peak payers in the history of the company. So, you're absolutely right, conversion to payer is happening at higher rates. Again, I would credit that largely to the creator community and better search and discovery algorithms, putting better content in front of users, more relevant content is just more likely to have payer conversion.
+And we absolutely expect that there's continued ability to continue to improve that. So, 30% growth in payers year-on-year was partnered with a 4% growth in monetization per payer. So, both should contribute over time, but I don't think any of us believes that we are at peak conversion. Conversion should continue to grow over time.
+It may not be linear. But that really is a function of the platform running better and our creator community building better content. We're bullish on both of those things continuing to happen.
+Matthew Cost
+--
+Analyst
+Great. Thank you.
+Operator
+The next question comes from the line of Brian Pitz with BMO Capital Markets. Your line is now open.
+Brian Pitz
+--
+Analyst
+Thanks for the question. How are you thinking about how big paid access games could be to overall bookings mix over time? Is there a framework that you're kind of thinking about or is it just too early? And then, secondly, I think my kids clearly helped to drive the Dress To Impress engagement. But is there something different that you're doing with that game? As it seems to be a bit more viral and stickier than most. I know you were trying different things with the search algo earlier in the year, but maybe you could just talk to if there are new model emerging for the more viral games.
+Thanks.
+Dave Baszucki
+--
+Co-Founder and Chief Executive Officer
+Yeah, on paid access, behind -- one thing if you look at our financial statements, you can analyze and see that our infrastructure is extremely efficient. I believe we're below $0.01 per hour right now, including cloud simulation, cloud analytics, cloud 3D streaming on 3D immersive gaming, our safety infrastructure, our AI safety infrastructure, and thousands of moderators. As that continues to be hyper-efficient, we're able to, in the case of paid access experiences, as I shared, in certain cases, depending on pricing, move 70% to the creators. This is launching in December.
+We're excited about the opportunity. The overall gaming market space for software, which we estimate at about $180 billion per year. A chunk of that is fixed pricing rather than premium experiences. And so we would not comment on where we think that is going to be in Roblox.
+But one way to look at it is what's the percentage in the overall gaming space that is fixed prices rather than freemium and other forms of monetization like in-game advertising. On Dress To Impress, our -- you know, the way we think about our platform, the way we think about economics and the way we think about acquisition, which is primarily organic, is we need to be creating the conditions for virality. We need to be offering a hyper-performance platform that works around the world that can support different types of content that can allow creators to build significant businesses that can allow them to attract new people. And when those conditions are right, we have more of an opportunity for viral hits.
+In the case of Dress To Impress, a couple of things that are going on there. It's a very spontaneous experience. We've improved launch times on low-end mobile devices. We've improved the frame rate on low-end Android devices specifically.
+One thing to note about Dress To Impress, it's playable in portrait, as well as landscape mode. It's worth thinking about that and shows the trend that a lot of younger people are used to portrait rather than landscape. And it just kind of goes in what we saw a year ago where a couple of other experiences were going viral, like Blox Fruits and Brookhaven. So, as we look to sports, as we look to RPG open-world, Battle Royale, that's really where we're going to be going with those genres as well, creating the conditions for virality in all of the genres that we're targeting in the gaming ecosystem.
+Brian Pitz
+--
+Analyst
+Great. Thanks very much.
+Operator
+The next question comes from the line of Omar Dessouky with Bank of America. Your line is now open.
+Omar Dessouky
+--
+Analyst
+Hi. Thanks so much. I think most of the questions I had have been asked already. So, maybe I'll focus on something a little bit longer term.
+You talked about your foundational AI model with something I think I started calling out two years ago at your investor day. You know, can you maybe give us a little sense of some of your thinking around the revenue model, direct revenue model for that technology and how you could potentially monetize it, you know, other than simply giving it to your developers to create content more efficiently and with greater robustness? Thank you.
+Dave Baszucki
+--
+Co-Founder and Chief Executive Officer
+Hey, Omar. Great question. And we've highlighted a little bit of the vision where in the future, a fashion experience on Roblox rather than creating 3D clothing in a traditional way with scissors and a sewing machine will migrate to text and voice prompts. And ultimately, users on our platform will design clothing by describing it and seeing it magically appear in 3D and then get to wear it and put it on their avatar.
+So, our model for AI is to build our own models, run that inference on our own infrastructure at mega scale, and have that AI available not just in Roblox Studio, but for millions and millions of people at the same time for super low cost. So, the monetization model for all of our foundational models, whether they're 3D, scene generation, texture generation, code gen, even text-as-a-service, are all about increasing the quality, retention, and innovation in the actual 3D experiences themselves. So, we're focused on 3D generation. We expect to be seeing that next year.
+And this will be something that creators can incorporate in their experiences, hopefully for free. We'll see. But hopefully, because it's going to be so efficient and run on our own platform, we're going to see new types of gameplay, and we're going to see AI integrated into many Roblox experiences.
+Omar Dessouky
+--
+Analyst
+Appreciate it, Dave. Thank you.
+Operator
+We have time for one more question from the line of Jason Bazinet with Citigroup. Your line is now open.
+Jason Bazinet
+--
+Analyst
+This may be a hard question to answer, but you guys did so well in the quarter. If you had to just take a gander at how much of that was the handful of enhancements that you made to the platform as opposed to things that are going on in the developer world where, yes, you create tools, but there's really sort of a breakout hit or something like that, how would you parse out the outsized growth that we saw in the quarter?
+Dave Baszucki
+--
+Co-Founder and Chief Executive Officer
+I would just say yes, yes, yes, yes. Hey, one way to think about Roblox, we got a plot of land. What we're doing is the quality of the soil, the quality of the weather, the quality of the sun, the quality of all of that creates a fertile platform for creators to express their intent and build amazing things and build great economics. So, both of those happen in synergy.
+It's when we talk about our aspirations for 10% of the gaming software market running on Roblox, that defines how we, as Roblox, build those conditions so amazing creation can take off. So, it's both.
+Jason Bazinet
+--
+Analyst
+Thank you very much.
+Stefanie Notaney
+--
+Director, Financial Communications
+Thank you all for joining us today. I will hand it over to Amy to close out the call.
+Operator
+Thank you. That does conclude today's conference call. Thank you for your participation. [Operator signoff]
+Duration: 0 minutes

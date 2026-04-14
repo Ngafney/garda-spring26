@@ -1,0 +1,197 @@
+[
+  {
+    "speaker": "Unknown",
+    "role": "",
+    "text": "Full Conference Call Transcript Stephen will begin with business updates, including strategic highlights and a detailed segment report. After that, Yifan will review the financial results and provide guidance for March. Finally, we will have a Q&A session. The earnings release was distributed over the wire today, 02/05/2026, after the market closed. The release is also posted on the company's website. Our earnings release and this presentation include non-GAAP financial measures. We use non-GAAP measures because we believe they provide useful information about our operating performance that should be considered by investors in conjunction with the GAAP measures. A reconciliation of these non-GAAP measures to comparable GAAP measures is included in the earnings release. We remind you that during this conference call, we will make certain forward-looking statements, including discussions of the business outlook and financial projections. These forward-looking statements are based on management's current expectations and involve risks and uncertainties that could cause our actual results to differ materially. For a more detailed description of these risks and uncertainties, please refer to our recent and subsequent filings with the SEC. We assume no obligations to update the information provided in today's call. Now I'll turn the call over to our CEO, Stephen Chang. Stephen?"
+  },
+  {
+    "speaker": "Stephen Chang",
+    "role": "",
+    "text": "Thank you, Steven. Welcome to Alpha and Omega fiscal 2026 Q2 earnings call. I will begin with a high-level overview of our results and then jump into segment details. We delivered fiscal Q2 revenue results slightly higher than the midpoint of our guidance, primarily reflecting seasonality across several end markets, including PCs, wearables, tablets, and gaming. Inventory digestion in AI further impacted by shifts in GPU allocation to prioritize data centers over graphic card markets. Strength from our tier-one US smartphone customer and sequential growth in e-mobility power tools, and home appliances. Overall, total December revenue was $162,300,000, down 6.3% year over year and down 11.1% sequentially. Non-GAAP gross margin was 22.2%. Non-GAAP EPS was a loss of 16¢ per share. In addition, we repurchased approximately $13,900,000 of AOS shares during December, representing 728,000 shares as part of our recently announced $30,000,000 share repurchase program approved by the board. Following these purchases, approximately $16,000,000 remains available. This balanced approach to capital allocation reflects the board and management's confidence in our strategy and execution while maintaining the financial strength needed to invest for long-term growth and deliver shareholder value. Several years ago, we launched a deliberate strategy to transform AOS from a component supplier into a provider of application-specific total solutions. From the start, our focus has been on higher performance markets where system-level differentiation matters. Barriers to entry are higher, and we can meaningfully expand BOM content. We believe this strategy is working. We have seen tangible results in AI and graphics in smartphones through a mix shift towards premium platforms and higher charging terms. And more recently, this momentum has extended into our high-performance medium voltage MOSFETs used in applications such as hot swap and intermediate bus converters for AI data centers. Just as important, this focus helps offset competitive pressure at the lower end of the market and reinforces our confidence in the direction we are taking. We have remained disciplined in how we execute this strategy, making targeted long-term investments rather than reacting to short-term noise. As applications continue to evolve towards higher performance and greater system complexity, we believe the right response is to accelerate investment in the technologies, products, and engineering resources required to win. Consequently, we are increasing critical R&D investments. These are not broad-based investments. They are highly focused where we hold clear differentiation, strong customer engagement, and a clear roadmap to higher BOM content and sustainable margins. To support this strategy, we strategically optimized our balance sheet. As part of a planned capital allocation approach, we monetized a portion of our equity interest in the Chongqing joint venture, retaining a meaningful ongoing stake. As previously announced, we sold approximately 20% of our equity interest in the joint venture for an aggregate purchase price of $150,000,000 payable in installments, and we continue to hold an 18.9% equity interest in the joint venture. We received $94,000,000 in September followed by an additional $11,000,000 in December and subsequent to the quarter end, received $30,000,000. There is an additional $15,000,000 remaining that will be received later this calendar year. This financial strength allows us to invest decisively and strategically in technology development, manufacturing capability, and engineering talent as we continue to shift the business towards higher value, higher margin opportunities. We are already realizing the impact of our strategy on revenue. For example, while overall PC unit demand in calendar 2026 is expected to be constrained by tightening memory supply, our total solution strategy is gaining traction and we are seeing increased BOM content on new platforms such as Intel's Camberlake. In communication, we are witnessing the fruits of our earlier investment in silicon and packaging technology, in smartphone battery protection. Our technology differentiation coupled with the industry move towards higher charging currents enabled us to secure increased BOM content and deepen our relationship with top-tier customers. Factors that are expected to contribute to our growth in 2026. In advanced computing, including AI data centers, server, and graphics, we are encouraged by an expansion in demand across a broader array of AI data center applications and a broader set of customers. We are seeing near-term demand for high-performance medium voltage solutions used in applications such as hot swap and intermediate bus converters for leading ODMs for major hyperscale customers. Advanced computing is becoming a core growing element within the computing segment. The key takeaway is that we are continuing to see the benefits of our structural transformation. We will see tangible results this calendar year, and we expect more meaningful acceleration in 2027 and beyond as new platforms and programs ramp. With that, let me now cover our segment results and provide some guidance by segment for the next quarter. Starting with computing. December revenue was up 5.9% year over year, and down 17.1% sequentially and represented 49.6% of total revenue. The sequential revenue decline was in line with our expectations. Within computing, we saw softness following an unusually strong September that benefited from tariff-related PC pull-ins as well as earlier AI and graph shipments. Seasonality also affected sales of tablets. As we mentioned before, during September, AI and graphics customers entered a digestion phase that extended into December, which was further influenced by increasing prioritization of production by our customers towards GPUs for AI data center over traditional graphics card platforms. Looking ahead to calendar 2026, visibility into the PC market remains limited driven primarily by uncertainty around memory shortages. While memory availability may impact end PC demand, center investment continues to provide an important offset. As mentioned before, we are shipping our high-performance medium voltage MOSFET products into infrastructure programs, including hot swap power solutions and are now moving into the build phase asset leading ODM, for major hyperscale customers. We are also expanding our presence in AI platforms through medium voltage solution supporting 48 volts to 12 volts intermediate bus conversion. Looking ahead to March, we expect computing segment revenue to decline in the low single digits sequentially. This reflects softness in the PC market mostly offset by strength in AI data center applications as well as growth in graphics cards and tablets. Importantly, we have clear visibility into demand for our new VDN voltage MOSFET across an expanding list of applications and customer base that includes power supply providers, module makers, cloud service providers, and major hyperscalers. Turning to the consumer segment. December revenue was down 14.9% year over year and down 18.3% sequentially and represented 11.8% of total revenue. The results were in line with our original expectations for a high teen sequential decline. While wearables experienced a normal seasonal decline, the overall year-over-year revenue decrease in consumer was primarily driven by gaming. With a smaller impact also from home appliances. In wearables, we continue to see underlying momentum supported by share gains, new customer engagement, higher BOM content, and a broader mix of end applications. In gaming, we remain closely aligned with our key customer as they progress through their next product cycle for our existing relationship and strength in high-performance power solutions positions us to participate in the next generation platform. Home appliance demand was modestly lower year over year though new design activity in 2025 supports longer-term opportunities. Particularly in emerging markets. For March, we forecast mid-single-digit sequential growth in the consumer segment, primarily driven by a recovery in gaming after a sharp inventory correction in December. Next, let's discuss the communication segment. December revenue increased 1.1% sequentially and was flat year over year, represented 20.4% of total revenue. The results were supported by strong year-over-year growth from our tier-one US smartphone customer, driven by continued expansion of BOM content. While demand from China smartphone customers remains uneven as we prioritize US customers, we are sustaining high market share in the premium phone segment. We see additional growth coming in calendar 2026. As new models launch with higher charging currents, and our investments in differentiated silicon and packaging technologies for battery protection further enable BOM content expansion. Looking ahead to March, the communication segment will likely decline mid-single digits sequentially. This is due to typical seasonality from our tier-one US smartphone customer, partially offset by sequential growth from China smartphone. Korea is expected to remain relatively flat. Now let's talk about our last segment, power supply and industrial. Which accounted for 16.7% of total revenue and was down 22.5% year over year and down 3% sequentially. Overall, the results were below our expectations for mid to high single-digit sequential growth as quick charger demand came in weaker than expected. But were partially offset by a rebound in power tools and e-mobility. Looking ahead to March, we expect power supply revenue to increase mid-single digits sequentially driven primarily by quick chargers and DC fans. Offset by softer power tools and e-mobility. In closing, we are guiding March to be down slightly sequentially. We expect March to mark a near-term low point for revenue and margin. With the business returning to growth beginning in June and into the peak season. Supported by improving mix and a more favorable contribution from higher value applications. Consistent with the strategy we have outlined, we are accelerating targeted investments in performance-driven applications where we have strong positions. Clear differentiation, and expanding customer engagement. While calendar 2026 may reflect modest growth, as markets work through near-term constraints, our application-specific total solution strategy is yielding results. And we are already seeing a positive impact. Today. As we continue to move higher value programs towards production, we expect these benefits to become increasingly visible through the course of calendar 2026 which we expect to support stronger growth as we move into 2027 and beyond. With that, I will now turn the call over to Yifan for a discussion of our fiscal second quarter financial results and our outlook for the next quarter. Yifan?"
+  },
+  {
+    "speaker": "Yifan Liang",
+    "role": "",
+    "text": "Thank you, Steven. Afternoon, everyone, and thank you for joining us. Revenue for December was $162,300,000 down 11.1% sequentially and down 6.3% year over year. In terms of product mix, DMOS revenue was $101,000,000, down 6.9% sequentially and down 10.6% over last year. ROIC revenue was $58,800,000, down 19.1% from the prior quarter and up 9.5% from a year ago. Assembly service and other revenue was $2,500,000, as compared to $1,300,000 last quarter and $1,100,000 for the same quarter last year. Non-GAAP gross margin was 22.2%, compared to 24.1% last quarter and 24.2% a year ago. The quarter-over-quarter decrease was mainly impacted by higher input and operation costs. Non-GAAP operating expenses were $41,300,000, compared to $41,400,000 for the prior quarter. And $39,000,000 last year. Non-GAAP quarterly EPS was a 16¢ loss compared to $0.13 earnings per share last quarter, and $0.09 per share a year ago. Moving on to cash flow. Operating cash flow was negative $8,100,000 including $4,000,000 of repayment of customer deposits, and $8,700,000 income tax paid by one of our entities on the gain from the sale of CQ JV equity interest. By comparison, operating cash flow was positive with $10,200,000 in the prior quarter, and positive $14,100,000 last year. We expect to refund $1,000,000 of customer deposits in the quarter. EBITDAS excluding equity method investment loss was $9,700,000 for the quarter. Compared to $19,400,000 last quarter and $16,800,000 for the same quarter a year ago. Now let me turn to our balance sheet. We completed December with a cash balance of $196,300,000 compared to $223,500,000 at the end of last quarter. Net trade receivables decreased by $8,100,000 sequentially. Day sales outstanding were twenty-five days for the quarter. Compared to twenty-one days for the prior quarter. Net inventory increased by $3,900,000 quarter over quarter. Average days in inventory were one hundred and forty days for the quarter. Compared to one hundred and twenty-four days for the prior quarter. CapEx for the quarter was $15,000,000 compared to $9,800,000 for the prior quarter. We expect CapEx for March to range from $15,000,000 to $18,000,000. With that, now I would like to discuss March guidance. We expect that revenue to be approximately $160,000,000 plus or minus $10,000,000. Yep. Gross margin to be 20.2% plus or minus 1%. We anticipate the non-GAAP gross margin to be 21% plus or minus 1%. GAAP operating expenses to be $52,000,000 plus or minus $1,000,000. Non-GAAP operating expenses are expected to be $45,000,000 plus or minus $1,000,000. The sequential growth in the operating expenses is mostly the result of increased spending for R&D. Interest income to be $1,000,000 higher than interest expense, and income tax expense to be in the range of $1,100,000 to $1,300,000. With that, we will now open the call for questions. Operator? Please start the Q&A session."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Of course. We will now begin the question and answer session. If you would like to ask a question, please press star followed by one on your telephone keypad. If for any reason you'd like to remove that question, please press star followed by two. Again, to ask a question, press star one. As a reminder, if you are using a speakerphone, please remember to pick up your handset before asking a question. Our first question comes from the line of David Williams with Benchmark. David, your line is now open."
+  },
+  {
+    "speaker": "David Williams",
+    "role": "",
+    "text": "Hey, good afternoon, everyone, and thanks for taking my question. I guess maybe first, Stephen, you talked a lot about the strategy and that's really starting to show here. But I wanted to first maybe about the AI opportunities and on the GPU track. In those design wins. Can you maybe talk about how that tracking? Is it to your expectations? I know there's been some push and pull between the segments there, but just kind of curious how you're seeing your how that AI opportunity is tracking and what your expectations are."
+  },
+  {
+    "speaker": "Stephen Chang",
+    "role": "",
+    "text": "Hi, David. Yes. Good to hear from you. Yes. The AI opportunity that we've been pushing for it is less than what our original expectations were for regarding creating selling solutions for going into the VRM powering the GPUs directly. However, actually, we've been talking about, in this earnings as well as in the previous season is that our AI opportunity is actually expanding. The breadth of our offerings into this AI opportunity is going beyond even just the, you know, the total solutions that we're offering for the VRM solutions. We are excited to see that we can already start to address the medium voltage MOSFETs that are being used in the power conversion that happened even before that stage. And that's and then we can see that already in our results for this quarter already, which is encouraging for us."
+  },
+  {
+    "speaker": "David Williams",
+    "role": "",
+    "text": "Thanks. Certainly appreciate that. And then maybe from the OpEx perspective, when should we think that kind of normalizes? Is this a good base rate to kind of consider going forward? Or are there some expenses maybe in this next quarter that won't flow into the following quarters?"
+  },
+  {
+    "speaker": "Yifan Liang",
+    "role": "",
+    "text": "Well, sure, Dave. Yes. For the March quarter, we guided about $4,000,000 up in, you know, in operating expenses compared to December. Three out of that $4,000,000 increase for the R&D. So, yes, and, like, Steven said that we are increasing, you know, our investment in R&D. Some critical areas. This year. So those new products are focused on where we have strong foothold in that and strong customer engagement and then and where we have a big potential. So we're going to double down and step up the R&D investment. So you know, our divestiture of the CQ JV equity share, then you know, that provides the some means for us. So we'll we plan to spend around, like, $20,000,000 or so in you know, from this proceeds on some new R&D projects this calendar year. So not translate to about 25% R&D expense. Increase. This calendar year. So March reflect in the a little bit lower. So gradually, you know, in the June, September, it will interrupt. So on an annual basis, we expect them about 25%. Increase compared to prior calendar year."
+  },
+  {
+    "speaker": "David Williams",
+    "role": "",
+    "text": "Okay. Great. Thank you. And then just one last bit, if I can sneak it in here. Just on the capacity side, just kind of given the balance sheet, are there areas within maybe your existing footprint that you could add capacity? Or areas that you might be able to do something there in terms of helping maybe on the gross margin front or, any other just maybe uses of that cash as we look forward? Thank you."
+  },
+  {
+    "speaker": "Yifan Liang",
+    "role": "",
+    "text": "Yes. And, I mean, that if you noticed that our CapEx investment in December was about $5,000,000 higher than the prior quarter, and"
+  },
+  {
+    "speaker": "Yifan Liang",
+    "role": "",
+    "text": "inched up compared to December. So the so we are investing in CapEx to prepare for the for the calendar year 2026 and, you know, growth, you know, some new products and new products and started rolling out. So we are building up some capacity right now."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Thank you for your questions, David. Thank you. Oh, apologies, David. Give me one moment. Let me open your line back up."
+  },
+  {
+    "speaker": "Stephen Chang",
+    "role": "",
+    "text": "There you go, David. Sorry about that. That's all for me. Yeah. No problem. That was all for Sorry."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Alright. Our next question comes from the line of Tore Svanberg with Stifel. Your line is now open."
+  },
+  {
+    "speaker": "Stephen Chang",
+    "role": "",
+    "text": "Hey. This is Solomon Wang on for Tore Svanberg. Thanks for taking my question. Looking ahead to the March revenue guide implies a pretty healthy top line momentum, gross margin comes in a little bit lower than what we're expecting. Could you share a little additional color regarding what's causing that, and where do you kinda see gross margin longer term as you try to reach that 30% target?"
+  },
+  {
+    "speaker": "Yifan Liang",
+    "role": "",
+    "text": "Sure. Yes. March guidance is about 10.2% lower than the December margin. It's mainly reflecting the you know, the lower"
+  },
+  {
+    "speaker": "Yifan Liang",
+    "role": "",
+    "text": "Utilization in March, especially during the you know, lunar New Year time frame. So, typically, you know, each year, those still that's the time know, some operators, and they will go back to their hometowns we also reduce our production. So money impacted by the utilization. So I would expect that, you know, for June, we expect to see the margins rebound and, you know, would expect to probably back up to the December 2025 or September 2025 in the quarter. The margin level. So somewhere that neighborhood. So and then going forward, yes, you know, our midterm target model is a still $1,000,000,000 in revenue and 30% non-GAAP gross margin and then 20% all packs. And so that's still our midterm target model. So from where we are now, then, know, back up to the 30% gross margin level, yes, We expect, you know, those new products and to contribute to this. To the margin growth and then better product mix and that's and then some normal pricing environment, and that would also help. So that's the way we see we can get back to the 30% gross margin level."
+  },
+  {
+    "speaker": "Stephen Chang",
+    "role": "",
+    "text": "Great. Very helpful. Thank you. And kinda following up, on R&D. And so as you're utilizing the proceeds from twenty team's JV stake monetization to help accelerate and fund the R&D. Could you share a little bit more regarding your what specific programs the increased R&D is going to? And what revenue scale does this increased R&D really begin to offer some operating leverage? And yeah. Yeah. Let me let me take a stab at that first. So as we described in our in our prepared remarks, yes, you know, our investments is not gonna be in, you know, in all different"
+  },
+  {
+    "speaker": "Steven Pelayo",
+    "role": "",
+    "text": "directions. It's in very focused areas."
+  },
+  {
+    "speaker": "Stephen Chang",
+    "role": "",
+    "text": "We want to invest in the areas that we have strength, that we have competitive leverage, and we want those areas to be even stronger. And we chose those areas because we've already seen success in those areas, whether it's in PCs with, total solutions for that, and then expanding that, to AI applications going into graphics and AI. And now and expanding the breadth of that to go not only covering the ICs, but also the high-performance MOSFETs. So we're you know, in the AI space, this is pretty exciting for us because it's the expansion of the product breadth. But on top of that, it's also the expansion of the customer base. So not only are we going out after the top AI guy, but we're also going that whole ecosystem. And our solutions can also be used and are actually already being sold into servers, other data center servers going to cloud service providers. It increases that customer base for us, to, you know, go after a bigger TAM. With the expansion of our products. Of course, you know, we still we are still seeing the expansion of our smartphone battery business this is because the underlying trend there is moving towards higher charging currents And with that, they basically, the solutions have to physically be bigger. They have to handle quite a bit more current, and this requires a lot of technology both in silicon as well as in packaging to in order to meet the space constraints as well as the performance constraints. Business for us means and the impact on our business is that the BOM content will increase as well as the margins for those areas. So all three of those areas, you know, we are already seeing results now. We'll see more results even on later in this calendar year. But the bigger impact from the additional R&D investment will come in 2027. Thank you so much. That's very helpful."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Thank you for your questions. There are currently no questions registered So as a reminder, it is star one to ask a question. Our next question comes from the line of Craig Ellis with B. Riley Securities. Your line is now open."
+  },
+  {
+    "speaker": "Stephen Chang",
+    "role": "",
+    "text": "Thanks for taking the question, guys. I wanted to"
+  },
+  {
+    "speaker": "Steven Pelayo",
+    "role": "",
+    "text": "go further on what's been topical on the call, which is the"
+  },
+  {
+    "speaker": "Stephen Chang",
+    "role": "",
+    "text": "investment in advanced compute product. The first one guys, I appreciate the clarification"
+  },
+  {
+    "speaker": "Craig Ellis",
+    "role": "",
+    "text": "that 25% year on year in calendar '26. I was hoping to ask kind of a higher level theoretical question or maybe a business strategy question Steven. As you as you look at investing in new opportunities, what are the gating factors that determine where you will invest and what would be too far away from your low voltage and mid voltage core competencies so that we have a better understanding of where the targets set on a range of things you might be looking at."
+  },
+  {
+    "speaker": "Yifan Liang",
+    "role": "",
+    "text": "Kim, are you still on boarding?"
+  },
+  {
+    "speaker": "Stephen Chang",
+    "role": "",
+    "text": "I'm sorry. I didn't hear my question. So let me let me ask that question. You know, I heard the question. I just thought I was on mute. I was talking about it. I'm sorry. So regarding the our investment into AI, is it started with our total solutions for PCs. And with those total solution controller, paired together with the driver MOS, that's what helped us to get into the graphics space as well as going into now the various AI platforms. Our investments there will continue, and we are going you know, when we would mention both total solutions for PCs as well as going after AI applications, that's still you know, that is still a core target of ours. And it fits in very well with our technology strengths. You know? With our ability to create these drivers, controllers, well as the best that are used inside these power stages. But that said, you know, we're also expanding. We're going after that medium voltage power conversion, in that 48 volt to 12 volt space. Where, you know, we can use our solutions now. We don't have to wait for future platforms And this is because, you know, we are going after not only, our onboard solutions, but also going after the ecosystem partners, even going after solutions that go into, into a cloud service provider too. This is, has, you know, broader reach beyond, just the specific AI application. This is why it's exciting for us to see the impact even now in a little bit in the December, but more so in the March. Even you know, we don't have to wait till for 2027 to see some of those results. This will be one of the key growth drivers that see in this calendar year. But, you know, regarding kinda the bigger direction, yes, we're gonna go after e and then tackle more of the sockets in going into the AI applications. We look forward, to the 800 volt solutions, we are preparing solutions for wide band gap to go the high voltage aspect of that. There's other off also other solutions other products that we're developing to cover that space, including medium voltage. And we're also looking at various IC sockets as well too."
+  },
+  {
+    "speaker": "Craig Ellis",
+    "role": "",
+    "text": "Thanks, Steven. If I could ask a follow-up that relates to that. Understand what you're seeing in terms of revenue return on the investment, how big is advanced compute as a percent of the compute segment now? What do you think it would be a year from now as you start to get more benefit from all of the investment since you said it'd be pretty quick if we look down the road eight quarters, to '28, '28 how big would the business be by then? How much return are we gonna see you know, two years from now on this 25% R&D increase for we're we're making."
+  },
+  {
+    "speaker": "Stephen Chang",
+    "role": "",
+    "text": "Sure. And at least for the portion of know, R&D will be invested in three core areas. One, of course, is this AI opportunity. The second is the PC total solutions, which is a close cousin for AI. And then also for our smartphones, going after the high-performance battery protection, there's also a lot of opportunity there. But with regards specifically to the proportion of AI graphics related, that port that portion of computing in the past you know, has been has hit somewhere, like, 20 to 25% of computing in some of the quarters of this of the calendar 2025. So going forward, actually, we see much more potential So we see opportunity not only for the CRM solutions, directly powering the GPUs, But, also, again, the SAM going into the medium voltage is a new area that we didn't start to really have meaningful revenue until recently, and this is an area that we believe can have some quicker returns even in this calendar year. So, you know, I can't give a hard number, but, you know, I certainly can see it going to 50%. In fact, it could be higher than that. Depending of depending on how successful, how quickly we can penetrate all the opportunities here."
+  },
+  {
+    "speaker": "Craig Ellis",
+    "role": "",
+    "text": "Got it. Thanks for that color. And then one over to you, Yifan. We've Been Hearing From Companies In The Equipment Space That Their Readings On Southeast Asia China foundry utilization are now in the 80 to 90% range, which should be a range that starts to support less severe pricing. I know pricing's been at normalized level, the last quarter or so, but you see an environment where pricing starts to help your ability to move gross margins up from I think, that 21% guidance level in the current quarter where is pricing and how much of a headwind or tailwind to what you see going through this year? Thank you."
+  },
+  {
+    "speaker": "Yifan Liang",
+    "role": "",
+    "text": "Okay. Sure. December pricing was I would say, was in line with historical trend. And a little bit better than the September. So put in that way, March, was factored in normal historical trends in the price erosion and at this point. So, yeah, we are closely monitored in the market, see what"
+  },
+  {
+    "speaker": "Yifan Liang",
+    "role": "",
+    "text": "Going to go, and then and then I will adjust the ourselves accordingly. So the based on the business, customers, the products, like, you know, all those factors. So see. Yeah. Definitely. But company, you know, better pricing. Environment."
+  },
+  {
+    "speaker": "Craig Ellis",
+    "role": "",
+    "text": "That's real helpful. And if I could just ask one more, bouncing it back to Steven. Steven, the commentary in the press release, and I think within the script, on expectations for PC growth and smartphone growth this year. Helped my content gain. So good for you guys for getting even more of that because that's been part of the story for a long time. The question is, lead time stretched out enough that you've really got long term visibility or what gives you the confidence to make a comment that goes all the way through the end of calendar year '26. Thanks, guys."
+  },
+  {
+    "speaker": "Stephen Chang",
+    "role": "",
+    "text": "Yeah. For us, you know, we do see that the impact of the memory shortage and memory supply that will be a headwind for those markets. But we also believe that, you know, we are increasing bot content and in PC side, again, you know, our total solutions still have a lot of room to grow in terms of penetrating, the market. You know, we've been selling, our discrete, MOSFET, discrete, separate individual driver mosses. But, you know, we are looking forward to having a bigger adoption of our total solutions include including our controller solutions onto more platforms. So that can help there. Of course, yeah, we have to deal with the our customers have to contend with the memory supply. But that, you know, I feel confident at least in our ability to penetrate further with our total solution strategy. And on the smartphone side, you know, we do see that especially on in the big US customer that the move towards higher charging currents is going to be more widely adopted. And this is helping to support the quick charging features on these big smart batteries. And, you know, we are in a good position there with a leading technology as well as a strong share."
+  },
+  {
+    "speaker": "Craig Ellis",
+    "role": "",
+    "text": "That's great. Good luck with that. Thanks, Steven."
+  },
+  {
+    "speaker": "Stephen Chang",
+    "role": "",
+    "text": "Thank you. Thank you for your questions."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "There are currently no questions registered, so I'd like to pass the call back over to Steven for any closing remarks."
+  },
+  {
+    "speaker": "Steven Pelayo",
+    "role": "",
+    "text": "Okay. It's Steven Pelayo here. Before, we conclude, I wanna highlight a few upcoming investor events. Management team is gonna be participating in. So first of we have the fifteenth Annual Technology Conference on February 26 in New York City. And we have the Loop Capital Seventh Annual Investor Conference on March 9. This is virtual. And with the Jefferies Semi's IT hardware and Comtech Summit, on August 26 in Chicago. If you wish to request a meeting, please contact the institutional sales representatives at sponsoring banks. This concludes our earnings call today. Thank you for your interest in AOS. And we look forward to speaking with you again next quarter."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "That concludes today's call. Thank you for your participation. Have a wonderful rest of your day."
+  }
+]

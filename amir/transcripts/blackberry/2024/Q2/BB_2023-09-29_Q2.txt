@@ -1,0 +1,245 @@
+Operator
+Good afternoon, and welcome to the BlackBerry second quarter fiscal year 2024 results conference call. My name is Rocco, and I will be your conference moderator for today's call. During the presentation, all participants will be in a listen-only mode. We will be facilitating a brief question-and-answer session toward the end of the conference.
+[Operator instructions] As a reminder, this conference is being recorded for replay purposes. I would now like to turn today's call over to Tim Foote, vice president of BlackBerry investor relations. Please go ahead.
+Tim Foote
+--
+Vice President, Investor Relations
+Thank you, Rocco. Good afternoon, and welcome to BlackBerry's second quarter 2024 earnings conference call. With me on the call today are executive chair and chief executive officer, John Chen; and chief financial officer, Steve Rai. After I read our cautionary note regarding forward-looking statements, John will provide a business update, and Steve will review the financial results.
+We will then open the call for a brief Q&A session. This call is available to the general public via call-in numbers and via webcast in the investor information section at blackberry.com. A replay will also be available on the blackberry.com website. Some of the statements we'll be making today constitute forward-looking statements and are made pursuant to the Safe Harbor provisions of applicable U.S.
+and Canadian securities laws. We'll indicate forward-looking statements by using words such as expect, will, should, model, intend, believe, and similar expressions. Forward-looking statements are based on estimates and assumptions made by the company in light of its experience and its perception of historical trends, current conditions, and expected future developments, as well as other factors that the company believes are relevant. Many factors could cause the company's actual results or performance to differ materially from those expressed or implied by the forward-looking statements.
+These factors include the risk factors that are discussed in the company's annual filings and MD&A. You should not place undue reliance on the company's forward-looking statements. Any forward-looking statements are made only as of today, and the company has no intention and undertakes no obligation to update or revise any of them except as required by law. As is customary, during the call, John and Steve will reference non-GAAP numbers in their summary of our quarterly results.
+For reconciliation between our GAAP and non-GAAP numbers, please see the earnings press release published earlier today, which is available on the EDGAR, SEDAR, and blackberry.com websites. And with that, I'll turn the call over to John.
+John Chen
+--
+Executive Chairman and Chief Executive Officer
+Thanks, Tim. Good afternoon, everyone, and thank you for joining us today. Let me start with the IoT business unit. Revenue for the quarter increased 9% sequentially to 49 million, and gross margin increased by 400 basis points to 84%.
+The most important long-term leading indicator of the health of this business is securing new design wins and building royalty backlog and we have -- and that we had another strong quarter. In fact, by the end of the first half we have secured more than two thirds of our FY '24 annual target for new backlog and expect to exceed it. In the quarter, QNX secured 20 new design wins in auto and seven in general embedded market verticals. The largest of these was an eight-figure estimated lifetime revenue ADAS win.
+We're one of the top five global automakers to deploy our QNX OS for Safety. This win illustrates a strong secular trend of consolidation of software into centralized compute domains with this ADAS module, powering drive monitoring, surround view, lane-keep assist, adaptive cruise control, and other safety features, all on a single chip. As automotive software stacks becomes more complex and requires significantly higher compute power, it plays to the QNX strength. In addition to our strong win rate for ADAS, we are also the clear market leader for foundational software in the digital cockpit.
+The combination of our high-performance safety critical RTOS and hypervisors allows for mixed criticality in this domain. Given our market-leading positions, our design wins continue to be well diversified across all major global markets. In Asia, we secured a design win with LG Electronics that include our hypervisor and will be deployed in a number of vehicle models for the top 10 global automakers. We also secured wins with Visteon and leading OEM [Inaudible] among others.
+In Europe, our digital cockpit win also included acoustic middleware, and this is an exciting -- this is exciting because feedback from customers suggests that this relatively new market opportunity for software-defined acoustic is likely to be fast growing. As well as our strong footprint in auto, QNX is well diversified in other verticals, particularly medical and industrial. Building on our position in surgical robotics, this quarter, we secured a design win for our QNX medical OS for Safety to be deploy in robotic arms for dentistry. These design wins confirm that QNX business is strongly positioned for the long term.
+With revenue for Q2 being largely in line with expectation, we continue to expect IoT to deliver solid year-over-year growth this fiscal year. That said, we are taking a prudent view on our IoT revenue outlook for the next two quarters. Automakers are currently addressing a number of significant challenges including the industry's strike action, the transition to software-defined vehicles, as well as the electrifications pivot, and supply chain challenges. Delay to either pre-production software development programs or to production schedule could impact our revenue this fiscal year.
+However, we expect these to be relatively short-term timing issue. As a result, we revised and broadened our IoT revenue outlook range to 225 million to 240 million. This represent a 9% to 17% year-over -year growth. This means that we still expect to have a strong second half of the fiscal year.
+We expect further sequential growth into Q3, and we currently expect Q4 to be the strongest quarter for revenue in QNX history. This confidence is based on a combination of the pipeline of potential new design wins, our service schedule, and royalty expected from the backlog. Turning now to products, at our analyst day in May, we announced the upcoming launch of our new generation QNX real-time operating system, QNX 8.0, targeted for December. This release will make a fundamental shift in market performance, and we expect it to further cement QNX's leadership position in automotive and beyond.
+Feedback from the beta trial has been very positive with customer and partners impressed with performance, scalability, and functionality. Perhaps, some of these will convert into revenue in Q4. This significant enhancement of performance and scalability comes at a time when chipmakers are focused on developing hardware to power generative AI. We believe that our QNX 8.0 software is uniquely positioned to maximize the potential of gen AI in embedded systems, particularly in safety critical use cases.
+QNX 8 will combine best-of-breed performance with the ability to run mission-critical process safely and securely alongside gen AI stack on the same chip. Now, moving on to IVY, we were delighted to announce that IVY was selected by Tier 1 supplier, Mitsubishi Electric, to power its new FLEXConnect.X In-cabin Systems. IVY edge technology and the high-quality real-time insight that it provides will help enhance road safety and enable new in-vehicle experience. In addition, we have solid traction with new IVY proof of concept trials.
+Currently, we are progressing POC with a number of major OEMs, including a top 10 global automaker and also a leading vehicle -- commercial vehicle OEM, Scania. The strong level of interest for IVY POC clearly confirms our strategy. On the product front, this month, we released an updated version with significant enhancement to cloud features and increased hardware and software support. IVY's development have moved from the early heavy-lifting phase, and the focus is now on refinements, enhancing stability, expanding sensor support, and improving the developer experience.
+The IVY ecosystem continued to expand and mature. We now have over 40 partners currently building on IVY, and there are more than 23 integrated solutions that are being used by customers in POC trial and at industry events. This month, the IVY Innovation Fund biggest latest investment this time in CorrActions, an exciting Israeli start-up. CorrActions has developed an AI power application that will leverage the IVY platform's sensor insight to detect potential driver awareness issues.
+Their AI model analyze micro muscles movement, such as through steering wheel sensor data to understand brain activity, and we are pleased to add them to the ecosystems. Moving now to cyber business unit. Revenue for the quarter was 79 million, and total contract value billings was 74 million. Gross margin was 54%.
+ARR came in at 279 million. The dollar-based net retention rate was stable at 81%. Revenue this quarter was lower than expectation due to deal slippage. BlackBerry, along with many others in the cybersecurity space, is experiencing elongated deal cycles due to required multiple rounds of review and scrutiny.
+And while this isn't impacting win rates, it's having a real impact on the timing of when the deal close. This is especially true in government where BlackBerry has a very strong presence. In particular, a small number of large mainly perpetual deals, which never had a significant portion of in-quarter revenue slipped to later quarters. While this material impact Q2 reported revenue, we remain confident with how these deals are progressing and expect them to close this fiscal year.
+Further, we have a well-defined pipeline of significant deals that are progressing well. These deals are primarily in the government vertical, where BlackBerry is well known and trusted, and we have strong customer relationship. Due to the overall confidence in the strong improvement in revenue in the second half compared to the first, we are reiterating the full year cyber revenue outlook for the current fiscal year. Because large government deals like these are both complex and binary, we'll, of course, update you on the progress made in closing them during the next earnings call.
+Let me now highlight some of the deals closed during the quarter. In government, we secured new deals with the U.S. Department of Justice, the Department of State, Department of Energy, and Department of Education. Also, the Internal Revenue Services, the Canadian Revenue Agency, the U.S.
+National Nuclear Security Administration, Customs and Border Patrol Protection, and the Ministry of Justice in Quebec. Outside of North America, we secured business with the Bank of Italy, Netherlands Shared Service Center-ICT, as well as the Federal Court of Australia, the Australian Federal Police, and the Directorate General of Forces Intelligence in Bangladesh. In fact, we see a good pipeline of opportunities developing in Asia Pacific currently. In addition to government customers, we secure wins with leading banks, including Morgan Stanley and Santander, as well as with leading technology firms, LG, Philips, and Toshiba, just to name a few.
+Moving now to product, Cylance is the pioneer in the use of AI in cybersecurity, with AI at the very core of its suite of products, long before it became today's buzzwords. Our battle-hardened AI model has been trained for many years, continually learning to distinguish threats from nonthreats by referencing trillions of data points. Last month, we released a major update to this model, which has been rolled out to our customers providing an increased level of protection. The model has driven even stronger threat prevention rates than before and further reduced false positive.
+This release is part of the investment we made in our product portfolio, and this enhancement are being well received by our customers. This is validated by Cylance endpoint, our AI-driven prevention, detection, and response solution, being placed in the top right-hand quadrant for the Gartner peer insight customers' choice. This positioning is based on feedback from real customers reflecting their experience of our product and us as a company. This pairs nicely with the same recognition received by BlackBerry in February where it was the only endpoint management solution identify as a customer choice.
+Let me now hand the call over to Steve, who will provide more color on our financial.
+Steve Rai
+--
+Chief Financial Officer
+Thank you, John. As usual, my comments on our financial performance for the second quarter will be in non-GAAP terms, unless otherwise noted. Total company revenue for the quarter was 132 million, IoT revenue was 49 million, cybersecurity revenue was 79 million, and licensing revenue was 4 million. Software product revenue as a percentage of total revenue remained in the range of 85% to 90% with professional services making up the balance.
+The percentage of software product revenue that was recurring remained at approximately 90%. Total company gross margin was 65%. Operating expenses for the second quarter were 114 million, lower sequentially in part due to one-time costs associated with the patent sale in Q1 that did not recur, and the release of some IP-related accruals in Q2. Non-GAAP operating expenses exclude a 6 million fair value gain on the convertible debentures, 10 million in amortization of acquired intangibles, 10 million in stock-based compensation expense, 3 million in restructuring expenses, and 1 million in impairment of long-lived assets.
+The non-GAAP operating loss was 28 million, and non-GAAP net loss for the second quarter was 23 million. The $0.04 non-GAAP basic loss per share for the quarter beat expectations. Adjusted EBITDA, excluding the non-GAAP adjustments previously mentioned, was negative 22 million. BlackBerry remains laser-focused on maximizing efficiency and expanding margins, and we remain on course for both positive operating cash flow and non-GAAP EPS in the fourth quarter and for the fiscal year as a whole.
+Total cash, cash equivalents, and investments decreased by 59 million to 519 million as of August 31, 2023. Net cash used by operations this quarter was 56 million. The current debentures matured in November, and we intend to fully repay them. With respect to raising any new debt, the outcome of Project Imperium will obviously have a significant bearing on future needs.
+Accordingly, we are developing clear, executable plans for a number of potential scenarios that could arise. That concludes my comments, and I'll turn it call back to John.
+John Chen
+--
+Executive Chairman and Chief Executive Officer
+Thank you, Steve. Before we open the line for Q&A, let me quickly summarize the key messages. While this quarter saw some volatility in reported revenue due to slip deal, we remain confident in the pipeline of opportunities for our cyber business. We expect this to translate into a much-stronger second half.
+And subject to successfully closing a number of our larger government opportunities, we expect to finish within our reiterated full year revenue range for cyber. We also remain very confident and excited about the fundamentals of our IoT business and, like cyber, expect a stronger second half, albeit we are talking -- we're taking a prudent view given delay in the start of some development programs, as well as the auto industry labor actions. Let me also provide you an update regarding Project Imperium. The board and its advisors are very actively engaged in the process and recognize that it is in everyone's interest that it will be completed as soon as possible.
+All stakeholders should rest assured that we will provide an update as soon as we possibly can. That concludes my brief prepared remarks. We will now take your questions. Operator, could you please open the line for Q&A?
+Questions & Answers:
+Operator
+[Operator instructions] And ladies and gentlemen, our first question today comes from Mike Walkley with Canaccord Genuity. Please go ahead.
+John Chen
+--
+Executive Chairman and Chief Executive Officer
+Hey, Mike.
+Mike Walkley
+--
+Canaccord Genuity -- Analyst
+Hey, John. Thank you for taking my question. The first one is just really on the cyber security business. Can you provide a little more granularity on which parts of the cybersecurity are driving these big perpetual government contracts that you expect to close? Is it mainly Secusmart, or is it kind of evenly spread across the portfolio?
+John Chen
+--
+Executive Chairman and Chief Executive Officer
+Mainly Secusmart. Also, UEM, the Spark platform. So, those two.
+Mike Walkley
+--
+Canaccord Genuity -- Analyst
+All right, thank you. And then, I guess my follow-up question, just any update on how Cylance is trending in the market? You have some good technology there, but some larger companies such as CrowdStrike and others are moving more into the SMB market. Can you maybe talk about how Cylance is faring in the marketplace?
+John Chen
+--
+Executive Chairman and Chief Executive Officer
+Yeah, we do actually reasonably well. The numbers are obviously smaller than the competitors. But we do reasonably well in the win rates on SMB. We actually have a pretty good quarter in new logo.
+And it will continue. You know, I said it many times, you know, our products are now up to class. Took us a while. We are working very hard with channel partners to swing them our way.
+And so, once we have more achievement there, we will have more leverage. But clearly, the product could win and GUARD is a good solution.
+Mike Walkley
+--
+Canaccord Genuity -- Analyst
+That's helpful. Thanks for taking my two questions. I'll pass the line.
+John Chen
+--
+Executive Chairman and Chief Executive Officer
+Sure. Thank you.
+Operator
+Thank you. And our next question today comes from Luke Junk with Baird. Please go ahead.
+Luke Junk
+--
+Robert W. Baird and Company -- Analyst
+Good afternoon. Thanks for taking the questions. John, for starters, last few quarters here, customer software delays have been a theme that we've seen repeat a few times. Just be great to get your perspective on how widespread this issue within your customer base is right now.
+And most importantly, what the affected customers are telling you needs to get done to get back on track. You mentioned in the script that you have confidence this will be a relatively short-term timing issue. Could you just expand on the reasons why you believe that to be the case? Thank you.
+John Chen
+--
+Executive Chairman and Chief Executive Officer
+Right, OK, well, that's a good question. So, the company that are looking at their software-defined vehicle effort and to push out some in the delay, the -- either the start of the design, so starting into the production, are the really big companies. And some of them are very visible. They announced, you know, reorg.
+That actually -- the outcome favors the software-defined vehicles strategy. Toyota had announced reorg. VW has announced reorg. And I -- you know, I mean -- and a number of others that we have not announced reorg, and then pardon me for not being able to repeat that because that's customer proprietary information.
+So, they will not be happy with me. So, you could get that sense. However, everybody has kind of tell us, it's like a -- you know, not in a precision way, but it's kind of like a one-year move, four-quarter move. And frankly speaking, we are in the third or fourth quarter already.
+So, this is one of the reasons why the team has some really strong pipeline that they believe in for Q4. And as I want to repeat this, we expect Q4 the best quarter in revenue for QNX ever.
+Luke Junk
+--
+Robert W. Baird and Company -- Analyst
+OK, great. Thank you for that, John. And then, for my follow-up, staying within IoT, going back to the analyst day earlier this year, one of the things that you mentioned strategically was looking to continue to engage more directly with OEMs. Is it Tier 1 and accelerating your OEM account coverage? I'm just wondering, to what extent the current delays you're seeing impact your appetite for those sorts of investments in IoT that are outward facing and just how to reconcile that with the overall desire to expand margins in the business.
+Thank you.
+John Chen
+--
+Executive Chairman and Chief Executive Officer
+We have -- you know, because we believe our fundamentals so strong and because we believe our new product 8.0 scalability is so good, we are not slowing down any of our appetite at all. We are steadfast moving forward. IoT is hiring people. So, we don't worry about us kind of taking our foot off the gas pedal.
+That's not going to happen.
+Luke Junk
+--
+Robert W. Baird and Company -- Analyst
+Understood. Thank you.
+John Chen
+--
+Executive Chairman and Chief Executive Officer
+Yeah.
+Operator
+And our question today comes from Trip Chowdhry with Global Equities Research. Please go ahead.
+John Chen
+--
+Executive Chairman and Chief Executive Officer
+Hi, Trip.
+Trip Chowdhry
+--
+Global Equities Research -- Analyst
+Thank you very much. Hello, John. The auto industry seems to be super, you know, exciting with QNX and now at least -- like companies like NXP, they term something like you talked IoT as Edge 2, where they put a lot of AI and they call tinyML, that powers these devices. I was wondering -- like QNX definitely with the low footprint and real-time operating system is ideal.
+But I was also wondering, have you come across some new sensors, the categories that may have been created because of AI in the edge and these neural network processors like NXP that they make -- the industry is trying to -- industry structure is changing. That's my basic question is, tinyML, Edge 2, QNX and some new use cases that may be evolving. So, I was wondering if you have any thoughts on that.
+John Chen
+--
+Executive Chairman and Chief Executive Officer
+Yeah, it's a good point. I think there's still -- what you're explaining is I read it, it's still early in the industry. And I also want to emphasize the fact that we are an embedded operating system, you know, real-time secure operating systems. And so, we tend to go into the MPU type, the central complex -- computing complex.
+So, the edge of this, which will be driven with different new use cases, some of them are AI-based and all that, but that's a level higher than us. So, and of course, we will be benefiting from it from needing more central compute power. So, I guess we are -- we do benefit from it. We don't directly go create a selling motion into the edge.
+And that edge selling motion and use cases are created by the code that is on the stack that is one level above us.
+Trip Chowdhry
+--
+Global Equities Research -- Analyst
+Excellent and --
+John Chen
+--
+Executive Chairman and Chief Executive Officer
+Yup. Make sense?
+Trip Chowdhry
+--
+Global Equities Research -- Analyst
+Yes, I got it. The second question is regarding IVY. Phenomenal traction on the developer side. Apps, I don't know probably we are about six or eight months away from it.
+But I was wondering, have you come across any new categories of apps that may be coming on top of IVY? And that's all for me. Thank you very much.
+John Chen
+--
+Executive Chairman and Chief Executive Officer
+Well, the AI and sensing -- oh, actually interesting, to tie back to your first question, you know, the different type of sensors that's being demanded in a car, you know, we have seen different types and more increased and more complex. And like one of the example when I talk about CorrActions was they monitor the sensors on the steering wheel. And then, through that, they monitor and they help define the micro muscles of the individual. So -- and then, dictate or indicate, you know, what the status is of the driver, so on a alertness basis and awareness basis.
+So, this is a little bit more esoteric than just, you know, measure whether the -- you know, how much gas you have in the tank, or how much charging amps that you still have before you need to do the next charge? So, we have seen more and more modern type applications. But I still believe, for the initial usage of IV, it's going to be very fundamentally managing the safety and the comfort of the car.
+Trip Chowdhry
+--
+Global Equities Research -- Analyst
+Got it. Thank you so much.
+John Chen
+--
+Executive Chairman and Chief Executive Officer
+Thank you, Trip.
+Operator
+And our next question today comes from Paul Treiber with RBC Capital Markets. Please go ahead.
+John Chen
+--
+Executive Chairman and Chief Executive Officer
+Hi, Paul.
+Paul Treiber
+--
+RBC Capital Markets -- Analyst
+Hi, John. Good afternoon.
+John Chen
+--
+Executive Chairman and Chief Executive Officer
+Good afternoon.
+Paul Treiber
+--
+RBC Capital Markets -- Analyst
+Just in regards to your comments about Q4 being the best quarter for IoT, how do we think about momentum beyond Q4? Do you expect it to be carried through to the subsequent year, or is it more just a one-quarter phenomenon?
+John Chen
+--
+Executive Chairman and Chief Executive Officer
+No. So, that's a good question. I don't believe we're going to have a Q1 FY '25 bigger than Q4. That's what you're asking.
+But I do believe that we have -- we're still following the 20% growth on year over year where we presented to you all in the May time -- in the May meeting. So, you do expect us to have double-digit growth and pushing to a 20% growth year over year. And by then, I hope that these so-called software-defined vehicle efforts delay and hopefully, you know, everybody seems to have a reasonable handle on supply chain despite of the political situation between U.S., China, Western world, and so forth. And so, that's gradually getting under control.
+The electrification is on everybody's -- is in their product stacks, so to speak. Although, to us, it's really hoping that that drive more volume of car, not so much as electric versus gas. We have a difference there. And so, if that is removed, then we will start seeing design wins that will turn into developer seats and kind of professional services engagement and then ultimately turn into royalty backlog -- royalty.
+So, fundamentally, we see nothing concerning at all. We see this as a purely timing issues, and we see it, you know, starting to get better in Q4. Unless there's some other industry events like the UAW strike that last longer, then we -- that's a little bit out of our control. And but even though UAW strikes, it's not going to last.
+As you probably know this very well, it's not going to last in perpetuity and because both sides got hurt. So, I think they will resolve it. I certainly hope they will, and then we'll get back on track.
+Paul Treiber
+--
+RBC Capital Markets -- Analyst
+OK, and then, my second question, I don't know how much you can answer it, but I'll throw it out there. Just in regards to Project Imperium, you know, I know you can't give specifics, but have you or the board reached a point where you've narrowed down to a few high-level paths? And can you sort of share the high level paths?
+John Chen
+--
+Executive Chairman and Chief Executive Officer
+Yes. I can't comment on it, but the answer is yes.
+Paul Treiber
+--
+RBC Capital Markets -- Analyst
+OK, thanks for taking the questions.
+John Chen
+--
+Executive Chairman and Chief Executive Officer
+Sure.
+Operator
+And our next question today comes from Daniel Chan with TD Cowen. Please go ahead.
+Daniel Chan
+--
+TD Cowen -- Analyst
+Hey, John.
+John Chen
+--
+Executive Chairman and Chief Executive Officer
+Hey.
+Daniel Chan
+--
+TD Cowen -- Analyst
+You expected the strategic review to conclude by the end of summer and your contract with BlackBerry is quickly approaching. Would it be possible that this review goes past November, or should we expect something in the next month or so?
+John Chen
+--
+Executive Chairman and Chief Executive Officer
+I think there is better than 50-50 chance you should expect something sooner.
+Daniel Chan
+--
+TD Cowen -- Analyst
+OK, That's helpful. And then, maybe another question on the timing. To what extent do you think the uncertainty from the strategic review is having an impact on the near-term financial performance, whether it be from staff productivity or even customers waiting for a conclusion?
+John Chen
+--
+Executive Chairman and Chief Executive Officer
+No, actually, I mean, really seriously, I check this a lot because that's an obvious concern. And from a customer point of view, no, I don't see -- there might be one or two conversation I had, but it was like -- kind of like, "Oh, by the way," when I talked to the customer, they said, "Oh, by the way, what's going on there?" You know, that kind of thing and -- or somebody asked me, as part of the long conversation and then all of a sudden, they said, "Oh, should I be concerned about this?" I said, "Nope, nope. You have nothing to be concerned about." We stand behind everything we do and build and deliver and -- so not much really coming from -- and the sales force hasn't gotten back to me about this being a roadblock of sorts. But having said that, the longer it lingers on, the worse it's going to get and, you know, even though it is not a big worse.
+So, I have no intention -- because of being an operator, I got employees, partners, customers, shareholders to worry about. So, we're not going to let this thing -- it might take a long time, multiple steps, but there will be some decision made.
+Daniel Chan
+--
+TD Cowen -- Analyst
+That's helpful. Thanks, John.
+John Chen
+--
+Executive Chairman and Chief Executive Officer
+Sure.
+Operator
+Thank you. I would like to turn the call back over to John Chen, executive chair and CEO of BlackBerry, for closing remarks.
+John Chen
+--
+Executive Chairman and Chief Executive Officer
+OK, thank you. Thank you, operator. Before we end today's call, I'd like to remind every one of a upcoming BlackBerry summit on October 17th at the Conrad Hotel in New York Downtown. The event anchored around the theme of trust has been expanded this year to include IoT, and we have a strong line of keynotes, as well as product demos and breakout sessions.
+You can register to attend at blackberry.com/summit. Stay tuned for more announcement around the event. I thank everybody again for joining the call. I look forward to speaking with you very soon.
+Thank you.
+Operator
+And thank you, sir. This concludes today's call. [Operator signoff]
+Duration: 0 minutes

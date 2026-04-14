@@ -1,0 +1,218 @@
+Mike Bishop
+--
+Investor Relations
+Hello, everyone, and welcome to Atomera's third-quarter fiscal year 2024 update call. I'd like to remind everyone that this call and webinar are being recorded, and a replay will be available on Atomera's IR website for one year. I'm Mike Bishop with the company's Investor Relations. As in prior quarters, we are using Zoom, and we will follow a similar presentation format with participants in a listen-only mode.
+We will open with prepared remarks from Scott Bibaud, Atomera's president and CEO; and Frank Laurencio, Atomera's CFO. Then we will open the call to questions. If you are joining by telephone, you may follow a slide presentation to accompany our remarks on the Events and Presentations section of our Investor Relations page on our website. Before we begin, I'd like to remind everyone that during today's call, we will make forward-looking statements.
+These forward-looking statements, whether in prepared remarks or during the Q&A session, are subject to inherent risks and uncertainties. These risks and uncertainties are detailed in the Risk Factors section of our filings with the Securities and Exchange Commission, specifically the company's Annual Report on Form 10-K filed with the SEC on February 15, 2024. Except as otherwise required by federal securities laws, Atomera disclaims any obligation to update or make revisions to such forward-looking statements contained herein or elsewhere to reflect changes in expectations with regards to those events, conditions, and circumstances. Also, please note that during this call we will be discussing non-GAAP financial measures as defined by SEC Regulation G.
+Reconciliations of these non-GAAP financial measures to the most directly comparable GAAP measures are included in today's press release, which is posted on our website. Now, I would like to turn the call over to our president and CEO, Scott Bibaud. Go ahead, Scott.
+Scott A. Bibaud
+--
+President and Chief Executive Officer
+Good afternoon, and thanks for joining today's call. The last three months for Atomera have been the busiest and most positive in my memory. I do feel that right now our team is firing on all cylinders in our development efforts, customer activity, partnerships, and technology advancement. Today, I'll provide a comprehensive picture of the company with as much information on customer progress as I can by detailing our different technology segments and where our primary customers are making significant progress toward JDAs and/or license agreements.
+First, let's go over the opportunity for MST and power chips. The power semiconductor market is a large and rapidly growing segment, driven by the power demands of large compute infrastructure and vehicle electrification. In 2024, this market is expected to be over $52 billion, and innovations to drive efficiency, power, and cost savings are being widely pursued. Of course, our most visible opportunity in this segment is with ST and the development of their next-generation smart power products incorporating MST.
+Atomera has been supporting ST in the development of their new process for over a year now, and I recognize that investors would like more insight into exactly where we are in the transition for production. There are two main areas in which Atomera has been supporting ST. The first is on MSTcad simulations to optimize silicon performance through integration of MST. This work has been underway for over a year and the correlation between modeling and hardware has been confirmed with real silicon multiple times.
+The number of silicon validation runs required will depend on how quickly ST achieves their design objectives. Second area in which we are cooperating with ST is manufacturability by enhancing throughput of MST deposition on ST's factory production tools. I want to emphasize that this project is in great shape. Indeed, ST has authorized me to say that development is going well and that we are still on track to go to production as soon as development and qual are complete.
+At that time, we expect royalties that will be compelling high gross margin revenue for Atomera. As with prior statements, I cannot comment on timing or schedule except to say that it is entirely under ST's control. ST is not the only company we've been working with in this segment. Atomera's MST-SPX technology is applicable to voltage ranges from seven to 48 volts, meaning it's interesting to many different players for a variety of applications.
+Since this is typically a legacy technology with relatively few knobs that will bring big performance improvements. When we demonstrate that MST can help them gain 20%-plus, there's usually strong customer interest. We are currently in discussions with multiple customers on proposals to either license the technology outright or to enter into a JDA that will ultimately lead to production. One part of this market is particularly hot right now and provides a compelling opportunity for Atomera.
+Traditionally, server racks and data centers have been fed by a 12-volt power supply, but that standard is currently changing to 48 volts. Accelerating AI-driven power demands have created a need for higher power efficiency of those data centers. And 48 volts can reduce power dissipation by a factor of up to 16 times, which has led to a chip war to deliver the best devices. In the last quarter, Atomera has finalized a 48-volt version of our SPX technology with dramatic performance improvements specifically to address this segment.
+Introductions to new customers are just starting, but we are optimistic about its potential due to the further efficiency improvements it can bring to data centers. Next, we have the advanced node work for gate-all-around transistors at the leading edge, which represents about $150 billion market in 2023. Manufacturing technology at these advanced line widths has shifted from a primary focus on lithography to more extensive use of materials engineering solutions and in particular epi. As device architecture shifts from FinFET to gate-all-around, the number of epi steps incorporated into the process flow is projected to more than triple.
+This trend makes it significantly easier to add MST to the primary epi steps to deliver improved device performance. As epitaxy becomes a more critical component of device architecture, it opens the door to our MST technology being more easily slotted into the production flow, since the MST insertion cost to an existing epi step is incremental compared to introducing MST as a stand-alone step. In addition to MST being easier to add, advanced node production is an area where we believe our technology can provide significant benefits. Our ability to block dopants, particularly phosphorus in this application, can provide a critical tool for the formation of advanced source-drain structures, as detailed in Robert Mears's presentation at the recent ECS PRiME Conference.
+With the incredibly tight channel lengths in today's newest transistors, obtaining high production yields has become one of the central challenges, and we believe MST can help to solve this problem, which will have a direct impact on the number and cost of GPUs that can be manufactured to meet the demands of the AI market. Our new head of business development has a deep background here, and we believe he will lead us to compelling market growth in this segment. Today we are working with multiple customers in the advanced node area. The memory segment, valued at over $110 billion in 2023, has many characteristics in common with the advanced node segment, except because it is a commodity market, it's hyper-focused on low production costs.
+Similar to gate-all-around, they are in a relentless drive to meet smaller node sizes, but in this case, they can benefit even more for material advances to meet yield or cost targets. Again, similar to advanced logic platforms, the memory platforms are beginning to introduce epitaxy into the device structure, turning to materials engineering to drive performance. Just as with gate-all-around, the introduction of epi into the memory flows, MST becomes an incremental cost adder to the epi steps while delivering substantial device performance and cost benefits. We are excited about the potential for our technology in this space because we believe it provides real performance, die size, and margin improvement potential for our customers, even after paying us a royalty.
+And the opportunity here is huge at approximately 20% of the entire semiconductor industry, with very high volumes and long technology cycles. Again, we are working with multiple customers in this area. Finally, RF-SOI is another segment with excellent potential for our technology where we provide a performance advantage we don't believe is possible to achieve without MST. We continue to work with customers representing the majority of the supply of devices built on RF-SOI substrates.
+In each of these segments, we've made proposals to customers which we are optimistic will convert into JDAs or license agreements in the near future. Indeed, we are in active negotiations today on an agreement that we believe will be transformative for the company, and we are hopeful that we will be able to announce it within the next few months. Recently, we announced an agreement with the Center for Integrated Nanotechnologies at Sandia National Labs to further our efforts on silicon technology. Earlier work with Texas State University has shown that MST can reduce stresses induced during the manufacture of GaN on silicon substrates, which can improve the crystal quality, as proven through physical tests like those shown on this slide.
+Now, we will take the developments a step further with fabrication of GaN devices to validate that the physical improvements convert into electrical benefits. GaN on silicon will be the high-volume, low-cost substrate of the future for GaN devices, and if this technology works as expected, MST will be valuable to anyone who manufactures with it. A lot of R&D is going into GaN on silicon, and announcements periodically come out about manufacturers bringing larger wafer sizes to production. Make no mistake, though.
+Those wafers are experiencing stress that lead to lower yields and higher defects, which MST may help to alleviate. The rapidly growing GaN market is particularly interesting to us because we believe the technology can be converted to revenue faster than our traditional business, and we hope the work with Sandia will help speed up our time to market. Customer engagement has intensified dramatically in the last quarter. We are engaged with a lot of very large customers, and I sense that the need for our technology is stronger than ever.
+So, let me cut to the chase and give a quick update on prior deals. JDA 1 has recently requested additional data from us to validate MST's effectiveness in a specific application, and we are already planning wafer runs to demonstrate how MST can address their requirements. Discussions with JDA 2 about a companywide license spanning multiple technologies and nodes is ongoing, although this negotiation is moving more slowly than we would like. Our fabless licensee has wafers coming out imminently.
+And if those results are strong, we believe it will lead to a production transition program with both them and their foundry partner. Beyond these engagements, we have proposals outstanding with several others in addition to the large transformative customer we are negotiating with today. Right now, without exaggeration, I believe the Atomera team is more excited about our prospects than I've ever seen. The ST engagement, which is an enormous business with a long projected life, is moving nicely toward production, which ST has confirmed.
+Our potential in the outlined segments is even larger, and I feel we are very close to announcing deals which will cement that position. The work we're doing in gate-all-around and memory is tied directly to the biggest driver of the semiconductor industry today, the rollout of AI infrastructure. And our GaN work is not only aligned with a major industry push, but we also believe it can be executed with faster time to revenue than our other segments. So, today is an exciting time to be at Atomera.
+And if we can execute on the opportunities in front of us, we will need to grow to support all the anticipated business. Now, Frank will review our financials.
+Francis B. Laurencio
+--
+Chief Financial Officer
+Thank you, Scott. At the close of the market today, we issued a press release announcing our results for the third quarter of 2024. And this slide shows our summary financials. Our GAAP net loss for the three months ended September 30, 2024, was $4.6 million, or $0.17 per share, compared to a net loss of $5 million, or $0.20 a share, in the third quarter of 2023.
+In Q2 of this year, our GAAP net loss was $4.4 million, which was $0.16 per share. Revenues were $22,000 in Q3, compared to $72,000 in Q2 of this year and zero in Q3 of 2023. GAAP operating expenses were $4.8 million in Q3 2024, which was a decrease of approximately $534,000 from $5.4 million of opex in Q3 of 2023, mainly due to a $546,000 decline in R&D expenses and $117,000 decline in sales and marketing expense. This was offset in part by $129,000 increase in G&A expenses.
+The decline in R&D expense was mainly due to the closure of our outsourced foundry, TSI Semiconductor, in the first quarter of this year. Sales and marketing declined year over year primarily due to lower head count. Sequentially, our GAAP operating expenses increased by $191,000 to $4.8 million in Q3 compared to $4.6 million in Q2 of this year, reflecting an increase of $170,000 in R&D expense and a $41,000 increase in sales and marketing, while G&A decreased slightly. Non-GAAP net loss in Q3 2024 was $3.9 million and compares to a loss of $4.3 million in Q3 2023.
+And as with our GAAP results, the smaller loss was primarily due to R&D and sales and marketing expenses being lower. Sequentially, non-GAAP net loss increased by $251,000 from Q2 of 2024 due to the increase in operating expenses combined with lower revenue. The differences between GAAP and non-GAAP operating expenses in all the periods we've presented are primarily due to noncash stock compensation expenses, which were approximately $900,000 in Q3 of this year and $1 million in each of Q2 2024 and in Q3 of 2023. Our balance of cash, cash equivalents, and short-term investments on September 30, 2024, was $17.3 million compared to $18.3 million at the end of Q2 2024.
+During the most recent quarter, we used $2.9 million of cash in operating activities, compared to $3.2 million in the first quarter of this year. During Q3, we sold approximately 691,000 shares under our ATM facility at an average price per share of $3.18, resulting in net proceeds of approximately $2.1 million. As of September 30, 2024, we had 28.3 million shares outstanding. Revenue in Q3 was $22,000 and consisted of MSTcad license revenue.
+And we expect that our Q4 revenue will be approximately the same as in Q3. We're not providing revenue guidance beyond this quarter, consistent with our normal practice. The next major revenue milestone under our agreement with ST will occur when they complete the qualification process, which, as Scott said in his remarks, is proprietary information and the timeline is in ST's control. Moving to our expense guidance, during the first nine months of this year, we incurred total non-GAAP operating expenses of $11.5 million, which has us on track for a range of $15.75 million to $16.00 million of opex for the full year, below the guidance we provided last quarter.
+We're in our 2025 planning process now, but I can tell you we expect to make additional investments in sales and marketing, and we continue to explore the most effective ways of utilizing outsourced foundry services. So, our non-GAAP opex in 2025 will be higher than this year, likely in the range of $16 million to $17 million. We'll provide more color on this in our next quarterly update call. Lastly, I want to give a quick update on our efforts for CHIPS Act funding.
+This topic is especially timely since I'm joining today's call from Washington, D.C., where I'm attending the Annual Meeting of the Microelectronics Commons and the Symposium of the National Semiconductor Technology Centers, or NSTC. In July, we submitted a funding proposal related to our work on GaN and other compound semiconductors, but no decisions have been made on that yet. We expect that the next phase of the RFP will be announced in late Q4 or Q1. Everything I'm hearing at the conference confirms there are many applications and funding opportunities for Atomera under the CHIPS Act, and our technology is compelling to various government departments.
+With that, I will turn the call back over to Scott for a few summary remarks before we open the call up for questions. Scott?
+Scott A. Bibaud
+--
+President and Chief Executive Officer
+Thanks a lot, Frank. From today's call, I hope you have a sense of the building momentum that we're feeling. Right now is a very exciting time to be part of the Atomera story. Our technology is being sought out by some of the biggest players in the industry.
+It's perfectly aligned with several industry trends and should form a very strong growth engine on top of the revenue base that we hope to build with ST as our foundation. Thanks, as always, for your support. And Mike, we will now take questions.
+Mike Bishop
+--
+Investor Relations
+All right. Thank you, Scott. If you wish to ask a question, please click the Q&A button at the bottom of the Zoom window, then feel free to type in your question. I will do my best to aggregate the incoming queries and relay them to management.
+Alternatively, you could click the Raise Hand button, and we may call on you to ask your question live. And right now, our first question comes from Richard Shannon of Craig-Hallum. Richard, if you would kindly unmute, you may begin.
+Richard Shannon
+--
+Analyst
+OK. Great. Thank you, Mike, and thanks, Scott and Frank, for taking my questions. Let's see here.
+I guess my first one is for Scott here. You made very interesting statements in your prepared remarks about in-active conversations, and I've probably got the language wrong here, but a transformative situation. Maybe you could just give us a little bit more detail on exactly what this means. Any idea on technology area? Sounds like it could be a number of months before it closes.
+Sounds complex, but maybe give us a little bit more detail there. I'll probably have a follow-up.
+Scott A. Bibaud
+--
+President and Chief Executive Officer
+Yeah. So, what I mean by transformative, I guess I would say this is a large customer with very significant revenue potential that could really, if we get into production with these guys, will provide a really interesting financial position for us. Just if you look at our business model and the potential for high gross margin revenue, if we can work with a company that is very large and could deliver high revenue, then that will certainly be very, very compelling for us. We feel great about business there, and we've been working with them for some time.
+As we've said in the past, we don't give proposals to companies unless we've been working together for quite a while, and we have a meeting of the mind that it makes sense. This is one of those proposals that we've had outstanding before, and now we've gotten into active negotiations. I can't really say much about the segment they're in, or the timing. But I can say that it's something we're quite excited about.
+Richard Shannon
+--
+Analyst
+OK. I'm going to ponder those thoughts and maybe follow up here in a second. I think a bigger question by which this potentially transformative situation bleeds into, and I think it's among the very first questions that people ask here is you've got a very good funnel with half of the top 20 largest semiconductor companies in the world in the funnel. But I think everyone would like to see you get across the finish line with a qualification.
+We obviously have ST Micro announced here and seemingly moving in an expected timeframe toward completion there. Maybe if you can talk about to the degree to which you're seeing progress with others that are far down that funnel, and maybe if you want to give any detail as to technology area or areas you think could be among the first ones that get to that point.
+Scott A. Bibaud
+--
+President and Chief Executive Officer
+OK. Let me do my best here. So, when we talk about the funnel, today we primarily have customers in Phase 1, Phase 3, and Phase 4. The ones in Phase 4, obviously, they have the technology installed in their fab, and they've run wafers and are making good progress in those segments.
+The customers in Phase 3 are the ones where we're in active experiments with many of them at any point in time. And we're always hopeful that they get to the point where they achieve the performance level that they need to make the decision to move forward into production. I would say one thing we've been noticing lately is that some of the legacy technologies that we work with, they take a bit longer to get to production. They take longer to decide to change their process node.
+And then once they're ready to make that change, they go through a very long process of doing that. I would say ST is one that falls into this category. We believe that some of the more advanced node customers that we've been talking about, like, in gate-all-around and memory, will move faster, but they'll require huge amounts of resources. We know that in those companies, they have massive teams of engineers working on these new nodes.
+And when we're working with them, they ask us for a lot of data, and they're constantly pushing us to do more and more experiments for them and with them. But we do believe -- because there's so many people on their side and there's such a big push to get to production that there'll be faster time to market. So, that gives you a little bit of insight into the work that we have going with the many different customers that we have underway right now.
+Richard Shannon
+--
+Analyst
+OK. A couple of interesting insights there, Scott. Appreciate that. Maybe let's touch on a couple of the technology areas here.
+I guess I want to follow up on RF-SOI. I think in the last quarter or two you talked about an advancement in the industry with going toward thinner wafers, and that seems to have been --at least my conclusion would be that was one of the significant delay factors when we've been hearing about RF-SOI potential for a number of years now. Maybe give us an update there of how much that has pushed the ball forward here in terms of moving people toward that eventual goal here, or are there other potential obstacles to overcome in that technology space?
+Scott A. Bibaud
+--
+President and Chief Executive Officer
+No, I just think this is a case where the latest and greatest --as we've talked about, the latest thing that the industry has identified to take them to the next level of performance is to use these thinner wafers. Earlier in the year, we announced an agreement with Soitec to the point where they would make and sell engineering wafers to our customers so they could run more tests to bring that type of technology to market. And we've been just working with that on our customers that are working in this area. And unfortunately, no announcements yet there, but I would say we're continuing to move forward, making good progress, and getting regular results that hopefully will lead us to the point we're ready to start making some announcements.
+Richard Shannon
+--
+Analyst
+OK. Two last questions for me, and I will jump out of the line here. Let's see here. Sounds like there's some interesting progress going on the advanced nodes here.
+And I think the comment that you made was referring to both the logic and the memory side here. But maybe --and I guess this is probably a question more on the logic side, but is your work ongoing with both foundries and fabless players alike?
+Scott A. Bibaud
+--
+President and Chief Executive Officer
+On the advanced node, no. For the most part, we're working only with people who manufacture the gate-all-around. Years ago, you could work with foundry partners on the upcoming advanced nodes, and they would help to influence their foundry partner to manufacture with their ideas. But these days, gate-all-around is so complicated that really the fabless guys don't have as much influence as they used to have, let's say.
+And so, we'd be targeting primarily the folks who have the factories that are going to run these chips.
+Richard Shannon
+--
+Analyst
+OK. Fair enough. Then my last question, just hitting on JDA 1 specifically. Sounds like there's been some back and forth of going to central engineering and trying to get something moving with the specific customer groups here.
+Wasn't clear to me based on your comments about whether there's some good progress being made in getting to some business relationship there. Maybe if you could touch on the specifics there, please.
+Scott A. Bibaud
+--
+President and Chief Executive Officer
+Yeah. I would say there's a slight difference to this set of requests that we have from what we've had in the past. And as you know, we first engaged with JDA 1 at the central engineering level, and they proved out our technology, gave it a blessing of approval for people in the company to use. Today, the inquiries that we're getting, the work that we're doing now is to address a very specific application with a very specific solution.
+And of course, they want to know that our technology can actually deliver on some of the performance metrics that we have shown them in that application. And I would say, it's certainly typical that you bring a customer a lot of data showing, hey, we can really do this. And then they give you a request for 10 more pieces of data to validate all of their doubts. And so, that's the stage that I'd say we're in right now.
+Richard Shannon
+--
+Analyst
+OK. Fair enough. I will jump on the line. Thanks for all the details, Scott.
+Scott A. Bibaud
+--
+President and Chief Executive Officer
+Sure.
+Mike Bishop
+--
+Investor Relations
+All right. Thanks, Richard. We have a number of questions coming in on the Q&A line, and I'll just dive in. The first is, is the recent announcement about Sandia Labs related to the CHIPS Act application submitted in July?
+Francis B. Laurencio
+--
+Chief Financial Officer
+Yeah. No, I'll take that one. No, it's not. It's independent of that, which is great because I think it opens up another avenue for us to demonstrate the GaN technology.
+With the CHIPS Act opportunities, we did submit one that was relevant to GaN, but also to other applications of MST in compound semiconductors. So, basically, to give a little bit more color on Sandia, we had proven out the physical benefits of MST in building a GaN on silicon wafer in terms of better quality because of all the stress that's created by building GaN on silicon and something that we could improve there. But at Texas State, we had no ability to actually test electrically how a device would perform when built on that. What we found at Sandia was they had a window under a rapid access program to get us in and start testing how, when you built GaN devices on those substrates that we had worked on with Texas State, to show that they would actually perform better in addition to the physical qualities being improved.
+So, the nice thing about that is the Sandia work is at no cost to us, but what we prove there should make us more attractive for both CHIPS Act funding, but also for the several commercial customers that we've gone out and spoken to about our GaN offering. And the last thing I can tell you is I have seen many opportunities for GaN and other compound semiconductors where there are funding opportunities there. So, that's something we'll continue to pursue. But they are separate.
+Mike Bishop
+--
+Investor Relations
+OK. Thanks, Frank. And there's questions regarding the proposals and customers in the pipeline. And folks are wondering if they're currently --if all the proposals we have outstanding are currently in the pipeline in, for example, Phases 1 through 3.
+Scott A. Bibaud
+--
+President and Chief Executive Officer
+Pages 1 through 3?
+Mike Bishop
+--
+Investor Relations
+Phases.
+Scott A. Bibaud
+--
+President and Chief Executive Officer
+Phases. OK. Yes, I would say that, yes, all of our current proposals are with customers that are in our pipeline. They're not, they're not all in Phase 3, some are in Phase 1.
+But they are all people that we've been doing work with for some time.
+Mike Bishop
+--
+Investor Relations
+OK. And then Frank, there are questions about plans for funding. Do you want to address the outlook for funding and cash needs?
+Francis B. Laurencio
+--
+Chief Financial Officer
+Sure. I mean, you guys, you would have seen in the financials and in my comments that we ended the quarter with a lower cash balance than we did at the end of June. And obviously, we didn't want to be selling any more stock under the ATM program than we had to, given that the stock in the last number of months was at pretty close to historically low levels. We always have to balance not diluting our shareholders with the fact that we need to maintain a minimum cash balance of greater than 12 months of what we plan to spend in the future.
+That's just a requirement under GAAP accounting. So, that's always going to be the balance that we maintain. And to the extent that we can be more conservative when the stock price appears to be relatively low, we will do that.
+Mike Bishop
+--
+Investor Relations
+OK. It looks like Richard has a follow-up question. Richard, did you have another question?
+Richard Shannon
+--
+Analyst
+Yes, I do. Thanks, Mike. Scott, I want to follow up on one of your comments in your prepared remarks regarding power in the seven- to 48-volt range. Very interesting dynamics going on there, ones that we're reasonably familiar with here.
+I guess a couple of questions to this end here. To what degree is the work that you're doing in this voltage range specific to 48-volt that's related to servers, versus more broadly across the space here? And then -- well, actually, let me just stop at that point, Scott.
+Scott A. Bibaud
+--
+President and Chief Executive Officer
+Yeah. We've been talking about our SPX technology for a little while now. And although it had really been targeted from seven volts to 48 volts, in fact, most of the interest that we saw in the industry earlier was probably not as high as the high end of 48 volts. Now, the 48-volt stuff is, yes, it's very specifically tied to this expanding opportunity in data centers.
+That being said, it's the same type of transistor structure that would be used for other 48-volt power requirements. But I think the big opportunity is located there at the data center right now. And by the way, I started to say, we've been talking about SPX for a while, but we actually modified it specifically for 48 volts. So, this is a little bit -- it's in the family, but it's slightly different than the rest of the stuff we're doing at the lower voltage, and it's really optimized around the 48 volts.
+I have to say, I'm quite excited about it. The results that we've gotten from testing show really good efficiency improvements that I think will be very attractive to people, but we're just starting to talk to customers about it today.
+Richard Shannon
+--
+Analyst
+OK. Excellent. Look forward to hearing more about that. My other question, and I'll jump back out of line here, is following up on your response to one of my earlier questions here where seems like you've concluded, or at least the trend that you've seen in past discussions here is if you're trying to insert yourself into legacy nodes here, the timeframe to get to production or to get to a license and moving forward seem to be more delayed than with newer nodes here.
+I guess, is there anything you can do to help accelerate that in any way? Or is this just a relic of working with companies with legacy nodes? And let me stop there.
+Scott A. Bibaud
+--
+President and Chief Executive Officer
+No, it's a great question because I think what we have been doing up to now is going out and telling people, OK, we've got this, for example, on power, SPX technology, and we already announced that we have one customer on it. When they get to production, they're going to bring in a whole new level of performance. And it was our belief that that would drive some of their competitors to say, OK, I got to start developing with that as well, right? It has happened, but it hasn't happened as across the board as we had hoped it would. And it hasn't probably accelerated the development efforts at those companies as quickly as we like.
+We do believe when ST hits the market, that's going to make a big difference. And also, some of the proposals that we have outstanding are with companies that would be entering into that space. So, I think we'll get more even before ST goes to production. That's my belief.
+But yes, if you think back about the history of ST, we started working with them in 2017 or 2018. We did some experiments. By the end of 2019, we really had shown excellent results with them. And between COVID and then building a new factory, they didn't really start work on the new process node until 2022.
+So, it's not that they take a long time once they decide to go to production. I think that part is maybe slightly slower, but similar to another process node going to production. But the decision to make a change to an old legacy node that's been running in high volume for some time, that doesn't come up every year. And so, sometimes we have to wait for that to happen.
+Richard Shannon
+--
+Analyst
+OK. All right. I think that makes sense. I will jump out of line.
+Thank you, Scott.
+Scott A. Bibaud
+--
+President and Chief Executive Officer
+OK. Thanks, Richard.
+Mike Bishop
+--
+Investor Relations
+All right. And it looks like one or two more questions here. The question is you addressed ST in the prepared comments, but generally, how is the relationship going, and are there more comments you could add to give us a sense of the progress?
+Scott A. Bibaud
+--
+President and Chief Executive Officer
+Yeah. Let me say a few things about it. First of all, ST is excellent company to work with. I think they were the company that invented BCD technology, which is what our SPX is running on.
+And so, obviously, we're working with some of the best technical experts in the field here. And I think we really enjoy the back and forth to be able to constantly be improving the products. Things have been going so well with ST that we've also executed a land-and-expand type of strategy where we've already started working with some other groups inside ST as well. And so, hopefully, we'll be able to expand our business into them to multiple business units.
+And it's possible we could do that even before we get to volume production with the first product. So, things are going very well with them.
+Mike Bishop
+--
+Investor Relations
+OK. And just one final question. Can you provide some comments on the gate-all-around silicon results that were presented at PRiME 2024?
+Scott A. Bibaud
+--
+President and Chief Executive Officer
+Sure. OK. It's quite technical, but one of the things that we presented at PRiME 2024 -- OK, let me explain this. In a gate-all-around source and drain, it's very high-doped phosphorus source or drain, and then it's going to go into a channel where they don't want any doping at all.
+They'd like that to be almost dopant-free. Since the structures are so small, it's difficult to keep that gate, which is highly phosphorus-doped, from diffusing into the channel. And if it diffuses into the channel enough, it can actually cause a short circuit between the source and the drain, or at least such low performance that the device won't yield. So, that will be a low-yield product.
+We believe that by putting MST at that interface between the source and the channel that we will help prevent phosphorus from flowing into the channel side and either shorting or having lower performance. So, number one, it will lead to higher performance. But even more importantly, it will help, we believe, the gate-all-around manufacturers to yield a higher number of transistors when they're in manufacturing. So, that's one of several applications that we have in gate-all-around that we're promoting to customers.
+I think Robert's slides from that conference are available publicly, or they may be available publicly soon. But in any case, it will show that our diffusion blocking can really bring that benefit that I talked about.
+Mike Bishop
+--
+Investor Relations
+Great. All right. Scott, I think that wraps up the Q&A session. You may prepare with closing remarks.
+Scott A. Bibaud
+--
+President and Chief Executive Officer
+All right. Great. Yeah. First of all, I just want to say thank you all for joining us to hear the progress being made within Atomera.
+Please continue to look forward to our news, articles, and blog posts which are available, along with investor alerts, on our website, atomera.com. Should you have additional questions, please contact Mike Bishop, who'll be happy to follow up. Thanks again for your support, and we look forward to our next update call.
+Mike Bishop
+--
+Investor Relations
+Thank you, Scott. And with that, that concludes the Atomera third quarter 2024 conference call.
+Duration: 0 minutes

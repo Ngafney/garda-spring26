@@ -1,0 +1,222 @@
+[
+  {
+    "speaker": "Unknown",
+    "role": "",
+    "text": "Full Conference Call Transcript"
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Greetings, and welcome to the Palladyne AI Corp. Fourth Quarter and Year-End 2025 Earnings Call. At this time, all participants are in a listen-only mode. As a reminder, this conference is being recorded. I would now like to turn the call over to your host, Brian Siegel, Investor Relations. Thank you. You may begin."
+  },
+  {
+    "speaker": "Brian Siegel",
+    "role": "",
+    "text": "Good morning, and welcome to Palladyne AI Corp. s fourth quarter and full-year 2025 earnings conference call. Joining me on the call today are Benjamin Wolff, President and Chief Executive Officer, and Trevor Thatcher, Chief Financial Officer. Earlier this morning, Palladyne AI Corp. issued a press release announcing its financial results for the fourth quarter and full year ended 12/31/2025, along with updated commentary regarding backlog and reiterated 2026 revenue guidance. A copy of that release, along with the accompanying financial tables, is available on the investor relations section on Palladyne AI Corp. s website. Today s call will include prepared remarks from Benjamin and Trevor, followed by a question-and-answer session. During today s call, management will make forward-looking statements within the meaning of the federal securities laws. These statements include, but are not limited to, statements regarding Palladyne AI Corp. s 2026 revenue guidance, expected backlog conversion, anticipated quarterly operating cash usage, product development milestones, commercialization timelines, defense program activity, potential customer adoption, market opportunities, and future strategic positioning across air, space, land, and maritime domains. Forward-looking statements are based on current expectations, assumptions, and beliefs, and involve risks and uncertainties that could cause actual results to differ materially from those expressed or implied. These risks and uncertainties include, among others, Palladyne AI Corp. s ability to execute on development programs, convert backlog into revenue, scale production, manage operating expenses, integrate acquired businesses, secure additional contracts, maintain liquidity, and navigate evolving defense and commercial market conditions. These and other risk factors are described in detail in Palladyne AI Corp. s filings with the Securities and Exchange Commission, including its annual report on Form 10-Ks and subsequent filings. Palladyne AI Corp. undertakes no obligation to update any forward-looking statements except as required by law. In addition, during this call, management will reference certain non-GAAP financial measures, which adjust for acquisition-related expenses, stock compensation, non-cash warrant income or expense that are marked to market quarterly based on changes in the company s stock price, and a tax benefit related to an acquisition. A reconciliation of these non-GAAP measures to the most directly comparable GAAP measures is included in this morning s press release. I will now turn the call over to Benjamin."
+  },
+  {
+    "speaker": "Benjamin Wolff",
+    "role": "",
+    "text": "Thank you, Brian, and good morning, everyone. Thanks for joining us. This is our first earnings call since I returned to the company two years ago, and only our second press earnings release. In mid-January, we provided formal revenue guidance for the first time. Today, we are reiterating 2026 revenue guidance of $24 million to $27 million. That is roughly four to five times our 2025 revenue. Additionally, backlog has already increased from approximately $13.5 million at the end of 2025 to nearly $18 million midway through the first quarter. We believe 2026 will be the first full year where the structural transformation we completed in November translates into measurable revenue growth. To understand why, it helps to step back and look at what we built in 2025. We think about 2025 in two phases. The first phase was validation. In the first three quarters, we were upgrading Palladyne IQ. We integrated feedback from the U.S. Air Force, potential Fortune 100 customers, and others who were using and gaining experience with our first IQ release. That work clarified where our commercial product needed improvement, and it directly shaped IQ 2.0, which we completed and started showing to customers in January. That resulted in our first signed commercial IQ customer contract a couple of weeks ago. At the same time, we advanced our collaborative autonomous drone product Palladyne Pilot, and created a swarming variant branded SwarmOS, for defense and national security. We signed MOUs with Red Cat and Draganfly, and expanded capabilities through military development contracts. We also strengthened the balance sheet, added senior military leadership to our board, and expanded our AI-related patent portfolio. Then in November, the second phase began: transformation. We acquired GuideTech, Warnkee Precision Machining, and MKR Fabricators. We launched Palladyne Defense. We added avionics design and engineering, proprietary UAV and missile systems, precision components, certified U.S.-based manufacturing, and backlog. We moved from being primarily a development-stage AI company to a vertically integrated embodied AI-centric industrial and defense platform company generating meaningful revenues. In short, we exited 2025 fundamentally different. 2026 will be the first full year of operations as a vertically integrated embodied AI-centric industrial and defense company. Now, before I talk about execution, I want to address something that underpins everything we are doing: how our AI is fundamentally different. This week, my cofounder, Doctor Garajic, and I published a white paper that makes a simple point about our biologically inspired AI architecture. Most AI platforms live in massive centralized data centers, taking up enormous real estate and consuming tremendous amounts of power. They are, in a nutshell, built to think. They analyze. They recommend. They identify patterns and connect dots that we humans could never do on our own. These AI platforms are basically Google search on steroids. But machines think of robots and drones operating in dynamic real-world environments cannot rely on centralized intelligence that lives in the cloud for minute-by-minute instruction. Machines in the real world need to react instantly, often in a split second, the way we humans do. They cannot deal with communications latency or worse, communication gaps or failures. Nor is it economical to have machines continuously connected to the cloud. So the answer is to put the intelligence on the machine itself, enabling these machines to function more similarly to the way we humans do. Nature got it right. The human nervous system does not ask permission for every movement. It reacts at the edge. It coordinates locally. It adapts in real time. It keeps functioning when communication is degraded. That biological model is the inspiration for the architecture we have built into our AI software products. Our autonomy lives at the edge. It operates on the machine. It collaborates across machines. It does not depend on instructions from a centralized set of algorithms that live in the cloud. Our white paper is now available on our website and on LinkedIn. I encourage you to spend a few minutes reading it, and feel free to drop me a note if you would like to discuss it further. SwarmOS enables decentralized, edge-based distributed collaboration. IntelliSwarm combines SwarmOS with our Brain avionics platform to deliver a fully integrated hardware-and-software collaborative AI stack for drones and missiles. This is not simply cloud-based AI layered onto hardware. In particular, for defense applications, that distinction is a critical differentiator in contested environments and multi-domain operations. And this capability is the reason we were able to execute across air today and soon space as well. Since closing the acquisitions, we have moved with focus. On the commercial side, Matt Muda joined us from our Board of Directors to lead our commercial and industrial business. We released IQ 2.0 and signed our first customer through a systems integration partner, deploying IQ for robotic surface preparation. While this deal is not financially material, it is strategically important. On the defense side, we introduced IntelliSwarm, integrating SwarmOS into BrainX2. We also branded Project Banshee as Gremlin X and advanced the development of this mini-bomber drone concept. We successfully demonstrated a cross-platform coordinated swarm using IntelliSwarm on Gremlin X and SwarmOS on Red Cat drones. This is not the kind of preprogrammed drone swarms everyone else talks about. Rather, this is true autonomous swarming, where each drone perceives, reasons, and acts, and most importantly, collaborates. I am often asked about the distinction between automation and autonomy, since many people think these words are interchangeable. They are not. Automation is preprogrammed, routinized action. With automation, all of the decisions were made in advance by the humans who programmed the machine. If the machine comes across something it was not programmed for, it is stuck, dead in the water, until a human gets it back on track. With autonomy, the machine makes decisions. Yes, humans can still make decisions too, but that is not the definition of autonomy. What we do is autonomy, not automation. There is similar confusion about use of the word swarm or swarming in the context of drones. Just like there are many different levels of autonomy for self-driving cars, the same is true for drones. Those cool drone light shows with thousands of drones creating pretty images in the sky are a form of swarming. But they are preprogrammed, automated swarms with no need or ability to deviate from the choreographed plan. Then there is the limited autonomy that many UAV companies tout today, which enables drones to automatically prevent collisions with one another when flying in close proximity. That is an important, albeit rudimentary, form of autonomy. Next, there is full autonomous swarming, which the U.S. military refers to as wolf pack swarming. Wolf pack swarming takes the capability up a notch. This is where an advanced, collaborative, and hierarchical swarm of drones operates as a cohesive unit with specialized distributed roles, mimicking the behavior of wolves to hunt, detect, and destroy targets while at the same time avoiding each other and obstacles. Finally, there is SwarmOS from Palladyne AI Corp. SwarmOS delivers wolf pack swarming, but significantly upgraded with the closest thing there is to artificial instinct and intuition. It adds game theory optimization to predict intent and adapt to friendly and hostile moves, maximizing target coverage for intelligence, surveillance, and reconnaissance, and mission effectiveness when action is required. These are significant, nontrivial distinctions. As you have probably noticed, there is a ton of confusion among OEMs, customers, and investors on this very important point. Not all swarming is the same. Not all AI is the same. Not all software is the same. Some is more capable than others. We believe SwarmOS is truly unique, and exactly what the Department of War needs. My life would be a lot easier if people in our industry would simply get the words right. So my goal today is to make sure the investment community can sift through the noise and truly understand the difference. As a company, our broader mission is to ensure that our differentiated capabilities are known and understood throughout the U.S. government and military, as well as with partners and defense contractors. We are also extending the same distributed autonomy model into the space domain. Through development work with the Air Force Research Lab, we are expanding SwarmOS to incorporate satellites as another source of sensor data another node on our distributed information network, if you will that can add to the knowledge used by our embodied AI to enhance mission effectiveness. Separately, we expanded our relationship with Portal Space Systems, advancing navigation, guidance, spacecraft modeling, embedded software, and avionics support for its next-generation space logistics platforms. Our expanded relationship with Portal strengthens our propulsion presence in space today. Over time, propulsion and autonomy architectures naturally intersect, which provides additional future opportunities. Together, these efforts position us across air and space with long-term potential into land- and sea-based unmanned systems as well. On the manufacturing side, we recently secured a contract for a missile propulsion subsystem from a major defense prime customer. That contract is another validation of our propulsion, engineering, and manufacturing capabilities and expands our footprint in advanced defense programs that will generate revenue this year. We also progressed development across Gremlin X and new Brain variants, and we strengthened our intellectual property portfolio with a new patent issuance supporting decentralized swarming architectures, while also submitting applications for four new patents related to our AI products and technologies. Let me frame the roadmap simply. We use the analogy of crawl, walk, and run not as separate strategies, but as stages of maturation. In 2025, we built the path. In 2026, we crawl. Crawl is about proving that the integrated model works at scale converting backlog into revenue, monetizing development programs, generating product revenue from acquired businesses, executing live demos and trials for SwarmOS, IntelliSwarm, IQ 2.0, and advancing Gremlin X, Swarmstrike, and Brain variants toward defined milestones. Then we walk in 2027. Walk is where we expect proof to become repeatability. We expect broader SwarmOS and IntelliSwarm integrations, repeat IQ 2.0 wins, increasing Brain deployments, expanding programs, and multiple product-based revenue streams. At that point, growth becomes more systematic and less episodic. And then we run. Run is where decentralized, embodied, collaborative autonomy operates seamlessly across air, space, and eventually land and sea; where IntelliSwarm enables larger and more complex distributed systems; where autonomy and propulsion architectures converge; and where UAV, missile, and avionics revenue scales across multiple defense programs. This is when today s emerging and development-stage products become a scaled portfolio of core products driving meaningful revenue and bottom-line growth. 2026 is the first full year where our structural transformation is reflected in operations. We transformed the structure of this company in November. Now we are executing against a defined progression with intention and precision. And we believe 2026 marks the beginning of measurable translation of that transformation into growth. I will now turn the call over to Trevor for the financial results."
+  },
+  {
+    "speaker": "Trevor Thatcher",
+    "role": "",
+    "text": "Thanks, Ben. I will focus on the fourth quarter results, liquidity position, and capital outlook. Before reviewing the numbers, I want to note that the 2025 fourth quarter and full-year results we reported this morning include approximately six weeks of contribution from the businesses acquired in mid-November. Revenue for the 2025 fourth quarter increased 118% to $1.7 million, compared to $800,000 last year. The increase was due to the inclusion of post-acquisition revenue from the acquired companies. Cost of revenue for the quarter was $1.4 million compared to $600,000 in the prior-year period. Research and development expense was $3.8 million compared to $2.6 million last year, reflecting continued investment in autonomy software, avionics, and product development programs from both Palladyne AI Corp. and the acquired company. General and administrative expense was $4.7 million compared to $3.5 million in the prior-year period. The increase reflects acquisition-related transaction costs, the incremental scope of G&A functions from the acquired businesses, and the normalization of compensation for certain employees of the acquired company who were not previously receiving market-based salaries. Sales and marketing expense was $1 million compared to $600,000 last year, reflecting expanded marketing programs and business development efforts. Operating loss for the quarter was $9.3 million compared to $6.5 million in the prior-year period. GAAP net loss for the fourth quarter was $1.5 million, or $0.04 per share. On a non-GAAP basis, net loss for the fourth quarter was $6.9 million, or $0.16 per share. The primary differences between GAAP and non-GAAP results were as follows: a $4.6 million non-cash gain related to the change in fair value of warrant liabilities, driven largely by the change in the price of our common stock and public warrants; $1.1 million of stock-based compensation expense; $600,000 of acquisition-related transaction expenses; and a $2.5 million income tax benefit linked to one of the November acquisitions related to the recognition of deferred tax liabilities associated with acquired intangible assets that were offset against fully valued deferred tax assets, creating a current non-cash tax benefit. We believe excluding these items provides a clearer view of our underlying operating performance and cash usage. Turning to liquidity, as of 12/31/2025, we had cash, cash equivalents, and marketable securities of approximately $47 million. Our fourth-quarter net cash burn rate was approximately $10 million, which included $8.5 million in cash used in operations, $5.3 million in cash used for acquisitions, and $3.7 million to pay down real estate acquired from the acquisition, offset by proceeds from ATM sales of $7.3 million net of commissions. Backlog as of year-end was $13.5 million. As Ben mentioned earlier, backlog increased to nearly $18 million midway through the first quarter. That increase reflects new contract wins and is net of normal invoicing activity during the current year-to-date period. Looking ahead to 2026, Ben has already announced that we are reiterating the guidance we issued on 01/13/2026 for revenue of $24 million to $27 million. Our 2026 outlook reflects the contribution of the businesses acquired in November, and we expect organic growth across each part of the company on a full year-over-year basis. We currently expect 2026 consolidated quarterly operating cash usage of approximately $8 million to $9 million. The increase from our 2025 run rate reflects ongoing investment in SwarmOS and IQ, incremental investments to bring acquired programs to operational readiness, and incremental headcount costs from building out the new defense and commercial team structures. As you recall, in our previous commentary, we said that we plan to invest $5 million in Gremlin X and Swarmstrike alone over the next 12 to 18 months. We selectively added headcount to drive growth on the defense and commercial sides of the business and to bolster support services, consistent with our strategy to translate structural repositioning into operational execution. Based on our liquidity position and expected backlog conversion, we believe we are well positioned to execute our 2026 plan. Operator, we are now ready to take questions."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "If you would like to ask a question, please press 1 on your telephone keypad. A confirmation tone will indicate your line is in the question queue. You may press 2 if you would like to remove your question from the queue. For participants using speaker equipment, it may be necessary to pick up your handset before pressing the star keys. Our first question comes from the line of Greg Conrad with Jefferies. Please proceed with your question."
+  },
+  {
+    "speaker": "Greg Conrad",
+    "role": "",
+    "text": "Good morning. Appreciate all the color and the differentiation and kind of roadmap going forward. But just thinking about 2026, I think you mentioned you expect organic growth along with M&A contribution. Can you maybe just parse out expectations of some of the growth drivers in the M&A along with kind of Palladyne IQ and Palladyne Pilot?"
+  },
+  {
+    "speaker": "Benjamin Wolff",
+    "role": "",
+    "text": "We are not breaking out the categories of revenue from the $24 million to $27 million guidance. I think Trevor mentioned that we are expecting to see growth in all of those areas, and that is through new customer relationships, new contracts, etc., across all three parts of the business: manufacturing, the UAV side of the business, and the AI side of the business. We are expecting growth in all three of those areas, but we are not giving any specific guidance on the specific growth in those three categories."
+  },
+  {
+    "speaker": "Greg Conrad",
+    "role": "",
+    "text": "And then you also laid out 2026 and some of the key items for 2027. How do you think about growth going forward? What are the big drivers? And how are you thinking about maybe some decisions or key contracts that we should expect or be watching for in 2026 for that transition?"
+  },
+  {
+    "speaker": "Benjamin Wolff",
+    "role": "",
+    "text": "On the defense side, which obviously is where there is an awful lot of action for a lot of reasons, we are aggressively pursuing participation in a number of different programs, both as a prime and as a sub. One of the great benefits that we have with the way we structured the business following the acquisitions is we have, as we think about it, multiple shots on goal and the ability to both be a prime and also to be a sub, and we have contracts that are today representative of that. We expect to get more of those. There are an awful lot of opportunities when you start talking about collaborative swarming, collaborative autonomy, at the Pentagon. And so we are aggressively engaged in that, and similarly on the hardware both manufacturing side and the subsystem side and complete systems as it relates to UAVs. Expect to see us aggressively pursue those opportunities. As you know, Greg, those programs can take a long time. Fortunately, we have an administration today that has accelerated that path. But it still can be a time-consuming process with a number of steps between first RFI to the point that you actually have money coming in the door. Our team understands that process extremely well. We have a number of folks on the team that are experienced with securing those kinds of contracts. We are very optimistic about where we are going to head over the next 12, 18, 24 months, and think we have a lot of tailwinds for us on that side of the business. I specifically just mentioned the AI side, but also on the IQ side of our AI business, we continue to have great traction with the Air Force on the trials they have been doing with IQ in the aircraft repair and maintenance venue, and we are hopeful that we will see some expansion in that. So do not just think about our work with the Pentagon as just on the swarming side. It is also on the industrial robotics AI side. In terms of the commercial side, we mentioned that we have our first IQ customer, which happened, frankly, in a relatively short time frame compared to some of the other engagements that we have had. I think that is a testament to the maturity level and the development efforts that we put into IQ 2.0. We expect to see some real growth on the commercial side. One of the things I should point out is that our acquired businesses have both defense and commercial businesses. On the manufacturing side, we do manufacturing for the commercial sector. On our UAV and aeronautical business, we do some stuff in space that we have talked about, and we do some stuff that is not directly Pentagon focused. We are excited about the fact that we have this dual path, dual approach of both defense and commercial activities. I think that will pay big dividends over the years as we see demand from both sides ebb and flow. I think we have hedged our bets pretty well."
+  },
+  {
+    "speaker": "Greg Conrad",
+    "role": "",
+    "text": "And if you do not mind, I am going to ask a couple more. Hope that is okay. So you brought up a missile contract, which is obviously important, and I think you are also doing some stuff around loitering munitions and missiles, and production ramps have been a big focus of the administration. Can you talk a little bit more about what you are doing on the missile side, how much visibility you have into that contract and ramp, and maybe where you see some other future opportunities?"
+  },
+  {
+    "speaker": "Benjamin Wolff",
+    "role": "",
+    "text": "We have the benefit, Greg, of being involved in both new missile efforts new program efforts as well as being a supplier into existing long-standing, large missile programs. So we are seeing a lot of that whole landscape. There is a lot of interest in developing higher quantities of lower-cost, higher-precision missiles of all different sizes and capabilities, and we are playing in that space. The great thing about the way we have joined the business now is we can, soup to nuts, be participating in that missile process: everything from initiating design of a brand-new concept all the way through manufacturing of a complete system or subsystems. We are very active in that space. We like that space because it is an opportunity for a lot of innovation coupled with our AI to make a huge difference, and it is not, frankly, a space that is as crowded as some of the other drone and UAV marketplaces are."
+  },
+  {
+    "speaker": "Greg Conrad",
+    "role": "",
+    "text": "And then just a clarification question. You said quarterly $8 million to $9 million usage. Was that free cash flow or cash flow from ops?"
+  },
+  {
+    "speaker": "Benjamin Wolff",
+    "role": "",
+    "text": "Trevor, you want to take that one?"
+  },
+  {
+    "speaker": "Trevor Thatcher",
+    "role": "",
+    "text": "Yes, that is our expected cash used in operations. There could be other cash flows coming in whether those are from ATM sales or what those are not considered in that number."
+  },
+  {
+    "speaker": "Greg Conrad",
+    "role": "",
+    "text": "Historically, the business has been really CapEx light. Just thinking about the manufacturing element, and you mentioned some investments, how are you thinking about CapEx going forward?"
+  },
+  {
+    "speaker": "Trevor Thatcher",
+    "role": "",
+    "text": "We do have CapEx assumptions baked into that. There are some needs across the business. I would not say they are significant right now. As things progress within the development of our products, we will reevaluate that and make the investments where we need to. But as of right now, we do not see any real significant CapEx needs."
+  },
+  {
+    "speaker": "Greg Conrad",
+    "role": "",
+    "text": "And then maybe last one for me. The business has evolved a lot. I think in the past you talked about the target business model from a profitability standpoint. Can you talk a little bit, with the new mix, how you are thinking about gross margins? Is there a particular revenue level for profitability? Just some of the changes that we should expect with the new business from a profitability standpoint."
+  },
+  {
+    "speaker": "Trevor Thatcher",
+    "role": "",
+    "text": "We have given guidance on revenue. We are not at a point where we are going to be giving guidance on anything below that. It is still early on with these new acquired businesses, and we expect that as things develop, as we see progress made both on the customer front and on our product development milestones, we will start sharing more guidance around things below the revenue line. But right now, we are just going to stick to the revenue guidance that we have given."
+  },
+  {
+    "speaker": "Benjamin Wolff",
+    "role": "",
+    "text": "I will give a little more color beyond that. There is no reason that we see that margins we have talked about historically for our AI business will be materially different than what we have talked about. We are still bullish on that in terms of software-like margins. And we have talked about the fact that on the hardware side, we are focused on higher-margin opportunities. We do not want to get into really low-margin businesses, and so far I think we are doing a good job at that. While Trevor is absolutely correct that we do not want to give you a specific number at this point, we are focusing on those higher-margin opportunities so that we keep our margins across the entire enterprise relatively robust."
+  },
+  {
+    "speaker": "Greg Conrad",
+    "role": "",
+    "text": "I will leave it at that. Thank you."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Thank you. Our next question comes from the line of Brian Kinstlinger with Alliance Global Partners. Please proceed with your question."
+  },
+  {
+    "speaker": "Brian Kinstlinger",
+    "role": "",
+    "text": "Great. Thanks so much for taking my questions. As it relates to your partnerships with Red Cat and Draganfly, what are the obstacles or tasks that remain to get the system into production and/or the OEMs given the ability to bid on procurements with your technology? Any updates would be great."
+  },
+  {
+    "speaker": "Benjamin Wolff",
+    "role": "",
+    "text": "Sure. I will take them one at a time, Brian, and good morning. On Red Cat, we have been doing extensive testing with them over the last number of months. That has been going very well. We are going through the certification that they have established for their vendors. Our system is a little more complex and capable than many other software platforms that are out there for drones, and so it has been a lengthier process making sure that we can actually deliver on all of the things that our specifications say we can. I think we are at the end of that process now, so we expect to be certified on Red Cat drones virtually in time, and that has culminated in us then negotiating a broader, more in-depth, and detailed partnership agreement with them an implementation agreement and we expect that to be signed, I think, maybe even today, or certainly within the next few days. That is the next step in getting to the point that they can actually start offering our system to the government. We have been doing joint demonstrations for the government so far, and all of those have gone well. On Draganfly, we are still in the process of implementing and porting our code onto their platforms. That has not yet been completed. No real roadblocks other than everybody is busy, and all of us have a lot of things on our plate, but I expect that to happen this quarter. We are making progress on that one also, and we have a number of other discussions with other OEMs going. I am very bullish about where we are with drone OEMs."
+  },
+  {
+    "speaker": "Brian Kinstlinger",
+    "role": "",
+    "text": "You mentioned your first commercial IQ contract. Can you talk about timing of expectations for both IQ and Pilot for first production units?"
+  },
+  {
+    "speaker": "Benjamin Wolff",
+    "role": "",
+    "text": "The first sales of IQ 2.0 is a production deployment, and that is going to happen in the coming weeks. The contract has been signed; we are ready to start implementation on that. So that is up and ready to go. At this point, we have talked before that it is generally, in our view, a 12- to 18-month sales cycle. This one happened to come together much more quickly than that. So it is possible for it to come together more quickly. We are in the process now of exposing customers of all different shapes and sizes in terms of size and number of locations, etc. to the new, highly capable 2.0 version, and we will see how quickly we can make some sales come together. We are firing on all cylinders on IQ 2.0. On the drone swarming capability, that really is not a onesie-twosie kind of sale, as you can imagine. That is larger contracts, larger volumes, and those, by definition, take longer to come together. We have a task in front of us to get the customer base out there to understand that this is an incredibly capable and unique type of swarming autonomy that does not exist when other people talk about swarming. It is not this kind of swarming. Just like there are different layers of autonomy in self-driving cars, there are different layers of autonomy in things that fly, and we are at the most advanced edge of that. Our biggest mission right now is to get the marketplace to understand that the capability exists, that it is not science fiction, and it does not have to be on the roadmap for 2032. It could be on the roadmap for 2026. That is our mission in front of us."
+  },
+  {
+    "speaker": "Brian Kinstlinger",
+    "role": "",
+    "text": "My follow-up to that would be: how are you educating the end customer, which to me, given war, would be the federal government? How are you educating them, and how educated are they right now?"
+  },
+  {
+    "speaker": "Benjamin Wolff",
+    "role": "",
+    "text": "We are just at the beginning stages of the education process, and education involves a lot of meetings followed by demonstrations. You start with PowerPoint presentations, which, of course, people are tired of seeing. So you do the PowerPoint presentation to many, many different people, as many shots on goal as you can get, and then you promptly follow that up by saying, But it is not just PowerPoint. Come out to the field. We will do a demonstration for you tomorrow if you are ready."
+  },
+  {
+    "speaker": "Brian Kinstlinger",
+    "role": "",
+    "text": "Obviously, it has only been a week with the war, if you call it, in Iran. Two things. First of all, is that leading to delays in conversations because everyone now is focused on that? Does it lead to more urgency and more rapid conversations? Maybe talk about if, at all, in one week, it has changed the procurement process."
+  },
+  {
+    "speaker": "Benjamin Wolff",
+    "role": "",
+    "text": "I have not seen any change other than additional inquiries and interest levels. Fortunately for us, the folks that are involved in defining requirements, learning about new technologies, and figuring out how to integrate those new technologies into the battlefield are not out in the field. They are very much focused on trying to get our country prepared for what happens tomorrow, the day after tomorrow, next week, next year, and for the years to come. We have not seen any impact in a negative sense, but certainly a lot more awareness of what modern warfare looks like, and that creates significant tailwinds for us."
+  },
+  {
+    "speaker": "Brian Kinstlinger",
+    "role": "",
+    "text": "My last question is, you have talked a lot about R&D, but maybe you could just rank your top R&D priorities for 2026."
+  },
+  {
+    "speaker": "Benjamin Wolff",
+    "role": "",
+    "text": "At the top of our list is getting material advancement on our two UAV platforms the Gremlin X and the Swarmstrike. That is a significant part of our R&D effort. Continuing to evolve and enhance the capabilities of both SwarmOS and IQ. I think those are the four R&D priorities. Fortunately for us, all of the contracts that we have that are development contracts with the U.S. government and the Department of War are all in line one way or another with the advancement of those capabilities and technologies. We are, from time to time, given the opportunity to participate in things that are outside of that main swim lane, and we decline to pursue those because we are very focused on those four primary objectives for 2026. Great. Thanks so much for answering my questions."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Thank you. Please press 1 on your telephone keypad. Our next question comes from the line of Mike Latimore with Northland Capital Markets. Please proceed with your question."
+  },
+  {
+    "speaker": "Mike Latimore",
+    "role": "",
+    "text": "Hi, great. Yes, thanks. Good morning. On the backlog topic, can you talk a little bit about which orders or types of products led to the increase in backlog from $10 million to $18 million, as a big change this quarter already? And then as you look to the go-gets for the rest of the year, what are some of your better prospects in terms of the types of agencies or products that you might be selling to get the rest of the backlog in here?"
+  },
+  {
+    "speaker": "Benjamin Wolff",
+    "role": "",
+    "text": "We are not going to get into a detailed breakdown of the backlog at this point, Mike. But I will tell you that, as both Trevor and I alluded to, we see significant opportunities across all three business units that we have. It is too early for me to predict which ones are going to come out on top, but there is a tremendous amount of momentum that we are seeing in the business, and we have a lot of confidence in being able to give you the guidance that we have and to watch that backlog continue to grow meaningfully over the course of the year."
+  },
+  {
+    "speaker": "Mike Latimore",
+    "role": "",
+    "text": "As you go out and sell to new prospects, can you talk a little bit about the value of having these three segments? How does your sales pitch include all three? How do you make the pitch that these three bring a significant advantage to a prospect?"
+  },
+  {
+    "speaker": "Benjamin Wolff",
+    "role": "",
+    "text": "Let me give you a kind of a generic example, but it is based in fact on one project that we are currently trying to secure. This is a new development program for a weapon system, and we were able to present the ability to go from white paper concept all the way through to both component manufacturing and complete assembly, and include our intelligence to deliver a holistic platform system that achieves all of the stated objectives. That soup-to-nuts approach had engineers and business people involved from all three divisions collaborating. I have to tell you, from an M&A effort, this is one of the better integration efforts I have ever seen. The teams are working together as if they have been working together for years and years seamless. That is an example of being able to respond to a government inquiry about a new weapon system where, before, we would have been a minor player or just one part of a bigger team. We were able to present a complete, unified proposal, and that is exciting. I think there is going to be a lot more of that in the future. The other thing that the acquisitions do for us, outside of just a single program or project, is we wind up with a much broader set of relationships across the whole defense sector. That allows us to go to the customers of one of those business units and present the opportunities that we have through our other two business units, and that has already paid dividends. The analogy of one plus one plus one equals a lot more than three has so far proven to be very much true."
+  },
+  {
+    "speaker": "Mike Latimore",
+    "role": "",
+    "text": "On SwarmOS, can you talk a little bit about how you are going to price that? Is there a way to think about a license per, I do not know, 10 drones or something, or just a little bit more clarity on how you price this?"
+  },
+  {
+    "speaker": "Benjamin Wolff",
+    "role": "",
+    "text": "Our focus is licensing it on a per-drone basis, and we have said in the past that we expect it to be priced somewhere between 5% 10% of the total drone system cost. So far, the engagement that we are having with customers is right in line with that. Bigger, more expensive, more capable, more sensor-laden UAV platforms will carry a higher cost. Smaller, lower-cost, less capable drone systems more single-purpose type things will be a lower cost. So far, we are not getting any pushback on that general approach to pricing. Having said that, I will remind you that we still have to land our first major customer."
+  },
+  {
+    "speaker": "Mike Latimore",
+    "role": "",
+    "text": "Would the prospects for SwarmOS be more likely to be with smaller, short-range drones or bigger, long-range drones, or is it too early to say?"
+  },
+  {
+    "speaker": "Benjamin Wolff",
+    "role": "",
+    "text": "I think it is everything in between. Our ultimate vision is that you have some larger, longer-duration fixed-wings that have our software on them, from one OEM, able to communicate and engage in swarming capability with shorter-duration, lower-cost, more tactical drones. You can imagine scenarios where a loitering ISR platform is in the air for five to ten hours. You have different sorties of quadcopters that come into theater to perform a specific mission set. Maybe they have not accomplished all of that mission; a second sortie comes in and instantaneously is downloaded with the latest and greatest information from the fixed-wing, loitering ISR platform. That kind of cohesive, real-time, autonomous swarming capability can expand across all of the different drone or UAV sizes, and that is where the real value comes in."
+  },
+  {
+    "speaker": "Mike Latimore",
+    "role": "",
+    "text": "Yep. Yep. Okay, great. Thanks a lot."
+  },
+  {
+    "speaker": "Brian Siegel",
+    "role": "",
+    "text": "Thank you, Mike. Thank you."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Ladies and gentlemen, that concludes our question-and-answer session and will conclude our call today. We thank you for your interest and participation. You may now disconnect your lines."
+  }
+]

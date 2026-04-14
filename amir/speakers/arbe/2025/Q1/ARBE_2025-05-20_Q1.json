@@ -1,0 +1,137 @@
+[
+  {
+    "speaker": "Unknown",
+    "role": "",
+    "text": "Full Conference Call Transcript"
+  },
+  {
+    "speaker": "Kobi Marenko",
+    "role": "",
+    "text": "Good morning, everyone, and thank you for joining us. I will begin by reviewing some of our recent business highlights. During the first quarter, we continued to make meaningful progress in Europe getting closer to potential design wins with leading OEMs. We secured radar systems orders supporting advanced data collection programs. The OEM data collection program is one of the finest paths in the automotive sourcing process. We are seeing increased investment from our tier one and from OEMs while developing their own AI-driven perception algorithms that leverage radar data. These initiatives are aligned with the path to OEM selection, and we anticipate that Arbe's radar technology will serve as a key enabler for high-volume 2028 passenger vehicle platforms in Europe. We believe that our solid balance sheet, coupled with the capital we previously raised, positions us well to support these programs with revenues projected to begin in 2027. In China, our tier one HiRain Technology reached a critical milestone in April with the launch of its LRR615, a production-intent long-range imaging radar system built on our high-performance chipset. Designed for the demanding needs of the Chinese autonomous driving market, the LRR615 offers ultra-high resolution and dependable performance in all weather and lighting conditions. This achievement highlights the industrial scalability of our platform and demonstrates our partners' capability to bring Arbe-powered solutions to the market. We also saw continued traction beyond the automotive sector. Our tier one Sensoran placed a significant order for over a thousand imaging radar chips to serve diverse customers across multiple use cases. This order reflects growing commercial demand and the versatility of our technology in broader industrial and mobility markets. One of the most significant collaborations in the first quarter was with NVIDIA, a leader in advanced in-vehicle computing. Through its DRIVE platform, NVIDIA is the frontrunner in providing the computing backbone for autonomous driving and ADAS. Together with advanced radar-based risk space mapping and AI-driven precision capabilities, a critical enabler for next-generation autonomous systems. By integrating our high-resolution imaging radar with the NVIDIA DRIVE AGX platform, we are delivering a powerful combination of sensing and computing performance. This collaboration was prominently featured at CES 2025, where Arbe showcased the integration in real-world driving scenarios. It's a strong validation of our technology and a clear signal of our expanding role in the software-defined vehicle ecosystem. Since January, we've demonstrated what we believe is the most advanced radar solution available at premier automotive trade shows across China, Japan, Germany, and the United States. Featuring on-chip super-resolution processing and real-time performance at 20 frames per second, our perception radar sets a new industry benchmark for radar image quality. The response from OEMs and tier ones has been overwhelmingly positive, further reinforcing our leadership in next-generation radar sensing. Finally, in January 2025, we successfully raised $33 million through an underwriting registered direct offering including a $4 million over-allotment option for the exercise by the underwriters led by Canaccord Genuity. In addition, in January 2025, $21.5 million was released to Arbe from the escrow account following the conversion of convertible bonds we issued on the Tel Aviv Stock Exchange in 2024. This capital strengthens our balance sheet and enhances our financial stability as we scale operations, invest in productization, and support expanding global engagement. In closing, the progress we've made across OEM partnerships, tier one integration, and cross-sector adoption demonstrates the maturity of our execution and the strength of our ecosystem. Backed by a solid financial foundation, we are positioned to lead the industry in the adoption of ultra-high resolution radar and unlock long-term value for our stakeholders. We look forward to sharing more as we continue to move forward. Now I'd like to turn it over to our CFO, Karine, to go over the financials. Karine Pinto-Flomenboim: Thank you, Kobi, and hello, everyone. Let me review our financial results for the first quarter of 2025 in more detail. Revenue for Q1 2025 was $0.04 million compared to $0.1 million in Q1 2024. Backlog as of March 31, 2025, was $0.25 million. Gross profit for Q1 2025 was negative $0.3 million, unchanged from Q1 2024, primarily reflecting the impact of fixed cost components given reduced revenue year over year. Turning to expenses, total operating expenses for Q1 2025 were $13.1 million compared to $12.5 million in Q1 2024. The increase was primarily driven by a one-time expense associated with the progression of our chip development towards final production, most notably tape-out. A decrease in non-cash share-based compensation expenses related to the finalization of certain vesting periods was offset by year-over-year provision adjustment. Operating loss for the first quarter of 2025 was $13.4 million compared to a $12.8 million loss in the first quarter of 2024. Adjusted EBITDA, a non-GAAP measurement which excludes expenses for non-cash share-based compensation, and for nonrecurring items, was a loss of $9.7 million in Q1 of 2025 compared to a loss of $8.5 million in the first quarter of 2024. We believe that this non-GAAP measurement is important in management's evaluation of our use of cash and in planning and evaluating our cash requirements for the coming period. Net loss in the first quarter of 2025 was $13.8 million compared to a net loss of $12.8 million in the first quarter of 2024. As of March 31, 2025, Arbe held $36.7 million in cash and cash equivalents and short-term bank deposits, and $35.2 million in long-term bank deposits. With respect to our guidance, we would like to reiterate what we previously said. Arbe's leading radar technology remains a top priority for key decision-makers in the automotive industry. Recent cash infusion totaling $70 million further underscores investors' confidence in our market potential and growth trajectory. While broader economic shifts have led to short-term delays in automakers' rollout of advanced driver-assist systems, decision timelines have been extended. As a result, Arbe continues to engage closely with industry leaders, advancing through RFQ stages and strengthening its position for adoption. We continue with our goal to pursue four design-ins with automakers in 2025. 2025 annual revenue is expected to be in the range of $2 million to $5 million and will be weighted toward the end of the year. Adjusted EBITDA for 2025 is projected to be in the range of $29 million loss to $35 million loss. Now we will be happy to open the call for questions. Operator,"
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Thank you. We will now begin the question and answer session. If at any time your question has been addressed and you would like to withdraw your question, please press star then two. Our first question will come from George Gianarikas with Canaccord Genuity. Please go ahead. Hi, everyone. Thank you for taking my questions."
+  },
+  {
+    "speaker": "George Gianarikas",
+    "role": "",
+    "text": "Maybe to start, can you just sort of please outline for us maybe in a little bit more detail the negotiations and the discussions you're having with OEMs and why you continue to expect wins to happen possibly in the second half of this year? Thank you."
+  },
+  {
+    "speaker": "Kobi Marenko",
+    "role": "",
+    "text": "Yeah. So basically, just to be sure, we understand, Arbe is not selling directly to OEMs. Arbe is selling to Magna the chips, and Magna is selling the total radar to the OEM. But we are deeply involved with all of the phases that are leading to the stage that Magna will get the order and Arbe will get, of course, from Magna, the order for the chip. So it's a kind of a three-way cooperation. With the leading OEMs in Europe today, we are working closely with Magna and with them, and Magna already delivered to them systems that are used in order to start data collection for their stock. There were back and forth in the last quarter of requests that are related to final production and most of them are on the software side. And we supported Magna heavily on providing those and we believe that today the solution that we have or Magna has with those OEMs is final and ready for final selection. And also since Magna radars are used as the main data collection platform, we believe that our chances to win are more than very high."
+  },
+  {
+    "speaker": "George Gianarikas",
+    "role": "",
+    "text": "And can you just reiterate this? Which geographies do you believe these OEMs are headquartered in?"
+  },
+  {
+    "speaker": "Kobi Marenko",
+    "role": "",
+    "text": "Europe. I think because Europe right now is leading the path towards hands-free eyes-off driving, with the US coming a bit behind. China, of course, is a different story. In China, we are engaged with Hirain and we believe that revenues and production there will come a year before."
+  },
+  {
+    "speaker": "George Gianarikas",
+    "role": "",
+    "text": "Maybe to talk a little bit about any momentum you're seeing in sort of your industrial recent momentum in that market. Any discussions you're having with any on those will be appreciated. Thank you."
+  },
+  {
+    "speaker": "Kobi Marenko",
+    "role": "",
+    "text": "So with the industrial application, we decided not to directly do those sales, and so we have this partnership with Sensoran. Since there is a nice amount of applications, but each one of them has quite low volume per application, hundreds of units, or thousands of units per application, we see it right now talking to Sensoran. We understand that they have clients in smart cities, they have clients in industrial applications, in heavy machinery, and even in factory applications. All of those are each one of those applications needs, I would say, a kind of customized software mainly. And this is the reason that Sensoran is supporting it. And they give those customizations to the customers across Europe and China."
+  },
+  {
+    "speaker": "George Gianarikas",
+    "role": "",
+    "text": "And maybe a final one for me. Your revenue guidance for the year implies a pretty material ramp in the third and fourth quarters. Can you just sort of illuminate for us again where you expect that revenue to come from? Thank you."
+  },
+  {
+    "speaker": "Kobi Marenko",
+    "role": "",
+    "text": "So first of all, we just announced today on the call a major order from Sensoran. The order came after the end of Q1. So in terms of revenue recognition, we need first to give them the chips in order to collect the money. So the revenues will be recognized later. We also have some support and NRE agreement with them to help them increase their ability to support applications. And the other revenue sources should come mainly from the selection of one of the leading OEMs. We believe that this will get us a few hundreds of systems more for data collection as well as the small NRE. And we believe that by Q4, we will be able to start ramping up the production in China with Hirain. And this is going to be already revenues for a really final production of chips. Thank you."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Our next question will come from Suji Desilva with ROTH Capital. Please go ahead."
+  },
+  {
+    "speaker": "Suji Desilva",
+    "role": "",
+    "text": "Hi, Kobi. Hi, Karine. So when I look at the RFPs, the other auto customers that you're targeting, other than the one you talked about, where are those in the process right now? How far along are they the other three relative to the one you discussed previously?"
+  },
+  {
+    "speaker": "Kobi Marenko",
+    "role": "",
+    "text": "I think in all of the programs that we are involved, we are making progress and the companies are making progress in parallel. The delays on selection are not related to our technology but more for the market itself and the ability of the OEM to actually put the resources that they need for nailing down the program. I think that the last few months due to the tariff and all of those issues, this brought a bit of delays on the decisions of the OEMs because it wasn't really clear what will happen with the hardware that they are buying and what will happen with the manufacturing of the car right now. I think that we're coming closer to an agreement, and they have the understanding of what will happen and I believe that this will release a bit the decision process of the OEM."
+  },
+  {
+    "speaker": "Suji Desilva",
+    "role": "",
+    "text": "Great. And then my other question is on China and the autonomous market there working with Hirain. Do you also have partnerships with the central auto processor companies that are that have traction in China? Is it NVIDIA or is it local vendors and are you working with all those? Do you need to for the solution to gain traction in China?"
+  },
+  {
+    "speaker": "Kobi Marenko",
+    "role": "",
+    "text": "Yeah. We are working also with Horizon Robotics, same as with NVIDIA. But, basically, our channel there is Hirain. Hirain is also building their full stack for level two plus, hands-free driving, and next it will be eyes-off driving. So they are using the central processors as well as our radar and cameras in order to provide a full solution and also Hirain is our channel to the robotaxis companies, the local robotaxi companies in China."
+  },
+  {
+    "speaker": "Suji Desilva",
+    "role": "",
+    "text": "And, Kobi, did I hear you on the call talk about a time frame for volume ramp in China? It sounds like it might have been earlier, but I might have misheard that."
+  },
+  {
+    "speaker": "Kobi Marenko",
+    "role": "",
+    "text": "It wasn't on the script, but it didn't change. We believe that end of this year, we will start ramping up production in China. The fact that Hirain announced that they have a production-ready radar I think, means that basically, it's now a matter of technicality when they will be able to start real production, whether it will be Q4 this year or it will slip a few weeks to next year. But we are in the final stages there. All of what needs to be done is there."
+  },
+  {
+    "speaker": "Suji Desilva",
+    "role": "",
+    "text": "Okay. Great. Appreciate all the color. Thanks, Kobi."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Again, if you have a question, our next question will come from Matthew Galinko with Maxim Group. Please go ahead."
+  },
+  {
+    "speaker": "Matthew Galinko",
+    "role": "",
+    "text": "Hey, thanks for taking my question. First, maybe can you, I think you mentioned you had a tape-out expense in the first quarter. What's a good R&D number to use for the balance of the year? Karine Pinto-Flomenboim: Hi, Matt. So I think our burn for our OpEx burn for the year is about $32 million to $34 million, and out of which R&D number for the year could be about $25 million annually."
+  },
+  {
+    "speaker": "Matthew Galinko",
+    "role": "",
+    "text": "Got it. And then I guess as far as timing for North America, it sounded like it's maybe you say it was about a year behind Europe, so we'd be looking at 2029 model years and maybe start-up revenue in 2028. Is that a realistic timeline?"
+  },
+  {
+    "speaker": "Kobi Marenko",
+    "role": "",
+    "text": "Yes. I think there were a few issues in all of the American companies had a few issues. GM had the issue with Cruise that they needed to merge it inside GM. And this generated a bit of delays for the ADAS algo with the same issue. And I think that right now, they are trying to stabilize and to select GM just announced that they're going with NVIDIA, which is, I think, good for us. As a partner of NVIDIA, and we believe that in the US, we will begin to see our revenues coming in 2028."
+  },
+  {
+    "speaker": "Matthew Galinko",
+    "role": "",
+    "text": "Got it. Thank you. Maybe last question for me is just I guess going back to gross margin expectations as we sort of hit the beginning of the ramp in China and then beginning of the ramp in Europe. You know, what should we expect from gross margin in kind of the early days of that ramp-up? Karine Pinto-Flomenboim: So gross margin again in ramp-up in those years should be in the range of 50% to 60%, 55% margin. On our first ramp-up year, actually, the first 100,000 to 200,000 units, we have what is called the safe launch, which is an extra testing on each chip and burning, and this increases the cost which reduces the margin to a level of 30% to 35% on this time frame."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "With no further questions, this will conclude our question and answer session. I would like to turn the conference back over to Kobi Marenko, Arbe's CEO, for any closing remarks."
+  },
+  {
+    "speaker": "Kobi Marenko",
+    "role": "",
+    "text": "Yes. So thank you, everyone. We were so pleased to have you join us today. To our employees and partners, your continued dedication is deeply appreciated. We look forward to updating you further on Arbe's progress in the coming months. Look out for updates as we prepare for several investor events including the Landenburg Tech Expo tomorrow, May 21 in New York, and the ROTH London Conference, June 25. We'd love to meet you in person for further discussion. Please contact us at [email protected] or visit our site to schedule a meeting. Thank you all."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "The conference is now concluded. Thank you for attending today's presentation. You may now disconnect."
+  }
+]

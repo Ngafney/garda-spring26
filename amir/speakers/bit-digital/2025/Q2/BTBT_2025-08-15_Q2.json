@@ -1,0 +1,202 @@
+[
+  {
+    "speaker": "Unknown",
+    "role": "",
+    "text": "Full Conference Call Transcript"
+  },
+  {
+    "speaker": "Sam Tabar",
+    "role": "",
+    "text": "Thank you, Cameron. Ladies and gentlemen, thank you for joining us on the call today. The past few months have been busy for our team, to say the least. The word transformation is likely overused in earnings calls. But Bit Digital has truly transformed since the end of the first quarter. In June, we announced our transition to an Ethereum treasury and staking platform. Last week, we completed the IPO of WhiteFiber, our former wholly-owned subsidiary, which is now a stand-alone AI infrastructure company. These two steps reshape our business and our strategy. Our focus going forward is simple. We want to build one of the largest institutional balance sheets in the public markets and generate scalable staking yield for our shareholders. We aim to do this through strategic and prudent capital allocation. Although WhiteFiber is now a stand-alone public company, our ownership and retained rights currently require us to consolidate its results in our financials under U.S. GAAP. The portion we do not own will be shown as a noncontrolling interest. That will remain the case unless and until our ownership or control falls below the threshold required for consolidation. We believe the WhiteFiber IPO is the best way to unlock value for our shareholders. We have created two focused independent platforms. With the WhiteFiber IPO behind us, we are now laser-focused on making Bit Digital the largest ETH treasury platform in the public markets. You could call this a reboot. Bit Digital is now finally in a position to scale as a pure-play Ethereum treasury and staking company. WhiteFiber, meanwhile, has the flexibility to pursue its own growth strategy as a stand-alone AI infrastructure company. We believe that this separation gives both companies greater strategic clarity and more disciplined capital allocation. We currently own about 74.3% of WhiteFiber, which would drop to around 71.5% if the green shoe is fully exercised. Our shares are subject to a six-month lockup following the IPO. Over time, we plan to fully unwind our position in a measured and opportunistic way. But we are in no rush. We are extremely excited by the future of WhiteFiber. We believe selling down our ownership prematurely would only hurt shareholder value for Bit Digital. Our goal is to maximize long-term value for shareholders of both companies. WhiteFiber remains a very valuable asset for our shareholders. But today's call is focused on Bit Digital's core business. We will not be providing forward-looking comments on WhiteFiber. For additional information on WhiteFiber, I encourage you to visit WhiteFiber's website and SEC filings. During the second quarter, we launched our plan to become a dedicated Ethereum holding and yield generation platform. As of June, we held approximately 3,663 ETH. After the quarter closed, we increased that to about 121,000 ETH as of August 11. This was funded in part by our recent equity offerings and by the sale of Bitcoin. Converting our Bitcoin into ETH has been a great trade so far. We earned approximately 166.8 ETH in staking rewards during the quarter. At quarter-end, around 21,568 ETH were actively staked. The annualized effective yield was approximately 3.1%. As of August 11, we had approximately 105,000 ETH staked. This transition represents a structural pivot. Our goal is to build the largest institutional ETH balance sheets in the public markets. We want to generate scalable staking yield for shareholders. This isn't a trend we're chasing. We've owned ETH since 2021. We held it through multiple market cycles. Earlier than any other ETH treasury company. We started converting our Bitcoin into ETH at a time when miners thought that was sacrilegious. Turns out, it wasn't heresy. It was foresight. We had conviction in the long-term potential of ETH. That conviction has only grown. We believe the value of ETH is still in the very early innings from an awareness standpoint. Now turning to Bitcoin mining. In June, we announced that we are exploring strategic alternatives for our Bitcoin mining business. We are open to either selling the business or winding it down. Basically, if we don't sell, we will run the fleet until units become unprofitable or hosting contracts expire. We will look for mutually beneficial outcomes as we work with our hosting partners. To be very clear, we will not invest in additional mining units. Simply put, we believe ETH will deliver better long-term returns than mining. You heard that right. We produced 68 bitcoins in the second quarter, down from 83 bitcoins in Q1. Mining revenue declined to $6.6 million, but gross margins remained positive despite lower production and a weaker hash price. As of quarter-end, our active hash rate was about 1.2 exahash, reflecting curtailments. Since then, we've deployed 2,130 S21 miners and expect to deploy another 1,445 later this month. As an important note, those units were purchased earlier this year. These newer machines, combined with the gradual retirement of older models, are expected to improve fleet efficiency to below 22 joules per terahash as the business winds down. With that overview, I will turn it over to Eric to walk through the financials."
+  },
+  {
+    "speaker": "Eric Wong",
+    "role": "",
+    "text": "Thank you, Sam. Total revenue for the second quarter was $25.7 million. That compares to $29 million in the same quarter last year and $25.1 million in the first quarter. Digital asset mining revenue was $6.6 million, down 59% year over year due to the April 2024 halving, higher network difficulty, and a lower active hash rate. Cloud services revenue was $16.6 million, up 33% compared to the prior year quarter. The increase was driven by the commencement of new customer contracts. Collocation services contributed $1.7 million compared to none in the same period last year, as the business was launched in late 2024. Ethereum staking revenue was $400,000, down about 2% year over year, as higher staking rewards were offset by a lower realized Ethereum price during the quarter. Cost of revenue, excluding depreciation, was approximately $13.2 million compared to $15.2 million a year ago and $12.8 million in Q1. Gross profit was approximately $12.5 million for a total gross margin of about 49%, up 80 basis points from the prior year quarter. G&A for the second quarter was $19.7 million compared to $5.5 million during the same quarter last year. Second quarter G&A included approximately $5.5 million in stock-based awards tied to milestone achievements related to our 2024 acquisition of Innovium, as well as certain consulting and legal-related expenses, which we expect to be nonrecurring. The stand-alone Bit Digital cost structure is expected to be significantly less than our consolidated G&A with WhiteFiber. Net income for the quarter was $14.9 million or 7¢ per diluted share, versus a net loss of $12 million in the same year quarter. Adjusted EBITDA was $27.8 million compared to negative $3.8 million a year ago. This includes a $27.2 million gain on digital assets. On the balance sheet, as of June 30, we held $181.2 million in cash and cash equivalents. Total digital assets were $91.2 million, consisting of Ethereum and approximately 280 Bitcoin. Subsequent to quarter-end, we sold our Bitcoin position and used the proceeds to acquire Ethereum. Including USDC, total liquidity was approximately $273 million as of June 30. We remain debt-free. During the quarter, the company signed a 60 million Canadian dollars credit facility with the Royal Bank of Canada. However, the facility transferred to WhiteFiber following the IPO. CapEx for the quarter was $82 million, primarily related to legacy HPC commitments for the WhiteFiber business, including the purchase of North Carolina One data center site infrastructure development, and GPU procurements. I will now hand the line back to Sam."
+  },
+  {
+    "speaker": "Sam Tabar",
+    "role": "",
+    "text": "Thank you, Eric. The second quarter marked the start of Bit Digital's next chapter as a focused Ethereum treasury and staking company. We believe ETH is the most compelling long-term digital asset. It empowers a global computer network. It enables the tokenization of assets, decentralized finance, and real-world applications. It is programmable, productive, and deflationary. The ETH ecosystem continues to flourish. It has the most active developer base. Major institutions like Coinbase, PayPal, and BlackRock are building on it. We believe Ethereum is becoming the financial infrastructure layer of the Internet. Regulatory clarity has also improved. The Genius Act was signed into law last month, creating a stablecoin framework that strengthens Ethereum's role in digital payments. The Clarity Act, which affirms ETH as a digital commodity, is moving through the Senate. Together, these are meaningful steps toward broader institutional adoption. In plain English, the rules are catching up to the reality. We see ETH as a scarce productive treasury asset. It earns yield. We believe that it is set to capture more value as activity migrates on-chain. Our priorities are to scale our ETH position, optimize staking yield, and maintain a strong liquid balance sheet. Our goal isn't just to buy ETH. It is to grow long-term value per share. That means expanding our position at a measured pace, deploying capital when the value proposition is compelling, and issuing shares at prices we view as a premium to our net asset value. While we do not have a buyback program in place, we would be open to considering one in the future should our shares trade at a meaningful discount. Even if that required reallocating ETH holdings. We are also differentiated by our substantial ownership stake in WhiteFiber, a valuable public company in its own right. Over time, that stake provides a unique source of strategic flexibility that could be monetized, if appropriate, to grow our ETH position in a nondilutive way. We intend to follow Michael Saylor's playbook with the goal of driving our share price to a meaningful premium to NAV over time. Accordingly, we are exploring capital market alternatives to raise further capital to purchase additional ETH in a nondilutive fashion. It's worth noting that our June 2025 issuance priced at $2 per share, subsequently traded materially higher, and remains at a substantial premium to that share price. Looking ahead, we expect to continue scaling our ETH position through operational cash flow, opportunistic market access, and, where appropriate, other sources of capital that align with shareholder interests. To support that flexibility, we have included a proposal in our upcoming proxy to increase our authorized share count. This isn't tied to any immediate financing plan. It is about ensuring that we have the tools to execute our ETH treasury strategy in a disciplined and shareholder-aligned way. We ask that you vote and return your proxy card. Bit Digital is built to be more than an ETH holder. We are a platform for compounding value through yield, strategic capital allocation, and the flexibility of our WhiteFiber ownership. We believe these advantages position us uniquely to deliver sustained growth in value per share over the long term. With that, we'll open the line for questions. And as a reminder, we will not be answering questions related to the WhiteFiber business beyond what has already been disclosed. Operator?"
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Thank you. If you would like to signal with questions, please press star 1. Please make sure your mute function is turned off to allow your signal to reach our equipment. Again, that is star 1 if you would like to signal with questions. And the first question will come from Brian Dobson with Clear Street."
+  },
+  {
+    "speaker": "Brian Dobson",
+    "role": "",
+    "text": "Hi. Thanks very much. Good morning, and thanks for taking my question. So there's certainly been a lot of growth in the treasury business model, and Bitcoin treasury models like strategy are getting a lot of the headlines. But Ethereum staking can generate real returns for investors. You know, do you think you could speak to the growing acceptance of Ethereum staking among institutional investors? And how do you see this business model developing over time?"
+  },
+  {
+    "speaker": "Sam Tabar",
+    "role": "",
+    "text": "Sure. I mean, there are so many ways to answer that question. First of all, we think it's a pretty smart move to accumulate ETH, and we're glad to see other companies leaning into that strategy. You know, the more companies that lean into that strategy, the more that Ethereum goes up. We're pretty happy about that. We don't see that as pure competition. It's more of a cooperation-competition hybrid. Broader adoption for us helps validate the asset. It benefits everyone who's already participating. We've been staking ETH for a long time. And we're not just holding it. We've been actively staking ETH for years now and generating yield. Our strategy is about compounding value with a productive treasury, as you mentioned, not just building a static ETH position. It's also probably worth reminding that we do own a large stake in WhiteFiber, and that stake gives us a unique potential source of nondilutive capital that we may use to grow our ETH holdings over time. So we are very much in a unique position. We've been talking about Ethereum and how that is a productive treasury asset compared to Bitcoin because it has the yield. It's worth noting that ETFs, I'm not sure if ETFs even have the ability, although they're talking about it, to capture yield. That's one of the reasons why these ETH treasury plays are popular because people can get staking economics by buying an ETH treasury public company. That's something that you really couldn't do in the past. I hope that answers some of your question."
+  },
+  {
+    "speaker": "Brian Dobson",
+    "role": "",
+    "text": "Yeah. It certainly does. Thank you so much for the details."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "And the next question will come from Joe Gomes with Noble Capital."
+  },
+  {
+    "speaker": "Joe Gomes",
+    "role": "",
+    "text": "Thank you. Good morning."
+  },
+  {
+    "speaker": "Sam Tabar",
+    "role": "",
+    "text": "Hi, Joe. Can you hear me?"
+  },
+  {
+    "speaker": "Joe Gomes",
+    "role": "",
+    "text": "Yes. I can hear you. Just wanted to clear something up. First, Eric, I'm not quite sure I heard. I just want to make sure. On the G&A, I did see that, you know, the professional consulting fees, you know, were significantly increased and the same with the share comp, which drove overall G&A, you know, up to the $19.7 million from $8.2 million in the first quarter. Did you say that those consulting and the share comp are going to go back to a normalized level so that G&A going forward would be back to, let's call it, $8 to $10 million, or are we going to be at a higher level going forward?"
+  },
+  {
+    "speaker": "Eric Wong",
+    "role": "",
+    "text": "Yes. We do see this as a one-time, you know, a pop. A big part is related to our acquisition of Innovium as a milestone of the team. That's, you know, $5.5 million. And some other, you know, consulting fees are related to, you know, the IPO expenses. Those are all, you know, going to be related to WhiteFiber. So going forward, you see, you know, Bit Digital itself. The G&A will drop substantially."
+  },
+  {
+    "speaker": "Sam Tabar",
+    "role": "",
+    "text": "Yeah. I'd love to add to that. So, you know, in terms of the question of, you know, going forward cost structure and what that will look like now that WhiteFiber is separate. To Eric's point, the stand-alone Bit Digital cost structure will be significantly leaner than what you see in our consolidated results. Most of the CapEx and G&A associated with WhiteFiber will no longer apply. So we'll be operating with a much simpler, much simpler footprint. Fewer business lines, fewer people, and much lower infrastructure spend. The simplicity is part of what makes the ETH treasury strategy scalable. And going forward, we expect corporate expenses to trend down and ETH staking margins to play a larger role in our profitability. Second quarter G&A also featured a material amount of one-time and nonrecurring items, to Eric's point. So the cost structure is less than a figure derived from simply allocating part of the G&A to WhiteFiber and part to Bit Digital."
+  },
+  {
+    "speaker": "Joe Gomes",
+    "role": "",
+    "text": "Okay. I mean, I will just make the comment. I'm not quite understanding, Sam, why you don't want to talk about WhiteFiber. I mean, you guys still own 70% of it. The numbers aren't going to be consolidated. It's a big part of the value equation here in the story. And to just say you guys are not going to talk about it, it doesn't make a whole lot of sense to me. So I'm just throwing that out there, but thank you for your answer on the G&A."
+  },
+  {
+    "speaker": "Sam Tabar",
+    "role": "",
+    "text": "Well, let's just let me comment on your comment. WhiteFiber is its own operating company, and that was the point of the IPO. And so we have to treat it somewhat separately. A separate call and separate website and separate team. I can say that we currently own, you're right, we do own approximately 71.5% to 74.3% of WhiteFiber depending on the underwriter options, and those shares are subject to a six-month lockup. I can say that we view that stake as a strategic and financial asset for Bit Digital. I could say that over time, we intend to unwind that position in a very measured and opportunistic way. That would mean monetizing shares when it makes sense, either to reinvest in our ETH strategy or return value to shareholders. We're not committing to a specific timeline, but we do see the full separation as the long-term path going forward. But if there are some questions, we will, you know, in the future, hold a similar format for WhiteFiber. If we made this call about WhiteFiber and not Bit Digital, it would be very confusing. And it would sort of defeat the purpose, I think, of keeping the companies separate. Because an ETH treasury play and a digital infrastructure play are just very different narratives, different audiences, different stories, and different operations. And that was one of the main reasons to have this IPO. So I think WhiteFiber deserves its own format, its own call, and so on. So I hope you understand."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "And the next question will come from Nick Giles with B. Riley Securities."
+  },
+  {
+    "speaker": "Nick Giles",
+    "role": "",
+    "text": "Hey. Great. Thank you, operator. Good morning, everyone. Just to follow up, I mean, you know, beyond ETH purchases, what are some of the other ways that you can support the overall Ethereum ecosystem? You know, are there any partnerships you could consider? And, you know, really, just as we see increased competition in the treasury strategy landscape, how do you plan to market this platform and its overall contribution? Thank you very much."
+  },
+  {
+    "speaker": "Sam Tabar",
+    "role": "",
+    "text": "Yeah. I think we've been a little bit hamstrung on the ETH treasury play because we were under the mandated quiet period when we were going through the process of the WhiteFiber IPO. That is finally slowly receding. And when I mentioned that there's a reboot for our ETH treasury play, I meant it. So now that the IPO is behind us, you'll be seeing us on the circuit much more often and catching up on mindshare. We were the first ones to do this compared to any other ETH treasury play out there, and so we have the ability and the appetite to catch up on mindshare. We're already doing that. We have plans on that. But you're right. Part of the competition is to own the narrative. And right now, there's, you know, there's a few companies out there, and then we're all competing on mindshare. And, of course, at the same time, you've got to buy a lot of ETH. We have plans to buy a lot of ETH, and we have plans to capture mindshare. And it's something that we'll be executing on for sure. You know, there is some catching up to do because of this IPO. Frankly, trust me, the IPO was a very heavy lift. Not to mention the mandated quiet period that we had to be on. It was frustrating to have metaphoric duct tape in my mouth and not being able to talk about Ethereum in our treasury play, but that's finally that chapter in that era is finally behind us."
+  },
+  {
+    "speaker": "Nick Giles",
+    "role": "",
+    "text": "I appreciate that color and the background. My next question would just be you touched on the Genius Act, which has obviously been transformational for the space. I mean, where do you think the regulatory framework could or should go from here?"
+  },
+  {
+    "speaker": "Sam Tabar",
+    "role": "",
+    "text": "Well, I think the regulatory framework will certainly be in favor of all things crypto. As a reminder, there was an era where Gary Gensler was the chairman of the SEC. That era is finally behind us. We have a very friendly SEC towards crypto. Almost every other day, there is a positive statement or rule interpretation that is very friendly towards this new technology. So we're really happy to see that. At the congressional level, we're seeing, like you mentioned, the Genius Act and the Clarity Act. That is obviously, excuse me, very, very, you know, offers a lot of clarity and rules. Where these rules and clarity just wasn't there in the past. In the past, during Chairman Gary Gensler's era, there were no rules. And if you did anything, these poor programmers that were building on the Ethereum ecosystem would be, you know, it was regulatory warfare. And, you know, I had friends who just weren't sure if they should build on Ethereum because they didn't want to go to jail because they had no idea what the rules are. That's a very different era today. And we've only started this era just about seven months ago. So, you know, we have a long way to go. And people are also beginning to understand the value of Ethereum, why Ethereum has a lot of technological prowess over the mother coin, which is Bitcoin. It has smart contracts. It can rewrite the entire financial system. We're seeing institutions like JPMorgan even leaning in on the Ethereum ecosystem because it has absolute value. Especially if it wants to rebuild in a more or rather less frictionless way for its infrastructure, its back office, and middle office. I can't imagine the front office is wanting to embrace Ethereum because that's a bit existential for them. But they're going to start with the back office and how Ethereum can replace that. So it's a very great time with respect to the Clarity Act. Sorry, the Genius Act. That provided a lot of clarity on rules for stablecoins. And it accepts stablecoins as a formal payment processor. And so you're going to see a lot of issuers build their own stablecoins. PayPal has already done it. You're going to see other issuers and other companies have their own stablecoins. And remember, more than 50% of stablecoins are built on Ethereum. That is a blue-chip ecosystem. And people are beginning to realize that and wake up to that. And, you know, I'm very bullish on Bitcoin. I think Bitcoin is its main competitor are the gold markets. Gold is a simple store value. And Bitcoin is a simple store value. But, frankly, if Bitcoin and Ethereum look. Bitcoin had a first-mover advantage, if Bitcoin and Ethereum were invented on the first day. I don't think people would be talking about Bitcoin. It's just not the technology that Ethereum has. So that is why you're seeing a lot of success right now in ETH treasury plays. There's a yield. There's fundamental value. There's technology. It's programmable. And it could rewrite the entire financial system. Bitcoin can't. Bitcoin is simply an answer to gold."
+  },
+  {
+    "speaker": "Nick Giles",
+    "role": "",
+    "text": "Sam, I really appreciate your perspective. So continue best of luck."
+  },
+  {
+    "speaker": "Sam Tabar",
+    "role": "",
+    "text": "Thank you. I mean, the market's, I don't think I need the luck because the markets are speaking for themselves right now. And, you know, selling our Bitcoin on our balance sheet and buying Ethereum was a great trade."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "And we'll take our next question from a participant from H.C. Wainwright. Please provide your name as well. Thank you."
+  },
+  {
+    "speaker": "Kevin Dede",
+    "role": "",
+    "text": "Oh, Hi, Sam. It's Kevin. Hey, Kevin. Long time. Yeah. Can you hear me okay? Great. Hi, Eric. Cam. Thanks. Thanks for letting me hop on here. You know, I was hoping you wouldn't mind talking a little bit more, Sam, please, about your Bitcoin mining thinking. I understand you're at 1.2 exahash with about 700 petahash coming in, I guess, through July and future S21 deployments. I'm just wondering if you could give us a hint on how the fleet has aged and how you might see tapering what you have, legacy machines off, as those come on, and what you might recommend we consider in Bit Digital's Bitcoin hash at least for the near term, understanding full well it's not a long-term strategic initiative."
+  },
+  {
+    "speaker": "Sam Tabar",
+    "role": "",
+    "text": "Yeah. I mean, look. That's right. We're in the process of winding down our Bitcoin mining business. It's part of our strategic shift towards Ethereum. We're no longer investing in new machines. And over time, we do expect our active hash rate revenue to decline as hosting contracts expire and older machines become unprofitable. To your point, we've recently deployed a batch of efficient S21+ units that will help maintain positive margins while we wind down. Our strategy is to continue operating the fleet as long as it remains on a unit-by-unit basis. As mentioned, if there's a chance to sell the business, we'd be happy to evaluate that. But absent that, the plan is just to let the business sunset in a way that maximizes cash flow and minimizes disruption. I think you talked about the current fleet efficiency and how that's trending as of June. Our fleet efficiency was approximately 25.1 joules per terahash. That's improved since quarter-end. We've also deployed, as mentioned, 2,130 S21+ miners and plan to deploy another 1,445 in the next coming weeks. Once those are online, we expect fleet efficiency to improve to around 23.3 joules per terahash. I apologize. And as mentioned, as you could all as you can guess over time, as older models roll off, we anticipate fleet efficiency to fall in the range of 17.5 to 23.5 joules per terahash. And, look, you know, we do expect total fleet hash rate to decline gradually as we wind down the mining business and retire older units. In the short term, the S21+ deployments will add around 370 petahash of capacity. So to the 1.6 to 1.8 range. But as older contracts expire and we transition toward only running the most efficient fleets, in other words, the S21s and the S19k Pros, the total hash rate will decline while margins should improve. And I don't know. I'm not sure if you're asking us whether continuing and mining equipment is, you know, should we continue investing in mining equipment even though our margins are still positive? No, we just think that the capital allocation is just juicier if we allocate if we reallocate everything towards our ETH treasury play."
+  },
+  {
+    "speaker": "Kevin Dede",
+    "role": "",
+    "text": "Yeah. No. No. That point resonated clearly, Sam. No question there. It's just appreciate the help on how you see, you know, the hash rate trending. So if you get arms around it in the model, you also mentioned, you know, reducing infrastructure at personnel, and I was wondering if you wouldn't mind sort of walking through headcount. Maybe we could kind of get our arms around where SG&A would sort of bottom out."
+  },
+  {
+    "speaker": "Sam Tabar",
+    "role": "",
+    "text": "Yeah. Absolutely. I mean, the G&A is certainly going to be much less on a going-forward basis because most of the G&A was focused on WhiteFiber in terms of headcount. I think Eric has a more granular grasp on that. Eric, do you recall how many people are going to have migrated to WhiteFiber and how many are staying with Bit Digital?"
+  },
+  {
+    "speaker": "Eric Wong",
+    "role": "",
+    "text": "I think at this point, WhiteFiber will probably take about 70% of the personnel. And while there are some, you know, overlapping and consolidation and, you know, there's a transition period, but, you know, Bit Digital should remain pretty lean. And, you know, Kevin, you can check out the WhiteFiber, you know, S1 that, you know, they might, you know, subtract that portion from WhiteFiber, but that gets to, you know, Bit Digital G&A."
+  },
+  {
+    "speaker": "Kevin Dede",
+    "role": "",
+    "text": "Alright. Good idea. Thanks. Sam, the executive offices are a little unclear to me. I understand you're going to run two companies separately. I just maybe walk through who's heading up what and where."
+  },
+  {
+    "speaker": "Sam Tabar",
+    "role": "",
+    "text": "Yeah. Absolutely. So as you recall last fall, we acquired Innovium, a data center operator. That team has about twenty years of building greenfield and retrofit tier three data centers. That was one of the main reasons why we acquired them. They've been in the trenches of retrofitting old facilities that had nothing to do with tier three data centers and converting them into tier three data centers. They've been doing that for the likes of other hyperscalers like Amazon and Microsoft, and they continue that track record under the Innovium umbrella. And then we acquired them for about $46 million last fall. So that particular team is very intact. It's run by Billy Krassakopoulos, who is still the CEO of Innovium and is now transferred to WhiteFiber. There is no difference for the data center team. The day-to-day was always operationally very separate and had nothing to do with what Bit Digital was doing. We also have a cloud team that's run by Ben Lampson, who we were able to hire from another well-known Neocloud, in fact, the first Neocloud in history, and he was the first business development hire over there. So both the cloud business and the data center business are under WhiteFiber. They actually were always under WhiteFiber even before the IPO. So they were operationally very different than the people we had on the Bit Digital side. So there's no overlap except for two or three folks, the ones on the call today. Myself, Cameron, and Eric. We will, for example, be very much involved in the relations portion of both companies. Eric will be very much involved, of course, in the financial allocation and the strategic discussions, and so will I in terms of the capital allocation between our cloud and data center business. But in terms of the operational day-to-day, that is very separate. I would never be able to tell, you know, for example, Billy's team on the construction crew side how to build a tier three data center. They've been doing this for two decades. And so that would not be appropriate for me, Cameron, or Eric to get involved with. But, again, the cloud team and the data center team, they've been operationally very separate from Bit Digital since day one. And they continue to be especially after this IPO. And the only overlap that takes place are those who are on the call. From a strategic perspective, an IR perspective, and a financial allocation perspective."
+  },
+  {
+    "speaker": "Kevin Dede",
+    "role": "",
+    "text": "Thanks, Sam. One last one for me, if I may. I was wondering if you could give us a little insight on the handling of your Ethereum. Who do you have it staked with? What are they charging you to manage that? What are your longer-term or what's your longer-term thinking about maybe running nodes yourself? How are you considering that?"
+  },
+  {
+    "speaker": "Eric Wong",
+    "role": "",
+    "text": "Yeah. We're partnered with, you know, Fireblocks as our custodian and staked through Fireblocks with the help of Figment for native staking. And also, we had, you know, stakes through Lido for liquid staking. We're working with Lido. So those are various, you know, partners we had been working with. And the native staking brings out about 3% yield. Liquid staking bumps up a little bit too, and the cost, you know, it's less than 10%, I would say, yeah, in terms of EBIT margin."
+  },
+  {
+    "speaker": "Kevin Dede",
+    "role": "",
+    "text": "How are you thinking about it going forward, Eric? Do you think you might take some of that validator node operation in-house?"
+  },
+  {
+    "speaker": "Eric Wong",
+    "role": "",
+    "text": "We did, you know, R&D around that, but, you know, at this point, towards, you know, partnering with those institutional, you know, vendors and partners, and they had been, you know, doing a great job and, you know, giving us, you know, a lot of clarity and support and, you know, reporting and, you know, compliance, etcetera. So I think in the short term or medium term, we'll still be using those partners."
+  },
+  {
+    "speaker": "Kevin Dede",
+    "role": "",
+    "text": "Very good. Thank you, gentlemen. Thank you for taking my questions. Appreciate it. Congratulations on navigating all that you have lately."
+  },
+  {
+    "speaker": "Sam Tabar",
+    "role": "",
+    "text": "Thank you. There was an important question about why we can't comment too much about WhiteFiber. It's worth mentioning that the WhiteFiber quiet period ends on August 31. So it's just another reason why we can't comment too much on WhiteFiber for the time being."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "And that does conclude the question and answer session. I'll now turn the conference back over to you."
+  },
+  {
+    "speaker": "Sam Tabar",
+    "role": "",
+    "text": "Thank you very much, ladies and gentlemen, for your time today. We look forward to the next call. We are working very hard on executing this vision. You know, Rome wasn't built in a day, so thanks very much for your patience. We are aiming to provide maximum shareholder value. So thank you for supporting us, and until the next call. Thank you."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Thank you. That does conclude today's conference. We do thank you for your participation. Have an excellent day."
+  }
+]

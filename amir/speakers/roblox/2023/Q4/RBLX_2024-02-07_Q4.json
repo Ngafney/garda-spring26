@@ -1,0 +1,242 @@
+[
+  {
+    "speaker": "Unknown",
+    "role": "",
+    "text": "Operator Good morning. My name is Dennis, and I will be your conference operator today. At this time, I would like to welcome everyone to the Roblox fourth-quarter and full-year 2023 earnings conference call. [Operator instructions] I would now like to turn the conference over to Stefanie Notaney, senior director, financial communications. You may now begin your conference. Stefanie Notaney -- Director, Financial Communications Thank you, Dennis. Good morning, everyone. Thank you for joining our Q&A session to discuss Roblox's fourth-quarter and full-year 2023 results. With me today is Roblox co-founder and CEO, Dave Baszucki, and CFO, Mike Guthrie. As a reminder, our shareholder letter, press release, SEC filings, supplemental slides, and a replay of today's call can be found on our Investor Relations website at ir.roblox.com. On this call, we will make some brief opening remarks and reserve the rest of the time for your questions. Our commentary today may include forward-looking statements, including, but not limited to, expectations of our business, future financial results, and strategy. Forward-looking statements are subject to risks, uncertainties, and assumptions that could cause actual results to differ materially from those described in our forward-looking statements. A description of these risks, uncertainties, and assumptions are included in our SEC filings, including our most recent reports on Form 10-K and 10-Q. You should not rely on our forward-looking statements as predictions of future events. We disclaim any obligation to update these statements, except as required by law. During this call, we will also discuss certain non-GAAP financial measures. Reconciliations between GAAP and non-GAAP metrics can be found in our press release and supplemental slides. With that, I'll turn the call over to Dave. Dave Baszucki --"
+  },
+  {
+    "speaker": "Co",
+    "role": "Founder and Chief Executive Officer",
+    "text": "Thank you. Hey, welcome everyone to our Q4 and full-year 2023 earning call. It's great seeing or hearing or talking with all of you, and it was great seeing you all at Investor Day. We had a strong fourth quarter and a strong full-year 2023, consistent with the outlook we made at Investor Day. Some highlights in Q4 are DAU 71.5 million, up 22%; hours engaged 15.5 billion, up 21% year on year; revenue $749 million, up 30% year on year; and bookings $1.1 billion, up 25% year on year. It was our first quarter over $1 billion in bookings and also our highest quarterly growth rate in two years. For the full year and fiscal year 2023, DAU is up 22%, hours up 22%, revenue up 26%, and bookings of $3.5 billion, up 23% year on year. We continue to invest in innovation and simultaneously invest very thoughtfully in the growth rate of those investments. And at our Investor Day, we discussed thoughtfully balancing the growth rate with our investments both in cost of revenue, infrastructure expense, people, and capital expenses. And we're pleased to share that, in Q4, we delivered net cash flow from operations of $143 million, up 20% year on year, strong net liquidity of $2.2 billion, and our covenant adjusted EBITDA was $259 million. Mike will talk more about the balance of our investments and the management of our margin targets. I want to highlight going all the way back to our S-1, our four-dimensional growth strategy, including all ages, international, Roblox everywhere, and a vibrant economy. And in all four of these dimensions, we made great progress. On all ages, our 13-and-over DAUs grew 28% in the last quarter and over 58% of our DAUs are now 13 and up. And these older DAUs are interesting and exciting for the advertising business that we're building. Our growth continues to be the result of innovation and investment in the platform as well as our amazing creator community. On the international side, DAUs in the U.S. and Canada grew 17%. DAUs outside of the U.S. and Canada grew 23%. A couple of highlights in Q4, Japan DAUs 45%, India Q4 DAUs up 59% year on year. This growth, we believe, is supported by our international expansion playbook, including a foundation of safety and civility, automatic AI-powered language translation. So all of the content our creators create can run around the world. Our infrastructure, including edge data centers around the world to supply performance and reliability, great content developers popping up all around the world, and continued innovation here. On Monday, we announced that our own AI model is powering real-time AI chat translation, allowing people around the world to communicate with people who are chatting in a different language. On Roblox everywhere, in Q4, we released Roblox on PlayStation and on Meta Quest. Both of them attracted new users and continued on our vision that we want Roblox everywhere. In our vibrant economy expansion, in Q4, we delivered developer subscriptions. We're moving consistent with the vision of everything is creator-driven, our avatar platform to full UGC. And quick update on our advertising initiative. We had the most brand engagements ever in Q4, 69 great brands working with the platform, and we're scaling up over 2024. A couple of highlights on innovation that we're building on top of all of this. On our social side, we're connecting more friends all the time. We released real names for 17 and up players. We released video capture -- sorry, image capture now. We hinted where we might go there someday. On the immersive communications side, we saw great growth in our voice DAUs. Voice DAUs are up 161% year over year, which is just highlighting our vision of Roblox connecting and really acting as a connection and communication platform. On the avatar front, we continue to make progress in immersive connective avatars in addition to layered clothing we released this year, and we're seeing more penetration on facial animation everywhere. We are seeing more penetration on voice chat. And a hint of what's to come at our Roblox Developer Conference, we hinted around the use of our own AI to generatively create avatar. The AI opportunity at Roblox is manifest and everywhere. We've been working on this behind the scenes for many, many years. On the more visible generative side, we have announced Roblox Assistant, which is now in beta where creators can use natural language text prompts to generate new ideas in addition to code assist and material assist. Behind the scenes, we continue to roll out more and more AI on real-time image, voice, and chat moderation, which in addition to constantly improving quality is also making our whole safety platform much more efficient. Looking forward, we will continue on our path of innovation and execution. Consistent with what we shared with you at Investor Day in 2024, we are driving growth and engagement in DAUs. We are relentlessly focusing on the leverage we gain from raw performance, quality, and cost to serve efficiency. We are focused on accelerating monetization through advertising and our virtual economy. We are using AI both in, once again, the user-facing generative way to accelerate creation and expression, but also behind the scenes for cost and quality. And underlying this always since day one is our focus on safety and civility from the start of our platform to really this day forward. And we continue to be optimistic about our mission to connect 1 billion people every day with optimism and civility, not just in gaming, but in entertainment, ultimately in shopping, ultimately in social communication, and ultimately in learning and education where we're making amazing progress as well. With that, I'm going to pass it over to Mike Guthrie, our CFO. Mike Guthrie -- Chief Financial Officer Thanks, Dave, and good morning, everyone. Just a few quick comments before we open it up to your questions. So obviously, we're pleased with the '23 results. I'm going to reference our supplemental materials, which are on the IR website, ir.roblox.com, and some of the charts there. So on bookings, as Dave said, Q4 $1.127 billion, that's 25% growth year over year, strength across all geographies, which you can see on Page 18. Expense growth, in particular, compensation and infrastructure are two big fixed costs. On Pages 12 and 13, you can see are growing at a slower rate than bookings growth and that's yielding healthy operating margins and more cash flow from operations. Cash from operations on Page 19, you can see the growth there, and how we saw good growth year over year both in Q3 and in Q4. And then, reduced capital expenditures are yielding significantly higher free cash flow. I want to now address some seasonality, which I think will help people with their models. We're really starting to see good seasonality in the business and really in '22 and '23, we're through COVID comparisons and so you can really start to see things more clearly. On bookings back to Page 17, normally Q1 is down from the Q4 of the prior year, the holiday season. Q1 and Q2 are pretty similar in terms of overall bookings with a slight uptick in Q2. And then, we see very good sequential growth in Q3 with the summer, and then a big sequential jump in Q4 for the holidays, and then again back down a little bit in Q1 of the next year. So that's normal seasonality on bookings and you can really see that. On Page 19, you can start to see our cash flow from operations and the seasonality around cash from operations. Let me just talk a little bit about that. Note that Q1 is normally the highest cash from operations rather than Q4, which is the highest in bookings. And the reason for that is simply working capital. We had a working capital buildup in Q4 when holiday bookings are the highest, and then there's a big release of that with post-holiday collections. And so Q1 tends to be our highest cash flow from operations. On Page 36, looking at covenant adjusted EBITDA, it's a little bit different than cash from operations because the difference is actually that change in working capital. And therefore, the seasonality around covenant adjusted EBITDA tracks much more with normal bookings. So Q1 is lower because we don't have the working capital benefit. Q2 goes down a little bit because we tend to grow the top line but also invest a little bit, and we have some amount of fixed cost growth. And then, Q3 and Q4 covenant adjusted EBITDA tends to pick up with growth in summer bookings and then, of course, hits its peak in Q4 with peak holiday bookings. And free cash flow, we'll start to see more seasonality -- normal seasonality as long as capex sort of matches and flows throughout the course of the year, which we think it will. Some other quick callouts, Dave talked about DAU growth and hourly growth, great numbers, both overall and across all geographies and with older users. I do want to call out monetization. Our bookings per DAU, which you can see on Page 26, was up 3% overall, and, on Page 27, was up across most of the regions around the world. And then, on Page 28, monthly unique payers hit an all-time peak in the fourth quarter. And a big call out, bookings per monthly unique payer was the highest of any Q4 and actually, of course, the highest in the history. And that number was up nicely over the same number this time last year. Our share count grew by about 3.7%. Let's talk a little bit about guidance and then we'll open it up to your questions. We are obviously guiding to GAAP revenue and GAAP net loss. These are going to be a little bit difficult for you to get exactly right because of the waterfall of the deferred and the factors that go into determining that number. So those are the natures of goods purchased whether it's a consumable or a durable and then the life of a paying user. We're also guiding on a non-GAAP basis to bookings and adjusted EBITDA. Now you're all familiar with bookings. This quarter, we're guiding to adjusted EBITDA and that calculation differs from what most of you refer to as adjusted EBITDA in your Roblox models. What most of you are referring to is covenant adjusted EBITDA. So just to clarify again, the difference between covenant adjusted EBITDA is calculated by adding back that net charge of deferrals. And so that's what most of you are modeling to. So when you see the adjustments and you'll see in our releases, you have to add back the deferred to get what's in your models as adjusted EBITDA. Margin guidance, about 100 basis points to 300 basis points. We talked about this at Investor Day, that means year over year by quarter and for the full year. So when we have variance in margin, that's OK, just we're going to show margin improvement in each of those quarters and then overall. So for example, many of you in your margin expectations for Q4 were at about 18%. We generated about 23%. And for us, that compares to 20.3% last year. So it was about a 270 basis point increase in the fourth quarter. And then, for the full year, consensus estimates were about 10% for '23. We produced 12.3%. So that's about 230 basis points of improvement. Now, for the full year and then I'll stop and let you ask questions. For the full year, the midpoint of our margin guidance would suggest 13.4% or 110 basis points higher than where we were last year, and the high end implies about 14% or 170 basis points. And for Q1, the midpoint is about 8%, which is also 110 basis points higher than where we were last year in Q1, again, just the seasonality and the change in margins and the high end implies 8.3% or about 140 basis point improvement. So with that, why don't we turn it over to questions? Dave Baszucki --"
+  },
+  {
+    "speaker": "Co",
+    "role": "Founder and Chief Executive Officer",
+    "text": "Yeah. And just highlighting two growth rates, Q4 bookings growth, 25%; fiscal year bookings growth, 23%. So thanks, Mike. Questions & Answers: Operator [Operator instructions] We'll first go to the line of Omar Dessouky with Bank of America. Please go ahead. Omar Dessouky --"
+  },
+  {
+    "speaker": "Bank of America Merrill Lynch",
+    "role": "Analyst",
+    "text": "Hi. Thank you for taking my question. I wanted to get a sense of how much the developer layoffs in the video game industry could potentially be a tailwind for you in 2024. Some industry experts estimate that over 10,000 workers lost their jobs in the video game industry in 2023. And Kotaku reports that over 6,000 have already lost their jobs in January, including 2,000 from Microsoft. And I was wondering, did you notice more mobile app and PC console game developers than usual joining the Roblox developer community in Q4 or in January so far. And what is Roblox doing in 2024 to attract some of that video game industry talent to your ecosystem? And then, I have one quick question after that. Dave Baszucki --"
+  },
+  {
+    "speaker": "Co",
+    "role": "Founder and Chief Executive Officer",
+    "text": "Hey. Two ways to talk about this. First, we continue internally within the company to hire throughout this year. Also over -- really all of the last years, all the cohorts of the creators on Roblox have continued to grow and make more money whether it's the top 10, top 100, or top 1,000. So what you're asking has already been in place for several years. And as we grow bookings, we grow the economic opportunity on our platform. So we believe naturally, irrespective of the layoffs, our creator community will continue to grow. Omar Dessouky --"
+  },
+  {
+    "speaker": "Bank of America Merrill Lynch",
+    "role": "Analyst",
+    "text": "OK. Got it. Actually, you've answered my question, so I'll let the next person go. Thank you. Dave Baszucki --"
+  },
+  {
+    "speaker": "Co",
+    "role": "Founder and Chief Executive Officer",
+    "text": "Thank you. Mike Guthrie -- Chief Financial Officer Thank you, Omar. Operator Next, we'll go to the line of Jason Tilchen with Canaccord Genuity. Please go ahead. Jason Tilchen --"
+  },
+  {
+    "speaker": "Canaccord Genuity",
+    "role": "Analyst",
+    "text": "Great. Good morning. Thanks for taking the question. I'm curious with the really strong bookings growth in Q4, wondering to whatever extent you can share about upside that was driven by advertising. And then just more higher level, where do you stand today in terms of building out some of those additional capabilities and measurement tools we talked about at the Investor Day? Dave Baszucki --"
+  },
+  {
+    "speaker": "Co",
+    "role": "Founder and Chief Executive Officer",
+    "text": "I'll go high level, and then let Mike. We have a plan throughout this year to add more ability for our partners to measure and see what's going on on the platform. We had real bookings in Q4. We have a quarterly target for advertising within the company. We're not sharing the splits, but we are very focused on this year maturing the size of that market. Mike Guthrie -- Chief Financial Officer Hey, Jason. We said in the past that we're going to start disclosing specific financial data on advertising when it becomes material and really important to the financial results. And so while we're really pleased with the progress, we have not hit that point yet. Jason Tilchen --"
+  },
+  {
+    "speaker": "Canaccord Genuity",
+    "role": "Analyst",
+    "text": "OK. Great. Thank you very much. Mike Guthrie -- Chief Financial Officer Thanks. Operator Next, we'll go to the line of Brian Pitz with BMO Capital Markets. Please go ahead. Brian Pitz --"
+  },
+  {
+    "speaker": "BMO Capital Markets",
+    "role": "Analyst",
+    "text": "Thanks for the question. While you continue to make progress aging up the user base, this does remain one of the biggest questions from investors; what do you attribute as being the biggest factor in attracting and retaining older users? Is it the higher quality or is it different content? And then, as you look at the audience, I'm really curious about how the different age cohorts are engaging differently on the platform. It'd be really great to hear more in terms of gameplay and spending habits between the different age cohorts. Thanks so much. Dave Baszucki --"
+  },
+  {
+    "speaker": "Co",
+    "role": "Founder and Chief Executive Officer",
+    "text": "Hey. First on how do we do this, I want to highlight we have been doing this for two, three or four years already. And several years back, the vast majority of people on our platform were under 13, so seeing the growth over 13 is a really good sign. We attribute it to such a wide range of things, quality of the platform, search and discovery, organic growth of new older players, existing players retaining and aging up. We do see a play habits generally of older players that might mirror what we see in existing gaming and communication markets. We can see certain cohorts that might lean in for longer engagement on a PC-type experience. We can see other cohorts that lean in socially on mobile. So the good news is we are seeing patterns on Roblox that mirror really large markets, the overall gaming market, the overall social communication market, and where no specific thing, many, many things all contributing to both, I would say, retention-based growth as well as viral new player growth around the world. Mike Guthrie -- Chief Financial Officer Hey, Brian. Just to add to Dave's comments, yeah, we've been -- the growth in older users has been higher than the growth in younger users for a long time. It's the majority of the user population today. In terms of behavior -- and that has been just consistent quarter after quarter after quarter. In terms of behavior, in addition to Dave's comments about engagement, the older users do tend to monetize a bit better, on sort of a like-for-like basis, meaning, cohorted by time spent on the platform. So over the long run, that is generally a boost to monetization. Dave Baszucki --"
+  },
+  {
+    "speaker": "Co",
+    "role": "Founder and Chief Executive Officer",
+    "text": "I want to highlight one can qualitatively see the expansion of content that intuitively would seem appealing to older players both in, maybe the realistic battle genre, in the fashion and dressing genre, I've tweeted to highlight some of these properties. Brian Pitz --"
+  },
+  {
+    "speaker": "BMO Capital Markets",
+    "role": "Analyst",
+    "text": "Great. Thanks so much. Mike Guthrie -- Chief Financial Officer Thanks, Brian. Operator Next, we'll move to the line of Clark Lampen with BTIG. Please go ahead. Clark Lampen --"
+  },
+  {
+    "speaker": "BTIG",
+    "role": "Analyst",
+    "text": "Thanks. Good morning. I've got two, one for Dave, one for Mike. Dave, the network effects that you talked about in the Shareholder Letter, is it possible to contextualize for us how much of your user base is either utilizing the voice tools or maybe some of the more recent text translation, and how much that affects behavior? And Mike, the uptick in bookings per DAU growth that we saw this quarter, should we expect that to continue? And if so are there recent releases or maybe economy items that are in pipeline that you'd highlight for us among the drivers? Thank you. Dave Baszucki --"
+  },
+  {
+    "speaker": "Co",
+    "role": "Founder and Chief Executive Officer",
+    "text": "I don't have in front of me the voice DAU number. I shared 161% voice DAU growth year over year in the quarter. Our internal metrics, when we look at users who are using voice, show lovely gains on retention, on engagement, and on other aspects. So there is a network effect and that the more of our base that is using voice, we see other metrics go up at the same time. Mike Guthrie -- Chief Financial Officer And, Clark, on the bookings per DAU question, I'm going to be focused primarily -- we will be focused primarily on bookings and bookings growth. If DAUs happen to grow a little bit faster, then that number might come down a little bit. If they happen to grow more slowly, that number will go up a little bit. On the other hand, I will say, the economy team at Roblox has more compelling initiatives going on than I've ever seen. And so I'm certainly excited and optimistic about the ability to continue to improve monetization. Clark Lampen --"
+  },
+  {
+    "speaker": "BTIG",
+    "role": "Analyst",
+    "text": "Thank you. Mike Guthrie -- Chief Financial Officer I would also look at that number generally again just to make sure seasonality just compare like periods to like periods for the most part. Operator Next, we'll move to the line of Ken Gawrelski with Wells Fargo. Please go ahead. Ken Gawrelski --"
+  },
+  {
+    "speaker": "Wells Fargo Securities",
+    "role": "Analyst",
+    "text": "Thank you for the time. I appreciate the opportunity. I want to go back to the advertising, and I understand that it's too early to quantify, but could you give us a sense of kind of the key signpost we should be looking for as you develop the opportunity, whether it be market research or case studies with brands? And how do you think about the -- how should we think about your development of your direct sales force? Where are you in the build out of that process? And are you ready to go to market? Thank you. Dave Baszucki --"
+  },
+  {
+    "speaker": "Co",
+    "role": "Founder and Chief Executive Officer",
+    "text": "Yeah. I'll share the signpost one might watch. We shared anecdotally just rough growth in the number of brands advertising on the platform. This year, you'll see from a platform point of view, more and more measurement abilities for our partners to attribute brand advertising. We have shared that we are also building experiments with physical shopping, but no ship date on that that we think will ultimately create a full closed loop effect for advertisers on the platform. As Mike said, we're not sharing specific numbers on the development. In Q4, we hired Stephanie Latham, who's driving just an awesome team, and we're growing out that brand partnership team to go to market. I just met with them all yesterday actually, and it's an amazing team. Mike, I don't know if you want to add anything on top of that. Mike Guthrie -- Chief Financial Officer No. I was going to say the same thing. Both Dave and I had the opportunity to address the new and emerging organization. So it's growing, new people all the time, very talented, very excited. And Ken, I think one of the main points of this is what are the best ways to show signposts as we get to that revenue level that will become material. And so we'll continue to come back on that. Right now, it's a sheer number of engagements is the right way to look at it. And Dave talked a little bit about the number of brands that started to work with us in Q4, and the quality of them and the depth of the engagement is fantastic. So we'll be talking more about that in subsequent quarters. Ken Gawrelski --"
+  },
+  {
+    "speaker": "Wells Fargo Securities",
+    "role": "Analyst",
+    "text": "Thank you, both. Operator Next, we'll move to the line of Eric Sheridan with Goldman Sachs. Please go ahead. Eric Sheridan --"
+  },
+  {
+    "speaker": "Goldman Sachs",
+    "role": "Analyst",
+    "text": "Thanks so much for taking the question. I want to know if you'll go a little bit deeper on your updated thoughts on some of the more emerging platforms, elements of augmented reality, spatial computing, platforms like the Quest 3 and the Vision Pro from Apple, and how you think about continuing to widen out means of distribution and new experiences for users over the medium to long term? Thanks so much. Dave Baszucki --"
+  },
+  {
+    "speaker": "Co",
+    "role": "Founder and Chief Executive Officer",
+    "text": "Hey, really, proud to be on Quest with Meta and, along with PlayStation in Q4, highlighting our vision that immersive 3D connection and communication. It should be on phones, tablets, computers, VR headsets, consoles. We can span the other platforms where we're not on -- and those are all logical candidates. Vision Pro obviously, is an interesting candidate. There are others out there that you all know about as well. And I think looking way off into the future, we're excited about the really connection and communication things we're building out on our platform, including our open source Roblox Connect that shows up a lot of communication APIs, and we're well aware that some of this communication may go beyond VR into MR and AR as these platforms become more prevalent. Mike Guthrie -- Chief Financial Officer Thanks, Eric. Dave Baszucki --"
+  },
+  {
+    "speaker": "Co",
+    "role": "Founder and Chief Executive Officer",
+    "text": "Thank you. Operator Next, we'll move to the line of Drew Crum with Stifel. Please go ahead. Drew Crum --"
+  },
+  {
+    "speaker": "Stifel Financial Corp.",
+    "role": "Analyst",
+    "text": "OK. Thanks. Hey, guys. Good morning. So we saw that you introduced real-time chat translations on the platform recently. Any early learnings you can share there? And as you continue to push globalization of the platform and launch features that enhance localization, what would be the next milestone? Is it voice translation? Any sense of timing on that? Thanks. Dave Baszucki --"
+  },
+  {
+    "speaker": "Co",
+    "role": "Founder and Chief Executive Officer",
+    "text": "Yeah. Highlighting my tweet on Monday in our release that I believe right now between 16 languages, we're allowing a real-time text chat translation, always sitting on top, of course, our same safety, civility, back-end infrastructure. This is a first step really to some of the dreams we shared where a class in the United States might have a partner school somewhere overseas and be able to go visit them and communicate with them. Also highlighting this is our own model based on our own ML platform, where behind the scenes, we're building out this AI platform to support both generative as well as stuff like this translation. And it's running on the same technology that allows translation of content, as well without any ship dates and leaning in on vision. Two things. We're getting really good at high-volume voice processing for safety and civility, once again on our own infrastructure at low cost. And as you see, we're getting good at models that can drive real translation. So you could project the overlap of those two Venn diagrams. And I think I tweeted once again on Monday, voice would be lovely someday once again with our safe foundation. Thank you. Operator Next, we'll move to the line of Andrew Uerkwitz with Jefferies. Please go ahead. Andrew Uerkwitz --"
+  },
+  {
+    "speaker": "Jefferies",
+    "role": "Analyst",
+    "text": "Yeah. Hi. Thanks for taking my question. Mike, could you just talk a little bit about the full year '24 guidance? How do you think about the different mix of DAU growth and maybe spend per hour, even maybe spend per payer? Like, what's the key metrics we should be watching for to see whether you overperform or come in line there? Mike Guthrie -- Chief Financial Officer So, Andrew, the forecast that we build internally are generally driven primarily by user growth. We tend to take a conservative assumption on engagement. We have relatively high engagement on the platform. So we don't tend to forecast meaningful increases in engagement per user, even though we have achieved those over time, but we just generally take a fairly conservative view. We're relatively stay conservative on our conversion to payer numbers. And so we have tended to have a little bit of extra room there. And then, in terms of monetization, we are fairly conservative improvements in monetization, but we do forecast some improvements that we have to achieve those. As I mentioned earlier, we -- our economy team has a lot of things that are very -- so compelling opportunities to improve monetization. We tend to bake a fairly small number of those into the models that those are available for upside. So generally, the models that we build internally and from which we yield our guidance are focused on user growth and continued user growth. Andrew Uerkwitz --"
+  },
+  {
+    "speaker": "Jefferies",
+    "role": "Analyst",
+    "text": "Got it. Thank you. And then, just as a housekeeping question, on the covenant adjusted EBITDA, you're making no other adjustments there besides deferred revenue. So it truly is your historical adjusted EBITDA plus the change in deferred? Mike Guthrie -- Chief Financial Officer That's correct. Yeah, that's right. On Page 36 in the supplemental materials, you can see that number. What will look odd a little bit in the letter with the guidance as adjusted EBITDA is negative because the deferred is not in there. You have to add the deferred to that and you'll be back to covenant adjusted EBITDA, which is normally the number that we're talking about. Andrew Uerkwitz --"
+  },
+  {
+    "speaker": "Jefferies",
+    "role": "Analyst",
+    "text": "We got it. Got it. OK. Perfect. Thanks, guys. Operator Next, we'll move to Eric Handler with ROTH MKM. Your line is open. Eric Handler --"
+  },
+  {
+    "speaker": "ROTH MKM",
+    "role": "Analyst",
+    "text": "Good morning, and thanks for the question. Mike, I think you alluded to this earlier, but your operating cash flow or your EBITDA to operating cash flow conversion has been running close to about 100%. Is that a good measure to think about for 2024 and beyond? And also, what is your capex expectations for the year? Mike Guthrie -- Chief Financial Officer When you say free cash flow conversion, the EBITDA, operating cash flow conversion, can you restate that part of it? Eric Handler --"
+  },
+  {
+    "speaker": "ROTH MKM",
+    "role": "Analyst",
+    "text": "Your covenant adjusted EBITDA to operating cash flow conversion is pretty much right in line around 100%. Is that -- Mike Guthrie -- Chief Financial Officer Yeah. That's right. It's just timing. That's right, Eric. It's just a timing difference, and it has to do with working capital and the timing of working capital, and it's most significant in Q1 and Q4. Q4, it's the buildup of working capital, and in Q1, it's the collection, the heavy collections that come in. So those are the quarters where there's a big difference. Capex expectations this year are $180 million for the year. And, I think in prior periods we've indicated some of that is related to real estate. It's not all infrastructure. So our infrastructure investments have come down pretty significantly. Eric Handler --"
+  },
+  {
+    "speaker": "ROTH MKM",
+    "role": "Analyst",
+    "text": "OK. And then just as a follow-up, you are -- now that margins are expanding, free cash flow is once again nicely positive, you have the high-quality problem of being on a position of having a good amount of excess cash. What's your view on that excess cash and sort of as you think about capital allocation? Mike Guthrie -- Chief Financial Officer Well, I would say we're in a position to have a nice cash position. Whether or not it's excess for a company of our size is, I would say, is kind of a matter of opinion. We like having a very strong balance sheet. We like having enough capital on hand, where if we needed to do something or wanted to do something opportunistic, we could do that. We're also in a nice position where we continue to invest in the business, continue to grow and invest, and we're doing that out of operation. So for now, we like the balance sheet, we like where it is. We don't really look at it as a lot of excess cash. Our capital allocation is really investments in infrastructure and engineering and product, and we're able to do that out of the operating cash flow of the company, so that's a nice place to be. Eric Handler --"
+  },
+  {
+    "speaker": "ROTH MKM",
+    "role": "Analyst",
+    "text": "Thank you very much. Mike Guthrie -- Chief Financial Officer Thanks. Operator Next, we'll move to the line of Brandon Ross with LightShed Partners. Please go ahead. Brandon Ross --"
+  },
+  {
+    "speaker": "LightShed Partners",
+    "role": "Analyst",
+    "text": "Thanks so much. One of the tools that you've introduced into the economy has been subscription. Just wondering if that's -- if you see that as an important monetization tool? And how that may impact developers' abilities to create new types of experiences? And in general, when you roll a new tool out for developers, how long does it take for that to kind of be integrated into how developers create new experiences? Like, what's the lag there? Dave Baszucki --"
+  },
+  {
+    "speaker": "Co",
+    "role": "Founder and Chief Executive Officer",
+    "text": "Yeah. We're not breaking these numbers out, but subscriptions are very consistent with our vision of creating a platform where a lot of developers have optionality on how they monetize. We saw a -- I don't know if we shared, you could probably go in and figure it out what percent of the top 20 creators on the platform are now offering inexperience subscription, highlighting that we've seen good adoption among our creator base. And these subscriptions allow an individual creator to create a recurring revenue stream whether the user is using mobile payments or credit card or other recurring type payments. We believe this will contribute to long-term monetization on the platform. We're not sharing the breakout. Mike, I don't know if you have any -- Mike Guthrie -- Chief Financial Officer No. We also think it will contribute to retention and the developers, obviously, they're free to implement it as they want. I don't think there's -- Brandon, to your second question, I don't think there's any pat answer on time it takes developers to absorb things that we created for them. They all will do that at their own pace based on how that they think that works for their own business. Ultimately, our job is to give them the visibility and the tools to build, and they roll them out as they see fit. Brandon Ross --"
+  },
+  {
+    "speaker": "LightShed Partners",
+    "role": "Analyst",
+    "text": "And then, obviously, Apple made some changes in the EU to App Store take rates and such. Does that impact you at all? Dave Baszucki --"
+  },
+  {
+    "speaker": "Co",
+    "role": "Founder and Chief Executive Officer",
+    "text": "Couple of highlights on this across all of our store partners, whether it's Microsoft, Google, Apple, Amazon, and others. One is, all of the guidance we're giving is assuming no change in those systems. The second is, they all continue to be great partners. Third is, we are examining the EU ruling to see if it makes sense for us. And the fourth is, we have always hinted that as much as possible any adjustment in future fees, we would want to distribute as much as possible both to our creator community and judiciously some to our bottom line. So if and when possible changes happen, we think that can help drive our creator community. Brandon Ross --"
+  },
+  {
+    "speaker": "LightShed Partners",
+    "role": "Analyst",
+    "text": "Thank you. Operator We will move next to the line of Bernie McTernan with Needham and Company. Please go ahead. Bernie McTernan --"
+  },
+  {
+    "speaker": "Needham and Company",
+    "role": "Analyst",
+    "text": "Great. Thank you for taking the questions. Just two on bookings. First, the booking acceleration that happened in the U.S., just any thoughts in terms of what's driving that? I remember last year, there were some thoughts that, there could have been some outperformance last year because of gift cards, so if that played through in a similar way. And then, 3 million new payers added in the quarter, where are those coming from just from a geo or age demographic perspective? And any shifts that are going on that are significant? Mike Guthrie -- Chief Financial Officer Hey, Bernie. On the second question, no big geo shift. We're seeing strong payer growth really everywhere. Part of the reason monetization has gone up is older users in places like U.S. and Canada have grown at a really nice clip. And, as we said earlier, they monetize a little bit better. In terms of the question as why was bookings so strong in the fourth quarter, we like to think it's growing our user base, they're more engaged, the content continues to get better and better, the platform continues to scale. We were on a couple of new platforms in the fourth quarter, so that clearly had an impact. But overall, a lot of the things that continue to drive the growth of the business over a very long period of time. Dave Baszucki --"
+  },
+  {
+    "speaker": "Co",
+    "role": "Founder and Chief Executive Officer",
+    "text": "The math with 58%, right now, our DAU is over 13%. When we look at the overall market size of gaming, immersive communication, and social connection, that 13 and over market, you can all do your own computation on the size of that TAM relative to the under 13 and that's why growth there is so important to us. Bernie McTernan --"
+  },
+  {
+    "speaker": "Needham and Company",
+    "role": "Analyst",
+    "text": "Understood. Thank you both. Mike Guthrie -- Chief Financial Officer Thanks, Bernie. Operator Next, we'll move to the line of Matthew Cost with Morgan Stanley. Please go ahead. Matt Cost --"
+  },
+  {
+    "speaker": "Morgan Stanley",
+    "role": "Analyst",
+    "text": "Hi, everyone. Thanks for taking the questions. I have two, probably both for Mike. So just on some of the expense lines for the certain infrastructure trust and safety, it got down to just a really high level of efficiency this quarter, 11% of bookings. I guess when you think about that internally, do you think about that figure on a per-user basis, on a per-hour basis, on a per-dollar booking basis? And how do you think about where that can go over time? And then I have a follow-up. Thank you. Mike Guthrie -- Chief Financial Officer I mean, how we look at on all of the above, ultimately, it's cost to serve is the metric that we use and it's the metric that the team owns, the infrastructure team owns, and so they're working hard to drive that down. It is -- like you said, it's about 11% now. Ultimately, with higher efficiency, more use of artificial intelligence, we see that as a high single-digit number over the next few years. It's been a good source of leverage recently, and we still think there's more to do there. Matt Cost --"
+  },
+  {
+    "speaker": "Morgan Stanley",
+    "role": "Analyst",
+    "text": "Great. Thanks. And then, on the developer exchange fees, you gave some good color just a few minutes ago about sort of reinvesting any savings on the cost of revenue side into DevEx, so that's clear. But just DevEx on its own, I think, was below 20% of bookings this quarter, very slightly for the first time in over two years. I guess anything you can say about the drivers there? And then, all else equal, do you expect it to still be a number that rises as a percentage of bookings even if nothing changes on the App Store fee side? Mike Guthrie -- Chief Financial Officer Yeah. I mean, DevEx is almost exactly where it was this time last year in the fourth quarter. So it was about 20% last fourth quarter, about 20% this fourth quarter, so I don't see a major change. There is some seasonality in that number, but, overall, we always are looking to push more of the economics to the devs. Dave Baszucki --"
+  },
+  {
+    "speaker": "Co",
+    "role": "Founder and Chief Executive Officer",
+    "text": "Yeah. And hey, chiming in on what we shared six months ago on our Q2 2023 earnings call, the vision, we want to grow our bookings faster year on year than cost of goods, we want to grow our bookings faster than infra and certain other expenses, and we want to grow our bookings faster than personnel costs. That leaves two areas, both our bottom-line as well as our creators. And the more efficient we are with the first three things, the more we can look to possible future expansion on the last two margins, developers and our leverage. Matt Cost --"
+  },
+  {
+    "speaker": "Morgan Stanley",
+    "role": "Analyst",
+    "text": "Thank you. That's really helpful. Appreciate it. Mike Guthrie -- Chief Financial Officer I think we probably have time for one more call. Operator Thank you. Today's final question comes from the line of Andrew Marok with Raymond James. Please go ahead. Andrew Marok --"
+  },
+  {
+    "speaker": "Raymond James",
+    "role": "Analyst",
+    "text": "Thanks for taking my question. Maybe to come back to a question that was touched on in a bit of a different way earlier in the call. I know it's not necessarily an input for you guys rather than an output, but any particular drivers on the average bookings per DAU growth particularly looking at Europe and rest of world, both of which were still pretty strong and both accelerated in 4Q? Mike Guthrie -- Chief Financial Officer The longer payers are on the platform and users are on the platform, the more they tend to spend. We have a very nice mix of older and younger users. With older users growing around the world, they tend to spend a little bit more. And you can never underestimate the importance of great content on the platform, so that's our developers building great stuff that people we are paying for. So it really is a trend that's been moving in the right direction for a while. And as I said earlier, our economy team have number of initiatives that they're working on to continue to improve that number. Dave Baszucki --"
+  },
+  {
+    "speaker": "Co",
+    "role": "Founder and Chief Executive Officer",
+    "text": "Yeah. And complementing that on the economy team angle, there's a lot of hygiene just on payment providers. I also want to highlight that on a biz dev since prepaid cards wherever we can around the world has also made enormous progress in the last year. Mike Guthrie -- Chief Financial Officer Thanks, Andrew. Andrew Marok --"
+  },
+  {
+    "speaker": "Raymond James",
+    "role": "Analyst",
+    "text": "Great. Thank you. Stefanie Notaney -- Director, Financial Communications Well, thank you for joining us today, and that's a wrap. Dave Baszucki --"
+  },
+  {
+    "speaker": "Co",
+    "role": "Founder and Chief Executive Officer",
+    "text": "Thank you, everyone. Operator [Operator signoff] Duration: 0 minutes"
+  }
+]

@@ -1,0 +1,232 @@
+[
+  {
+    "speaker": "Unknown",
+    "role": "",
+    "text": "Full Conference Call Transcript"
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Good day, and thank you for standing by. Welcome to the Riskified Ltd. Fourth Quarter 2025 Earnings Call. At this time, participants are in a listen-only mode. After the speakers' presentation, there will be a question-and-answer session. You will then hear an automated message device and your hand is raised. To withdraw your question, please be advised today s conference is being recorded. I would now like to turn the call over to your speaker today, Chet Mandel, Head of Investor Relations. Please go ahead."
+  },
+  {
+    "speaker": "Chet Mandel",
+    "role": "",
+    "text": "Good morning, and thank you for joining us today. My name is Chet Mandel, Riskified Ltd.'s Head of Investor Relations. We released our results and are hosting today s call to discuss Riskified Ltd.'s financial results for the fourth quarter and full year 2025. Our earnings materials, including a replay of today s webcast, will be available on our Investor Relations website at ir.riskified.com. Participating on today s call are Eido Gal, Riskified Ltd.'s Co-Founder and Chief Executive Officer, and Aglika Dotcheva, Riskified Ltd.'s Chief Financial Officer. Certain statements made on the call today will be forward-looking statements related to, without limitation, our operating performance, business and financial goals, outlook as to revenues, gross profit margin, adjusted EBITDA profitability, adjusted EBITDA margins, and expectations as to positive cash flows, which reflect management s best judgment based on currently available information and are not guarantees of future performance. We intend all forward-looking statements to be covered by the safe harbor provisions contained in the Private Securities Litigation Reform Act of 1995. These forward-looking statements reflect our expectations as of the date of this call, and except as required by law, we undertake no obligation to revise this information as a result of new developments that may occur after the time of this call. These forward-looking statements involve risks, uncertainties, and other factors, some of which are beyond our control, that could cause actual results to differ materially from our expectations. You should not put undue reliance on any forward-looking statement. Please refer to our Annual Report on Form 20-F for the year ended 12/31/2024 and subsequent reports we file or furnish with the SEC for more information on the specific factors that could cause actual results to differ materially from our expectations. Additionally, we will discuss certain non-GAAP financial measures and key performance indicators on the call. Reconciliations to the most directly comparable GAAP financial measures are available in our earnings release issued earlier today, and also furnished with the SEC on Form 6-K and in the appendix of our investor relations presentation, all of which are posted on our investor relations website. I will now turn the call over to Eido."
+  },
+  {
+    "speaker": "Eido Gal",
+    "role": "",
+    "text": "Thanks, Chet, and hello, everyone. We ended the year strong, and this momentum positions us for continued success in 2026. Our fourth quarter non-GAAP gross profit of $57.3 million represented strong year-over-year growth of 16%, and our adjusted EBITDA of $17.7 million translated to a margin of 18%, demonstrating the scale and strength of the business. This quarterly amount alone exceeded our full-year adjusted EBITDA of $17.2 million in 2024. Our fourth quarter revenues of nearly $100 million were a record since inception, and contributed to our first ever quarter of GAAP profitability. These results are the culmination of consistent, high-quality execution across the year. In 2025, both annual dollar retention, or ADR, and net dollar retention, or NDR, improved year over year. ADR reached approximately 100%, up from 96%, and NDR significantly improved to 105% from 96% in 2024. Our go-to-market team had another successful year with particularly strong results in the fourth quarter of 2025. During the quarter, we won the highest quarterly amount of new business since our IPO, which represented approximately 55% of the total new business won for the year, and was driven by high competitive win rates of over 75%. This year, we won and onboarded several leaders across industries and geographies, including Aerolineas Argentinas, Abound, Adastria, Ace Hardware, Banco QNB, Qasim, David s Bridal, NetEase, Nintendo, Temu, TripAdvisor, and XTool. In addition, merchants such as Iberia Airlines, Meta, Fast Retailing, Viva Aerobus, Vivid Seats, and Zepz were all upsold in 2025 after landing on the platform over the past few years. We believe this demonstrates the power and ROI that our platform delivers to our merchants, once onboarded onto the Riskified Ltd. network. We have processed approximately $750 billion in GMV, and have over 1 billion unique customer interactions in our network since inception. I believe that this data moat has created a structural competitive advantage and that we are well positioned to capture even more of the large opportunity in front of us. That is why we are focusing our efforts on deepening our geographic presence and growing faster in our newer verticals while identifying additional verticals to penetrate for continued market share gains. From a geographic standpoint, our non-U.S. regions collectively grew 22% year over year, driving faster, more diversified growth. Notably, APAC and LATAM were key regions of outperformance. We plan to expand further in these regions by developing localized products and features to boost pipeline generation. We have scaled our presence in the payments and money transfer category as evidenced by 66% growth in 2024 and 90% growth in 2025. Based on the current pipeline and the annualization of new business won in 2025, in the vertical I expect another strong year of activity in 2026. As we capture more data and payment types, leading to more refined models and bespoke features targeted to this vertical, I believe we are positioned to continue penetrating the significant white space. According to recent industry studies, there was a 27% year-over-year increase in fraud losses related to online transactions. The total losses attributed to fraud are expected to more than double in the next five years, well outpacing the expected growth of e-commerce. In addition, over two-thirds of U.S. companies experienced an increase in AI-related fraud attempts in 2025. We are witnessing escalating complexity of fraud schemes, which now target every touch point across the customer journey from account creation and stored value credentials all the way through the return, customer service, and dispute portals. Every part of the transaction process is at risk. Progress varies across payment types, including ACH, credit cards, digital wallets, crypto and stablecoins, agentic checkout, and other methods. We need to be prepared to support and manage risk across the full payment landscape. We are leveraging the capabilities of our AI ecosystem that has been continuously advanced for over a decade. This increase in fraud has further elevated Riskified Ltd.'s role, solidifying our positioning as a key partner for our merchants. I believe that the combination of a more pronounced and complicated fraud landscape, enhanced platform features and functionality, and a deliberate effort to expand the top of our funnel has contributed to an increase in our new business lead generation of approximately 50% year over year. Furthermore, in line with our expectations at the beginning of the year, I am pleased that we generated nearly $10 million in aggregate annual revenues from Policy Protect, AccountSecure, Dispute Resolve in 2025. And we plan to continue to grow our revenues outside of our core fraud services in 2026. As we have expanded our offering, the benefits of having a platform are becoming even more pronounced. First, we saw an approximately 50% increase in the number of merchants who are now using more than one product during the year. This multiproduct approach has made us stickier. Second, each transaction processed across our suite of products strengthens our flywheel by expanding the breadth and depth of our datasets. This integrated dataset compounds across the network, enhancing our identity engine, and enabling us to develop dynamic components that can be utilized across the platform. Third, these cross-platform synergies lead to better performance for our merchants. This strong performance with differentiated capabilities allowed us to regularly outperform our competition. And fourth, merchants utilizing more than one product generally leads to higher contribution profit for those merchants. This is part of the reason why in 2026, we are focused on driving gross profit growth versus optimizing primarily for revenue growth. As Aglika will discuss shortly, we expect non-GAAP gross profit growth to accelerate double digits at the midpoint in 2026, demonstrating the continued leverage in our model. Now on to a very topical theme: artificial intelligence. Allow me to discuss how we are observing AI impacting the market and how Riskified Ltd.'s product platform and internal operations are positioned for success in this environment. There are two main dynamics that we are seeing. First is the increased utilization of agentic commerce through general purpose LLMs, but still primarily only for discovery purposes and not checkout. The second is the rise of merchant-native LLMs which are advanced agents within a merchant s ecosystem designed to handle the full shopping journey from answering queries to completing the purchase, closing the loop completely within their ecosystem. Both flows present unique transaction risks that our platform aims to solve. In the first agentic flow, when customers do use general purpose LLMs for checkout, we have seen instances where fraudsters utilize AI to throw authentic traffic off script by generating synthetic IDs to bypass LLM verification. Our internal estimates indicate that approximately 30% to 40% of essential model features are lost when consumers transact through general purpose LLMs, increasing risk and escalating the prevalence of fraud like this. To combat this, we strive to help merchants by providing clear visibility into agentic traffic and emerging fraud MOs that they do not otherwise have on their own, proactively adjusting models based on low-signal environments, segmenting order flows, and rapidly developing features to identify emerging agentic fraud MOs. In the second flow, merchants are building out their AI shopping assistants to offer deep personalization and loyalty programs based on customer preferences. Riskified Ltd. provides a critical risk intelligence layer that helps make these transactions both smart and secure. This is especially critical when those interactions have financial implications. An example of this is providing merchant-native AI agents with real-time risk signals while they are in the conversation with customers to offer instant refund or exchange decisions based on that individual customer s risk and eligibility. Because Riskified Ltd. analyzes the complete purchase history of the end customer across an expansive global network of e-commerce brands, including exact product list SKUs and cross-merchant behaviors, we can provide highly differentiated data that merchants cannot otherwise access on their own. We are able to provide a decision platform for their agents to make important and accurate financial decisions. We are excited about the continuous expansion and enhancement of our agentic commerce offering. Merchants are actively preparing and ready to support agentic commerce across its various forms and flows. Our ability to not only service the dynamic needs of an evolving market, but also to innovate in real time is generating an increase in merchant dialogue. I believe that this strategic engagement is a driver for our future business pipeline and growth. Internally, we continue to adopt AI to automate and scale complex business workflows across departments. This is intended to help drive operational efficiency and productivity, lower costs, improve response times, and enhance service delivery. For our engineering teams, AI has become a force multiplier. Our developers have moved from basic coding assistance to agentic systems that span the entire development life cycle from discovery and requirements assessment to automated root cause analysis for production alerts. In addition, by using agentic flows for code review and observability, we are reducing technical debt while increasing release velocity. The impact on productivity is measurable. Between Q2 and Q4 2025 many of our engineers saw more than 2x increase in tickets completed. This enables us to focus on developing new product enhancements and features, and to test, train, and deploy them more efficiently, strengthening our relationships with the hundreds of enterprise merchants in our network. We are seeing similar functional leverage across the other business units. In finance and analytics, we have moved several initiatives into production to automate processes that reduce human error and manual labor, to drive merchant inbounds, and the go-to-market team has found success utilizing LLMs and high-end queries. We have also developed agents that automate time-consuming cost-benefit analysis of merchant prospecting, minimizing manual work to drive quicker and more accurate outreach. And while we are getting leverage from general purpose LLMs in our own business, I do not believe that those same LLMs pose a true threat to our decision engine. In our view, LLMs lack calibration in the precise probability intervals required for fraud engines. Additionally, LLMs are optimized for text and image, while traditional AI fraud models like ours are much better at analyzing structured data inputs. The data we collect includes browsing behavior, account activity, checkout data, and post-fulfillment signals for every transaction. Our models learn from over 5 billion historical nonpublic merchant network transactions that have been labeled and tagged. With this data, we create, update, and continuously deploy features to be used by our models that solve the increasing complexities of fraud. To that end, as we announced yesterday, we have recently developed features to address this problem. Within our Policy Protect decision studio, merchants are able to identify and apply business rules to manage the risk of order volume coming from their native AI shopping agent. This control will allow merchants to confidently deploy their branded conversational AI agents without exposing themselves to programmatic refund claim abuse, reseller arbitrage, or promotional abuse. We also expanded our AI agent identity signals, allowing a merchant s AI shopping agent to directly query Riskified Ltd.'s identity graph to retrieve associated risk indicators and resolve an identity programmatically. The breadth and sophistication of our platform allows us to train, test, and deploy merchant- or payment-specific models. We also use this platform to retrain models with updated data, new features, and segment calibrations to protect from emerging fraud patterns across our network. All this helps us drive optimized merchant performance which, at the end of the day, is the key driver of merchant satisfaction. Our ability to rapidly adapt in the face of a shifting landscape does more than just protect our merchants; I believe it serves as the foundation for our sustained financial strength and disciplined execution. Over the past two years, we have repurchased shares representing approximately two-thirds of our current enterprise value. Based on our current expectations of improved free cash flow of approximately $40 million in 2026, we anticipate generating a free cash flow yield of approximately 10% relative to our current enterprise value. Looking ahead, I believe that our momentum remains strong. As a reflection of our confidence in Riskified Ltd.'s long-term trajectory, I am pleased to announce that our board has authorized an additional $75 million share repurchase program. This decision reflects our conviction in the fundamentals of the business, supported by strong free cash flow, a debt-free balance sheet, and a disciplined capital allocation strategy that we believe will prove beneficial for our shareholders. I want to thank our team again for their focus and strong execution against our 2025 financial plan. Our results reflected the top of our revenue and adjusted EBITDA guidance ranges, and we enter 2026 in a position to accelerate our performance even further. I will now turn the call over to Aglika."
+  },
+  {
+    "speaker": "Aglika Dotcheva",
+    "role": "",
+    "text": "Thank you, Eido, and thank you everyone for joining today s call. Unless otherwise noted, this discussion will reference non-GAAP financial measures. We have provided a reconciliation of GAAP to non-GAAP financial measures in our earnings release. We achieved fourth quarter revenue of $99.3 million and full-year revenue of $344.6 million, up 65% year over year, respectively. And while we do not plan on reporting our billings going forward, our fourth quarter billings of $103.3 million grew 9% year over year. Our fourth quarter GMV of $46.7 billion was the highest quarter of volume reviewed in our history and represented growth of 18% as compared to the prior-year period. For the full year of 2025, our GMV grew by 10% to $155.1 billion. During the fourth quarter, revenue growth was partially driven by strong performance in our travel sub-vertical, reflecting continued momentum from the third quarter. These gains were partially offset by softness in our tickets and live events sub-vertical, which declined year over year primarily due to tougher second-half comparable periods versus 2024 s record level of activity and larger live events. Overall, the total tickets and travel vertical was slightly positive in the period. Our money transfer and payments category grew 75% year over year, driven by new business wins and upsell activity. Our fashion, cosmetics, and luxury vertical grew 8% year over year. This was primarily driven by new business and upsell activity, and 11% growth during the Black Friday through Cyber Monday period. This growth was partially offset by continued same-store sale pressure in our high-end and sneaker sub-verticals similar to the first nine months of the year. That being said, for the second quarter in a row, we did see year-over-year improvements in some of our largest merchants in this category. Lastly, I am encouraged that we reverted to year-over-year growth in the home category as we have now fully lapped the dynamic that impacted the first nine months of 2025. For the year, our money transfer and payments, fashion and luxury, and tickets and travel categories were the largest contributors to our annual revenue growth. The combination of these verticals represented nearly 80% of total billings and are each expected to drive continued growth in 2026. For the full year, revenue in the United States declined 6% year over year primarily as a result of the contraction in our home category. Encouragingly, we continue to grow across all of our non-U.S. regions, with accelerated year-over-year growth as compared to 2024. During 2025, APAC grew 53% year over year, while Other Americas, which represents Canada and Latin America, grew approximately 13% year over year, primarily driven by the momentum in new business and upsell activity, with particular strength in the travel sub-vertical. EMEA grew approximately 18% year over year with the strongest performance concentrated in our money transfer and payments, tickets and travel, and fashion and luxury verticals, supported by both new business and upsell momentum. Our revenue derived from merchants headquartered outside of the U.S. was 46% in 2025, up from 39% in 2024. We believe that our continued international growth reflects ongoing progress in capturing global market share. During the fourth quarter, we achieved record quarterly gross profit of $57.3 million, up 16% from the prior year, and $180.3 million for the full year, representing a year-over-year growth of 4%. The full-year gross profit growth of 4% was driven by meaningful improvements in our core machine learning models with great performance in our money transfer and payments category, and within our 2024 cohort which delivered the most pronounced year-over-year improvement across cohorts. Our increased revenue from new products further contributed to our growth. This improvement was partially offset by the ramping of merchants in newer geographies, such as Latin America, and weaker performance in our 2022 cohort, which, while still maturing, has yet to reach the performance levels of the broader portfolio. As a reminder, I encourage you to continue analyzing our gross profit on an annual basis, given individual quarters can vary due to various factors, including the ramping of new merchants and the risk profiles of transactions approved. As it relates to 2026, for the full year, we are targeting non-GAAP gross profit growth of 7% to 12%, with each quarter at or near 10% growth at the midpoint. In addition, we estimate that each quarter in 2026 will approximate the same percentage of the total as they did in 2025. Moving to our operating expenses. We continue to manage the business in a focused and disciplined manner. Total operating expenses were $39.6 million for the fourth quarter, and $153.6 million for the full year, representing a decline of 2% from 2024. Our operating expenses as a percentage of revenue declined from 48% in 2024 to 45% in 2025, reflecting leverage in the business model. We ended 2025 with 617 global employees, a decline of 3% from the prior year. This was achieved through the increased utilization of artificial intelligence tools to maximize output and increase efficiency, and by strategically reducing headcount in areas that were less critical to our product development and growth strategy. Despite this nominal decline, we ended the year with an increase in our development capacity, which we believe is critical to advancing platform innovation, outperforming our competition, and improving product accuracy and customer service to deepen our merchant relationships. In 2026, we anticipate quarterly expenses to approximate $41 million to $42 million per quarter in the first half of the year, and $42 million to $43 million per quarter in the second half. The primary driver of the increase from 2025 relates to FX headwinds, mainly from the appreciation of the Israeli shekel compared to the U.S. dollar. The FX headwind is approximately 400 basis points to our annual adjusted EBITDA margin. On a constant currency basis, we anticipate relatively flat expenses year over year as we continue to manage the business in a disciplined manner. We achieved adjusted EBITDA of $17.7 million in the fourth quarter, the highest quarterly amount in our history, which translates to an adjusted EBITDA margin of 18%. We believe that this quarter s results demonstrate that the business is positioned for continued adjusted EBITDA margin expansion and can achieve scaled performance like this over time. For the full year, our adjusted EBITDA was $26.7 million, representing a year-over-year increase of over 55%. On a GAAP basis, we achieved net profit of $5.8 million in 2025 as compared with negative $4.1 million in the prior year. I am encouraged about the progress that we have made on achieving profitability on both a GAAP and adjusted EBITDA basis. Moving to the balance sheet. We ended the year with approximately $298 million of cash, deposits, and investments, and continue to carry zero debt. In addition, we continue to maintain a healthy cash flow model. In the fourth quarter, we achieved free cash flow of $10.7 million and $33.1 million for the full year. Looking ahead, I am encouraged that we expect our free cash flow to increase at least 20% to be approximately $40 million in 2026. During 2025, we repurchased approximately 22 million shares for a total price of $105.9 million, which contributed to a reduction of 8% in shares outstanding. Since the inception of our buyback program in 2023, we have repurchased approximately 52 million shares for a total price of $259.5 million, which helped contribute to a 17% reduction in shares outstanding over that time period. As Eido mentioned, I am excited to announce that our board of directors has authorized an additional $75 million of share repurchases, subject to the satisfaction of Israeli regulatory requirements. When combined with amounts that remain available under our existing share repurchase authorization, our total outstanding authorization is approximately $84 million. We believe that our strong balance sheet and liquidity position are strategic assets that provide us with the flexibility to navigate a range of operating environments. We intend to remain disciplined and thoughtful in how we deploy capital to create long-term shareholder value. On the topic of share-based compensation and earnings per share, share-based compensation expense of $51.6 million declined from $57.8 million in the prior year. As a percentage of revenue, this amount decreased approximately 300 basis points from 2024 levels. This was on top of a decline of 700 basis points over the prior two years. Looking ahead to 2026, we expect absolute share-based compensation dollars and as a percent of revenue to continue declining due to the gradual roll-off of expense associated with large grants made in 2021 and 2022 as the awards fully vest throughout 2026. Our total absolute share-based compensation dollars should approximate $40 million for the year. We expect our free cash flow generation to approximate our share-based compensation in the year. Our annual non-GAAP diluted net profit per share of $0.20 represents an increase of 18% in 2025. Now turning to our outlook. As we look forward to 2026, we currently anticipate revenue of between $372 million and $384 million, representing growth of 8% to 11%, with $378 million, or 10%, at the midpoint. Consistent with past years, we anticipate that our growth will continue to be driven primarily by new business activity, and at the midpoint of our guidance, we are forecasting a similar net dollar retention rate as in 2025. We currently expect all of the quarters in 2026 to reflect a similar percentage of the total revenue as they did in 2025, and growth to accelerate sequentially with each quarter throughout the year. The behavior of the macro environment, our success in retaining our merchants, and the level of upsell activity relative to new logo wins only impact our net dollar retention rate and ultimately determine where we fall within our revenue range. In addition, we feel confident about the new business activity levels, which is supported by a robust pipeline of new opportunities. Historically, the timing of when new merchants go live during the year can be difficult to predict, and may have an impact on our calendar year revenues. As always, we will continue to monitor the performance and health of our merchants, consumer spending, and the broader e-commerce landscape and the impacts on our results. Now let me discuss our adjusted EBITDA outlook. We currently expect adjusted EBITDA to be between $26 million and $34 million, or $30 million at the midpoint, representing a margin of 8%. This is inclusive of an approximate 400 basis points FX headwind to our adjusted EBITDA margin. Overall, I am encouraged by our AI advantage and market position, and I am confident that we can continue to execute on the elements within our operational control. We remain focused on identifying and executing on the many opportunities for long-term growth and our ability to deliver value to our shareholders. Operator, we are ready to take the first question, please."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "If your question has been answered and you wish to remove yourself from the queue, please press 1-1 again. Our first question comes from Terry Tillman with Truist Securities. Your line is open."
+  },
+  {
+    "speaker": "Terry Tillman",
+    "role": "",
+    "text": "Yes. Thanks for taking my questions and congrats Eido, Aglika, and Chet. The first question, and hopefully you can bear with me because it is so topical around agentic commerce. It is a multiparter. As it relates to agentic, I appreciate how you talked about two types of agentic use cases. Can you quantify any early GMV from those two different scenarios? And what would the monetization or take rate look like in transactions in that type of flow? And how many merchants are you actively working with that are trying this out at this point? And then I will have a follow-up."
+  },
+  {
+    "speaker": "Eido Gal",
+    "role": "",
+    "text": "Sure. Hey, Terry. So maybe taking a step back. We feel we are in a great position to talk to over 50 publicly traded companies and really understand what their agentic commerce strategy is. And the way they are laying it out to us is pretty clear: there are two main flows. The first flow is what we call the merchant-native AI agents, where they continue to own the relationship with the customer. They see a lot of promise here. You would have an AI agent on their website that can support the entire life cycle from discovery to checkout to returns and customer support, all within their site and tuned to their category whether that is luxury fashion with the right images and flows, or an OTA with travel-specific filters. Because LLMs can be challenged and pushed off-script to make unintended financial decisions, we serve as a guardrail or intelligence layer they can query in real time: should I approve this transaction; what type of refund should I provide? We leverage our network data to make that intelligence uniquely valuable. The second flow involves general purpose LLMs that can act as a referral or, in some cases, perform the purchase on behalf of the consumer. Here, to be clear, we are predominantly seeing referrals; agent traffic that completes purchases is still extremely limited. From a take-rate perspective, the general purpose LLM channel today carries higher risk, even if volumes are very small, because new channels tend to attract fraud due to limited data and fewer controls. So average take rate there would likely be higher right now, though that could shift over time. On traffic overall, merchants are preparing to be ready for these changes, but meaningful volume is probably not there yet."
+  },
+  {
+    "speaker": "Terry Tillman",
+    "role": "",
+    "text": "Very helpful. Thank you so much for that. And just a follow-up, maybe for Aglika. It is helpful when you go through the different segments and the growth rates. Money transfer and payments was another exceptional year of growth as you onboard strategic accounts. Do you see that outsized growth continuing in your 2026 guide for money transfer and payments versus other end markets?"
+  },
+  {
+    "speaker": "Aglika Dotcheva",
+    "role": "",
+    "text": "Hi, Terry. Money transfer and payments was an amazing category for us this year with really strong growth. Looking into 2026, we have a number of opportunities in the pipeline, and I expect the category to continue to grow, but likely to normalize in terms of the total growth rate versus 2025 s outsized performance."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "One moment for our next question. Our next question comes from Ryan Tomasello with KBW. Your line is open."
+  },
+  {
+    "speaker": "Ryan Tomasello",
+    "role": "",
+    "text": "Thanks, everyone. Just following up on the agentic commerce topic. Can you talk about how you think rising adoption could either structurally reduce or increase the level of fraud in the system over the long run, notwithstanding the early days? And as a second part, there is a lot of talk about agentic AI agents utilizing alternative payment rails like stablecoins. How do you view that impacting the structure of the system?"
+  },
+  {
+    "speaker": "Eido Gal",
+    "role": "",
+    "text": "Right. Look, to be good at online commerce and payments now, you need to do many things well and the list is growing. Historically it was cards; now you also need to support ACH, digital wallets, crypto and stablecoins, and agentic checkout flows. And risk isn t only at checkout. You have account creation and login, stored value, post-checkout flows like returns and refunds, discount code abuse, and the entire dispute/chargeback process, which differs by rail. Scams are proliferating. Net, we are seeing an increase in complexity and an overall increase in losses in the merchant ecosystem. Agentic checkout is part of that trend. Today, we do see an increase in fraud through agentic channels, especially via general purpose LLMs, likely because they are newer and less controlled. Hard to predict how that evolves as volumes scale, but right now it is likely net incremental to take rates. Regarding alternative rails like stablecoins, they add another set of behaviors and dispute mechanics to manage. Our role is to support merchants across all of these rails with tailored models and controls."
+  },
+  {
+    "speaker": "Ryan Tomasello",
+    "role": "",
+    "text": "Thanks. And then an update on the mid-market expansion strategy how does that play into your 2026 growth and broader investment plans in that category?"
+  },
+  {
+    "speaker": "Eido Gal",
+    "role": "",
+    "text": "One of the unique things about Riskified Ltd. at the enterprise level is our ability to highly customize modeling and performance for each merchant. As we ve gotten much better at automating that lifecycle end-to-end, we see opportunities to refine and extend this approach further down-market and via referral partners. That s not embedded in our 2026 guide; if we accelerate it, that would represent upside."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "One moment for our next question. Our next question comes from Will Nance with Goldman Sachs. Your line is open."
+  },
+  {
+    "speaker": "Will Nance",
+    "role": "",
+    "text": "First of all, I hope all the teammates in Israel are home and safe. I wanted to ask on the agentic topic: what is the status of integrating into some of the agentic protocols ICP, Tribe, GCP/Google, and other relevant ones? A big part of the model is ingesting signals from user behavior in those channels. Can you speak to that and the value of the data that might come through those protocols in detecting fraud vectors?"
+  },
+  {
+    "speaker": "Eido Gal",
+    "role": "",
+    "text": "Thank you for the note on our Israel team we appreciate it. On protocols, there are multiple emerging approaches and some already feel outdated. In the coming months and quarters, we expect new and more up-to-date protocols to appear. Internally, we are working to support the full spectrum AI agent approval frameworks, AWS Marketplace, Google integrations, A2A protocols, general RESTful APIs because we expect continued fragmentation. It s early to call a winner, so we re optimizing across protocols to ensure coverage and maximum signal capture for modeling."
+  },
+  {
+    "speaker": "Will Nance",
+    "role": "",
+    "text": "Got it. And maybe one for Aglika. The FX headwind on the margin is helpful. Could you remind us of the FX exposure in the cost base shekel and otherwise as we fine-tune the model?"
+  },
+  {
+    "speaker": "Aglika Dotcheva",
+    "role": "",
+    "text": "Sure, Will. We quantified the FX headwind as approximately 400 basis points, or about $14 million, to adjusted EBITDA. The primary driver is the strengthening of the Israeli shekel versus the U.S. dollar. Roughly half of our expenses are in Israel, so this impacts us more materially. It s frustrating because we ve run a flat expense base for a period, and FX obscures some underlying progress. But the business momentum is strong, and on a constant currency basis, expenses would be relatively flat year over year."
+  },
+  {
+    "speaker": "Will Nance",
+    "role": "",
+    "text": "Yep. Got it. Appreciate it. Thank you."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "One moment for our next question. Our next question comes from Chris Kennedy with William Blair. Your line is open."
+  },
+  {
+    "speaker": "Chris Kennedy",
+    "role": "",
+    "text": "Great. Thanks for all the details and for taking the question. I will echo Will s comment regarding Israel. Revenues from newer products Policy Protect, AccountSecure, Dispute Resolve doubled in 2025. Can you talk about the opportunity for that set of products in 2026?"
+  },
+  {
+    "speaker": "Eido Gal",
+    "role": "",
+    "text": "Sure. As mentioned earlier, fraud is increasing in complexity across channels ACH, digital wallets, crypto, stablecoins, and agentic and across the shopping journey, from account creation to policy abuse to dispute management. That environment is driving more demand for our broader product platform. For 2026, we expect revenue from Policy Protect, AccountSecure, Dispute Resolve, and certain non-guaranteed payment flows to be in the $15 million to $20 million range."
+  },
+  {
+    "speaker": "Chris Kennedy",
+    "role": "",
+    "text": "Thanks for that. And then one for Aglika. In the 2024 cohort, the CPB ratio really improved. Can you give a bit more color on what drove that improvement?"
+  },
+  {
+    "speaker": "Aglika Dotcheva",
+    "role": "",
+    "text": "Of course. We re very pleased with the improvements in that cohort, which were already evident in Q4. A key driver was performance in our money transfer and payments category, where we achieved significantly better results. It s a strong foundation for similar merchants in the pipeline, and we re continuing to optimize incoming merchants as well."
+  },
+  {
+    "speaker": "Chris Kennedy",
+    "role": "",
+    "text": "Great. Thanks for taking the questions."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "One moment for our next question. Our next question comes from Timothy Chiodo with UBS. Your line is open."
+  },
+  {
+    "speaker": "Timothy Chiodo",
+    "role": "",
+    "text": "Thanks a lot for taking the question. We have brought this up in the past, but wanted to check in especially for the agentic channel. The services you provide to merchants: are they used in addition to, or instead of, the value-added fraud services offered by the card networks?"
+  },
+  {
+    "speaker": "Eido Gal",
+    "role": "",
+    "text": "Hey, Tim. Thanks for clarifying. There s no direct comparable in the card networks stacks to the breadth of what Riskified Ltd. provides. Some network offerings are more data-feature oriented e.g., Mastercard-acquired Ekata; Visa has tools like Visa Verify. One has an older-generation scoring tool we don t view as competitive. No one has a policy product. We don t see a modern ML fraud decision engine comparable to ours, nor comparable dispute products or account-level protection. Support for ACH, crypto, stablecoins, fiat conversion, and stored value again, nothing comparable. On agentic checkout, we haven t seen anything comparable to our recent releases. Networks offer other services aimed at FIs tokenization, 3-D Secure rails which aren t our focus. But in a Venn diagram, what we do is largely distinct."
+  },
+  {
+    "speaker": "Timothy Chiodo",
+    "role": "",
+    "text": "Excellent great answer, thank you. As a follow-up: thinking about alternative payment methods account-to-account, stablecoins, etc. do you have reason to believe the card mix within the agentic channel will differ from traditional e-commerce? Higher, lower, or roughly the same and why?"
+  },
+  {
+    "speaker": "Eido Gal",
+    "role": "",
+    "text": "Great question. Certain industries payments/remittance, brokerages could see increased use of stablecoins/crypto or direct ACH over time due to exchange fees, FX rates, and economics. Merchants may also steer some users to ACH with incentives as rails improve. But broadly, across most categories, I don t anticipate a material shift. Consumer preference for cards and rewards is very strong, and merchants adapt to that. Large merchants can issue co-branded/reward cards and participate in economics. So I expect cards to remain dominant in most categories. I don t see a fundamental difference between general purpose LLMs and merchant-native AI that would specifically push transactions toward stablecoins versus existing rails."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "One moment for our next question. Our next question comes from Reggie Smith with J.P. Morgan. Your line is open."
+  },
+  {
+    "speaker": "Reggie Smith",
+    "role": "",
+    "text": "Yes. Congrats on the quarter and on achieving GAAP profitability. Another question on agentic: while transaction flow from third-party LLMs is early, how might pricing and contracts work as this rolls out? Would merchants need separate contracts for agentic channels, or would it be rolled into their standard e-commerce agreements? And related, do these new surfaces and risks give you any pause on early losses given less historical backtesting versus traditional commerce?"
+  },
+  {
+    "speaker": "Eido Gal",
+    "role": "",
+    "text": "Thanks, Reggie. We see two paths. First, for clients not sending all volumes to us today, they ll often proactively reach out as they open an agentic channel or see initial traffic, or we ll raise it with them. In those cases, we typically start with flexible, somewhat higher initial pricing, reflecting elevated risk and very small absolute volumes; then we recalibrate fees together as risk profile and volume normalize. Second, for merchants already sending us all volumes, we ll simply see the agentic traffic. If risk materially increases, we may need a commercial discussion tied to that risk. Regarding early losses, while agentic is new at an individual merchant, we see emerging fraud MOs across our global network in real time. Our system is designed to detect new rings and MOs, create features or segmentation, and rapidly deploy updates across models, much like we ve done entering LATAM and APAC markets. So while we ll move carefully at the outset, our network effect and deployment velocity help us manage early-stage risk effectively."
+  },
+  {
+    "speaker": "Reggie Smith",
+    "role": "",
+    "text": "Got it. And a quick follow-up on FX. I appreciate you re paid in dollars, but is there any FX benefit to GMV growth next year, or is GMV essentially in U.S. dollars as well? Any impact to revenue from a weaker dollar?"
+  },
+  {
+    "speaker": "Aglika Dotcheva",
+    "role": "",
+    "text": "I ll take that. The notable FX impact we called out is the shekel s appreciation versus the U.S. dollar, which affects expenses given roughly half are in Israel hence the ~400 bps adjusted EBITDA headwind. On the revenue line, any FX tailwind is much smaller likely less than half a percent, primarily via the euro and already incorporated in our projections."
+  },
+  {
+    "speaker": "Reggie Smith",
+    "role": "",
+    "text": "Okay. Great. Thank you so much."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "One moment for our next question. Our next question comes from Clark Wright with D.A. Davidson. Your line is open."
+  },
+  {
+    "speaker": "Clark Wright",
+    "role": "",
+    "text": "Thank you. Earlier you spoke about focusing more on gross profit growth versus revenue growth. What does that mean from a go-to-market perspective and your risk tolerance for specific product categories?"
+  },
+  {
+    "speaker": "Eido Gal",
+    "role": "",
+    "text": "Thanks for the question. We ve always managed to gross profit dollars, but it s an even sharper focus now given demand and bundling for our broader portfolio, where margin profiles differ by product. So we are orienting targeting, packaging, and sales compensation more toward gross profit outcomes. On risk tolerance, we re optimizing for sustainable contribution and margin, which informs which flows, rails, and product mixes we prioritize."
+  },
+  {
+    "speaker": "Clark Wright",
+    "role": "",
+    "text": "Appreciate that. And what about penetration for non-chargeback guarantee products and your assumptions embedded in the 2026 guide? You referenced $15 million to $20 million what does that imply about adoption across your customer base?"
+  },
+  {
+    "speaker": "Eido Gal",
+    "role": "",
+    "text": "We noted roughly a 50% increase this year in merchants using more than one product. We haven t broken it down by specific product counts yet, but revenue is the best proxy today. We went from low single-digit millions to about $10 million in 2025 and expect $15 million to $20 million in 2026. That reflects growing willingness to adopt policy, account, dispute, and non-guaranteed flows alongside core fraud services."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "And I am not showing any further questions at this time. I would like to turn the call back over to Eido for any further remarks."
+  },
+  {
+    "speaker": "Eido Gal",
+    "role": "",
+    "text": "Thank you. Before I conclude, I want to send my support to our team members in Israel and their families, and thank everyone for their hard work. Thank you all for joining us on today s call. We look forward to updating you on our progress throughout the year."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Thank you, ladies and gentlemen. This does conclude today s presentation. You may now disconnect, and have a wonderful day."
+  }
+]

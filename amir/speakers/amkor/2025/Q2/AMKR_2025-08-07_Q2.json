@@ -1,0 +1,232 @@
+[
+  {
+    "speaker": "Unknown",
+    "role": "",
+    "text": "Full Conference Call Transcript"
+  },
+  {
+    "speaker": "Giel Rutten",
+    "role": "",
+    "text": "Good afternoon, everyone, and thank you for joining the call today. Amkor Technology, Inc. delivered second quarter revenue of $1,510,000,000, an increase of 14% sequentially, well above expectations with all end markets showing double-digit sequential growth. I am pleased with the way the team adapted quickly to support customers amid complex global conditions. They showed agility and flexibility by accelerating product transfers and volume increases, delivering strong revenue growth. At the same time, the environment in which we operate remains dynamic. We continue to monitor export controls and trade policies, working closely with customers and suppliers to address potential impacts. Our factory operations, which are largely situated in the free trade zones, remain resilient while supporting dynamic supply needs. Within our end markets, communications grew 15% sequentially, driven by the iOS ecosystem. Android revenue remained flat sequentially and increased 7% year on year. We expect a strong third quarter driven by the launch of the next-generation premium-tier smartphones. As AI expands into edge devices, we are working closely with lead customers to assess future device needs and develop advanced packaging solutions to support these innovations. In computing, revenue increased 16% from the first quarter, driven by new product ramps in Personal Computing, as well as growth in Memory. Looking ahead to the third quarter, we expect sequential revenue growth across data center, infrastructure, and personal computing. Demand for AI and high-performance computing applications continues to expand, and our project pipeline remains robust. Export control dynamics led to several supply challenges in the quarter. However, by working closely with our customers, we were able to rapidly respond to the changing demand environment. A major milestone in the quarter was the launch of the first high-density Fan Out product in high-volume production for our lead customer. Besides our proven 2.5D technology, high-density fan out utilizing RDL interconnect technology is a critical enabler for growth in the compute domain. Revenue in the automotive end markets grew 11% sequentially, driven by new product launches for ADAS applications across multiple customers. After eight consecutive quarters of year-on-year declines, Q2 marked an inflection point with 6% year-on-year growth. For the third quarter, we expect modest sequential revenue growth. Engagements with lead customers in the automotive domain show growing interest in advanced packaging technologies like 2.5D for next-generation solutions. Our presence in the computing market and our global manufacturing footprint position us well to capture these future automotive opportunities. Lastly, in Consumer, revenue increased 16% sequentially on market share gains in wearables as well as broad-based demand improvement in traditional products. Next quarter, revenue is expected to be flat. Looking ahead to the third quarter, we expect these positive trends to continue, supporting strong sequential growth and positioning us well for sustainable long-term success. Amkor Technology, Inc.'s strategy focuses on delivering differentiating technology solutions, expanding our global footprint to support customer supply chains, and collaborating with lead customers early in their product development. Last quarter, I discussed these strategic pillars. Today, I will highlight our technology differentiation and strong capability to deliver next-generation solutions for our computing customers. The accelerated development of AI is significantly changing the computing domain in terms of technology requirements, rate of innovation, and regional requirements for manufacturing facilities. Amkor Technology, Inc. is expanding its strategic presence in this market. Following record computing revenue in 2024, we sustained momentum in 2025 with 18% year-over-year growth. Our customers span the full compute ecosystem, from CPUs, GPUs, and AI accelerators to memory, networking, and peripherals. We collaborate with industry leaders across these domains, supporting advanced technologies like high-density fan out, advanced flip chip, and system in package. Our proven 2.5D and high-density fan out solutions excel for high-bandwidth memory integration and high-density interconnects, while our flip chip and multi-chip module portfolio is preferred for other high-performance non-high-bandwidth memory applications. Besides advanced packaging solutions, we continue to invest in the development of key enabling technologies, including advanced bonding and high-conductive thermal materials to meet demanding performance and reliability requirements. As innovation accelerates, our role evolves from a trusted manufacturing partner to a collaborative development partner, enabling our customers' technology roadmaps and bringing next-generation solutions to markets. Along with advanced packaging, we are building a comprehensive test platform to provide turnkey solutions that address growing device complexity. We are upgrading our tester fleet to support high-density digital pins and power supplies. We are investing in next-generation temperature stability handling systems as well as high-power burn-in and system-level tests. In parallel, we are upscaling our test engineering to meet the demands of AI and high-performance computing applications. Offering a full turnkey solution for the computing market is a key part of our strategy, and test revenue in this market grew approximately 50% year over year in the first half of 2025. We are expanding test operations in Korea, with Phase one of the Turnkey test expansion projected to be operational by the end of this year, and Phase two following in the first half of 2027. We are planning to deploy test solutions in our new Arizona facility to support a full turnkey U.S. supply chain. Our advanced packaging and test lines in Korea and Taiwan supporting computing are running at high levels of utilization, and capacity expansions are a substantial part of our 2024 and 2025 CapEx spend. Although investments are sizable, these lines generate margins above corporate average. Strong forecasted demand is driving continued capacity expansion in both of these locations. This comprehensive strategy positions us as a trusted partner to the world's largest semiconductor companies. With a clear strategic focus and distinct competitive advantages, we are well-positioned for growth. With that, I will now turn the call over to Megan to provide more details on our second quarter performance and near-term outlook."
+  },
+  {
+    "speaker": "Megan Faust",
+    "role": "",
+    "text": "Thank you, Giel, and good afternoon, everyone. Second quarter revenue was $1,510,000,000, exceeding the high end of our guidance range. We achieved strong sequential revenue growth of 14% and year-on-year growth of 3%. Our team excelled, achieving strong revenue growth by supporting our customers while navigating a dynamic environment with agility, delivering on critical milestones, and executing focused preparations for a robust ramp in the third quarter. Second quarter gross profit was $182,000,000, and gross margin was 12%. This includes approximately $25,000,000 in preparation costs for both the robust seasonal increase in Q3 supporting advanced SiP for communications as well as launching multiple new high-density fan out products ramping in the coming quarters. We are pleased with the successful ramp of high-volume manufacturing at our Vietnam facility. We are running advanced SiP, supporting the consumer and communications end markets as well as NAND memory products. While we continue to build scale, Vietnam will impact our gross margin. In Q2, the impact was approximately 125 points, and we expect this will improve in 2025 as we optimize utilization. Q2 gross margin was constrained by foreign currency headwinds of approximately 80 basis points as compared to Q1. Second quarter operating income was $92,000,000, and operating income margin was 6.1%, which included a non-routine $32,000,000 benefit due to a contingent payment related to our 2017 NANIUM acquisition. Net income was $54,000,000, and EPS was $0.22, including $16,000,000 and $0.07 respectively, attributable to the contingent payment. Second quarter EBITDA was $259,000,000, including $32,000,000 attributable to the contingent payment. EBITDA margin was 17.1%. We ended the quarter with a stronger balance sheet and greater financial flexibility. Amkor Technology, Inc. is focused on creating long-term shareholder value through a balanced and disciplined capital allocation strategy with four key priorities. One, investing in organic growth by expanding our manufacturing footprint and advanced packaging capability. Two, making selective strategic investments to enable regional supply chain or for tuck-in opportunities. Three, maintaining balance sheet strength and flexibility. And four, returning capital to shareholders within our established framework of returning 40% to 50% of free cash flow over time. To further strengthen our balance sheet and liquidity, we replaced our $600,000,000 credit agreement with a new $1,000,000,000 revolver and executed a $500,000,000 term loan. As we prepare to begin construction of our new U.S. manufacturing facility in the second half of 2025, these transactions ensure access to an appropriate amount of capital on favorable terms. As of June 30, cash and short-term investments were $2,000,000,000, and total liquidity was $3,100,000,000. Our total debt as of the end of the quarter was $1,600,000,000, and our debt to EBITDA ratio was 1.5 times. During July, we will use proceeds from the new term loan to pay down $223,000,000 of debt. Before I move on to the third quarter outlook, I would like to address the underutilized manufacturing assets that constrain profitability. Over the past several quarters, our focus on strategic growth and capacity expansion in high-performance computing, AI, and other high-growth advanced packages has coincided with soft demand for mainstream packages. While the mainstream business remains an important part of our portfolio, and we observed the first signs of an improving outlook, we recognized the need to optimize our footprint for a more efficient cost structure. In response, we are progressing plans to rationalize our manufacturing footprint, specifically considering our seven factories in Japan, to align capacity with market conditions. We will work closely with our customers to ensure a seamless transition. We will share more details on these plans at our next earnings call. And now on to our third quarter outlook. We expect revenue between $1,875,000,000 and $1,975,000,000, representing growth of 27% sequentially at the midpoint. We anticipate robust seasonal growth in communications to support new product introductions for the fall launch of premium-tier smartphones, as well as growth in the computing end market. We expect our other end markets to be flat to slightly up. Gross margin is expected to be between 13% and 14.5%. We anticipate an increase in material content due to the product mix concentrated in advanced SiP, similar to Q3 2024. We expect operating expenses of around $125,000,000 for the third quarter and a full-year effective tax rate of around 20%, excluding discrete items. We anticipate that profitability will expand at a higher rate than revenue, given the leverage in our financial model. As a result, third quarter net income is expected to be between $85,000,000 and $120,000,000, resulting in EPS between $0.34 and $0.48. Our CapEx forecast for 2025 remains unchanged at $850,000,000. Our investments are focused on expanding capacity and capability in leading-edge technology, including high-density fan out, advanced SiP, and test solutions. In closing, our second quarter results reflect consistent progress across key areas of our business, supported by disciplined execution and continued investment in strategic priorities. As we look ahead, we see opportunities to further enhance our operational efficiency. We are entering the third quarter with strong momentum, and with a clear focus on our strategic pillars, a strong balance sheet, and commitment to long-term value creation, we are well-positioned to deliver sustainable growth and shareholder returns. With that, we will now open the call up for your questions. Operator?"
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Thank you. And at this time, we will be conducting our question and answer session. For each time that you queue. And our first question comes from Joseph Moore with Morgan Stanley. Please state your question."
+  },
+  {
+    "speaker": "Joseph Moore",
+    "role": "",
+    "text": "Great. Thank you. I wonder if you could talk to I'll just ask both my questions at once. The gross margin in the September I guess, there's a little less fall through than I might have thought given the strong revenue. And you mentioned that makes it is it that you just give us a little bit more color on the short term gross margin. And then long term, you mentioned some consolidation of the or legacy facilities. Can you talk about, know, where gross margins can get to as you kind of resolve some of those issues?"
+  },
+  {
+    "speaker": "Giel Rutten",
+    "role": "",
+    "text": "Okay, Joseph. Good afternoon. Let me start with some introductory remarks and then Megan can give more detail on the specifics. Well, first of all, second quarter, third quarter, a few elements impacted our margin. These elements relate very much to a transition in our manufacturing base. Let me start with Vietnam first. And reiterate the strategic rationale on Vietnam, where we offer our customers an alternative to a China supply chain. And on top of that, Vietnam is a cost-effective location for SiP that we transfer out of Korea. Now it's an important location and we accelerated the transition and the ramp-up in Vietnam. Originally, we started with two lead customers in Vietnam, but currently, already five of our top 10 customers are in Vietnam, and we are qualifying these customers. That led to some increased cost in the quarter because our initial ramp-up is focused very much on execution and operational excellence and not per se on cost efficiency. We believe that Vietnam long-term is a very cost-efficient location. But in this stage, I think we are we're basically focusing very much on operational performance. Secondly, Korea, Korea were also a bit in the transition, I already mentioned, that we're offloading some of the SiP business in Vietnam, and we're doing that successfully. And next to that, we are ramping up our advanced products in Korea. Korea is our advanced products center of excellence. We have our R&D location in Korea. And the new ramp-up of specifically high-density fan out products in Korea increased our cost base to some extent because we had start-up costs for these products. Now next to that, Megan already indicated Japan. We have underutilization in Japan that takes longer than we anticipated. And that leads to reevaluating that manufacturing base. Next to that, we had some elements, and Megan will talk to that with respect to exchange rates, etcetera. So these were, let's say, the top-level topics. Megan, can you take it over to give some of the details?"
+  },
+  {
+    "speaker": "Megan Faust",
+    "role": "",
+    "text": "Sure, Giel. Joseph, just coming back to the gross margin for Q3, you mentioned the flow through. That flow through is actually a little bit better than last year's Q3, but the story is really the same. It's an unfavorable product mix. And that's primarily related to a very high concentration of advanced SiP in Q3, supporting the seasonal communications ramp but also the continuing underutilization of our mainstream business. So while we are seeing that stabilize, that divergent landscape is really accentuating that unfavorable product mix to be quite similar to last year's Q3. However, there's good leverage in that financial model. So while that gross margin flow through is constrained on that 27% increase in revenue, you'll note that the operating income and EPS are going to more than double on the bottom line. So as it relates to your second part of your question more on the long-term outlook for margins, including Japan. Giel went through our strategic priorities and how those are playing out through this transition. And we see those strategic investments not only in Vietnam and as well as bringing up high-density fan out. That those are actually enhancing our competitive advantage and our long-term growth potential. So bottom line, our efforts are really paying off with key wins and lead customers. And the disciplined execution is translating to very strong growth. So our profitability is impacted during this transition, and we will improve as we optimize over the midterm. As it relates to Japan, you know, we can share more details at a later time once we have the specifics. I did want to remind you, though, that we had executed on a restructuring activity in Japan several years ago during the prior downturn. And over a multiyear period, we were able to successfully close three locations and consolidate business reducing headcount and manufacturing costs. So we are working on the plans to rationalize that footprint and we'll be identifying our primary sites such as Kumamoto and designing a consolidation plan. In addition, we're also looking to raise prices for those customers that might be running very low volumes in order to manage profitability."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Your next question comes from Jim Schneider with Goldman Sachs. Please state your question."
+  },
+  {
+    "speaker": "Jim Schneider",
+    "role": "",
+    "text": "Yes. Good afternoon. Thanks for taking my question. I was wondering if you could maybe comment on sort of the ramp that you expect for your 2.5D program in terms of in volume terms this year? And then if you look a little bit further out, what kind of capacity are you directionally preparing for next year? Thank you."
+  },
+  {
+    "speaker": "Giel Rutten",
+    "role": "",
+    "text": "Hello, Jim. Yeah. Let me give some color on the 2.5D programs. I mean, 2.5D is an important program for us. I think we're working with our lead customer there. You know, it was impacted in the earlier part of the year because of some trade restrictions. Trade restrictions are dynamic and are changing, and that will give us the opportunity to further ramp 2.5D. We are an intrinsic part of that supply chain. And we believe that the direction currently being taken of having a more open, let's say, trade approach will create increased opportunities not only for Amkor Technology, Inc. but for the broader compute ecosystem. So 2.5D is important. Next-generation technology is high-density fan out. We consider that a critical technology. You know, we are proud that we have launched the first product this year. And in the course of the second half of this year, we launched a second product with multiple products to come in the early part of next year. It's a foundational technology, not only in compute, but it will also be utilized in next-generation communication devices. So an important milestone and this investment, you know, will have significant spin-off going forward."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "And your next question comes from Peter Peng with JPMorgan Chase and Company. Please state your question."
+  },
+  {
+    "speaker": "Peter Peng",
+    "role": "",
+    "text": "Hi, thanks for taking my question. Seems like the quarter went really well and for the third quarter you're guiding above seasonality. Wondering if you're seeing or any of your customers talking about any pull in of demand or anything of that or, you know, business as usual. Maybe you can provide some comment on that."
+  },
+  {
+    "speaker": "Giel Rutten",
+    "role": "",
+    "text": "Hi, Peter. Let me give you a few comments on each, let's say, potential strength in the third quarter and in the second quarter related to pull-ins. Now it's difficult for us to see whether customers are really pulling in, but we didn't get signs that there was active pull-in ongoing. There may have been some pull-ins related to, you know, inventory that's available or dice that are available. We didn't see active pull-ins. You know, what we're currently seeing in the markets is some last-minute spot orders that come in because inventory reaches a critical low point. And that happens, for example, in the automotive markets. That's the first indication that inventory comes close to the equilibrium there. It's a good sign. You could label that pull-in. In the communication markets, last year, we saw some pull-ins in the second quarter. But we don't see that occurring this year."
+  },
+  {
+    "speaker": "Peter Peng",
+    "role": "",
+    "text": "Perfect. And then I have a follow-up. On just your overall computing. It sounds like, you know, things are getting better. You mentioned about the easing of some of the regulations at your marquee customer and then you're also ramping your second 2.5D networking customer. So you know, how should we think about, you know, revenue growth this year relative to 2024? Or is this do you view this as a growth segment? Or is this kind of a muted growth profile?"
+  },
+  {
+    "speaker": "Giel Rutten",
+    "role": "",
+    "text": "Yeah. The way that we see it and I see it is that the compute market there are a couple of trends in the compute market. First, we see accelerated growth and also the rate of innovation is increasing. That means that changing from one generation product to the next generation product is accelerating. And that also implies that new technology is adopted faster. 2.5D is, I would say, previous generation products. The lifetime of this previous generation is extended because of the export controls on technologies and that could give 2.5D a fairly long life with exports and the new export rulings. And we look forward to supporting that. Next-generation devices were in a mold into in these areas in multiple ways. I think one is high-density fan out. That's a preferred technology versus the 2.5D that the 2.5D uses interposer high-density fan out uses RDL, high-density interconnect, and that's the more flexible, more cost-effective technology. We expect the lifetime of that technology to be longer and therefore launching the first product is very important. You know? And then, of course, we see on the high-bandwidth memory integration multiple technology steps. So we are participating with our lead customers, but we see continued innovation going forward."
+  },
+  {
+    "speaker": "Megan Faust",
+    "role": "",
+    "text": "And Peter, just to add a quantitative reference as well. We did hit a record in 2024 for our broader compute segment. And we're on track to do that again in 2025. The 2025 compute was up 18% year over year. And it is our fastest-growing end market."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Your next question comes from Ben Reitzes with Melius Research. Please state your question."
+  },
+  {
+    "speaker": "Ben Reitzes",
+    "role": "",
+    "text": "Yeah. Hi. Can we just talk a little bit more about your comms guidance versus normal seasonality? In the 3Q? And then if you think that's sustainable into 4Q, and what is it about and can you just confirm that you rewon all your business on the iOS side? That was previously an issue? Thanks."
+  },
+  {
+    "speaker": "Giel Rutten",
+    "role": "",
+    "text": "Hi, Ben. Yes, let me start with answering that last part. The footprint in next-generation phones and the recovering of that socket is going as planned. And the ramp-up of that socket is included in our third-quarter outlook and will be included in our fourth-quarter outlook. So in that sense, we are optimistic. Understanding what's happening in the fourth is difficult. There's still quite significant uncertainty certainly in the comps market. What the volumes will be. We see conflicting forecasts for volumes in the later part of the year. Third quarter is confirmed. I believe that we cannot use normal seasonality, which would be, you know, a few percent up or a few percent down of the third quarter. Because of these uncertainties. So we don't guide for the fourth quarter then."
+  },
+  {
+    "speaker": "Megan Faust",
+    "role": "",
+    "text": "And Ben, just to give you a little more color in the markets in Q3, so the communications themselves will be up very strong, probably more similar to the 2023 Q3 comps and 2022 comps sequential increases. And, you know, what's offsetting that is our consumer will be mainly flat in Q3 this year because we have that very significant ramp last year Q3."
+  },
+  {
+    "speaker": "Ben Reitzes",
+    "role": "",
+    "text": "Okay. And then thanks for that. And Megan, can we just confirm the payment on the SG&A and what the normalized SG&A is going forward? $32,000,000 we just simply add that back and then expect that kind of run rate for the next few quarters?"
+  },
+  {
+    "speaker": "Megan Faust",
+    "role": "",
+    "text": "Yes, sure. So if you were to exclude that, we were right in line with guidance with respect to OpEx. And that would be a similar run rate for the second half of the year."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Thank you. And your next question comes from Randy Abrams with UBS. Please state your question."
+  },
+  {
+    "speaker": "Randy Abrams",
+    "role": "",
+    "text": "Yes. Hi. Thank you. I wanted to ask a follow-up question just on the communications. So I think in your prepared remarks, you talked about evaluating content gains say for the on-device AI to communications. Could you talk about that technology trend you're seeing there? And I think you mentioned and fan out for that application. Also, there's discussion about multichip module. So if you could go fund on some of the midterm content opportunities from that."
+  },
+  {
+    "speaker": "Giel Rutten",
+    "role": "",
+    "text": "Yeah. That's a good point, Randy. I didn't call out specifics on technology choices. What we see customers doing with AI functionality moving to the edge, they are looking to the implications of the semiconductor solutions. What does it mean related to increased memory content? Higher density interconnect, physical dimensions, and there, we work with multiple customers that operate in that market on next-generation solutions. That's also why I reiterate that a fan out solution certainly for communication and a high-density fan out solution similar to what we apply in compute could be one of the solutions for communication also. Nothing definitely decided, but for Amkor Technology, Inc. in a very important market, and we believe we have a very close cooperation with lead customers in that market. To evaluate future solutions."
+  },
+  {
+    "speaker": "Randy Abrams",
+    "role": "",
+    "text": "Hey. Yeah. And my second question actually is two separate financial questions. One on the material costs, just curious what you're seeing in terms of cost from some rising material prices and there's even a bit of talk about the high-end things like tea glass. If there's any constraint you're nervous about on high-end substrates. That's one part. And the second one, it's more tied to the investment. It we could be heading into a little bit bigger CapEx cycle. Just I think you've noted advanced capacity tight and trying to go after RDL plus to start construction of the Arizona factory."
+  },
+  {
+    "speaker": "Giel Rutten",
+    "role": "",
+    "text": "Okay. Let me take the first part of the question, and then definitely Megan can do the second part of the question. With respect to material cost structures and material prices in the market, certainly, when it comes to substrates, I mean, we don't observe it yet. But on the other hand, we see some capacity constraints potentially happening because of the pull from the compute market on the high-end substrates. So we proactively work with the critical suppliers to secure our capacity needs and to pre-discuss the pricing arrangements. That's ongoing. You know, we put in place a strategic procurement team specifically for this area because we see indeed that there's a potential for constraints. So far, not really some first indications that is coming up. And of course, that will potentially lead to increased pricing."
+  },
+  {
+    "speaker": "Megan Faust",
+    "role": "",
+    "text": "And then Randy, just to pick up on the comment about the significant investment in this particular area. It is quite fungible across the different landscapes of 2.5D as well high-density fan out and flip chip EGA. So all of those investments, you know, where we had really started to ramp up in '24 continuing into '25, and we are planning to continue to invest in this area, and '26 are fungible. As it relates to the broader CapEx cycle, including investments here, but also facilities, you know, we'll have a more specific outlook on our '26 CapEx at our year-end call. Just as a reminder, with respect to The U.S., we are planning to break ground in the second half of 2025. We've reserved around 5% to 10% of our current CapEx guide of $850,000,000 to address our investment in Arizona here in 2025. We do have significant grants and investment tax credits associated with that. However, as you may know, those will be a bit on a lag. So there may be some increased CapEx in 2026 and 2027 ahead of when those grants and incentives are received."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Thank you. And your next question comes from Tom Diffely with D. A. Davidson. Please state your question."
+  },
+  {
+    "speaker": "Tom Diffely",
+    "role": "",
+    "text": "Yes, good afternoon. Thanks for taking the questions. Just curious if your view your long-term view of the auto market has changed with keeping track of the potential closures you're talking about in Japan?"
+  },
+  {
+    "speaker": "Giel Rutten",
+    "role": "",
+    "text": "I mean, our long-term view has not changed. To give you a couple of critical elements, you know, we see that in the automotive markets, although there were a few difficulties certainly when it comes to volume and inventory. Consumption. The trend clearly is towards advanced packaging and automotive. Where we are well positioned with respect to next-generation ADAS devices. And that was also the highlight in last quarter and will be highlighted in also because that's delivering the growth. The areas where we see consolidation is on the more mature part. Mature microcontrollers and the traditional analog products going into automotive. The Japan market in itself on the automotive side is going through a difficult period. And that means that the supply chain feeding into that market is also going through a prolonged critical period. Our view basically has not changed on a global basis, but Japan has slightly difficult or different local dynamics. And I think we need to respond to that because we have a significant manufacturing base in Japan. Megan already highlighted what we did in the past. We rightsized that operation in 2019 in phase one. And we will go to the next phase in this year and early next year."
+  },
+  {
+    "speaker": "Tom Diffely",
+    "role": "",
+    "text": "So do you comment on the softer mainstream side also include power?"
+  },
+  {
+    "speaker": "Giel Rutten",
+    "role": "",
+    "text": "Well, softer to the previous very high expectations, yes, I think silicon carbide is very much tuned towards the EV market, and there were high expectations for ramp in the EV market that is moderating a bit. And in that sense, the silicon carbide market is not as fast-growing as expected. However, the fundamentals are still there. I think that technology together with gallium nitride are the foundation not only for electrical vehicles, but also for the overall energy transition. And we see a pickup even in into data centers for these technologies. We're well positioned there. And as you know, we're the leader in this market. We have a joint investment in Portugal for advanced power modules. That facility is ready. We are now facilitating that, and we're going to ramp that into the next two to three years. So the basics are still there. The scale and the timing may be slightly delayed versus originally high expectations."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "And your next question comes from Ross Cole with Needham and Company. Please state your question."
+  },
+  {
+    "speaker": "Ross Cole",
+    "role": "",
+    "text": "Thank you for taking my question. Was wondering since The U.S. has lifted the restrictions on H20, have you gotten any signal from NVIDIA to resume production there?"
+  },
+  {
+    "speaker": "Giel Rutten",
+    "role": "",
+    "text": "Well, maybe don't call out details on specific programs for this. You know, in general, I commented already that we believe that this decision was a good decision. It will create more opportunities. It will create a bigger, serviceable market not only for companies like Amkor Technology, Inc. because we are in that supply chain but certainly also for the end customers that we just mentioned. So we are an integral part of that supply chain. And, you know, we don't comment to individual customers. Forecast changes."
+  },
+  {
+    "speaker": "Ross Cole",
+    "role": "",
+    "text": "Great. Thank you. And then my second question, you received any additional clarity on TSMC's Arizona plan for advanced packaging? And do you expect Amkor Technology, Inc. to play a role in completing the TSMC supply chain in Arizona?"
+  },
+  {
+    "speaker": "Giel Rutten",
+    "role": "",
+    "text": "Yes. I think we share we are in constant communication with TSMC. We consider TSMC a very important partner. And, you know, we also announced an MOU we did that last year on a technology sharing agreement for Arizona specifically. Advanced packaging has multiple dimensions. If you move into two-nanometer technology, that also will enter Arizona a little bit later than expected. But that would mean that you need technology that's foundry-specific and that's also labeled advanced packaging. So our approach is unchanged. We're working with customers as well as with foundry partners to align on our roadmap and we are making good progress there. Again, our strategy is to be complementary to TSMC. We're not competing for design slots with TSMC."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Thank you. And your next question comes from Steve Barger with KeyBanc Capital Markets. Please state your question."
+  },
+  {
+    "speaker": "Steve Barger",
+    "role": "",
+    "text": "Thanks. I just wanted to go back to the auto and industrial. And listening to some of the analog companies that have reported, it's kind of a mixed bag on whether an inflection is here or when that could happen. So can you just talk about how your customer conversations changed for the back half? And is anyone talking differently about capacity requirements in a way that seems much more promising than it has been?"
+  },
+  {
+    "speaker": "Giel Rutten",
+    "role": "",
+    "text": "Yeah. Good question, Steve. I mean, we see in automotive two sides. One is the advanced packaging side with applications like infotainment, ADAS, but also high-end sensor technologies. They are in high demand because the proliferation of these technologies into the car ranges is actually accelerating. I already made some comments with respect to silicon carbide. We believe that long-term that market is still a very strong market. We are in it. We're partnering with leaders in that industry. On the more mature part, I think you're already referred to the more analog players. If we go through the custom inputs that we're getting, I would say the overall we believe that the supply chain and the inventory levels both in distribution as well as at the OEMs are getting more in balance. There are here some pockets of early indications of some shortages and there are still indications of some high inventory levels. So what we see from customers is they are actually more optimistic going forward. That is also reflected by more short-term orders in factories for short-term delivery and that's how we see it. We definitely don't see a V curve where you see a rapid acceleration in the analog domain or in the more traditional microcontroller domain. So stabilization, and slow improvement and what we see for the second half of this year. That there will be low single digits growth in the automotive market."
+  },
+  {
+    "speaker": "Steve Barger",
+    "role": "",
+    "text": "Thanks for that. Yep. Yep. Great detail. And then on the tester fleet investments, how long will that take to accomplish the upgrades that you need? And are those upgrades to existing units? For those increased requirements, or is that investment really for new equipment?"
+  },
+  {
+    "speaker": "Giel Rutten",
+    "role": "",
+    "text": "Well, it's a combination of both. I mean, we have a very advanced tester fleet already. The biggest advanced tester fleet is in Korea, but we also have a fairly sizable tester fleet in Japan, a more mature tester fleet in Taiwan, and a more mature tester fleet in China. So there are upgrades of existing platforms and there are new testers coming in. Depends on the application, you know, whether it's for compute, or for communications. Now as you know, there are basically a limited number of tester supplies worldwide. The tester platforms are very well defined. And we're working closely both with customers as well as with suppliers to have a part in upgrading or renewing our test fleets. When did it start? It already started, I would say, with the last introduction of our latest, let's say, communication processors and computing processor. It's ongoing. As we mentioned, the first phase of expansion in Korea will end this year. We're adding another 4,000 to 6,000 square meters of test floor and then we add another 40% in 2026 ready for equipment move-in end of 2026. So it's a significant expansion which fits very well in our strategy of offering full turnkey support to customers and that's needed not only for the compute domain, but also for the communication domain. One thing to mention is that the upgrades that we're making now and the engagements with lead certainly in compute, we will mimic these capabilities in our U.S. facility to offer the same or similar turnkey solutions in The U.S."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "And at this time, I'm showing no further questions. I would like to turn the call back over to Giel for closing remarks."
+  },
+  {
+    "speaker": "Giel Rutten",
+    "role": "",
+    "text": "Thank you. Thank you. Let me recap the key messages. Amkor Technology, Inc. delivered second quarter revenue of $1,510,000,000, an increase of 14% sequentially and 3% year on year. Third quarter revenue was expected to grow 27% sequentially at the midpoint of guidance to $1,925,000,000 driven by the seasonal increase in communications and continued momentum in high-performance and AI applications. We are focused on enhancing operational efficiency, including ramping production in Vietnam, and optimizing our mainstream manufacturing footprint in Japan. With a clear focus on our strategic pillars, and a strong balance sheet, we are well-positioned to deliver our sustainable growth and long-term value creation. Thank you for joining the call today."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Thank you. Ladies and gentlemen, this concludes today's conference call. You may now disconnect."
+  }
+]

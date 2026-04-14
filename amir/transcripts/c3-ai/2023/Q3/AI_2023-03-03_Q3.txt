@@ -1,0 +1,407 @@
+Operator
+Good day and thank you for standing by. Welcome to the C3 AI third quarter fiscal year 2023 earnings conference call. At this time, all participants are in a listen-only mode. After the speakers' presentation, there will be a question-and-answer session.
+[Operator instructions] Please be advised that today's conference is being recorded. I would now like to hand the conference over to your speaker today, Reuben Gallegos. Please go ahead.
+Reuben Gallegos
+--
+Vice President, Investor Relations
+Thank you, and good afternoon, and welcome to C3 AI's earnings call for the third quarter of fiscal year 2023, which ended January 31, 2023. My name is Reuben Gallegos, and I am the vice president of investor relations. With me on the call today is Tom Siebel, chairman and chief executive officer; Ed Abbo, our chief technology officer; Juho Parkkinen, our chief financial officer. After the market closed today, we issued a press release with details regarding our third quarter results, as well as the supplemental to our results, both of which can be accessed through our investor relations section of our website at ir.c3.ai.
+This call is being webcast, and a replay will be available on our IR website following the conclusion of this call. During today's call, we will make statements related to our business that may be considered forward looking under federal securities laws. These statements reflect our views only as of today and should not be considered representative of our views as of any subsequent date. We disclaim any obligation to update any forward-looking statements or outlook.
+These statements are subject to a variety of risks and uncertainties that could cause actual results to differ materially from expectations. Before a further discussion of the material risks and other important factors that could affect our actual results, please refer to our filings with the SEC. Today, all figures will be discussed on a non-GAAP basis unless otherwise noted. And also after the course of today's call, we will refer to certain non-GAAP financial measures and the reconciliation of GAAP to non-GAAP is included in our press release.
+Finally, at times in our prepared remarks in response to your questions, we may discuss the metrics that are incremental to our usual presentation to get greater insight into the dynamics of our business or our quarterly results. Please be advised that we may or may not continue to provide this additional detail in the future. And with that, let me turn the call over to Tom.
+Tom Siebel
+--
+Chairman and Chief Executive Officer
+OK. Good afternoon, everyone, and thank you for joining our call today. You might recall that two quarters ago, I spoke of economic headwinds, lengthening sales cycles, as our customers and prospects anticipated recession. In July and August of 2022, we saw a significant negative change in the business environment with the lengthening of decision cycles, and I caution that the market downturn could be significant.
+Now, as we enter into our fourth quarter, we are seeing tailwinds on from improved business optimism and increased interest in applying C3 AI solutions to address an increasing range of applications across a broadening set of industries. This is a dramatic change from what we experienced in mid-2022. There is a genuine optimism in the marketplace for our solutions. And the overall business sentiment appears to be substantially improving.
+In the course of the quarter, we validated our transition to a consumption-based pricing model. We expanded our partner ecosystem. We expanded our business pipeline. We delivered industry-leading product innovation in enterprise AI.
+And importantly, we remain on track to become cash positive and non-GAAP profitable by the end of fiscal year '24. Looking at third quarter results, we delivered a strong quarter. Our total revenue was $66.7 million, which exceeded our guidance. Current RPO increased to $176.3 million, and we have 236 customers.
+We ended the quarter with almost $790 million in cash. And as we enter Q4, we believe C3 AI is well positioned to continue to invest in growth through enterprise AI innovation and sales expansion while sustaining our path to profitability. Importantly, we have validated the consumption-based pricing model. The response to our consumption-based pricing model from partners and prospects has been uniformly enthusiastic Believe it or not, we currently have more than 290 qualified pilot opportunities in our pipeline, exceeding our expectations.
+Our pilot to production conversion rate is on track. The consumption pricing revenue conversion model that we provided last quarter, and Juho will review that with you in a few minutes, appears to be realistic, suggesting substantially increasing revenue growth rates in fiscal year '24 and beyond. We made significant progress with our partner ecosystem in the third quarter. We established, reestablished and substantially expanded our go-to-market partnerships.
+With Google Cloud, we closed eight new customer deals and expanded our joint pipeline. Our combined teams are currently pursuing 291 enterprise opportunities for our joint solutions, over 100 of which we are currently engaged in licensing discussions. Thomas Kurian, the CEO of Google Cloud and I held a joint meeting with a number of clients, prospects and partners in the U.S. federal region.
+We've made substantial progress to ensure that all C3 products perform optimally in the Google cloud environment. Finally, we expanded our partnership agreement with Google, so that our customers can purchase any C3 AI software solution on the Google cloud marketplace. We also renewed and expanded our go-to-market partnership with AWS in the quarter. AWS funded C3 AI to enhance its C3 AI law enforcement application to ensure that it's optimized for AWS, integrating Amazon Open Search and AWS machine learning services to enhance the speed and quality of analysis for state and local agencies using the application on AWS.
+C3 and AWS are currently pursuing 75 new opportunities, of which 41 appear highly qualified, and we closed six agreements in the quarter. With Azure, we collaborated to close the deal with a super major U.S. energy company and a European technology company serving the mining and construction sectors. We've cooperated to deliver a highly successful pilot engagement to a large U.S.
+defense agency that shows potential for very large expansion. In the quarter, we established a highly strategic relationship with Booz Allen focused on providing solutions to the government defense intelligent sectors. When we are jointly going to market with Booz Allen to bring the C3 AI platform and our suite of prebuilt C3 AI solutions to solve their requirements, together, the companies have cross-trained our employees on our respective services, and we already closed our first engagement with the Chief Digital Artificial Intelligence Office CDAO. With Accenture, we renewed our partnership to help customers drive product innovation, design and development and provide strategic support and systems integration at scale.
+Together, the companies have trained Accenture employees on the C3 AI platform and have already collaborated to close two pilot deals in the consumer packaged goods and oil and gas sectors. We are actively engaged with a large oil and gas services company and have generated several new opportunities with target accounts. With EY, we are teaming to address the needs of the healthcare industry in the U.K. With Peraton, a Washington, D.C.
+Beltway systems integrator, we entered into a partnering agreement to address the modernization of the Veterans Administration. With Baker Hughes, we substantially expanded our strategic partnership in the third quarter. The terms of this expansion resulted in an incremental C3 booking of $32.5 million and the frequency of payments from Baker Hughes was accelerated over the term of the agreement. C3 AI agreed to provide additional products and services to Baker Hughes and provided Baker Hughes additional flexibility in the manner in which they sell AI products and services.
+The expanded agreement also enables Baker Hughes to extend the term of the agreement at its option beyond its current six-year term. We believe the partnership with Baker Hughes has substantially enhanced our credibility in oil and gas and chemicals markets. As a result of our partnership with Baker Hughes, combining both joint selling through the partnership and the sales that we have closed independently of Baker Hughes, C3 AI has closed to date, 87 contracts in the oil and gas and chemical sector, including LyondellBasell, Shell, ExxonMobil, Petronas, ENI, Aramco, Qatar Gas, ADNOC, Yokagawa, Baker Hughes, Braskem, Frontier Resources and others. All of these in aggregate have resulted in our closing over $650 million in bookings, and we have recognized in excess of $350 million in revenue through the third quarter of fiscal year '23.
+Let me talk for a minute about our ESG solutions. We've made significant progress with our ESG application, which is part of our sustainability suite, which includes C3 AI energy management, our most mature application that was first introduced to market in the first quarter of 2010. This product used to measure, manage and mitigate the energy and greenhouse gas footprint at over 6 million residences and businesses today. In September of 2022, we announced the availability of C3 AI ESG developed as a significant enhancement to the C3 AI energy management suite.
+C3 AI ESG provides a single source of truth for all matters of materiality related to ESG, aggregated and synthesis size the many ERP, supply chain, procurement, Cadence, CRM, HR and other enterprise systems installed in an enterprise, all track longitudinally at the asset division and corporate levels. This enables organizations to publish their ESG compliance reports consistent with a multiplicity of conflicting ESG reporting standards, including SASB, GRI, TCFD and CDP. Most importantly, C3 AI ESG provides rich predictive analytics using AI to allow managers to track their gaps to plan for ESG materiality in out years, be it CO2, H2O, methane, workplace injuries, whatever. And it recommends mitigation measures to close the gaps so the Company can be assured of meeting its ESG objectives in 2030, 2040, 2050, etc.
+According to Verdantix, ESG represents a $16 billion addressable market in 2027, and our product is being enthusiastically received. Our initial ESG customers are EY, Shell and Baker Hughes. Now, I'd like to talk a little bit about our intellectual property portfolio. C3 AI continues to make significant investments in technology innovation.
+We have been awarded 26 patents to date and have an additional 90 patents pending. One of our most important inventions is the model-driven architecture for enterprise AI applications, the core architecture of the platform. We have issued several patents for this architecture, including systems, methods and devices for an enterprise AI application development platform. This platform provides all the software service is necessary and sufficient for the rapid development, deployment and operation of enterprise AI applications.
+Importantly, it also serves as an orchestration system, allowing us to immediately embed and exploit the utility of ongoing innovations in the open source and proprietary world. Examples include new techniques in machine learning, virtualization, encryption, commercial products like Databricks, Snowflake, Vertex AI, Amazon SageMaker; Azure ML, TensorFlow, Jupyter, Python, etc., all of which are immediately compatible and interoperable with the C3 AI platform and all of which are commonly used by many of our customers. The recent explosion of innovation and availability of large language models and generative free trading transformers are also immediately compatible with the C3 AI platform, enabling us to increase the utility of our platform and our applications. We believe the importance of the ongoing developments in generative AI is difficult to overestimate.
+Now, there's been a lot of recent news about C3 generative AI. Let me address that for a moment. By combining the utility of the C3 AI platform, predictive analysis enterprise search, natural language processing, generative pre-trained transformers and reinforcement learning, we have developed a new and novel technique to fundamentally improve the human computer interface for enterprise applications. This is kind of a non-obvious use of generative AI.
+This is not about chat, OK? This is about enterprise search. And we believe that this invention represents a breakthrough development that will dramatically facilitate the ease of use and explainability of enterprise AI applications. In addition to providing users immediate, highly controlled access to potentially the entire body of data and information systems within an enterprise, be it Dow Chemical, the United States Air Force, Shell, whatever it may be. In the news release that we put out, we have a link to that application.
+So you can actually see what it is, how it works and how it put it together. And if you're interested, I encourage you to take a look at it. It is really neat. OK.
+We expect the C3 AI generative search capability to be incorporated into the C3 platform and applications and generally available to our customer base this spring. It is currently being deployed as a core capability in the C3 AI platform, and we are doing early deployments at Koch Industries and Baker Hughes. To protect this intellectual property, we have several patents pending in multiple jurisdictions around the world. And I encourage you to go find the link on our website and take a look at it because it is really something.
+OK. Let's talk about guidance. Turning to guidance for the fourth quarter and fiscal year 2021, I will remind everybody on the call that this is the eighth consecutive quarter as a public company, in which the third quarter is the eighth consecutive quarter in which we have exceeded our revenue guidance, OK? We expect revenue for Q4 to be between -- Q4 2023 between $70 million and $72 million. And for the full year fiscal year '23, we expect revenue to range between $264 million and $266 million.
+Bottom line, Q3 was solid. We have validated the consumption-based pricing model, OK? The addressable market is huge. Business is strong. Customers are happy.
+Our workforce is highly productive and the future is bright. And now, I will turn this over to my colleague, Juho Parkkinen, for additional details regarding our financial results. Juho?
+Juho Parkkinen
+--
+Chief Financial Officer
+Thank you, Tom. I will now provide a recap of our financial results, add some color to the drivers of our financials discuss our expected path to non-GAAP operating profitability by the end of fiscal '24, and I will conclude with some additional color related to the consumption-based revenue model we introduced two quarters ago. All figures will be discussed on a non-GAAP basis, unless otherwise noted. As Tom mentioned, we ended the quarter with revenue of $66.7 million, of which subscription revenue was 85.6%.
+Gross profit was $51 million and gross margin was 76%. As I mentioned during the last quarter's update, we have a short-term pressure on our gross margins due to a higher mix of climate which carry a higher cost of revenue during the pilot phase of our customer life cycle. Operating loss of a negative $15 million improved year over year and was significantly above our guidance due to improved vendor expense management and timing of payment. Operating loss margin was flat at negative 23% as compared to the same period in the prior year.
+However, on a sequential basis, our operating loss margin improved. Our customer count increased 8% to 236, and we closed 27 deals during the quarter, 17 of which were pilot deals under the consumption model. Now, turning to RPO and bookings. We reported GAAP RPO of $403 million, which is down 14% from last year.
+This was expected as we transition to consumption-based deals. Trade GAAP RPO of $176.3 million is up 3% from last year and 7% on a sequential basis. We continue to see positive trends in pilot bookings diversity as we have increased to nine industry segments in Q3 compared to six in Q2. Regarding our cash flow, free cash flow improved to an outflow of $71.7 million compared to $77 million in the prior quarter.
+Breaking this down, $19.4 million was related to the build-out of our new headquarters, which we moved into in February. Normalizing for this payment, our adjusted free cash flow improved to an outflow of $52.3 million compared to $54.3 million last quarter. We continue to expand our headquarters and we'll have additional cash outflow in the following quarters as we take over additional spend. During the quarter, we expanded the Baker Hughes partnership.
+As Tom mentioned, the changes are designed to provide increased flexibility to Baker Hughes to provide the BH C3 AI solutions to the market. This resulted in the elimination of the variable consideration, which increased the transaction price by $32.5 million. Regarding outlook. As Tom highlighted, we are able to narrow our range as we have more visibility as we enter Q4.
+As such, we're guiding Q4 to $70 million to $72 million. And for the year, we're tightening the guide from $264 million to $266 million. For Q4 '23, we expect our non-GAAP loss from operations in the range of $24 million to $28 million, that is negative. And for the full year, we expect the non-GAAP loss from operations of negative $69 million to negative $73 million.
+In accordance with our plan, we do expect gross margin percentage to be negatively impacted by the number of pilots active in the fourth quarter. Please recall that during the two quarter pilot period, customer will have unlimited run time and premium support resources sufficient to be successful with their target engagement and gain value from the C3 AI software. During this pilot period, our subscription cost of revenue will be elevated until the conversion to consumption-based pricing occurs. Over time, we expect gross margin percentage to revert to historical ranges as higher percentage of customers on a pilot move to consumption revenue.
+Our operating margin guidance reflects the fact that we have C3 transform the world's premier enterprise AR conference and our major customer events happening next week, and we will have related marketing expenses for this quarter's costs. In addition, as we have discussed previously, we're increasing our sales head count to meet the demand we are seeing for our consumption-based pricing sales and expect to see increased expense in the fourth quarter as a result. It is important to note that we expect that our cash balance will continue to decline into next fiscal year as we complete the build-out of our headquarters. We expect our cash and investments to be at its lowest at around $700 million during fiscal '24.
+Broadly speaking, as a result of the introduction to consumption-based pricing, we expect RPO to trend down over the coming quarters with some exceptions relating to renewals and existing customer expansions. Also, before I end, I'd like to take the opportunity to shed some light into the details in our financial plan and the progress we're making with our consumption-based pricing. As Tom mentioned in his comments, we are on track with our plan to achieve non-GAAP profitability by the end of fiscal year '24. On a quarterly basis, we assess the business landscape and adjust our operating plan based on what we're experiencing in the market.
+During Q1, as Tom mentioned in his remarks, back then, we experienced headwinds and to caution that the market downturn could be significant. We and the management team adjusted our operating plan and build out a careful trap to become operating profitable by the end of FY '24. We are on that plan. In order to make sure that we monitor that plan, we have prepared detailed department of budgets.
+We track variances, we hold managers responsible. And if there are variances, we correct them immediately. In our investor supplement, we have shared our current projected path to operating profit on a relative expense basis. Obviously, as I mentioned, we review our plan each quarter, but I wanted to share the detailed path with you guys at this time.
+As it relates to the model assumptions that we provided two quarters ago for our consumption-based pricing business, our preliminary analysis of the actual results suggest that we are at or better than that model. Therefore, to summarize, quarter results were above expectations and guidance clear and well-understood plan for our path to profitability is in action and our consumption-based model assumptions are on track. With these remarks, I would like to open this call up for questions. Operator?
+Questions & Answers:
+Operator
+[Operator instructions] And our first question comes from the line of Mike Cikos with Needham & Company. Your line is open. Please go ahead.
+Mike Cikos
+--
+Needham and Company -- Analyst
+Hey, guys. Thanks for getting me on the call here. I wanted to start off with some of the comments that you guys had around the customer dynamics because I just want to make sure I'm clear on how we're looking at things. If I'm counting, I think the customer count was actually flat quarter to quarter as far as total customer count.
+But I know -- I think Juho in your prepared remarks have discussed C3 had closed 27 deals 17 of those were pilots under the consumption model. Can you just help us think through like how are you guys prioritizing? Who goes into that category, when do they become would you term a customer?
+Juho Parkkinen
+--
+Chief Financial Officer
+Of course, yes. Thanks, Mike, for the question. So if you take a look at our quarterly filings, we've provided kind of a detailed definition of what our customer is, but I'll provide it here as well. So within a customer entity, which you can think about the ultimate parent of, let's say, coke industries there could be several subsidiaries, groups, departments, various budget owners or various groups that use either incrementally or tool or use it in different use cases.
+That -- all of those individual groups we would characterize as a customer.
+Mike Cikos
+--
+Needham and Company -- Analyst
+I guess what I'm getting at is if you closed 27 deals and 17 were pilots, right? If I think about the 27 deals that you guys closed, the assumption is then that they were all with existing customers. Is that fair? Or I guess there's movement under the hood in that customer cap that you're providing Again, I'm just looking at the customer count being flat quarter to quarter.
+Juho Parkkinen
+--
+Chief Financial Officer
+Yes, totally understand. So let me clarify. So, we are still broadly speaking, in our transition phase to the pure pilot model. And if you recall in some of our prior conversations, some of the old trial arrangements, which are a customer in the period when their trials upon the ending of the trial period.
+We engaged in negotiations to turn them into production customers. During that phase, that customer is not considered a customer. It effectively falls off the calculation. And then, when they would enter into a production deal, they come back into the calculation.
+So those dynamics are still at play because obviously, we still have a tail of the former trial model at the -- during the quarter. Now, the 17 new pilot arrangements, those also are a mixture of new customers and then we could have an existing customer who wants to do a trial project with us. So that would be -- that could be part of the bridge as well.
+Mike Cikos
+--
+Needham and Company -- Analyst
+Got it. Got it. And one other thing, if I could, but I know you guys obviously cited the better profitability here versus expectations. And one of the -- I guess there were two primary big drivers.
+The first is we had a large sequential uptick in the pro services revenue and that pro services gross margin. Can you help us think about what drove that strong return in pro services, as well as the gross margin there coming in, it was in the 90% plus range, which I think was much higher than what you guys have typically done. Was there any onetime item that benefited that gross margin?
+Juho Parkkinen
+--
+Chief Financial Officer
+So we have a highly skilled professional services organization, and we do various projects where we are able to command a high margin. Our standard kind of historical implementation services would be at a lower margin, but then we also do certain consulting base or more ad hoc projects that carry a very high gross margin.
+Mike Cikos
+--
+Needham and Company -- Analyst
+OK. And then, the other thing that benefited the margins obviously was the much lower than expected sales and marketing expense. What was it that drove that benefit? And I guess the follow-up question on sales and marketing is, I know that you guys have previously outlined your assumptions for sales and marketing headcount to grow 40% to 60% year to year. Are we tracking to that? Where did the sales and marketing headcount shake out for the quarter?
+Juho Parkkinen
+--
+Chief Financial Officer
+OK. Thanks, Mike. That's another great question on that. So if you take a look at the investor supplement, we broke it out again for your benefit between sales and marketing.
+So you can kind of see the relative proportion there and how we plan on how our current plan is to track into operating profit. To answer kind of quickly to your question, from a marketing perspective, as discussed in prior calls, we believe we have a very high brand value, and we no longer have to spend the historical amounts to gain or increase that value. And secondly, on the sales side, we have very aggressive hiring targets, but we are slightly behind those targets because we look for the best type of candidates to sell our products and services.
+Mike Cikos
+--
+Needham and Company -- Analyst
+Got it. I'll take a look at that supplement and turn it over to my colleagues. Thank you.
+Operator
+Thank you. Our next question comes from the line of Gil Luria with D.A. Davidson. Your line is open.
+Please go ahead.
+Gil Luria
+--
+D.A. Davidson -- Analyst
+Yes. Thank you. It looks like the general AI conversation, you were ahead of. Can you help us a little bit with the context for that? When did you start the work on that? When did the pilot start? You talked about a couple of implementations maybe a preview of what you're going to talk next week about at your conference.
+It seems like there's a little confusion out there about what came first, the interest in generative AI or your work on it. So would you mind walking us through that time line?
+Tom Siebel
+--
+Chairman and Chief Executive Officer
+Let me try that. And this is Tom. So we've been working with generative AI models since 2020. What precipitated this particular spurt of creativity was there a quest from DoD, which is one of our larger customers.
+And I got a text about four or five months ago, but Tom, we need you to be the Google for DoD. And so, I didn't quite understand what that meant. And then, I talked to some of our colleagues and like General Hyten those we used to be the Vice Chairs of Joint Chiefs; and General Cardon, who is the Chair of our Federal -- United States Army Cyber Command, is the Chairman of CTV Federal. And they said, "Tom, this the way it works.
+The Chairman of the Joint Chiefs asked some question in the meeting like how are we doing against our diversity goals or what is our satellite coverage into Paycom." OK? They then that gets passed down to 22 stars goes to four corporals, goes to 16 IP people. And four weeks later, somebody goes back with two PowerPoint slides in the Joint Chiefs meeting. That's really how it works. So when we were thinking about Google for DoD.
+I mean, the way they phrased the question really facilitated the creative process. So, Ed and I and a couple of other people got together in a room when we started to say Google for DoD, what does that mean? Well, Google, if you think about the Google human interface, OK. That's the one in the interface that everybody in the world knows how to use, OK, is basically the search bar. And we figured out a way to use that for every application we do, DoD, manufacturing, supply chain precision health demand forecasting where you simply type in the question, what's my satellite coverage on into Paycom.
+It uses generative AI to say, did you mean this or this, just like Google does. You click on the answer you do that you and it uses normal AI to give you the answer. It uses kind of check the capability to give you a detailed explanation on the right, with which you can interact via chat. OK.
+Understand though, the chat universe that you know about is only the information content of the enterprise that were installed, be it Dow, be it EY or be at a Department of the Army. And then, below, you get a log of last of other areas that you might want to click on that are related to the question, whatever the question was semi coverage into Paycom. These might be share files, click files, XL files documents, what have you. So we put that together and start playing with it.
+And then, we develop some techniques that by combining enterprise search with indexation processing and generative AI, reinforcement learning and it's kind of the Google user interface in a very non-IPS manner, we're able to solve a very interesting problem or now we have an application that the share joint chiefs can use at the end of the and the private and the flight line at right patterns and Air Force base can use. So there's a link in our news release. We can go on and see the application. And I think this might fundamentally change the nature of the human computer interface anise applications.
+It's pretty neat. And what we'll be showing it in Florida next week to our users working on about 10 of our applications. and releasing it into production this spread. So it's we didn't advent generative AI.
+We're just taking advantage of the billions of dollars of research that's going on out there. And whoever has the hottest product of the day, be it Microsoft or Google or Open AI or whoever it comes up with it next, we just use that in our engine and our architecture supports that. So, sorry for the long answer, but it is really exciting, and I encourage you to click on the link on our news release, and there's about a four-minute demo there that will give you a feel for it. I think you'll think it's unique, has a lot of utility and will dramatically increase the usability and attractiveness of our products.
+Gil Luria
+--
+D.A. Davidson -- Analyst
+My follow-up is it sounds like you're talking about two things. One, about how generative makes your current products we better and another how you can apply it in an enterprise level beyond your product set to other data sets within the enterprise, which one is the bigger commercial opportunity?
+Tom Siebel
+--
+Chairman and Chief Executive Officer
+That's a really good question. And I mean, you really asked a good question. And because there is a big opportunity to do this in enterprises that do not use C3 and do not intend to use C3, OK? But they want the unified view of their data. And so, the honest answer is we have not figured out how to monetize that yet.
+We haven't put a price on it yet, but there is potentially a very large market there. And it's no place -- it's not in any of our operating plans yet, but it will be. But you -- this is a very -- it's a non-obvious use of these open IR lips. This is not about Chat GPT a chat.
+It's kind of cute, right? And someday, I think it will be useful. But that's -- we're not doing chat here. We're doing kind of the antithesis of chat. We're using these large language models to basically crawl the enterprise.
+And so -- but you asked a very good question. There is a monetization opportunity today that we haven't figured out yet.
+Gil Luria
+--
+D.A. Davidson -- Analyst
+Excellent. Thank you.
+Operator
+Thank you. Our next question comes from the line of Michael Turits with KeyBanc. Your line is open. Please go ahead.
+Michael Turits
+--
+KeyBanc Capital Markets -- Analyst
+Thanks very much, guys. Hey, Tom, just to continue on the product front and then I had a question or two for you, but on the product on generative today, I think it's it makes a lot of sense to the combination and the story with DoD. I guess the question is you're basically enterprise search that you're talking about, which is the name of the product. But that's not unless I'm wrong, was that a product you had before because that's obviously a market unto itself, and there's a lot of existing players in that market.
+So what's the history of having developed that?
+Tom Siebel
+--
+Chairman and Chief Executive Officer
+What is an example of an enterprise product in the market?
+Michael Turits
+--
+KeyBanc Capital Markets -- Analyst
+Even like what Elastic does for a lot of people, right? So -- and then how are you -- what's the sort of the innovation that allows you to interact that with other people's generative AI models?
+Tom Siebel
+--
+Chairman and Chief Executive Officer
+The innovation is the way that we have combined those core technologies in a new and novel approach for a non-obvious application, OK? So something that would define what's patentable, OK? So we're taking the enterprise search UI NLP degenerative AI, reinforcement learning and predictive analytics and combining those in a non-obvious way to solve a problem of how utility. Ed, why don't you pick it up from there?
+Ed Abbo
+--
+Chief Technology Officer
+Yes. So as Tom said, basically, we're using more modern techniques than, say, Elastic to do the interpretation of the questions using large language models and then the retrieval of information from across the enterprise information systems, documents, BI dashboards, etc. And so, this is a, as Tom said, a novel approach to be able to search the entire corpus of an enterprise and leverages generative AI, leverages these large language models and all the all of the capability that we've developed over the past decade to be able to integrate and unified data across systems, sensor networks, images, tax, etc. So this is different than it's new, and it's much more effective than traditional approaches for indexing.
+Michael Turits
+--
+KeyBanc Capital Markets -- Analyst
+Got it. Makes sense. And then, just on Baker Hughes. So I think that we had in our model, I don't know if it's right or not, but I think we're anticipating about another $270 million in the contracts? Maybe -- I don't know if you wanted to update that, but so do I just add $35 million to that? And does it change the amount you're expecting each quarter? And what did you get this quarter from them?
+Juho Parkkinen
+--
+Chief Financial Officer
+OK. Good question. So I'd have to -- I think we need to look at your model effort. But the short answer is that we disclose both in our release and the Q and the supplement, the Baker Hughes RPO, the RPO is $188.5 million.
+So we've got to maybe check on offline as to what does that mean for your model. As it relates to the results in the quarter on the face of the income statement, we showed a related party amount for Baker Hughes this quarter was $28.9 million.
+Michael Turits
+--
+KeyBanc Capital Markets -- Analyst
+OK. Great. And does it extend the amount of time? I think you said it extended the dollar amount maybe I missed it, but is it extending the period over which it's being paid also so adding through the same length?
+Juho Parkkinen
+--
+Chief Financial Officer
+Actually, one of the really exciting seas part of this extended agreement is that we accelerated the payment schedules. So we're actually collecting cash faster from Baker Hughes. And then, as it relates to the transaction price, so the accounting transaction price increased by $32.5 million because the variable consideration was eliminated as part of the expansion deal.
+Tom Siebel
+--
+Chairman and Chief Executive Officer
+And I think it might have -- I might be in a source of a little bit confusion there, Michael. Another term of it is they have a unilateral option to extend the agreement, OK, should they choose to do so. That doesn't mean to extend the period of the payment terms. That means add more years to the agreement for pre-existing predetermined amounts of cash.
+Michael Turits
+--
+KeyBanc Capital Markets -- Analyst
+OK. Thanks, Tom. Thanks, Juho. Thanks.
+Thanks, Ed.
+Operator
+Thank you. And our next question comes from the line of Sanjit Singh with Morgan Stanley. Your line is open. Please go ahead.
+Sanjit Singh
+--
+Morgan Stanley -- Analyst
+Thank you for taking the question. So, if I take the comments from Tom in his script and Tom's like notable that you are speaking to a better demand environment and I think the rest of software is still pretty gloomy. And then, I sort of Juho's comments around the consumption actual versus predicted sort of coming in line with what you thought, I try to put these pieces together revenue is declining year over year right now, obviously, because the business model is going through some transition. And so, I guess the big question is, what -- where does revenue growth go to? I know you guys still have another quarter to go before your Q4, but The Street is sort of expecting 20% revenue growth.
+Is that something that seems achievable from your line of sight and more optimistic view? Is it something better than that, below that? I'm just trying to understand like where the business is.
+Tom Siebel
+--
+Chairman and Chief Executive Officer
+Juho will this Sanjit, but just for the record, if I'm not mistaken, our revenue for fiscal year '23 will be greater than fiscal year '22, not less. OK? So year over year our revenue will increase, not decrease. So, I just want there to be any misunderstanding about the listing. Juho, why don't you take the rest of it?
+Juho Parkkinen
+--
+Chief Financial Officer
+Yes, of course, yes. So thanks, Sanjit. The -- let me try to recap your question. So first of all, as Tom mentioned that the annual guide would be a year-over-year increase on the total annual results.
+And then, on the quarterly basis, yes, we're seeing very promising signs that our model assumptions are good. We're seeing actual results that are at the model or even better. And previously, we have provided some really early onset outlook that 24% would be around 30% growth. I know that the Street expects around 20% growth, I'd say that it's achievable at least to what the Street is saying and we certainly are interest -- we certainly are targeting a higher growth so our model actuates as we plan it to actually.
+Sanjit Singh
+--
+Morgan Stanley -- Analyst
+No, that's super helpful. I really appreciate the thoughts. And I guess, Thomas, a follow-up on just your more optimistic view versus, let's say, a year ago, where is that coming from, like, I mean, is there a way you can sort of talk to it from like a vertical perspective. A lot of the companies that are struggling now are selling to other tech companies, which kind of explains a lot of their weakness.
+But what are you seeing in your customer base?
+Tom Siebel
+--
+Chairman and Chief Executive Officer
+The only good question. Maybe you -- I guess you can't show the slide. But if you show the industry diversity, I mean, No. 1, oil and gas is obviously a very healthy segment for us, but it's one of the healthiest segments in the overall economy, right? So we happen to be in the right place at the right time there with the right partner.
+That's working out pretty well for us. But if you look at -- Juho, please talk to the industry diversification that we saw in the pilot projects because it's really kind of all segments of the economy. I mean, all I can say, Sanjit, is like when we go to places like Davos or I go to the U.K. or I go to Washington, D.C.
+or I get to New York. I mean, last summer, I mean, it was the end of the world in July and August, everybody is hunkered down in the basement, figuring out how seriously they were going to slash expenses to like survive the recession. Now, it's kind of everybody and think, OK, fine, there's going to be a recession, let's get over it and get on with business. And so, it's -- there's just a dramatically improved sentiment out there.
+And -- but Juho maybe you can comment on the of the diversity that we saw in the pilot because it was really quite remarkable.
+Juho Parkkinen
+--
+Chief Financial Officer
+Yes. Thanks, Tom. So Sanjit, on the supplemental or the supplement that we have on our website, if you check out Slide 24, we show the diversity in total bookings, and then we also show the diversity of the pilot bookings. So we're very excited about the nine industries that we have pilot deals during the quarter.
+Just to rattle them off, we got fed accounting services, consumer packaged goods, manufacturing, we've got oil and gas, financial services, high tech, we've got telco, and then we have state and local. So we've got a diverse group here.
+Sanjit Singh
+--
+Morgan Stanley -- Analyst
+Yes. I guess the point would be is that --
+Tom Siebel
+--
+Chairman and Chief Executive Officer
+The number remains a very small slice of our business, unlike a lot of software companies.
+Sanjit Singh
+--
+Morgan Stanley -- Analyst
+Yes, yes. That's right. And I guess the point Juho would be -- I guess, not just the diversification, right? But the theme across a lot of software for the past couple of quarters is that people are just conservative with respect to their investments, particularly with like public cloud related investments because they spent a lot of that in the last two years. It sounds like what you're saying is that you are detecting no such hesitation within the CI specific customer base they are in investment mode and would that be a fair characterization?
+Juho Parkkinen
+--
+Chief Financial Officer
+From my perspective, and I think maybe Tom could shed some light or Ed, but I certainly believe and have seen from our customer base that our products provide value to customers. there's efficiencies, there's more productivity. So when you have whatever market, whatever industry you have, everybody is interested in cutting costs and become more profitable, become more efficient we are right there. Our stuff is helping them to get business value very quickly.
+Maybe, Ed, do you want to maybe shed something on that?
+Tom Siebel
+--
+Chairman and Chief Executive Officer
+In the qualified pilot opportunities that we're working and it was Google alone were in the process of trying to close deals with how many. It's a big member. We are engaged, OK? We have 291. Well, we have over 100 opportunities with Google Cloud, and we're currently engaged in licensing discussions.
+I mean, something changed, Sanjit, from July of 2022. That's it.
+Sanjit Singh
+--
+Morgan Stanley -- Analyst
+Got it. I appreciate the thoughts.
+Operator
+Thank you. The next question comes from the line of Arvind Ramnani with Piper Sandler. Your line is open. Please go ahead.
+Arvind Ramnani
+--
+Piper Sandler -- Analyst
+Hey. Thanks for taking my question. I wanted to ask about your expanded partnership with Google and also AWS. When you look at these partnerships, how are you sort of measuring kind of the commercial success or the ROI of these relationships, right? Because you let have like a lot of good relationships and kind of partnerships we have established and have continued to expand and -- but sort of looking forward and saying like, these are the partnerships that are resulting in the greatest commercial success, and this is where we need to continue investing in.
+How are you -- what's the approach in figuring out that ROI and investment?
+Tom Siebel
+--
+Chairman and Chief Executive Officer
+In the short term, we're measuring on pilots closed. Looking in the medium term, we're measuring it on consumption, OK? The reason that AWS and Google and others are partnering with us and the hyperscale is they're partnering with us is because we accelerate consumption. In other words, the customer doesn't have to spend two years building the ML application or at which time they're not consuming a lot of CPU cycles or building the supply risk application or whatever it might be the also a consume happen fast. That's what these guys are interested in, OK? They're interested in CPU cycles and storage hours.
+These are short term or measured in pilots, medium and long term were measured in BCD hours.
+Arvind Ramnani
+--
+Piper Sandler -- Analyst
+Terrific. And then, just on the kind of macro kind of commentary, you certainly kind of early kind of talking about some of the headwinds, and again, you're talking about those headwinds turning into tailwinds. Do you have kind of -- are you seeing enough of signs to kind of confidently say that things are turning around? Or is it still -- we're at a point where things could go in either direction?
+Tom Siebel
+--
+Chairman and Chief Executive Officer
+Well, you're an expert at this and we're not, Sanjit. But the -- we were one of the earliest I think, to call that it was really ugly out there. then everybody else filed on, but then everybody else started doing layoffs, 5%, 10%, 20% at a time and those aren't over yet. All I can say is what we're seeing now is dramatically different.
+And I was I mean, I didn't say that to pump our stock price. I was just telling you guys what was really going on in the market, OK? And I'm telling you what's really going on in the market. Now, I don't know whether this is a femoral or whether this is going to -- whether this is going to be sustained. This is -- but I think that the way this looks to me is sooner or later, the Fed is going to take its foot off the brakes OK? When the Fed takes its foot off the brakes, this will be a cash positive rapidly growing business, OK? And I think we're going to be off to the races.
+Now, I don't know you guys have big mines that now when the Fed is going to take it off the brakes. I don't know when that is, OK? But when that is, that's what we will be, whether this thing could take a dip or not, that's beyond my pay grade, buy. I just know that right now, something has changed.
+Arvind Ramnani
+--
+Piper Sandler -- Analyst
+Super helpful, Tom. Thank you.
+Operator
+Thank you and one moment for our next question. Our next question comes from the line of Kingsley Crane with Canaccord. Your line is open. Please go ahead.
+Kingsley Crane
+--
+Canaccord Genuity -- Analyst
+Hi, Tom. So I appreciated your comments on the applicability of the generative AI product outside of the typical customer base. But we just think about the core customer base, what do you think the potential is for generative AI to drive new trials? Or is this primarily a product that would work best as sort of second, third or fourth product within the basin?
+Tom Siebel
+--
+Chairman and Chief Executive Officer
+I tell you, go look at the demo. People get awfully excited about it. And I just came back from somewhere. I know where Barcelona, OK, I just got off a plane from Barcelona, it shows to a bunch of people, Ed and I.
+And it's a pretty exciting product. It's something brand new. And you got to just take a look at it. It's hard to describe.
+And I think it will make our products more attractive. It will make it easier for people to use, easier to handle change management, which is everything in enterprise applications. And so -- and it will, I think, substantially differentiate us in the market. Take a look at this user interface compared to what SAP, Oracle, Salesforce and everybody else has in the market, which is just kind of a cheap copy of the Cboe version of the seven architecture that Ed and I embedded in 2002.
+And this is something very different, and the excitement appears to be palpable.
+Kingsley Crane
+--
+Canaccord Genuity -- Analyst
+We've seen the demo we're definitely really impressed by it. And so, one for Juho. Wherever growth ends up next year in fiscal '24, just want to think a little bit more about the balance of existing customer expansion and then the net new customer deals, like how much of the ramp in trial conversions are we factoring into growth next year?
+Juho Parkkinen
+--
+Chief Financial Officer
+OK. Great question. So, I would suggest that you take a look at the assumptions that we provided and you model out based on the actuals that we have provided. And that just kind of give you a good idea as to where we should be as it rebates to the consumption-based business and happy to chat with you if you have any additional questions on it.
+Kingsley Crane
+--
+Canaccord Genuity -- Analyst
+OK. Thanks. We'll follow up.
+Operator
+Thank you and one moment for our next question. And our next question comes from the line of Pat Walravens with JMP Securities. Your line is open. Please go ahead.
+Pat Walravens
+--
+JMP Securities -- Analyst
+Great. Thank you. Tom, one for you first. Can you just sort of give us an overview of how the business with the DoD is going? And maybe as a touch point to that, in December 2021, you guys signed the $500 million production other transaction agreements.
+How much of that is the DoD actually taken down? How much of the $500 million do they spend?
+Tom Siebel
+--
+Chairman and Chief Executive Officer
+A good question, Pat, and I don't know the answer. We have two agreements like that. One is for $500 million is one for $100 million. And I'm not sure I can tell you that our business with the DoD is looking very promising.
+There's -- I think we had -- we hosted -- Ed and I hosted, I think, A very large number of CIOs from DoD like two weeks ago on Army, Navy, Air Force, Cyber Command, Spacecom, Marines, National Guard, they were all in our office. And there are lots of discussions going on about some very significant projects. And so, DoD is looking very promising. But I don't know the answer to how much of that deal we've taken out.
+And we have a proposal in front of one of the agencies that will consume a lot of it, and we'll see what happens.
+Pat Walravens
+--
+JMP Securities -- Analyst
+Hopefully, that gets done. All right. And then, Juho, I just wanted to -- it was a very simple math there. But if I look at your Slide 20 I mean, if I take your average TCV and I multiply it by the number of deals that you have for each quarter on the chart, I get your total bookings, right?
+Juho Parkkinen
+--
+Chief Financial Officer
+Yes. I think Pat that sounds about the right math, yes.
+Pat Walravens
+--
+JMP Securities -- Analyst
+Right. That seems reasonable. So you had 27 deals in Q3 at $1.9 million. So that's $51 million in bookings.
+And you had 20 deals in basically a year ago, right, at $5.6 million each, $112 million. So booking has been cut by more than half. Is that a fair assessment of what's really going on?
+Tom Siebel
+--
+Chairman and Chief Executive Officer
+Let's also put this in -- I'll let Juho answer this, but I understand a year ago, the deals were $10 million, $20 million, $30 million, $40 million, $50 million deals. This quarter, as a result to consumption-based pricing, the $0.5 million trials. So then this gets into, as Juho explained. So you all take it from there, OK? But so in a completely different kind of deal, and in the quarters going forward, you'll see we're closing a lot more of them.
+But we're not closing our old model used to be $10 million, $20 million, $50 million, $20 million, $30 million, $40 million, $50 million. We don't do those anymore. We're doing $0.5 million deals. Juho?
+Juho Parkkinen
+--
+Chief Financial Officer
+Yes. Thanks, Tom. Yes, Pat, I think Tom summarized it perfectly. This is totally expected, and this is a direct result of the consumption-based pricing shift two quarters ago.
+Pat Walravens
+--
+JMP Securities -- Analyst
+Right? So I mean, it's great transparency, right? Most companies don't give us their total bookings. So as long as you guys keep getting these slides, we're going to be able to keep doing the math. When do you think we start seeing that go up?
+Juho Parkkinen
+--
+Chief Financial Officer
+So if you now -- since you have that chart open, I'm glad to hear it, go to Slide 18, and on Slide 18, what you see is the same chart that we provided to the last three quarters that shows the kind of the expected consumption revenue model ramp-up versus subscription ramp-up. So this is an indicative of what we would expect to see. And as I've outlined, we believe we are in our model that we've outlined to you guys, so we can kind of figure out from here when we should start seeing the ramp up.
+Pat Walravens
+--
+JMP Securities -- Analyst
+Yes, seven quarters through? And where are we now?
+Juho Parkkinen
+--
+Chief Financial Officer
+So we would have started two quarters ago. So based on this, we are at -- for the first quarter, second, we're on quarter three.
+Pat Walravens
+--
+JMP Securities -- Analyst
+OK. So we got a little ways to go. All right. Great.
+Thank you.
+Juho Parkkinen
+--
+Chief Financial Officer
+Thank you.
+Operator
+Thank you and one moment for our next question. Our next question comes from the line of Arsenije Matovic with Wolfe Research. Your line is open. Please go ahead.
+Arsenije Matovic
+--
+Wolfe Research -- Analyst
+Hi. This is Arsenije on for Gal. It seems like this is now two quarters of coming in above expectations that were initially communicated for progress in the pilot initiative. Should we think about these pilots coming in faster than your initial communication suggested, given the more positive macro outlook you're seeing relative to the first quarter? And then, I had one brief follow-up.
+Juho Parkkinen
+--
+Chief Financial Officer
+I think, Arsenije, like I said, the original assumptions that we provided are still valid. We're seeing great results. We're very excited with the traction with our partners and the number of deals that we're tracking, but we're quite confident with our model at this time.
+Arsenije Matovic
+--
+Wolfe Research -- Analyst
+Got it. That's helpful. And then, what caused the large services contribution from Baker Hughes in the quarter? It looks like it was $8.6 million. Did this contribute to the above 90% services gross margin? And can you remind us how COGS associated with Baker Huge service revenue is accounted for?
+Juho Parkkinen
+--
+Chief Financial Officer
+Perfect. So I think you missed the initial call or initial question for Mike who asked this, and I explained the gross margin impact. But just as a quick recap for you, we have various types of professional services, and we have highly skilled workforce, and we're able to command good premium on those services. And Baker Hughes is one of customers, many customers whom we -- which provide professional services.
+Arsenije Matovic
+--
+Wolfe Research -- Analyst
+Thank you.
+Reuben Gallegos
+--
+Vice President, Investor Relations
+Operator, we'll just take one last quick call if we can.
+Operator
+All right. One moment. And our last question is a follow-up question from the line of Michael Turits with KeyBanc. Your line is open.
+Please go ahead.
+Michael Turits
+--
+KeyBanc Capital Markets -- Analyst
+Hey. Thanks, gentlemen, for letting me get a follow-up. And the guide for next quarter of the $70 million to $72 million, you have that big bump in services, which seem to have come back faster than I think we might have expected. Any sense you can give us for what the trends are for both subscription and services into next quarter, the subscription trend down, flat services to high?
+Juho Parkkinen
+--
+Chief Financial Officer
+I think we've historically provided that our target is between 10% and 20%, and I think we're going to be in that range quite nicely.
+Michael Turits
+--
+KeyBanc Capital Markets -- Analyst
+OK. Thanks, Juho.
+Juho Parkkinen
+--
+Chief Financial Officer
+Thank you very much.
+Operator
+Thank you. And I'm showing no further questions. And I'd like to hand the conference back to Juho Parkkinen for any further remarks.
+Juho Parkkinen
+--
+Chief Financial Officer
+Awesome. So thanks, everybody, for joining for our third quarter conference call, and we really look forward to chatting with you guys all in the future and thank you for your time.
+Operator
+[Operator signoff]
+Duration: 0 minutes

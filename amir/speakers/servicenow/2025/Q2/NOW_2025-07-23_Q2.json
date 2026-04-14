@@ -1,0 +1,337 @@
+[
+  {
+    "speaker": "Unknown",
+    "role": "",
+    "text": "Full Conference Call Transcript"
+  },
+  {
+    "speaker": "Darren Yip",
+    "role": "",
+    "text": "Good afternoon, and thank you for joining ServiceNow, Inc.'s second quarter 2025 earnings conference call. Joining me are Bill McDermott, Chairman and Chief Executive Officer, Gina Mastantuono, our President and Chief Financial Officer, and Amit Zavery, President, Chief Product Officer, and Chief Operating Officer. During today's call, we will review our second quarter 2025 results and discuss our guidance for the third quarter and full year 2025. Before we get started, I want to emphasize that the information discussed on this call, including our guidance, is based on information as of today and contains forward-looking statements that involve risks, uncertainties, and assumptions. We undertake no duty or obligation to update such statements as a result of new information or future events. Please refer to today's earnings press release and our SEC filings, including our most recent 10-Q and 10-K, for factors that may cause actual results to differ materially from our forward-looking statements. We'd also like to point out that we present non-GAAP measures in addition to and not as a substitute for financial measures calculated in accordance with GAAP. Unless otherwise noted, all financial measures and related growth rates we discuss today are non-GAAP except for revenues, remaining performance obligations or RPO, current RPO, and cash and investments. To see the reconciliation between these non-GAAP and GAAP measures, please refer to today's earnings press release and investor presentation, which are both posted on our website at investors.servicenow.com. A replay of today's call will also be posted on our website. With that, I'll turn the call over to Bill."
+  },
+  {
+    "speaker": "Bill McDermott",
+    "role": "",
+    "text": "Thank you, Darren, and welcome everyone to today's call. ServiceNow, Inc.'s Q2 results were outstanding. They continue our long track record of elite-level execution, and we are at the forefront of enterprise AI. Subscription revenue growth was 21.5% in constant currency, two points above our guidance. CRPO growth was also 21.5% in constant currency, two points above our guidance. Operating margin was 29.5%, that's over 2.5 points above our guidance. Free cash flow margin was 16.5%, up 3% year on year. We had 89 deals greater than a million in net new ACV. Eleven of those deals were greater than five million in net new ACV. All our workflow businesses performed very well in the quarter. Technology workflows had 40 deals over a million, including four over five million. ITSM, ITAM, ITAM, security, and risk were all in at least 15 of the top 20 deals. CRM and industry workflows continued its strong momentum in 17 of our top 20 deals, with 17 of those deals over a million. And core business workflows also had a great quarter in 16 of the top 20 deals with seven deals over a million. The global environment is the fastest-changing in history. Outcomes like beat and raise are a testament to the ServiceNow, Inc. AI platform, our world-class team, and partner ecosystem. Let's talk about what's driving the growth: it's AI, data, and workflows. On AI, NOW Assist net new ACV to date beat expectations once again in Q2. Our key AI Pro Plus deal count, including IPSM, CSM, and HR, was up over 50% quarter on quarter. We also closed our largest NOW Assist deal to date at over 20 million. We had 21 deals with five or more NOW Assist products, and Plus products were included in 18 of our top 20 deals. The AI hype cycle has not slowed for good reason. Enterprises in every industry and every region of the world have AI transformation as priority number one. IT budgets are highly resilient and increasingly focused on strategic mission-critical AI platforms. Our position is highly differentiated because AI work is cross-functional work. ServiceNow, Inc. integrates the entire tech stack, on-prem or in the cloud, any system, any LLM, any data source, and we bring all of that data into a single model. From there, we elevate into the workflow layer, where you take action on that data wherever it lives. Then we move into the AI layer, not just automation, but true AI agents executing real tasks to drive outcomes across business processes: hire to retire, procure to pay, design to product, quote to cash, and sale to service. The long history of enterprise tech can be described in a single word: pain. That's because people and devices and apps and data and clouds don't work well together. Without ServiceNow, Inc., we run the real risk of a new generation of pain, this time with AI agents scattered around like spare parts. We have no intention, ladies and gentlemen, of allowing that to happen. Control Tower isn't just a name for our solution. It's the ultimate metaphor for how ServiceNow, Inc. helps customers govern the agentic enterprise. We help customers take advantage of everyone's innovation, ours, and others. We put investments together. We make it all work. With demand as high as it is, our next AI program is called Now Next AI. And this is getting our engineering teams deployed to get customers live fast. These are only a few of the many reasons you're seeing real momentum in these results. And we're only just getting started. Q2 has also showed ServiceNow, Inc.'s growing differentiation in enterprise data. Workflow data fabric was included in 17 of our top 20 largest deals. Customers recognize the value of combining data analytics and AI. They embrace our vision of workflow data fabric and agents working together to drive faster, smarter outcomes. On the underlying technology level, Raptor DB Pro continued to gain traction. In every major region, it beat expectations in Q2. As I summarized earlier, all our workflows are growing, especially CRM front office workflows. The CRM opportunity for ServiceNow, Inc. is massive. According to industry experts, agentic AI represents a seismic shift that could render traditional CRM obsolete. By the end of this decade, enterprises will adopt systems of action driven by autonomous front-end agents. The future isn't a CRM screen; it's omnipresent AI agents embedded in everyday tools. With our sales and order management solution and our acquisition of Logic AI, we're not just entering CRM; we're reimagining it now. We're delivering a fully integrated AI-powered front office, sales and service, streamlined operations, and dramatically improved time to revenue. And customers are responding to our innovation. We secured several notable wins with strong momentum in CRM and widespread adoption of our end-to-end capabilities. One of the largest building supply companies in the US selected ServiceNow, Inc. CPQ to support configuration and quoting at scale for their largest distribution network. ExxonMobil plans to implement ServiceNow, Inc. AI and agents to deliver enhanced employee experiences, improved operational processes, and fast response time across its enterprise services. Standard Chartered will use ServiceNow, Inc. AI Control Tower with Raptor DB to help govern, secure, and realize value from agentic AI. Merck and Company is adopting the ServiceNow, Inc. AI platform to transform security operations, enhancing control over IT assets, reducing risk, and strengthening data compliance across the enterprise. The state of California is using ServiceNow, Inc. CRM across multiple departments to better serve its constituents, employees, and the business community. Brazil is transforming customer service with ServiceNow, Inc. AI, delivering tailored solutions that anticipate customer needs and deepen engagement across the broad network of customers and partners. Intuit is expanding its long-time relationship with ServiceNow, Inc. to remove friction with done-for-you agentic AI experiences for their employees. Starbucks, a multiyear ServiceNow, Inc. customer, is using our AI capabilities to enhance its technology ecosystem, rolling out ServiceNow, Inc. and select support centers to drive greater satisfaction at every touchpoint. The North Carolina Department of Transportation will use ServiceNow, Inc. AI Control Tower to govern all of their AI solutions across the agency, ensuring industry compliance and control as they scale their modernization efforts. In a very exciting new partnership, CapZone Impact Investments and ServiceNow, Inc. are developing a national network of next-gen solutions to modernize mission-critical facilities. ServiceNow, Inc.'s risk management, enterprise asset management, and AI-powered automation capabilities will create a fully digital maritime manufacturing capability in the United States. There's no greater satisfaction than seeing world-class brands working with ServiceNow, Inc. There's no better example than our great partner and friend, NVIDIA. They are redefining employee support with ServiceNow, Inc. AI, with intelligent AI agents that proactively resolve issues, deliver personalized help, and provide answers in milliseconds. Customers are not only choosing our tech; they're investing in our team. Under Amit Zavery's leadership, our product engineering and design teams are the best in the enterprise. They're building too much net new innovation to cover in these remarks. That's a good thing. ServiceNow, Inc. has delivered a complete, integrated, enterprise-ready agentic platform for every agentic requirement. This includes AI Control Tower, AI Agent Fabric, and a no-code AI Agent Studio. In just 60 days, we've already surpassed our initial net new ACV expectations per AI Control Tower for the full year. Today, we're announcing Agentic Workforce Management, a new standard for hybrid team leadership. This allows employees and agents to work seamlessly and securely with each other to deliver real business outcomes. We also acquired Data.World to deliver innovative data governance and these solutions are built for this agentic AI era, which is why it's so precious to us. This is the only data catalog platform built on a knowledge graph with the highest user adoption in the data catalog and governance category. Period. We just have so much to talk about in this company right now. The partnership expansions with NVIDIA, UKG, Zoom, and countless others are illuminating the centricity of ServiceNow, Inc. in enterprise AI. That's why we see new recognition in Forrester Waves, IDC MarketScapes, and Gartner Research. It's why millions are applying to work for the company so they can be part of this movement. We made an intentional choice at ServiceNow, Inc. to put AI to work for people. Yes, ServiceNow, Inc. AI is driving substantial productivity increases for our customers. And while efficiency and productivity are major benefits, it doesn't stop there. This is a breakthrough innovation elixir unlike anything we've ever seen in human history. People and AI together will create new businesses, new discoveries, and catalyze economic growth in every corner of the world. The world works with ServiceNow, Inc. because we are delivering AI to empower people everywhere so they can be the ones who lead their organizations forward to new horizons. I'll leave you with this point. Analysts predict agentic AI will be ubiquitous, embedded in software platforms and applications, transforming user experiences and workflows. AI is the new UI. And that's why the software industrial complex of the 21st century is converging into ServiceNow, Inc. as the extensible AI operating system for the Agentic Enterprise. This gives us a monumental future of value creation for our customers and shareholders. Thank you for your time. Now I'll hand things over to our President and Chief Financial Officer, Gina Mastantuono. Gina, over to you."
+  },
+  {
+    "speaker": "Gina Mastantuono",
+    "role": "",
+    "text": "Thank you, Bill. Q2 was a spectacular quarter across the board. We significantly beat the high end of our guidance across all top-line and profitability metrics. Among many highlights, strong adoption of our NOW Assist products continued outperforming expectations in the quarter once again. AI efficiencies internally were also a meaningful tailwind to margin expenses. Let's get into the details. Q2 subscription revenues of $3.113 billion, growing 21.5% year over year in constant currency, 200 basis points above the high end of our guidance range, driven by strong execution and some early on-prem renewal. RPO ended the quarter at approximately $23.9 billion, representing 25.5% year-over-year constant currency growth. Current RPO was $10.92 billion, representing 21.5% year-over-year constant currency growth, a 200 basis point beat versus our guidance. From an industry perspective, transportation and logistics delivered a standout performance, net new ACV over 100% year over year. Technology, media, and telecom had a fantastic quarter, growing over 70% year over year. Retail and hospitality and energy and utilities also saw strength, each growing over 50% year over year. Once again, we achieved a robust 98% renewal rate, showcasing ServiceNow, Inc.'s strategic importance as the AI platform for business transformation. We ended Q2 with 528 customers generating over $5 million in ACV. What's more, the number of customers contributing $20 million or more increased by over 30% year over year. We closed 89 deals greater than a million in net new ACV in the quarter, including 11 deals over $5 million. In Q2, all top 20 deals included five or more products, illustrating the power of our platform. Our continued focus on winning the right new logos also bore fruit in Q2. We landed 11 deals over a million in net new ACV, including two over $5 million, growing average new logo ACV over 100% year over year. Within CRM, our push into the front office gained further momentum in the quarter. The addition of Logic.AI is already driving exclusive growth in CPQ with nine deals closed in June alone. Our NOW Assist net new ACV to date also continues to trend very well, beating expectations once again, fueled by an increase in both deal volume and size quarter over quarter. As Bill noted, this includes 21 deals with five or more NOW Assist products. Our unique platform approach to AI is clearly resonating with customers. Our newest Plus SKUs products are off to a stellar start. ITAM NOW Assist net new ACV surged nearly 6x quarter over quarter, with average deal sizes more than tripling. NOW Assist for SecOps and Risk combined to a net new ACV more than double quarter over quarter. Our flagship products are also delivering exceptional results. ITSM Plus and CSM Plus deal volume quadrupled year over year, while ITOM Plus tripled and HRSD Plus doubled. And in Creator, NOW Assist average deal size also quadrupled year over year. Turning to profitability, non-GAAP operating margin was 29.5%, over 250 basis points above our guidance, driven by our top-line outperformance, AI OpEx efficiencies, and the timing of marketing spend. By utilizing our own AI innovations in-house with NOW on NOW, we leverage tools like Code Assist and Code Generation to unlock significant capacity for our engineers. Our free cash flow margin was 16.5%, up 300 basis points year over year. We ended the quarter with a robust balance sheet, including $10.8 billion in cash and investments. In Q2, we bought back approximately 381,000 shares as part of our share repurchase program, with the primary objective of managing the impact of dilution. As of the end of the quarter, we had approximately $2.6 billion of authorization remaining. Together, these results continue to demonstrate our ability to drive a strong balance of world-class growth, profitability, and shareholder value. Moving to our outlook, as I called out last quarter, US federal agencies are navigating changes from tightening budgets to evolving mission demands. The team executed very well against that backdrop. As market conditions played out as we anticipated in Q2, we remain confident that our guidance appropriately reflects these trends heading into Q3 and continues to set us up for success for the remainder of the year. I would also note that my commentary for both 2025 and Q3 does not include any contribution from MoodWorks, which we expect to close late in the second half of 2025 or early 2026. With that in mind, for 2025, we are raising our subscription revenue by $125 million at the midpoint, $12.775 billion to $12.795 billion, representing 20% year-over-year growth or 19.5% to 20% on a constant currency basis. We continue to expect subscription gross margin of 83.5%, operating margin of 30.5%, and free cash flow margin of 32%. Finally, we expect GAAP diluted weighted average outstanding shares of 210 million for the year. For Q3, we expect subscription revenues between $3.260 billion and $3.265 billion, representing 20% to 20.5% year-over-year growth or 19.5% on a constant currency basis. We expect CRPO year-over-year growth of 18.5% or 18% on a constant currency basis. As a reminder, this includes a 200 basis points headwind due to our larger-than-average customer cohorts that renewed in Q4. We expect an operating margin of 30.5%. Finally, we expect 210 million GAAP diluted weighted average outstanding shares for the quarter. In conclusion, Q2 was another fantastic quarter fueled by solid execution and resilient demand. With a robust pipeline and expanding market opportunities, we are well-positioned as we enter the second half of the year. For countless ServiceNow, Inc. customers and partners, Knowledge 2025 cemented ServiceNow, Inc.'s leadership in enterprise AI. The newly created pipeline is up over $1.2 billion already. This solid pipeline and the momentum we have in the first half of the year put us well on our way to reaching our $15 billion-plus subscription revenue target for 2026 and with it, $1 billion in NOW Assist ACV. This quarter's performance is a testament to the talent and dedication of our team. Bill and I are truly thankful for the relentless effort our employees put in every day. We couldn't be more honored to lead such an exceptional group. With that, open it up for Q&A."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Thank you. We will now begin the question and answer session. If you have dialed in and would like to ask a question, please press star one on your telephone keypad to raise your hand and join the queue. And if you would like to withdraw a question, simply press the star once again. If you are called upon to ask your question and listening via loudspeaker on your device, please pick up your handset and ensure that your phone is not on mute when asking your question. Also, please note to limit yourself to one question to allow us to accommodate others. Again, please press star one to join the queue. And your first question comes from the line of Alex Zukin from Wolfe Research. Please go ahead."
+  },
+  {
+    "speaker": "Alex Zukin",
+    "role": "",
+    "text": "Hey, guys. Congratulations on another clearly elite quarter. Bill, some of your peers, I think it's unclear if the demand environment has improved much maybe or changed much since the start of the year, but something seems different in the way that you guys are executing. Can you just talk about what's driving this seemingly better-than-expected execution? Is it something that's changed in the traction of the AI product? Is it something that's changed in the competitive field? Maybe just what's different this year, first half, in spite of a difficult backdrop that's allowing you to maintain this level of execution?"
+  },
+  {
+    "speaker": "Bill McDermott",
+    "role": "",
+    "text": "Well, thank you very much, Alex, for your comment. And I see you already got a research note out to your clients. You're moving at the pace of ServiceNow, Inc.? It's called instantaneous execution. You know, the one thing that can easily get measured in an earnings script or in the numbers is the heart and the courage of a culture. And the heart of this is gigantic. And this hungry and humble culture that started with Fred Luddy and has continued to this day has never given up on anything. But to answer your question specifically, AI is what changed. And agentic AI is transforming the business model of every company in the world. They see the difference between ServiceNow, Inc. and the other ones. And I would just sum it up this way. We got the best product. Amit, I'm sure we'll have time to give you an update on the many innovations that have gone into the product. It's stunning. The experience is stunning. And the results that customers can derive from it are amazing. And, you know, I said for some time, nobody has to lose for us to win. But as the agentic AI story has gotten so strong and the platform's gotten so strong, the customers are looking to consolidate the past and really lean into ServiceNow, Inc. And the business cases as a result of that customer headset change are actually getting even bigger. And that's across all industries, by the way. And, you know, finally, and I really do want to make this point clear, AI work is cross-functional work. It is not one-dimensional into a silo. Teams work on processes across functions. Organization charts are going to change. Work is going to be AI work, and it'll be cross-functional. And our own company, we have 450,000 agents in the workflow right now. And all of the supporting functions from customer support to IT support to risk compliance, security, most of this is now over 80% being done by agents. So agentic is real. The business cases are extraordinary. You know, Gina told TheStreet, it'll be $350 million value to us this year. We think it might even be more in terms of what we can take out and opt, not to mention happiness and productivity. If you just think about the sales curve, for example, it's a 50% improvement in sales productivity. Not to have to do the setup work. That's also true for the engineers. So this is a fundamental step function change, and you can only get exponentiality at a thinking across company. Yes, you could start with us in any given silo. But we're moving out to all functions. And then when you look at the deals, all the big deals you look at all 20 of them, they have multiple instances in those functions of agentic AI. Which means we're winning at the departmental level, but we're really winning with the CEO. We've become the CEO's agentic AI story in enterprise software. And notice I didn't say SaaS. We actually don't live in a SaaS neighborhood. We live in an enterprise AI neighborhood. On a one-of-one platform. And that differentiation is now being imported to our customers and to our partners in a clear and articulate manner, and that's why we're different."
+  },
+  {
+    "speaker": "Alex Zukin",
+    "role": "",
+    "text": "Super clear. Maybe, Gina, just quickly one for you. There's a lot of anxiety I know from the investor community about Doge, about federal activity in general in the public sector. It seems like it delivered to your expectations. But maybe can you give us a flavor for the pipeline, the conservatism in the numbers for Q3, and how we should think about that in the back half? Thank you, guys."
+  },
+  {
+    "speaker": "Gina Mastantuono",
+    "role": "",
+    "text": "Yeah. Great question, Alex. So market conditions played out as we anticipated, and the team executed extremely well against that backdrop. Our federal team is just the best in the business, and I couldn't be prouder of them. And despite the noise, actually, in the quarter, US public sector closed six new logos in Q2 alone. And so, again, just continue to execute despite the uncertainty. That being said, for the remainder of 2025, we're absolutely building prudence in around our assumptions for US Fed. Right? And so they continue to navigate tightening budgets and shifting mission demands with increasing urgency. So we feel good that our guidance contemplates appropriately those trends into Q3, and you know, I feel good about where that stands."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Your next question comes from the line of Mark Murphy of JPMorgan. Please go ahead."
+  },
+  {
+    "speaker": "Mark Murphy",
+    "role": "",
+    "text": "Thank you so much, Bill. With the AI Control Tower, I think you said that it was beating targets for the full year already, and it's only July. It's hard to comprehend. Are you seeing signs that customers might use that as the central control plane for all of their agents, including third-party agents from OpenAI and Microsoft and others? And then if the Nematron LLM, the one that you're building in conjunction with NVIDIA, if that succeeds, do you think the ServiceNow, Inc. agents can offer better reasoning and maybe start to replace the third-party agents so they don't spread around like spare parts? I think that was your term."
+  },
+  {
+    "speaker": "Bill McDermott",
+    "role": "",
+    "text": "Yes, it was my term. And, Mark, thank you very much for the question. I would I'll make the big point on the AI platform transformation. And then Amit will give you some color on the product I think you're going to be extremely excited. But here's the idea. Think about any cloud. Okay? Any cloud. We're the only ones that cooperate with all three of the hyperscalers, Oracle , too. Think any data source. Think any when I say any data source, think about those systems of record, think about those data warehouses and data lakes. Think about any model. So any LLM model, all of them, they're all good. They all do different things, and they're all good. And think about any agent. So these agents need to be managed. Just like people need to be managed. So our AI controller will manage our agents and all the other ones too. And, yes, Mark, the big picture is a CEO should want ServiceNow, Inc.'s AI platform for business transformation. They should want our AI controller to manage not just our agents, but all the other agents too. These agents will team up, they will work together. They will collaborate together across business processes. And in many ways, the early results of what we're seeing is the agents are a lot more collaborative. And more team-oriented and more results-oriented than people. So this is going to be a real fun one to watch, and I'll let Amit give you some color on the product."
+  },
+  {
+    "speaker": "Amit Zavery",
+    "role": "",
+    "text": "Alright. Thank you, Bill. So, Mark, as Bill was mentioning, the AI Control Tower definitely provides the central nervous system and ability to really manage all the complexity companies have with AI deployments. But beyond that, as we talk about adopting various large language models for reasoning engine, of course, we made a lot of good progress with NVIDIA and the Nemotron model. And that's one of the options we do provide customers, and that has given ability to raise speed up the reasoning, planning, and execution of any request we get to our AI system. And then we still continue to make sure that we provide the other choices, be it OpenAI, Gemini, as well as Cloud. For customers to choose another model which makes sense for their use cases. But we provide prescriptive ways to our AI Control Tower to select the right ways for executing our planning engine for those use cases as well. So that continues, and our investments in AI are paying off for customers. Which are getting bigger and bigger every day."
+  },
+  {
+    "speaker": "Mark Murphy",
+    "role": "",
+    "text": "Thank you so much, and congratulations."
+  },
+  {
+    "speaker": "Amit Zavery",
+    "role": "",
+    "text": "Thank you very much, sir. Thanks, Mark."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Your next question comes from the line of Brad Zelnick of Deutsche Bank. Please go ahead."
+  },
+  {
+    "speaker": "Brad Zelnick",
+    "role": "",
+    "text": "Great. Thank you so much. Bill, ServiceNow, Inc., you guys have outlined very bold ambitions within front office workflows. Now with Logic AI closed, can you talk more about the most immediate opportunities, whether it's service, sales, or marketing? And where do you see the lowest-hanging fruit right ahead of you? Thank you."
+  },
+  {
+    "speaker": "Bill McDermott",
+    "role": "",
+    "text": "Well, thank you very much, Brad, for the question. First of all, the CRM opportunity for ServiceNow, Inc. really is huge. And, you know, we've moved away from a CRM screen, and AI agents are going to be embedded in an omnipresent way in everyday tools and no more swivel chairing. The workflows will be organized. They'll be agentic. And legacy systems will no longer be a customer's choice, but they'll see the difference between end-to-end order fulfillment and service on one common platform. And I think that's a big thing. You're going to see a lot on the order management side. The configuration price and quote maneuver we made is really big. You know, to get nine deals closed in the company we just got, just tells you the pain that's out in the market right now that we intend to address. Service management is clearly something that's going to continue to excel very, very quickly. So I would say sales and order management are now coming into full view. And we're also seeing in different industries different opportunities. And one that's kind of on our vision right now is public sector. Because every public sector entity across the world is following what telco manufacturing and many other industries have already done. They want to replace fragmented legacy CRM stacks. And they want a unified platform that's faster, smarter, and purpose-built with AI for modern business. So I think, you know, you probably have some more color on that, Amit, but if you would like to add something, we do."
+  },
+  {
+    "speaker": "Amit Zavery",
+    "role": "",
+    "text": "So, Brad, I think in the CRM, as Bill mentioned, we are looking at doing very well in the whole CSM, ITSM space. But we added on top of that the sales order management and CPQ. But the way to think about a CRM strategy is really around any kind of complicated workflows which is outcome-driven. So if you look at customer service, you want to get an issue resolved. We are very good at that. You want to send an agent to go and help you resolve the issue, we are very good at that. Sales order management, you will get an order out. We process the whole workflow to get that order done. And similarly, on the CPQ side, you want to get a quote out. Requires a very complex configuration, pricing, and multiple people involved. So if you look at any of the CRM workflows, we can pretty much solve most of those things now with our workflow engine, but we are now providing very prescriptive ways of making it happen across the various different domains. And that's where we are winning every day."
+  },
+  {
+    "speaker": "Bill McDermott",
+    "role": "",
+    "text": "And I would just I would just also like, we do this by industry. So for example, if you think about agentic AI for insurance, you can see an accident turn into a settled claim. On the fly. And you can see our agentic AI solve the case at the point of the incident on a mobile phone. And so that workflow that Amit is talking about is tailored, tuned, and trained specifically for the insurance industry. And those agentic AI agents are agents of insurance. And they know the industry. And by the way, not everybody that gets in an accident speaks the same language. So it also can speak to the human beings that are involved in the incident in any language on the fly. So just think about solving claims management for insurance as one example. Only ServiceNow, Inc. with our workflow automation, agentic AI, and the ability to really put that from the incident all the way through to the back office in real time. Only ServiceNow, Inc. can do that. So it's those cases that we're focusing on."
+  },
+  {
+    "speaker": "Brad Zelnick",
+    "role": "",
+    "text": "Awesome stuff. Congrats to you both and the whole team."
+  },
+  {
+    "speaker": "Bill McDermott",
+    "role": "",
+    "text": "Thank you. Thank you. Thanks, Brad."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Your next question comes from the line of Kash Rangan of Goldman Sachs. Please go ahead."
+  },
+  {
+    "speaker": "Kash Rangan",
+    "role": "",
+    "text": "Great. Great honor to follow the great Brad Zelnick. The billing and management team, it's impressive that at a $12 plus million revenue run rate scale, you guys can put up 22% growth rate. So that's a great accomplishment. Bill, I wanted to ask you if anybody else wants to chime in that. That's great too. There is a notion that this infrastructure build-out taken upon by the hyperscalers to help propel the OpenAI and tropic models. This consumes a lot of capital and arguably a lot of IT budgets as well. And that the longer the title goes, the more the question becomes, what to make of enterprise software since you are one of the you want to be the DESCO in the 21st century, I'm curious to get your thoughts on what is, at the end of the day, the core asset of ServiceNow, Inc. that will allow the company to prosper in the world of AI when there are great unknowns about what is magical, that we don't know anything about the AI, but it's going to magically do CRM. It's going to automate everything by itself, obviating the need for some critical technologies that we've come to expect to be the foundational aspect of the software. So I'm sure you have a very different viewpoint being out there in the industry, but I'm curious to get your updated take on this thesis. Thank you so much."
+  },
+  {
+    "speaker": "Bill McDermott",
+    "role": "",
+    "text": "Thank you very much, Kash. Those are excellent companies. They're doing very creative and exciting things. And they all want to partner with us because of our leadership in the enterprise. And so what is differentiated about us? A trillion transactions, 65 billion workflows in flight across a global economy. Think about compliance. Think about the regulatory environment. Think about the risk posture. Think about data complexity, think about the enjoyment that they get from the ServiceNow, Inc. platform. Where it is a domain-specific platform where it's secure, it's lightning fast, and it's inexpensive to run. And it integrates with all these exciting new companies. They are exciting. But there's also a complexity around enterprise-ready solutions that takes time. And so I think as that time is passing, we're not sleeping. We're getting stronger and better by the day. And I think they will lean on us for our enterprise-ready solutions and end up being really good partners because that'll help them prosper even more also. So it's interesting to me that you asked such an intelligent question. And that's why I believe we're the best-positioned enterprise software company in the world, which is why I repeatedly say we don't live in a neighborhood. We're actually inventing our own paradigm of the agentic AI enterprise and what it's going to look like. We're not following anyone else's path. And some of that was good luck because the platform started by Fred Luddy started in IT because IT people knew it best. But it quickly migrated to the employee and the customer and the engineer. And now it's across the board, including business operations. We understand the complexity of the enterprise. If you think about six decades of complexity and pain, to understand that takes a lot. And, also, those excellent companies that you mentioned, they're busy with other things. And so I think they're going to lean more into ServiceNow, Inc., not less in ServiceNow, Inc. But there will be others that will become absolutely. And you know, the market will determine the rules of the game. But I'm into questions now where customers are saying to me, why do I have ten of these and eight of those and eleven of the other things? Can you just get them out of here? Because I want the savings. So it's the customer that's driving this. And when they hear, oh, any cloud, any data source, any LLM model, any agent, we cooperate with the whole ecosystem so all of your investments are secure on our clean pane of glass across the enterprise. That's when they realize it's a different company I'm dealing with here. They don't like everybody else."
+  },
+  {
+    "speaker": "Kash Rangan",
+    "role": "",
+    "text": "Exemplary. Thank you so much."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Your next question comes from the line of Karl Keirstead of UBS. Your line is now open."
+  },
+  {
+    "speaker": "Karl Keirstead",
+    "role": "",
+    "text": "Oh, thank you. Bill, I'm just wondering if you saw any even incremental change in broadly the selling environment into Q2. What I'm getting at is, you know, perhaps three months ago in the midst of a fairly historically high level of customer uncertainty about macro tariffs, maybe that resulted in some hesitation. And perhaps with the storm passing, the environment got a little bit better in May, June. I don't want to put words in your mouth, but I'd love to hear you describe how that demand environment changed, if at all. Thanks so much."
+  },
+  {
+    "speaker": "Bill McDermott",
+    "role": "",
+    "text": "Well, thank you very much, Mr. Karl. I don't think the demand environment changed dramatically. I think the demand environment is wide open for AI innovation. Obviously, the workflow data fabric and a change in CRM, those are transformative things that have remained very consistent here. And the customer's wallet is wide open to that level of innovation. I don't think it's as much the demand environment changing as it is the same. In the sense that change geopolitical scenarios, economic tariff scenarios, all these things have become the new norm. And so companies in preparation for that need an agentic AI layer of technology to operate their companies. I mean, just think of an auto manufacturer if they have to respond to a tariff scenario, they don't have time to change the rules in a very large system. They want to in real-time change the pricing or the supply chain methodology or the partners that are going to sign up in different countries to advance the lower cost nature of what they have to give to the consumer to actually sell a car. But this is true in all industries. Everything is changing. And if the industry isn't changing or responding to a global scenario like that, they have to change to new skills for a new workforce and a new paradigm. New ways that customers will experience a relationship with their product if it's not seamless, if it's not gorgeous, if you don't meet them with an agentic AI agent, when everyone else is sleeping, they know you don't get it. So this is a once-in-a-lifetime chance for true native AI thinking. Company like us. We think AI. Everything is AI. And so every industry, every scenario, every relationship plan revolves on these proof of concepts where we can go into C-suite decision makers and show them how they can go from this position to a new paradigm, and they all want it. And in some cases, you're right, you know, budgets have been moved around to do different and exciting things, and they should. But at the same time, you can lay a business case on them, for the enterprise that complements everything else beautifully, they're all in. So our biggest challenge is just making sure we stay in front of the C-suite. It's not just one C-suite member that's making these decisions. Decisions are being made in teams. And that's why I say cross-functional work is AI work. And that's where we have thrived. And that's what we need to continue to win."
+  },
+  {
+    "speaker": "Karl Keirstead",
+    "role": "",
+    "text": "Got it. Helpful, Bill. Thanks."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Your next question comes from the line of Matt Hedberg of RBC Capital Markets. Your line is now open."
+  },
+  {
+    "speaker": "Matt Hedberg",
+    "role": "",
+    "text": "Great. Thanks for taking my questions. Congrats for me as well. The success with Pro Plus is certainly stunning, and the NOW Assist ACV target is something that obviously we still all think about from analyst day. I'm curious, you know, as you started to see some early consumption adoption with NOW Assist packs, can you talk about, like, how those are resonating with customers, how they're using them, and, you know, how you might think that revenue source could grow?"
+  },
+  {
+    "speaker": "Amit Zavery",
+    "role": "",
+    "text": "Yeah. So this Pro Plus has been adopted very quickly by customers, and the way we allow customers to do is they have a bunch of assists available as part of the Pro Plus subscription. Our usage has gone up, or is it 9x over the last six three months. So it has been customers are using different use cases. As soon as they start getting agentic use cases deployed, they start consuming this assist. And they keep on adding more and more Pro Plus capabilities in the deployments as well. So it is starting to grow, and our revenue associated with Pro Plus is just for the numbers. That continues to grow because of the way we have delivered this."
+  },
+  {
+    "speaker": "Gina Mastantuono",
+    "role": "",
+    "text": "And I would just add, Matt, it continues to grow above expectations, and we feel really good about the guide that we put out there for $1 billion in ACV by 2026."
+  },
+  {
+    "speaker": "Gina Mastantuono",
+    "role": "",
+    "text": "Thank you. Thanks, Matt."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Your next question comes from the line of Keith Weiss of Morgan Stanley. Please go ahead."
+  },
+  {
+    "speaker": "Keith Weiss",
+    "role": "",
+    "text": "Excellent. Thank you guys for taking the question, and congratulations on another really solid quarter from ServiceNow, Inc. overall. First question for Gina, more on the margin side of the equation. Outperformed really nicely in Q2 on overall operating margins. If you and Bill are talking about some what seem like pretty significant productivity enhancements and productivity gains and engineering and sales productivity. Yet the full-year operating margin guide remained stable at 30.5%. Is there incremental investments that you guys are making perhaps in the, like, sales engineers to get people up and running on NOW Assist? Or are there timing differences that we should be aware of? Or is it just conservatism in the guidance that more of that productivity gain doesn't flow through into the full-year operating margin guidance?"
+  },
+  {
+    "speaker": "Gina Mastantuono",
+    "role": "",
+    "text": "Yeah. Great question, Keith. Not surprised by it. So really thrilled with the productivity efficiency gains that we're seeing from AI. We talked about at Knowledge $100 million in savings in headcount alone in 2025. And we're seeing that come to fruition as planned. Part of the key to upside, as I noted in my prepared remarks, was driven by the timing of marketing spend. Some of which has shifted into Q3 and Q4. So that doesn't impact the full-year outlook. In addition, we're maintaining some prudent expense management to ensure we can absorb any potential margin headwinds from Moveworks if it closes in the back half of the year. And lastly, I would say we're definitely still investing for growth to meet demand for AI transformation. So think about hiring quota-bearing sales and engineers while leaning in very heavily from an R&D and technical selling perspective. Specifically on AI talent. And so we're 100% seeing the efficiencies. I'm not being prudent because I don't think the efficiencies are coming through. I'm just reserving the opportunity to lean into investments because the opportunity we're seeing with AI is so massive."
+  },
+  {
+    "speaker": "Keith Weiss",
+    "role": "",
+    "text": "Got it. And those technical engineers that you're talking about, we've heard from other vendors like SAP last night was talking about a higher level of, like, engineering in the customer necessary to get people up on AI. Salesforce talked about similar dynamics. Is the cost of sale for AI just higher? Does it require you guys to have more engineers, like, on-site to help people understand AgenTek, understand how to get their data together, understand the steps necessary to actually make this work?"
+  },
+  {
+    "speaker": "Amit Zavery",
+    "role": "",
+    "text": "Yeah. Keith, I think, from both engineering side, custom one, I think AI is top of mind for every customer we speak to. Second, they want help understanding how to use this technology and the best people who can help them are people who build some of these things. So we are really working and co-innovating in most of the cases with the customer. It's not like going and just going and working with the customer, but we're bringing a lot of that capabilities back into a product and building out more and more IP. So that would be traditional engineering work. Now we're doing it with customers. So the cost doesn't go up for a sale perspective. We are just able to now create new use cases, which we get deployed to many more customers going forward, which we would have done over time anyway. So it's really not a cost equation here. It's more to do with what kind of learnings we can provide to the customer to make them successful and how we can deploy better and bigger use cases so we can grow our business as well."
+  },
+  {
+    "speaker": "Gina Mastantuono",
+    "role": "",
+    "text": "Right. And remember, we continue to accrete our operating margins each and every year. And so we feel really strongly that it makes sense to deploy some of these efficiencies, especially early on in this AI transition, to really help our customers get the value fast. Because as you know, as you talked about at Knowledge, once those assist packs start ramping up, that ramp for revenue is going to be large. And so the quicker we can get our customers to value, the better off they are, the better off we are. And so it's a great place for us to be investing some of these productivity gains."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Your next question comes from the line of Derek Wood of Cowen. Please go ahead."
+  },
+  {
+    "speaker": "Derek Wood",
+    "role": "",
+    "text": "Great. Thanks. Gina, I have 2% upside to your revenue guide as pretty high relative to historic trends. Anything to call out on what drove such robust upside? Did you have a higher self-hosted mix? Was there better linearity? Did some part of the business come in much better than expected? And then the jump up in mix from technology workflows was pretty notable. Can you unpack what drove that? And if you think that was more one-time or a start to a new trend? Thank you."
+  },
+  {
+    "speaker": "Gina Mastantuono",
+    "role": "",
+    "text": "Yeah. So on your first question with the 2% upside of revenue, so number one, net new ACV outperformance with the strong execution from the ServiceNow, Inc. team was just fantastic. So that's a big part of it. But, yes, we did also see stronger than expected on-prem performance, which is largely driven by some early on-prem renewals from the second half of 2025. And so I would say about half and half. Right? So feel really good about that upside. And then on the jump in net new ACV mix from technology workflows, we talk about not looking at it from a quarter over quarter because some big deals can shift that mix pretty dramatically. And so I wouldn't read too much into the quarterly mix shift. That being said, and because Bill alluded to in his prepared remarks, all of our workflows continue to perform extremely well. Tech workflows in particular this quarter saw some notable strength led by ITAM with over 70% growth year over year in net new ACV, followed by Security and Risk that grew both over 60%. And so ITAM landed its largest deal to date. So continue to track it in our core of our core as well as great performance across the board CRM, core business solutions, as well as creator. So I wouldn't look at the mix in one quarter in particular, but, yes, we had a phenomenal quarter with our core business."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Your next question comes from the line of Michael Cikos of Needham. Please go ahead."
+  },
+  {
+    "speaker": "Michael Cikos",
+    "role": "",
+    "text": "Great. Thanks for taking the questions here, guys. It's impressive to see the results here, and I know we're talking about a massive amount of innovation for the platform. We're talking about RaptorDB, what's happening with NOW Assist, I'd just be curious to get a sense. Can you help unpack, I guess, new logos coming to the ServiceNow, Inc. platform? Are you in any way seeing an increased volume of enterprises voting your way just given this innovation and what you guys are tackling on the AI front?"
+  },
+  {
+    "speaker": "Gina Mastantuono",
+    "role": "",
+    "text": "So I'll start there. So new logos coming to the NOW platform are going extremely well. We've been very focused over the last several years on the right new logos. The logos who can expand with us and grow with us over time. And so not only are we really happy with our new logo growth, but the ACV of the new logo lands continues to get larger and larger each quarter. And so really feel good because these new logos are going to be the growth vectors of the future. And so while certainly a good percent of our business comes from existing customers growing, those new lands remain important and making sure that they have the ability to grow and expand with us is a big piece of that value prop, and we've been very happy with our new logo growth as well as, again, the size of those lands getting bigger and bigger."
+  },
+  {
+    "speaker": "Amit Zavery",
+    "role": "",
+    "text": "If I can add, as Gina was mentioning, is the new logos we've seen also in the commercial space. Because AI is starting to give us an opportunity to have conversations with many customers who probably were not initially thinking about deploying AI across the enterprise across the whole environment. So we started to have those conversations where we're unlocking a lot of new opportunities with commercial customers who are now starting to deploy simple, easy-to-use products in their environment and get advantage of AI to run efficiently."
+  },
+  {
+    "speaker": "Gina Mastantuono",
+    "role": "",
+    "text": "And, Michael, just to reiterate what I said in my prepared remarks, we landed 11 deals with new logos, over a million in net new ACV. Two over five. An average new logo ACV grew over 100% year over year. So really feel good about our new logos."
+  },
+  {
+    "speaker": "Michael Cikos",
+    "role": "",
+    "text": "That's great to hear. And maybe just for a quick follow-up, I know in the prepared remarks, Bill, it also cited this NOW Next AI program. Can you just elaborate on that? Is there any additional hiring for that engineering team that we should anticipate? I'm assuming if there is, it's in the guide. But does that touch on enterprises versus commercial versus what we were just talking about? Any color on that program would be helpful."
+  },
+  {
+    "speaker": "Amit Zavery",
+    "role": "",
+    "text": "Hey, Michael. This is for NOW Next AI program. It's really a very senior level, very strategic customer-related program, which we started at the C-suite and started working with the leaders over there in the customer side to figure out what are the use cases, how we can help them really accelerate their ability to adopt AI. So from that perspective, we have a lot of people already inside ServiceNow, Inc. who have a lot of expertise in AI. We're bringing our engineering team talent, our sales consulting talent, solution consulting talent, into those conversations. It's a much more deliberate clear fashion versus starting at the bottom and then taking our time to really grow that conversation. So that's really what's happening now, and a lot of the strategic discussions are leading into much broader use cases and opportunities for us, which we can go and get that delivered because our products do work today instantly as soon as we start talking to our customers about those use cases. So there's really not much additional hiring. It's really kind of taking the right kind of expertise to the right use cases and deploying it with customers. And that's working with all the large enterprises we have had discussions with."
+  },
+  {
+    "speaker": "Gina Mastantuono",
+    "role": "",
+    "text": "And I would just add, Michael, that any investment in hiring is 100% already in that guide."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Your next question comes from the line of Gregg Moskowitz of Mizuho. Please go ahead."
+  },
+  {
+    "speaker": "Gregg Moskowitz",
+    "role": "",
+    "text": "Great. Thank you for taking the question. Truly remarkable NOW Assist momentum that you guys are exhibiting. Maybe switching gears a bit. There have been several leadership changes at ServiceNow, Inc. for the past few months or so in the US, Europe, and APJ. Bill, how are you feeling about the go-to-market today across each of your three theaters? Thank you."
+  },
+  {
+    "speaker": "Bill McDermott",
+    "role": "",
+    "text": "Gregg, thank you very much. I feel fantastic about the go-to-market. These are really proven executives. Adrian and APJ are one of the premier athletes in the enterprise software industry and had a stellar career at Oracle. So he understands enterprise extremely well, and he understands scale. So we're at that scale stage now. So when you see us make a move, it's generally because sometimes the insiders could be looking at the biggest job of their life, and it's helpful to give them a little hand with someone who's seen the movie before, but also has appreciation for our unique culture. In America, we have Tom Hahnigan who's now got a global job because he did such a good job. And we have Steve Walters who ran our public sector business like a finely tuned Swiss watch, he deserved a promotion too. And, you know, these are two great guys. And we have a really deep bench. We've been working on talent here for many years now. And with one and a half million people that applied, I think there's plenty of people that you know, are ready to keep us all on our toes. And then in Europe, we have a fantastic steady leadership at the top, and we have built out country management with the best talent in the industry also in South America. So actually, I've never felt better. And Paul Phipps, who is now running all global customer operations, is somebody that I've known many years. He's been a superstar outside of the company. When we brought him in the company, every big challenge he's taken on, he's knocked it out of the park. And he is absolutely the right guy to run the corporation as the field general. And in teaming up with Amit and, obviously, the rest of our colleagues, I just think he is just the best of the best. So I couldn't be happier with the field that we have at the top of the house. And I also know that they're keeping everybody else on their toes. Because we're a growth company, and we expect everybody to have an elite level of execution underneath them. So the movement continues."
+  },
+  {
+    "speaker": "Gregg Moskowitz",
+    "role": "",
+    "text": "Terrific color. Thanks, Bill."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Your next question comes from the line of Brad Sills of Bank of America. Please go ahead."
+  },
+  {
+    "speaker": "Brad Sills",
+    "role": "",
+    "text": "Oh, great. Thank you so much. I wanted to ask a question about the business mix across the three major line items here. You know, it's been pretty consistently in that, you know, low fifties for technology, you know, call it, you know, thirty-ish for CRM and industry and core business workflows and, you know, in the mid-high teens for Creator. I wonder if the NOW Assist cycle with agents, could that shift the business materially one direction or the other? In other words, you know, could that bring you into workflows outside of IT in a more meaningful way, or do you see that balance as kind of consistent with where it is today over time as the agent cycle unfolds? Thank you."
+  },
+  {
+    "speaker": "Amit Zavery",
+    "role": "",
+    "text": "Hey, Brad. So I think, definitely, you saw the mix today, but with AI, we're also starting to provide the ability to customers to use a lot of our workflows together. So you'll start seeing AI kind of drive a lot of our Pro Plus and the ability to use multiple different functional area different workflows as different functional area requirements. In terms of new areas, no doubt as you saw the CRM emerge, we've seen the similar kind of things happening with a lot of new use new workflows in build on top of creator. Emerging in many different industries. You've been touching industry use cases emerge will be provided as package workflows for us. We're doing a lot of work in security and risk. Which is a completely new area. We had this incident management today for security, and it integrated risk management, but a lot of new areas around governance and how do you manage the identity of agents and things like that across the enterprise as well. So that will create new opportunities for different workflows as part of our product portfolio."
+  },
+  {
+    "speaker": "Brad Sills",
+    "role": "",
+    "text": "Great. Thank you so much."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "And we have one more question from Peter Weed. Your line is now open."
+  },
+  {
+    "speaker": "Peter Weed",
+    "role": "",
+    "text": "Thank you for fitting me in. Obviously, a fantastic performance. And that, I guess, leads to kind of one of my top-of-mind topics. Gina, you talked about, you know, remaining judicious on, you know, budget and having capacity to invest where needed. You know, I think over the last few quarters, the one area of headcount that has, you know, been, you know, more modestly invested in is the sales and marketing. And I believe some of that was, you know, leading capacity to bring in the sales, you know, and Moveworks when that closes. Is there a point at which you would trigger, you know, bringing in and hiring more aggressively if you were worried about Moveworks not closing or that deal getting pushed out further and further? Because there seems like there's so much opportunity ahead that, you know, you want to make sure you've got ramped reps in the field. Like, how are you thinking about that operational decision and, you know, when you might need to be bringing in more headcount there?"
+  },
+  {
+    "speaker": "Gina Mastantuono",
+    "role": "",
+    "text": "Yeah. So what I'd say is that first and foremost, we're not worried about Moveworks closing. It is from our perspective, a timing issue. Number one. Number two, there's lots of headcount in the sales and marketing headcount that you see. We 100% continue to invest in quota-bearing reps who are on the street, feet on the street, meeting with customers every single day. There's lots of sales operations, marketing, marketing operations, in those numbers. And when I talk about AI efficiencies, you would imagine that we are seeing that across the board. In the go-to-market operations as well. And so we remain very tight with Paul Phipps and his needs on the go-to-market perspective, and we will not be slowing down hiring, especially in those critical areas, especially on technical sellers as well. As we move into this AI agentic world that we're living in. So we're not slowing down there. We continue to hire, and what you're seeing is a lot of the efficiency in the operation side of both the selling and marketing teams."
+  },
+  {
+    "speaker": "Bill McDermott",
+    "role": "",
+    "text": "And if I may just, Peter, just give a call out to our great marketing and communications department. Our brand is now the 42nd most valuable brand in the world, and our campaign and our brand ambassador led by Colin Fleming and our great brand ambassador and friend, Idris Elba, is really resonating as we put AI to work for people and our communications team working with Colin has truly been outstanding. And the relationship with the analyst community, the media community, the investor relations community led by Darren, we're just very proud of the infrastructure and the support that every department gives to one another. To create this masterpiece called ServiceNow, Inc. I just really wanted to register that. I'm so proud of the brand and how it's resonating in the global economy. And we're just getting started. I mean, we made, like, one of the biggest jumps in brand equity in the history of technology. And we're not going to stop there. We're going to keep going."
+  },
+  {
+    "speaker": "Peter Weed",
+    "role": "",
+    "text": "Fantastic momentum, and thank you for the clarification. And it's exciting the investment going up."
+  },
+  {
+    "speaker": "Bill McDermott",
+    "role": "",
+    "text": "Thank you very much, Peter."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "And that concludes our Q&A session and today's call. Thank you, everyone, for joining. You may now disconnect."
+  }
+]

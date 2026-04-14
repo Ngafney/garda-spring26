@@ -1,0 +1,342 @@
+[
+  {
+    "speaker": "Unknown",
+    "role": "",
+    "text": "Full Conference Call Transcript"
+  },
+  {
+    "speaker": "Leslie Green",
+    "role": "",
+    "text": "Thank you, Alicia. Good afternoon, everyone, and thank you for joining us on today's conference call to discuss MaxLinear's third quarter 2025 financial results. Today's call is being hosted by Dr. Kishore Seendripu, CEO; and Steve Litchfield, Chief Financial Officer and Chief Corporate Strategy Officer. After our prepared comments, we will take questions. Our comments today include forward-looking statements within the meaning of applicable securities laws, including statements relating to our guidance for the fourth quarter of 2025, including revenue, GAAP and non-GAAP gross margin, GAAP and non-GAAP operating expenses, GAAP and non-GAAP interest and other expense, GAAP and non-GAAP income taxes and basic and diluted share count. In addition, we will make forward-looking statements relating to trends, opportunities, execution of our business plan and potential growth and uncertainties in various product and geographic markets, including without limitation, statements concerning future financial and operating results, opportunities for revenue and market share across our target markets, new products, including the timing of production and launches of such products, demand for and adoption of certain technologies and our total addressable market. These forward-looking statements involve substantial risks and uncertainties, including risks outlined in our Risk Factors section of our recent SEC filings, including our Form 10-Q for the quarter ended September 30, 2025, which we filed today. Any forward-looking statements are made as of today, and MaxLinear has no obligation to update or revise any forward-looking statements. The third quarter 2025 earnings release is available in the Investor Relations section of our website at maxlinear.com. In addition, we report certain historical financial metrics, including, but not limited to, gross margin, income or loss from operations, operating expenses, interest and other expense and income tax on both a GAAP and non-GAAP basis. We encourage investors to review the detailed reconciliation of our GAAP and non-GAAP presentations and the press release available on our website. We do not provide a reconciliation of non-GAAP guidance for future periods because of the inherent uncertainty associated with our ability to project certain future changes, including stock-based compensation and its related tax effects as well as potential impairments. Non-GAAP financial measures discussed today are not meant to be considered in isolation or as a substitute for comparable GAAP and GAAP financial figures. We are providing this information because management believes it is useful to investors as it reflects how management measures our business. Lastly, this call is also being webcast, and the replay will be available on our website for 2 weeks. And now let me turn the call over to Dr. Kishore Seendripu, CEO of MaxLinear. Kishore?"
+  },
+  {
+    "speaker": "Kishore Seendripu",
+    "role": "",
+    "text": "Thank you, Leslie, and good afternoon, everyone. We are excited about our strong Q3 2025 results and the strengthening momentum of our overall business over the last 12 months. Our Q3 2025 revenue of $126.5 million represents 16% sequential and 56% revenue growth year-over-year and drive a substantial increase in non-GAAP net income, both sequentially and year-over-year. Our focused investments in data center, optical interconnects, wireless infrastructure, PON broadband access, Wi-Fi 7, Ethernet and storage accelerator products are enabling us to lay the significant groundwork required for broadening customer traction, new and increased content opportunities and sustained growth in 2026. In our infrastructure end market, in Q3, revenues were up 16% sequentially and up 75% on a year-over-year basis. We also expect strong revenue acceleration in 2026 as new design wins begin to ramp across our portfolio. In high-speed data center optical interconnects, we are on track to deliver $60 million to $70 million in revenue in 2025 and accelerating growth in 2026. As evidenced, our Keystone PAM4 DSP family is now qualified at several major data centers in the U.S. and Asia for 400-gig and 800-gig deployment starting 2026 as part of their AI infrastructure build-out. We also made significant progress with our Rushmore family of PAM4 TIAs and 200 gigabit per lane DSPs for 1.6 terabit interconnections and are on track for production ramp in 2026. Rushmore advances our DSP road map and provides foundational technology for emerging optical connectivity trends such as active electrical cable, LROs, LPOs and co-packaged optics for 200 gigabit per lane and 400 gigabit per lane implementations. In wireless infrastructure, we expect increases in carrier CapEx spending to drive demand later this year and throughout 2026. Our Sierra 5G wireless access single-chip radio SoC and our millimeter wave and microwave backhaul transceivers and modems are seeing a significant increase in design activity and customer traction. In Q3, 2 major North American telecom providers launched new Sierra-based 5G macro remote radio unit products, which will continue to ramp through the end of 2025 and in 2026. At the IMC conference earlier this month, we also jointly announced and showcased Pegatron's next-generation 5G Open RAN macro radio unit powered by our Sierra product. As we look ahead, we project sustained growth in 5G wireless access and backhaul as the needs for cloud and edge AI functionality continue to grow in 2026 and beyond. Beyond wireless infrastructure, within our infrastructure category, we continue to see strong design win success for our Panther family of hardware storage accelerator systems-on-chip solutions across Tier 1 network appliance and cloud service providers. In Q3, we announced our Panther 5 storage accelerator that delivers ultra-low latency, 450 gigabits per second throughput and PCIe Gen 5 connectivity. The announcement coincided with a joint keynote address with Advanced Micro Devices at the FMS 2025 Storage Conference on the transformation of enterprise data storage. Panther delivers significant advantages over traditional software-based compression, including a 4x improvement in power savings and more efficient usage of CPUs and CPU cores and AI accelerators. Moving to broadband and connectivity. We saw another exceptional quarter of growth for the combined portfolio of fiber PON, cable DOCSIS and Wi-Fi solutions, driven by the early increases in service provider CapEx spending that has contributed to continued booking strength and incremental demand. Broadband was up 80% year-on-year and connectivity was up 50% year-on-year. This quarter, we are beginning ramp of our single-chip integrated fiber PON and 10 gigabit processor gateway SoC plus tri-band Wi-Fi 7 single-chip platform solution with a second major Tier 1 North American carrier. In cable broadband, we are seeing the initial commercial rollouts of DOCSIS 4.0 led by smaller MSOs. We expect DOCSIS 4.0 ramp to accelerate in 2026, which in turn drives content opportunities for our Wi-Fi 7 and Ethernet solutions. In the Ethernet market, we continue to see the adoption of our innovative high-functionality, low-power consumption 2.5 gigabit Ethernet switch and PHY portfolio into commercial, enterprise and industrial applications. This market continues to grow as demand for higher data rates and increased bandwidth intensifies and 2.5 gigabit Ethernet is well positioned to bridge the gap between gigabit Ethernet and costly higher-speed options of 10-gigabit Ethernet. In conclusion, in the last 12 months, we delivered significant and sustained improvement in our business, driven by strong revenue growth, growing profitability and positive cash flow generation. Through our strategic investments in high-value end markets such as high-speed data center optical interconnects, wireless infrastructure, multi-gigabit PON access, storage accelerators, WiFi connectivity and Ethernet, we're driving strong product traction with Tier 1 customers and partners. Our success in these areas, combined with the incremental tailwind from the ongoing recovery in our core markets, strongly positions MaxLinear for exceptional growth in 2026 and beyond. With that, let me now turn the call over to Mr. Steve Litchfield, our Chief Financial Officer and Chief Corporate Strategy Officer."
+  },
+  {
+    "speaker": "Steven Litchfield",
+    "role": "",
+    "text": "Thank you, Kishore. Total revenue for the third quarter was $126.5 million, up 16% from $108.8 million in the previous quarter and up 56% from $81.1 million in the third quarter of 2024. Infrastructure revenue for the third quarter was approximately $40 million, broadband revenue was approximately $58 million, connectivity revenue was approximately $19 million and our industrial multimarket revenue was approximately $9 million. GAAP and non-GAAP gross margin for the third quarter were approximately 56.9% and 59.1% of revenue. The delta between GAAP and non-GAAP gross margin in the third quarter was primarily driven by $2.6 million of acquisition-related intangible asset amortization. Third quarter GAAP operating expenses were $113.2 million and non-GAAP operating expenses were $59.5 million. The delta between GAAP and non-GAAP operating expenses was primarily due to stock-based compensation and performance-based equity accruals of $32.5 million combined, restructuring costs of $11.3 million and acquisition-related costs of $9.6 million. GAAP losses from operations for Q3 2025 was 33% and non-GAAP income from operations in Q3 was 12% of net revenue. GAAP and non-GAAP interest and other expense during the quarter was $2.1 million and $1.8 million, respectively. In Q3, net cash flow provided in operating activities was approximately $10.1 million. We exited Q3 of 2025 with approximately $113 million in cash, cash equivalents and restricted cash ahead of our 2025 plan. Our day sales outstanding was down in Q3 to approximately 39 days. Our gross inventory was approximately flat versus the previous quarter with inventory turns improving to 1.8x. This concludes the discussion of our Q3 financial results. With that, let's turn to our guidance for Q4 of 2025. We currently expect revenue in the fourth quarter of 2025 to be between $130 million and $140 million. Looking at Q4 by end market, we expect to see some seasonal moderation in broadband and connectivity coming down from Q3, but expect growth from infrastructure and the industrial multi-market. We expect fourth quarter GAAP gross margin to be approximately 56.0% to 59% and non-GAAP gross margin to be in the range of 58% and 61% of revenue. We expect Q4 2025 GAAP operating expenses to be in the range of $92 million to $98 million. We expect Q4 2025 non-GAAP operating expenses to be in the range of $57 million to $63 million. We expect our Q4 GAAP interest and other expense to be in the range of approximately $2.2 million to $2.8 million. We expect our Q4 non-GAAP interest and other expense to be in the range of $1.9 million to $2.5 million, with FX volatility being the primary risk. We expect a $2.5 million tax benefit on a GAAP basis and a non-GAAP tax provision of approximately $2 million. We expect our Q3 basic and diluted share count to be approximately 87.5 million and 91.1 million. In closing, it's gratifying to see some strong improvement in our business over the past 4 quarters, marked by continued growth in customer orders, expanding traction across product portfolio and our solid return to profitability. Our focused investments in strategic high-growth areas such as optical, high-speed interconnects, wireless infrastructure, storage, Ethernet, WiFi and fiber PON gateways are beginning to generate exciting business opportunities that we expect to further grow in revenues in 2026. This reinforces our confidence in our sustainable growth and profitability into '26 and beyond. With that, I'd like to open up the call for questions."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "[Operator Instructions] Our first question comes from the line of Tore Svanberg with Stifel."
+  },
+  {
+    "speaker": "Tore Svanberg",
+    "role": "",
+    "text": "Congratulations for the results. So I had a question for you, Kishore. So with the Q4 guidance, the company is pretty much tracking to 30% year-over-year growth in '25. You did say you expect exceptional growth in '26 and beyond. I know you typically don't give guidance, obviously, more than a quarter out, but can you maybe put some context on that comment in relation to the about 30% that the company is going to grow here in '25?"
+  },
+  {
+    "speaker": "Kishore Seendripu",
+    "role": "",
+    "text": "Thank you, Tore. Obviously, 2025, if you compare it to 2024, was exceptional growth overall and the return to profitability now is pretty solid. So -- and that's quite a significant growth in the overall in the semiconductor company. You look forward, if you look at the Street numbers, they are about 20%-odd into 2026. And that, I think, is about 2x what the industry is expecting. Having said that, we have a lot of optimism based on the design win activities across our product portfolio, be it infrastructure, inside infrastructure, the optical customer wins and the timing of the volume ramps. And then we have our wins in wireless infrastructure. Those are accelerating and also our storage accelerator business. We do expect broadband to moderate somewhat. If you look at how strongly broadband has grown as the recovery has set in, but we still see growth with taking market share in these areas. So overall, we try to be very cautious because a big part of the growth is coming through the infrastructure markets, and these are pretty large complex systems and there's a lot of customer concentration in some of these big markets. So we are just -- we are being conservative, but we also are, at the same time, displaying optimism in terms of the sheer breadth of the acceleration that we are seeing based on design win and customer activity and what I call booking strength that we are seeing. So I would like to tell you more, but at this point, let's continue to deliver the numbers is the way I look at it."
+  },
+  {
+    "speaker": "Tore Svanberg",
+    "role": "",
+    "text": "Yes. No, that's fair. And as far as the infrastructure segment, so obviously, we know what's going on, on the data center side and the optical business you have there. But I think the one with the more surprising thing is all the strength that you're starting to see on the wireless side. Obviously, you have some company-specific product cycles there, but it also sounds like the service providers are starting to spend some more CapEx again. So just hoping you could add a little bit more color there. And how should we think about the wireless part of the infrastructure segment for calendar '26?"
+  },
+  {
+    "speaker": "Kishore Seendripu",
+    "role": "",
+    "text": "Absolutely. I do see the wireless infrastructure, there's -- the telecom operators are beginning to spend on their infrastructure now. So I know 3 years ago, that was the topic du jour, but really now they're spending coming from a period of lean investment and we are seeing a lot of traction for our Sierra product line. And we are the only single-chip solution provider for the remote radio units for the RAN network. So we're getting pretty strong traction. And I talked about -- and the quality of the product speaks for itself with the 2 big North American telecom operators who are actually Q3 qualified it are in the ramp phase. Now how much do we expect it to grow? If you combine our millimeter wave, microwave backhaul infrastructure and wireless access is still in its initial ramp with Sierra. I think we see a pretty strong growth, maybe in the same order of as optical, let me put it that way, in the same order of magnitude. But I do want to emphasize this point, right, is that infrastructure is a category where MaxLinear now you're seeing is getting substantially as a big percentage of overall revenue. That was the growth that we had invested strategically for the last 5 years. And now I still remain by my position that in the next 2 to 3 years, this infrastructure revenue should be in the $300 million to $500 million range. And I feel really very proud of our team that we stick with the plan and they're executing to it."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Our next question comes from the line of David Williams with Benchmark Company."
+  },
+  {
+    "speaker": "David Williams",
+    "role": "",
+    "text": "Congrats on the really strong progress here. It's great to see. So if you kind of think about the optical side of the business and the strength that you've had there, you've got some qualification. You talked about some ramps. Just kind of wondering if you maybe could give us some insight into how you think that will trend for next year? Could it be another doubling of that revenue or maybe how do you think about just that infrastructure piece or the optical piece in infrastructure?"
+  },
+  {
+    "speaker": "Kishore Seendripu",
+    "role": "",
+    "text": "I would like to say everything is a possibility given where the traction is right now. But we have also seen movements in the shifting of where we think a certain particular data center is going to ramp or a large enterprise customer. Currently, a big part of the revenue in this year on the optical -- the data center connectivity is coming from 400 gigabit solutions, but now towards the end of the year in '25 and into 2026, 800 gigabit is beginning to grow. So that kind of gives you a sense of our momentum in terms of which data centers what we are tracking. And I feel that the 800 gigabit side, we are not any different than any -- and the normal course of where the data center guys are in terms of the various rollout. So I think I would have liked to see even more traction than I'm speaking about, but I am also now -- while we are very proud of where we are, but we battered against pretty entrenched 2 other competitors, and that's taken a while to start cracking open, and it is definitely cracked open. And as far as OEM is concerned, all the major OEMs, we are part of their solution portfolio. And I hope we are their favorite one, and if not today, in the future, right? That's our goal here, okay?"
+  },
+  {
+    "speaker": "David Williams",
+    "role": "",
+    "text": "Perfect. And then maybe, Steve, just kind of thinking about the gross margin guidance. I think just the 30 basis points there that you're guiding to, it would imply maybe a 64%, 65% type of incremental margin. Does that seem fair? And what are maybe the moving pieces there for that margin improvement for next quarter?"
+  },
+  {
+    "speaker": "Steven Litchfield",
+    "role": "",
+    "text": "Yes, David, I think we're kind of finally starting to see things improve a little bit. I mean, as revenue really starts to ramp back up to some more material levels and naturally the mix, as we've talked about a while, I mean, you're seeing our infrastructure business continue to grow at a faster rate than the rest of the business, has a little higher gross margin mix. And so pleased with the progress. Looking into next year, hopefully, we can continue to see that."
+  },
+  {
+    "speaker": "Kishore Seendripu",
+    "role": "",
+    "text": "And the growth is picking some momentum and the lead times on the fabs that we have dramatically increased as well. We're not the only one looks like who needs capacity. And the fabs have been increasing prices as well. And so we are not where we wanted to be on gross margins, but all the good work our team does seems like the fabs are consuming it. So yes, we are making good progress, but not as much as I'd hope on the gross margin front."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Our next question comes from the line of Joe Quatrochi with Wells Fargo."
+  },
+  {
+    "speaker": "Joseph Quatrochi",
+    "role": "",
+    "text": "Maybe another one on the data center optical side. Just trying to take another stab at your expectations for '26. I mean, we've seen a lot of -- a number of AI data center announcements over the last few weeks. Just curious how your visibility or pipeline of opportunities has changed since a quarter ago."
+  },
+  {
+    "speaker": "Kishore Seendripu",
+    "role": "",
+    "text": "Look, a quarter is a long time, but also it's a very short time in the data center world, right? These interops, one of the biggest learnings for me is the interops always take longer than they tell you and they're always juggling their current build-outs versus qualifying new players. So having passed the threshold with the major data centers on the interops, it has a way of generating its own momentum of MaxLinear's product. So naturally, you can tell by our tone, we are very, very excited and we're getting a lot of what I call pull now in terms of design win activity and such. So obviously, we're feeling very, very better. And like I told in response to Tore's question, we feel very, very good. And the growth that we expect for optical or wireless infrastructure is of the same order and infrastructure will grow very, very nicely next year."
+  },
+  {
+    "speaker": "Joseph Quatrochi",
+    "role": "",
+    "text": "Got it. And then on the broadband connectivity side, I appreciate that it's typically seasonally down in the December quarter. Any sort of help in just terms of kind of framing this year relative to normal seasonality, just given I think there's been some inventory kind of things at play there?"
+  },
+  {
+    "speaker": "Kishore Seendripu",
+    "role": "",
+    "text": "Okay. So maybe Steve will give you a little bit more color. Normally, we see seasonality that sometimes December sometimes is the Q1. So we have always had an uncertainty for the ones who have followed us historically. So I would say this year is a little bit different in the sense the core recovery was happening. But the big growth came through what I'd call cable recovery. And -- but we are winning designs on the PON side. We're very excited about the major telecom provider. Hopefully, you'll get one of our boxes at your home, so to speak. So PON is poised for very strong growth, but we do expect moderation. Look, we grew 80% year-over-year. So I think by any means, the broadband market is not naturally that kind of a growth vehicle, but it will moderate."
+  },
+  {
+    "speaker": "Steven Litchfield",
+    "role": "",
+    "text": "Yes. I think the only thing I would add, Joe, is maybe speak a little bit broader in '26 and '27. I mean, we are seeing nice CapEx spends over the next 2 years. You're seeing the telco guys rolling that out right now. We're certainly participating, as Kishore stated. And that's exciting because it's new business for us. At the same time, you still got kind of this DOCSIS upgrade that's happening and has a meaningful content improvement, and that's going to start kind of late '26 and even into 2027. I think some of the cable operators have been delayed a little bit with some of the amps and the node upgrades that are happening. So maybe to the earlier point, yes, a little bit of moderation in the short term with regard to seasonality, but I think our outlook continues to be strong over the next couple of years."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Our next question comes from the line of Tim Savageaux with Northland Capital Markets."
+  },
+  {
+    "speaker": "Timothy Savageaux",
+    "role": "",
+    "text": "My congrats as well on the strong results. I kind of want to come back and touch on a couple of questions that have already been asked. But -- and I guess it has to do with the accelerating growth commentary, which I don't know if that first comment was relative to the entire business, '26 over '25, but I think I definitely heard that comment made with regard to the optical data center piece. I just wanted to kind of clarify that and get, I guess, a little more color on where you guys are headed with those comments."
+  },
+  {
+    "speaker": "Kishore Seendripu",
+    "role": "",
+    "text": "So clearly, it's not related to where the business was '24 versus '25. It's really related to the new opportunities that we had in front of us. Obviously, the new opportunities will grow much faster than what the overall business that it's pointing to based on Street's numbers around 20% growth or so for the company. So the acceleration we're talking about is really in terms of the various opportunities here, okay? The first one is the data center connectivity, then I told wireless is in the same order, infrastructure. And then we have storage accelerators. Those are all brand-new or exciting data center type-driven markets. Those are where the exciting growth is, very, very strong growth, well above the company's overall growth rate. Then we said broadband will moderate to its potentially normal level. But within broadband, with the puts and takes, PON is going to grow strongly because there's a large North American operator coming online. And so those are the buckets I would look at as strong growth opportunities that are accelerating. And at the overall company level, that translates to a pretty robust growth that I referred to earlier. Okay?"
+  },
+  {
+    "speaker": "Timothy Savageaux",
+    "role": "",
+    "text": "Yes, okay. Let me try one more time. So if we take AI optical in particular, somewhere in the middle of your range. And I'd be interested as an aside as to whether you have any thoughts about the higher or low end of that $60 million, $70 million range as we stand here in October. But assuming we're mid-range, that's 80%, 90% growth, something like that. So accelerating growth there would be up toward triple-digits. And from an absolute dollar standpoint, I think what you're telling us is that growth you should see on the wireless side as well. I want to make sure I got that right. And I have one more very quick one."
+  },
+  {
+    "speaker": "Steven Litchfield",
+    "role": "",
+    "text": "Yes. So Tim, since nobody likes Kishore's answers, I'll try. Joking aside, look, I think we're very excited about the outlook on the infrastructure side. I mean, optical is clearly where we've been spending a lot of time and efforts. And we're seeing that potential that you're referring to, I think we're having a great year this year. It's very back-end loaded. And looking out into next year as these new data center wins ramp into production, yes, I mean, these numbers go up meaningfully and we're very excited about that. Are there other pieces in infrastructure that continue to do well? Yes, absolutely. And we're excited about those also. But data center is going to lead the way from a growth number, nonetheless."
+  },
+  {
+    "speaker": "Timothy Savageaux",
+    "role": "",
+    "text": "Great. And that's actually very relevant to my very brief final question, which is on the Q4 guide. Looks like infrastructure is doing most of the work there, maybe up 20% plus sequentially. Could you break that down between optical or wireless or any other big drivers for that sequential growth in Q4?"
+  },
+  {
+    "speaker": "Steven Litchfield",
+    "role": "",
+    "text": "Yes. Look, it's a good question. I guess, I would just say with regard to some of that end market guidance. So you're right, infrastructure is the biggest contributor in Q4. I think that was, for the most part, expected that you would see that particular end market growing the most. I mean, some of the moderation that we spoke of earlier on broadband and connectivity is modest. I mean, indeed modest. It's not that big. Industrial multi-market is on the mend, I would say, and we're starting to see some improvements there. But I'll keep from going into specifics on all the line items that drive infrastructure growth. But suffice it to say, we're very excited about some strong back-end and infrastructure growth that will lead to nice revenues in 2026."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "The next question comes from the line of Christopher Rolland with Susquehanna International Group."
+  },
+  {
+    "speaker": "Christopher Rolland",
+    "role": "",
+    "text": "Congrats, guys. So this one is probably for Kishore. So Kishore, I felt like I sensed a bit of hesitation to really extend yourself in the optical guide or comments for next year. You did mention stuff like competition, and there's a lot to this beyond just kind of pure DSP performance, like laser availability and/or bundling and other dynamics. So I was wondering if you could kind of expand a little bit more there on your outlook and what gets you to like a hyper growth outcome for next year for MaxLinear versus like just a solid growth outlook?"
+  },
+  {
+    "speaker": "Kishore Seendripu",
+    "role": "",
+    "text": "That's a very complicated question with lots of dynamics there. I would -- yes, availability will be a big issue, whether it is optics or silicon even, for example, that's a big factor. And the other factor is also the timing of our wins and when they translate to actual revenue growth. So at this point, our growth assumptions are based on what's already started ramping, right? So based on that, I can qualify that it will be very solid growth, very solid growth. Hyper growth is a very hyperbolic question. So it will take things that are already ramping to be much more -- we get even more share than we planned for is one way to look at it, okay? So whatever growth we are referring to, we are not referring to based on many more new design wins, right? We can only project growth based on what we have won and what has started ramping, okay? So I think that kind of sets the stage. So hyperbolic growth would be based off getting much more share than we thought and solid growth would be based on the shares we assume at this stage in our play in the data center, okay?"
+  },
+  {
+    "speaker": "Christopher Rolland",
+    "role": "",
+    "text": "Perfect. And then also probably following up on your broadband comments. Just as we -- you had some comments around DOCSIS 4 as well. Like is this going to be a big driver of new upgrades here and for this business finally or do you think like the fiber opportunity and growth there is more meaningful for you guys as we look forward?"
+  },
+  {
+    "speaker": "Kishore Seendripu",
+    "role": "",
+    "text": "As the Professor always said, it depends. It depends on a number of things. One of the things that it depends upon is DOCSIS 4.0 ramp. And clearly, the main players have delayed their DOCSIS 4.0 ramp because the network upgrades that they planned for, they have sort of slowed down for whatever reasons, right, due to the complexity of it or not. So that could make a huge meaningful difference on the cable growth. So that brings the question, as you rightly pointed out, on the fiber side. So we have a lot of North America operator ramping. We are winning a bunch of shares right now and the timing of those. So at this point, when I think of broadband, there are 2 factors that would make for a meaningful broadband growth and not overly moderated as we were alluding to. One is the DOCSIS 4.0 ramp and rollout. And we are very confident of the North American telecom operator ramping, the second one, the big one. And there are a couple of others that if the timing is right, that could also set up a nice growth for broadband."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Our next question comes from the line of Ananda Baruah with Loop Capital Markets."
+  },
+  {
+    "speaker": "Ananda Baruah",
+    "role": "",
+    "text": "Congrats on the steady progress here. It's good to see. Look, this is a bigger picture growth question. We're all thinking the same way. Let me just ask you this, Kishore. Coming out of COVID, you've put up a good growth year coming out of COVID, not dissimilar to 2025, the growth rate. And then you had an amplified growth rate coming off of that year as well with the first year coming out of COVID off of a negative comp, too. So the similarities, I think, is why people are probably focused on it. What would be the things -- are there any meaningful differences with the business? Any meaningful differences with the supply chain? Any meaningful differences with inventory right now that would have the pattern coming out of this time around be different than COVID? Obviously, I understand COVID was unique, but the growth rates are actually similar. And you guys have more incremental punchy opportunities, market opportunities that you've been preparing for coming out of this pause than you actually did back then. So let me ask that. And then I have a quick follow-up as well."
+  },
+  {
+    "speaker": "Kishore Seendripu",
+    "role": "",
+    "text": "Ananda, let me try to take a stab at your question. There's a fundamental difference between what we are talking today versus what you saw in the COVID phenomenon, as I call it. That was a very broadband-driven growth. And now it's really infrastructure being a huge part of the growth. And secondly, as always, these events happen, businesses change, legacy businesses. And so right now, the infrastructure growth, there are components of it that are really primarily brand new revenues. And they have a huge TAM and massive TAMs, much more than anything we were looking at before, where our share of that market is very tiny. So there's a large growth in front of us as we become successful and continue in our strategic focus and investments. That's, I would say. Secondly, the inventory situation is totally different. Nobody is doing excess stocking whatsoever, right? So now we are in a place where sell-through and sell-in, if you will, are kind of in balance equilibrium, let's call it, right? So there's no unusual sort of events of that nature. So on the supply chain side, it's dramatically different. There are geopolitical issues that are in play now. And then there's a large dependency on the foundry choices one can have in the SoC markets versus non-SoC markets. So very, very different. And the advanced nodes are much more entrenched now than they used to be before. So if you look at 16 nanometer and beyond, it's all FinFET-based versus previously it was older nodes than 16 nanometer. So I just want to leave it there. And the fabs have now completely muscled on their pricing power. So you have to be incredibly more innovative to maintain your margins than it's not a one-trick scenario that you can charge margins because you were there at the right time for the right market. But if you're going to be a company like MaxLinear across portfolios, you really have to have a sustainable, consistent execution and value proposition to maintain or grow your gross margins. I would say that with the comprehensive color. Okay. So let me allow you to ask your second question. So let's see, maybe Steve is better positioned for that."
+  },
+  {
+    "speaker": "Ananda Baruah",
+    "role": "",
+    "text": "Awesome. That's awesome. Yes, just real quick on neoclouds. With more hyperscale workloads, AI workloads moving to neoclouds, large AOIs moving to neoclouds, does that necessitate you guys -- this is really an infrastructure question, a DSP question. Does that necessitate you guys having to broaden out your relationship set to participate in those? Just what's -- fill out that sort of whole paradigm for us, that would be great. And that's it for me."
+  },
+  {
+    "speaker": "Kishore Seendripu",
+    "role": "",
+    "text": "Okay. That's a very, very broad generic question, right? We have to broaden our relationships, but we also have to deepen our relationships which is a very challenging proposition. Unless you are in the revenues, conversations get -- are difficult. Now that we are in the revenues, those conversations get -- it's like a natural spontaneous defrictionization of the system. So what I would call acceleration. I'm just worried about acceleration word, but yes, I'll use it here. So as we start generating revenue and win their confidence, they naturally lead to more dialogues. That's just part for the course. So where you're successful, you have more and more conversations and you can broaden those conversations. Where you're trying to get in, you really have to narrow and deepen those conversations first because the general question to you is, prove yourself first before you want to talk about everything in the world. So that's the -- but that's pretty standard in the new market and the data centers are much more challenging because they are a well done to themselves. So that's how I would describe it. And the amount of money you have to spend on marketing and support and all is incredibly higher even before you have any revenue. So that's been the other mitigating experience trying to get into these markets."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Our next question comes from the line of Quinn Bolton with Needham & Company."
+  },
+  {
+    "speaker": "Quinn Bolton",
+    "role": "",
+    "text": "I guess, maybe I'm a little just thick headed, but I just wanted to come back on the broadband comments. You're talking about moderating or a moderation in that business. Are you talking about the growth rate is going to moderate from something like 80% year-on-year to a lower percentage, but still growing or are you talking about the business actually potentially declining next year? And if it declines, is it simply just maybe normalization in cable, the DOCSIS 4 ramp really not ramping until late calendar '26. And so the moderation in cable kind of offsets the growth in PON. Is that the right way to be thinking about it or do you think the overall business just still grows. It's just not going to grow at 80%?"
+  },
+  {
+    "speaker": "Kishore Seendripu",
+    "role": "",
+    "text": "Quinn, nobody accused you ever of being thick headed. I just want to clarify that first, okay? The second part of it is you're absolutely right. We're talking in absolute terms and not in percentage terms. We don't see overall decline. But on the broadband side, we just see sort of growth through the next year, so to speak, range we are thinking about. Can it grow? I think it was asked by Chris Rolland that you've got the fiber PON design wins that are in place and the DOCSIS 4 ramp has to set in to see some good growth beyond this year. That's fairly correct. So Steve, do you want to add anything more?"
+  },
+  {
+    "speaker": "Steven Litchfield",
+    "role": "",
+    "text": "No, no. I mean, look, the moderation comment is around Q4. That was the guidance. We just talked about Q4. We haven't given any guidance beyond that. But my comments about the market and the CapEx spend, I mean, kind of to Kishore's point, PON is picking up. There's lots of great opportunities. These are all market share gains for MaxLinear, a market we haven't been in. So really exciting times from that standpoint. And then I think the excitement around DOCSIS is a 50% content increase, right? So you got the DOCSIS rolling out. We're shipping products this year, but it will kind of pick up next year and even into 2027. So that content increase is exciting."
+  },
+  {
+    "speaker": "Quinn Bolton",
+    "role": "",
+    "text": "Got it. Makes sense. And then maybe a longer term question for you, Kishore. I think it's pretty well known that optical modules are somewhat supply limited in the near term by supply of EML lasers. You mentioned silicon as a potential constraint as well. And I think your Keystone product being manufactured at Samsung instead of TSMC, where all your competitors manufacture their DSPs. How much of an advantage do you think that could become if the market for 3 to 5 nanometer stays tight?"
+  },
+  {
+    "speaker": "Kishore Seendripu",
+    "role": "",
+    "text": "Our Keystone, I think it is public information is the first -- probably the only 5 nanometer CMOS solution for 100-gig lane product that's in production. And our Rushmore, which is the 1.6 terabit solution, 200-gig per lane is in Samsung. So that gives you some level of natural diversification because the biggest demand between 800-gig and 400-gig and 1.6 terabit will center around those 5 nanometer node process. And the tightness comes in, in the supply there because there's a lot of GPU vendors, et cetera, that are really in mass production in 5 nanometer and moved into 3 nanometer moving there. So these are the 2 nodes that are the most highest occupancy where scale is super, super important for getting more capacity. So while that was a generic comment, it also shows that we have to be cautious about growth. We are constrained the what I call the hyperbolic growth. There are all kinds of factors. So it should help in the long run, but in the short run, we are in production in 5 nanometer with our Keystone product line, and that's the node we are in. And we're very happy with the support we are getting, of course. Will we need more? There is more growth that just comes our way? Absolutely. It's very hard to plan at this point because everybody has allocated the capacity and then you have to fight for the extra, if you will."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Our next question comes from the line of Richard Shannon with Craig-Hallum."
+  },
+  {
+    "speaker": "Richard Shannon",
+    "role": "",
+    "text": "A couple of questions here. First one is probably for Kishore on DSP here. On the last earnings call, you talked about the potential with your Rushmore family to potentially have some level of incumbency being the first one to be a supplier in any one particular situation. Wondering if that's playing out here. You're expressing certainly a lot of enthusiasm for how things are going there. I would love to get a sense of the degree to which that is happening or you think there's a good chance of it happening?"
+  },
+  {
+    "speaker": "Kishore Seendripu",
+    "role": "",
+    "text": "So obviously, we talked about Keystone, which is what is driving the revenues, the Keystone family of products. But Rushmore is our 200 gigabit per lane that we demoed at OFC. As you are all aware, the incumbent announced that product maybe a few months before us, and so they're a little bit further along. But our product is highly more differentiated is our view and our belief. So we hope to be -- we not hope. We know we'll be in production in 2026. But at this point, we are not baking any revenues associated with, in my mind, based on what we have been through on the 200-gig per lane. And there's also a rollout issue on 1.6 terabit at the data centers as well. That's really -- 800-gig is not fully rolled out yet, too. I know we like to get ahead of it and focus on road map. I think there's time for 1.6 terabit and -- but we're in a very good place. So Rushmore, yes, best case will be the end of '26, but I'm not -- I'm being realistic. And -- but Keystone, Keystone, Keystone. Rushmore would be -- is a good plan for '27? Absolutely. Okay?"
+  },
+  {
+    "speaker": "Richard Shannon",
+    "role": "",
+    "text": "Okay. My second question in an effort to express some love for all of our children. Let's ask one quick question here on the industrial multi-market business here. Obviously, it's come down a lot the last few years. It looks to be kind of bumbling along the bottom here so far this year. How do we think about the potential scale of this business in the next 1 to 2 years? Is this something where you're applying much effort here from a product and sales and marketing point of view to grow it nicely or is this just more of an afterthought relative to some of the other dynamics in your business?"
+  },
+  {
+    "speaker": "Kishore Seendripu",
+    "role": "",
+    "text": "Look, there are some business, how much of a money you put in, they take their own time. So I would call that we are doing what I'd call sustainable growth rate investments as you should in this marketplace. I think the big hit happened because of geopolitics issues and then -- and generally, in the industrial market space itself, it's distant memory now, but we lost significant revenue when we were hit with the expiry of our licenses for the government to ship to certain customers in Asia. So the drop was associated with that. And then at the same time, when the market went down, we exercised pricing discipline to maintain a healthy gross margin business. So you could argue that some of those are very deliberate decisions and some of them were really, really -- we were recipients of things out of our control. Having talked to you about investments, even on our industrial multi-market investments are really, really focused around edge, cloud, data center level of investment. There's a lot of new ways of doing old things inside a data center. I don't want to get into the details into that stuff. And those are giving us opportunities to reposition our portfolio and investments really focused on edge and cloud data center. And we are investing in those elements of it. As a company, our focus right now is a huge focus is on the hugest dollars that are going are really on the edge and enterprise and cloud infrastructure and they consume so many components even in the industrial analog space, and that's where our focus of our investment is. So in short, we are investing, right? That's the statement."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Our next question comes from the line of Karl Ackerman with BNP Paribas."
+  },
+  {
+    "speaker": "Karl Ackerman",
+    "role": "",
+    "text": "I have 2 as well. First question, as we think about your ability to see the broadband segment revenue returning to $100 million a quarter, could you help us frame the opportunity from your -- I guess, your gateway opportunity within that now that it is broadening beyond the single carrier today?"
+  },
+  {
+    "speaker": "Steven Litchfield",
+    "role": "",
+    "text": "Well, okay, a couple of things. So the PON business is new for us, right? This business has been growing over the last, call it, 1.5 years. We've gotten a lot of traction. Kishore spoke earlier about the 2 big North America guys that are now using our products. So that's very exciting. But we have several other customers that we're either in production with or designed into on the PON front. If you -- maybe I'm not sure if this is exactly your question, Karl. But if I think of content opportunities inside of the gateway from a dollar constant standpoint, a PON gateway or even a cable gateway, I mean, you're talking could be $40 to $50 of content. A lot of that comes from WiFi, Ethernet, the SoC itself. So those are the bigger drivers. We continue to see content increases. So that's a big part of the opportunity. It's not necessarily just about unit growth or share gains, which we're seeing both of right now and expect to see over the next 2 years. But then that content gain is, I think, the other big driver of revenue."
+  },
+  {
+    "speaker": "Karl Ackerman",
+    "role": "",
+    "text": "Got it. Understood. Shifting gears a bit, could you speak to the breadth of design engagements you have in optical DSPs for 800-gig? And second, when should we expect the revenue from 800-gig to cross over your revenue from 400-gig?"
+  },
+  {
+    "speaker": "Kishore Seendripu",
+    "role": "",
+    "text": "Okay. Let me try to answer the question on the breadth of design engagements. There is -- the breadth of the design engagements from our point of view, from our -- where we are is really all the OEMs or module makers, if you will, we're engaged with all the major module makers in Asia and in America, whether they're headquartered or not. And so that's a massive engagement across all variations and configurations of not just transceivers, but beyond optical transceivers. And so you have to take that into perspective. Now if you go to the data centers, every data center has got their own road map and time line when they're transitioning. For example, Google is well gone beyond 800 -- that's well past loss, let's call it that. We never even engaged with them. I don't think anybody else is engaged except one player. And then there's NVIDIA, which is a whole different new magnitude and size of themselves. We are not participating with that. We talked to you about -- then the remaining guys are going at their own different cadence on and they're lagging, if you will, in the terms of the deployments. So each engagement, how broad it is, it depends on when you ask the question. At this point, we are engaged with them. Where are we shipping? That's a subset of the hyperscalers between the U.S. and Asia."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Our next question comes from the line of Suji Desilva with ROTH."
+  },
+  {
+    "speaker": "Sujeeva De Silva",
+    "role": "",
+    "text": "Congrats on the progress here. Kishore, you talked about DOCSIS 4 having adoption delays or push-outs. Are there technical issues that you could talk about in a little detail to help us understand what is maybe gating larger flagship adoption of DOCSIS 4?"
+  },
+  {
+    "speaker": "Kishore Seendripu",
+    "role": "",
+    "text": "Okay. Great question. No news. It's as expected versus what you guys think it should be. We know the cable world incredibly well. As I suspected, as we told that there will be a lot of DOCSIS 4.0, but most of the deployments will be Ultra DOCSIS. So because the network upgrade, whether it is the node, whether it is the amplifiers in the amps in the system, it's a lot of work. And they just have stability issues in the network to get there. So it's a very slow process. And so they're doing the incremental approach where they hurry us all to invest and be ready, but the deployment is taking the way it does. So that's the only reason. And so I still will conjecture that Ultra DOCSIS 3.0 will be the massive deployment. And yes, that would be one statement. And that will go across continents. It's not just -- because you just want to keep in mind, 4.0 is a very North American phenomenon. So Steve, do you wanted to say something?"
+  },
+  {
+    "speaker": "Steven Litchfield",
+    "role": "",
+    "text": "No, I was just -- it was 3.1. You said 3.0. It might have been 3.1."
+  },
+  {
+    "speaker": "Sujeeva De Silva",
+    "role": "",
+    "text": "Okay, great. And then perhaps for Steve, any update on the arbitration? I know that we're approaching the time for that to commence."
+  },
+  {
+    "speaker": "Steven Litchfield",
+    "role": "",
+    "text": "Sure, sure. Yes, no big update. I think we're on track, arbitration this quarter. So -- but that's going to extend next year. So hopefully, we see some resolution sometime in the first half of next year. So on track. I think we're feeling very positive about it."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Our last question comes from the line of Tore Svanberg with Stifel."
+  },
+  {
+    "speaker": "Tore Svanberg",
+    "role": "",
+    "text": "Yes. Two quick follow-ups. I promise real quick. First of all, so when I look at your various segments, it looks like broadband right now is running about 10 percentage points above infrastructure. But given the moving parts in calendar '26, it sounds like infrastructure will potentially be slightly bigger as a percentage of revenue. Do I sort of have that direction right?"
+  },
+  {
+    "speaker": "Kishore Seendripu",
+    "role": "",
+    "text": "Well, so certainly, I think we've been consistent in saying infrastructure is going to be quite a bit bigger, and I think it's on its way. I think you're heading in the right direction."
+  },
+  {
+    "speaker": "Tore Svanberg",
+    "role": "",
+    "text": "Very good. And then the last one for you, Steve. So OpEx is coming in a little bit higher than where it was. I mean, obviously, your revenues are $6 million higher for Q4. So that's probably expected. But I was just wondering how we should think about OpEx, especially in relation to the restructuring you had early in the year. Does OpEx come down a little bit in the first half or is this sort of the new baseline?"
+  },
+  {
+    "speaker": "Steven Litchfield",
+    "role": "",
+    "text": "Yes. So I think we feel -- so you're right, it was a little bit higher in the quarter and the guidance a little bit higher as well. I mean, look, you can see the revenue ramps that we guided to or we delivered and guided to. I think as you look into next year, that's going to continue. And so I think we've got a lot of big customers that are asking, hey, we need software, we need platform support. Those are the type of efforts that we have to make. And so there's probably a little bit of an adjustment there versus what we had started the year at. I wouldn't say there's much. I think you -- I think as you look into next year, you start to see some nice operating margins developing throughout the year, and we're really starting to see the leverage in the model that we're excited about."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "I'd like to turn the floor back over to Dr. Kishore Seendripu for closing comments."
+  },
+  {
+    "speaker": "Kishore Seendripu",
+    "role": "",
+    "text": "Thank you, operator. And also, thank you all to those who joined this Q3 quarterly call -- earnings call. There are a number of investor financial conferences that are both in person and virtual that we'll be attending this year and the details of which will be posted on our Investor Relations page. So we look forward to seeing you there, and thank you for joining today as well. And yes, with that, happy Halloween guys. Okay. Talk to you later. Thank you. Bye."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "This concludes today's teleconference. You may disconnect your lines at this time. Thank you for your participation."
+  }
+]

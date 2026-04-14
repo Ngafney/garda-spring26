@@ -1,0 +1,332 @@
+[
+  {
+    "speaker": "Unknown",
+    "role": "",
+    "text": "Full Conference Call Transcript I will comment on our third quarter fiscal year 2026 financial performance, Matthias will provide an update on our networking and connectivity business, and Steve will then provide commentary on our results and an overview of the current business environment and our guidance for 2026. We will then be available to respond to specific investor and analyst questions. We are including information in our press release and on this conference call on various GAAP and non-GAAP measures. We have posted a full GAAP to non-GAAP reconciliation on the Investor Relations page of our website at www.microchip.com, and included reconciliation information in our earnings press release which we believe you will find useful when comparing our GAAP and non-GAAP results. We have also posted a summary of our outstanding debt and leverage metrics on our website. I will now go over some of the operating results, including net sales, gross margin, and operating expenses. Other than net sales, I will be referring to these results on a non-GAAP basis, which is based on expenses prior to the effects of our acquisition activities, share-based compensation, and certain other adjustments as described in our earnings press release and in the reconciliation on our website. Net sales in December were $1.186 billion, which was up 4% sequentially and well above the high end of our original guidance provided on November 6. We have posted a summary of our net sales by product line and geography on our website for your reference. On a non-GAAP basis, gross margins were 60.5% including capacity underutilization charges of $51.7 million and new inventory reserve charges of $58.4 million. Operating expenses were at 32% of sales, and operating income was 28.5% of sales. Non-GAAP net income was $252.8 million and non-GAAP earnings per diluted share was $0.44, which was $0.04 above the high end of our original guidance. On a GAAP basis in December, gross margins were 59.6%. Total operating expenses were $555.2 million and included acquisition intangible amortization of $107.6 million, special charges of $4.8 million, which were primarily driven by activities associated with our closure of Fab 2, share-based compensation of $62.1 million, and $1.1 million of other expenses. GAAP net income attributable to common shareholders was $34.9 million or $0.06 per share. Our non-GAAP cash tax rate was 9.6% in December. We expect to record a non-GAAP tax rate of about 10% for all of fiscal year 2026, which is exclusive of the transition tax and any tax audit settlements related to taxes accrued in prior fiscal years. Our inventory balance at December 31, 2025, was $1.058 billion, which was down $37.6 million from the balance at September 30, 2025. We had 201 days of inventory at the end of December. Included in our December ending inventory was 17 days of long life cycle high margins products, whose manufacturing capacity has been end of life by our supply chain partners. Inventory at our distributors in the December quarter was at 28 days, which is in the range of what we would consider to be normal. Distribution sell-through was about $11.7 million higher than distribution sell-in. Our cash flow from operating activities was $341.4 million in December. Our adjusted free cash flow was $305.6 million in December. As of December 31, our consolidated cash and total investment position was $250.7 million. Our total debt decreased by $12.1 million sequentially in December and our net debt decreased by $26 million sequentially. Our adjusted EBITDA in December was $402 million and 33.9% of net sales. Our trailing twelve-month adjusted EBITDA was $1.23 billion. Our net debt to adjusted EBITDA ratio was 4.18 at December 31, 2025, and was down from 4.69 at September 30, 2025. Capital expenditures were $22.5 million in December. We expect capital expenditures for fiscal year 2026 to be at or below $100 million. Depreciation expense in December was $37.8 million. I will now turn it over to Matthias, who will provide an update on our efforts in the Ethernet T1S emerging standard for connectivity in the automotive and industrial space."
+  },
+  {
+    "speaker": "Matthias Kastner",
+    "role": "",
+    "text": "Thank you, Eric, and good afternoon, everyone. I'm Matthias Kastner, Corporate Vice President and leader of data center and networking connectivity and automotive business units at Microchip Technology Incorporated. Today, I want to report on the meaningful momentum in our connectivity business driven by two primary architecture modernization cycles. Let's have a look at the automotive market segment first. In today's cars, up to 20 different connectivity technologies are used to transfer data between electronic control units, while the amount of data is increasing exponentially. The resulting complexity is a major roadblock to implementing higher levels of self-driving capabilities, over-the-air updates, and advanced infotainment systems in a cost and time-efficient manner. Therefore, common effectors are moving away from the multitude of legacy connectivity standards towards networking architectures that are predominantly Ethernet-based. This, in turn, reduces software complexity and improves software reuse. Ethernet, in particular, the new 10BASE-T1S standard, has the potential to replace several billion automotive legacy connectivity nodes per year. Microchip Technology Incorporated has developed automotive Ethernet solutions to support this transition, including a market-leading portfolio of 10BASE-T1S products, switches, transceivers, endpoints, and bridges. Automotive Ethernet is complemented by PCI Express connectivity for the highest speed data communication needs in the main vehicle computer, and by ASA, a new open standard that transfers high-speed raw camera data to the main vehicle computer efficiently. We derived automotive-grade PCIe solutions from our leading PCIe switches for data centers, and we were first to market with ASA MotionLink for standards-based high-speed ADAS camera and display connectivity. We believe Microchip Technology Incorporated is well-positioned across these new connectivity standards. We have design wins and serious engagements with multiple leading global automotive OEMs and tier-one suppliers. Today, we issued a press release in which we announced a strategic collaboration with Hyundai Motor Group to integrate our 10BASE-T1S solutions into next-generation vehicle platforms. Designs are moving from sample evaluation and validation phases representing platform commitments and next-generation vehicle architectures. The second growth driver for modern connectivity is Industry 4.0, an industrial modernization cycle across factories, robotics, automation systems, and autonomous logistics networks that all require real-time mission-critical connectivity. The industrial backbone is already Ethernet-based. However, many devices and systems at the edge are connected to legacy connect standards such as industrial CAN, RS-232, RS-485. These legacy standards are now being replaced by Ethernet solutions. Like in the automotive segment, our comprehensive Ethernet portfolio, including single-pair Ethernet and EtherCAT, industrial PCI switches, and ASA camera connectivity solutions, are well-positioned to capture this opportunity and are already helping customers bridge legacy and advanced industrial connectivity. In both segments, automotive and industrial, we are tracking numerous design wins. We believe that our competitive advantage is straightforward. We offer a complete portfolio spanning multiple connectivity speeds integrated with microcontrollers and analog solutions. Customers deploy a unified Microchip Technology Incorporated system, including silicon and firmware, rather than assemble components from multiple vendors, reducing complexity, cost, and time to market. Industrial connectivity design cycles typically span 18 to 24 months from architecture decision to production revenue. Our recent engagement aligns with pilot production ramps expected in 2026 and ramping further into 2027. We feel that our market opportunity is substantial. While industry estimates vary, research suggests that the TAM for automotive and industrial Ethernet connectivity together represents tens of billions of dollars by 2030, reflecting a once-in-several-decades modernization cycle. Looking ahead, we expect our connectivity business to be a significant contributor to company growth as these modernization cycles accelerate. I will pause here and turn the call over to Steve to provide an update on our business and guidance going forward."
+  },
+  {
+    "speaker": "Steve Sanghi",
+    "role": "",
+    "text": "Thank you, Matthias, and good afternoon, everyone. We had an excellent December. And I will start by highlighting a few salient points of our financial results. Our net sales grew 4% sequentially and 15.6% over the year-ago quarter. Net sales were up sequentially in The Americas and Europe, and about flat in Asia. Sales from our microcontroller and analog businesses were both about flat sequentially, which was well above the typical seasonal level for December. The growth primarily came from our networking data center, FPGA, and licensing business units. We are continuing to see the inventory go down at our distributors, at our distributors' customers, our direct customers, and contract manufacturers. The distributors' sell-in versus sell-through gap shrank to only $11.7 million in December, down from $52.9 million in September. This is something we have been expecting for some time, and I have been telling you. We also feel that this is a sign that the distribution inventory has largely corrected. In December, non-GAAP gross margin was up 379 basis points sequentially. Non-GAAP gross margin reached 60.5%. We had been expecting a six-handle on non-GAAP gross margin percentage in March, but we achieved it a quarter earlier. Non-GAAP operating margin reached 28.5% in December and was up 418 basis points sequentially and up 800 basis points over the year-ago quarter. Now to the market environment. We are seeing recovery in most of our end markets. Automotive, industrial, communication, data center, aerospace and defense, and consumer are all looking better. The strongest sales performance last quarter was in the A&D sector, and in our networking data center solutions and licensing business unit. We believe we are extremely well-positioned with our Gen 6 PCIe switch, with it being the only 3-nanometer-based device currently sampling in hyperscaler and enterprise data center customers, beating our competitors in virtually every specification metric. Today, I have three design wins to report on our PCI Express Gen 6 switch, each without the customer's name. The first one is a small design win that will start production in the second half of this year. It is a small win, but significant for us in establishing credibility based on who the customer is. The second one is a larger win and will start production in CQ1 2027. Based on current customer forecasts, this win is expected to bring $100 million plus in revenue in calendar year 2027. The third win is a small win with an established long-term customer who buys a prior generation Gen 4, Gen 5 products, and will be buying our Gen 6 product. This design goes to production in late 2027, early 2028. And we are working hard to win a lot of other large and small designs. As Matthias said in his prepared remarks, we're also doing extremely well in the automotive and networking space with T1S, ASA, and PCIe connectivity products. Now let's get into our guidance for March. The bookings for December were significantly higher than those for September. The book-to-bill ratio for December was well above one, resulting in a much higher backlog entering March compared to when we entered December. A comment about lead times: While lead times for our products have been four to eight weeks for some time, we are continuing to experience lead times bounce off the bottom, and we are experiencing increases on some of our products. We're running into challenges on certain kinds of substrates and subcontracting capacity, and also some foundry constraints on very advanced nodes. These challenges were isolated to specific areas but are now starting to spread more broadly. Our customer requests for expedited shipments have increased significantly from a couple of quarters ago, pointing to some customers' inventories running low. Taking all these factors into account, we expect our net sales for March to be $1.26 billion plus or minus $20 million. This at the midpoint would be 6.2% sequential growth and up 29.8% from the year-ago quarter. We expect our non-GAAP gross margin to be between 60.5% and 61.5% of sales. We expect our non-GAAP operating expenses to be between 31.3% and 31.7% of sales, and we expect our non-GAAP operating profit to be between 28.8% and 30.2% of sales. We expect our non-GAAP diluted earnings per share to be between $0.48 and $0.52 per share. Finally, a comment on our capital return program for shareholders. Last quarter, we decreased our net debt balance by $20 million as we produced free cash flow that exceeded our dividend commitment. In future quarters, as we have excess free cash flow above dividends, we intend to continue to use this to bring down our borrowing. With that, operator, will you please poll for questions?"
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Thank you. We will now be conducting a question and answer session. You may press 2 if you would like to remove your question from the queue. For participants using speaker equipment, it may be necessary to pick up your handset before pressing the star keys. One moment, please, while we poll for questions. Thank you. Our first question comes from the line of Matthew Prisco with Cantor Fitzgerald. Please proceed."
+  },
+  {
+    "speaker": "Matthew Prisco",
+    "role": "",
+    "text": "Hey guys, thanks for taking the question. I guess to kick off, when thinking about the above seasonal guide for March and growth beyond, how should we be thinking about that continued strength versus seasonality? And what gives you confidence there that the tailwind from the closing of the sell-in versus sell-through gap theoretically fades? Is that based on better end demand, potential restocking, idiosyncratic opportunities, or perhaps something else? Thanks."
+  },
+  {
+    "speaker": "Eric Bjornholt",
+    "role": "",
+    "text": "So, yeah, this is Eric. I think it's a variety of things. Right? So we feel that, you know, distribution inventory is pretty much corrected at this point in time, but there are still customers that we sell to directly and customers that our distributors are selling to that are still burning through some inventory. We have a really strong backlog for the current quarter, and the bookings have been quite high. So the backlog is continuing to grow. We can't say that we have great visibility outside of the current quarter because lead times are still short. But we can see the order book growing, and through discussions with customers, we feel confident that heading into what is typically seasonally our strongest quarters of the year, which are the June and September quarters, we are really poised nicely for growth."
+  },
+  {
+    "speaker": "Matthew Prisco",
+    "role": "",
+    "text": "Thanks. And then maybe on the gross margin front. Can you give us an update on how we should be thinking about the inventory reserve and utilization charges rolling off? And then as we move more squarely into this broad-based recovery, are there other levers for gross margins that should really move the needle here? Thank you."
+  },
+  {
+    "speaker": "Eric Bjornholt",
+    "role": "",
+    "text": "So we feel that as we move through the current quarter, the inventory reserves are pretty much going to be normalized at this point in time. We're guiding at a midpoint to 61% non-GAAP gross margin. Inventory reserves are a little bit unpredictable, but we feel that those charges are definitely going to continue to come down this quarter and be compared to the prior quarter and get to more normalized levels. The underutilization charges, which were a little over $50 million last quarter, are going to continue. We are ramping the factories this quarter, but this is going to be a couple-year process for us to kind of get those inventory charges for underutilization down. So they'll be modestly down in the current quarter, which I think Steve said in his prepared remarks, but still at a relatively high level. And that's really the biggest driver as we move outside of this quarter to improving gross margin outside of improved product mix over time. We've talked about some of these growth vectors. Last quarter, we talked about our data center business. This quarter, we're talking about our Ethernet and connectivity businesses. And these are areas where the gross margin can be quite high. And we think that as we see the revenue from that come through, it will help from a product mix perspective to keep gross margins high and eventually take us back to our 65% long-term target."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Our next question comes from the line of Vivek Arya with Bank of America Securities. Please proceed."
+  },
+  {
+    "speaker": "Vivek Arya",
+    "role": "",
+    "text": "Thanks for taking my questions. For the first one, I just wanted to get a clarification. For December, your controller and analog segments were kind of flattish. I realize it's better than seasonal, but the growth came from the other segment. I'm curious, is that what you had planned for originally? Basically, what really drove the December upside versus your original guidance? Was it what I'm just calling the product segments, or was it more the other? And then similarly, as we start March, what are you expecting from the product segments versus the other segment just so that we can model it appropriately?"
+  },
+  {
+    "speaker": "Steve Sanghi",
+    "role": "",
+    "text": "So we make the higher revenue on the licensing side was modeled in our original guidance. So that's not where the upside came from. It was up substantially from the prior quarter, but that was in our model. The upside came on the products. The microcontrollers, the analog, the FPGA, and all the other businesses were stronger. Remember in December, usually, it's down minus three to minus 4%, minus three to minus five. But the fact that microcontroller and analog were flat, so that's where the upside came from, and so was the FPGA and some of the product lines. And March?"
+  },
+  {
+    "speaker": "Vivek Arya",
+    "role": "",
+    "text": "Steve, any how are you thinking about kind of this relative segment behavior? Versus the 6% sequential data?"
+  },
+  {
+    "speaker": "Steve Sanghi",
+    "role": "",
+    "text": "So March looks quite strong. Seasonally, March is up usually two to 3%. And after producing a very large upside, you know, in December, our original guidance for December, I think, was $1.129 billion. That's right. And we produced $1.186 billion. So even after such a large increase and some of that came in with the customers pulling their backlog from March into December, but the March kept filling up even further. So despite pulling a lot of product from March into December, the March quarter backlog started very strong, and that's why we gave it 6.2% sequential guidance, much above typical seasonality and pretty much most product lines are positive. So microcontroller is growing. Analog is growing. FPGA is growing further. Our networking connectivity business, data center, timing businesses. They all essentially seem higher in the current quarter."
+  },
+  {
+    "speaker": "Vivek Arya",
+    "role": "",
+    "text": "Got it. And then on the gross margin, very strong drop through in December, you're guiding it to 61% for March. What is the timeline to get to this mid-60s target? Like, if we just assume normal seasonality for the next several quarters, is that something that Microchip Technology Incorporated could get to sometime this calendar year, or do you think that it would require much faster growth and it's more a 2027 outcome?"
+  },
+  {
+    "speaker": "Steve Sanghi",
+    "role": "",
+    "text": "So I think, you know, I can't give you the exact timing. But for the last several quarters, we've been doing the math for you. With the product gross margin being above 65%, but having charges bring it down. One was the inventory write-off charge, and the second one was the underutilization charge. The inventory charge has dropped quite a bit. And as Eric said, we expect that the inventory charge will be about normal this quarter. May have a little more to go? But largely normalizes. And then you're left with about a $50 million underutilization charge, which will take some time to go away and bring the additional 400 plus basis points of gross margin. Which will get us to our model. And how fast we ramp the factories and how fast that underutilization charge goes down really depends on the growth here in the coming quarters and the next year here. And it depends on the growth really from internal products. You know, we do about 37 to 40% of the products internally, and 60% plus externally. The underutilization largely is in our internal factories. So it largely depends on the growth from the internally produced products. And it's, you know, hard to predict out in time. But every quarter, you should see some improvement. And eventually taking it to 65% gross margin."
+  },
+  {
+    "speaker": "Eric Bjornholt",
+    "role": "",
+    "text": "Yeah. I totally agree with everything Steve said. I would just say I don't want the street to get ahead of where they should be, and it would not be our expectation. But I don't know if you said this calendar year fiscal year. That, or this next fiscal year that we can get to that mid-sixties. I am not predicting that's gonna happen. I think it's gonna be steady growth where we're at guiding at for this quarter."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Our next question comes from the line of Jim Snyder with Goldman Sachs. Please proceed."
+  },
+  {
+    "speaker": "Jim Snyder",
+    "role": "",
+    "text": "Good afternoon. Thanks for taking my question. I was wondering if you can maybe talk to your customers' inventory behavior specifically OEM inventories. It sounds like customers are still maybe drawing down inventories a little bit. I'm curious if you're seeing any signs of customers restocking their own internal inventories. And if so, are you seeing that across any specific verticals? Or are we still in reduction mode?"
+  },
+  {
+    "speaker": "Steve Sanghi",
+    "role": "",
+    "text": "So we're not seeing customers restocking but, you know, we got thousands of customers and not every customer is in the same place on inventory. What we're seeing is that the direct customer inventory was high. So you go back a year and a half ago, two years ago, inventories were quite high. Some customers had up to a year worth of inventory. And they had been taking that inventory down. And customers don't only buy one SKU. The customers who buy, you know, 100 you know, a customer that buys 500 SKUs. As the inventory comes down, you know, it's like the water in the lake. When it starts coming down, the lake bottom is never flat. The rocks start showing up. So that's kinda what's happening. As the customer inventory has come down, the rocks are showing up, which is leading to this expedite which is exponentially up from a couple of quarters ago. But there are some other products that the customer would still have inventory they're continuing to reduce their inventory. But on the remaining products, on some products, they're starting to buy at their consumption rate. And every month, more and more products are falling into that position where the inventory has corrected and they're buying at the consumption rate. The restocking phenomena, I think, you know, I say restocking when customers are increasing their inventory. Buying more than their consumption. I don't think that is happening yet because lead times are still relatively in check. But as I said, the constraints are broadening even a run-of-the-mill foundry process and for confidentiality, I can't name the foundry or the specific node. But it's a very generic run-of-the-mill foundry process, and it's full. So when that starts to happen, you know, the next step is the capacity goes tight. Now when the capacity goes tight, one thing that happens is pricing firms up. Not necessarily increased price, but the customer conversation leads with availability rather than price. So, you know, that is healthy too for the business. And I think we are approaching where, you know, relatively soon in a quarter or so will be facing a situation where the customer is more worried about availability than price."
+  },
+  {
+    "speaker": "Jim Snyder",
+    "role": "",
+    "text": "That is helpful, the color. Thank you. And then maybe could you just sort of speak to the backlog you're seeing building for June, if at all? You talked about the higher starting backlog for March. Maybe talk about sort of the level of orders you've seen thus far this year and sort of where you expect June to potentially fall from a normal seasonal basis? Thank you."
+  },
+  {
+    "speaker": "Steve Sanghi",
+    "role": "",
+    "text": "So the month of January was extremely strong. You know, uncharacteristic because, you know, it's gonna start out slow and, you know, a lot of people don't return from the holidays till January 7 or something depending on where the calendar falls. If there are two or three days after January 1, it's gonna be very dead time usually till the following Monday. But January backlog was extremely strong. December backlog was extremely strong. People kept booking parts for the holidays. You may recall, you know, we were very conservative going into the quarter because of Thanksgiving as well as Christmas holidays. Thanksgiving came and went, and the momentum continued. Then we were worried about Europe shutting down in December. Usually, that happens. And, you know, because of Christmas and other holidays, and it just everything just kept going strong. Bookings were very good. And then we were concerned about, you know, the start of the New Year. Which always starts slow. But it was January was extremely strong. And now we are watching the Chinese New Year, which starts next week. We'll find out, you know, whether we missed something on the Chinese New Year. But really, it has all been very, very strong, and that's why we just continue to post good numbers and keep getting stronger. And I'm fairly optimistic about the business. If you look at the next quarter as of today, so today is February 5. The June backlog is higher today than the March backlog was on November 5. That's the way to measure it at the same point in time. So we are optimistic that we'll have a good June."
+  },
+  {
+    "speaker": "Jim Snyder",
+    "role": "",
+    "text": "I don't know if I have anything else to add. Yep."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Thank you. Our next question comes from the line of Blayne Curtis with Jefferies. Please proceed."
+  },
+  {
+    "speaker": "Blayne Curtis",
+    "role": "",
+    "text": "Hey, thanks for taking my question. Had two. I want to ask, I know it's small numbers, I'm just kind of curious the move in. The other product revenue was up 18% sequentially. I think you said in the filing, was a license sale. So I don't know if you can add any color to that. And then does that not repeat into March?"
+  },
+  {
+    "speaker": "Steve Sanghi",
+    "role": "",
+    "text": "Well, it's not only license. In others, we have licensing. We have FPGA. We have memory. Timing systems. Timing systems. So there's another phenomenon happening in memory. You know, as you know, high bandwidth memory is really constrained. And in general, just, you know, the NAND as well as the flash memory is very constrained. And some of that, you know, shares capacity with our serial e-square business. So a lot of our competitors, especially in Asia, are moving that serial e-square capacity into the broader flash memory. And therefore, we're picking up market share, and we're getting a lot of strength in our memory business because our serial e-square memory business is largely produced in our internal fab. Where we have a lot of capacity. And we still have a fair amount of inventory. So and that falls into others. So we're getting some strength there also, which is quite sustainable because this entire memory shortage isn't going away anytime soon. It could be a, you know, couple of year phenomenon. And as we look towards March and June, the memory business looks quite strong too. So does FPGA. With a lot of strength coming from aerospace and defense and industrial also. And our networking and connectivity business backlog is very strong. So is our data center."
+  },
+  {
+    "speaker": "Eric Bjornholt",
+    "role": "",
+    "text": "And just to add to one point there that you had asked, we are not expecting the same benefit that we got on the licensing business in December to repeat in March. And in spite of that, you know, we're still guiding up 6.2% at the midpoint."
+  },
+  {
+    "speaker": "Blayne Curtis",
+    "role": "",
+    "text": "Gotcha. And, yeah, I guess that's maybe followed into my gross margin question you are guiding kind of flat. I think if you calculate the inventory write-offs, like, five percentage points of a headwind, you won't get it all back. But it sounded like you expected to do step down in March. So shouldn't you get a couple percent benefit from that? I'm just trying to understand the moving pieces in March on gross margin."
+  },
+  {
+    "speaker": "Eric Bjornholt",
+    "role": "",
+    "text": "So we, you know, we are guiding the midpoint of guidance on gross margin is 61%. And versus the 60.5% we produced last quarter on a non-GAAP basis. Again, that licensing benefit that we got in the December quarter, yeah, that's a 100% gross margin that doesn't repeat. So, again, that's that is a headwind in the current quarter to gross margin. And in spite of that, you know, we're showing some nice growth, and that's our expectation that those inventory reserves continue to come down to be more normalized this quarter. Did that address your question?"
+  },
+  {
+    "speaker": "Blayne Curtis",
+    "role": "",
+    "text": "Yep. Makes sense. Thank you."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Thank you. As a reminder, please press star 1 to ask a question. Our next question is from Vijay Rakesh with Mizuho Securities. Please proceed."
+  },
+  {
+    "speaker": "Vijay Rakesh",
+    "role": "",
+    "text": "Yeah. Hi, Steve and Eric. Just a quick question. Where are fab utilizations now blended? And how should we look at OpEx to the rest of the year? And a quick Thanks."
+  },
+  {
+    "speaker": "Steve Sanghi",
+    "role": "",
+    "text": "We don't break out the fab utilization numerically. We just, you know, guide you whether it's going up or down. We run a very complex product process mix. It's not a fab that just has one dynamic RAM process, and you can say whether the utilization is 80% or 70% or 60%. We run a very complex mix with hundreds of different processes. For a microcontroller, analog, memory, and other products. And there's a different utilization factor on different processes. So, really, averaging it is really not very meaningful. But, you know, having said that, I would say our current factory utilization is quite low. And therefore, there's a significant upside of the order of $50 million or so in gross margin, eventually, as we bring the factories to full production. And the other piece of his question was?"
+  },
+  {
+    "speaker": "Eric Bjornholt",
+    "role": "",
+    "text": "The second piece was on OpEx. So, yeah, you can see based on our guidance that OpEx is growing in dollars in the current quarter, and it's coming down as a percentage of revenue. And, you know, we've been kind of signaling to analysts and investors that there are investments that we need to make in our people. Right? We need to bring bonuses back to target levels. That is factored into what we're guiding to in the current quarter. And then we've got pent-up demand for, you know, raises. You know, we had people on a pay cut last year and, you know, cash raises need to come back. And that's really what's driving the increase in OpEx, but we're still laser-focused on, you know, bringing OpEx down as a percentage of sales and driving towards over time our long-term model, which is 25% of revenue, but we've got a ways to go to get there. But, you know, these investments are really required to make sure we are retaining and attracting talent. That we need to drive, you know, the R&D efforts of the company, the product development efforts, and the sales support activities to drive the health of our business three and five years out in time."
+  },
+  {
+    "speaker": "Vijay Rakesh",
+    "role": "",
+    "text": "Got it. And just a quick one. Aerospace, defense, I think this has been a huge, you know, driver for Microchip Technology Incorporated. I think you guys are one of the biggest suppliers there. Any thoughts on how we should look at, you know, how that segment does in 2026, 2027, I guess. Thanks."
+  },
+  {
+    "speaker": "Steve Sanghi",
+    "role": "",
+    "text": "So I think, you know, if you just look at what's happening geopolitically, you know, starting from the US, there is one of the largest, you know, defense budgets in the US. And Microchip Technology Incorporated is in every offensive and defensive weapon in our military arsenal. There's also commercial airplane production that's building up with, you know, Boeing wasn't building MAX planes for a while, and now they're building MAX planes at a record speed. So that's doing very well. Now when you go to Europe, Europe is under a lot of pressure. NATO countries are under a lot of pressure to double or triple their defense budget because they haven't spent what they were supposed to spend under the NATO treaty. And so they are increasing their budgets, and we are handsomely benefiting with a lot of European customers doubling, tripling their, you know, their production. And I think, you know, the last piece would be, you know, everybody's exploring space. I mean, even India landed a rover on the top side of the moon. One got lost. It was loaded with our product. So, you know, as space exploration picks up, and with all these new companies like SpaceX and all that, launching satellites and others, they all have essentially our products in it. So it's facing, you know, multiple winds on the back that are driving the A&D sector."
+  },
+  {
+    "speaker": "Vijay Rakesh",
+    "role": "",
+    "text": "Yep. Yeah. Go ahead. Thanks, Steve. And it's also one of the commentators too. There's also quite a bit of investment in new defense and new aerospace as well. Drone manufacturers and new defense manufacturers that are popping up and also consuming quite a bit of those products."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Our next question comes from the line of Joe Moore with Morgan Stanley. Please proceed."
+  },
+  {
+    "speaker": "Joe Moore",
+    "role": "",
+    "text": "Great. Thank you. You mentioned the FPGA business a couple of times within the other category. Can you give us a sense for what kind of growth you're seeing there? And generally, anything we should be thinking about from a growth or market share perspective in this coming year in FPGAs?"
+  },
+  {
+    "speaker": "Steve Sanghi",
+    "role": "",
+    "text": "Well, FPGA is seeing very good growth, and I would say, very large growth. And we're gaining share in FPGA. Considering that it's very hard to get competitors' numbers, where Xilinx is embedded in AMD and Altaira is now private, so we can't get their numbers. I think giving our FPGA number would just be giving benefits to the others. So we're not ready to kind of break it out. After the year finishes, the fiscal year, maybe we'll give you some sort of bracketed number. But for now, I would say we're gaining share over the others and seeing very large growth."
+  },
+  {
+    "speaker": "Joe Moore",
+    "role": "",
+    "text": "Great. Thank you. And then if I could follow-up on the PCI Express switching comments on the hyperscale side. You talked about the three customers and $100 million customer next year. Can you give us a sense for are those scale-up types of applications? And what does the roadmap look like? Do you need to move to Gen 7? Do you move to ELink, UALink? Like, how do you maintain the revenue momentum once you've established it?"
+  },
+  {
+    "speaker": "Steve Sanghi",
+    "role": "",
+    "text": "So, you know, Gen 6 has quite a bit of runway. I mean, we're hardly getting started. We on the research side, we're already working on Gen 7. So Gen 7 is already underway, and it has been for about, I would say, nine months to a year. But on the Gen 6, now it's in the design phase with the customers. We have a number of engagements. We released three design wins and hopefully, we'll be coming up with additional design wins in the coming quarters. We're working on some mega design wins. Don't have one to announce yet. And if we, you know, get some, then this $100 million could look small."
+  },
+  {
+    "speaker": "Joe Moore",
+    "role": "",
+    "text": "Thank you very much for the question."
+  },
+  {
+    "speaker": "Eric Bjornholt",
+    "role": "",
+    "text": "Was on scale-up versus scale-out. I don't know if Steve or Matthias wants to address that. Like Matthias?"
+  },
+  {
+    "speaker": "Steve Sanghi",
+    "role": "",
+    "text": "I don't know if we are willing to disclose that. I just think, you know, a very sensitive subject because of, you know, how some of the competitors are with the customers. And any competitor, I'm sorry. Any customer who's openly known to them by from Microchip Technology Incorporated could get that out of, you know, one of the competitors. So we're really keeping it very guarded."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Our next question comes from the line of Chris Caso with Wolfe Research. Please proceed."
+  },
+  {
+    "speaker": "Chris Caso",
+    "role": "",
+    "text": "Yes. Thanks. Good evening. First question is about gross margins and just coming back to the progress on gross margins as we proceed here and presumably as revenue gets better. Eric, in the past, you know, we've used a fall-through model maybe something in the mid-70s or so of incremental revenue falling through. You know, now that the inventory reserves, they sound like they're gonna normalize in the March quarter. Is that the right way to look at it? And if so, what would be the fall-through level?"
+  },
+  {
+    "speaker": "Eric Bjornholt",
+    "role": "",
+    "text": "Yeah. I mean, I know that makes it easiest to model. I'm not uncomfortable with using something like that, but it will absolutely be lumpier. It's not gonna be as smooth as putting it in a forecast. It's gonna be, you know, how we ramp the factories, what the mix of product is in any given quarter. But clearly, we still have a ways to go from 61% to our 65% target. And, I'm again, I'm not with it being modeled that way, but it will clearly, the quarterly results will be a bit different than kind of straight-lining it."
+  },
+  {
+    "speaker": "Steve Sanghi",
+    "role": "",
+    "text": "I would have Because of the mix. Yeah."
+  },
+  {
+    "speaker": "Matthias Kastner",
+    "role": "",
+    "text": "Yeah. Let me add this thing. I think we are seeing stronger growth on the products that we get from foundry versus inside. You know, FPGA is 100% outside. Doesn't run inside our fabs. Data center products are 100% outside, do not run inside our fabs. Our networking products, T1S products that Matthias talked about are all running outside. They do not run inside. Maybe some runs inside, but mostly outside, that business unit. So there is a lot of growth coming from outside. And this underutilization is largely in our fab. Inside. So that's why the underutilization part would take longer and be slower to come, but all these products that are running outside, these are all very high margin products. Well above corporate average. So what we will not get on the utilization side, we'll pick it up in the higher than corporate margin on these high growth products from outside. So gross margin will still continue to accrete."
+  },
+  {
+    "speaker": "Chris Caso",
+    "role": "",
+    "text": "Right. But it's happening because of mix as opposed to"
+  },
+  {
+    "speaker": "Steve Sanghi",
+    "role": "",
+    "text": "It's both. I mean, utilization is increasing also. But I just want to make the point that the gross margin improvement is not gonna come 100% from the utilization only because mix is richening."
+  },
+  {
+    "speaker": "Eric Bjornholt",
+    "role": "",
+    "text": "Right. So in our fabs, we are today, we are significantly underproducing compared to what we're shipping. And, you know, that's why inventory is coming down. And so, you know, that will change gradually over time, and we'll grow back into the capacity. So underutilization will come down as we move ahead, but not at a lightning speed."
+  },
+  {
+    "speaker": "Steve Sanghi",
+    "role": "",
+    "text": "I can almost guess your next question. If all these products are higher than corporate gross margin and they're growing faster, then, you know, is their long-term model higher?"
+  },
+  {
+    "speaker": "Eric Bjornholt",
+    "role": "",
+    "text": "Let us get there first. Yeah."
+  },
+  {
+    "speaker": "Chris Caso",
+    "role": "",
+    "text": "Okay. I won't ask that follow-up then. As a follow-up, on the use of cash, and you had talked about the desire to take down debt. Could you go into a little more detail there and does that mean that you're gonna be pausing buybacks even as cash flow improves and prioritize the reduction of debt? And if so, what level of debt are you targeting? How long does that continue for prioritization of debt?"
+  },
+  {
+    "speaker": "Steve Sanghi",
+    "role": "",
+    "text": "So I think I don't have a hard number for you, but I can talk about it in general. We are honestly spooked by this last cycle, how difficult this cycle was and how close we came with a high level of debt and as the profits came down with the down cycle, you know, the leverage was gonna go above six almost. Which would be a junk rating, and we had to go raise $1.5 billion of almost this preferred convert. To keep our debt rating and all that. So we are largely spooked by a very large debt. So we're going to be bringing down debt for quite some time. And keep the dividend flat and not do any buyback, till the debt has come down significantly and debt leverage has come down significantly to a number that I can't give right now because we haven't figured that number out."
+  },
+  {
+    "speaker": "Eric Bjornholt",
+    "role": "",
+    "text": "Right. So you remember way back in late 2021 at our Analyst Day, we set a one and a half times leverage target net leverage target. And, you know, we did better than that in the upcycle, but that was on earnings that really weren't sustainable. Looking back. So, you know, we want to be conservative from a balance sheet perspective. Get that down, and, you know, this is the quarter we just completed was the first quarter in a long time. That our adjusted free cash flow exceeded our dividend payments. So that's coming down. That's heading in the right direction, but we've got a ways to go, as Steve said."
+  },
+  {
+    "speaker": "Steve Sanghi",
+    "role": "",
+    "text": "No. Debt leverage was over four. It was 4.18. So, you know, I'm trying to drive a number right now based on any past experience of one and a half or so. Is it a mute exercise? I mean, so far away. So let us make some progress. And as we get closer, then we'll try to drive to a number."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Our next question comes from the line of Harlan Sur with JPMorgan. Please proceed."
+  },
+  {
+    "speaker": "Harlan Sur",
+    "role": "",
+    "text": "Hey, good afternoon. Thanks for taking my question. Steve, relative to ninety days ago when you guys guided revenues down 1% sequentially with the view that customers are wanting to take down their inventories into year-end, comparing that to what you just delivered, I mean, it looks like your turns business, your short lead time order is booked and shipped in the same quarter. Came in much stronger than expected. So is it fair to assume that your turns business as a percent of total revenues came in well above historical trends? Typically, which is what you would expect right in the early phases of an upcycle. And are you still seeing the same or higher level of terms mix this quarter and expedite requests so far increasing this quarter as well?"
+  },
+  {
+    "speaker": "Steve Sanghi",
+    "role": "",
+    "text": "Yes. Correct. January was very, very strong. The turns come and the bookings were quite high. We continue to get the pull-in request. See, a lot of the backlog was getting pulled in from January into December based on customer request. And now we're seeing the same thing. A lot of the backlog is being pulled from April into this quarter based on customer request. And bookings are strong, and they're replacing that backlog for April while they're pulling the existing one into this quarter. I can tell you that the largest piece was somehow, you know, because of less inventory, everybody worked through holidays. People didn't stop in Thanksgiving. They didn't stop in Christmas. They didn't stop in the New Year holidays, and we'll find out what happened in the Chinese New Year. So, usually, you know, for example, out of the distribution business is based on the number of shipping days. And if you have a bunch of holidays where, you know, warehouses are closed, then it affects revenue. Nothing affected revenue last quarter. We just kept getting up. Everybody wanted product. Bookings were very strong. They were pulling it in. They were expediting. There were just all sorts of it was an upcycle kind of behavior, which was, you know, really suddenly, we didn't model that. Going into December. And all that is continuing in the current quarter. You know, I expect 6.2% sequential growth to be a very strong guidance. I mean, yes. You know, when we haven't grown 6.2% in a very long time. Sequentially. Yeah. You know? So this is very, very good."
+  },
+  {
+    "speaker": "Harlan Sur",
+    "role": "",
+    "text": "I appreciate that. And, you know, if I x out if I x out licensing revenues, your other segment still grew close to, like, 8% sequentially. Right? As you mentioned, some of the product growth was FPGA, data center memory, networking. I didn't hear you mention this, but I seem to recall historically that the team has had very strong traction in data center SSD controllers. Both the chip but even more importantly, like, you guys, I think, have a very strong firmware stack. Right now, ASN or SSD demand is very strong. Right? AI compute is finding all of these new use cases for SSDs. Is the Microchip Technology Incorporated team benefiting from this? Are you guys still committing R&D investments to the data center SSD franchise?"
+  },
+  {
+    "speaker": "Matthias Kastner",
+    "role": "",
+    "text": "Yeah. Absolutely. So we support and continue investing in the storage segment of data centers, continue the switching segment of data centers. Both for and the storage both for Flash as well as for HDD. So we got three solid product lines that we are supporting and continue to invest in."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Thank you. There are no further questions at this time. I'd like to pass the call back over to Steve for any closing remarks."
+  },
+  {
+    "speaker": "Steve Sanghi",
+    "role": "",
+    "text": "Well, we want to thank all the investors for sticking with us through this last year of recovery and we finished the year pretty good. And we're looking for an outstanding calendar year 2026. And we'll see some of you on the road as we go to some conferences this quarter. Thank you."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "This concludes today's teleconference. You may disconnect your lines at this time. Thank you for your participation."
+  }
+]

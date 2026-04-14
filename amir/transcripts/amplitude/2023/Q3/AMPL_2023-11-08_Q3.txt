@@ -1,0 +1,301 @@
+Yaoxian Chew
+[Audio gap] the expected performance of our products, our expected quarterly, and long-term growth, investments and overall future prospects. These forward-looking statements are based on current information, assumptions, and expectations and are subject to risks and uncertainties, some of which are beyond our control and could cause actual results to differ materially from those described in these statements. Further information on the risks that could cause actual results to differ is included in our filings with the Securities and Exchange Commission. You are cautioned not to place undue reliance on these forward-looking statements, and we assume no obligation to update these statements after today's call, except as required by law.
+Certain financial measures used on today's call are expressed on a non-GAAP basis. We used these non-GAAP financial measures internally to facilitate analysis of our financial and business trends and for internal planning and forecasting purposes. These non-GAAP financial measures are limitations and should not be used in isolation from or as a substitute for financial information prepared in accordance with GAAP. A reconciliation between these GAAP and non-GAAP financial measures is included in our earnings press release, which can be found on our investor relations website at
+[email protected]
+With that, I'll hand the call over to Spenser.
+Spenser Skates
+--
+Chief Executive Officer and Co-Founder
+Thanks, Yao, and good afternoon, everyone. Welcome to our third quarter earnings call, and thank you for taking the time to join us. For today's Q3 2023 call, I'm going to cover three main topics. First, our Q3 financial results alongside a macro and execution update.
+Second observations on our evolving market opportunity and category. And third, an update on platform developments and some customer stories. Let's start with the summary of the third quarter. We close the third quarter with $70.6 million in revenue, up 15% year over year.
+Annual recurring revenue was $273 million, up $5 million from the end of the second quarter. We were profitable on a non-GAAP basis and generated another $7.5 million of positive free cash flow this quarter. We now have almost 2,500 customers. To put these numbers in context, I'll provide an update on how we're executing on the state of the macro and on how we see our category evolving.
+On execution. Our new ARR was broader based this quarter. We welcomed a number of organizations of all sizes to Amplitude compared to Q2, which was marked by a couple large expansion deals. Total churn, while still high, was lower than the previous quarter.
+We also drove an incredible company wide effort to launch our plus plan. I'll talk more about it shortly, but the Plus plan gives a self-service options for start-ups, small businesses, and first-time enterprise prospects. Given it's a product-led growth motion, it also allows us to incrementally redirect our sales efforts toward larger enterprise prospects and customers. The new leaders we brought into the company continue to raise the bar across the board, from discipline and rigorous inspection to elevating customer relationships.
+We are also beginning to think bigger. We've been able to grow deal scope and deal sizes significantly with some customers this quarter as we start to sell more strategically across different buyers. The macro environment remains challenging on a number of fronts. Our customers continue to recalibrate their own growth expectations under new demand and interest rate environments.
+We continue to battle the same ongoing themes of optimization and macro driven churn, as customer and budget pressures remain stubbornly persistent. This will take time to work through. On the digital analytics category. It remains in its early days, and we continue to see evidence that our approach is the right one.
+Adobe, Google, and many others have built great businesses on the back of a web traffic and marketing centric view of the world. Billions of dollars are currently being spent by companies on legacy software, data scientists, and complex implementations to try to understand the digital customer experience. This approach breaks down for today's realities. Customer data is now more fragmented than ever across multiple data sources and touchpoints.
+Growing global regulation and an increased focus on privacy means a heightened importance on first-party data. Legacy approaches and point solutions only provide a snapshot when it comes to trying to understand your customer. Amplitude tells you what your customers do and how they behave across the entire customer journey. Market awareness continues to grow alongside increasing customer sophistication.
+Our platform breadth resonates with users across multiple departments, product, data engineering, marketing, and more. As customers understand the criticality of product data, we also see increasing signs of previously siloed pools of spend coming together across marketing, product, and data budgets. We see increasing opportunities for us to grow wallet share and expand our addressable markets. One notable sports gaming customer expansion from the quarter really brings these dynamics to life.
+Amplitude had been the solution of choice for their leading digital products since 2016. Product teams were historically given their own choice of tool kits. That agility came with the trade-offs of sprawling costs and unsuccessful implementations. Recognizing the need for a more complete view of the customer journey, their VP of marketing at MarTech recently took over additional responsibilities for product analytics.
+Over the course of our relationship, we've worked with them to execute on their vision for one provider across their entire digital product portfolio. This quarter, they went wall to wall with Amplitude. Amplitude analytics, CDP, and experiment are displacing several fragmented marketing and point solutions across their products. We're helping them personalize customer experiences, embrace rapid testing, and drive insights to action with one singular platform.
+We think we can help many more of our customers execute on that vision. With that backdrop, let's recap product development. It was an excellent quarter for innovation. We are growing our platform.
+I'm very excited to announce that session replay is coming to Amplitude early next year. Session replay is a great entry point for companies who are earlier on their analytics journey. It provides video like replays that give a more accurate picture of how digital products are being used through actions like clicks, cursor movements, and scrolling. When combined with analytics, teams can quickly identify the issues users are having, understand why they're having them, and recommend improvements.
+With a visual comparison of the before and after, teams will be able to see if a problem like low engagement is resulting from user, design, or performance issues, and how widespread specific issues are. Session replay removes the guesswork behind behavior and improves the user experience across the board. As I mentioned earlier, we launched our Plus plan in mid-October. Plus solves an issue we've been hearing for years, namely that pricing for analytics is challenging.
+It can be expensive to go from free to paid plans, and if those plans are priced by events, smaller companies either overpay or ration what they track, which undermines the whole purpose of analytics. That is where plus comes in. The plan offers the best of Amplitude analytics, CDP, and experiment, starting at just $49 per month, and it's the first digital analytics platform to be launched in a self-service package. With its launch, we are growing distribution and can now serve the low end of the market more efficiently.
+Early traction is encouraging, with multiple five-figure signups in the first few weeks since launch. As it relates to AI, I'll provide a brief update on our recent launch and what we're seeing in the market. Data governance is like physical health. Companies should be proactive about data and clean up and taxonomy, and we should exercise and eat vegetables every day as well.
+But few people end up doing it in practice. That is where Amplitude can help. Amplitude's AI Data Assistant is a friendly, individualized personal trainer for anyone who wants to get their product data in better shape. In less than three months since launch, our AI Data Assistant has been a huge hit, with hundreds of our customers already using it to improve their governance practices.
+What would normally take weeks and months of effort is being broken down into bite-sized chunks that can be tackled in minutes and hours. Organizations that use data assistance see a big uptick in data governance scores, and more than a 30% average lift engagement. Clean and cleaner data leads to more impactful insights, happier users, and better business outcomes. Onto customers.
+We won't stand out customers in the generative space. Amplitude is the platform of choice for some of the biggest, brightest, and best names in generative AI, helping them guide their businesses in ways that our competitors cannot match. Midjourney is a pioneer in AI image generation, revolutionizing art and imagination in the same way ChatGPT has transformed the written word. They've developed and productized text-to-image generation and are the AI success story in image generation.
+They are evolving rapidly, with their product surface area growing from web to mobile, mobile to multisurface. With a small but incredibly sophisticated technical team, Amplitude was the right solution to give them leverage on time, resources, and effort. They're engaged with our entire platform from day one across analytics, experiment, and CDP. Amplitude will enable Midjourney to understand free-to-paid conversions, correlate demographics to user patterns, and A/B test changes on their user experiences.
+Another win I'm really excited about is Character.AI, a neural language model chatbot service Character.AI empowers users to easily create and interact with a variety of characters that feel alive with contextual conversations and human like responses. They're one of the fastest growing companies. They've adopted Amplitude for both analytics and experiment, and viewed Amplitude as the best long-term partner, given their needs to rapidly scale their product. This is just the start.
+Amplitude has always been able to capitalize on waves of technological innovation. We remained well-positioned to benefit from the ongoing swell of AI product and company formation. With a proliferation of digital products and experiences, the need for Amplitude only grows. We add some other incredible wins this quarter.
+We welcome Playrix in Q3 as one of the top 3 mobile gaming companies in the world. Their games are played by 120 million people every month. Previously, they relied on a smaller mobile analytics vendor, which was too outdated for the current needs and couldn't provide them with the right level of flexibility. Playrix is moving to a multiproduct strategy.
+Multiple teams, including product and marketing, needed to simplify the usage of their internal platform to shorten time to insights. Through a highly competitive process, Amplitude stood out as a winner based on both our ease of use and on our unmatched ability to deliver a unified view of their users across different games. We also want another large global sports organization this quarter. Over time, the organization had lost trust in the data provided by their large legacy MarTech provider.
+Users across data, analytics, marketing and advertising desperately needed stronger support and more open integrations. With a seamless combination of Amplitude's analytics and CDP, this customer will be able to recommend the best video and articles to their user base, and drive engagement. With a blueprint of their user behavior, they can improve their mobile app experience to maximize sponsor revenues and retention. Through this period of change, we are delivering on profitable growth while balancing thoughtful investment.
+We are growing alongside our customers and extending our platform. I'm confident the challenges we are in during the short term will set us up to be a stronger company in the longer term. With that, thank you for your interest in Amplitude. I'd now like to turn it over to Criss to walk through the financial results.
+Criss Harms
+--
+Chief Financial Officer
+Thanks, Spenser, and thanks to everyone joining us today. I'm proud of our recent performance. We beat the midpoint of all guided metrics, as well as achieved our commitment of being free cash flow positive for two consecutive quarters. Inclusive, we beat the top end of the range of the revenue guide, and we are raising our Q4 revenue guidance from what was implied in our August guide.
+I'm energized by [Inaudible]. We are well-positioned for an increasing portion of customer wallet share. This will become increasingly evident as the roll of product increases in importance across different buyers as legacy approaches break down and as siloed pools of spend continue to come together. Our operational execution is improving.
+Our medium-term visibility has improved from earlier in the year, relates to both new ARR forecast predictability and ARR churn risk. We're improving capital allocation. Our Plus plan will better serve the lower end of the market, while our people led sales efforts will increasingly focus on accounts with higher potential of long-term value. Now, onto our third quarter results.
+As a reminder, all financial results that I'll be discussing, with the exception of revenue balance sheet figures, are non-GAAP. Our GAAP financial results, along with the reconciliation between GAAP and non-GAAP results, can be found in our earnings press release and supplemental financials on our IR website. Third quarter revenue was $70.6 million, up 15% year over year. Total ARR, exiting Q3, increased to $273 million, An increase of 12% year over year and $5 million sequentially.
+Here's more detail on key elements of ARR. We again saw sequential growth in customer count and ARR across both our million-dollar plus and our $100,000-plus ARR base. New ARR was fairly evenly split between land and expand. Direct contrast to the large expansion-driven performance in the prior quarter, this was more broad based.
+Churn remains elevated and slightly lower in absolute dollar terms than Q2 and in line with our expectations. Themes here have been consistent. First theme, as companies come up for renewals, they're often resetting and optimizing for new expected levels of growth. The substantive portion of these legacy multiyear contracts are expected to be reset by the end of Q2 2024.
+The second theme, cost pressures persist, particularly, with smaller customers. Competitive losses remain rare, as these smaller customers are choosing to not use a solution from any provider to preserve cash. In period NRR dropped to 99%. As stated, land and expand were fairly evenly split in Q3, meaning new ARR from expand was lower than the prior quarter.
+Churn, while down from the prior quarter, remained sizable. Combination of the two factors resulted in the in-period NRR dropping below 100%. NRR on a trailing 12-month basis, declined sequentially to 105%. Gross dollar retention this quarter was in the mid-80s.
+As a reminder, Amplitude includes both ARR reductions for fully churned and lost customers and ARR reductions from partially churned and retain customers in our GDR metric. Gross margin was 78.7%, 4 percentage points year over year, mainly reflecting the improvements made in our unit hosting cost and the margin impact of restructuring our services team in the second quarter, both of which we have covered previously. Total operating expenses were $53 million, down sequentially and growing 4% year on year. Here, we remain measured around our pace of hiring, following the restructuring completed in the second quarter.
+Operating profit was a positive $2.8 million, or 4% of revenue, up 12 percentage point improvement on a year-over-year basis. Net income per share was $0.05, based on 128.1 million fully diluted shares, compared to a loss of $0.03 with 112.0 million shares a year ago. Free cash flow was positive $7.5 million, or 11% of revenue. Free cash flow saw a benefit this quarter from higher collections and timing of certain payments.
+Now on to our outlook. For the fourth quarter, we are raising the revenue outlook that was implied in our August guide, with a Q4 revenue guide of between $71.3 million and 71.9 million, representing an annual growth rate of 10% at the midpoint. We expect non-GAAP operating income between positive $1.3 million and $1.9 million. We expect non-GAAP net income per share to be between $0.02 and $0.03, assuming shares outstanding of approximately 129.8 million as measured on a fully diluted basis.
+For the full year, we expect revenue to be between$276.2 million and $276.8 million, an annual growth rate of 16%. We expect non-GAAP operating loss between $4.5 million and 3.9 million, and we expect non-GAAP net income per share to be between $0.05 and $0.06, assuming shares outstanding of approximately 127.8 million as measured on a fully diluted basis. As it relates to 2024, we will provide more detailed guidance on our fourth quarter earnings call in February. However, I do want to provide some additional context for your modeling purposes.
+We have expressed a zero add net ARR expectation for the fourth quarter of 2023 in our prior earnings calls. Coupled with a net ARR add of $18 million year to date through September 30th, this implies a year-over-year growth rate of ARR for the year that is below 10%. There is a high correlation between the current year ARR growth rate and the subsequent year revenue growth rate within our revenue model. We expect new ARR to be relatively balanced between land and expand over the coming quarters.
+Accordingly, given the magnitude of churn that we have been conveying, we expect in-period NRR to be below 100%. As stated earlier, as companies come up on renewals, they are often resetting and optimizing for new expected levels of growth. A substantive portion of these legacy multiyear contracts should be reset by the end of Q2 2024. Taking this into account, ARR reacceleration should become mechanically easier in the back half of 2024.
+In summary, Q3 shows our ability to adapt quickly for the new environment. We're delivering on free cash flow. We're investing appropriately against opportunities that we expect will drive long-term value. And above all, we're committed to improving execution.
+With that, I'll open 4Q&A. Over to you, Yao.
+Yaoxian Chew
+Great. Thanks, Criss. As a reminder, please turn your microphone and camera on. Limit yourself to one question and one follow-up in the interest of time.
+Our first question comes from Koji Ikenna from Bank of America, followed by Elizabeth Porter from Morgan Stanley. Koji, go ahead, please.
+Koji Ikeda
+--
+Bank of America Merrill Lynch -- Analyst
+Thanks, guys. Thanks for taking the questions. So, in the prepared remarks, you called out Midjourney and a couple of other AI vendors out there. And, you know, that's so interesting.
+So, just question on how to think about the AI category from an app's perspective. You know, maybe what is it about this category? Or maybe the right question is, is there something structurally different about the way AI apps are created that makes Amplitude better positioned as a digital analytics company versus others out there?
+Spenser Skates
+--
+Chief Executive Officer and Co-Founder
+I think the key thing with AI as a way of technological innovation is that it's all about who has the best user experience for the AI -- for their AI application. And because of that, companies in that category are looking for every single competitive edge they can. And that's what led to Midjourney becoming an Amplitude customer. That's what led to Character.AI becoming an Amplitude customer.
+That's what we've seen from companies in general. I would compare AI to actually previous waves of technological innovation. We've seen stuff like VR, crypto, mobile, SaaS, all of the new companies that those categories created ended up becoming day one Amplitude customers from the very start, starting out with a small -- growing with us -- you know, us growing with them over time as they continue to scale. And so, AI is very similar in that way and that the digital product is the only competitive advantage you have.
+And so, for us as a platform, given we're the best, most sophisticated, now with the launch of the Plus plan, we also have the easiest entry point. There's kind of no reason for someone to choose anyone else besides an Amplitude. You're not going to choose some of the legacy MarTech vendors. You're not going to choose the smaller companies in the space.
+You're going to go with Amplitude.
+Koji Ikeda
+--
+Bank of America Merrill Lynch -- Analyst
+Got it. Thanks, Spenser. And on that Amplitude Plus, does that potentially open new doors for new types of customers to try out the technology? And I guess, how does the upsell process from Plus to the broader Amplitude platform work? And then last question on Amplitude Plus is, is there some sort of scale from a revenue perspective that Amplitude Plus customers can grow to?
+Spenser Skates
+--
+Chief Executive Officer and Co-Founder
+Yeah. So, we've already seen multiple five-figure signups just straight away from the three weeks the Plus plan has been out. So, already, very, very promising in terms of a new channel for growth for Amplitude. And so, one that I and the rest of the team are very excited about.
+I think the key part -- so, obviously, customers can sign up, they can start with free, they can go to the paid plans. They could scale with that paid plan over time. But I think an underrated aspect of it as well is just exposing more people broadly to Amplitude. You get more customers signing up for free because they know, "Hey, this is only going to be $49 a month or whatever it is if I'm at a certain level, and so I can figure that out without having to go through a whole sales process and talk to someone." And it also is a great way to introduce them to some of the enterprise functionality they may want.
+And so, we've already seen Plus customers that started on Plus and then ended up upgrading to enterprise plans. And so, we've seen multiple instances of that already, even though it's only been out for a very short amount of time. So, absolutely, in terms of a new channel. And it's all about just, OK, no matter where you're at, if you want to start on free, if you want to just pay by credit card and have that be easy, or if you want to use some more sophisticated features, we're going to be the best choice in the space.
+Koji Ikeda
+--
+Bank of America Merrill Lynch -- Analyst
+Got it. Thanks, Spenser. Thank you so much.
+Yaoxian Chew
+Thanks, Koji. Next question, Elizabeth Porter from Morgan Stanley, followed by Nick Altmann from Scotia.
+Unknown speaker
+Hi, everyone. This is Fiona on for Elizabeth Porter. Thank you for taking the question. I wanted to ask on the go-to market changes.
+It sounds like leaning into products like growth has been a focus for you as you look to add more customers through a no-touch model on free plans, and then eventually migrate them to higher-value plans over time. I'm curious if there's any update to share here. Are you seeing any progress with this acquisition channel bringing new logos into the funnel? And then what are the key hurdles that you're seeing converting these customers from free to paid, and how are you planning to address this over time? Thank you.
+Spenser Skates
+--
+Chief Executive Officer and Co-Founder
+Yeah, for sure Fiona. So again, as I said with Koji, like we are seeing new customers come on to free -- right out the gate come on to paid. And then some of those customers up to the enterprise plans. And so, it has been successful launch, even though it's only been out there for a few weeks at this point.
+I think that in terms of -- yeah, for us, it's just making sure that kind of no matter where you're at, you're able to scale with Amplitude over time, and that we have the most compelling offering. And so, while we don't expect the Plus plan to have a massive revenue impact in the short term, we know that just as a new way to acquire customers out there and have them upgraded. It's going to be a good one in terms of obstacles. That's something that we've been working on since prior to the Plus plan.
+So, one of the big things that we saw was one of the gates to be able to get started with Amplitude was what we call activation. So, being able to send us data from your product. And so, one of the things that we did as part of the launch of the Plus plan was we introduced new ways to do that from a low-code or no-code fashion. So being able to put a Java Bookmarklet in or being able to transfer your existing Google implementation over.
+And so, that's actually increased the -- what we call the activation rate, which is from sign up to data in, multiple percentage points through that effort. So, that's been good to see. We're obviously using Amplitude to look at every single part of that customer journey and figure out where we can optimize, and there's still a lot more for us to go.
+Unknown speaker
+OK. Thank you.
+Yaoxian Chew
+Great. Nick Altmann from Scotia, followed by Clarke Jeffries from Piper. Nick, go ahead please.
+Nick Altmann
+--
+Scotiabank -- Analyst
+Awesome. Thanks guys. The first one is just on the macro. Appreciate the update.
+Can you guys just maybe talk about what you sort of saw in October and how November has trended relative to 3Q in terms of whether you're seeing incremental pressure, things get a little bit hairier in terms of the macro or if things are kind of stable as 3Q?
+Spenser Skates
+--
+Chief Executive Officer and Co-Founder
+I think we've continued to see similar pressures. As Criss articulated earlier. It's not gotten significantly worse. It also hasn't gotten better.
+That's obviously hitting us on the churn side, which we're not happy about, and we're doing quite a bit to address. But the macro pressures remain consistent and we expect them to remain consistent as we look through the next few quarters. I think as we get into the later half of 2024, we see a lot -- some of that potentially alleviating. But again, it's early to say.
+Nick Altmann
+--
+Scotiabank -- Analyst
+Awesome. And then just the second question was really around -- it's for Criss. But you guys sort of talked about, you know, they're sort of multiyear customers renewing over the next three quarters. And then after you sort of lap that, you'll have a much better sense as to when things can kind of accelerate.
+I guess my question is, when you look at the renewal period in 4Q versus 2Q of next year, is there any sort of big delta there? And I guess the essence of the question is we'll sort of post 4Q. Will you guys kind of have enough visibility to kind of make that call a little bit more firmly? Or, you know, I know 2Q sort of a big bookings period, big renewal period for you guys. So, you know, how much visibility will you have sort of post-4Q or will we really have to kind of wait till 2Q of next year? Thanks.
+Criss Harms
+--
+Chief Financial Officer
+Yeah. No, I can give you an insight. As it pertains to the absolute value of contracts that are up for renewal, both in Q4 as it was in Q3 and as it will be in Q1 and Q2, they're all fairly commensurate in size. As we've talked about, one of the things I'm proud about is the operational improvements we've made in our kind of medium-term visibility to churn risk.
+So, against the backdrop of the absolute value of those -- of the ARR attributed to those multiyear contracts, clearly, that's the easy part of the math and the subjective risk assessment, we've made significant improvements on. What we've tried to convey is that the churn levels that really hit their peak for us in that Q2 2023 period, and that we've tried to convey while still large, should be down from that peak as we progress through this quarter or Q3, as we progress in Q4, that those are going to stay still at relatively large amounts based on how we're scoping the assessment for optimization and the other elements. But then mechanically, there's just not that same value of the multiyear contracts in our renewal base beginning Q3 of next year. Well, we will have is much more of the contracts that we did in 2023, up for their annual renewal.
+And much of what we did this year that has been on a multiyear, we're not going to see those again until '25 and '26. So, I think we'll be able to -- as we're conveying now on a pretty good view into both the Q4 and of the first half of next year, when we speak again next in more detail into 2024, in February, I think we'll be able to give you a pretty concrete view of what those dynamics are. We'll clearly work that into our revenue guide for the year.
+Yaoxian Chew
+Great.
+Nick Altmann
+--
+Scotiabank -- Analyst
+Thanks, guys.
+Yaoxian Chew
+Next question Clarke Jeffries from Piper, followed by Tyler Radke from Citi. Clarke, go ahead please.
+Clarke Jeffries
+--
+Piper Sandler -- Analyst
+Hello. Hi, Criss. Hi, Spenser. Thank you for taking the question.
+You know, I just wanted to get a gauge sort of on really the cohorts of different customers, you know, split between maybe digital natives and new digital builder. I wanted to get an update on sort of any return or change in behavior in sort of traditional industries as they, you know, maybe return to the prospect of digital investments. And then, you know, what you see as the receptivity on budget that this current point for the digital natives. You know, it's been, I think, a cost rationalization environment for a long time.
+Just an update there on maybe tone or bottoming maybe in terms of their kind of purchasing appetite at this point.
+Criss Harms
+--
+Chief Financial Officer
+Yeah, I'm happy to take that. Look, I'm going to harken back to we've made a lot of operational improvements in the last nine months, and it's given us increased visibility. So, with those additional kind of levels of business insight to us, I'll hit on a couple of themes of reiterating and at another one. On the digital native, which is still, you know, significant portion of our ARR base, we are experiencing what we talked about from a churn, those large organizations, multiyear contracts, reflective of the dynamics with the pandemic because those contracts are coming up for renewal, we're resetting.
+So, we've seen increasing pressure on the net ARR side of our business that's been tied to the digital native. The other side of that barbell being the small tech -- really, the VC-backed technology companies as they're just struggling to survive. And that's been just a steady down within the digital native of our net ARR contribution, not from our ability to continue to drive new ARR, but really just the headwind from the churn. So, just kind of validating the themes that we've seen there and very specific to the digital native space, which is really predominant technology industry vertical companies.
+As it pertains to the traditional company, really, with the exception of Q3, because we did have a large churn, like that part of the business has continued to click along really well. Like our growth rate within that space has been north of 24% year-over-year growth for the last 12 quarters or 11 quarters. So, that part of the business has done well. Now, I think one of the dynamics that we're picking up from some of the other software companies is that some of the technology companies have been at the forefront of the budget pressures resetting.
+Good news for us, that should be an indication because of our digital native concentration. Perhaps, we're closer to that end than others. Traditional company, perhaps as reflected in increased churn that we saw this quarter, those are maybe facing a little bit more buying pressure and scrutiny as we go forward. That's the dynamic that we're seeing in Amplitude between those two segments of our business.
+Clarke Jeffries
+--
+Piper Sandler -- Analyst
+Yeah, certainly. And then I think just basically an update on, you know, the competitive environment. Any update there in terms of whether or not some of the packaging changes you think could specifically change the dynamic, maybe in the mid-market and the self-serve offering, and whether you think that there is a specific opportunity in terms of getting to that insight factor that you think, you know, maybe specifically as a competitive dynamic you can take advantage of? Just curious on, you know, X Google Analytics, what you see from a competitive standpoint. Thank you.
+Spenser Skates
+--
+Chief Executive Officer and Co-Founder
+Competitively, we've continued to do very, very well, particularly against a lot of the point solutions. So, if you're a stand-alone A/B test vendor, if you're a stand-alone CDP vendor, if you're a stand-alone session replay vendor, it's kind of no real reason not to consolidate that onto Amplitude. One, it's going to be a better experience because you can use analytics to power those things, and those things make the analytics better. And, two, we can offer a much lower total cost of ownership.
+You're dealing with less vendors. We can give discounts. And so, we're actually seeing that effect across the base. So, it's not just mid-market.
+We're seeing an enterprise. I was just at our customer advisory board a month or two ago. And so, this is like our top 20 customers in the U.S. And we presented the road -- both the existing products we had, experiment and CDP, our roadmap for session replay, some of the other things that were coming down the pipe.
+And out of 20 customers, all 20 were interested in expanding their capabilities with Amplitude. So, whether that be an experiment, whether it be a session replay, whether it be on CDP targeting. And so, I think, in particular, we're doing very, very well against the point solutions. And so it's increasing validation of our view of the convergence of the category and the much bigger TAM that's available outside of product analytics.
+Clarke Jeffries
+--
+Piper Sandler -- Analyst
+Great. Thank you very much.
+Yaoxian Chew
+Next question, Tyler Radke from Citi, followed by Patrick Schulz from Baird. Tyler, go ahead, please.
+Tyler Radke
+--
+Citi -- Analyst
+Yeah. Hey. Good afternoon. Thanks for taking the question.
+So, a couple of questions on Q4. You know, Criss, I think I heard your commentary just around expecting flattish. ARR. So, zero net new ARR heading into Q4.
+I guess, you know, certainly the last two quarters have surprised to the upside. You know, you've added net new ARR in the last two quarters. And, you know, with Q4 typically being a larger bookings, you know, quarter, for you guess, with the reason why you would expect it to be flattish into Q4, are you expecting churn to be higher in Q4 than you saw in Q2, Q3? Just kind of help us understand the puts and takes into the guidance because it would seem like you should be able to do better just on a seasonal basis in terms of the new bookings in Q4. Thanks.
+Criss Harms
+--
+Chief Financial Officer
+Yeah. No, it's been interesting being here now, three quarters is Amplitude does not -- it has not historically had that Q4 pop, which is much more enterprise driven. We've talked about the renewal base being actually concentrated in the first half of the year, Q1 and Q2, just on a historical basis. One of the things that I expect will shift with time is having a more concentrated Q4 relative to the rest of the quarters of the year because being very focused on winning the enterprise, both across the digital native space and the traditional company, but that's not what we have.
+So that's kind of the insight at a macro level, right? At the detailed level, we clearly have a pipeline that we're feeling adequate levels of confidence as it pertains to Q4. And we've got, as I said, a pretty good track record, and now we're performing on the new ARR. But there are some dynamics that are playing on the churn side that we're -- that I'm trying to assess, and I felt it was prudent to continue the theme of the zero ARR expectation as it pertains to that contribution in Q4.
+Tyler Radke
+--
+Citi -- Analyst
+OK. And just to follow up on the first half of next year. So, I think it was Q1 of this year where you talked about some of the churn and, you know, headwinds that you were seeing in the business. I guess, why wouldn't that have completely normalized in the Q2 quarter? And I guess, as you think about the pathway to reacceleration, I guess, what gives you the confidence that this isn't going to be kind of an ongoing issue, is customers come up for to renew their contracts that they continue to optimize and try to shrink their spend? Thank you.
+Criss Harms
+--
+Chief Financial Officer
+Yeah. No. Mechanically, there were some three-year contracts that they're coming up for renewal in the first half year of 2024. So, they're playing a role, even though we've been talking about the theme for a while, as some of those two-year contracts were coming up for three years and started the year before coming up, as they played through the 2023 year.
+As it pertains to the second part of the question on what kind of gives me confidence and just the mechanics of it being easier is we know that that customer base is subject to optimization and some fairly meaningful rightsizing of their usage of our software that's more commensurate with the levels of customer demands that they're having now and that we're resetting. We're able to get that visibility, as I said. We definitely have raised the bar on our operational insight across many facets of the business, and this is one of those areas where it got better delineation into the renewal base itself, the customers that are in play, those that are more likely. And it gives me, as I look into the Q3 and Q4, we don't have that same inherent headwind, and it should just be mechanically easier for us as long as we continue to perform at the same new ARR levels and some new element of macro force doesn't leave its way in.
+Spenser Skates
+--
+Chief Executive Officer and Co-Founder
+The other callout, just to give a little more color on it, has been that I think I want to give a huge amount of credit to both Thomas and Nate. I think prior to that, we really were only looking at customers that were coming up for renewal in the current quarter or Q1 plus. But since the work that Nate has done over the last six months since being here at Amplitude, I think we've really up leveled our view. And so, we have much better visibility into what our expectations around the renewal base is as we look at Q1, Q2, Q3, and so on of next year.
+Now, obviously, there's obviously still risk in all of that, but we have our arms around those in a much better fashion than we've had previously. So yeah, it's been a big change in operational execution.
+Tyler Radke
+--
+Citi -- Analyst
+Great. Thank you.
+Yaoxian Chew
+Great. Next question. Patrick from Baird, followed by Rachel from Blair. Patrick Schulz, please go ahead.
+Patrick Schulz
+--
+Baird -- Analyst
+Hey, guys. Appreciate you guys taking my question. And I know you guys made some changes earlier this year around sales leadership and just the account ownership process in general. Can you talk about how your sales and go-to market teams are positioned as we head into 2024, just maybe from a headcount and operational standpoint, just particularly as your PLG Motion gains traction and with the recently announced Plus plan? Are there any other modifications you guys are looking to make?
+Spenser Skates
+--
+Chief Executive Officer and Co-Founder
+I think one of the biggest ones is refocusing our accounting on a smaller number of higher potential accounts, and so allowing the PLG motion to do the more kind of rote -- if you're going to pay a few thousand dollars or $10,000 or $20,000, you can just self-serve. And that's not a high leverage use of a salesperson's time. We want them to be thinking about how can they go after accounts that can be $100,000 or $200,000 or more. And so, as we look at 2024, we're looking at driving increased focus through that.
+Now, we've been a sales-based solution since the start of the company. Don't expect that to change in a crazy way as we go into next year, but I think the addition of PLG allows the driving of focus to much higher-value accounts.
+Patrick Schulz
+--
+Baird -- Analyst
+OK. Very helpful. Just to follow up too, for Criss, maybe you guys have done a great job improving profitability than past quarters and appreciate some of the color you provided in 2024, not trying to push for guidance here. But how were you thinking about the trade-off between investing for growth as the macro stabilizes as you anniversary some of those customer renewals relative to ongoing margin improvement? Just want to get a better understanding of those trade-offs.
+Criss Harms
+--
+Chief Financial Officer
+Yeah, look, you've heard me say I have huge conviction in the market opportunity that's ahead of us, a huge conviction in the operational changes that we're making that will be even in a better position to execute upon. I think we have great growth potential as we work our way through this, and I look forward to helping enable Thomas and team to drive a lot of that. If given the choice, we're going to lean toward growth and reinvesting into our organization. We think it's a really sizable market opportunity that's emerging, that's converging with existing legacy ones.
+We want to be really well-positioned to be the dominant player in the long term. That's where we're going to focus.
+Patrick Schulz
+--
+Baird -- Analyst
+Awesome. Appreciate it.
+Yaoxian Chew
+Great. Next question. Rachel Ayotte from Blair, followed by Taylor McGinnis from UBS. Rachel, please.
+Rachel Ayotte
+--
+William Blair -- Analyst
+Yeah. Thank you and appreciate you taking the question. The customer example you guys gave of the wall-to-wall deployment was interesting. I'm curious if you're seeing more existing customers, leveraging CDP to consolidate the stack or if it's still mostly resonating with new customers or.
+Spenser Skates
+--
+Chief Executive Officer and Co-Founder
+Sorry, Rachel, what was that last part? If it's mostly what?
+Rachel Ayotte
+--
+William Blair -- Analyst
+Resonating with new customers.
+Spenser Skates
+--
+Chief Executive Officer and Co-Founder
+Oh, it's a big play on existing customers. So, I mentioned that out of the 20 folks at our customer advisory board, all 20 were interested in some capabilities beyond analytics. For some, that was CDP, for some that was experiment. For some, that was what we had on session replay.
+And so, yeah, we see huge growth potential within our existing customer base by allowing them to use the full suite of software, not just the analytics portion, and consolidate existing point players. So, the wall-to-wall deployment was a great example of that. Midjourney was another great example of that where they bought the whole suite out of the box. So, we're seeing it both with our existing customers and with new ones.
+Rachel Ayotte
+--
+William Blair -- Analyst
+Awesome. Just to follow up on that. Is there any other changes you need to make on the go-to market motion to improve the cross-sell? Is it more just waiting for those recent changes to continue materializing?
+Spenser Skates
+--
+Chief Executive Officer and Co-Founder
+I mean, there's -- you know, we're continuing -- I think there's quite a bit of education of the team that we're working on. So, we've done things like training on some of our new offerings, including experiment. We trained on experiment a quarter or two ago. We're training on CDP now.
+When we do a launch of session replay, we're going to have to train the field on that. And so, then from there, customers will have to understand we have these and then adopt them when the right point and time comes in their buying cycle. So, you know, obviously it's not just you flick a switch and then all of a sudden, the entire customer base adopts. It's a whole process.
+But we're well underway with it. And the thing I'm excited about is just it's very promising. Almost -- I was just talking with our president, Thomas, who came back from Asia for a two-week trip out there, and every single customer he talked to was interested in one of the new offerings. So, it's just -- I think, again, a lot of validation of our thesis on the category convergence, a lot of validation of our ability to upsell them.
+Now, we actually have to go and do it. But the, the all the ingredients are there.
+Rachel Ayotte
+--
+William Blair -- Analyst
+Great. Thank you.
+Yaoxian Chew
+Great. Next question from Taylor McGinnis, followed by Michael Vidovic from KeyBanc. Taylor from UBS. Go ahead, please.
+Taylor McGinnis
+--
+UBS -- Analyst
+Yeah. Hey, Spenser, Criss, thanks so much for answering my question and taking the time. The first one is just if I look at the gap between annualized revenue and ARR, it looked like it narrowed a bit in the quarter. And then, also, if I look at CRPO and total RPO, I think those were both down sequentially.
+So, was there any deterioration that you might have seen in terms of like macro or maybe there was something on the churn side with a larger customer that might have explained some of that at the end of the quarter?
+Criss Harms
+--
+Chief Financial Officer
+Well, on the -- on taking the annualized revenue of where we finished June 30th and dividing it by four and adding $3 million in change, it's usually a pretty good proxy for what our Q3 revenue is going to be, even though I explicitly guided it and similar mechanics are in play for Q4. Taking our September 30th ARR divided by four and kind of adding $3 million for the for the overages and pro services that we do retain. That's probably a pretty good proxy to kind of validate that and really rationalize the relationship between the ARR and the revenue. As it pertains to the role of RPO, that's definitely a reflection of the second half of the year having a smaller renewal base.
+It has a reflection of those multiyear contracts kind of weaving their way through. It's just the mechanics of the RPO timing, both from a total RPO, kind of a current RPO as those one-year contracts, again, are more concentrated in the first half of the year. I wouldn't read anything more on the RPO than just those mechanics of the cyclical nature between H1 and H2.
+Taylor McGinnis
+--
+UBS -- Analyst
+Perfect. And then, Criss, on -- I know you talked about the level of renewals being pretty similar over these next couple quarters, but just in terms of the composition of them and hope you can give a little bit more color there. So, as we think about what could happen to optimization levels versus what we've seen, any thoughts that you can give on, you know, the level of VC-backed companies that might be in that, some of the more challenged verticals, how that looks for larger customers versus smaller customers? Anything composition-wise that you could share?
+Criss Harms
+--
+Chief Financial Officer
+Well, the composition points that we've been discussing is, is those are the multiyear and that those were the ones that had the highest kind of natural inclination for some resetting and some optimization. And that the levels we have for Q4 is relatively commensurate with where we've been in Q3 and Q2, is relatively commensurate with where we will be in Q2, and that will then drop off fairly considerably when we get into [Inaudible] next year. As it pertains to kind of the other slices, I haven't really given more on those other than to give you the flavor of, you know, I can lean very heavily or much more heavily on the work that Thomas, Dan, Nate, and team have done around our operational rigor and having much more clarity about -- within those risk profiles, much closer to the accounts, up and down a larger stack, to be much more precise on our trend forecasting, which is one of the other things I tried to allude to. I've been really proud of how precise our internal outlooks have been for the last couple of quarters, and I expect that they will continue for the next few quarters.
+While it's a large number, my cup half full is at least we're -- we have great visibility into that larger number and some of the composites around it, but I haven't shared more than that.
+Taylor McGinnis
+--
+UBS -- Analyst
+Awesome. Great. Thanks for taking the questions.
+Yaoxian Chew
+Great. Our final question comes from Michael Vidovic from KeyBanc. Michael, go ahead, please.
+Michael Vidovic
+--
+KeyBanc Capital Markets -- Analyst
+Hi, and thanks for taking my questions here. Just a couple of quick ones on the CRPO. [Inaudible] following up on that question. I guess, would you expect the metric to, call it, continue decelerating into next quarter? Or is that just more of an anomaly called this quarter? And we should see stabilization near term?
+Criss Harms
+--
+Chief Financial Officer
+I would expect in the February that it'll continue to be what you would characterize as a deteriorating number, but then I would expect it to pick back up in the March 31st and the June 30th numbers, just reflective of those contracts kind of getting set. That's the cyclical nature that I'm trying to refer to as it pertains to the CRPO and RPO in general.
+Michael Vidovic
+--
+KeyBanc Capital Markets -- Analyst
+OK. And then just with the launch of Amplitude Plus, I guess, do you see any risk around maybe customers that might have been on your traditional call enterprise plan, moving down to that, I'll call it, starter tier on a lower price point?
+Criss Harms
+--
+Chief Financial Officer
+So, in absolute terms, we do expect some that are on our growth plans to potentially move down. We try to do the analytics to support that. But Thomas and I were very clear on, this is absolutely the right thing for the company. It's going to enable for all the reasons that Spenser laid out.
+And then one of the points that we made in the prepared remarks, but we haven't really elaborated on it in the Q&A, is it does really free up a significant portion of the sales team that has been serving that into the market in a direct selling motion, and frees their time to focus on those that have the high potential ARR. There's a really big difference between closing a $40,000 account and that may be $50,000 at its maximum, and a $40,000 account that has the potential to get to $200,000 or $400,000 or over a million. And our ability to profile and identify that latter target customer, that's a lot of the work that we've been doing for the last couple of quarters. And so, I'm very energized by what we're doing, have conviction around working, and our ability to just drive incremental growth because of the focus of not having chased what I think are smaller, less potential ones, I think, is a big part of our success criteria.
+Michael Vidovic
+--
+KeyBanc Capital Markets -- Analyst
+Great. Thanks, guys.
+Yaoxian Chew
+Thank you so much. And with that, I'm seeing no further questions in queue. We'll be at the D.A. Davidson Technology Summit and UBS Global Technology Conference in November, and the Scotiabank Global Tech Conference in December.
+Details will be posted on our IR website. Thank you for attending our Q3 earnings conference call. You may now disconnect.
+Spenser Skates
+--
+Chief Executive Officer and Co-Founder
+Thank you, everyone.
+Duration: 0 minutes

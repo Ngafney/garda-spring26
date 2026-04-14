@@ -1,0 +1,344 @@
+Operator
+Greetings. Welcome to DoubleVerify's first-quarter 2023 financial results conference call. At this time, all participants are in in listen-only mode. A question-and-answer session will follow the formal presentation.
+[Operator instructions] Please note, this conference is being recorded. I will now turn the conference over to Tejal Engman, Investor Relations. Thank you. You may begin.
+Tejal Engman
+--
+Senior Vice President, Investor Relations
+Good afternoon and welcome to DoubleVerify's first-quarter 2023 earnings conference call. With us today are Mark Zagorski, CEO, and Nicola Allais, CFO. Today's press release and this call may contain forward-looking statements that are subject to inherent risks, uncertainties, and changes, and reflect our current expectations and information currently available to us, and our actual results could differ materially. For more information, please refer to the risk factors in our recent SEC filings, including our Form 10-Q and our annual report or Form 10-K.
+In addition, our discussion today will include references to certain supplemental non-GAAP financial measures and should be considered in addition to, and not as a substitute for, our GAAP results. Reconciliations to the most comparable GAAP measures are available in today's earnings press release, which is available on our investor relations website at ir.doubleverify.com. Also, during the call today, we'll be referring to the slide deck posted on our website. With that, I'll turn it over to Mark.
+Mark Zagorski
+--
+Chief Executive Officer
+Thanks, Tejal, and thank you all for joining us today. I am excited to discuss our strong first-quarter performance and optimistic outlook for the rest of the year. We started 2023 laser-focused on a few key areas: first, on launching innovative, outcome-driving products anchored in our deep expertise and legacy investments in machine learning and data science; second, scaling our independently accredited core verification solutions across leading social and CTV platforms; and finally, expanding our partnerships with large advertisers and preeminent digital ad platforms around the globe. On all three fronts, we can confidently state that we are executing ahead of our expectations.
+In the face of a challenging macro environment, our performance remains resilient due to the efficacy and utility of our solutions and the deep trust we have built with all of our stakeholders as an unbiased, independent, analytics engine committed to making the digital advertising ecosystem stronger, safer, and more secure. This steadfast vision continues to be DV's north star, core to the value we deliver and proven to generate exceptional ROI for our customers and partners. Our first-quarter results exemplify the impact of this commitment when it is embraced and powered by a passionate group of DV team members in 21 locations around the world. We grew first-quarter revenue by 27% year over year to $123 million, exceeding the top end of our guidance and significantly outpacing the growth rates of both the digital ad industry and our competitors.
+We saw strong, sustained, and broad-based demand for DV's solutions with each of our three business lines delivering double-digit growth. Advertiser demand for both our premium-priced Authentic Brand Suitability programmatic solution and our social measurement solutions continues to grow, resulting in strong business expansion with existing customers and new customer wins. We won numerous RFPs in the first quarter, representing meaningful expansions with existing clients, including Merck adopting DV measurement and ABS in 60 international markets, Airbnb making the DV Authentic Ad its measurement currency in multiple LatAm markets, and Amazon Prime Video deploying DV's proprietary precampaign activation and post-campaign measurement solutions on YouTube. On the customer acquisition front, in addition to previously announced Q1 wins, including Air France and Swarovski in EMEA and Mattress Firm in the U.S., we closed additional new logos in the first quarter, including Evoke Health and NY Presbyterian in the U.S.
+Daikin in APAC, and the Public Investment Fund of Saudi Arabia in the Middle East. Our win rate across all opportunities remained above 80%, with 67% of our first quarter wins being greenfield, which we define as wins where the advertiser wasn't using third-party tools for the business that DV won. This steady rate of greenfield wins exemplifies the underpenetrated TAM that DV continues to benefit from. These new client wins play into our successful land-and-expand strategy through which we grew the number of advertiser customers generating more than $200,000 over the last 12 months by 31% in the first quarter.
+With 45% of our top 700 customers using less than half of our key products in 2022, the opportunity to expand within our existing customer base remains significant. Our acquisition strategy also continues to pay dividends when it comes to client growth. By focusing on M&A that accelerates our product road map, adds complementary new technologies, and expands new local market coverage, we create growth opportunities across the DV portfolio and drive measurement currency ubiquity. Since integrating our acquired social activation tools at the beginning of 2022, over 65 new customers have activated DV's pre-campaign social solutions on YouTube and/or on Meta.
+Newly acquired resources helped drive growth across our international measurement customer base with over 60 new customers activating the DV Authentic Ad in EMEA since the fourth quarter of 2021. DV continues to outpace the industry and gain market share due to three key differentiators: our rapidly growing scale, our industry-leading innovation, and the deep level of trust we have built with our customers as an unbiased and independent partner. Beginning with innovation. DV's innovation engine is fueled by the unparalleled scale and ubiquity of the data we capture and which is brought to life by the proprietary data science that drives our machine-learning technologies.
+AI, and the machine learning that powers it, have become buzzwords with little explanation of how they drive differentiation and build advantages for the companies that leverage them. Let's discuss how this works for DV. Head-to-head tests show that DV's ML-supported pre-bid brand safety and suitability solutions consistently drive greater reductions in post-bid block rates than our competitors' solutions do. We believe this is due to our differentiated and proprietary text and video classification technologies that leverage sophisticated models that have been built and trained over the last decade.
+The same is true for our fraud verification capabilities. The DV Fraud Lab consists of dedicated data scientists, mathematicians, and analysts from the cyber fraud prevention community, who have developed and trained DV's proprietary algorithms, making them incredibly effective at identifying millions of bot and malware devices daily. The growth of AI also may also have an interesting impact on the utility and opportunity for our product suite as an increasing number of advertisers are wrestling with their approach to AI-created content and their comfort with having ads associated with it. DV currently identifies low-quality content that may be algorithmically generated and is working with clients to determine how we evolve classification to meet their new demands.
+The data science rigor that powers our AI models is best-in-class, extending from contextual classification to fraud detection, and now to attention. Today, DV offers the industry's most robust cross-platform attention solution, which uses impression-level data, not limited to panels, to measure 50 unique data points related to the exposure and engagement of ad impressions that are first verified as viewable by DV's industry-accredited standards. Last week, we were thrilled to make the leap from attention to action by launching the DV Universal Attention segment, the industry's first automated attention optimization solution for programmatic media buying. Powered by DV's global attention data, our pre-bid universal attention segment enables brands to improve performance by optimizing away from low-attention environments without sacrificing scale and reach.
+Across numerous leading DSPs, any advertiser can activate DV's Universal Attention segment, including those that use our competitors' measurement solutions, not only creating a vast, long-term activation opportunity but also unlocking a large measurement upsell opportunity down the road. Speaking of measurement, DV Authentic Attention measurement continues to gain momentum with first-quarter test volumes doubling and campaign activations tripling year over year. Nearly 80 advertisers have activated DV Authentic Attention campaigns so far in 2023, exceeding the number of advertisers that activated campaigns in all of 2022. Our pioneering work in attention goes beyond thought leadership.
+DV has real attention solutions that are at the forefront of driving attention as a currency and generating real results for our customers in the market today. Let's move on to one of DV's most successful and important product innovations, Authentic Brand Suitability. Since its release in 2018, we've significantly enhanced the value ABS delivers through the release of new performance-driving functionality including brand suitability tiers, CTV exclusion and inclusion lists, page exception lists, a new content avoidance categories that outstrip any competitive offering. On the heels of our successful price bifurcation for our standard programmatic products in 2022, we have also started to implement a bifurcation of ABS' pricing by introducing a higher rate for ABS video while maintaining the original price for display.
+ABS revenue grew 56% year over year in the first quarter, driven by a 55% increase in volume and a 1% increase in price. Our ability to raise prices, even on our premium-priced products, while continuing to deliver strong volume growth, speaks to the value our solutions deliver to our customers and the long-term potential for DV to evolve toward a more value-based pricing model, particularly for higher CPM media such as CTV. On top of these great revenue-generating innovations, DV continues to launch self-service automation tools like Campaign Automator and Pinnacle 2.0, our upgraded client UI, which lower client overhead to employ DV solutions, making it easier than ever to efficiently drive results across a client's full portfolio of brands. With our next differentiator, scale, let me begin with social measurement, which delivered 33% year-over-year volume growth in the first quarter.
+Our social revenue growth in dollar terms was led by advertisers leveraging our solutions on Meta's platform, which generates almost half of our social measurement revenue, followed by YouTube applications, and then DV tools on TikTok. Existing social customers such as Mondelez and Airbnb expanded their use of DV's social solutions on Meta and YouTube and activated the Authentic Ad on TikTok for the first time, with new logo wins also contributing to social measurement growth. Our customers are rapidly activating the DV Authentic Ad on TikTok where we have doubled the number of customers year over year and have grown TikTok's first-quarter revenue contribution by over 50% compared to the fourth quarter of 2022. In fact, we generated nearly as much TikTok revenue in Q1 as we did in full-year 2022.
+With TikTok supporting their badged measurement partners' brand safety and suitability expansion to nearly 45 markets, we are scaling our coverage across key English, Spanish, French, and Portuguese-speaking markets this year, with a focus on maximizing market coverage for our top advertiser customers. As a badged Meta business partner, we value Meta's ongoing commitment to providing advertisers with transparency through brand suitability controls and verification. We are excited to begin expanding our offerings over the coming months and remain in consultation with Meta for brand suitability verification and measurement solutions on the feed which will complement our viewability and invalid traffic solutions, enabling further expansion of DV's Authentic Ad coverage to an even broader array of consumer engagement. Turning to CTV scale.
+We grew CTV measurement volumes by 39% in the first quarter, outpacing the 14% CTV revenue growth rate expected of the industry in 2023, according to IAB research. We launched viewability verification and fraud protection coverage on Netflix's ad-supported plan, with DV's verification on Netflix now available in 12 markets globally. CTV remains a strong differentiator for DV due to our comprehensive coverage, industry-leading solutions, and proprietary ability to identify CTV fraud. Only DV covers all of the platforms that receive the majority of CTV ad spend, and our industry-leading solutions span all aspects of CTV, from prebid avoidance to post-bid blocking and monitoring.
+Most importantly, we believe no other company has made as comprehensive as an investment in people, infrastructure, and partnerships to ensure that CTV transactions are fraud free. Let me wrap up on scale with a focus on our international business expansion, where we delivered 26% year-over-year measurement revenue growth in the first quarter with both the EMEA and APAC regions exhibiting double-digit growth. Since the beginning of 2021, we've nearly doubled our international sales, marketing, and client services headcount, including appointing several new country leaders to cultivate local business. With approximately 170 commercial personnel in EMEA and APAC and a market growth plan that includes opening five new international markets which will expand DV's commercial footprint to 26 locations by year-end, we couldn't be more excited about our prospects outside of North America in the coming years.
+A great example of the payoff of our increased international investments is the deal we recently closed with the TBS Television Network in Japan, a news site owned by 28 Japan News Network TV broadcasting companies. TBS has adopted DV's Publisher Suite, an analytics and automation solution that comprehensively supports ad quality control and revenue analysis for publishers and media companies globally. Our final differentiator is trust, which underpins our relationships with advertisers and platform partners and is core to the value we deliver to the digital advertising ecosystem. DV has a comprehensive suite of accreditations and certifications and has never lost an international accreditation or had one revoked.
+Our globally recognized TAG certifications and MRC accreditations demonstrate DV's commitment to innovation and delivery against the highest possible industry standards. This trust extends to how we approach privacy and data management as well. DV was recently ranked in the top 1% of over 1,600 data providers scored by Neutronian in their latest transparency ratings report and has renewed its Neutronian Cookieless Certification badge, which provides marketers with verification that the certified data provider is future-proofed for the deprecation of third-party cookies. Our concerted action to uncover and publicize sophisticated global fraud schemes that attempt to siphon millions of dollars of ad spend across industry channels cements our position as a trusted partner acting in the best interests of our customers and the industry.
+Aggressively unearthing fraud is core to DV's mission, and the basis upon which any advertising outcome should be measured. Last year, DV's Fraud Lab detected and mitigated dozens of fraud schemes and variants, with new fraud schemes more than doubling over the last two years. This year, DV uncovered BeatSting, an audio fraud scheme, and partnered with Roku to expand its Watermark technology to uncover many more fraud use cases, including sophisticated user spoofing that creates fake impressions. This was the case with SmokeScreen, a fraud scheme that DV identified that continues to generate more than 300 million ad requests and siphons over $6 million monthly from unprotected advertisers and publishers.
+Trust isn't only about accreditations or reports; it's about people and relationships. Since the day I joined nearly three years ago, my drive has been to build a powerful, diverse, and stable leadership team made up of the most innovative, customer-centric minds in the space. Our transparent commitment to a clear common goal has allowed us to attract the best talent who become a consistent voice to all of our stakeholders, engendering trust across the advertising ecosystem. Driven by a common mission and belief in our long-term vision, our team sticks together, and based on our 95% gross revenue retention rate over the last 3 years, they are a big factor in why our clients stick with us too.
+To conclude, while we often talk about how scale, innovation, and trust are our three key differentiators, execution is arguably the most critical to the success of any business. DV continues to win because we execute better, period. Our ability to successfully innovate drives better product performance that helps win new clients which, in turn, provides the data fuel that powers a flywheel that ultimately grows our business. We are pleased with the strong start to the year and remain laser-focused on growing and realizing our solid pipeline of new and expansionary deals that will further drive our market share and create an even stronger long-term growth trajectory.
+With that, let me hand the call over to Nicola.
+Nicola Allais
+--
+Chief Financial Officer
+Thanks, Mark, and good afternoon, everyone. We're pleased to have delivered strong revenue growth and profitability in the first quarter. The outperformance relative to our expectations was primarily driven by stronger-than-expected measurement growth, which gives us the confidence to raise our full-year 2023 revenue and adjusted EBITDA guidance. Total revenue grew 27% in Q1 2023 to $123 million, primarily driven by advertiser revenue growth of 28%, which continues to be volume led.
+In the first quarter, MTMs were up 25% year over year, while MTFs grew 3% year over year. Activation revenue continues to be driven by our premium ABS programmatic solution which is now in its fifth year since launch. ABS delivered 56% revenue growth and comprised 56% of activation revenue compared to 48% in the prior-year period. As Mark mentioned, ABS volumes were up 55% and the ABS fixed fee was 1% higher as we rolled out bifurcated ABS pricing for display and video impressions, following the implementation of a similar price bifurcation for our standard programmatic products in the first quarter of last year.
+The ABS price bifurcation was assumed in our original full-year 2023 guidance. Most of ABS' first-quarter growth came from volume expansion by existing customers who continue to deploy this industry-leading solution across additional markets. Turning to measurement. Revenue grew 22% driven by existing customer expansion on social and by the ramp of new enterprise customers that we signed last year.
+Social measurement growth was led by Meta and by TikTok, which almost achieved its full-year 2022 revenue contribution in the first quarter alone. International growth of 26% in the first quarter outpaced overall measurement growth and now represents 26% of total measurement revenue. Supply side revenue grew 15% driven in particular by continued platform revenue growth from Amazon and LinkedIn. Shifting to expenses.
+Cost of revenue increased by approximately $7 million, primarily due to higher costs from revenue-sharing arrangements with programmatic partners tied to higher programmatic revenue, and also due to an increase in cloud services costs. Revenue less cost of sales of 80% in Q1 '23 is expected to remain relatively stable for the remainder of the year as we continue to invest in scaling the infrastructure needed to support our growth. First-quarter research and development expenses increased due to investments in AI and machine learning engineering resources. Sales and marketing and G&A expenses combined remained relatively stable year over year as our growing scale is driving leverage on these two operating expense lines.
+Adjusted EBITDA of $36 million in Q1 '23 represented a 29% margin and was ahead of plan due to higher revenues, as well as a slower pace of hiring, which we expect to accelerate in the second quarter. Net operating cash flow was $21 million, primarily driven by higher year-over-year net income and stronger cash collections. We ended the quarter with nearly $286 million in cash on hand and continue to have zero debt outstanding. Turning to guidance.
+We expect second-quarter revenue in the range of $131 million to $135 million, which implies year-over-year growth of 21% at the midpoint. The sequential growth implied by our revenue guidance reflects a tough comparison with the second quarter of 2022 when large new advertisers significantly ramped their revenue contribution and when the standard programmatic price bifurcation was fully rolled out. We expect second-quarter adjusted EBITDA in the range of $37 million to $39 million, which implies a 29% margin at the midpoint. For the second quarter, we expect stock-based compensation to range between $14 million and $16 million, and weighted average diluted shares outstanding to range between 171 million and 173 million shares.
+For full-year 2023 guidance, we expect revenue in the range of $557 million to $569 million, which implies year-over-year growth of 24% at the midpoint. And we expect adjusted EBITDA in the range of $171 million to $179 million, which implies a 31% margin at the midpoint. We have raised full-year revenue and adjusted EBITDA guidance due to a stronger first-quarter performance and an expectation that the positive business trends, particularly in measurement, will continue. We expect full-year adjusted EBITDA margins of 31% due to the strength in first-quarter profitability while reflecting our plan to continue investing in hiring engineering and sales talent, enhancing machine learning capabilities, and further building out the IT infrastructure to support our growth.
+On a sequential basis, we expect the third quarter to represent a little less than 25% of full-year revenue, and we expect third-quarter adjusted EBITDA margins to remain consistent with the second quarter. To close, we delivered a strong first quarter with double-digit revenue growth across all of our business lines and are focused on successfully executing against our plan for the rest of the year. And with that, we will open the line for questions. Operator, please go ahead.
+Questions & Answers:
+Operator
+Thank you. [Operator instructions] Our first question is from Michael Graham with Canaccord Genuity. Please proceed.
+Michael Graham
+--
+Canaccord Genuity -- Analyst
+Hey, congrats on the -- on the strong numbers. I just wanted to focus in on the international measurement growth for a minute because, you know, the last couple of quarters, that growth rate had really slowed down and you accelerated to 26% growth this quarter against a tough comp in Q1 of last year, 40% growth. So, yeah, really just wanted to hear a little bit more about how you're achieving that sort of growth rebound internationally.
+Mark Zagorski
+--
+Chief Executive Officer
+Thanks, Michael, for the question. And we're really pleased with the progress that we've made in -- in the markets outside the U.S. EMEA grew at 23% year over year for the quarter, APAC at 31 %. And I think a lot of that had to do with something we've been talking about for the last few quarters, which was our continued investment in commercial resources outside of the U.S.
+and then a commercial reorg which we started at the beginning of last year, which really started to, you know, close up at the end of the year. Those two things gave us a lot of confidence in the fact that we had the right people in the right places outside the U.S. and they had the right mission in front of them. Because of that, you know, we saw a really strong pipeline coming out of Q4, which we mentioned earlier this year in our first call.
+That pipeline really came to fruition in Q1. So, it was a lot of hard work by our teams. It was a lot of investment in people and in planning and ultimately it turned into just better sales -- better sales and better pipeline and that pipeline came -- came to bear in Q1 of this year.
+Michael Graham
+--
+Canaccord Genuity -- Analyst
+OK. Thanks for the color, Mark.
+Mark Zagorski
+--
+Chief Executive Officer
+You got it.
+Operator
+Our next question is from Arjun Bhatia with William Blair. Please proceed.
+Arjun Bhatia
+--
+William Blair and Company -- Analyst
+Hey, guys, thanks and congrats on the strong quarter here. I noticed you were optimistic. You raised your full-year guide, obviously, and you called out, I think, optimism on the measurement side of the business. One, can you just talk about what makes you confident in raising guidance for the year? And what are you seeing in measurement specifically that's giving you -- that's making you optimistic on the rest of the year here?
+Mark Zagorski
+--
+Chief Executive Officer
+Thanks. Thanks for the question, Arjun. You know, we've always said that kind of measurement in the core measurement business was the -- was the backbone or the workhorse of the business. And a lot of our success there is related to what I mentioned to the question from Michael, which was, you know, investment in sales resources and sales planning and reorganization of that sales team.
+Those are the guys that go out and close the deals. And measurement, as you said, is kind of core to spinning that flywheel, like we say, of upselling into programmatic, upselling into performance solutions. So, when that base hits, it's great news for us for the year. I wouldn't -- I wouldn't totally equate it to a SaaS business where they get a big chunk of their -- their meat up front and they know what the years look like.
+But we know measurement customers, when they buy in, they buy in and stick, and that sticks with their -- their spend throughout the year. So, you know, I think we've got confidence in the fact that those customers that have come in, our measurement customers, those dollars are not as fluid as activation dollars which tend to move with programmatic spend. So, that gives us a -- you know, a good amount of confidence that, yeah, we're in the right place where we need to be to raise the guide for the year, and we've got a good basis from which to do so.
+Arjun Bhatia
+--
+William Blair and Company -- Analyst
+Perfect. Thanks, Mark. That's very helpful. And then, I wanted to touch on attention.
+It seems like that product is starting to get some good traction here. Are we crossing the chasm with that solution? And maybe just we'd love to hear how you think the prebid capabilities that you launched with universal attention might help advance some of the adoption of this attention solution here.
+Mark Zagorski
+--
+Chief Executive Officer
+Yeah, I think it's a great question. And we do talk a lot about attention. I think -- I don't know if we call it a chasm, but let's call it a mountain to climb. And, you know, we're -- we've -- we've started making our way up that mountain, and I think we're getting some good traction.
+You know, we saw two times the volumes of tests year over year, two times the volume of revenue in Q1 year over year, you know, three times the volume of campaign blueprints in attention. So, it's -- we're getting there, right. The scale is getting there. I think a big part of it, and I think we also mentioned this on our last call, was, you know, we love the -- we love the value prop of having pre-bid and post-bid work together.
+We've seen the power of that with our core verification solutions. We've seen the power of that with ABS working with measurement. And I think the -- the ability for us to kind of grow the attention category as a whole I think will also benefit from having pre-bid and post-bid working together. So, you know, I think we always say it's still early days even though it's been a long period of early days.
+But as the industry catches up with standardization and those things get locked in, and even as competition gets greater, I think, you know, competition is OK in this space because it actually kind of justifies, you know, the idea that attention matters and attention matters to advertisers. We're going to see more traction there. So, we love the introduction of a pre-bid solution. We think that's going to help drive that optimization cycle.
+And, you know, this is just the beginning for pre-bid on attention. We think there's an evolution of that to an even more powerful solution on the pre-bid side, the same way we evolved standard brand safety and brand suitability and to authentic brand suitability, which is, arguably, now still one of our most powerful products. I think we've got a long way to go, but we're taking those steps one by one. And the introduction of really the first scaled optimization pre-bid attention segment out there is a great step toward that.
+Arjun Bhatia
+--
+William Blair and Company -- Analyst
+Thank you, Mark, and congrats again on the quarter, guys.
+Mark Zagorski
+--
+Chief Executive Officer
+Thank you.
+Operator
+Our next question is from Justin Patterson with KeyBanc Capital Markets. Please proceed.
+Justin Patterson
+--
+KeyBanc Capital Markets -- Analyst
+Great. Thank you. Two questions. I'll do the first and then follow up after.
+I just wanted to touch on ABS. You know, it's been your biggest solution, five years in launch, and now still growing 56%. I think most of that was driven by volume this quarter. Just talk about how you see that volume expansion potential from -- from existing customers going forward.
+And then -- well, there and go for my follow-up after.
+Mark Zagorski
+--
+Chief Executive Officer
+Yeah, you know, look, ABS continues to be a real powerhouse for us. As you noted, a majority of the growth that we had from ABS, the revenue growth came from existing customers this quarter. You know, 94 of our top 100 customers are using ABS right now in Q1. So, what that shows to me is that, even with pretty significant penetration in our top 100 customers, to be able to grow at a 56% year-over-year growth rate means ABS works, clients are using it in more markets, they're using it across more brands, and, you know, it still got legs.
+So, we continue to lead with our programmatic solutions in many pitches. We continue to have opportunities below the top 100 clients to continue to grow. And, you know, we think ABS is going to continue to drive growth for us even after, as we noted, a price bifurcation in which we raised the price on video. We saw very little friction from that price increase.
+So, it not only shows the utility of the product, but the value that we're creating for advertisers to show that growth.
+Justin Patterson
+--
+KeyBanc Capital Markets -- Analyst
+Great. Thanks. And then, for the second question, I wanted to touch on social measurement a bit more. Meta and TikTok almost achieving their '22 revenue contribution in just the first quarters, very impressive.
+We'd love to hear more about just how you're thinking about social progressing in the year and whether that could actually turn into a channel that brings net new advertisers into the broader DV ecosystem. Thank you.
+Nicola Allais
+--
+Chief Financial Officer
+Yeah, Justin, I'll take this one. So -- so, just to clarify, it is TikTok revenue that achieved all of '22 revenue in Q1 '23. That is a much larger base than we've had products with Meta for a much longer period of time. But, you know, your points around social are the right ones.
+We -- we were very pleased with how -- how strong the uptake is on the TikTok product. It is now already our third-largest social platform. It remains small if you compare it to Meta and YouTube, but it is an indicator that, you know, our products are really resonating in the -- in the social channel. So.
+it was about 38% of our measurement business in the quarter, and that was up from where it was last year. So, you know, we felt very strongly that we will continue to see traction on the social walled gardens as we -- as we continue to put more products out there and going to new markets.
+Mark Zagorski
+--
+Chief Executive Officer
+And I'll throw one other point there, too, Justin, which is, you know, you mentioned does it have the ability to attract new customers. You know, in Q1, it certainly did because 40% of our revenue growth was from new customers in the quarter, in social -- social measurement growth, that is. That was from new customers. And, you know, it was folks like Mars, Paramount, Bumble, Firestorm , ConAgra, big brands who are activating across social.
+TikTok is certainly helping on that front because people are moving there. So, again, social is a place that we're going to feel very comfortable, continuing to focus on growth there and we'll continue to invest as well.
+Justin Patterson
+--
+KeyBanc Capital Markets -- Analyst
+Thank you both.
+Mark Zagorski
+--
+Chief Executive Officer
+OK.
+Operator
+Our next question is from Andrew Boone with JMP Securities. Please proceed.
+Andrew Boone
+--
+JMP Securities -- Analyst
+Hi, thanks for taking my questions. Mark, you took the EBITDA guide up a point, and earlier, you mentioned the investments that you made last year in International. I guess my question is, are you now to scale with resources that you can let more upside flow through to EBITDA and profitability? And then, for my second, you guys mentioned 45% of the top 700 clients are using less than half of the key products in 2022. Can you just talk about that upsell cycle? What's left that you guys really want to push as you think about '23 and '24? What do you think is the low-hanging fruit from here on the -- on the upsell? Thanks so much.
+Mark Zagorski
+--
+Chief Executive Officer
+Sure. I'll take the second half of that question and let Nicola take the first half. Anything that says EBITDA, I put the CFO who's much better in those numbers. But when we look at the upsell cycle, and you're right, we've got still a pretty decent amount of product upsells to make across the board.
+You know, we talk about ABS, although ABS is some pretty high penetration in our top 100 clients, we still got a lot of room in our next, you know, several hundred to go after. And that's always going to be our first go-to when we look at the upsell cycle, is move anybody who's using standard brand safety or brand suitability to ABS, right? So, I think that's -- that's a big one. The second one is when we look at social. Social measurement continues to be, you know, a great growth engine for us, but we look at social as a separate category.
+So, just because you're doing measurement for us in the open web, or even using programmatic on open web, doesn't mean you're a client that's using us for measurement on social. So, when we think of, like, the first two things we're going to walk into a customer to do and we're going to upsell, it's going to be ABS and then social. And I think we've got room on both of those products as we look at, you know, the potential upsell, plus we know that they're both great margin drivers for us, great growth drivers for us, particularly in opportunities outside the U.S.
+Nicola Allais
+--
+Chief Financial Officer
+Yeah, in terms of EBITDA margins and expectations and how we -- how we think about it for the -- for the future of the business, you know, we did have a strong first quarter around profitability. I think the numbers that make us feel very strongly that we have, you know, a business that can scale is really where the investments were. So, we were able to essentially have, virtually, year-on-year flat on sales and marketing and G&A. And we've spoken about the fact that we've already invested in SG&A in prior years.
+And in a quarter where, for example, you see 26% growth in international, it's not as though we had to invest additional resources to achieve that growth. So, there is inherent scale coming from those two lines as we become a larger company. However, we are continuing to choose to invest in R&D. That is the one area where you will see growth in investments year on year, and that is specifically around data scientists to allow us to go deeper into AI, machine learning investments.
+These are not brand-new investments. We've been doing it for many years already, but the opportunity there to continue to invest is -- is available to us, and we're going to do it because it's going to accelerate our product road map. So, it's a long way to say we are choosing to continue to invest. Our EBITDA margin is still very healthy, but we are already seeing the benefits of this scaling of our business in sales and marketing and G&A.
+Andrew Boone
+--
+JMP Securities -- Analyst
+Thank you.
+Nicola Allais
+--
+Chief Financial Officer
+Sure.
+Operator
+Our next question is from Mark Murphy with J.P. Morgan. Please proceed.
+Mark Murphy
+--
+JPMorgan Chase and Company -- Analyst
+Thank you so much, and I'll add my congrats. Mark, I wanted to ask you, the win rates remain very high. Can you refresh us on the role of accreditations, through that lens just to help you win business? And how wide is the gap today in the accreditations between DoubleVerify and if we compare that to the No. 2 and No.
+3 competitors? And then, I have a quick follow-up.
+Mark Zagorski
+--
+Chief Executive Officer
+Yeah, I mean, look, accreditations are definitely part of the matrix of -- of elements that go into the decision process for an advertiser. It's an important one, as is customer service and customer support, as is pricing. But probably still the most important one is the performance of the platform, and that's where we continue to lean in. That's why technology expens is such an important one for us to keep investing in because when those platforms go head to head, you know, we've said this time and again, whichever platform delivers the highest ROI by filtering out the most fraud, by creating the greatest level of brand granularity, brand suitability, granularity is the one that's going to win.
+And I think that's driving a great win ratio for us. But when it does come to accreditation, I mean we look at the number across the multiple different organizations that are out there. You know, our best estimate is we're anywhere from 50% more different accreditations to almost double depending it's -- it's hard to find it. There's lots of different places where people have accreditations in different countries, but we certainly outpace our competitors by a significant amount in that space.
+Mark Murphy
+--
+JPMorgan Chase and Company -- Analyst
+OK. And then, as a quick follow-up, what are you discovering in terms of viewability in the CTV realm? What I mean is, are there fewer issues because, in some cases, you have much larger screens? Or are you finding that there are more issues because you can -- you can encounter buffering or, you know, ad placement problems or, you know, some of the ad-skipping capabilities of those platforms?
+Mark Zagorski
+--
+Chief Executive Officer
+Yeah, it's a great question. I mean, you know, there's always been this assumption that, you know, CTV is 100% viewable, right? It's in someone's living room, how could it not be viewed? Very different problems than a banner ad on a web page where someone can scroll by it, or an impression on a mobile phone that gets, you know, pushed by very quickly or shut off. But there are still significant issues around viewability, and the things that we're tracking are exactly the things, Mark, that, you know -- which is does the ad run for the full first quartile, right? Does it -- did it run for that period of time that I can actually register as viewable? Does that ad, most importantly, is it running while the TV is on, which, believe it or not, becoming an increasingly significant issue for advertisers because many apps are not passing the signal that says this television is on, they're actually running ads while the TV is on either mistakenly because they shouldn't be doing that, or on purpose because they're not legitimate apps. So, viewability, the way that we measure viewability is a bit different than what you think of in the traditional web world.
+But those issues are continuing to be real issues for advertisers, which is ads not running the full extent that they should and ads running when a television screen is actually off, the box is on. The system's working, the computer is working, and it's running that -- that streaming application, but the screen's not on. So, those are issues that continue to be challenging to advertisers. And I think they're just starting to wake up to the fact that this is a real -- you know, this is really something that we should start measuring and paying attention to.
+Mark Murphy
+--
+JPMorgan Chase and Company -- Analyst
+Thank you very much.
+Mark Zagorski
+--
+Chief Executive Officer
+You got it.
+Operator
+Our next question is from Eric Sheridan with Goldman Sachs. Please proceed.
+Eric Sheridan
+--
+Goldman Sachs -- Analyst
+Thanks so much for taking the questions, maybe two if I could. In terms of the stat you gave on increasing number of large advertisers and bringing that back to potentially new logos, are there any industry verticals and/or geos you're calling out when you look at your backlog for new large advertisers or new logos that you think we should be monitoring for potential for outsized growth or areas where the backlog is showing you a lot of promise in terms of building not only for 2023 but beyond? And then, the second question would be on -- on Netflix as a platform. How much of scaling the Netflix business now as we move through '23 and out into the out year is about elements where you need to invest to sort of position you to benefit from what they build over the long term versus just them executing on simply scale of the ad-supported customers and subscribers over time, and that's where the revenue unlock is? Thanks so much.
+Mark Zagorski
+--
+Chief Executive Officer
+For sure. So, your first question, you know, the nice thing about our business, which -- which we mentioned in the past, is that we've got a pretty broad-based set of advertisers. So, if you remember, several quarters ago, there was a -- there were supply chain issues around audio delivery and broadcast delivery. So, you know, a lot of folks who are focused on those two segments had some challenges, you know, running ads because there was no reason to advertise if you couldn't sell the product to get the product in-store.
+We didn't see that because, you know, we're really nicely distributed across all the major ad segments. So, there's not one in which we can say we've seen either oversized increase or decrease over the last several quarters. We've seen growth across all of them, which is -- which has been pretty nice. With regard to Netflix, you know, it only launched a few months ago, I think March.
+And so, you know, still relatively early, but we're seeing some pretty decent volumes starting to come across that. And it is having an impact on our CTV volume. We've got customers like Molson Coors, Nintendo, Santander, Toyota that are starting to buy across and use verification across Netflix. So, there's definitely interest.
+There's definitely dollars starting to flow there. And although it's pretty early for Netflix, you know, it's pretty small. You know, we're going to be there with them for the ride, which is great, and I think it's a nice place for us to be. We're in 12 markets with them.
+That'll continue to grow and we'll continue to grow with.
+Operator
+Our next question is from Laura Martin with Needham and Company. Please proceed.
+Laura Martin
+--
+Needham and Company -- Analyst
+Hey, there, Mark, great results. My first one is on this 80% new business win you continue to get, my question is, when you go to pitch and then they try you versus your competitor, do you bundle your products so that that hit rate goes up over time? Or when you do the RFP, does it always start with a single product, so you aren't really benefiting from bundling in these -- these fabulous products that you're, you know, investing in?
+Mark Zagorski
+--
+Chief Executive Officer
+It's a great question, Laura. I wish we could bundle everything in on day one and just sell them a big package. But the -- the short answer is it definitely varies. There are clients that are looking for single solutions and we're displacing, for example, most on a viewability deal or IAS on a brand safety deal and then we grow from there.
+So, it definitely is a bit all over the board, but it still lends us to that whole kind of land and expand, right? We want to get in, get a foot in there so that we can push other solutions across. And when we say 80% win ratio, that's -- you know, that could be against a single product or it could be across a bundle or enterprise deal. So, you know, it is definitely a mix of different types of wins, but in either case, we're looking to sell them all, you know, products across our entire six categories of solutions. And I would say, in a vast majority of them, we're not going in with all six of those categories covered.
+It's some very small portion of that.
+Laura Martin
+--
+Needham and Company -- Analyst
+Super helpful. My second one is you know the thing I liked best is that you're carrying the video product for ABS. So, my question on pricing strategy is, what is the business model for attention? Is it a percent of media, or is it just an add-on to flat fee impressions?
+Mark Zagorski
+--
+Chief Executive Officer
+Yeah, it's a great question. Right now, attention is set up as a -- is a CPM-based product. So, it's very much like measurement. It's a measurement solution sold incremental to our verification.
+So, think of it as an add-on to verification that's at a relatively decent premium to -- to core measurement. So, it's a premium-priced add-on to our measurement solution today. Doesn't mean that that model may not change in the future. And, you know, especially as we start expanding attention into CTV in other places, we will certainly look at different models that may drive a different type of profile for the solution.
+Laura Martin
+--
+Needham and Company -- Analyst
+Fantastic. Thanks very much.
+Mark Zagorski
+--
+Chief Executive Officer
+You got it.
+Operator
+Our next question is from Raimo Lenschow with Barclays. Please proceed.
+Frank J. Surace
+--
+Barclays -- Analyst
+This is Frank on from Raimo. Congrats on another strong quarter today. I want to stay on those new logo wins. Is the buying decision still more driven by the ROI pitch, or have newer products and media begun to move the needle on those RFPs?
+Mark Zagorski
+--
+Chief Executive Officer
+A great question. I think ROI is what gets us in the door, right? And the -- the newer performance-based solutions are kind of, at this stage, still the icing on the cake, right? I can tell you, they do sometimes open that door for us. So, when we launched, for example, our emissions measurement solutions with Scope 3, there was this huge amount of interest in looking at the environmental impact of ad transactions. That created a dialogue which, of course, we came in and exploited to kind of, you know, sell additional solutions across the board? So -- but for the most part, you know, folks are usually looking for core solutions.
+We look to drive new implementations across those core solutions and then supplement them with our performance solutions afterwards. It's -- you know, it definitely varies across the board. And as that basket of goods gets bigger, it provides more opportunities to have, you know, conversations with our customers. And each of them has different needs.
+And that's why having, you know, a broad basis of good and broad coverage across multiple different types of platforms is so critically important to us because we just want to have a big net to capture lots of different types of opportunities.
+Frank J. Surace
+--
+Barclays -- Analyst
+Very helpful. Thanks, Mark.
+Mark Zagorski
+--
+Chief Executive Officer
+Got it.
+Operator
+Our next question is from Yun Kim with Loop Capital Markets. Please proceed.
+Yun Kim
+--
+Loop Capital Markets -- Analyst
+All right. Thank you. Congrats on a solid quarter, Mark. And just following up on a question about -- about the expansion with existing customers.
+So, you know, if you can talk about the current trend that you're seeing for the overall expansion rate for the existing customers, has that been steady or has that shown improvement in recent quarters? And also, just kind of curious if you can compare that expansion rate with existing customers, is that more product driven or is that more driven by customers simply increasing their volume and adding more channels?
+Mark Zagorski
+--
+Chief Executive Officer
+I think I'll let Nicola talk here.
+Nicola Allais
+--
+Chief Financial Officer
+Sure, I'll take it. So, I'll say the one thing that we've seen that's consistent year on year is that the -- this sort of getting in with a customer and then expanding has continued. What we -- what -- what is really at the bottom -- at the core, what's driving the expansion is obviously product upsell, but I don't want to forget geographic expansion. So, we might start with a client in one region and then expand with volume in additional regions.
+And while the growth in international that we're -- that we experienced in this quarter was partly on new wins, there is also an aspect of it which is just geographic expansion for existing customers. So, the profile of what we're seeing in terms of the expansion is a mix. It's really new products, new geographies. And obviously, as new sectors become available such as TikTok, then we're able to expand as well.
+One measure to -- to -- to maybe kind of anchor the answer is the top 200 customers. On the top 200 customers, you know, that number -- I'm sorry, on the customers that spend over 200,000 in the last 12 months, that number grew 29% in Q4, and it grew 31% in Q1 23. So, you see that, the power of the expansion on the dollars that we're getting from those customers.
+Yun Kim
+--
+Loop Capital Markets -- Analyst
+Great. And then, Nicola, I have a follow-up. On the gross margin, was there a new higher revenue-sharing arrangement that drove that big sequential uptick? Or -- and then, also, you know, just the overall increase in cloud costs, is that primarily driven by new products that require more cloud resources? Is international mix having any impact on the gross margin? Thanks.
+Nicola Allais
+--
+Chief Financial Officer
+Yeah, so what is driving the changing gross margin is a higher revenue share for the activation revenue, but it's not because the actual agreements are changing. It's just that the revenue is getting bigger. So, it's a higher revenue share just because the revenue is higher, and so it's impacting gross margin from that perspective. The -- in addition to those costs, as we said in -- in our -- in our prepared remarks, we are choosing to invest in additional cloud computing resources, which are costs are impacting the gross margin.
+This is a decision that we're making this year because we're expecting to see returns in terms of us being able to fuel more growth. So, it is a -- it is a business decision to invest into that line in addition to the fact that activation is now a larger share of our revenue.
+Yun Kim
+--
+Loop Capital Markets -- Analyst
+Awesome. Thank you so much.
+Nicola Allais
+--
+Chief Financial Officer
+Thanks, Yun.
+Operator
+Our next question is from Mark Kelley with Stifel. Please proceed.
+Mark Kelley
+--
+Stifel Financial Corp -- Analyst
+Hi. Great. Thank you very much. I wanted to go back to attention really quickly, just I want to get your thought.
+Given that there is a bunch of different methodologies that are being worked on, things like eye tracking and, you know, the method that you guys use, does that kind of extend the -- the timeline for some sort of standardization across the industry? That's the first one. And then, the second one is just on this new AI product that you mentioned. Can you dive into that just a little bit more? I guess, you know, what are the moving pieces, and how much of the current tech that you have can you reuse there? Thank you.
+Mark Zagorski
+--
+Chief Executive Officer
+Got it. It's a great question. So, first, let me -- let me address the question on the different types of ways that, you know, folks are trying to build attention metrics. I think, you know, the reality of it is methodology should not drive standardization.
+I -- you know, standards are -- standard's attention and engagement, should be seen as relatively finite metrics that can be consistent no matter how someone determines what attention is, i.e., you know, when someone's measuring reach and frequency, it's 18 to 34-year-old male is the metric, right? How you found that out is not determinant of what happens at the end. So, I think the different methodologies shouldn't slow down, you know, the standardization of the standard metrics that -- that people agree to determine how we're going to measure attention. So A, I think they can sometimes be helpful in accelerating the discussion, but at the end of the day, you know, I think the industry is going to settle on a definition that makes sense no matter what the methodology is. We believe that census and impression-level methodology is the most valid.
+It's the most robust as we saw in the, you know, the linear TV measurement world or any other world that uses panels or very small samples. They're apt to be extrapolated in wrong ways, to be misinterpreted, and many times, misapplied. So, you know, ultimately, we do feel that the most robust way of measuring attention has to do with census-level impression-by-impression measurement. Doesn't mean it can be supplemented by other types of panel-based methodology, but ultimately, we think that's the one that's going to have the highest level of effectiveness and efficiency around there. When it comes to what we mentioned regarding our new premium product, this is the first step, and it's the first baby step into taking attention metrics and launching them into the activation sphere.
+We know how successful taking a measurement metric like brand suitability or brand safety can be when put into activation, so the ability to filter and optimize and then measure afterwards. So, you know, it's a first step there, just like our first steps were with standard brand safety, and they evolved into authentic brand suitability, which is a much more fluid, much more dynamic application in the programmatic world. We think this is kind of the first step and which will evolve into a much more fluid and much more dynamic application down the road on the previews side.
+Mark Kelley
+--
+Stifel Financial Corp -- Analyst
+All right. Thank you, Mark.
+Mark Zagorski
+--
+Chief Executive Officer
+Yep.
+Operator
+And our final question is from Youssef Squali with Truist Securities. Please proceed.
+Youssef Squali
+--
+Truist Securities -- Analyst
+Great. Thank you very much and congrats on a solid quarter. So, one quick question for Mark and one for Nicola. So, Mark, it was interesting, in the press release you mentioned the market share gains across your three business lines.
+I was just wondering if you could just please remind us of the two or three products you feel -- or products that you feel you have the most kind of competitive advantage within sustainability of that edge. And then, Nicola, sorry if you mentioned this in your prepared remarks, but can you just remind us what's baked into your guidance in terms of gross margin for Q2 and 2023? Thank you.
+Mark Zagorski
+--
+Chief Executive Officer
+All right, so I'll talk a little bit about, you know, I think where we really excel in our -- in our product and our innovation. I think the first is something, again, we continue to talk about, which is ABS. There are imitators. There are other solutions out there that try to do the same thing, but no single product out there, we think, is comparable to ABS.
+And I think it shows with the continued legs and growth it has even after the numerous years it's been in market. To be able to grow at 56% year over year and Q1 is pretty exceptional. So, I think ABS is a -- is an advantage,. It helps us grow market share.
+It helps us win deals, and obviously, it helps drive revenue for the business as well. I think, you know, outside of that, it's our -- our unique basket of -- of goods around the edges. And I call them around the edges, but there they're not lesser products. So, our advantage in attention, I can tell you, just helped us win a major advertiser deal, not because it was going to be a huge part of what they did, but they loved what we did around attention.
+And so, this is a differentiator between you guys and others, we'll take your core solutions, but we're going to lean into attention down the road. And I think our continued ability to innovate around things like attention, around areas like CTV and CTV viewability where we have really unique viewability solutions and unique solutions that are detecting things like TV off, those are areas which we talk about a lot. They don't generate huge amounts of revenue for us yet. But when someone looks at the basket of goods they're buying, they want to look at a core solution plus innovations around the edges.
+They really matter, and they help us close new deals.
+Nicola Allais
+--
+Chief Financial Officer
+And, Youssef, on the -- on your second question, you know, on the gross margin side, revenue less cost of sales, it was 80% in Q1. And we expect it to remain relatively stable around those levels as we choose to continue to invest in our infrastructure. So, it's a choice we're making to invest in it.
+Youssef Squali
+--
+Truist Securities -- Analyst
+That's helpful. OK, thank you.
+Operator
+We have reached the end of our question-and-answer session. I would like to turn the conference back over to Mark for closing comments.
+Mark Zagorski
+--
+Chief Executive Officer
+OK. Thank you all for the great questions. And I'd like to take this time to thank the team worldwide for their hard work and commitment to our mission and for delivering another great quarter of results, and also to thank all of our stakeholders, our customers, partners, and investors for their continued support. We look forward to seeing many of you at upcoming conferences and events.
+Have a great evening, everybody.
+Operator
+[Operator signoff]
+Duration: 0 minutes

@@ -1,0 +1,327 @@
+Operator
+Good day, and thank you for standing by. Welcome to NXP's second-quarter 2023 earnings conference call. [Operator instructions] Please be advised today's conference is being recorded. I would now like to hand the conference over to Jeff Palmer, senior vice president of investor relations.
+Please go ahead, sir.
+Jeff Palmer
+--
+Senior Vice President, Investor Relations
+Thank you, Norma. And good morning, everyone. Welcome to NXP Semiconductor's second-quarter earnings call. With me on the call today is Kurt Sievers, NXP's president and CEO; Bill Betz, our CFO.
+Our call today is being recorded and will be available for replay from our corporate website. Today's call will include forward-looking statements that involve risks and uncertainties that could cause NXP's results to differ materially from management's current expectations. These risks and uncertainties include, but are not limited to, statements regarding the macroeconomic impact on the specific end markets in which we operate, the sale of new and existing products, and our expectations for financial results for the third quarter of 2023. Please be reminded that NXP undertakes no obligation to revise or update publicly any forward-looking statements.
+For a full disclosure on forward-looking statements, please refer to our press release. Additionally, we will refer to certain non-GAAP financial measures, which are driven primarily by discrete events that management does not consider to be directly related to NXP's underlying core operating performance. Pursuant to Regulation G, NXP has provided reconciliations of the non-GAAP financial measures to the most directly comparable GAAP measures in our second-quarter 2023 earnings press release, which will be furnished to the SEC on Form 8-K and is available on NXP's website in the Investor Relations section at nxp.com. Now I'd like to turn the call over to Kurt.
+Kurt Sievers
+--
+President and Chief Executive Officer
+Thank you, Jeff. And good morning, everyone. We really appreciate you joining our call today. I will start with a review of our quarter 2 results and then discuss our guidance for quarter 3.
+Now let me begin with quarter 2. Our revenue came in at the high end of our guidance or about $100 million better than the midpoint, with the trends in all end market segments performing better than our expectations. Taken together, NXP delivered quarter 2 revenue of $3.3 billion, essentially flat year on year while we continue to maintain our distribution channel inventory strictly at a 1.6 months level, which remains to be well below our long-term target of 2.5 months. Non-GAAP operating margin in quarter 2 was 35%, 50 basis points above the midpoint of our guidance, so 100 basis points below the year-ago period.
+Our year-on-year performance was a result of stronger gross margin, offset by higher R&D investments in support of our mid- and long-term growth projects. Now let me turn to the specific trends in our focus end markets. In automotive, quarter 2 revenue was $1.87 billion, up 9% versus the year-ago period and near the high end of our guidance. In industrial and IoT, quarter 2 revenue was $578 million, down 19% versus the year-ago period and near the high end of our guidance.
+In mobile, quarter 2 revenue was $284 million, down 27% versus the year-ago period and above the high end of our guidance. In communication infrastructure and other, quarter 2 revenue was $571 million, up 15% year on year and at the high end of our guidance. During the second quarter, we had experienced incremental improvement across all regions, with China also gradually improving quarter over quarter. Year-on-year growth was led by our direct business.
+While our distribution business continues to grow sequentially from the trough in Q1, though still down on a year-on-year basis. Now let me turn to our expectations for quarter 3 2023. We are guiding quarter 3 revenue to $3.4 billion. This is down about 1% versus the year-ago period and represents sequential growth of about 3% at the midpoint.
+We do anticipate the following trends in our business. Automotive is expected to be up in the mid-single-digit percent range versus quarter 3 '22 and up in the low single-digit range sequentially. Industrial and IoT is expected to be down in the mid-teens percent range versus quarter 3 '22 and up in the low single-digit percent range sequentially. Mobile is expected to be down in the mid-teens percentage range versus quarter 3 '22 and to be up in the mid-20% range on a sequential basis.
+And finally, communication infrastructure and other is expected to be up about 10% versus quarter 3 '22 and flattish sequentially. Our guidance for the third quarter contemplates that we maintain the 1.6-month distribution channel inventory level. And very consistent to our approach in prior quarters, we will manage sell-in to the channel tightly, so we may start to increase channel inventory if and when we see consistent strength in channel sell-through for future periods. We are well positioned with on-hand inventory to satiate a possible rebound in demand as it emerges.
+Furthermore, we continue to experience higher input costs. Hence, we stick to our consistent pricing policy, which is to pass along the input cost increases to our customers while not patting our gross margin. From a more strategic standpoint, we focus on enhancing how we work with our suppliers and customers in order to enable long-term supply and demand assurance programs, especially in the automotive and core industrial businesses. Now as we progress through 2023, we are gaining confidence that we will be able to return to predictable year-over-year growth of the business.
+Demand in the automotive and core industrial businesses continues to be solid, with only a few pockets of stubborn supply shortages persisting through year-end. Within the mobile segment, we are seeing the expected strong seasonal trends in the premium portion of the market in quarter 3. And our consumer IoT business appears to be accelerating from the trough in Q1. However, it does not show signs of a sharp rebound as of yet.
+And finally, in our communications infrastructure segment, we see soft and lumpy demand in the cellular base station markets, offset by strength in our secured card and tagging businesses. So taken together, our first half results and our guidance for quarter 3 give us confidence that we are successfully navigating through the cyclical downturn in our consumer exports businesses while we do see continued strength in our automotive, core industrial, and communications infrastructure businesses. We believe quarter 1 was the trough in our business, and we anticipate the second half of 2023 will be greater than the first half of this year, and also the second half of 2023 will grow over the second half of 2022. And this outlook does not contemplate a strong rebound in the consumer IoT business or the Android handset market, nor does it assume the retail of the distribution channel to our long-term target of 2.5 months.
+So overall, we will continue to be very, very disciplined, manage what is in our control, and stay within our long-term financial model. And before I turn the call over to Bill, I'd like to take a moment and thank our automotive processor team for achieving a very significant milestone for the enablement of the software-defined vehicle. At the end of June, NXP taped out the industry's first fully automotive, specified, safe, and secure 5-nanometer vehicle computer. This is a $4 billion transistor multi-core NPU based on an innovative chip architecture that allows the up-integration of new functions and consolidation of existing easier functions.
+The level of the future will utilize new software-defined platforms to allow easy upgrades and new features to be added through the vehicle's lifetime. Software-defined vehicles get more performance, more reliable, more functional with time instead of degrading, as is the case today. In order to achieve this capability, auto OEMs require both flexibility in their compute architecture, as well as the opportunity to tap into a broad ecosystem of application developers. At the top of the compute hierarchy, the car is the vehicle computer that runs the vehicle score services and orchestrate functionality across domains deployed into new solar and edge node processes.
+With our S32 platform, NXP is the only semiconductor company, which offers a complete portfolio to address a wide range of processing requirements across the entire compute hierarchy of the software-defined vehicle. The challenge the auto OEMs are facing with this transformation is the enablement of both software reuse and software scalability, and NXP's S32 platform addresses that challenge by enabling software reuse both horizontally across domains as well as vertically from low-end FICO controllers, all the way up to the high-performance vehicle computer. Over the last several years, we have engaged with and enabled multiple automotive OEMs in their journey toward the software-defined vehicle. We have continued to receive significant OEM awards, including the new 5-nanometer vehicle computer, which will help accelerate our automotive growth very well beyond 2024.
+We are, and I am, really excited to be on this truly transformational journey with the automotive industry. And now I would like to pass the call over to you, Bill, for a review of our financial performance.
+Bill Betz
+--
+Chief Financial Officer
+Well, thank you, Kurt, and good morning to everyone on today's call. As Kurt has already covered the drivers of the revenue during Q2 and provided the revenue outlook for Q3, I will move to the financial highlights. Overall, our Q2 financial performance was very good. Revenue was at the high end of the guidance range, and both non-GAAP gross profit and non-GAAP operating profit were above the midpoint of the guidance.
+Now moving to the details of Q2. Total revenue was $3.3 billion, essentially flat year on year, while $99 million above the midpoint of the guidance range. We generated $1.93 billion in non-GAAP gross profit. And reported a non-GAAP gross margin of 58.4%, up 60 basis points year on year and 20 basis points above the midpoint of the guidance range.
+Total non-GAAP operating expenses were $771 million or 23.4% of the revenue, which is up $47 million year on year and up $43 million from Q1. This was at the high end of the guidance range due to our planned annual merit expenses and higher variable compensation. From a total operating profit perspective, non-GAAP operating profit was $1.16 billion, and non-GAAP operating margin was 35%. This was down 100 basis points year on year, though above the midpoint of the guidance range, which is a reflection of solid fall-through on the combination of higher revenue, better gross profit, offset by slightly higher operating expenses.
+Non-GAAP interest expense was $73 million, with non-GAAP income tax provision of $180 million, consistent with better profitability, reflecting a non-GAAP effective tax rate of 16.6%. Noncontrolling interest was $6 million. And stock-based compensation, which is not included in the non-GAAP earnings, was $102 million. Taken together, this resulted in a non-GAAP earnings per share of $3.43, near the high end of the guidance range.
+Turning to the changes in our cash and debt. Total debt at the end of Q1 was $11.17 billion, flat sequentially. The ending cash position was $3.86 billion, down $67 million sequentially due to the cumulative effect of capital returns, offset by lower capex investments, working capital needs, and cash generation during Q2. The resulting net debt was $7.31 billion, and we exited the quarter with a trailing 12-month adjusted EBITDA of $5.44 billion.
+The ratio of net debt to trailing 12-month adjusted EBITDA at the end of Q2 was 1.3 times, and the 12-month adjusted EBITDA interest coverage ratio was 18.2 times. During Q2, we repurchased $302 million of our shares and paid $264 million in cash dividends. Taken together, we returned $566 million to the owners in the quarter, which represented 102% of non-GAAP free cash flow generated during the quarter and 80% on a trailing 12-month period. Furthermore, subsequent to the end of Q2, we continue to execute our share repurchase program, buying an incremental $69 million of our shares through Friday, July 21.
+Now turning to working capital metrics. Days of inventory was 137 days, an increase of two days sequentially. And distribution channel inventory was 1.6 months or approximately 49 days. When combined, this represents approximately 186 days.
+Furthermore, we continue to be laser-focused on tightly controlling our channel inventory levels while leveraging our balance sheet strength to hold product in die form for quick turnaround as demand materializes. We will only ship products into distribution that has a high likelihood of selling through in the current quarter or being pre-staged if needed for specific customer deliveries in the next quarter and along with any change in market conditions. Days receivable were 29 days, down two days sequentially. Days payable were 63 days, a sequential decrease of five days due to timing of material receipts.
+Taken together, the cash conversion cycle was 103 days, an increase of five days versus the prior quarter. Cash flow from operations was $756 million. And net capex was $200 million or 6% of revenue, resulting in non-GAAP free cash flow of $556 million or 17% of Q2 revenue. On a trailing 12-month basis, this represents a 20% free cash flow margin.
+We continue to be focused on driving non-GAAP free cash flow margin to greater than 25%, a level we have demonstrated in the past and a level we believe we can achieve in the future. Turning now to our expectations for the third quarter. As Kurt mentioned, we anticipate Q3 revenue to be $3.4 billion, plus or minus $100 million. At the midpoint of our revenue outlook, this is down about 1% year on year and about up 3% versus Q2.
+Furthermore, given our manufacturing cycle times in the current demand environment, our guidance contemplates maintaining channel inventory at 1.6-month level. Though, again, we may move this upward pending improved market conditions and customer requests. We expect non-GAAP gross margin to be flat sequentially at 58.4%, plus or minus 50 basis points as we continue to balance our mix and internal utilizations. However, we do see and expect higher input costs from our suppliers to continue.
+As a result, we remain focused on mitigating these higher input costs through a combination of productivity and higher prices to our customers. Operating expenses are expected to be $785 million, plus or minus about $10 million. Taken together, non-GAAP operating margin will be 35.3% at the midpoint. We expect non-GAAP financial expense to be $67 million and non-GAAP tax rate to be 16.6% of profit before tax.
+Noncontrolling interest will be $4 million. And for Q3, we suggest for modeling purposes, you use an average share count of 261.3 million shares and capital expenditures of 7% of revenue. Taken together at the midpoint, this implies a non-GAAP earnings per share of $3.50. In closing, I would like to highlight the key themes for this earnings cycle.
+First, from a performance standpoint, we will continue to be disciplined to manage what is in our control and stay within our long-term financial model. Second, operationally, the Q3 guidance assumes internal factory utilization in the low to mid-70s range, similar to this past quarter and a level we expect to hold until internal inventory normalizes. Lastly, we continue to hold more cash on the balance sheet to enable greater flexibility. Options include reinvestment in the business, continued share repurchases, growth of the dividend, and reduce debt levels.
+Similar to last quarter, we continue to remain active in repurchasing our shares. I would like to now turn it back to the operator for questions.
+Questions & Answers:
+Operator
+Thank you. [Operator instructions] And our first question comes from the line of Gary Mobley with Wells Fargo. Your line is now open.
+Gary Mobley
+--
+Wells Fargo Securities -- Analyst
+Hey, guys. Thanks for taking my question, and let me be the first to extend my congratulations on good execution. You guys have been consistent in your communication about keeping distribution inventory low, and so you see better sell-out of the distribution channel. But per your 10-Q filing, your inventory sales were up 13.5% sequentially in the June quarter, and I have to presume that sell-out of the distribution channel is up a commensurate amount.
+So what precisely are you looking at to define better sell-out of the distribution channel best trigger taking up that inventory by $500 million?
+Kurt Sievers
+--
+President and Chief Executive Officer
+Yeah. Good morning. Thanks, Gary, also for the feedback. Yeah, we have indeed, and that's a good thing, increased our distribution performance in the second quarter, which is also why I said in my prepared remarks that we saw the trough in our consumer exports businesses, which are the main users of that distribution channel already back in Q1.
+So we went up into Q2. However, at the same time, we do not see a real rebound in China. So I think that the main trigger point for us would be after rebound in China, which, in our case, would both be relevant to the Android handset business as well as to the consumer-exposed IoT business. That hasn't really happened to the extent that we would consider it consistent and persistent enough in order to move up with the distribution inventory, and that's why we try to confirm indeed that all the numbers we just gave you for the guidance contemplates a strict 1.6%.
+Again, still, we may move higher, but then we would also deliver more revenue accordingly in case we see that rebound in China coming. Today, it's not visible.
+Gary Mobley
+--
+Wells Fargo Securities -- Analyst
+Thank you. That's helpful color. Kurt, I appreciate you dropping breadcrumbs as to how we should think about the second half of the year. And based on the breadcrumbs, we have to infer that your fourth quarter will be flat sequentially.
+Is that a proper read? Or is there a possibility of maybe even some sequential growth in the fourth quarter?
+Kurt Sievers
+--
+President and Chief Executive Officer
+Gary, I mean I'll let you draw your conclusions about the fourth quarter, which we don't guide here. But clearly, what I did repeat, and I think I said this last earnings already, that the second half is gonna be larger than the first half. Now we are adding indeed that the second half is also gonna grow over the second half of last year. We don't wanna tell it closer than this at this point.
+It's just hard in the current environment to do so. But I think the key point here is that it is really based on two separate legs, which are very important to contemplate. One is consistent strength in the automotive core industrial and comms infra business, pulling -- just continue to pull ahead. While at the same time, we left this trough in the consumer-exposed businesses in Q1 behind us, which then also helps indeed the second half to resume the growth, which I was describing.
+Now for the fourth quarter, specifically, let's see when we get there how that goes.
+Gary Mobley
+--
+Wells Fargo Securities -- Analyst
+Thank you.
+Operator
+Thank you. One moment for our next question, please. And the next question will come from the line of Joshua Buchalter with TD Cowen. Your line is now open.
+Joshua Buchalter
+--
+TD Cowen -- Analyst
+Hi. Good morning. Congratulations on results, and thank you for taking my question. Last quarter, you called out pockets of inventory at Tier 1s in the auto business from some golden screw issues.
+I mean, clearly, your results don't seem to indicate that this was an issue at all. But could you provide an update on that situation? Did this resolve intra-quarter still sort of lingering and hanging out there, but you're managing through it? I would be curious to hear how you're seeing things now. Thank you.
+Kurt Sievers
+--
+President and Chief Executive Officer
+Yeah. Good morning, Joshua. Indeed, it was last earnings that we mentioned that there were about two -- actually, we said European auto Tier 1s, which seem to have some over inventory. In the meantime, this is all contemplated in the guidance you just heard.
+It is still, I would say, an unstable situation because, in the meantime, lead times have largely normalized. So we are back to a much more model order pattern, which is good after 2.5 years of turmoil from supply challenges. At the same time, OEMs are asking very much more strict inventory targets from the Tier 1s, but that hasn't settled in all cases. So what we are, say, seeing here is that in several cases, there is a bit of a tense situation between the OEMs, the auto OEMs, and the automotive Tier 1s in how much inventory they should actually hold.
+And that mixed with those golden screw leftovers is indeed leading to a somewhat uneven situation, which in the end, I mean I've seen this two, three times before in those cycles, it is not the normalization of what we've had to be over the past 2.5 years with not much more normal lead times. And in that sense, I think everything is contemplated. I'd say the situation has normalized relative to what I did say last time.
+Joshua Buchalter
+--
+TD Cowen -- Analyst
+Thank you for all the color there. And then for my follow-up, I wanted to ask about a comment made toward the end of the prepared remarks. It sounds like you're gonna hold utilizations in this 70% range until you get back inventory on books to their target rate. I just wanna confirm that that target range is at 95 days from the analyst day.
+And so does that imply sort of sell-through greater than sell-in in the back half of the year, and you're confident you can keep margins at this level as the utilization rates stay in the 70s? Thank you.
+Bill Betz
+--
+Chief Financial Officer
+Yes, Joshua, this is Bill. A couple of questions in there, mixed around. So first, let me talk about utilization. Do we expect those to be very similar in our Q3 in the mid- to low 70s? And again, what we've guided is our improved mix, a bit higher revenues offsetting those utilizations very nicely of everything we can see.
+On inventory, we expect inventory to go down from a day's standpoint internally, assuming the channel stays at the 1.6, right? So we're not counting on those 25 days to deplete our internal inventory. That will be at a later date when we feel confident in the market. So remember, so we're holding about 25 days of extra inventory internally on our balance sheet and prepared for that. I think overall, longer term, I would say we're more comfortable holding about 105 days.
+I would call it a bit more normal than the 95-day target that we set about 1.5 years ago. We've learned a lot over the last couple of years, and it's just good to have a little bit more inventory, so you can really churn those -- any orders inside the quarter under lead times and be able to upside revenue. And clearly, we've demonstrated that the past two quarters by upsizing our revenue, having the material in our die bank and being able to fast churn them through our back end and deliver. So the team is doing a great job here.
+Joshua Buchalter
+--
+TD Cowen -- Analyst
+Thank you.
+Operator
+Thank you. One moment for our next question. And the next question will come from the line of Ross Seymore with Deutsche Bank. Your line is now open, sir.
+Ross Seymore
+--
+Deutsche Bank -- Analyst
+Hey, guys. Thanks for letting me ask a question. Kurt, first one for you. I just wanna dig a little deeper into the automotive side.
+People have been waiting for another shoe to drop in that space for a couple of years' time. And you guys have been kind of flat to up solidly on a sequential basis and much better than that on a year-over-year basis for nearly four quarters now, including your guide. So I just wanted to go into the covers. Are you still limited by supply? If I put the content together with some unit growth, you don't seem to be doing anything better than SAAR right now.
+So just if you could go into where supply and demand are relative to one another, content gains? Any of those sorts of details would be great.
+Kurt Sievers
+--
+President and Chief Executive Officer
+Yeah. Thanks, Ross. Good morning. I'm happy to do so, but let me just respond to the initial part of the question on the shoe to drop in automotive.
+I think the true, the shoe just fits. We just don't see it dropping because things are largely normalized by now, which means, indeed, we only have a few actually stubborn pockets of supply constraints left. But in the bigger scheme of things, I mean, they are nasty for customers. But from a revenue perspective or from an order size perspective, those are actually quite small.
+So this whole idea of a totally overstated backlog or huge inventory build, I mean that's behind us. We've been working through this over the last three quarters. The automotive industry situation. In my view, it's actually surprisingly good.
+I'd say surprisingly because when you remember back to the SAAR forecast at the beginning of the year, they were more in the 3% range. I think last quarter, we talked about 4%. We keep quoting S&P, and now they say 5%. And that's also the numbers which are being reported from the different regions.
+So SAAR itself is on a solid part for this year. Yes, it's still only returns then for the full year with 87 million units to a number which is still lower than the 2019 peak volume. The more important part of it, obviously, is the part how many electric vehicles and hybrid vehicles are among that. And also, they're very consistent.
+Any forecast we have said that about one-third of the global started here is gonna be either hybrid or fully electric vehicles, which is a 31% year-on-year growth in absolute terms of those kinds of vehicles, which from a content increase perspective is, of course, a fantastic opportunity for the semiconductor business. So also here, nothing to worry about. Now the whole turmoil, I would say, which clearly we have been witnessing is in the supply chain. There was this complete supply crisis over a very extended period of time, which has totally drained supply chain, which has now normalized.
+And then with the golden screw, that normalization has been a bit uneven in cases. But I think that's all coming to a point that things are more normal. Now when you say growing just around SAAR, well, we look at our trailing 12 months' growth, which I think sits at 12% currently with the guidance for Q3, which is pretty fine. I mean this is exactly where it needs to be.
+And if you look back over the last 10 years, there has never been one quarter which is showing the mathematical formula of SAAR plus content increase. I mean that just never happens. It always moves around the quarter. So I'd say with more normal lead times now, things are in the right place.
+Ross Seymore
+--
+Deutsche Bank -- Analyst
+Thanks for all that color, Kurt. I guess for my follow-up, one on the gross margin side for Bill. You guys have done a great job. You're at the high end of your long-term target for your last analyst meeting, and you've done that while mix is moving around and utilization is low.
+To the extent we focus on the mix side of that equation, when you talk about mix being a tailwind, is that between your segments that you're referring to? And if it is, if those segments start to normalize at some point. Your industrial IoT business grew very fast from this last quarter. You're guiding for the next quarter of the mobile business to come back. Does mix become less of a tailwind? And if so, how do you handle that? And how does it show itself on gross margin?
+Bill Betz
+--
+Chief Financial Officer
+Sure. Thank you, Ross. And let me try to share additional color for our gross margin performance. For Q2, the guidance we just provided talk about the next several quarters of what we can see after Q3 and even more longer term, so beyond the next year.
+And again, for Q2, the guidance, we did slightly better because of that product mix. Now if you look at our distribution, distribution represented about 51% of our sales, and this is up nicely from 48%. And again, distribution long tail has higher margin, lower volume type of customers, and richer mix. And again, still not where it used to be more in the mid-50s.
+So this kind that is offsetting us very nicely as we really work our internal inventory down and adjust our foundry purchase orders. It just takes time to do that. And so we feel good at the right balance these two offsetting each other. Q3 guidance, more of the same.
+And again, as I mentioned earlier in another question, a response to a question is, I think and we are planning for inventory days to go below the current levels as we get that back into control and improve our free cash flow. Now beyond Q3 and next several quarters, we expect to, I'd say, remain at the high end of the gross margin model of 58%, plus or minus 50 basis points. And again, mix, I believe, is more of a tailwind, not as a headwind. Because of distribution, we're really focusing on that long tail, and we expect that to really kick in as we continue to go forward.
+Now much longer term, so think about beyond next year, I would say our ambitions are to see gross margins to expand further, driven by higher revenues. You have to remember, this falls through on a 30% fixed cost structure that we have talked about. We should see productivity gains, especially when returning our utilization rates to more optimal levels. So more back to that 85%.
+We -- I would say we plan to focus on growing that long-term customers, which, again, are those lower volume but higher margin business. And lastly, you've heard us talk about this. Our new product introductions become accretive over the long term as they ramp up. It just takes time.
+So overall, we feel quite good to improve gross margins over the longer term above the current levels. Obviously, in the next couple of quarters, we think we'll be in the ZIP code of what we just shared.
+Ross Seymore
+--
+Deutsche Bank -- Analyst
+Thanks, Bill.
+Operator
+Thank you. One moment for your next question, please. And our next question comes from the line of Stacy Rasgon with Bernstein Research. Your line is now open.
+Stacy Rasgon
+--
+AllianceBernstein -- Analyst
+Hi, guys. Thanks for taking my questions. First one, I had some more questions on the distri sales. I'm a little bit confused.
+So the distri sales weren't up, but the months didn't change. That means the sell-out was equal to the increase in sell-in, but that's not a recovery. I guess can you explain that? And what are you assuming the distri sales do in Q3 in, sell in and sell out in order to keep that -- the month of inventory flat in Q3?
+Bill Betz
+--
+Chief Financial Officer
+So Stacy, let me take that one. So sell-in was up, sell-through was up. That's the only way you can balance that 1.6. So that's what the math is.
+In Q3, we expect, again, our distribution sales as a percentage of how we service our customers to be up again.
+Stacy Rasgon
+--
+AllianceBernstein -- Analyst
+OK. So how is that not a recovery though? I mean you didn't think that that was a recovery. So this is like a few quarters now where it looks at the sell-through is going up.
+Bill Betz
+--
+Chief Financial Officer
+We've talked about a normal steady recovery, but no sharp rebounds that many are anticipating specifically out of China.
+Stacy Rasgon
+--
+AllianceBernstein -- Analyst
+Got it. OK. Thank you. For my second question, I wanna follow up on just -- it was an offhand comment you just made in front of one of the other questions.
+You talked about controlling your internal inventories and adjusting your foundry purchase orders. What is that last statement? I mean you're reducing your foundry purchase orders in order to help bring your internal inventories down?
+Bill Betz
+--
+Chief Financial Officer
+No. It's -- again, as you can imagine, six months ago, we had boundary purchase orders. We have internal utilizations that we're in, I don't know, in the 90s, right? So naturally, as we adjust our inventory levels to real demand, we adjust both those levers. I mean that's just normal business.
+Stacy Rasgon
+--
+AllianceBernstein -- Analyst
+Got it. I guess I'm confused at like your utilizations are in the 70s and your gross margins are at the peak. And I mean before your -- your gross margin got anywhere close, your utilizations were probably in the 90s. Is that just overall higher revenues? Or is it -- I mean because sales are lower.
+I guess how are you actually getting the margins to where they are to where utilizations are?
+Bill Betz
+--
+Chief Financial Officer
+Sure. I think there's a combination of tailwinds offsetting those -- that internal utilization. First off, the internal utilization in our factory footprint is much lower than it was three or four or even six years ago during different cycles. We're talking about 30% fixed cost structure, much lower than the past as we source 60% externally.
+The mix of our products, the quality of our portfolio have improved. And so you can see as we work through the cycle, distribution was quite low. And I get to your repeat on this. Distribution represents the long tail, which carries a richer mix because it's low volume compared to more of your direct customers, which tend to be higher volumes and a bit lower margin.
+There's really no difference between segment mix. We really looked at product mix because all the segments are very close to the corporate average. That's what we drive. So we feel very comfortable where we are.
+with these utilization rates to focus on our free cash flow and bring in slightly a little bit of that back in balance. Again, we're holding 25 days of that distribution inventory, and then maybe we'll get another five or 10 days internally to get that back into balance, and we feel very comfortable to support the growth of our long-term business. But I would say we have quite a number of tailwinds and headwinds that can offset each other.
+Stacy Rasgon
+--
+AllianceBernstein -- Analyst
+Got it. That's helpful. Thank you, guys.
+Bill Betz
+--
+Chief Financial Officer
+You bet.
+Operator
+One moment for our next question, please. And our next question will come from the line of Vivek Arya with Bank of America Securities. Your line is now open.
+Vivek Arya
+--
+Bank of America Merrill Lynch -- Analyst
+Thanks for taking my question. Kurt, how is NXP's content different in a hybrid or full EV versus the traditional ICE car? And I ask that because when I look at your automotive business, so you mentioned it's up about 12%, 13% in the first half, but it is slowing down toward kind of the mid-single digit range in Q3. So when we compare that against a SAAR production level, that is quite decent. Then we also add in some of the pricing tailwinds and some of the content tailwinds, wouldn't that suggest your automotive sales should be growing faster at this point? So just curious, how does that hybrid versus ICE mix play into how you look at your automotive sales growth?
+Kurt Sievers
+--
+President and Chief Executive Officer
+Yeah. Thanks, Vivek. So the content or our exposure to electric and hybrid vehicles is extremely accretive to us. And that is products which are specific to the electric drive train, like battery management and gate drivers for inverter control, etc.
+But it is also a lot of other products which are pulled into electric vehicles because they tend to be much richer when it comes to electronic features in the ADAS and body and comfort world. So highly accretive to NXP. Now what you try to do with that just doesn't work. You can never take a single quarter and compare the SAAR, which you see to our revenue.
+The products which are now getting into cars, we probably shipped two quarters ago. Maybe in some cases, longer. It's a very deep supply chain, which has been the whole reason for the drama over the last 2.5 years. So it doesn't work that way.
+It's not like mobile, where we ship and then it sits in the smartphone four weeks later. That's not the rhythm and the cadence in automotive. So some of this on a more, say, normalized basis over several quarters certainly has to do that finally the supply chain is now stabilizing, which is a good thing. So we are very happy with how it's moving because it looks like the drama comes behind us, while at the same time, we are now in a position -- and that's very different to pre-crisis days.
+We are in a position now to have much longer-term demand and supply assurance programs in place with our customers, which means we have a much longer forward visibility on our revenue stream and on our required products.
+Vivek Arya
+--
+Bank of America Merrill Lynch -- Analyst
+Got it. And then, Kurt, on -- as the supply environment in automotive normalizes, how are the discussions with your customers changing as you look over the next three, four quarters? Are they less willing to accept higher prices? Are they less willing to take on and hold inventory than they did in the past? Like how is this environment going to transition as we go from a very supply constrained environment to something that is more toward a normal environment?
+Kurt Sievers
+--
+President and Chief Executive Officer
+I have to repeat what I said last call because that really hasn't changed from that perspective. Our pricing follows the increased input costs. And unfortunately, we continue to have increased input costs through this year. So NXP pricing, including automotive, will be up this year.
+For next year, we see the same signs again of increasing input costs. A few other elements in our input costs seem to look a little bit better for next year. So it's hard for me to say what exactly the mix of our manufacturing and input cost is gonna be next year. If it is up again, and unfortunately, there are signs it could be up again, then we will follow the same policy we have so far.
+And you know it will be accepted, Vivek, because our product, especially in automotive where I think your question is going to, is unique. It is in most cases anyway, not replaceable on the short term. So there is no this whole idea of it is a commodity product. And if the price doesn't sit where it should sit somebody else gets the socket, that doesn't work in that industry.
+It's actually much more the opposite. Through what we've done over the last two, three years, we have a much bigger number of very long-term agreements with our customers on demand assurance, which is to our benefit. But we also signed up for supply assurance to their benefit, which is a pretty symmetric model. But that model avoids actually any short-term fluctuations, which you are properly questioning here.
+Vivek Arya
+--
+Bank of America Merrill Lynch -- Analyst
+OK. Thank you, Kurt. Very helpful.
+Operator
+Thank you. One moment for our next question, please. And our next question comes from the line of Francois Bouvignies with UBS.
+Francois Bouvignies
+--
+UBS -- Analyst
+I have two quick questions. The first one is on the automotive. And Kurt, I think you have been very clear on the solid outlook for automotive. I just wanted to check on all the behavior that you have in automotive in a way that you don't see anything on the P&L side, but I assume you have a significant backlog still to normalize.
+And what we are seeing in the auto OEM side is like the orders is coming down rather sharply also on the EV side of things, probably some macro impact there. But I just wanted to check with you if you see any impacts on the order behavior, although it doesn't impact your P&L because of your backlog yet. Is there anything happening on these orders that you see coming through?
+Kurt Sievers
+--
+President and Chief Executive Officer
+Hi, Francois. Thanks for the question. Actually, I like the question because it helps me to clarify something. We never worked on the backlog.
+We never had that concept of looking at a big backlog, which is like pent-up demand and then working it down. We did these NCNR agreements, which we continue to do with our customers in order to have a long-term perspective on what the true demand is. Nothing about backlog. It's really about true demand and how we can best serve that over an extended period of time.
+So therefore, no, there is no negative or positive impact from working dollar backlog. That has normalized already. So we -- it's not that we currently benefit from a backlog which has worked down, which would be larger than the true demand. We don't have that.
+That's behind us. We -- maybe we had a bit of this in the first quarter, but that's behind us. I would rather say I'm not -- I cannot completely see what you said about the negative macro impact on automotive. So clearly, I agree with you on the one hand that, of course, the macro is very uncertain, and there is a lot of concerns about consumer behavior.
+At the same time, if you look at the facts, then, as I said earlier, the SAAR for this year is consistently every quarter upgraded. So it's now at a 5% growth forecast for this year. That's what NXP is these third-party research companies. The electrification penetration is consistent with what people said before.
+The -- and I just checked this data yesterday, the dealer inventories are now below the long-term average in China, so they are lower than what they used to be. In the U.S., they are lower than what they used to be. Only in Europe, dealer inventories apparently have kind of normalized now. So while I totally agree with you that the macro is certainly more the great place to be currently.
+But the auto consumption per se is actually not in a bad shape. Maybe some OEMs were much more ambitious in the first place, that may be. But if you look at the numbers, which are actually happening month on month and quarter on quarter, it's not degrading.
+Francois Bouvignies
+--
+UBS -- Analyst
+Very clear. Thank you, Kurt, for your answer. My quick follow-up would be on the pricing. Obviously, concern for investors.
+I mean, at least, a big focus. And we are seeing some sort of pocket of pricing pressure from local Chinese for vast range of product. So I was wondering, you talked about the input cost increasing, and that's putting the pricing up for your business. How do you see the behavior of some local Chinese or some discount that we see? It seems to be on the low-end side of the spectrum, but just want wondering if you see anything on your side.
+And maybe it would be great to have a quantification of how much of your business you would consider as low-end versus high-end maybe would be very helpful. Thank you.
+Kurt Sievers
+--
+President and Chief Executive Officer
+Yeah. I mean there was already a quarter ago that some of our peers apparently spooked the market a bit with this -- with what you say. I mean we -- I can only report here what we are witnessing. The only one place where we see more extended pricing pressure is low-end market controllers in China, which is something which we have almost abundant already a while ago.
+I mean we are still businessing it because it's, of course, we speak to our distribution partners there and the end customers. But that's not a place where NXP ever really wanted to be because the main philosophy of our business is to be differentiated by product, by the product value, and its performance, and its specification. So wherever we would be in something you call low-end or a commoditized, replaceable product. It's actually not the place where NXP is normally operating.
+Now that doesn't mean it's zero, Francois, because things over time might commoditize. So we are always having some of this. I cannot quantify it, but it's actually quite small because the whole philosophy of NXP is to not compete on price.
+Francois Bouvignies
+--
+UBS -- Analyst
+That's very clear. Thank you.
+Operator
+Thank you. One moment for our next question, please. And our next question will come from the line of C.J. Muse from Evercore ISI.
+Your line is now open.
+C.J. Muse
+--
+Evercore ISI -- Analyst
+Yes. Good morning. Thank you for taking the question. I guess, Kurt, I was hoping you could spend a little time discussing the trends that you're seeing in China, whether there's any green shoots at all, whether it's Neo and BYD or Android or other.
+Would love to hear your thoughts.
+Kurt Sievers
+--
+President and Chief Executive Officer
+Thanks, C.J. I'm hesitating a little because I wish I could say we see the rebound, which maybe everybody was hoping for. And bottom line is what -- I will give you a few more details, but we don't see a rebound, and that's also not contemplated in any of our numbers or remarks. Now in our specific case, I would maybe highlight two things.
+We have a strong feeling that at least in the Android space, the over inventory, which we might have had with our customers, is worked down. So it looks like that our exposure to Android phones is now such that if there is a demand increase from the consumer side, we will immediately have it also in our numbers. No more inventory sitting there, which -- and that could be company-specific, so I can only say that for NXP. At the same time, we don't see a massive pickup in Android.
+But I'm sure our peers, which have much more exposure to the China handset market. We'll provide more clarity in this during the next calls in the next couple of days. The other side is indeed in automotive. We are nicely exposed to those electric car companies, which, in my view, will be the winners in China and maybe to an extent globally.
+I don't know to what extent they will be able to do this globally. But certainly in China, companies like BYD potentially going forward, also Neo. They will grow share. And our exposure to them is very nice because they have a tendency to pick up newer products much faster than the Western car companies.
+So on average, we have a much newer part of our portfolio in those companies, which sit at higher ASPs, which is why we benefit from their success to a much higher rate than we would with competitors from the west, given the portfolio exposure we have. So that's a good thing. And they seem to be on a good roll. So I dare to say that China electric automotive is in a good place.
+It's developing nicely. Finally, the much more hard-to-grasp consumer IoT world, which we are serving in China, we had a nice sequential increase from Q1 into Q2. And when you look at our guidance into quarter 3, which in industrial IoT, is again some sequential increase, but also comes from China consumer IoT. So it is gradually increasing.
+However, I wouldn't call it a rebound, and that goes back to the whole discussion we had earlier about when do we start to refill the channel. The signals we have currently are not strong enough to justify that. So it's still a very mixed picture, C.J.
+C.J. Muse
+--
+Evercore ISI -- Analyst
+Very helpful. As my follow-up, and I don't know if it's for Kurt or Bill, but Tier 2 foundry pricing has definitely weakened over the last few months. And just curious, are you seeing that potentially spread to the Tier 1s? And is that loosening up wafer pricing for you at all in any of your markets? Thank you.
+Kurt Sievers
+--
+President and Chief Executive Officer
+Yeah. So I would confirm that Tier 2s have shown that behavior, absolutely. The trouble is it doesn't help us much because most of our Tier 1 and core industrial and automotive customers don't want product from these sources. So for a larger majority of our input costs, that hasn't helped.
+Will it rack to the Tier 1 foundries? Go ask them, C.J. I don't know. I would be really stimulating here, which I can't. We don't have signs of that yet.
+C.J. Muse
+--
+Evercore ISI -- Analyst
+Very helpful. Thank you.
+Operator
+Thank you.
+Jeff Palmer
+--
+Senior Vice President, Investor Relations
+Hey, Norma, we'll take one last question here today. Thank you.
+Operator
+Thank you. And our final question will come from the line of Blayne Curtis with Barclays. Your line is now open.
+Blayne Curtis
+--
+Barclays -- Analyst
+Hey, thanks for squeezing me in. Maybe I'll just start by following on C.J.'s question because you mentioned higher input costs. So I think it sounds like you're not getting breaks in the foundries, but I'm curious if you could just quantify where you're seeing the most pressure from rising input costs, external versus internal. And when does that start to layer in?
+Kurt Sievers
+--
+President and Chief Executive Officer
+That's the plane, that's not new. So we've had for probably two years in a row a quite significant input cost increases. Of course, those are our own costs. But input costs from foundries, which for us is clearly the Tier 1 foundries, which are well-known companies.
+And there were even -- I think it was even public to what extent they have raised their price on us as well as in our competitors. So that is the whole reason why we had continuously had to increase our price to our customers in order to offset and protect our gross margin performance. When that's gonna change plane? Again, I don't know, but it's a matter of fact that the Tier 2 foundries. They have already reduced prices.
+In some cases, quite considerably. But it hasn't spread so far to any of the Tier 1s, and we also haven't -- we haven't really had indications that they would change.
+Blayne Curtis
+--
+Barclays -- Analyst
+Great. And then I just wanna ask you, Kurt, on lead times. You said a couple of times more normal ranges. I think if I remember right, last quarter, you still had a one-third that were greater than 52 weeks.
+So maybe just a little more color on what that more normal is, what your normal range is and all your products, for the most part, back into that normal range by that comment.
+Kurt Sievers
+--
+President and Chief Executive Officer
+Yeah. Most of the products are -- the trouble is, and that's why I didn't give a number here. The -- now trouble it's actually -- it's a positive thing. A good part of our business sits under these MT&R contracts.
+There, by definition, we are all out for the year. So all of those products for those customers where we have these agreements, the lead time is 52 weeks by definition because the orders have been already placed for the full year. But if you theoretically took this away and said it was -- that wasn't existing, then I'd say the largest part of NXP products have normal lead times. We have a very few remaining notes, one or two internally and one or two from third-party foundries, where we are still in a severe shortage, which are very nasty because you know that each product which is missing to a customer is a big problem.
+But from a size perspective, if you measure it in dollars against our total revenue, this is very minimal in the meantime. And through the end of the year, it should have gone away completely.
+Blayne Curtis
+--
+Barclays -- Analyst
+Thank you.
+Kurt Sievers
+--
+President and Chief Executive Officer
+All right. Then, operator, I think I have to close the call here, and I wanna thank you all for being on the call. In summary, our take is that we see clearly now that we left the trough of the consumer-exposed businesses behind us in Q1, see good incremental growth from there sequentially. While automotive, home infra, and core industrial continue to be very solid.
+And that, together, lets us resume much more predictable growth going forward. And at the same time, we are confident to stick to our resilient margin pattern at the high end of our long-term guidance. With that, I wanna thank you all, and speak to you next. Thank you.
+Bye-bye.
+Bill Betz
+--
+Chief Financial Officer
+Thank you very much.
+Operator
+[Operator signoff]
+Duration: 0 minutes

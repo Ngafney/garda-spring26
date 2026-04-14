@@ -1,0 +1,376 @@
+Shane Xie
+Hi, everyone. Welcome to the Confluent Q1 2023 earnings conference call. I'm Shane Xie from investor relations, and I'm joined by Jay Kreps, co-founder and CEO; and Steffan Tomlinson, CFO. During today's call, management will make forward-looking statements regarding our business, operations, financial performance, and future prospects, including statements regarding our financial guidance for the fiscal second quarter of 2023 and fiscal year 2023.
+These forward-looking statements are subject to risks and uncertainties, which could cause actual results to differ materially from those anticipated by these statements. Further information on risk factors that could cause actual results to differ is included in our most recent Form 10-K filed with the SEC. We assume no obligation to update these statements after today's call, except as required by law. Unless stated otherwise, certain financial measures used on today's call are expressed on a non-GAAP basis, and all comparisons are made on a year-over-year basis.
+We use these non-GAAP financial measures internally to facilitate the analysis of our financial and business trends and for internal planning and forecasting purposes. These non-GAAP financial measures have limitations and should not be considered in isolation from or as a substitute for financial information prepared in accordance with GAAP. A reconciliation between these GAAP and non-GAAP financial measures is included in our earnings press release and supplemental financials, which can be found on our Investor Relations website at investors.confluent.io. Please also note that we will host Investor Day 2023 in New York City on Tuesday, June 13.
+To join in person, please contact IR for the registration information. The program will also be webcast live on our IR website, beginning at 1:00 p.m. Eastern Time. With that, I'll hand the call over to Jay.
+Jay Kreps
+--
+Co-Founder and Chief Executive Officer
+Thanks, Shane. Good afternoon, everyone. Welcome to our first quarter earnings call. I'm pleased to report a strong first quarter, with results once again exceeding all of our guided metrics.
+Total revenue grew 38% to $174 million. Confluent Cloud revenue grew 89% to $74 million, and non-GAAP operating margin improved 18 percentage points. These results are a testament to the mission-critical nature of our platform, our strong TCO value proposition and the solid execution of our team despite a volatile macroeconomic environment. Over the last year, Confluent has continued to show very strong gross retention, even through a substantial change in the economic environment, including abrupt changes in interest rates, an economic slowdown, a significant drop in funding for private tech companies, and the recent challenges in banking.
+Environments like these show which products have true durability and which are simply fabs or nice to have. I wanted to take the opportunity to explore what drives this durability for Confluent. The first factor is that Confluent serves mission-critical custom software applications. These are high-value projects that customers invest their expensive software engineering resources in.
+Because of these high investments, the applications tend to target the most valuable use cases that last a long time. We often hear from customers about applications lasting not just years but decades. Naturally, the underlying data platforms used by these applications tend to persist along with them. The second factor is that unlike a database, Confluent isn't just a platform for one app, but acts as an interchange between multiple teams and applications.
+This is inherent in the core use case of the technology, publishing streams of data, so multiple other applications and teams can consume those streams. This kind of multi-team, multi-application platform gets more and more sticky as it gets more heavily used and displays very different dynamics to the platform that each application can choose or abandon independently. The reason for this is very obvious. The migration to another platform would require a coordinated effort across many teams all at once, which becomes harder and harder to imagine as there are more and more producers and consumers building against the streams of data in the platform.
+By analogy, think of the cost of switching to a new incompatible telephone system. The challenge isn't buying a new phone, it's getting all your friends to do the same thing at the same time so you can still call them. This pattern of cross-team interaction and cross-application interaction is a unique and positive characteristic of data streaming and isn't shared by most other data systems. The third factor of our durability comes from the inherent TCO advantage of our cloud offering.
+I'm going to dive into this factor at length, as it's critical to understanding the deep technical mode that Confluent has built. Initially, it might seem that a customer, when faced with budgetary pressure, would want to migrate off the cloud data service back to open source. Open source after all is free. Why isn't this happening? It is no doubt, in part, due to the comprehensive features and functionality our platform offers.
+We've talked about this at length in prior earnings calls. But you would imagine that customers might choose to forego better functionality when faced with severe budget pressure. Why isn't this happening? The answer to this may be somewhat counterintuitive. The cloud data service has the opportunity to not just be better than an open source offering, but also be meaningfully cheaper.
+To understand this, it's important to understand what drives the cost structure of self-managed data systems. This is an analysis we do frequently since we offer both a self-managed software offering and a cloud service. We've worked with thousands of customers with on-premise and in the cloud to analyze and compare the cost structure of open source, self-managed software, and a fully managed cloud service. I'll walk through this analysis and show where our substantial TCO advantage comes from.
+There are two easily quantifiable areas of spend around a self-managed software system. The first is the cloud infrastructure for running Kafka. This spans compute, storage, networking, and any additional tooling needed to keep Kafka up and running smoothly. These costs tend to increase rapidly, eventually representing the largest portion of cost when usage is at scale.
+The second is the software engineers and operations people responsible for configuring, deploying, and managing Kafka. Like any data system, and particularly like any large-scale distributed data system, Kafka requires full-time staff to manage it. And the cost of these individuals is significant, particularly for people managing Kafka. A 2022 study from Dice.com listed Kafka as the fifth highest-paying technical skill.
+That's great for engineers doing Kafka DevOps, but not so great for companies hiring teams with the experience to operate Kafka as a production data system. These costs will scale up with the usage of the system. The larger tech companies that have built significant streaming platforms around open source Kafka have teams of 20 or more engineers attending to their data streaming platform. It's not inevitable that a cloud service will improve on these costs.
+After all, if we were running the same open source software and operating in the same way, our costs would be no different from theirs. However, Confluent has rethought the problem from the ground up and has built a deeply differentiated stack that's able to drive compelling savings in both of these areas. I'll start with infrastructure savings. Confluent Cloud has rethought and reimplemented the core protocols for data streaming in a way that is built natively for the cloud to drive significant savings.
+I'll enumerate a few of these. First, multi-tenancy. Multi-tenancy is the key to SaaS margins, but many investors don't realize that the majority of data systems in the cloud, especially services offered by the cloud providers around open source, aren't actually capable of multi-tenant operations. Our offering runs multi-tenant for the vast majority of customers.
+This is a very significant rearchitecture, touching virtually every tier of the stack, allowing us to pool our thousands of customers on shared infrastructure to drive higher utilization in a serverless experience. Next is the elasticity. Our intelligent tiering of data between memory, local storage and object storage helps manage the cost of stored data and allows instant scalability, enabling higher utilization of compute resources. Next is our facilities for sophisticated data balancing.
+Confluent uses the real-time performance data of our customer base to intelligently optimize the placement of data and the routing of traffic to maximize performance, utilization, and cost. Finally, networking and data replication. Confluent has optimized the replication of data in the networking stack routing data to drive the cost of networking, the most expensive aspect of cloud operations for streaming. In addition to this, at-scale discounts targeting our unique workload helped reduce spend.
+Confluent is now at a larger scale than most of our customers, and we're able to drive discounts targeted to our workload. These significant architectural advantages, combined with thousands of small continual optimizations at every layer of the stack, help drive our significant cost advantage in operations. Those who have watched our gross margins progress over the last few years have observed this continual progress at work as we have continually driven additional technical improvements and improved utilization from multi-tenant operations as cloud has become a bigger and bigger portion of our revenue base. Next, I want to discuss the advantage that comes from our innovations in at scale operations.
+Confluent operates our fleet with a set of tools and practices vastly different from our customers. First, our infrastructure improvements do double duty here. The improvements I outlined previously drive vastly higher utilization, and hence, we manage an order-of-magnitude fewer servers than we otherwise would. But the big difference in our operations is that it's done by software, not people.
+We orchestrate rollouts with a sophisticated feedback-driven system that allows safe rollouts across thousands of machines in hours. We are able to automatically detect and remediate the kinds of rare problems that become common at scale. And we have real-time monitoring and checks for every aspect of the integrity of the system. These capabilities provide us with a dramatic advantage in the cost of human management.
+For example, in our Kafka service, the centerpiece of our offering, Confluent has less than five Kafka engineers on call for our tens of thousands of production in Kafka clusters. This gives us a cost structure for operations that we believe is over 1,000 times better than our customers. The combination of these savings across infrastructure and operations allows us to offer our service at a price point that makes our product not just better, but also cheaper. We think that's a winning combination, especially in times like these.
+We've gone to great lengths to ensure we are TCO-positive across the customer journey, from their first use case to a large-scale central nervous system. We believe this TCO advantage is not just a factor in driving retention. It will also help us drive far greater monetization of the user base of open source Kafka. This is a point often missed by investors looking to make analogies from on-premise open source models to the cloud, which, in fact, are quite different.
+Traditional on-premise open source business models offer a premium product, better features for more money. As a result, they typically are able to capture only a fraction of the open source users as paying customers. The cloud product, however, isn't just replacing the free software. It's also replacing the expensive infrastructure and people costs.
+This is driving a general mindset shift among software engineers and IT departments, who are increasingly looking for managed services first, trying to avoid ongoing operations wherever possible. As this shift takes place, we think there is an opportunity to grow from our modest penetration into the hundreds of thousands of open source Kafka users to a much more complete coverage. This higher conversion rate is already apparent. Despite being a much newer offering and despite the much higher bar of maturity for a cloud service, today, Confluent Cloud is already used by more than six times as many customers as Confluent Platform, our self-managed software offering.
+In fact, we are so confident in this value proposition that we invite prospects to come and take an assessment where we jointly do analysis with them to prove to them that choosing Confluent will be a more economical decision than self-supporting open source Kafka in the realm. A great example of the TCO benefits of Confluent for a customer in the earlier stages of the customer journey is a SaaS-based billing start-up that helps companies scale their consumption, subscription and hybrid pricing models. This customer's data and billing platform is built on Kafka to compute usage and invoices in real time for millions of end customers and is scaling rapidly to accommodate expected growth. But they quickly found that managing open source Kafka was costly and diverted expensive engineering talent from innovation to low-level infrastructure management.
+With Confluent Cloud, they are able to reallocate at least 60% of their engineers' time managing Kafka to delivering new product innovation without over-provisioning infrastructure. As a result, they've reduced deployment times from months to weeks while reducing the total cost of managing open source case Kafka. On the other end of the spectrum is a large Q1 deal with a top 10 U.S. bank.
+Confluent powers thousands of this customer's applications across hundreds of teams, spanning digital, fraud, payments, analytics and more. The bank is now going all in on the cloud, undertaking a massive cloud migration to operate more efficiently and introduce new innovation to their customers faster. To accelerate their cloud migration, they closed a seven-figure Confluent Cloud deal to connect their data from on-premise environments to the cloud. Despite the turmoil in the banking industry, this customer accelerated their cloud transformation with Confluent, another example of the many use cases that make data streaming a critical tool for modern organizations, even amid macro uncertainty.
+We are very excited about the opportunity for similar expansion in other customers as the financial services sector moves to the cloud. In closing, the significant product and cost advantages of our platform put us in a strong position to tap into the hundreds of thousands of users of Kafka, with a product that is more than 10 times better and meaningfully cheaper than open source. These dynamics put us in the enviable position as the leader of a $60 billion market opportunity. I look forward to seeing many of you at our Investor Day, where, among other things, we'll dive deeper into the significant product innovation driving the success of our platform.
+With that, I'll turn the call over to Steffan to walk through the financials.
+Steffan Tomlinson
+--
+Chief Financial Officer
+Thanks, Jay. We kicked off fiscal year 2023 beating our guided metrics, delivering high revenue growth and strong margin improvements in the first quarter. These results demonstrate another quarter of consistent execution from our team in a tougher economic environment. Turning to the results.
+RPO for the first quarter was $742.6 million, up 35%. Current RPO, estimated to be 64% of RPO, was $477 million, up 44% and accelerated from last quarter. Growth in RPO, while healthy, was impacted by a decline in average contract duration; additional budget scrutiny, which elongated our deal cycle; and a tough comp against the eight-figure TCV deal closed a year ago. Moving on to NRR.
+Starting this fiscal year, we moved to consumption-based NRR for Confluent Cloud, which provides better alignment and insight to the underlying consumption trends of our cloud business. Total NRR for Q1 was above 130%, and gross retention was above 90%. NRR for both cloud and hybrid customers remained higher than the company average, and NRR for cloud was the highest. We added 160 net new customers, ending the quarter with approximately 4,690 total customers, up 14%.
+The growth in our large customer base continues to be robust, driven by use case expansion. We added 60 customers with $100,000 or more in ARR, bringing the total to 1,075 customers, up 34%. These large customers contributed more than 85% of total revenue in the quarter. We also added 8 customers with $1 million or more in ARR, bringing the total to 135 customers, up 53%.
+We've included historical results for NRR and customer count relating to the ARR methodology change in our IR presentation on our website. Turning to the P&L. Total revenue grew 38% to $174.3 million. Subscription revenue grew 41% to $160.6 million and accounted for 92% of total revenue.
+Within subscription, Confluent Platform revenue grew 16% to $86.9 million and accounted for 50% of total revenue. Confluent Platform outperformed relative to our expectations and was driven by a strong performance in the public sector vertical. Confluent Cloud exceeded 50% of total new ACV bookings for the sixth consecutive quarter. Cloud revenue grew 89% to $73.6 million, representing a sequential increase of $5.3 million, exceeding our guidance.
+Cloud accounted for 42% of total revenue compared to 41% last quarter. The modest increase in cloud revenue mix relative to historical trends was due to the outperformance in Confluent Platform in the quarter. Turning to the geographic mix of revenue. Revenue from the U.S.
+grew 32% to $103.9 million. Revenue from outside the U.S. grew 49% to $70.4 million. Moving on to the rest of the income statement.
+I'll be referring to non-GAAP results, unless stated otherwise. Total gross margin was 72.2%, up 250 basis points and modestly above our target range of 70% to 72%. Subscription gross margin was 77.5%, up 200 basis points. Our healthy gross margins were driven by the continued improvement in the unit economics and scaling of our cloud offering, offset by a continued revenue mix shift to cloud.
+Turning to profitability and cash flow. Operating margin improved 18 percentage points to negative 23.1%, representing our third consecutive quarter of more than 10 points in improvement. Q1 operating margin was driven by our revenue outperformance, which we let flow through to the bottom line, and our continued focus on driving efficiency across the company. We drove improvement in every category of our operating expenses, with the most pronounced progress made again in sales and marketing, improving 11 percentage points.
+Net loss per share was negative $0.09 using 291.9 million basic and diluted weighted average shares outstanding. Fully diluted share count under the treasury stock method was approximately 350.1 million. Free cash flow margin declined 1 percentage point to negative 47.5%. As expected and discussed on our last earnings call, free cash flow in Q1 was negatively impacted by charges related to our restructuring, the Immerok acquisition, ESPP, and our corporate bonus payout.
+We ended the fourth quarter with $1.85 billion in cash, cash equivalents, and marketable securities. Now I'll turn to our outlook. The demand environment for data streaming and the solutions we're offering to the market continues to be robust, even in a choppy macro environment where it's taking longer to close deals. Mid-last year, we were early to flag the increase in the volatility of the business environment and incorporate those dynamics into our outlook.
+Looking out to Q2 and the balance of the year, we're expecting to deliver on the commitments we outlined on our last call. We are assuming there is a continuation of additional budget scrutiny, and there will be no improvement in the business environment through the remainder of this year. We'll continue to proactively allocate capital to drive efficient growth and are managing the rate and pace of investments. For the second quarter of 2023, we expect revenue to be in the range of $181 million to $183 million, representing growth of 30% to 31%; Cloud sequential revenue add to be in the range of $7.5 million to $8 million.
+We continue to expect Cloud sequential revenue add to increase every quarter for the rest of 2023. Non-GAAP operating margin to be approximately negative 16%; and non-GAAP net loss per share to be in the range of negative $0.08 to negative $0.06, using approximately 297 million weighted average shares outstanding. For the full year 2023, we expect revenue to be in the range of $760 million to $765 million, representing growth of 30% to 31%; non-GAAP operating margin to be approximately negative 14% to negative 13%; and non-GAAP net loss per share in the range of negative $0.20 to negative $0.14, using approximately 300 million weighted average shares outstanding. Additionally, for Q4 '23, we expect to deliver 48% to 50% of total revenue from cloud and achieve breakeven for non-GAAP operating margin.
+The timing for free cash flow breakeven will roughly mirror that of our operating margin. In closing, I'm pleased with the strong start to fiscal year 2023. While the macroeconomic environment remains challenging, we're continuing to deliver innovation and value to our customers, which would not be possible without the excellent performance of the members of our team. Looking forward, we remain focused on driving efficient growth and building a profitable business.
+Now, Jay and I will take your questions.
+Shane Xie
+Thanks, Steffan. [Operator instructions] We'll now pause a few seconds to assemble the Q&A roster. And today, our first question will come from Sanjit Singh with Morgan Stanley, followed by Wells Fargo. Sanjit, please go ahead.
+Sanjit Singh
+--
+Morgan Stanley -- Analyst
+Thank you for taking the questions. Congrats on the very solid results in what is a pretty difficult environment out there. And to that point, Steffan, I was wondering if you could just give us some color on how the quarter progressed, particularly post-Silicon Valley, what trends did you see in terms of booking trends, customer engagement? And what's been sort of the early reads, April going into May?
+Steffan Tomlinson
+--
+Chief Financial Officer
+On the booking trends throughout the quarter, we saw a typical linearity pattern that we would see in most Q1s. January started off as typical, which is usually a little bit slow and then it ramped up from a booking standpoint, and we had a good strong month three. From a consumption basis, we did see a little bit of an impact relative to some of the consumption trends in our Cloud business in the second half of March. And we saw that manifest itself in the financial vertical.
+What we did see, though, in April is a nice bounce back. And so, we saw a return to normal patterns for the consumption business in the financial vertical. And Jay, I don't know if you have other things you'd like to add on to that.
+Jay Kreps
+--
+Co-Founder and Chief Executive Officer
+I think that was a good summary, yeah. Broadly, the results were not too surprising, even though I think in some customers, both in tech and in financial services, there was a fair amount going on in the organization.
+Sanjit Singh
+--
+Morgan Stanley -- Analyst
+Yeah, I appreciate that. It makes a lot of sense and encouraging to hear about the trends, post-March, on the consumption side of financial services. Jay, you did a fantastic job of sort of explaining the value proposition of Confluent Cloud and the TCO advantages that Confluent's bringing to bear in the market. I guess the other side of the coin in terms of what we're trying to better understand is the impact of generative AI.
+I mean, if you're thinking about the classes of applications and the interfaces of those applications, what do you think is the impact on real-time streaming? Is that a forced accelerator for the category in terms of the ops? Or is that a potential headwind?
+Jay Kreps
+--
+Co-Founder and Chief Executive Officer
+Yes, it's absolutely an accelerator. I mean, it's early in terms of production deployments, as you would expect. But already, we have customers that are doing this for real, including a large travel company that's building real-time context data and using that to power chat interfaces for their customers. And I expect that to be a pattern that is more common.
+Generally speaking, when there's a new major area that data may need to go toward, that's a powerful thing for Confluent. The more new things, the better for us. And so, I know in some areas, it's actually a bit of a disruptive force. But for us, this is actually a powerful thing.
+And our role in that architecture is kind of helping customers assemble that real-time context data that would go into asking the right questions, powering the right queries, getting the right context into the interface, that's where we fit into that architecture. And then, of course, the same as any enterprise company, there's a lot of interesting use cases internally. We have a number of organizations, whether that's support, engineering, legal, where there's a significant amount of work that is basically text in and text out, that all of those teams could potentially be made more productive, kind of up their game as a result of some of these tools come into practice.
+Sanjit Singh
+--
+Morgan Stanley -- Analyst
+If I could just clarify and get your feedback on this sort of logic, where we're interacting with these question-and-answer type interfaces, right? Is the simple point that we need up-to-date data, and that you guys are going to be able to provide that? I mean, to the extent that we're dealing with the public ChatGPT, we're dealing with, outdated data, right? And potentially data at rest and other use cases. Is what Confluent going to do is bring that data sort of up-to-date, so we're getting the most up-to-date answers to our questions?
+Jay Kreps
+--
+Co-Founder and Chief Executive Officer
+Yeah. That's right. The architecture for these is both -- some amount of training that's usually done entirely by the centralized companies, say, an open AI's case, followed by maybe some amount of pretraining on data specific to that customer, and then most importantly, assembling the right information about the particular customer at the time of the question, right? And that's the -- that last bit is the part where we're most relevant. And that's actually quite important, just fitting this into a business that serves particular customers in particular ways that would have particular context about them that has to be incorporated in any response.
+Sanjit Singh
+--
+Morgan Stanley -- Analyst
+I appreciate the thoughts. Jay. Thank you very much.
+Shane Xie
+Thanks, Sanjit. We'll take our next question from Michael Turrin with Wells Fargo, followed by Piper Sandler.
+Michael Turrin
+--
+Wells Fargo Securities -- Analyst
+Hi, there. Good afternoon. Appreciate you taking the question. Nice job on the Q1 results.
+Steffan mentioned the ARR statement. It looks like it's tied to consumption. Can you maybe just help level set where those changes show up? And then on NRR, it looks like using the old method, that number did continue to come down a touch. So, maybe walk through what you're seeing there? And what you're assuming on the expansion side for the rest of the year?
+Steffan Tomlinson
+--
+Chief Financial Officer
+NRR change really impacts our cloud business. Prior to making the change, we had a commit-based NRR calculation, which didn't really capture the underlying momentum of our cloud business. With the consumption change to the NRR calculation, we're now capturing really the consumption-based strength of our business. It's better reflective of the actual underlying growth drivers, and it's also very consistent with what our peer group companies are doing that have a consumption-based model.
+So, think of MongoDB, Datadog, Snowflake, they all have moved to a consumption-based NRR. So, where it shows up is in our cloud business and then also in our hybrid customer NRR cohort, because those hybrid customers are running both Confluent Platform and Confluent Cloud. Confluent Platform will continue to be on the -- like the older methodology, which is the committed contract basis. But for the portion of their business that is Confluent Cloud, we'll calculate it using the commit basis.
+And as far as the older methodology, we did come in just slightly below the 125% metric that we established as a goal for total NRR. And what we saw the underlying driver is the gross retention of our business continues to be very strong, above 90%. But considering the current macro environment, we just saw less expansion that was driving through like the committed contract part of the business. But what we did see and what's better reflected in the new methodology is the consumption patterns of our customers are exceeding the committed contract spend.
+And so those are some of the dynamics at play. And going forward, where we will be reporting a consumption-based NRR metric, and that is, again, better reflective of the underlying performance of the business.
+Michael Turrin
+--
+Wells Fargo Securities -- Analyst
+That's super useful detail. If I can just follow on with just a quick point on what you're mentioning, Steffan. I think sometimes, the visibility you have into cloud consumption patterns is maybe underappreciated. So, the commentary is consistent around sequential improvement on the cloud side throughout the course of the year.
+Just any color you can provide around what visibility you have and what provides confidence in that progression continuing.
+Steffan Tomlinson
+--
+Chief Financial Officer
+We've taken great steps at organizing our business around a consumption-based approach. And that starts with our sales and go-to-market motion. Our sales folks have a consumption-based element to their quota. We've been a cloud-first company in terms of development cycles.
+And then we've done a lot of instrumentation around systems and process around forecasting. So, as we look through the balance of the year, what we said at the beginning of the year still holds up. We see net sequential revenue add for Confluent Cloud each quarter throughout the balance of the year, even in a tougher macro environment. And so, we feel really good about our ability to drive roughly about 48% to 50% of total revenues coming from Confluent Cloud exiting the year.
+And that gives us the confidence to put that stake in the ground.
+Michael Turrin
+--
+Wells Fargo Securities -- Analyst
+Thank you very much. Appreciate it.
+Shane Xie
+Thanks, Michael. We'll take our next question from Rob Owens with Piper Sandler, followed by TD Cowen. Rob?
+Rob Owens
+--
+Piper Sandler -- Analyst
+Thanks, Shane. Thank you, guys, for taking my question, good afternoon. Steffan, I know you just spoke to it to some degree, but you called out gross retention rates. And you've said they are above 90%.
+Can you walk us back a couple of years, the last time we saw disruption around COVID? Talk about what the experience with retention was then versus now. And is this becoming a much stickier application at this point?
+Steffan Tomlinson
+--
+Chief Financial Officer
+It definitely is a much thicker application today than it was a couple of years ago. A couple of years ago, the product that we had in the marketplace, while it was good, it didn't necessarily have all of the matured feature of functionality that we do today. The amount of innovation, our product and development organization has driven over the last couple of years, there's a marked difference between our product today versus what it was two years ago. And so, a couple of years ago, the gross retention rates were lower.
+The net retention rates were lower. Now we have really healthy net retention rates and gross retention rates due to the product maturity. And then also, if you layer into the equation, the improvements we've made to our go-to-market organization, we have this customer growth go-to-market journey that we've socialized with the investment community. And how we land customers is very important and then how we develop them over time through the progression that they start with from PayGo, all the way up through a fully mature implementation of our solution.
+It just has become much more sticky. And because we're an infrastructure play, this is not something that can be easily ripped and replaced or downgraded to the open source version. There's a vast difference between our Confluent Cloud offering and anything that you could get in open source. And therein lies the big differential.
+Rob Owens
+--
+Piper Sandler -- Analyst
+Great. I guess taking the other side of that for Jay, maybe talk a little bit about customer acquisition right now. And just what's convincing new customers to move in this environment?
+Jay Kreps
+--
+Co-Founder and Chief Executive Officer
+Yeah. I think it's a number of things. I mean, it starts with the kind of mission-critical applications. I think those are the ones that tend to move forward in this environment.
+The second aspect is the TCO that I talked about and ultimately, the feature set of the product. And I think that combination of being attached to a project, which is going to be important enough to continue forward, retain its funding even in organizations that are potentially cutting budget, trimming staff, etc., I think that's critical. And then I think bringing to bear something that is a better solution and a better deal, I think that's critical as well.
+Rob Owens
+--
+Piper Sandler -- Analyst
+Great. Thank you both.
+Jay Kreps
+--
+Co-Founder and Chief Executive Officer
+Thank you.
+Shane Xie
+Thanks, Rob. We'll take our next question from Derrick Wood with TD Cowen, followed by Guggenheim.
+Derrick Wood
+--
+Cowen and Company -- Analyst
+Great. Thanks, and congrats on a strong Q1. Just picking up on that, Jay, I thought you did a really good job outlining the advantages of cloud and what you guys are doing versus on-prem. And I wanted to talk about, there's a lot of Kafka DIY out there, ranging from very large cluster deployments from tens of thousands of companies in the long tail.
+And obviously, you guys have some really compelling TCO and ROI figures. Is the macro tipping point to drive more conversion? And when you look at kind of the top end of the pyramid and the bottom end, are you focused on one end or the other more in this environment to drive more open source conversions?
+Jay Kreps
+--
+Co-Founder and Chief Executive Officer
+Yeah, I think it is ultimately helpful. The initial impact of some downturn is not helpful, right? Customers are reprioritizing, people are being laid off, things are changing, that's not a helpful environment to do business in. And the additional scrutiny that we've talked about is exactly the factor. Over time, I do think that there's a mindset shift that's happening in technology where, to some extent, the more tech-forward organizations were kind of copying Google model from some decade ago where you would build out these internal infrastructure platforms in-house and staff them up, and that was going to be a kind of lever for success.
+And I think the modern way is just to get a managed service, and that, that's ultimately better and more cost effective. And I think that, that mindset shift is really important and is an important tailwind for us. So, when I talked about that, hey, what is the penetration that's possible for a company into the open source user base? I think that's ultimately the big driver, right? It's both about us having good-enough cost structure, having that TCO, making that true. It's not inherently true of every cloud product, right? That's something we've done a ton of work to make true.
+And then it's about people really kind of internalizing that and understanding it and acting on it, which doesn't happen immediately, but it is happening now. And so yes, when you talk about where on the journey are we focused? We do look at that full journey, right? For us, because customers progress, you start with one use case. It spreads to broader in the organization and becomes a big platform. It doesn't make sense to start at only one place.
+If you did that, maybe you might focus at the beginning of the journey, but customers would -- as they got to large scale, you wouldn't have the features and functionality to really support them. They would migrate off, right? That wouldn't be good. Only focusing on the very largest customers and not getting the next 100,000 Kafka users who are just starting now, that wouldn't make sense either, right? It makes most sense to start with them as they go. So the reality is, both in terms of the TCO and the customer experience, you have to be good all along the way.
+That's why it's actually so hard for these cloud products. It's why it's not a trivial thing to do. You have to be very easy to use and a better deal for that first app, one developer kicking the tires. And you have to be something that can be deployed at scale and used across a large organization effectively.
+And has the right controls and governance of data, etc., as you get to scale. I think that's why it's a deep area of investment to really do this well. And that's the journey we've been on. And I think the cool thing about where we're at with our cloud product right now is we have substantial customer usage at each spot along that.
+And indeed, we're kind of going out to the open source users and converting them over to this now, whatever stage on that journey they happen to be on right now.
+Derrick Wood
+--
+Cowen and Company -- Analyst
+Great. Great color. And Steffan, just wanted to -- last quarter, you talked about kind of less urgency from buyers at the end of the quarter, and you had deals slipped. Just wondering, did those -- the slipped deals kind of close as expected? And did it feel like the -- that kind of headwind end-of-quarter dynamic that you saw in Q4 faded a little bit in Q1? Because it didn't seem like you had any big surprises, but just wanted to get a sense for how end of quarter compared sequentially.
+Steffan Tomlinson
+--
+Chief Financial Officer
+Majority of the deals that had slipped from Q4 did close in Q1, which was great. We still are seeing the same dynamic that we've been calling out for the last several quarters candidly. Where customers are taking more time to evaluate purchases, it's elongating deal cycles. We've been able to execute through that and set guidance appropriately.
+And so, we did see similar dynamics in -- at the end of the quarter. And we're anticipating that, that dynamic is going to be factored throughout the balance of the year. So, that's really the dynamic at play.
+Derrick Wood
+--
+Cowen and Company -- Analyst
+OK. I appreciate it.
+Shane Xie
+Thanks, Derrick. We'll take our next question from Howard Ma with Guggenheim, followed by Barclays.
+Howard Ma
+--
+Guggenheim Partners -- Analyst
+All right, thank you. Jay, so dovetailing on some of your comments about TCO and the value prop of both platform features and fully managed, which I think it helps address an ongoing debate in the investor community about the mission criticality of Confluent. And how susceptible Confluent is to optimizing both overall IT and cloud spending. But can you give some more specific examples from a vertical-specific use case about expansion -- both expansion and new use cases that give you confidence in achieving your targets this year?
+Jay Kreps
+--
+Co-Founder and Chief Executive Officer
+Yeah, absolutely. I mean you would see this across virtually every industry. The one that we called out in the earnings was this large expansion in financial services. Yes, that's an industry that obviously, a lot is happening in.
+And so, the willingness to make big bets on this in the cloud, right? These are organizations that are very sensitive about security, about compliance, etc., really do a thorough job of betting. The willingness to make a big bet in this area is really one of a small number of third-party cloud infrastructure of vendors. I think that speaks to how critical this area is. And you could probably come up with a similar example in any other industry of interest, whether that's retail, insurance, automotive, public sector, really exciting things happening in each of those.
+Howard Ma
+--
+Guggenheim Partners -- Analyst
+OK. Great. That's helpful. And I have a follow-up for Steffan.
+Steffan, can you comment on your go-to-market priorities this year? Your investment priorities in particular, I guess, with respect to hiring more reps, bolstering customer retention efforts, building out -- further building out the channel ecosystem? has anything changed in the last few months that would require you to invest more in any of these fronts that would, I guess, derail or impede the plans to reach breakeven exiting year-end?
+Steffan Tomlinson
+--
+Chief Financial Officer
+We established a plan at the beginning of the year that focused on a number of investment priorities in the sales and go-to-market organization. And a lot of that is based on "capacity" that we want to ensure that we have across the world. And we will continue to be hiring in areas that showed the most promise and that have the most potential ROI for us. We will continue to make investments in our customer success organization, ensuring that the experience for the customer continues to be excellent, that will both bolster our gross retention rates.
+Nothing has changed relative to our major investment priorities for the year. In fact, I've been very pleased with the performance of how the groups are operating in a very choppy environment. If you look at the growth in RPO -- if you look at the growth at in CRPO in particular, we had an acceleration in CRPO this quarter. And that's in part due to the great work that the sales organization and the go-to-market organization is doing.
+So, to answer your question, no real changes relative to our plans that we outlined at the beginning of the year. And as I said in my prepared remarks, we're on track to achieve breakeven in Q4.
+Howard Ma
+--
+Guggenheim Partners -- Analyst
+OK. That's great. And the CRPO acceleration is certainly encouraging. Thanks for the questions, guys.
+Steffan Tomlinson
+--
+Chief Financial Officer
+Thank you.
+Jay Kreps
+--
+Co-Founder and Chief Executive Officer
+Thanks, Howard.
+Shane Xie
+Thanks, Howard. We'll take our next question from Raimo Lenschow with Barclays, followed by Mizuho.
+Raimo Lenschow
+--
+Barclays -- Analyst
+Thank you. Hey, guys, congrats. Great start to the year. I have two questions.
+First on cloud. Obviously, there's a big discussion going on with cloud consumption, optimization, etc., and we talked about it a little bit. Jay, like in what respect are you guys part of that? Can people kind of buy you through the marketplace now, and that's kind of a little bit of a headwind? Or is it more like people not doing -- now like there's a finite number of new projects starting in this environment. And then so, that's kind of more what's kind of creating the headwind for you?
+Jay Kreps
+--
+Co-Founder and Chief Executive Officer
+Yes.
+Raimo Lenschow
+--
+Barclays -- Analyst
+And the next question for Steffan. If you think about it, like you obviously outperformed Q1. Well done. You kept the full year guidance.
+That kind of is either more uncertainty or there's more of a buffer in the year. Can you just talk a little bit about the puts and takes that took your kind of guidance for the full year? Thank you.
+Jay Kreps
+--
+Co-Founder and Chief Executive Officer
+Yeah. I'll start with the first question. I think it's ultimately like, hey, to what extent are we subject to optimization, cloud optimization, which is a topic in every user of the public cloud, including us. And to what extent are we impacted by potentially fewer net new software projects that are occurring? Yeah, I would say the latter is probably the most significant factor, right? So, our expansion is driven by new projects coming on, adding their data streams, using the technology, taking it out to new use cases.
+The rate of that is certainly an important variable for us in growth. In addition to how active we are at converting those use cases, which is about the TCO in comparison to open source, etc., right? So, those two variables are very important. Is it possible to optimize the usage of Confluent? Yes, of course, right? It's possible to optimize the use of any SaaS product, right? And this shows up quicker in products that have a consumption revenue model. It shows up that very quarter.
+But obviously, companies are going through and cutting seats and looking at who really needs the access to that tool. And of course, all the layoffs and any other trimming of staff slow down to seat-based models, doing exactly the same way. So, yeah, I think there's optimization happening. Everywhere, you just see it faster in the consumption models.
+Within those products, of course, it's wildly different how much optimization is possible. And that has everything to do with what the product actually does, right? How much do you actually need, the thing that you bought? Is it, in fact, a mission-critical thing that you're going to keep running? Or is it something where you can just turn off if you don't need it? And that's an area where I think we have it very good. We're a mission-critical part of the production application stack. Those applications typically come fairly well-optimized.
+Of course, you can go rewrite your applications to try to be more efficient, send less data, whatever. But that's a lot of work, and it usually has already been done in the kind of building and deployment process. And so], we certainly see that, but we don't see as much of it. And so, typically, as we have kind of consumption coming online, it's kind of mostly pre-optimized.
+There may be further optimizations that will happen. But of course, that all folds up into that overall net retention rate. And we haven't seen any big changes in that in the last few quarters. Customers, of course, are trying to optimize, but they're also adding new projects, which drives expansion, what you see as kind of the combination of those two factors, which I think, in the end, is quite strong.
+Steffan Tomlinson
+--
+Chief Financial Officer
+And then turning to your question on guidance. Our point of view on the full year remains unchanged from last quarter. The demand environment remains healthy, even though it's a tough macro out there. So, we're reaffirming our guide for the full year, growing revenue at 30%, and plan to achieve breakeven on a non-GAAP operating margin basis in Q4.
+We did not flow through the amount of the overperformance we had in the top line this quarter to the full year guide, which is really a byproduct of the macro environment and factors I've called out before, which we're trying to prudently take into consideration while formulating guidance. You asked for some puts and takes. We expect cloud to continue its growth momentum with the highest NRR and an increase in sequential revenue add every quarter for the remainder of the year. And then the CRPO growth that I pointed out before, it continues to be robust.
+NRR remained healthy. And both of those things support the growth and the overall business plan.
+Raimo Lenschow
+--
+Barclays -- Analyst
+OK. Thank you for that.
+Shane Xie
+Thanks, Raimo. We'll take our next question from Gregg Moskowitz with Mizuho, followed by Deutsche Bank.
+Gregg Moskowitz
+--
+Mizuho Securities -- Analyst
+OK. Thank you for taking the questions. I guess, first for Jay. At your Investor briefing last October, I think it was Erica who mentioned that on average, you were taking customers who made a significant commitment, about six months, for their annualized consumption to match their commitment levels.
+Obviously, the macro has gotten tougher since then. So, I was just curious kind of where that stands today.
+Jay Kreps
+--
+Co-Founder and Chief Executive Officer
+Yeah, we haven't seen a huge change in the ramp-up of customers. That's more determined by how long it takes them to build their applications, get them online, get them fully consuming, roll them out, which is the average of companies who are moving very fast and companies who move slower. So, I'd say that has less impact from the macro. We have seen a little bit of change in the behavior of customers and how they use the commits.
+Steffan called out a little bit of compression in the multiyear stuff. In general, I think customers are just being thoughtful about the amount that they're committing to. And the plus side of that is we've seen very strong consumption against those committed amounts, which is great. That's what we want to see.
+We don't want customers buying a lot that remains unused or anything like that. And so, that kind of above-100% utilization is a good thing.
+Gregg Moskowitz
+--
+Mizuho Securities -- Analyst
+All right. Great. And then I know the commercial segment has been very resilient for Confluent. Did that continue this quarter? Or are you starting to see some weakness?
+Jay Kreps
+--
+Co-Founder and Chief Executive Officer
+Yeah. It did continue this quarter. We've been watching it closely because I think that segment obviously has a lot of these private tech companies that I think are a bit fragile under very significant pressure. And so, we kind of have expected to see some hit there, and have not.
+I would describe that primarily to the fact that there's just a lot of untapped opportunity. So, of course, there is pressure. Of course, that is a countervailing force, but there's also just a lot of open source kind of usage to grow into. And so, the fact that we hadn't paid as much attention to that segment until later at the life of the company and have now gone after it means there's still a lot of opportunity there.
+Gregg Moskowitz
+--
+Mizuho Securities -- Analyst
+Very helpful, thank you.
+Shane Xie
+[Operator instructions] I think we're still waiting for Deutsche to join the room. Ryan, let's go to Eric Heath from KeyBanc. Hey, Eric?
+Eric Heath
+--
+KeyBanc Capital Markets -- Analyst
+I'm in here now. Thanks, Shane. So, Steffan, just on the cloud revenue side, I think you altered your guidance a little bit to 48% to 50% of Confluent Cloud -- of revenue coming from Confluent Cloud in 4Q. Just curious if that's more so a function of new use cases being brought online being a little bit slower than you expected? Or is it growth of existing use cases moderating a little bit?
+Steffan Tomlinson
+--
+Chief Financial Officer
+It's a little bit of a combination of both. And then as we think about just the mix of business, we did have a strong Q1 for Confluent Platform. And we look at the overall mix for the year. And so, we modestly shaped the guide for our cloud business.
+Originally, we said approximately 50% for the year. We basically gave a range, widened it a little bit to 48% to 50%. I will say that given the run rate that we have with Confluent Cloud, we're almost at a $300 million run rate, growing at 89%. And the consumption of Confluent Cloud continues to be robust.
+So, when we think about use case expansion opportunities, there is a natural network effect with the consumption business that we're seeing. In this environment, sometimes it does take companies longer to deploy new workloads, et cetera. So, that was factored into the 48% to 50% comment that I made earlier.
+Eric Heath
+--
+KeyBanc Capital Markets -- Analyst
+Got it. And Jay, if I could just ask you a question. I might have missed it at the beginning, apologies. But just on generative AI, I mean, Kafka and Flink are challenging technologies, and finding people with those skill sets is kind of difficult.
+Just curious if there's an opportunity to leverage generative AI to basically democratize access to those technologies. And if that's something that could bring more users onto the platform?
+Jay Kreps
+--
+Co-Founder and Chief Executive Officer
+Yeah, absolutely. Like I did address this briefly, but the answer focused more on what's the role we provide in generative AI architectures. The flip side of that is what are the use cases for us. And of course, to the extent that software engineers can become more productive in building applications around this, through tools like copilot and things like that.
+Obviously, we become more efficient in building our products, but also our customers actually can be much faster at consuming our products. And that's a phenomenal thing. We'll have to see how it all plays out. Like I think the full impact of this and then how it plays out, as it happens in all companies is really hard to kind of estimate the second-order effects of what all that means.
+But I think it's net-net, a very positive thing for us.
+Eric Heath
+--
+KeyBanc Capital Markets -- Analyst
+OK. Thanks, Jay.
+Shane Xie
+All right. Thanks, Eric. We'll take our next question from Rudy Kessinger with D.A. Davidson.
+Rudy?
+Rudy Kessinger
+--
+D.A. Davidson -- Analyst
+Steffan, gross margins in the last couple of quarters, certainly trending a bit above your midterm target, more so in the range of your long-term target. How should we expect those to trend near term? Why are you seeing the outperformance there? And when we look at the guide, you reiterated the revenue, but you took up the operating margin a bit. And is the gross margin outperformance the primary source of that upside in the operating margins? Because it sounds like you're keeping hiring plans pretty much the same.
+Steffan Tomlinson
+--
+Chief Financial Officer
+Well, gross margin has been a bright spot for us, especially given the dynamics at play where we've had an increase in Confluent Cloud revenue really go exponential over the last, call it, two years. Two years ago, it accounted for 18% of revenue. And today, it accounts for 42% of revenue. And it comes at a lower gross margin profile than Platform.
+And we've made a lot of progress on the unit economic -- unit economics there. And we've seen really, really strong growth. So, as we look toward what the future holds, we feel comfortable with the 70% to 72% range, because we think the cloud business will continue its upward trajectory. Longer term, we think it will be in the -- call it the mid-70s.
+The rate and pace of us being able to expand there is going to be dependent upon a lot of the engineering work that we're doing, the price discipline that we have, and the value that we're bringing to our customers. And then as it relates to how our overall guidance worked for not only Q2, but for the balance of the year, we are anticipating being at the higher end of our near-term range of 70% to 72% in gross margin. We're definitely letting that flow through the bottom line, but we're also seeing the efficiency work that we've been really focused on across all opex line items paying off. And so, our operational cadence around efficient growth is playing out.
+We have -- that work is never done. And we're laser-focused on delivering it. But we're very happy that we're able to deliver top-line revenue growth that is in what we call high-growth mode and dramatically improve operating margin on our path to get to breakeven in Q4.
+Rudy Kessinger
+--
+D.A. Davidson -- Analyst
+That's helpful. And then was there anything in particular that drove the Platform strength in the quarter? I know it's certainly by two things. I mean, one, most of the revenue upside came from the Platform versus your guide. And then secondly, I know in Q4, cloud was 70% -- over 70% of new bookings, and it was over 50% this quarter.
+So, obviously, the new bookings mix trend in more terms Platform. Anything in particular that you think drove that strength?
+Steffan Tomlinson
+--
+Chief Financial Officer
+You called out the strength in the public sector vertical, that tends to be Confluent Platform business. And those also tend to be one-year deals. And it was actually the best Q1 in public sector that the company has ever had. So, that really drove the strength in the platform overperformance.
+And because of that strength, we did see a mix shift from an ACV standpoint. While cloud was greater than 50%, it did come down from a mix standpoint given just the strength in Confluent Platform. I will say that Confluent Cloud, we've had now six-plus quarters in a row of greater than 50% of net new ACV being Confluent Cloud. So, that businesses still continue to grow at a very rapid pace.
+It was just that Confluent Platform deals tend to be lumpy, and they can be seasonal also, and that's what we saw play out this quarter.
+Rudy Kessinger
+--
+D.A. Davidson -- Analyst
+Got it. That's helpful. Thanks for taking my questions and congrats again on the good numbers here.
+Steffan Tomlinson
+--
+Chief Financial Officer
+Thanks, Rudy.
+Shane Xie
+Thanks, Rudy. We'll take our last question from Shebly Seyrafi with FBN Securities.
+Shebly Seyrafi
+--
+FBN Securities -- Analyst
+Yes, thank you very much. So, what was your headcount number for Q1? Did you complete the 8% headcount reduction that you announced? And do you anticipate further headcount reductions as the year progresses?
+Jay Kreps
+--
+Co-Founder and Chief Executive Officer
+Yeah. Do you want to take the headcount question, Steffan?
+Steffan Tomlinson
+--
+Chief Financial Officer
+Yeah. So, we substantially completed our restructuring. It's not 100% done, but it's substantially complete. We haven't disclosed the actual ending Q1 headcount before.
+So, yes, I can say it's below what it was last -- at the end of Q4, for obvious reasons, due to the restructuring. And we are continuing to be focused on driving operational efficiency throughout the year. And so, Jay, I'm happy to turn it over to you to answer any other part of the question.
+Jay Kreps
+--
+Co-Founder and Chief Executive Officer
+Yes, yes. Yes, we're not planning for any further reductions at this point.
+Shebly Seyrafi
+--
+FBN Securities -- Analyst
+OK. And I get that your Cloud gross margin declined two points sequentially in Q1, the first time that's happened in my model. If I assume like your Platform gross margin is like 88% or high 80s, you get around 65% for the cloud in Q1 from 67% in Q4. First of all, did that happen? Was there a gross margin decline in cloud for the first time sequentially? Why did that happen? And what's your outlook going forward?
+Steffan Tomlinson
+--
+Chief Financial Officer
+Well, we don't guide on the specific componentry of platform versus cloud gross margins. But what I will tell you is that the -- and I know it's hard to model from outside-in, but the dynamic that you described actually it didn't happen. We saw nice improvements in our margin structure for the components that go into our subscription margins.
+Shebly Seyrafi
+--
+FBN Securities -- Analyst
+OK. Thank you.
+Shane Xie
+All right. That concludes today's earnings call. Thank you all very much for joining us. We look forward to seeing many of you at our upcoming conferences and our Investor Day in June.
+Take care.
+Jay Kreps
+--
+Co-Founder and Chief Executive Officer
+Thanks, all.
+Duration: 0 minutes

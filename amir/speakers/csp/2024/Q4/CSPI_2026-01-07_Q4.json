@@ -1,0 +1,117 @@
+[
+  {
+    "speaker": "Unknown",
+    "role": "",
+    "text": "Full Conference Call Transcript"
+  },
+  {
+    "speaker": "Michael Polyviou",
+    "role": "",
+    "text": "Thank you, Alan. Hello, everyone, and thank you for joining us to review CSPi's fiscal fourth quarter and full year 2024 financial results, which ended September 30, 2024. With me on the call today is Victor Dellovo, CSPi's Chief Executive Officer; and Gary Levine, CSPi's Chief Financial Officer. After Victor and Gary conclude their opening remarks, we'll then open the call for questions. During the Q&A session, we ask participants to limit themselves to one question and one follow-up question and then re-queue, if they have additional questions. Statements made by CSPi's management on today's call regarding the company's business that are not historical facts may be forward-looking statements as the terms identified in federal securities laws. The words may, will, expect, believe, anticipate, project, plan, intend, estimate and continue as well as similar expressions are intended to identify forward-looking statements. Forward-looking statements should not be meant as a guarantee of future performance or results. The company cautions you that these statements reflect current expectations about the company's future performance or events and are subject to several uncertainties, risks and other influences, many of which are beyond the company's control that may influence the accuracy of the statements and the projections upon which the segment and statements are based. Factors that may affect the company's results include, but are not limited to, the risks and uncertainties discussed in the Risk Factors section of the annual report on Form 10-K and the quarterly report on Form 10-Q filed with the Securities and Exchange Commission. Forward-looking statements are based on information available at the time those statements are made and management's good faith belief as of the time with respect to future events. All forward-looking statements are qualified in the entirety by this cautionary statement and CSPi undertakes no obligation to publicly revise or update any forward-looking statements, whether as a result of new information, future events or otherwise after the date thereof. With that, I'll turn the call over to Victor Dellovo, Chief Executive Officer. Victor, please go ahead."
+  },
+  {
+    "speaker": "Victor Dellovo",
+    "role": "",
+    "text": "Thanks, Michael, and good morning, everyone. Our fourth quarter and full year financial results came in pretty much as expected when we last talked with you in August. Recurring revenue, which has been an area we have committed to growing, increased 17% of the total sales compared to less than 5% of sales just a couple of years ago. Overall, we finished the year with more than $30 million in cash and cash equivalents as of September 30th, 2024. Technology Solutions business generated approximately $12.7 million in sales in the fourth quarter of fiscal 2024. We finished the quarter with plenty of momentum. For example, very little of our fiscal fourth quarter revenue came from our cruise ship customers. However, towards the end of the quarter and during the current fiscal first quarter, we've seen a pickup in the business, including the signing of a large order that should be executed during the next fiscal year. It was the first cruise ship order for Professional Services for our company in many quarters and piggybacks on the continued consistent momentum we built in the Ocean Freightliner market. Our freightliner operation customer continues to add new ships and choose to utilize our managed service offering following the retrofits, which have led to increase in recurring revenue. We continue to see increased demand for our cloud clients who want to migrate the consumption of these services to our cloud group. We also have a dozen active cloud based projects to accommodate the growth. We continue to invest in people and process to provide managed service to assist in our clients with the day-to-day operations of these environments. The pipeline remains very encouraging, so we are optimistic about our opportunities to grow the overall TS sales, especially the recurring revenue piece during the coming fiscal year. On the HPP side of the business, for the fourth quarter of fiscal 2024, we reported revenue of $0.4 million mostly from ARIA based customers. Also, as we discussed in the prior conference call, we were in the process of transitioning our AZT PROTECT sales effort being led by Greg Fischer, an experienced 20-year OT Industry sales veteran who joined us in July of 2024 has redirected the organization to maximize our relationships with Rockwell Automation and other distribution partners. In the short amount of time, we've made significant progress in building the market for this unique product, and we entered the new fiscal year with great potential from Rockwell and the other distribution partners that primarily serve the middle market OT customers, which tend to have shorter sales cycles than the larger OT organizations. Our internal team will continue to address the large individual corporate OT buyers with the sales cycles extending up to 18 months, while they work closely with the distributors to build the short-term revenue from the middle market customers. An example was a deal we announced with a Fortune 500 Electric Energy Producer that selected ARIA Cybersecurity, AZT PROTECT to protect its critical OT infrastructure from malicious cyber-attacks. This was the first order of many to come as we will be as it will be a few thousand endpoints over the next three years. We will assist with the rollout as fast as the customer will allow. We believe this approach will result in a noted upturn in AZT PROTECT sales in fiscal 2025 unfolds. Working with Rockwell Automation and other distribution partners, our sales team has quickly expanded the leads for AZT PROTECT to over 100. Many of these leads were generated from the Rockwell Automation Fair back in late November of 2024. But Gary Southwell, our Vice President and General Manager of High Performance Products, presented an in-depth view of the latest attack techniques and their financial impact. Gary's presentation was one of the show's hits and was a major reason why we generate so many leads from our participation. We also had a booth at the American Petroleum Institute Show for Oil and Natural Gas in Houston, where we began a relationship with several large companies. We further expanded AZT PROTECT'S awareness in the market by attending the Industrial Control System SecurityWeek Show in Atlanta. While we work to convert the leads generated from these activities into AZ Tech sales during the fiscal 2025, we will be supporting additional regional trade shows events with our distributors throughout the year. I strongly believe the interest we are generating at the trade shows is fostering by nine major industry awards from AZT PROTECT has received since its launch, including the winner of the Application Security category at the 2024 Fortress Cybersecurity Award presented by Business Intelligence Group. Our efforts to sign new distributors and gain new customers has also benefited from the July CrowdStrike update failure that exposed the risk continuous cloud updates can have on critical OT applications, including industrial automation industry control systems. There is a recognition from the industrial automation vendors and their distribution channels that the traditional IT focused endpoint protection methodologies were not meeting their requirements. We believe companies using AZT PROTECT protection capabilities can prevent zero day malicious code from taking critical systems down out of the box without having seen it before and then relying on cloud updates to block such attacks. We've proven this capability in the field under real life operational circumstances. This alternative approach to protect industrial control service is being received as a welcome news by Rockwell Distributor Partners. The Rockwell Show was the mechanism needed to bring new this news into the ecosystem. From there, we believe we can expand into other markets. We have one agreement already completed and three others in process with top tier US based Rockwell distributors allowing our US team to work directly with the distributor sales teams to map out Targa's accounts to approach together. In summary, when we consider AZT PROTECT market momentum and the emergence of the Rockwell partnership, the growth of the managed service business and the pickup in the cruise lines, we have a potential to return growth during the fiscal 2025. With that, I will now ask Gary to provide a brief overview of the fiscal fourth quarter financial performance."
+  },
+  {
+    "speaker": "Gary Levine",
+    "role": "",
+    "text": "Thanks, Victor. For the fourth quarter ended September 30th, 2024, we reported revenue of $13 million compared to revenue of $15.3 million for the fiscal fourth quarter ended September 30th, 2023. Revenue was relatively flat compared to 2024 fiscal third and second quarters. Service revenue represented $4.0 million of overall sales compared to the year ago service revenues of $4.3 million. Gross profit for the three months ended September 30th, 2024 was $3.7 million or 28.4% of sales compared to $5.2 million or 33.8% of sales reflecting a higher percentage of product sales. Gross margins on our service revenue increased 160 basis points from last year's comparable figures. The company reported a net loss of $1.7 million or $0.18 loss per common share for the fourth quarter ended September 30th, 2024, compared to net income of $1.4 million or $0.15 per diluted share for fiscal fourth quarter ended September 30th, 2023. We had cash and cash equivalents of $30.6 million as compared to $25.2 million at the end of our 2023 fiscal year. The robust balance sheet ensures that the company has the resources to implement the AZT PROTECT product offering and other growth strategies. During the fourth quarter of 2024, the company repurchased 2,800 shares of stock at a total cost of $34,000. And the Board of Directors has approved the payment of a $0.03 per share quarterly dividend to shareholders of record at the close of business on December 27, 2024, payable on January 15, 2025. For the fiscal quarter, our engineering and development expenses were $793,000 compared to $705,000. The increase was for outside consulting and stock compensation. Our SG&A was $5.5 million compared to $4.8 million in the year ago fiscal fourth quarter. The increase was based on increased legal, audit and tax and recruiting expenses. For the full year ended September 30th, 2024, revenue was $15.2 million (sic) [$55.2 million] compared with revenue of $64.6 million in the prior year. Gross profit for the fiscal year was $18.9 million or 34.1% of sales compared to $21.9 million and 33.9% of sales with the decline largely attributed to product mix. We reported a net loss of $0.3 million or $0.04 per diluted share in the fiscal year ended September 30th, 2024, compared to the net income of $5.2 million or $0.55 of income per diluted share for the fiscal year ended September 30th, 2023. With that, I will turn it over to the operator to take your questions."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Thank you. At this time, we will be conducting our question-and-answer session. [Operator Instructions] Thank you. Our first question is coming from Joseph Nerges with Segren Investments. Sir, your line is live."
+  },
+  {
+    "speaker": "Joseph Nerges",
+    "role": "",
+    "text": "Good morning, guys. How are you today?"
+  },
+  {
+    "speaker": "Joseph Nerges",
+    "role": "",
+    "text": "Just one quick accounting point here. Gary, last year, I think you mentioned in our fourth quarter, we had a credit of $2.1 million for employment retention credit in our reporting of fourth quarter of last fiscal year. So obviously that number and when we're comparing fourth quarter this year versus fourth quarter last year, that credit didn't fall into this year. So that's a considerable number."
+  },
+  {
+    "speaker": "Joseph Nerges",
+    "role": "",
+    "text": "I'll go on to the, not really your question, but we talked about last year, Victor, quite a bit, we call proof-of-concept. And I realize the trade shows that you referred to were very recent. In fact, we were in one last week, I believe, in Oman."
+  },
+  {
+    "speaker": "Joseph Nerges",
+    "role": "",
+    "text": "But the Rockwell was last month and then the Atlanta show, I think, was the month previous, whatever. So I'm assuming there's an enormous amount of leads come out of all those shows, but do we have any proof-of-concepts? Have we started testing any of these companies or even prior to where are we at today with testing? How many people are out there? How could I say, testing AZT PROTECT today?"
+  },
+  {
+    "speaker": "Victor Dellovo",
+    "role": "",
+    "text": "Yes. From the shows, the one for Rockwell, it was right before Thanksgiving, and then you had Thanksgiving, and then it's literally only been like 10 business days that we've been able to contact those. But, yes, there's been a lot of conversation, but the one that was overseas, we actually are starting a POC, believe it or not, on Sunday that happened already just in a week. So, yes, there's been a lot of activity, a lot of conversations, and a lot of people like the POCs will start after the New Year, they're kind of already on vacation mode, but there's been a lot of good conversations and a lot of things that we have to follow-up on the New Year."
+  },
+  {
+    "speaker": "Joseph Nerges",
+    "role": "",
+    "text": "Yes. But even prior to that, we've had proof-of-concepts ongoing even from earlier this year?"
+  },
+  {
+    "speaker": "Victor Dellovo",
+    "role": "",
+    "text": "Yes. And those will continue. I think maybe I misunderstood your question, but like I thought you meant new just from those recent shows. But, yes, we have probably more than a dozen of POCs going on of -- in various stages. The one that we closed with the energy company recently that was over a year POC and we finally got awarded and there's some other that we're waiting, the POCs are done, and now we're just waiting either for budgets or we're waiting to see if we were the last one standing on in the POCs. And a lot of them had said to us that decisions we made in January. I don't know if that's true or not, if it moves, but we are waiting for a couple very promising things in January. So hopefully they come through."
+  },
+  {
+    "speaker": "Joseph Nerges",
+    "role": "",
+    "text": "And just to clarify, you've made PRs on this before, but we have three Fortune 500 companies now that are utilizing AZT PROTECT, a chemical company, the power company that you just referred to and then pharmaceutical company that we announced earlier this year, as well as the government, the Western Intelligence Agency that are utilizing ACT PROTECT. So we're not talking about small customers here that have looked at it and approved it. I just want to clarify that."
+  },
+  {
+    "speaker": "Victor Dellovo",
+    "role": "",
+    "text": "Yes. And hot off the presses, just keep your eyes out there'll be something coming out early next week on another nice win. So I'll just give you a --"
+  },
+  {
+    "speaker": "Joseph Nerges",
+    "role": "",
+    "text": "All right. I appreciate that. And one other point on the stock buyback, it will be like 2,800 shares. All I'm saying is, I think you guys and the Board ought to get maybe slightly more aggressive. I know we have a little more volume in the shares now than we did a year ago, but so we can buy more shares under the market conditions, but I would think that you guys should be seriously considering maybe upping the amount of shares that can be repurchased under the program. And I'll move on to somebody else's questions now. Thanks again guys."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Thank you. Our next question is coming from Will Lauber with Visionary Wealth Advisors. Your line is live."
+  },
+  {
+    "speaker": "Will Lauber",
+    "role": "",
+    "text": "Yes, guys, just so people can realize and help us get a handle on how much money you guys are putting into this AZT effort for hopefully a huge payoff down the line. What would the earnings have been that division for this year?"
+  },
+  {
+    "speaker": "Gary Levine",
+    "role": "",
+    "text": "But it was a loss. So I mean."
+  },
+  {
+    "speaker": "Will Lauber",
+    "role": "",
+    "text": "No, you said if you're taking out, if you took out AZT, but if it was just TS, it would."
+  },
+  {
+    "speaker": "Gary Levine",
+    "role": "",
+    "text": "Yes, definitely. It would be profitable."
+  },
+  {
+    "speaker": "Victor Dellovo",
+    "role": "",
+    "text": "It would be very profitable, yes. Yes, that's something that I have to understand that TS is doing really, really well. They are the cash cow that's paying for all this R&D for AZT. And to grow the cash position and to have a true start up and only have a small loss for the whole year. Like I said, people want earnings, they want dividend, they want cash growth, they want but AZT is truly a start up with building we have to build a whole food chain for distribution. There's a lot going on right now. But now that in building the sales team, getting partners, there's a lot going on, on that side of it. And then we had Myricom sales last year. And unfortunately, because that product was over 20 years old, the big distributor or manufacturer actually that was building the boards no longer will build the board. So all that Myricom business from last year went away. There are some pieces and parts that we still sell, but they're minimal now. So if you really look at it, where we were and where we are in to Joe's point, our big customers that we have closed are all Fortune 500 customers. And that's where a lot of the testing, it took a lot of time through the POCs, but now we have four customers that are using it, that are happy. And now we're just, like I said, building out the food chain to try to get in front of more people, building our name recognition, which is, like I said on a prior call, is one of the things that I think is just because of our size and our name, it takes a lot more effort to get that sale over the fence just because we're competing with some other multi-billion dollar companies in this space."
+  },
+  {
+    "speaker": "Will Lauber",
+    "role": "",
+    "text": "Okay. Could you guys put an approximation on it? I mean, could we have earned $1 a share?"
+  },
+  {
+    "speaker": "Victor Dellovo",
+    "role": "",
+    "text": "Yes, more than that, yes."
+  }
+]

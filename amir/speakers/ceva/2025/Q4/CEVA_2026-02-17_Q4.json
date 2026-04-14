@@ -1,0 +1,382 @@
+[
+  {
+    "speaker": "Unknown",
+    "role": "",
+    "text": "Full Conference Call Transcript Amir? Thank you, Richard. Welcome, everyone, and thank you for joining us today. 2025 was a landmark year for CEVA, Inc. We strengthened our foundation, reinforced our leadership position in wireless connectivity, and accelerated our expansion into AI for the Smart Edge."
+  },
+  {
+    "speaker": "Amir Panush",
+    "role": "",
+    "text": "Throughout the year, we continued executing on our long-term strategy, partnering closely with customers to solve their most critical technology challenges through a comprehensive, best-in-class portfolio of IP platforms that enable smart edge devices to connect, sense, and infer data locally. This strategy matters now more than ever. The shift of AI inference from the cloud to the edge and toward hybrid AI continues to accelerate, and the next wave of innovation is increasingly about physical AI, where devices must connect to and sense their environment, process data locally, and infer in real time to make decisions. CEVA, Inc. is uniquely positioned for the physical AI era. By offering a comprehensive portfolio of IP building blocks spanning connect, sense, and infer use cases, we provide the flexibility our customers need. Whether licensed individually or in multi-IP configurations, these technologies drive superior customer outcomes and strengthen our long-term economic model. Before reviewing the year and our key achievements, I will first provide an overview of our fourth quarter performance. For the fourth quarter, we delivered the highest quarterly revenue in CEVA, Inc.'s history, which was 7% higher year over year excluding the Intrinsix design services business, which we divested in 2023. Licensing revenue increased 11%, exceeding our expectation through strong execution across all three of our technology pillars and reflecting broad demand across multiple end markets. In the quarter, we signed eighteen licensing agreements, including three NPU licensing deals, multiple our portfolio."
+  },
+  {
+    "speaker": "Richard Kingston",
+    "role": "",
+    "text": "Of the 18 deals signed,"
+  },
+  {
+    "speaker": "Amir Panush",
+    "role": "",
+    "text": "five were with OEMs. Turning to licensing high PC OEM."
+  },
+  {
+    "speaker": "Richard Kingston",
+    "role": "",
+    "text": "Category. This win underscores our ability to set the standards for high-performance AI integration into next-generation computing. This partnership is allowing them to focus their engineering talent on software, model optimization, and user experience differentiation. Second, it competitive AI performance. As AI features proliferate across operating systems, creative workflows, productivity applications, and local LLM acceleration, the ability to deliver superior performance per watt is the new strategic differentiator, and CEVA, Inc. is a key player in this transition. Importantly, our AI momentum is also increasingly reflected in our financial mix as well as deal activity. AI processor licensing represented a meaningful portion of our licensing revenue in 2025. While AI design cycles can be longer than traditional connectivity deployments, these agreements typically carry higher per unit and longer-term royalty potential, expanding content per device and strengthening the durability of our royalty model over time. As for licensing highlights in connectivity, our connectivity business delivered another strong performance in the fourth quarter, highlighting the depth and durability of our wireless franchise. Bluetooth and Wi-Fi IPs continue to see strong demand as customers upgrade to Wi-Fi 7 and Bluetooth High Data Throughput. This quarter's deals include Wi-Fi 7 for IoT, a multiuse Bluetooth HDT agreement, and three Bluetooth Wi-Fi combo wins. One notable win was with the semiconductor division of one of the world's largest white goods manufacturers, which licensed our Wi-Fi 6 and Bluetooth IP for a combo connectivity chipset supporting smart home applications. This illustrates a broader trend. Consumer, industrial, and automotive OEMs are increasingly designing their own connectivity silicon to deliver tightly integrated another stand-out deal in the fourth quarter was a software licensing agreement with a leading TV platform planning to integrate our MotionEngine technology into its smart TV operating system used by multiple global TV brands. As TVs evolve into interactive experience hubs, motion-based inputs and enhanced user interactions are becoming increasingly important. CEVA, Inc.'s long-standing presence in this market provides deep now turning to royalties. This was our strongest royalty quarter in more than four years. Growth across our diversified Smart Edge royalty customers more than offset mobile softness, underscoring the strength and resilience of our business model. In the fourth quarter, Wi-Fi shipments reached a record high, up 31% year over year, reflecting increased deployment, often as part of combo connectivity chips. Cellular IoT shipments were up 30% year over year, driven by Smart Edge application apply constraints. Continue to impact smartphone shipments. Now turning for the full year 2025 review. For the full year, total revenue increased two year over year. Licensing and related revenue grew 6%, reflecting strong demand across AI and advanced connectivity. Royalty revenue was down 2%, primarily due to smartphone softness and memory supply shortage impacting overall unit shipment. Importantly, royalties grew sequentially each quarter, and we exited the year with our strongest royalty quarter in more than four years. CEVA, Inc.-powered devices shipped in 2025 reached a record 2,100,000,000 units, up 6% year over year, with record Wi-Fi shipments, which grew 48% year over year, and a record cellular IoT shipment, up 42% year over year. Overall, we signed 54 licensing agreements in 2025 across our extensive IP portfolio, including 10 OEMs agreements. Importantly, 12 customers licensed multiple CEVA, Inc. technologies, a clear indication that our strategy to offer a broad portfolio across connect, sense, and infer is resonating, enabling customers to address multiple requirements within a single engagement. Taking a step back, 2025 featured several important milestones that reinforce our long-term opportunities. The strength of our connectivity franchise is defined by deep customer integration and scale. During the year, we signed nearly 30 new engagements for our Bluetooth and Wi-Fi IPs, underscoring continued relevance across Smart Edge markets. We also secured Wi-Fi severance agreements with two of our largest connectivity customers, who together have shipped more than 3,000,000,000 CEVA, Inc.-powered devices, effectively establishing long-lived royalty engines that we expect to drive billions of units and tens of millions of dollars in royalties in addition, over the life of these programs. Continues to differentiate us our ability to deliver integrated combo solutions and engagements with a leading global PC OEM, underscoring our traction across embedded consumer, automotive, industrial, and compute to market. This moment licensing agreements we signed during 2025 are building long-term royalty trajectory and visibility. Based on these signed agreements and our insights into customers' roadmaps, we estimate that they represent an aggregated lifetime royalty potential of $125,000,000 over their expected product life. While this value will be realized over multiple years and is dependent on customers' deployment and market adoption and accelerating momentum of the licensing and royalty flywheel we are building. In terms of scale and credibility, we celebrated reaching 20,000,000,000 cumulative CEVA, Inc. power end of the fourth quarter. These milestones reflect the trust we have built with the industry over decades and position CEVA, Inc. strongly for the physical AI era now underway. A key strength of our business that is often underappreciated is our diversification across Smart Edge end markets. In 2025, Smart Edge applications generated 86% of total revenue, driven by market share gains by CEVA, Inc.-powered customers across consumer, automotive, industrial, and infrastructure markets. As intelligence continues to move into physical devices, this diversified and expanding customer footprint from enabling the Smart Edge to enabling physical AI, where connectivity, sensing, inference positions CEVA, Inc. to evolve naturally converge to drive the next phase of growth. Entering 2026, we are focused on extending our leadership in established categories and deepening our integration with our customers' roadmaps. By providing a more complete IP stack, we are becoming an even more essential partner to our customers, effectively increasing the value per device. Now I will turn the call over to Yaniv to review the financials. Thank you, Amir. Good morning. I will now start by reviewing the results of the operations for 2025. Revenue for the fourth quarter increased 7% year over year and 10% sequentially. Licensing and related revenue increased 11% year over year and 9% sequentially to $17.5 million, reflecting 56% of our total revenue. Royalty revenue increased 2% year over year and 12% sequentially to $13.8 million, reflecting 44% of our total revenue. Quarterly gross margin were 88% on GAAP base"
+  },
+  {
+    "speaker": "Amir Panush",
+    "role": "",
+    "text": "and 89% on non-GAAP"
+  },
+  {
+    "speaker": "Amir Panush",
+    "role": "",
+    "text": "Amortizations of intangibles and deal costs, total GAAP operating expenses for the fourth quarter were $28,000,000, and total non-GAAP operating expenses for the fourth quarter, excluding equity-based compensation expenses and more, were $22,200,000. GAAP operating loss for the fourth quarter was $400,000 as compared to GAAP"
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "and income were 18% of revenue"
+  },
+  {
+    "speaker": "Amir Panush",
+    "role": "",
+    "text": "and $5,700,000 and grew 20 and 26% year fourth quarter of 2024, respective. Financial income was $1,400,000 compared to a net loss of $100,000 for the fourth"
+  },
+  {
+    "speaker": "Richard Kingston",
+    "role": "",
+    "text": "deals and royalty revenues in the quarter. Yep. Net loss for the fourth quarter was $1,100,000 and diluted loss per share, $0.04, as compared to a net loss of $1,700,000 and diluted loss per share of $0.07 for the 2024. Non-GAAP net income and non-GAAP diluted income per share for 2025 increased 86% and 71% to $4,900,000 and $0.18 year over year, respectively, compared to non-GAAP net income of $2,700,000 and non-GAAP diluted income per share of $0.11 for 2024. With respect to other related data, shipped 606,000,000 units of CEVA, Inc.-powered devices, down 3% from the fourth quarter of last year. Of the 606,000,000 reported, 108,000,000 units, or 18%, were for mobile handset modems. 479,000,000 units were for consumer IoT products, up from 459,000,000 for the fourth quarter of last year. 19,000,000 units were for industrial IoT products, down from 35,000,000 units the fourth quarter of last year. Bluetooth shipments were 303,000,000 units for the quarter, down from 343,000,000 units portfolio of 2024. Cellular IoT shipments were a quarterly record 60,000,000 units, up 30% year over year. And our Wi-Fi shipments were a record 86,000,000 units, up 30% year over year. As for the year, total unit shipments were a record 2.1 billion devices in 2025, up 6% year over year, which equates to approximately 66 CEVA, Inc.-powered devices sold every second in 2025. Annual modem shipments were down 18% year over year to 280,000,000 units, reflecting softness in smart Bluetooth shipments were 1,100,000,000 units, similar to last year. Annual consumer IoT-related shipments were 1,700,000,000 units, up 14% year over year. Annual industrial IoT-related shipments were 87,000,000 units, down 31% year over year. Wi-Fi, cellular IP, and audio AI shipments all showed strong year-over-year growth of north of 40% each. In terms of royalty contribution, Wi-Fi royalties were up 70% year over year, reflecting higher volumes and ASPs from our Wi-Fi 6 customers, and cellular IoT royalties were up 20% year over year. On annual financial metrics, revenue increased 2% to $109,600,000, in line with our updated outlook we shared in May. Non-GAAP gross profit remained strong at 88%. Our non-GAAP net income increased 20% year over year, and diluted EPS increased 17% year over year, all contributing to sustainable and gradual growth in profitability. As for the balance sheet items at the end of the year, cash, cash equivalents, marketable securities, and bank deposits were approximately $222,000,000. In the fourth quarter, we successfully executed a 3,500,000 share follow-on offering for approximately $63,000,000 net to strengthen our balance sheet. Our DSO for the fourth quarter was 57 days. During the fourth quarter, we generated $8,700,000 of cash from operating activities. Our ongoing depreciation and amortization was $1,100,000, and purchase of fixed assets was $1,500,000. At the end of the fourth quarter, our headcount was 424 people, of whom 343 were engineers. Now for the guidance. Amir highlighted our achievements in 2025 and the strong fundamentals we have in place to build long-term growth and profitability. From a financial perspective, this execution translates into solid progress across key metrics, with annual non-GAAP net income increasing 20% year over year and non-GAAP fully diluted EPS growing 17%. These results were supported by record high revenues in 2025 and non-GAAP operating margin of 18%, reflecting both operating discipline and improving mix. Building on the consistent progress we have made over the last two years gives us the confidence as we enter into 2026. Expect growth to be driven by continued expansion of AI adoption across multiple industries, an increasing mix for integrated engagements, and our leadership in wireless connectivity of connectivity, AI, and sensing IPs, supported by the diversified product portfolio. On the royalty side, we are encouraging momentum. We are encouraging the momentum across our connectivity product lines, including 5G handset modems, Bluetooth, Wi-Fi, and cellular IoT as deployments broaden, license in recent years, and program continue to ramp. While we do not have the control on the precise timing of royalty growth and continue to monitor factors such as memory pricing and broader market condition, the underlying trajectory for our business and our diversified end market exposure positions us well, moving into 2026."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "On an annual basis, our total revenue is"
+  },
+  {
+    "speaker": "Richard Kingston",
+    "role": "",
+    "text": "expected to grow 8% to 12% over 2025, with lower growth in the first half of the year and higher in the second half, similar to prior years in seasonal trends and subject to the memory pricing fluctuation and supply challenge."
+  },
+  {
+    "speaker": "Richard Kingston",
+    "role": "",
+    "text": "we continue to demonstrate, excluding currency impacts, our overall 2026 non-GAAP expense base"
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "including both cost of goods"
+  },
+  {
+    "speaker": "Richard Kingston",
+    "role": "",
+    "text": "and operating expenses, is expected to increase in the range of 1% to 3%, significantly below our expected top-line growth, reflecting the scalability of our business model but excluding any FX costs. During 2025, and so far this year, the strengthening of the euro and the Israeli shekel against the US dollar has created foreign exchange headwinds across the industry, particularly for companies with globally distributed engineering teams. As a result, our non-GAAP, our non-US dollar-based expenses, which are mainly the research and development teams in Europe and in Israel, are expected to increase by approximately 10% year over year, representing an incremental impact of around $5,000,000. Taking both factors into account, modest organic expense growth with FX impact, we expect total non-GAAP expenses in 2026 to be in the range of $104.4 million to $108.4 million, with non-GAAP cost of goods sold increasing by approximately $500,000 and non-GAAP operating expenses $6,100,000. Importantly, this outlook reflects our continued focus on disciplined investment, efficiency, and maintaining flexibility as we support growth across our diversified Smart Edge markets. From the guidance and active activities we have just discussed, we"
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "significantly by approximately 35% to 40% year over year. Annual"
+  },
+  {
+    "speaker": "Richard Kingston",
+    "role": "",
+    "text": "2026 equity-based compensation expenses are forecasted to be between $22,000,000 and $23,500,000, and the amortization of acquired intangibles and costs associated with business acquisition approximately $400,000 to $500,000 each. Gross margin is expected to be approximately 88% on a non-GAAP basis"
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "specifically for the '26."
+  },
+  {
+    "speaker": "Richard Kingston",
+    "role": "",
+    "text": "With traditional seasonality in shipments of consumer IoT and mobile products post the holiday season, revenue is forecasted to be between $24,000,000 to $28,000,000, sequentially lower than the record fourth quarter we just reported but still significantly higher than the 2025 at the midpoint. Gross margin is expected to be approximately 86% on GAAP basis and 87% on non-GAAP basis due to lower seasonal royalties, excluding an aggregate of $200,000 of equity-based compensation and $100,000 of amortization of acquired intangibles. Mainly"
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "GAAP OpEx for the first quarter is expected to be between the range of $27.6 million to $28.6 million, higher than the level we just reported for 2025. At the midpoint of our guidance range,"
+  },
+  {
+    "speaker": "Richard Kingston",
+    "role": "",
+    "text": "due to the FX effect that I just"
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "of our anticipated operating"
+  },
+  {
+    "speaker": "Richard Kingston",
+    "role": "",
+    "text": "walked through. Expenses for the first quarter, $5,200,000 is expected to be attributed to equity-based compensation expense, $100,000 for the amortization of acquired intangibles, and another $100,000 of costs associated with business acquisition."
+  },
+  {
+    "speaker": "Richard Kingston",
+    "role": "",
+    "text": "is expected to be in the range of $22.2 million to $23.2 million."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Is expected to be approximately one Betsy, you could now open the Q&A session, please. We will now begin the question and answer session."
+  },
+  {
+    "speaker": "Amir Panush",
+    "role": "",
+    "text": "To ask a question, you may press star then 1 on your touch-tone phone. If you are using a speakerphone, please pick up your handset before pressing the keys. If at any time your question has been addressed and you would like to withdraw your question, please press star then 2. At this time, we will pause momentarily to assemble our roster. The first question today comes from Kevin Cassidy with Rosenblatt Securities. Please go ahead."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Yes. Thanks for taking my question, and congratulations on the great results. For your NPU pipeline, can you"
+  },
+  {
+    "speaker": "Richard Kingston",
+    "role": "",
+    "text": "just give an idea of the scale? You know, how much"
+  },
+  {
+    "speaker": "Kevin Cassidy",
+    "role": "",
+    "text": "how many more engagements do you have right now compared to, let us say, this time last year? And maybe even what the end market exposures are?"
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Yeah, Kevin. Thanks a lot for congratulating"
+  },
+  {
+    "speaker": "Amir Panush",
+    "role": "",
+    "text": "us and for the question. First, I will start that I am very, very encouraged by how we executed in 2025 our penetration into AI, and that was a year of very significant market share to capture, gain as well as more than 10 deals that we have enabled, basically, to with that, we have built a complete portfolio of NPUs for all the different types of edge Smart Edge markets, and as that transition to physical AI. So overall, we are well, well positioned right now going to 2026. The pipeline overall keeps growing across pretty much all the different types of submarket segments that we see across the market. This is true for consumer, different types of computing devices, different types of embedded MCU-type applications, as well as in the industrial, as well as in automotive. Really, we see a very healthy pipeline across all these submarkets. Very encouraged with how we have executed and how we see the future going to 2026 on that. Okay. Great. And"
+  },
+  {
+    "speaker": "Kevin Cassidy",
+    "role": "",
+    "text": "just as a follow-up, a little clarification on the PC OEM, congratulations on that. But I just wanted to make it clear. I think you said a dedicated NPU. So is this a separate chip, or is it integrated in a CPU package too? Or, like, in the same silicon with the CPU?"
+  },
+  {
+    "speaker": "Amir Panush",
+    "role": "",
+    "text": "Yeah. So first, it is definitely a design win or a deal we are extremely, extremely excited about. This is with one of the top PC OEMs out there. And this is for an OEM that decided to build so-called their own internal AI and NPU functionality within so-called SoC platform that are integrated into. So, basically, what we are delivering them is the whole core NPU functionality, and then they integrate it into the SoC that they are building."
+  },
+  {
+    "speaker": "Richard Kingston",
+    "role": "",
+    "text": "So a separate chip? Yeah. Separate chip for"
+  },
+  {
+    "speaker": "Amir Panush",
+    "role": "",
+    "text": "for NPU. For NPU."
+  },
+  {
+    "speaker": "Kevin Cassidy",
+    "role": "",
+    "text": "Okay. Great. Thank you."
+  },
+  {
+    "speaker": "Amir Panush",
+    "role": "",
+    "text": "The next question comes from Ruben Roy with Stifel. Please go ahead."
+  },
+  {
+    "speaker": "Kevin Cassidy",
+    "role": "",
+    "text": "Thanks, and echo the congrats on a nice end to 2025."
+  },
+  {
+    "speaker": "Ruben Roy",
+    "role": "",
+    "text": "Amir, maybe I could follow up on Kevin's question and just talk a little bit more about the NPU win. Can you talk a little bit about the competitive dynamics for that? Because you have others like Arm sort of integrating NPUs. So how should we think about the functionality? Are there going to be multiple NPUs, do you think, in PCs going forward as the AI workloads evolve, or is this something where from a competitive basis you guys were able to displace, you know, sort of the, you know, existing solutions maybe that are available to the OEM? Thank you."
+  },
+  {
+    "speaker": "Amir Panush",
+    "role": "",
+    "text": "Yeah. Definitely, Ruben. So first, I would say that the way that we see it right now, the landscape, and definitely for the high-end compute devices,"
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "is that there is stronger and stronger need to really best-in-class performance."
+  },
+  {
+    "speaker": "Amir Panush",
+    "role": "",
+    "text": "And by that, I mean, the power per watt that you can generate, the so-called the latency or the performance of throughput per token that you generate. This really requires so-called a core architecture and flexibility of the core architecture to deliver best-in-class what we call PPA: power, performance, area. Deliver basically a very competitive landscape for our customers. With this specific OEM, they looked at what is available out there, and they wanted to make sure that they have complete internal integration between the hardware and the software to drive the so-called the high performance that they need. But what they need is the underlying core silicon IP technology with the softwares come on top of that deliver for them the best-in-class performance. And I think we are well, well positioned competitively, basically, and that is why they picked us in this specific design."
+  },
+  {
+    "speaker": "Ruben Roy",
+    "role": "",
+    "text": "Right. Okay. Very helpful. And then as a follow-up, just to go through the guidance again a bit here. You guys talked a little bit about recovery in China from a handset customer, and obviously, there are some moving parts with memory pricing, etc. So in thinking through sort of the first half versus second half commentary, can you just give us a little more detail on how you are thinking about sort of end demand relative to dynamics out of your control like memory pricing, etc., on first half? Is it much different, would you say, from typical seasonality? I mean, if you look at, as Yaniv said, you are up year over year at the midpoint, and so seasonally, it looks pretty similar to what you saw last year. So I am just wondering what some of the assumptions on things out of your control might be in the first half, if that is much different from typical seasonality? Thank you."
+  },
+  {
+    "speaker": "Amir Panush",
+    "role": "",
+    "text": "Yeah. I would start first that our business, a significant portion of our business, is really not so-called on mobile. It is well, well diversified across different submarkets of the Smart Edge. And in that market, we keep gaining market share. Our customers keep ramping with our different types of technologies. And, overall, we expect similar seasonality as we have seen in previous years. But with that seasonality, we keep increasing our market share. Now more specifically on mobile, where potentially there is so-called more dependency of some impact related to the memory supply, first, again, we are going to see increase in market share thanks to the mobile OEM that is going to integrate more and more the internal modem, at least that is our expectation moving forward. And but on a so-called integrated basis, with the other smartphone OEM that we have, definitely again, there is potential impact coming from the memory shortage. And even there, we do expect meaningful seasonality between the first half and the second half. And so on an aggregated basis, we are still expecting quite strong seasonality in 2026 as well, while driven by market share again across all the different markets."
+  },
+  {
+    "speaker": "Richard Kingston",
+    "role": "",
+    "text": "Ruben, I will maybe add to that our customer in China that you referred to, most of his sales are export to the rest of the world. India, a big market, Latin America, Africa, Eastern Europe type. So it is not necessarily domestic use. And, therefore, the end demand is good. The question is how they will perform with the memory shortages in price. That is just a little bit of another anecdote with regards to demand and end demand at least for the products."
+  },
+  {
+    "speaker": "Richard Kingston",
+    "role": "",
+    "text": "back to your first question, another reference is to the NPU. We came up with another press release highlighting the entire, not just Q4, but the entire activity and results and achievements we had with AI. Here and then probably, or hopefully, royalty contribution in 2027 for us from this relative new product line. So that is quite encouraging, and we will wait and continue to monitor their progress."
+  },
+  {
+    "speaker": "Ruben Roy",
+    "role": "",
+    "text": "That is really helpful, Yaniv. And I guess you just made me think of another question, so apologies, but I would just love to follow up on that last point that you made, which is Amir talked about the $125,000,000 in lifetime royalty potential, and you have got a PC NPU deal here. PC design cycles maybe are a little bit quicker than some of the stuff that you might expect from, let us say, a microchip that is much more broad-based into a lot of different markets. So if we think about waterfall of the $125,000,000, it sounds like you are going to start to see some of that in 2027. Any way to think about that pipeline relative to how it will flow into the model outside of what I just said? You know, PCs may be a little bit faster than the broader markets or anything else you can add on the pipeline, that would be great. Thank you."
+  },
+  {
+    "speaker": "Richard Kingston",
+    "role": "",
+    "text": "I think that over time, and not necessarily these first six, part of them, yes, we are going to see, on one hand, the high royalty contribution because, as Amir explained, our offering today is both high end and low end very sophisticated automotive, PC-type of application as well as IoT and the wearables and the low-power type of devices. So the most important thing is higher volume for these new royalties. But on top of that, also higher ASPs of at least the higher-end stuff. It is all a mix, and this is a little bit more difficult to predict exactly how 2027 would look like and when it is going to hit, the first half or the second half. But when we monitor these customers of ours and when we support them in their design cycle, these are the dates and the opportunities we see in front of us. Overall, an increase in dollar revenue content from a relatively new market for us. This is on top of the connectivity. This is on top of the IoT and mobile. It is essentially the third leg of the AI. We did very well in licensing. Just over 20% of our license revenue for the first time ever in 2025 came out from that market, and potentially 2027 we could see also those royalties start to kick in. Indeed, exciting times."
+  },
+  {
+    "speaker": "Amir Panush",
+    "role": "",
+    "text": "Yeah. I would just add to that, Ruben, that definitely we are extremely excited and encouraged by the fact that those design wins are going to generate, our estimation, $125,000,000 in terms of royalty potential. And you pointed out, very correct, that in consumer PC and so on, the time to royalty is shorter, and definitely, we expect with that market type of design wins that it will also start generating in 2027."
+  },
+  {
+    "speaker": "Amir Panush",
+    "role": "",
+    "text": "The next question comes from Suji Desilva with ROTH Capital."
+  },
+  {
+    "speaker": "Kevin Cassidy",
+    "role": "",
+    "text": "Hi, Amir. Hi, Yaniv. Congratulations on the strong year and the progress here."
+  },
+  {
+    "speaker": "Amir Panush",
+    "role": "",
+    "text": "The PC OEM win, just keeping up on that,"
+  },
+  {
+    "speaker": "Ruben Roy",
+    "role": "",
+    "text": "is it more likely that it was a one-off special case for this OEM, or would you think, on the other hand, there is a pipeline potential for additional OEMs to"
+  },
+  {
+    "speaker": "Amir Panush",
+    "role": "",
+    "text": "follow suit, considering CEVA, Inc.-based solutions as well? I would say first, the PC landscape is such that the number of customers, of course, is not super large versus, let us say, the other more diversified IoT market segments that we are addressing as well. But within that landscape, having the ability to internalize hardware integration and the specific optimization to the use cases they want to drive the AI capabilities, and with that, the software, it is a big value add. So, definitely, there is potential that others will follow suit with the same type of configuration. And regardless of that, of course, we are extremely excited by the fact that after very significant lengthy evaluations, we came at the top based on very, very strong performance metrics that we can provide in this case to the PC OEM but for potentially other PC customers as well as in other high-end devices that need their high-performance type of metrics."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Thanks, Amir. Very interesting."
+  },
+  {
+    "speaker": "Ruben Roy",
+    "role": "",
+    "text": "And then separately, you highlighted in your prepared remarks, Amir, physical AI. I was curious what pipeline opportunities there are there or current opportunities there are in physical AI that you would call out in terms of apps?"
+  },
+  {
+    "speaker": "Amir Panush",
+    "role": "",
+    "text": "And which physical AI app categories are the largest incremental royalty opportunity for you as that ramps up. I think what is emerging more and this goes far beyond our traditional market segments is everything related to robotics. And we are already addressing. We will keep gaining market share in the type of automotive and industrial applications and the broader IoT. But what is really exciting right now, specifically related to physical AI, is the expansion of those capabilities. Only, of course, wireless connectivity, the need, of course, to sense and understand the environment, and then make an inference or decision based on all that information. That really is going to happen across robotics. And now robotics moving from a small volume in, let us say, warehouses to potentially be everywhere and supporting all human beings worldwide. So there is very big potential there. Of course, as the year progresses, we will see the real impact of that. Excellent. Thanks, Amir."
+  },
+  {
+    "speaker": "Amir Panush",
+    "role": "",
+    "text": "As a reminder, if you would like to ask a question, please press star. The next question comes from Alex Valero with Loop Capital. Please go ahead."
+  },
+  {
+    "speaker": "Amir Panush",
+    "role": "",
+    "text": "Hey, guys. Thank you for taking my questions. This is Alex on for Gary."
+  },
+  {
+    "speaker": "Alex Valero",
+    "role": "",
+    "text": "My first question is on your fiscal 2026 guidance."
+  },
+  {
+    "speaker": "Alex Valero",
+    "role": "",
+    "text": "specifically would need to improve in fiscal 2026 to trend toward the high end of your guidance range or even above the high end of the guide?"
+  },
+  {
+    "speaker": "Richard Kingston",
+    "role": "",
+    "text": "Yeah. Obviously, in guidance, you have the two aspects, revenue and expenses. On the revenue front, 8% to 12% was our long-term growth trajectory back from the analyst day that we did back in December two or so or three years ago. So that is still intact. Maybe we have been behind in 2025, but we are back to stronger. Stronger licensing could help us. The royalty ramp up for many of these markets that we talked about. This year, no less or more effect from memory. Those are the normal typical events that could influence the royalty level, obviously, the timing of different product ramp-ups and things like that. On the expense side of different product ramp-ups and things like that. On the expense side, plans and running the company. It is more of a macro thing, which is less associated to the organic, which I talked about earlier, the currency exchange rate differences between this year and last year. Some of the biggest elements for us this year is the dollar compared to many other currencies around the world. And while most of our R&D is held outside the US, this is hurting us. If there will be some type of future change throughout the next six months or so, one way or the other, that could shorten or increase the gap. But on the other hand, we are fully in control to still offset that or enjoy that if it is on the positive side. So I think these are more or less the moving pieces in our business from a cost and management. We came out with a pretty low expense increase and are managing our investment very, very tight and efficient to try to maximize shareholder value."
+  },
+  {
+    "speaker": "Amir Panush",
+    "role": "",
+    "text": "But maybe just to add on that, Alex, in terms of unpacking what are the drivers for the top-line growth as we look at 2026. First, definitely, our very strong leadership in wireless communication. We see us keep gaining more both on licensing, and the royalty keeps increasing very, very nicely across all those different types of submarkets. And the second, of course, is our momentum in AI. Extremely encouraged about what we have seen in 2025, and we have all the capabilities from a product portfolio and engineering capabilities to drive that momentum even further in 2026. And then last but not least is, overall, our expectation we will keep gaining market share both in mobile and Wi-Fi from a royalty basis. Mobile coming from the US mobile OEM, and on the Wi-Fi coming from just the continued penetration of our technology and the transition into Wi-Fi 6 and 7 and Bluetooth 7, driving high royalty per unit."
+  },
+  {
+    "speaker": "Alex Valero",
+    "role": "",
+    "text": "Got it. I really appreciate all that color. Just a quick follow-up."
+  },
+  {
+    "speaker": "Alex Valero",
+    "role": "",
+    "text": "with your recent equity capital raise, I believe you are about at $200,000,000 in the balance sheet. Are you thinking about M&A today, and what do you think about current valuations?"
+  },
+  {
+    "speaker": "Richard Kingston",
+    "role": "",
+    "text": "think you guys are the experts for that. Right? We wanted to strengthen our balance sheet. We are looking for non-organic growth to grow faster and gap that licensing-to-royalty, 8- to 24-month time frame. That is the merit in raising that cash. And that is our goal. That is our goal for the next twelve months: to find the right fit technology-wise, market-wise, business-wise, to increase that. Hopefully, if we do well and continue to execute and the market understands that CEVA, Inc. is a very interesting AI play, which I am not sure we are yet being recognized for that, I see a lot of value for shareholders. But that is your forte, not ours. We will manage"
+  },
+  {
+    "speaker": "Amir Panush",
+    "role": "",
+    "text": "Yeah. One thing to add thanks, Yaniv. One thing to add to that, Alex, in terms of the balance sheet or the cash position, strongly believe we really have built an excellent, excellent IP enterprise"
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "to extend it further. Got it. Super helpful. Thank you very much. Well, congrats."
+  },
+  {
+    "speaker": "Amir Panush",
+    "role": "",
+    "text": "Great. This concludes our question and answer session. Would like to turn the conference summary?"
+  },
+  {
+    "speaker": "Alex Valero",
+    "role": "",
+    "text": "Yeah. We are back to think Amir has some closing remarks."
+  },
+  {
+    "speaker": "Amir Panush",
+    "role": "",
+    "text": "In closing, I want to thank our employees worldwide for their dedication and execution through 2025. We enter 2026 from a position of strength with a diversified business model and deep customer integration across the markets driving the emergence of physical AI. With leadership in connectivity, accelerating traction in AI, and a portfolio designed to scale across connect, sense, infer, we believe CEVA, Inc. is well positioned to continue building long-term value for our customers and shareholders. Richard, I will hand over to you to wrap it up."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Thank you, Amir. As a reminder, the prepared remarks"
+  },
+  {
+    "speaker": "Alex Valero",
+    "role": "",
+    "text": "for this conference call are accessible through the Investors section of our website, and with regards to upcoming conferences, we will be participating in the events: Mobile World Congress, March in Barcelona, Spain; Loop Capital Markets Seventh Annual Investor Conference, March 10 in New York."
+  },
+  {
+    "speaker": "Kevin Cassidy",
+    "role": "",
+    "text": "The Stifel 2026 New York City Technology One-on-One Conference, March 11 in New York; and the 38th Annual ROTH Conference, March 22 in California. Further information on these events and all events we will be participating in can be found on the Investors section of our website."
+  },
+  {
+    "speaker": "Alex Valero",
+    "role": "",
+    "text": "Thank you, and goodbye."
+  },
+  {
+    "speaker": "Amir Panush",
+    "role": "",
+    "text": "The conference has now concluded. Thank you for attending today's presentation. You may now disconnect."
+  }
+]

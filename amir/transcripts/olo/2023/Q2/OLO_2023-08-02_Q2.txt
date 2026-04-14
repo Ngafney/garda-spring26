@@ -1,0 +1,242 @@
+Operator
+Good afternoon. My name is Ranju, and I will be your conference operator today. At this time, I would like to welcome everyone to the Olo second quarter 2023 earnings conference call. All lines have been placed on mute to prevent any background noise.
+After the speakers' remarks, there will be a question-and-answer session. I would now like to turn the call over to Brian Denyeau from ICR. Please go ahead.
+Brian Denyeau
+--
+Investor Relations
+Thank you. Good afternoon, everyone, and welcome to Olo's second quarter 2023 earnings conference call. Joining me today are Noah Glass, Olo's founder and CEO; and Peter Benevides, Olo's CFO. During our call today, some of our discussions and responses to your questions may contain forward-looking statements, which represent our beliefs and assumptions only as of the date such statements are made.
+These forward-looking statements include but are not limited to statements regarding our expectations of our business, our industry, including with respect to our technological enhancements, future financial results, including revenue and non-GAAP operating income and other key performance metrics, revenue expectations for our Order, Pay, and Engage suites, total addressable market and growth opportunity, guidance and strategy, benefits from strategic partnerships, restaurant order processing trends, our ability to increase usage of our platform and upsell, including with respect to our opportunity to expand and our growth in average revenue per unit, and durability of new and existing customer adoption of multiple modules. Forward-looking statements are subject to risks and uncertainties that could cause actual results to differ materially from those described in our forward-looking statements, and such risks are described in our earnings press release and our risk factors included in our SEC filings, including our Quarterly Report on Form 10-Q that was filed today and our other SEC filings. You should not rely on our forward-looking statements as predictions of future events. We undertake no obligation to update any forward-looking statements made during this call to reflect events or circumstances after today.
+Also, during this call, we'll present both GAAP and non-GAAP financial measures. Reconciliations to the most directly comparable GAAP financial measures are available in our earnings release, which we issued a short while ago. This earnings release is available on the Investor Relations page of our website and is included as an exhibit in the Form 8-K furnished to the SEC. Finally, in terms of our prepared remarks or in response to your questions, we may offer incremental metrics.
+Please be advised that this additional detail may be one-time in nature, and we may or may not provide an update in the future on these metrics. I encourage you to visit our Investor Relations website at investors.olo.com to access our earnings release, investor presentation, periodic SEC reports, a webcast replay of today's call, or to learn more about Olo. With that, let me turn the call over to Noah.
+Noah Glass
+--
+Founder and Chief Executive Officer
+Thank you, Brian. Hi, everyone. Thank you for spending time with us today. Our second-quarter results demonstrate the consistent positive momentum we've built over the past few quarters.
+We generated $55.3 million in total revenue, a 21% increase year over year as our platform supported increased module adoption within our existing customer base. With that, we increased average revenue per unit or ARPU to $716, up 32% year over year and 13% sequentially. Net revenue retention was approximately 115% this quarter. And we ended the quarter with approximately 77,000 active locations on the platform.
+We are proud of our results and believe our second-quarter updates illustrate how Olo will continue to shape the restaurant of the future for our customers. We are at the early stages of a massive market opportunity as the restaurant industry moves toward 100% digital. We are excited about our mission to be the engine of hospitality, helping our customers collect, analyze and leverage the data they get from on- and off-premise digital orders, payments, and engagements to create amazing experiences for their guests. We truly believe Olo is in the best position to drive the industry's digital transformation with our Order, Pay, and Engage product suites.
+Olo had another successful quarter with new and existing customers across all three product suites. We are especially thrilled to see increased adoption of our Pay and Engage modules among enterprise customers. Additionally, emerging enterprise customers continue to show strong adoption of multiple modules. This quarter, we welcomed Salad and Go, an enterprise fast-casual restaurant chain.
+Salad and Go launched our Order and Pay modules with the goal to drive operational efficiencies and advance its mission to make fresh, nutritious food convenient and affordable for all. In Pay news, Cold Stone Creamery, an ice cream parlor chain launched Olo Pay. This deployment represents the fourth consecutive quarter where an existing enterprise customer deployed Olo Pay, showing our continued ability to sell our pay suite to large brands, a key driver of ARPU expansion. The Engage suite also saw enterprise customer adoption.
+California Pizza Kitchen, a casual dining chain, began the launch of our full Engage suite of products, starting with guest data platform, sentiments, and front-of-house manager host. This is a great example of large brands embracing the value of using guest data and technology to boost growth and customer loyalty. Denny's, a casual-dining chain that deployed our marketing automation and guest data platform solutions last quarter, revamped their rewards program with new gamification challenges that encourage specific guest transactions and engagement. Olo is proud to enable this functionality for Denny's, along with partners, Sparkfly.
+It's a great example of how brands can leverage the seamless connection between Olo's modules across product suites and vast ecosystem of partners to launch innovative solutions that drive guest lifetime value. And while we are encouraged by the progress we are seeing with the Engage suite, we are still in the early stages of adoption. In addition, Olo continued to see strong multi-module adoption within the emerging enterprise segment. This quarter, several fast-growing brands deployed four or more modules, including Anthony's Coal Fired Pizza & Wings, Maple Street Biscuit Company, and Metro Diner.
+All of these customers launched with Olo's core order solutions ordering, dispatch, and rails, along with Olo Pay. While many emerging enterprise brands choose our white-label front-end serve, Anthony's worked with one of our partners to launch their online ordering with a custom-built front end. A great example of the customization and flexibility Olo offers to brands of all sizes through our open APIs. Anthony's joins over 100 Olo brands that use custom front ends on top of Olo's ordering API.
+We believe more emerging brands will continue to launch with or adopt multiple Olo modules, which will boost ARPU over time. Our investments in sales and marketing will continue to enhance this opportunity further. In the second quarter, we released a number of exciting feature updates across our three product suites. Within the Order suite, we continue to refine our capacity management capabilities to help restaurants provide more accurate wait times to guests and delivery service providers.
+We officially launched a further enhanced version of OrderReady AI, Olo's machine learning-based solution that enables brands to provide more accurate quote times. By training and deploying models using historical order data and retaining the models on an ongoing basis, brands will have more accurate ready-time predictions instead of manual inputs. This progression of AI's role within our capacity management tool unlocks more optimization service for our customers. We believe this will continue to give Olo and our customers a competitive edge going forward.
+Next, our Pay Suite continues to innovate and scale with milestone updates this quarter. Olo officially launched in-store payments via kiosks, marking Olo Pay's expansion into card-present payments, representing a large TAM expansion as 85% of restaurant transactions are still considered nondigital. Digital payment processing on-premise will simplify a reconciliation, refunding, and voiding processes for restaurants, bringing together their in-restaurant and off-premise transactions in a single dashboard. It's also exciting as this launch marks Olo's first in-store guest-facing brand exposure.
+Guests can expect the same simplified experience Olo Pay offers in non-card-present transactions, including the ability to pay with mobile wallets like Apple Pay. This launch is fulfilling the promise we made when we announced our partnership with Adyen last quarter, and we look forward to continuing our product road map with the Adyen team to enable more instances of card-present digital payment processing in late 2023 and beyond. Currently, this technology is live in partnership with Bite kiosk ordering software and we will look to expand to other kiosk providers soon. Additionally, this launch brings the restaurant of the future vision we discussed on our last earnings call one step closer as Bite has available today the same facial recognition technology we depicted in our vision of the future.
+In more Pay News, we made Borderless product enhancements on top of seeing encouraging early results. This quarter, Olo launched functionality that enables guests to earn and redeem loyalty rewards while enjoying the accelerated password-less checkout experience provided by Borderless. Loyalty programs are important to our restaurant customers, and the ability to link Borderless accounts with loyalty profiles is a huge win, we believe, will help further increase Borderless adoption moving forward. We also wanted to share results from one of our early Borderless adopters Din Tai Fung, which demonstrates the power of what Borderless can do for restaurants.
+Thanks to the convenience Borderless checkout process, we estimate that existing Din Tai Fung guests who signed up with Borderless placed 61% more orders throughout the year or 1.5 more orders per existing guest compared to those who have not signed up for Borderless. After Borderless was enabled, Din Tai Fung saw guest sign-ins Olo legacy and Borderless before placing an order jumped from 31% to 65%, a 109% increase, suggesting that strong guest engagement drives an increase in orders. With the introduction of Borderless, 46% more Din Tai Fung guests opted to save their credit cards on file for smoother checkouts in the future. These results demonstrate meaningful increases in frequency and guest data all while providing guests with a more convenient ordering experience, a true win-win for restaurants and guests.
+We continue to believe Borderless will be a game changer, and we look forward to expanding its capabilities in the future. Lastly, we have more AI news, this time with product enhancements in the Engage suite. We are thrilled to announce that Olo Engage now leverages generative AI in our marketing product. The email template editor has an AI assistant on standby waiting to assist on title, paragraph, list, and button content blocks, powered by OpenAI and ChatGPT-4.
+This new AI assistant can be prompted multiple times to get the message just right before applying to a customer's email template. Busy marketers now have more time to focus on sending powerful content to their guests to increase recency, frequency, and ultimately, guest lifetime value. You can see a full list of new features at olo.com/quarterly release. And a full case study on Din Tai Fung experience with Borderless on olo.com/case-studies.
+And finally, as I typically do on earnings calls, I'd like to provide an organizational update. This quarter, we made strategic changes to set Olo up to successfully execute the opportunity we see ahead of us. In mid-June, Olo announced a restructuring of our product and engineering teams to better reflect and support our three product suites, Order, Pay, and Engage. With the restructure, we consolidated our product teams around the product suites and centralized our engineering team to enable more efficient resource allocation as priorities shift across the full business.
+To further unlock that potential, we also announced that Joanna Lambert would join Olo as our chief operating officer, leading our engineering organization and product teams. As previously shared, we believe Joe is uniquely positioned to empower Olo's business and areas of opportunity as she has more than two decades of executive experience as a product and operations leader, including senior executive roles at American Express, PayPal, including a stint overseeing Venmo's business and most recently at Yahoo!, where she led the Consumer business. Importantly, her payments experience will be crucial given our plans to prioritize and scale Olo Pay in the coming years. She started with us on July 5, and we are thrilled to have her on board.
+Additionally, I'm excited to announce that Sherri Manning will be rounding out our executive team, joining Olo as our chief people officer next week. Sherri brings more than 20 years of experience in the human resources domain, providing strategic leadership during rapid expansion, post-IPO development, and acquisitions at globally recognized companies and late-stage start-ups. Prior to joining us, Sherri served as chief people officer at BigCommerce and previously held leadership roles at IBM, UniversalPegasus, Q2, and Dell. I look forward to seeing the positive ways Joe and Sherri will impact our team and our business.
+Looking ahead to the rest of the year, we are energized by our performance in the first half and remain focused on helping our customers utilize the digital transformation of the restaurant industry to their benefit as we bring to life our vision of the restaurant of the future. And with that, I'll hand it over to Peter to discuss more detailed results.
+Peter Benevides
+--
+Chief Financial Officer
+Thanks, Noah. Today, I'll review our second-quarter results, as well as provide guidance for the third quarter and the full year 2023. In the second quarter, total revenue was $55.3 million, an increase of 21% year over year. Platform revenue in the second quarter was $54.6 million, an increase of 23% year over year.
+We saw strong performance across all three of our product suites, most notably, Olo Pay, which is tracking ahead of our expectations. I'll provide more color on this momentarily. In terms of key metrics, ARPU for the second quarter was approximately $716, representing a 32% increase year over year and a 13% increase sequentially. Further growth in ARPU was driven by continued progress in driving the average number of modules adopted by our customer base including higher ARPU solutions like Olo Pay, as well as the impact of Subway's departure.
+Net revenue retention was approximately 115%, up 100 basis points sequentially. The ongoing strength in net revenue retention is being driven by ARPU growth as we successfully execute on our cross-sell strategy. And lastly, in terms of active locations, this quarter, we added approximately 1,000 net new active locations to the platform, ending the quarter with approximately 77,000 active locations. We continue to target 6,000 net new active locations additions for the full year.
+For the remainder of the financial metrics disclosed unless otherwise noted, I will be referencing non-GAAP financial measures. Gross profit for the second quarter was $38.2 million. This compares to $33.8 million a year ago. The year-over-year increase in gross profit was driven by continued growth in revenue, including from Olo Pay adoption.
+As a reminder, Olo Pay's gross margin profile varies from our other businesses. So, as Olo Pay scales, we are seeing an expected decrease in gross margin. Sales and marketing expense for the second quarter was $9.7 million or 18% of total revenue. This compares to $7.3 million and 16% a year ago.
+We have made significant progress building out our go-to-market team and aligning it with the product suites and cross-sell strategy. We have added much of the capacity we were targeting for 2023 already. So, we would expect to see only modest growth in the second half of the year. Research and development expense for the second quarter was $14.5 million or 26% of total revenue, compared to $14.1 million or 31% of total revenue a year ago.
+On a dollar basis, we increased investments in R&D in order to unlock future growth opportunities related to Olo Pay, Borderless capabilities in on-premise ordering. General and administrative expense for the second quarter was $9.5 million or 17% of total revenue. This compares to $10.4 million and 23% a year ago. The year-over-year improvement on both a dollar and percentage basis represents continued optimization of expenses as our organization scales.
+Operating income for the second quarter was $4.5 million compared to $2 million a year ago. Net income in the second quarter was $6.4 million or $0.04 per share based on approximately $177.8 million fully diluted weighted average shares outstanding. Turning our attention to the balance sheet and cash flow statement. Our cash, cash equivalents, and short- and long-term investments totaled $431.2 million as of June 30, 2023.
+Pursuant to the share repurchase program, which we announced in September 2022, in the second quarter, we repurchased 1.4 million shares for a total of approximately $10 million. Since the introduction of our share repurchase program, we have repurchased 6.7 million shares for $50 million. We have $50 million remaining on our authorization. Regarding cash flows, net cash provided by operating activities was $2 million in the quarter as compared to breakeven in the quarter a year ago.
+Free cash flow was negative $1.9 million compared to negative $3 million a year ago. I'll wrap up by providing our guidance for the third quarter and full year 2023. For the third quarter of 2023, we expect revenue in the range of $56 million and $56.5 million and non-GAAP operating income in the range of $5.1 million and $5.5 million. For the fiscal year 2023, we expect revenue in the range of $220 million and $221 million and non-GAAP operating income in the range of $17 million and $17.8 million.
+A few things to note as you consider our guidance. We are very pleased with the performance and customer adoption of Olo Pay. We now expect Olo Pay revenue for the full year to be in the low $20 million range, up from our prior outlook in the mid- to high-teen millions. The Order and Engage suites are tracking to our expectations and their revenue outlook is unchanged.
+From an expense perspective, the cost reduction actions taken during the second quarter were across each part of the organization with a more significant impact to R&D. Our updated profitability guidance reflects a combination of flowing a portion of the savings to the bottom line and reinvesting some back into the business to support our strategic priorities. To wrap up, we are pleased with our performance in the first half of the year and our ability to increase both our top and bottom-line guidance for the remainder of the year. Our results reflect the success we are having with our expanded product portfolio and the ability to serve a growing portion of a restaurant's orders.
+With that, I'd now like to turn it over to the operator to begin the Q&A session. Operator?
+Questions & Answers:
+Operator
+Thank you. We will now be conducting a question-and-answer session. [Operator instructions] First question comes from the line of Terry Tillman with Truist Securities. Please go ahead.
+Terry Tillman
+--
+Truist Securities -- Analyst
+Yes. Thank you. Hey, Noah and Peter. It's great to see some of this multi-product traction and kind of the platform monetization playing out.
+One question I have for you, Noah, just to start it off. It's great to see the expansion sales and monetization of the broader products. But I'm curious, as we look at like top of the funnel and bringing in net new customers, whether it's enterprise brands or emerging enterprise brands. Could you give us a sense on kind of how that sales activity and pipeline is and how that differed versus 90 days prior in terms of potentially new logos coming into the fold over the next couple of quarters? And then I had a follow-up for Peter.
+Noah Glass
+--
+Founder and Chief Executive Officer
+Sure, Terry. Thank you for the question. I'd say -- I'd characterize it as a healthy pipeline across enterprise and emerging enterprise. I wouldn't characterize it as dissimilar from the way that it was 90 days ago.
+I think while we talked about 1,000 net new locations this quarter, there's a little bit of rounding and we're still forecasting the 6,000 total adds for the year. And we're excited about enterprise and emerging enterprise and really the ARPU growth as the largest opportunity, and you saw that again this quarter. The ARPU growth we experienced the net revenue retention of 115% that we experienced, and we think that's a really healthy sign that we're mission-critical for our customers. They're looking to Olo as their digital consigliere, and they want to do more with us as they go further on their digital transformation journey.
+Terry Tillman
+--
+Truist Securities -- Analyst
+Yes. Got it. Thanks, Noah. And I guess, Peter, thanks for the color on Olo Pay and it sounds like it's definitely ahead of expectations.
+What I'm curious about is that low $20 million kind of revenue level expectation. Does that include potentially another step-up from card-present? And the second part is, how do we think about like gross margins when you start to get kind of more of a full attach rate of Olo Pay into the installed base? Thank you.
+Peter Benevides
+--
+Chief Financial Officer
+Yes. Thanks, Terry. So, in terms of card-present contribution, we don't have any revenue forecasted this year related to card-present. We talked a bit about last quarter during our product announcements, as well as our prepared remarks.
+We're just getting started on that front. Initially, the partnership with Bite in which we are powering kiosk, card-present payments, we'll use the balance of this year to learn and iterate, and then hopefully, 2024 is where you'll start to see the impact of those efforts in terms of revenue contribution. From a margin perspective, what we have shared is, over time, a goal of achieving 20% gross margin on payments on a blended basis. Admittedly, we're not there yet.
+It's still very early. There's scale which will allow us to get closer to that target margin and the card-present is also an important component of how we get there. But again, very early days on that path, but we definitely see a path to get there over time.
+Terry Tillman
+--
+Truist Securities -- Analyst
+Thank you all, and good luck in the second half.
+Peter Benevides
+--
+Chief Financial Officer
+Thank you.
+Operator
+Thank you. Next question comes from the line of Stephen Sheldon with William Blair. Please go ahead.
+Stephen Sheldon
+--
+William Blair -- Analyst
+Hey. Thanks, and nice results here. First, on the margin side, it seems like the updated guidance assumes close to 10% adjusted operating margins in the second half. So, really good to see the trends there.
+I think we've been assuming more like mid-single digits before. So, curious how much of that is due to the workforce reduction and the savings that you're letting flow through there versus just stronger topline growth with some of the success cross-selling that you talked about with what I assume would be pretty high incremental margins. Just what's driving the margin improvement in the second half?
+Peter Benevides
+--
+Chief Financial Officer
+Yes. So, I'd say the majority of that is being driven by the cost actions we had taken in late June and a continuation of ongoing expense management as we move throughout the balance of the year. With performance being in the back half of the year, outperformance being in large part driven by Olo Pay given the relative margin profile of pay, less of that is dropping to the bottom line and, therefore, contributing to the incremental operating income guide. It's more driven by the ongoing expense management.
+Stephen Sheldon
+--
+William Blair -- Analyst
+Got it. That's helpful. And then as a follow-up, I think you said the Engage suite is tracking your expectations this year. Curious how you're thinking about the potential ramp in monetization of the broader Engage suite over the next few years, given conversations your team is having.
+And would also be curious how much interest you're seeing on -- specifically for the guest data platform side because I think you could see a lot of demand there over the next few years, but it sounds like it's still very early in the monetization. So, any detail on the Engage demand trends you're seeing?
+Noah Glass
+--
+Founder and Chief Executive Officer
+Stephen, this is Noah. I'll jump in there, invite Peter to add on if he wishes. I think we are, long-term, very bullish on Engage and what restaurant brands are now able to do with all of the data, the digital transformation manifests. And I think we're not alone in that sentiment.
+Restaurants see that opportunity, see sophisticated tools like guest data platform as a way of harnessing that data about their guests, of course, with the guest permission and then being able to really personalize their experiences, personalize their communications and enhance the overall guest experience. I think this is a paradigm shift beyond have simple earn-and-burn loyalty programs that had been invoked. I think there's a lot more to do on the marketing front, on the engagement front than just that. I think one of the things that we're excited about slightly tangential to your question, but we talked about the Borderless capability being able to interface with loyalty programs.
+And I think that understanding that we're helping brands to bridge from a loyalty-based engagement suite to something more sophisticated like the guest data platform and marketing automation with AI tools built into it, sentiment analysis, etc., is really how we are educating our customers and cross-selling into marketing departments. So, from that perspective, we're very bullish, and we believe that there's a great opportunity, and it's very early days for the Engage suite in total.
+Stephen Sheldon
+--
+William Blair -- Analyst
+Got it. So, if you see incremental wins here as you think about the next few years, kind of seem like it would be a full suite of products versus buying one or two kind of modules within the Engage suite, but would it be more of a big bundle that you would think customers would be purchasing?
+Noah Glass
+--
+Founder and Chief Executive Officer
+Well, it's interesting. Even just in this quarter, we highlighted an example of each of those things. We highlighted California Pizza Kitchen and that bundled approach to taking all of the Engage capabilities, starting with the host table management platform and marketing automation and sentiments. And then we have other examples like Denny's, which are great examples of the land-and-expand motion that we're seeing within the Engage suite, expanding now into guest data platform and marketing automation with that capability of challenges, which was a great innovation that Denny's brought to life in partnership with our partner, Sparkfly, but really showing the power of an open platform with open AIs and a great partner network to allow brands to really choose their own adventure when it comes to how they want to engage with their guests.
+So, I don't know that I would characterize it as one or the other. I think the answer is all of the above. Some brands will want to dip atone the pool with one module or two of the four in total. Others will want to go all in and have all of the Engage modules working from day one and we're excited to see that level of excitement from the enterprise and emerging enterprise customer base.
+Stephen Sheldon
+--
+William Blair -- Analyst
+Great to hear. Thank you.
+Noah Glass
+--
+Founder and Chief Executive Officer
+Thank you.
+Operator
+Thank you. Next question comes from the line of Gabriela Borges with Goldman Sachs. Please go ahead.
+Unknown speaker
+Hi, team. Yes, thanks for taking our questions. This is Max on for Gabriela. A couple from us.
+One question on macro. Can you give us more color on the general business environment and more specifically, restaurants willing to invest? And how have trends in sales and implementation cycles trended this year for Olo?
+Noah Glass
+--
+Founder and Chief Executive Officer
+Hey, Max. This is Noah. I'll take that. I think we would characterize the past couple of years as being a challenging operating environment for restaurants, and we've talked about that in earlier calls, COVID and the impact of COVID, Omicron, and then into inflation and commodity price increases.
+It's been a whole bunch of challenging issues that restaurants have had to overcome labor included, etc. I think there is some light at the end of the tunnel, we feel like things are starting to normalize on a number of those fronts. Certainly, guest demand for restaurants is strong, digital demand is durable and growing. I think from our perspective, that will take some time to flow through into sales cycle improvements and deployment cycle improvements.
+But we're hopeful, based on what we're seeing in the end market that this is a time when restaurants are seeing the wisdom in enabling more technology solutions with platforms like Olo and enabling themselves to then do more with less from an R&D budget perspective. And from an operator perspective, taking some of those learnings from these challenging times and using them to enhance their business going forward and better delight their guests.
+Unknown speaker
+Thanks, Noah. And then another question that I have is I wanted to ask about initiatives in GenAI, such as drive-thru automation. Could you give us an update on those initiatives? And then how do you think about competition from some of the larger horizontal software vendors in the space with one example being Google's partnership with Wendy's?
+Noah Glass
+--
+Founder and Chief Executive Officer
+Sure. Yes. So, in terms of drive-through AI specifically, we've talked about that on a couple of calls now, a number of pilots that larger quick-service restaurant drive-through-oriented brands are doing with a variety of partners that are providing that interactive voice response, IVR, or AI kind of ordering capability on top of the Olo API. I would still characterize those as early kind of test beds not fully deployed broadly throughout the system.
+And all of them, notably, a human operator backing up the AI in case something goes wrong and you have a guest who wants to speak to a human. So, I think that's an area of innovation broadly in restaurant technology. It's not something that we're directly doing as Olo, but we are doing through the Olo ecosystem through a variety of partners and a variety of customers who are experimenting. I guess I would characterize our perspective, our philosophy on competition from horizontal technology providers as we're big believers that vertical solutions that are custom-built for a specific vertical, their problem statement, their use cases are going to ultimately be better than horizontal solutions that are more general and less specific for that vertical.
+I don't think of Google as a competitive solution with regard to their work with Wendy's. I think about Google as part of our partner ecosystem, one of those partners that we work with closely on a number of different fronts. I think when it comes to the solutions that we provide across Order, Pay, and Engage, Olo is working very closely with our restaurants with our Product Advisory Council, specifically to make sure that we're building the solutions that they need specific to their needs and the needs of their guests.
+Unknown speaker
+Very helpful. Thank you.
+Noah Glass
+--
+Founder and Chief Executive Officer
+Thank you.
+Operator
+Thank you. Next question comes from the line of Andrew Harte with BTIG. Please go ahead.
+Andrew Harte
+--
+BTIG -- Analyst
+Hey, Noah, Peter, thanks for the questions, and congrats on the quarter. It's nice to see that Cold Stone on Olo Pay win coming through and extending that enterprise momentum. Just two quick ones for me here. First, can you share like how conversations for Olo Pay conversions are going in general? What are some of those key considerations from customers and the potential hurdles to switching? And then second, we estimate Olo Pay penetrations in the 2% to 3% context today.
+And oftentimes, our conversations with clients are about the path to 10% or 10%-plus penetration. How would you frame up that Olo Pay penetration opportunity longer term? And how is card-present capabilities change that opportunity, if at all? Thanks.
+Noah Glass
+--
+Founder and Chief Executive Officer
+Hey, Andrew, this is Noah. I'll take the first part, and I'll let Peter speak to the second part. I'd say really good conversations with brands about a better payment experience and a better payment experience for both the guests and for their operators. That is what led to, really, the initial idea for Olo Pay, the charter for Olo Pay, if you will, and is truly what we're seeing in market.
+We've talked in the past about things like higher authorization rates and how we've been able to accomplish that through our partnership with Stripe and our partnership with Adyen and doing sophisticated fraud scoring helps with authentication. It also helps dramatically reduce fraud that has borne out in reality, we're hearing that from our customers. We're also in innovations like borderless doing away with passwords and enabling a native digital pleasant experience for it has to be signed in to have all the benefits of being signed in. And then on the other side, enabling the brand to capture that data about the guest.
+I think all of those things are part of why Olo Pay is being seen as a new breadth of fresh air in payments by our restaurant customers. Now, some of them are able to deploy payments systemwide and able to do that in one fell swoop. Others have payments that, over time, have been decisions made by different operator groups. And so, it will take some time for us to get the add-back with all of our customers.
+We're also here and we have heard. We would like to have a single payment platform for card-not-present, which Olo Pay started out being able to do, and also for card presence. And now, we're thrilled to be able to offer card presence and be able to meet that need of having card-not-present and card-present in one management platform for Olo Pay. So, we're very bullish.
+Our customers are very excited. Prospects are excited, and we're mostly excited this quarter about that first set of orders that we have now done card presence and opening up what is a 6x increase in the total addressable market for Olo Pay given the breakdown of digital orders versus nondigital orders and our ability to now take payments for those nondigital orders as well.
+Peter Benevides
+--
+Chief Financial Officer
+Yes, just to pick up on that. So, when we think about the -- I know, Andrew, you mentioned there 10% as sort of the goal. I mean, we certainly have our sights set higher in terms of future penetration rates. And the reason for that is some of the things that we wanted to prove out during the first year or so in market with Olo Pay, is that, one, this is a solution for all restaurant sizes, which is something we have proven over time selling into the enterprise segment selling into the emerging enterprise segment.
+The second thing we want to prove out is that our go-to-market motions, we can be successful in both through the new business channel wins, as well as upsell that the Olo Pay adoption rate would be positive. And in both of those cases, that has been the case. And that Olo Pay, thirdly, is a solution for all segments. So, as we look across QSR, fast casual, casual dining, etc., we have customers utilizing Olo Pay across all of those different segments.
+So, again, those proof points that we wanted to prove out through the first year or so in market, we've done so. Now, in terms of the penetration rate that you mentioned there, you're not far off. And what we get excited about is when you think about the unlock from a TAM perspective, card-present presents to the company and having that initial card-not-present adoption rate that becomes a great lead gen engine for those card-present conversations when we're ready to have them, which is why, again, when we think about the future penetration rates 10% or more for that matter, it seems very reasonable.
+Andrew Harte
+--
+BTIG -- Analyst
+Thanks, and congrats again.
+Peter Benevides
+--
+Chief Financial Officer
+Thanks.
+Operator
+Thank you. [Operator instructions] Next question comes from the line of Clarke Jeffries with Piper Sandler. Please go ahead.
+Clarke Jeffries
+--
+Piper Sandler -- Analyst
+Hello. Thank you for taking the question. I wanted to ask a question about the philosophy of investment appetite versus expense management. I think even prior to the cost measures that you took in late June, you were operating with profitability and had over $400 million of cash available.
+So, I wanted to ask it in the way of sort of what are the categories that you're most interested in increasing the investment in? Are there places in the business where you expect to see head count growth through the year? Or is it still in this time period where there's -- you're looking for some stabilization in some of those trends you mentioned, Noah, that are still stabilizing? Just love to get a sense of investment appetite at this point and where you feel positioned for the rest of the year. And then I have a follow-up.
+Peter Benevides
+--
+Chief Financial Officer
+Yes. So, I can take that one, Clarke. So, as I mentioned in my prepared remarks, when you work your way down the P&L. We've done a fair amount of investment in sales and marketing, certainly through the first half of the year as we've ramped up the team to address a larger portion of the emerging enterprise segment, as well as building out that -- those focus areas on the Order, Pay and Engage suite so that we can have the specialization needed for those conversations to be successful from a sales perspective.
+So, a lot of that investment has been made through the first half of the year. And we expect more modest expense progression as we move throughout the balance of the year. In terms of R&D, many of the investments that we wanted to make, in particular, for Olo Pay and for Borderless and card-present processing. We've done a lot of investment to date on that front.
+There's still a little bit more to go there, and therefore, similar to sales and marketing, we expect more modest progression in R&D as we move throughout the year. And then in terms of G&A, I've talked about this in prior quarters. In terms of having to level up the team, grow the team so that we could properly support the business as a public company. A lot of that is now built into the cost structure, and we expect to see more leverage in G&A as we move throughout the year.
+Clarke Jeffries
+--
+Piper Sandler -- Analyst
+Perfect. Thank you. And then I wanted to just maybe take a finer slice at Olo Pay and specifically it performing higher than your expectations in that guide for the low 20s. Is there a way to parse out what is really driving it so far outpacing your expectations? Has it been the size of merchants that you've seen in terms of that have been onboarding? Has it been just a higher number of logo counts in the emerging enterprise any kind of clarification there? And then just as a housekeeping item as we think about the platform and card-present, how should we think about the GMV that the platform is touching will they reach situations where you're powering card-present, but not ordering? Just how should we think about the composition if you start to go into those sort of card-present transactions? Thank you.
+Peter Benevides
+--
+Chief Financial Officer
+Yes. So, in terms of year-to-date outperformance on the pay front, I would say that that is being driven by greater upsell on a location standpoint than originally anticipated. So, the adoption rate, I'd say, broadly across all segments has been greater than what we originally anticipated. And therefore, full-year revenue outpacing our original estimates.
+In terms of the card-present opportunity and what that unlocks one of the data points we disclosed last year was the total amount of GMV that we had processed over the calendar year 2022, which was north of $20 billion of GMV. And if you assume that the digital penetration rate or digital transactions account for 15% of industry transactions, and then you map that back to the $20 billion GMV. That means that we have over $100 billion of GMV just within the existing installed base that would be addressable once we have a card-present offering. And that's what gets us really excited.
+And the fact, again, that we've had a lot of progress on the pay front with card-not-present adoption, that becomes a great lead gen engine for those card-present conversations. So, again, early, that's more of a 2024 dynamic, but certainly something we're excited about.
+Clarke Jeffries
+--
+Piper Sandler -- Analyst
+Thank you so much, Peter.
+Operator
+Thank you. Next question comes from the line of Matt Hedberg with RBC. Please go ahead.
+Matt Hedberg
+--
+RBC Capital Markets -- Analyst
+Hey, guys. Thanks for taking my question. I guess for either of you, I think in the past, maybe Noah, you've mentioned that oftentimes restaurants go through maybe a four- to five-year payment reevaluation process, which I guess makes sense structurally. But I guess I'm wondering with all the innovations that you guys are adding to the platform, do you think there's an opportunity to perhaps accelerate that reevaluation process and perhaps get people to look at you guys before they might normally do so.
+And if so, is there anything that you're doing in particular could drive that?
+Noah Glass
+--
+Founder and Chief Executive Officer
+Hey, Matt. This is Noah. Yes. So, I think I have talked about a cycle during which restaurant brands tend to reevaluate payment processing relationships.
+And again, sort of back to one of my earlier responses, it's not the whole brand every time. Sometimes there are different operator groups within the brand that are on different processors and has not been kind of like with point-of-sale, the fragmentation that we've talked about many times, there's fragmentation with payment processors. So, in that respect, there might be a component of a brand that is eligible to get up and running with Olo Pay an operator group, not the full brands that we can start to prove out those results ahead of the full brand being ready to deploy Olo Pay. There are other examples, and I think we're already showing this with coming to market initially with card-not-present before having the full card-not-present and card-present capability available where we can kind of wedge in with the card-not-present transactions that are the digital transactions running across the Olo ordering platform.
+And then to Peter's point on the last response, make the case at the right time for there's an even better opportunity if we go beyond the digital transactions, the card-not-present transactions, and with Olo Pay address the card-present transactions as well have a unified payments platform. So, we think that getting those proof points with our restaurant customers early and showing them, proving the results that we're seeing with others within their four walls is very powerful and can lead to great success down the line.
+Matt Hedberg
+--
+RBC Capital Markets -- Analyst
+That's great to hear. And then when we think about Olo growth, we think about location adds and ARPU expansion, obviously, a bit more the focus has been on ARPU expansion. But on this call, it certainly feels like beyond just enterprise success you're seeing in emerging enterprise customers success there. When you think about that land and expand motion, can you talk about how you're driving sales pipeline and really converting that pipe across both of those different segments? Because it feels like there could be a little different velocity with more of the emerging enterprise customers.
+Peter Benevides
+--
+Chief Financial Officer
+Yes. So, I'll try to take that one, Matt. So, I think in terms of kind of the initial conversations regarding emerging enterprise. I mean, as we noted on the call, what we're finding is within that particular segment, a higher adoption of multiple modules from the onset of the relationship.
+In particular, we've seen a lot of success there with pay. And that's great because that helps to -- it creates that higher starting point from an ARPU perspective obviously helps with stickiness, etc., within that segment. And again, going back to our card-present commentary, allows us to then leverage those card-not-present relationships to one-day upsell card-present as well.And in terms of like the actual pipeline development, I mean, there's different tactics that we use for enterprise versus emerging enterprise. I'd say a lot of focus right now within the enterprise is with the upsells of Pay and Engage just given the captive audience and the near-term opportunity to expand within those existing relationships.
+So, depending on how we think about those two segments a slightly different go-to-market approach.
+Matt Hedberg
+--
+RBC Capital Markets -- Analyst
+Thanks, guys. Well done on the quarter.
+Peter Benevides
+--
+Chief Financial Officer
+Thanks, Matt.
+Operator
+Thank you. There are no further questions at this time. I would like to turn the floor back over to Noah Glass for closing comments.
+Noah Glass
+--
+Founder and Chief Executive Officer
+OK. Well, thank you again for joining us today. We are honored to be a mission-critical platform for the restaurant industry and to serve as the engine of hospitality, helping restaurants drive sales, do more with less, and make every guest feel like the regular. Thank you, Team Olo, for your hard work and execution.
+We have miles to go before we sleep.
+Operator
+[Operator signoff]
+Duration: 0 minutes

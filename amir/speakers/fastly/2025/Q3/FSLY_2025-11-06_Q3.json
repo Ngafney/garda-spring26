@@ -1,0 +1,227 @@
+[
+  {
+    "speaker": "Unknown",
+    "role": "",
+    "text": "Full Conference Call Transcript"
+  },
+  {
+    "speaker": "Vernon P. Essi",
+    "role": "",
+    "text": "Thank you, and welcome everyone to our third quarter 2025 earnings conference call. Also, a replay will be available by dialing (800) 770-2030 and referencing conference ID number 7543239 shortly after the conclusion of today's call. A copy of today's earnings press release, related financial tables, and investor supplement, all of which are furnished in our 8-Ks filing today, can be found in the Investor Relations portion of Fastly, Inc.'s website. During this call, we will make forward-looking statements, including statements related to the expected performance of our business, future financial results, product sales, strategy, long-term growth, and overall future prospects. These statements are subject to known and unknown risks, uncertainties, and assumptions that could cause actual results to differ materially from those projected or implied during the call. For further information regarding risk factors for our business, please refer to our filings with the SEC, including our most recent annual report filed on Form 10-Ks and quarterly report filed on Form 10-Q filed with the SEC and our third quarter 2025 earnings release and supplement. For a discussion of the factors that could cause our results to differ, please refer in particular to the section entitled Risk Factors. We encourage you to read these documents. Also note that the forward-looking statements on this call are based on information available to us as of today's date. We undertake no obligation to update any forward-looking statements except as required by law. Also during this call, we will discuss certain non-GAAP financial measures. Unless otherwise noted, all numbers we discuss today other than revenue will be on an adjusted non-GAAP basis. Reconciliations to the most directly comparable GAAP financial measures are provided in the earnings release and supplement on our Investor Relations website. For our GAAP results, the RBC 2025 TMT Conference on November 19 in New York, the sixth Annual Needham Tech Week on November 20 in New York, the UBS Global Technology and AI Conference in Scottsdale, on December 3, and the Raymond James 2025 TMT and Consumer Conference in New York on December 8. Now I'll turn the call over to Kipp."
+  },
+  {
+    "speaker": "Charles Compton",
+    "role": "",
+    "text": "Thanks, Byrne. Hi, everyone, and thank you for joining us today. We had an outstanding third quarter, and I'm pleased to share our results. These results reflect our disciplined execution, exceeding the high end of our guidance on revenue and operating profit as well as achieving record free cash flow. This momentum drove record results across all three of our product lines. When I became CEO, I laid out a clear mandate to accelerate our growth and drive to profitability. This quarter marks the next step in Fastly's transformation, accelerating growth and innovation with operational rigor and discipline. As a result, we are raising our full-year guidance for revenue, profitability, and free cash flow. We believe our Q3 performance demonstrates that the strategic initiatives we put in place earlier this year are translating into results. Now turning to highlights from Q3. Our third quarter revenue was $158.2 million, above the top end of our guidance and a record high. Our gross margin of 62.8% exceeded the top end of our guidance. This was an improvement of 380 basis points sequentially as we delivered healthy margin leverage on our revenue upside. We posted record operating income of $11.6 million, significantly above our $1 million guidance midpoint. Similar to Q2, we achieved strong operating leverage in the third quarter with OpEx up 10% year over year compared to 15% year over year revenue growth. This strong financial performance drove record quarterly free cash flow of $18 million. Our financial performance this quarter demonstrates strong rigor in our go-to-market motion. With revenue growth accelerating to 15% compared to 12% in the second quarter. Our platform expansion and cross-sell strategies were major contributors driving our security revenue growth to 30% year over year. These results reflect operating leverage in our business and our continued focus on spend discipline. Our cross-sell motion accelerated this quarter, highlighted by a major multi-product win with a top 10 strategic account. This customer is now using products across all three of our product lines, positioning us for continued growth. We believe this win, enabled by our expanding security portfolio, highlights the tangible value our customers experience from consolidating onto the Fastly platform. Our innovation engine is firing on all cylinders. Our teams are developing advanced security capabilities that address our customers' most pressing needs. In Q3, we introduced additional security and AI enhancements on the Fastly platform, including API discovery, the first step in our comprehensive API resiliency strategy, helping customers continuously identify and protect their APIs as traffic flows through the Fastly platform. We launched industry-first deception capabilities in our next-gen WAF. This feature is designed to actively mislead attackers and bots, disrupting their ability to adapt while giving our customer security teams the decisive upper hand. Additionally, we introduced AI integration with the Fastly MCP server using AI. Since being named our President of Go to Market last quarter, this effort is catalyzing greater upsell and cross-sell flexibility, programmability, and industry-leading support. Let me share a few examples from the third quarter. A major retailer in the LatAm region wanted to streamline its operations with a single vendor. They chose the Fastly platform to unify their edge security, delivery, and bot management. This strategic win demonstrates the turnkey nature of our platform, providing exceptional performance, security, and operational efficiency. They chose the Fastly platform for our superior performance and our in-time zone customer support to resolve critical security and delivery issues quickly. An American streaming leader needed a solution that would integrate seamlessly with their existing workflows. They chose our WAF over our competitors and consolidated their delivery, security, and image optimization needs with Fastly. By moving to the Fastly platform, they drove operational efficiencies while enhancing their technology stack. A prominent weekly news magazine needed to relaunch their app on a tight timeline. This was an example of our customer advocacy flywheel, three internal champions who loved Fastly at prior companies successfully advocated for its adoption at their new employer, replacing a competitor with our delivery and security solutions. All of these wins are powered by our platform strategy. Our focus is squarely on execution and disciplined investment to drive growth. This is concentrated in our platform strategy and includes goals of continuing to expand our platform, especially through edge security capabilities. Increasing the value customers get from our entire platform by driving simplification and a superior developer experience through AI, sustaining and growing the strong go-to-market execution demonstrated this quarter. We are focused on new customer acquisition, significant cross-sell and upsell opportunities, and continuing to invest in our international expansion, particularly in APJ. We are seeing early results with new customer wins. We are excited about the significant opportunity ahead and are confident in our team's ability to execute. We're pleased to raise our financial targets. Now I want to introduce our new CFO, Rich Wong. We are incredibly excited to have Rich on the leadership team. He has hit the ground running, focusing on scaling the business and maintaining strong cost discipline. His leadership is already making a difference in the business, as you can see in our Q3 results. He will now walk you through our financial results and updated guidance in more detail. Rich, over to you."
+  },
+  {
+    "speaker": "Ronald W. Kisling",
+    "role": "",
+    "text": "Thank you, Kipp, and thank you, everyone, for joining us today. I would like to start by saying that I'm very excited to be here about the opportunity that lies ahead. I chose to join Fastly because I was excited by its leading technology and performance among edge cloud platform companies. Customers love our technology, our products, and our best-in-class support. I truly believe that we are positioned at the right place, the Edge Cloud, at the right time as we see workloads shift to the edge to complement central clouds. I also saw an opportunity to unlock value for our customers and shareholders. Since coming on board, I've seen many opportunities in finance where we can influence better outcomes with our customers as well as our financial performance with our investors. For example, as we move into year-end 2025, and looking ahead to 2026, we are implementing a rigorous budgeting process across the company. And we are building more discipline around the ROI of our spend. With a focus towards growth and scale. I've added staff to the finance function to support this effort, and I've also brought in a new chief accounting officer. Before I dive into our Q3 results, I would like to say I am very proud of our financial performance this quarter. Having achieved our third consecutive quarter of accelerating revenues. We've also achieved near-record gross margins, record profitability, and record free cash flow. We continue to launch product enhancements that our customers love. I'm excited to be here and partner with Kipp and the team to help Fastly scale to the next level. Now on to our Q3 results. I'd like to remind you that unless otherwise stated, all financial results in my discussion are non-GAAP based. Revenue for the third quarter increased 15% year over year to $158.2 million, coming in above the high end of our guidance range of $149 million to $153 million. This revenue upside was driven by three key factors. First, successful cross-sell motion where we signed a big multi-product win with one of our top 10 strategic customers and made inroads on security sales with other customers. Second, competitive share gains through a new customer acquisition. And finally, greater upsells with existing network services customers. Together, these three factors provided a strong tailwind from the quarter and led to an outstanding top-line performance. Network services revenue of $118.8 million grew 11% year over year. We saw healthy traffic levels in the third quarter due to stronger market conditions and the success of upsell motion. Security revenue of $34 million grew 30% year over year, comprising a record 21% of our total revenue. This was due to the expansion of our security portfolio over this past year, coupled with the success of our cross-sell motion. Our other products revenue of $5.4 million grew 51% year over year, driven primarily by sales of our compute products. In the third quarter, our top 10 customers represented 32% of revenue. We continue to see strength in our broader customer base. With revenue from customers outside our top 10 growing 17% year over year and 5% sequentially. Also, no single customer accounted for more than 10% of revenue in the third quarter. Facility customers that are business units at a single company generated an aggregate of 10% of the company's revenue for the quarter. Our trailing twelve-month net retention rate was 106%, up from 104% in the prior quarter and up from 105% in the year-ago quarter. The quarter-over-quarter and year-over-year increases were primarily due to revenue increases a few of our largest customers in prior quarters. Our last twelve months net retention rate closely follows our overall revenue growth rate trend. We exited the third quarter with RPO of $268 million, growing 16% year over year. During 2025, we discovered an error in how we historically cap the RPO around our treatment of termination for convenience rights. As a result, we recast our historical RPO found in the investor supplement. We want to emphasize that this change will not impact our continued focus on increasing the number of customers with revenue commitments while also driving them towards higher commitment levels. I will now turn to the rest of our financial results for the third quarter. Our gross margin was 62.8% in the third quarter, coming in 330 basis points above our guidance midpoint of 59.5% and up 410 basis points from 58.6% in Q3 2024. We experienced $1.6 million in a non-recurring cost of revenue tailwind primarily due to accrual reversals. Accounting for this, our gross margin would have performed at approximately 62%, well above our guidance expectations. During the quarter, we experienced gross margin leverage on our revenue upside and saw pricing declines moderate to the favorable end of our typical high teens year-over-year declines. Operating expenses were $87.7 million in the third quarter, coming in slightly better than expected due to lower discretionary spend and a more rigorous cost management process. We are continuing our focus on our operating expenses and driving greater leverage in our operating results as we scale the business. We had an operating income of $11.6 million in the third quarter, coming in better than the $1 million midpoint of our operating guidance range of $1 million to $3 million profit. In the third quarter, we reported a net profit of $11.1 million or $0.07 per diluted share compared to a net profit of $3.8 million or $0.03 per diluted share in Q3 2024. Our adjusted EBITDA was $25.7 million in the third quarter compared to $14.6 million in 2024. Turning to the balance sheet, we ended the quarter with approximately $343 million in cash, cash equivalents, marketable securities, and investments, including those classified as long-term. A sequential increase of $22 million over Q2 2025. As a reminder, our March 2026 zero percent coupon convertible notes balance of $188 million became current in the first quarter and continues to be reflected in our current liabilities. We have adequate liquidity to cover our working capital, operating requirements, and to pay the March 2026 convertible notes when they become due. Our cash flow from operations was positive $28.9 million in the third quarter, compared to positive $5 million in Q3 2024. Our free cash flow for the third quarter was $18.9 million, representing a $25.2 million increase from negative $7.1 million in the Q3 2024 quarter. Our cash capital expenditures were approximately 9% of revenue in the third quarter. As a reminder, our cash capital expenditures included capitalized internal use software. I will now discuss our outlook for the fourth quarter and full year 2025. I'd like to remind everyone again that the following statements are based on current expectations as of today and include forward-looking statements. Actual results may differ materially, and we undertake no obligation to update these forward-looking statements in the future except as required by law. Our revenue model is primarily based on customer consumption, which can lead to variability in our quarterly results. Our revenue guidance reflects these dynamics in our business and is based on the visibility that we have today. In September 2025, the Trump administration issued an executive order establishing a framework that lets TikTok continue operating in the U.S. if it completes a qualified divestiture to a new U.S. majority-owned joint venture. The administration also paused enforcement of the disaster of Yamaha until January 23, 2026, while the transaction of National Security Safeguards are finalized. For perspective, the United States traffic of ByteDance, the parent company of TikTok, represented less than 2% of our revenue in the third quarter. We perceive the losses of business due to these actions as less likely than in prior periods. And for our Q4 guidance, we will once again incorporate all sources of ByteDance revenue into our forward guidance. As Kipp discussed, we saw revenue strength and successful cross-sell and upsell motions and share gains due to competitive takeouts and anticipate this momentum to continue in the fourth quarter. As such, we expect revenue in the range of $159 million to $163 million in the fourth quarter, representing 15% annual growth at the midpoint. We anticipate our margin leverage on higher revenue levels to continue to favorably impact gross margins. We anticipate our gross margins for the fourth quarter will be 61.5% plus or minus 50 basis points. For comparison purposes, we recall we experienced $1.6 million of favorable cost of revenue tailwinds in the third quarter. Guidance for our fourth quarter operating results reflects the impact of a sequential increase in revenue, an expected sequential decrease in gross margin, and an expected modest sequential increase in operating expenses. As a result, for the fourth quarter, we expect a non-GAAP operating profit of $8 million to $12 million. We expect a non-GAAP net earnings per diluted share of $0.04 to $0.08. Note that for the fourth quarter, fully diluted share count for positive EPS will be approximately 168 million shares. For calendar year 2025, we are raising our revenue guidance to a range of $610 to $614 million, reflecting annual growth of 13% at the midpoint. We anticipate our 2025 gross margins will be between 60-61%. We are increasing our non-GAAP operating profit expectations to a range of $9 to $13 million, reflecting an operating margin of 2% at the midpoint and highlighting our profitability compared to 2024's operating loss margin of 4%. We expect our non-GAAP net earnings per diluted share to be in the range of $0.03 to $0.07, and we expect free cash flow to be in the range of $25 million to $35 million compared to negative $36 million in 2024, an improvement of $66 million year over year at the midpoint. And finally, we expect our cash CapEx to be in the range of 10% to 11% of revenue for the full year. Before we open the line for questions, we would like to thank you for your interest and your support in Fastly. Operator?"
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "At this time, I would like to remind everyone in order to ask a question, press star then the number one on your telephone keypad. Your first question comes from the line of James Fish with Piper Sandler."
+  },
+  {
+    "speaker": "James Edward Fish",
+    "role": "",
+    "text": "Hey, guys. Nice quarter, and thanks for the questions here. Look, I understand security cross-sell did well, and NRR was up two points sequentially on a trailing twelve-month basis, but I'm backing into that the implied period is a little bit lower. And so security really accelerated. It kind of raises the question as to what's going on with the delivery business expansion. So can you just walk us through the dynamics there as to why what's going on with delivery expansion versus kind of what you reported here for overall?"
+  },
+  {
+    "speaker": "Ronald W. Kisling",
+    "role": "",
+    "text": "Yeah, Jim. This is Rich. Thank you for the question. I would say that, you know, from the net revenue retention perspective, we look at it in aggregate across all three business lines. I would guide you if you're looking at network services, to look at the year-over-year growth rate. With net services, for the quarter, we've delivered about 11% year-over-year growth on the network services side, and, you know, that was our third quarter of accelerating network services revenue."
+  },
+  {
+    "speaker": "James Edward Fish",
+    "role": "",
+    "text": "Fair enough. And then competitively, obviously, you guys, over the last few quarters, have had a bit of a tailwind on AGL. But there's discussions around Quilt now. I guess, how much of an opportunity with them seemingly winding down here could that be given some customers were trying to use them a bit for somewhat of a DIY approach?"
+  },
+  {
+    "speaker": "Charles Compton",
+    "role": "",
+    "text": "Yeah. Hey, Jim. We've not been running into Quilt very often. I think any opportunity with Quilt would obviously be significantly smaller than the AGL tailwind that you referenced. But of course, we see an opportunity and expect there may be some."
+  },
+  {
+    "speaker": "James Edward Fish",
+    "role": "",
+    "text": "Got it. Thanks, guys."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Your next question comes from the line of Frank Louthan with Raymond James."
+  },
+  {
+    "speaker": "Frank Garrett Louthan",
+    "role": "",
+    "text": "Great. Thank you. I wanted to see if there's anything one-time or anything in the quarter that we should know or is this sort of a good jumping-off point going into Q4? And then trending so far this fall? Maybe relative to last year? Thanks."
+  },
+  {
+    "speaker": "Ronald W. Kisling",
+    "role": "",
+    "text": "Yes. I think your first question around any one-time items in the quarter, I think the quarter just had a confluence of a number of activities. I would say at first, we just had a very good cross-sell quarter. Where, you know, I think, Kipp mentioned in his script, we had a top 10 customer buy all three products, and so that was number one. I think the second one was in that quarter, we also had very strong bookings linearity. And so in that quarter, we had, you know, almost half of our bookings in the quarter booking the first month, which is not typical for us. And so that bookings linearity really helped the Q3 results. I think when we look at Q4 guidance, you know, we are being prudent based on what we see today. And I think that we feel really good about the guide. I think the traffic, you know, second part of your question around, you know, where are we seeing traffic. We do see, you know, pretty good traffic for Q3. You know, we're seeing it continue in Q4. Which is why we felt really good about raising the guidance from work incentives. Just by about $6.8 million."
+  },
+  {
+    "speaker": "Charles Compton",
+    "role": "",
+    "text": "Yeah. And specifically to your question about seasonality in Network Services business, right now, we're not seeing anything out of the ordinary on that front."
+  },
+  {
+    "speaker": "Frank Garrett Louthan",
+    "role": "",
+    "text": "Alright. Great. Thank you."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Your next question comes from the line of Jonathan Ho with William Blair."
+  },
+  {
+    "speaker": "Jonathan Frank Ho",
+    "role": "",
+    "text": "Hi, good afternoon and congratulations on the strong quarter. I just wanted to maybe start out with your security portfolio. Where are you seeing the most strength in terms of your new offerings and sort of demand generation on that side?"
+  },
+  {
+    "speaker": "Charles Compton",
+    "role": "",
+    "text": "Great question. It's, actually, fairly broad-based. As you know, we've launched a number of products over the last twelve months or so, and we've been enhancing those products as follow-on releases. So I'm referring to things like bots, the AI bot management, the DDoS capabilities. We've all seen those received very well and, in many cases, implemented together in combination for customers. And so our award-winning leading next-gen WAF continues to do well, but the new products are helping us with growth there."
+  },
+  {
+    "speaker": "Jonathan Frank Ho",
+    "role": "",
+    "text": "Got it. And in terms of that large competitor displacement, I was wondering if you could give us a little bit more color in terms of why specifically did they choose you? You know, what is it about maybe the product portfolio that drove these supporters to, you know, sort of standardize on Fastly and what does that opportunity look like going forward? Thank you."
+  },
+  {
+    "speaker": "Charles Compton",
+    "role": "",
+    "text": "Well, I think you're referring to the example I shared of folks who had worked with Fastly at a prior employer and rallied for the adoption of it at their new company. And, you know, I think that we have a lot of customers who've used our product and see the really think, the performance and the support are two things that I hear a lot in those stories in general. And I think that was a notable win, but it's actually a surprisingly common occurrence for us to see that we were winning an account due to champions who had used our product at prior employers."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Your next question comes from the line of Fatima Boolani with Citi."
+  },
+  {
+    "speaker": "Rudy Grayson Kessinger",
+    "role": "",
+    "text": "Hey, this is Joe Alon for Fatima. Thanks for taking our question. So just thinking of international as a key area of investment, Kipp, I think you mentioned some positive traction in APJ specifically. Could you get into detail on some of the returns that you're seeing internationally? And then also comment on what sales capacity looks like, how much more heavy lifting is there to do, just what you're seeing so far and what's down the road for international in the near term. And that's all. Thank you."
+  },
+  {
+    "speaker": "Charles Compton",
+    "role": "",
+    "text": "Sure. No. I appreciate the question, and I'll make the point because I don't think your question reflects this, but in the past, there's been some concern about the impact on, for example, CapEx in our international expansion strategy. I think as your question framed it very well, our international expansion strategy is around sales coverage and going after opportunities that are based in those areas. Obviously, we already operate a global network that delivers traffic just about everywhere in the world already. And so it really is, as you rightly framed it, a sales and opportunity-driven strategy. The genesis of it is we are under-indexed against the opportunities outside the United States. It's not an unusual situation for a company based in the United States, and we're seeing those markets, particularly in Asia Pacific, grow very quickly. And so we've been Scott Lovett, our President of Go to Market, has been making investments on his team. I think we mentioned in our last quarterly call that we hired a new leader for the overall APJ region. It had previously just been part of a single international region that also covered Europe. With a leader in Europe and this move has allowed us to increase our focus in Europe. Because that leader now could focus frankly, on a smaller number of time zones. And obviously, having a new leader overall for Asia Pacific has been an incredible benefit for the team. And they're already seeing her leadership. I mentioned, I think, in my examples in the prepared comments of wins several from the APJ region. And so as we're increasing our sales coverage there, we certainly plan to continue that through the rest of this year and into next year. We're just getting exposed to more opportunities and able to position our platform to benefit more of those customers. In terms of results, I mentioned we're seeing early reflected in my comments. We think this is something that could be more significant as we get into next year. So it should not be it's not an immediate benefit, but given the nature of it, it's a sales coverage and go-to-market type of investment, the returns should come relatively quickly."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Your next question comes from the line of Rudy Kessinger with D. A. Davidson."
+  },
+  {
+    "speaker": "Rudy Grayson Kessinger",
+    "role": "",
+    "text": "Hey. Great. Thanks for taking my questions, on the security revenue in the quarter, $34 million. I don't it doesn't sound like there's anything one-time, but could you quantify maybe on maybe that large cross-sell or across other deals? Like, expect that to grow sequentially? You know, upfront rev rec that maybe doesn't repeat in Q4. Just trying to get a sense of that $34 million is a new baseline. Should we in Q4 and into next year, if there's any kind of upfront rev rec that won't repeat in Q4."
+  },
+  {
+    "speaker": "Ronald W. Kisling",
+    "role": "",
+    "text": "Yeah. Thanks. I think I, we mentioned earlier there was looking for linearity. Early in the quarter, and I think this one was a booking linearity where we did see the benefit of security that ended up benefiting all three months. I do think that, you know, there is still opportunity here, you know, as we continue to push for cross-sells across the sales organization, you know, that this $34 million and a 30% year-over-year growth rate, you know, we will, you know, continue to, you know, make sure that we focus on this. And sustain those numbers. But, this is, you know, that one benefit from that one quarter and that big deal helped the big sequential jump that you see."
+  },
+  {
+    "speaker": "Charles Compton",
+    "role": "",
+    "text": "Yeah. And I mean, we really saw a significant increase in our security revenue run rate early in the quarter as we had a number of opportunities, certainly led by the large one that Rich mentioned. Ramped very quickly and very early in the quarter. And so while there's no one-time rev rec or anything like that, I would just guide that, you know, we probably got a full quarter of benefit from that increase. Obviously, that business we expected to continue in this quarter and beyond. But it's not one of those situations where we got a partial quarter benefit and then enjoy another leg of growth on that particular piece of business with a full quarter the following quarter."
+  },
+  {
+    "speaker": "Rudy Grayson Kessinger",
+    "role": "",
+    "text": "Okay. Just to double click on that, then I actually do have a separate kind of follow-up. That, I mean, the revenue you got from that, those deals in security in Q3, that's fully ratable revenue that will repeat again in Q4."
+  },
+  {
+    "speaker": "Ronald W. Kisling",
+    "role": "",
+    "text": "For a full quarter. Correct."
+  },
+  {
+    "speaker": "Charles Compton",
+    "role": "",
+    "text": "Yeah. It's just aligned with the rest of our, if you will, recurring revenue. It doesn't constitute like one-time service and implementation or other things like that. So we expect that revenue to continue."
+  },
+  {
+    "speaker": "Rudy Grayson Kessinger",
+    "role": "",
+    "text": "Okay. Got it. Very helpful. If I look at the, obviously, very stable growth, 17% in the non-top 10 customers. If you look at the top 10, quarter over quarter, they accounted for close to half the revenue growth. It sounds like a lot of that is probably from that, you know, one top 10 customer that expanded into security. Could you just talk about maybe the rest of the top 10 and the trends that you saw quarter over quarter on the delivery side and what you're expecting from that cohort in Q4 into next year?"
+  },
+  {
+    "speaker": "Charles Compton",
+    "role": "",
+    "text": "Sure. I mean, I think I would say we've not seen anything notable or out of the ordinary with that cohort outside of the significant security cross-sell that we mentioned. We expect that business. I mentioned early seasonality so far looks normal for that business. You know, I guess one comment would be, you know, we were excited with the ability to cross-sell in that top 10 segment. Especially our security portfolio and we're looking and believe there may be additional upside there over time. So I think the ability to apply our platform strategy, even with our largest customers, is something we're very excited about."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Your next question comes from the line of Jeff Van Rhee with Craig Hallum."
+  },
+  {
+    "speaker": "Daniel Uriah Hibshman",
+    "role": "",
+    "text": "Hey. This is Daniel Hibshman on for Jeff Van Rhee. Congrats on the quarter. Just one for me, going back to the seasonality questions that have been already asked, and sort of expecting some regular seasonality this quarter, when I look at historically, of course, Q4 is the seasonally strongest quarter. You see often, upper single-digit even double-digit sequential uplift in Q4. This quarter, midpoint of the guide kind of points to a 2% sequential. It's actually the small sequential increase from Q3 to Q4 that we've seen so far this year. Typically we see a big uplift there. Is there anything to call out in terms of that, in terms of just conservatism, expecting a different pattern going into Q4? Just on a sequential basis, how you're thinking about that?"
+  },
+  {
+    "speaker": "Ronald W. Kisling",
+    "role": "",
+    "text": "Good question, Daniel, and thanks for the question. I know, I think when we look at the Q4 guidance, I mean, we do typically see, usually a slower Q3 and a bigger Q4. I think this quarter just we, you know, we had a confluence of events where Q3 was a bit higher. So if you look at sequential growth in network services for the quarter, were about $4 million up. And so I, you know, I think for us, we saw, you know, some special, you know, pickups in both network services. And we've also, you know, obviously, been interested in some of security. So we think that, you know, based on what we see today on traffic patterns, in Q3 and Q4, we do think the sequential guide, we think is pretty reasonable."
+  },
+  {
+    "speaker": "Daniel Uriah Hibshman",
+    "role": "",
+    "text": "Okay. That's helpful. And then just on the gross margins, I mean, called out the one-time, I think you said x that one-time, you 62% underlying non-GAAP gross margins is the strongest I think we've seen in several years. Just anything else you can call out in terms of from a hardware network perspective, walking us through what's changing there that, you know, obviously, you mentioned scale, but the company's been scaling for a long time. So something different there, driving those higher, just kind of talk us through the underlying dynamics."
+  },
+  {
+    "speaker": "Ronald W. Kisling",
+    "role": "",
+    "text": "Yeah. You know, Q3 was a really good quarter for us. If you exclude that $1.6 million tailwind we mentioned on the earnings script, the gross margins would have been 61.8%. You know, for the quarter specifically, you know, I think we attribute it to two main reasons. One is the scale that we talked about of the platform, you know, especially you see the sequential kind of rise in Q3. I think second is that the engineering arch our traffic our engineering team has made a lot of investments around traffic engineering, making the network much more efficient. And I think that you're seeing some of the benefits from that. I think when you look at the Q4 guide, we're guiding to kind of roughly flat versus Q3, you know, taking continuing that advantage that we built in traffic engineering that we've been doing."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Your next question comes from the line of Toomer Zilberman with Bank of America."
+  },
+  {
+    "speaker": "Rudy Grayson Kessinger",
+    "role": "",
+    "text": "Hey guys. Maybe to continue on the line of questioning around security. I know you've called out before potential for some volatility in that segment as you're building out your go-to-market multiples. If I ex out that one-time deal that you spoke about, what do you are you seeing stabilization of that volatility or do you think we can still expect to see some different trends as you're building out these new product motions and go-to-market?"
+  },
+  {
+    "speaker": "Charles Compton",
+    "role": "",
+    "text": "Great question. What I can share is that in our internal analysis, when we excluded that one large deal, we still had accelerating growth in security. So it's certainly, we're very excited and proud of that one deal, but that wasn't the only thing driving a good growth this quarter in security."
+  },
+  {
+    "speaker": "Rudy Grayson Kessinger",
+    "role": "",
+    "text": "Got it. And maybe as a follow-up, pivoting a little bit away, if we look at the net retention rate, we've seen some improvement over the last couple of quarters versus kind of the declines we saw last year. Where do we think that net retention rate goes forward? As we look out maybe the next two, three years? Can we return to that kind of peak of, you know, 120% you had a couple of years ago? Or think it stabilizes at this kind of 106% rate?"
+  },
+  {
+    "speaker": "Ronald W. Kisling",
+    "role": "",
+    "text": "Yeah. I think that, you know, we're very happy and proud of the NRR we achieved this quarter. You know, I think it really goes to show the investments that Scott and his team have made around cross-sells and upsells, and they're really beginning to pay off. We do think that there is room going forward on this metric. We do think it's gonna increase next quarter. Yeah. I just wanna remind you that, like, when we think about this metric, it is a last twelve-month metric. And we are beginning to lap some of the headwinds we saw in 2024. And so for Q4, we do think this metric has room to improve. You know, we don't give guidance on this. And so, you know, I can't say the one twenty or where we'll be, but I do think that from where we are today, Q4 should be up."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Again, if you would like to ask a question, press star then the number one on your telephone keypad. And at this time, there are no further questions. I would now turn the call back over to Kipp Compton for closing remarks."
+  },
+  {
+    "speaker": "Charles Compton",
+    "role": "",
+    "text": "Thanks, Rebecca. We believe this quarter demonstrated tangible progress in our ongoing transformation. We are committed to building the world's most powerful and flexible edge platform. We are pleased with the strong momentum we saw this quarter and are focused on building sustainable, profitable growth. I want to thank our Fastly employees for all of their contributions, our customers for their trust and partnership, and our investors for their continued support. Thank you."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Ladies and gentlemen, that concludes today's call. Thank you all for joining. You may now disconnect."
+  }
+]

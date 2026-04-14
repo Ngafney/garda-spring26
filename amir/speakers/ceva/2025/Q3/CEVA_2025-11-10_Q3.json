@@ -1,0 +1,162 @@
+[
+  {
+    "speaker": "Unknown",
+    "role": "",
+    "text": "Full Conference Call Transcript"
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Good day. And welcome to the CEVA, Inc. Third Quarter 2025 Earnings Conference Call. All participants will be in listen-only mode. After today's presentation, there will be an opportunity to ask questions. Please note, today's event is being recorded. I'd now like to turn the conference over to Richard Kingston, Vice President, Market Intelligence and Investor Relations. Please go ahead, sir."
+  },
+  {
+    "speaker": "Richard Kingston",
+    "role": "",
+    "text": "Thank you, Rocco. Good morning, everyone. And welcome to CEVA's third quarter 2025 earnings conference call. Joining me today on the call are Amir Panush, Chief Executive Officer, and Yaniv Arieli, Chief Financial Officer of CEVA. Before handing over to Amir, I would like to remind everyone that today's discussion contains forward-looking statements that involve risks and uncertainties as well as assumptions that, if they materialize or prove incorrect, could cause the results of CEVA to differ materially from those expressed or implied by such forward-looking statements and assumptions. Forward-looking statements include those regarding our market position and industry trends, including with respect to embedding of AI across customer product lines and customer licensing of NPUs for AI interfacing. Statements regarding demand for and benefits of our technologies, expectations regarding revenues including higher royalty potential for AI agreements, and our financial goals and guidance regarding future performance. CEVA assumes no obligation to update any forward-looking statements or information which speak as of their respective dates. We will also be discussing certain non-GAAP financial measures which we believe provide a more meaningful analysis of our core operating results and comparison of quarterly results. A reconciliation of non-GAAP financial measures is included in the earnings release we issued this morning and in the SEC filings section of our Investor Relations website at investors.cevaip.com. With that said, I'd like to turn the call over to Amir who will review our business performance for the quarter and provide some insight into our ongoing business. Amir?"
+  },
+  {
+    "speaker": "Amir Panush",
+    "role": "",
+    "text": "Thank you, Richard, and good morning, everyone. We are pleased to report that the third quarter exceeded our expectations on both revenue and non-GAAP EPS. With revenue of $28.4 million and non-GAAP EPS of $0.11. In licensing, we secured several strategic agreements that reinforce our market-leading position in wireless connectivity and accelerate our expansion in AI. This quarter was marked by strong execution across our core pillars: Connect, Sense, and Infer, and highlights the breadth and strength of our IP solution portfolio. The most significant win this quarter was in AI, where Microchip, one of the world's leading microcontroller and connectivity providers, and whose products power billions of devices across industrial, consumer, automotive, and other end markets, adapted our full NPO NPU portfolio for its future roadmap. This win is a strong proof point of the broader industry trend. Major MCUs and semiconductor vendors are embedding AI capabilities across their product lines, bringing more on-device intelligence for performance, user experience, privacy, and cost. Selecting CEVA gives Microchip a complete portfolio of edge AI inference solutions, from ultra-low power inference for MCUs to high-performance AI in advanced systems, all under a unified software stack. This flexibility allows them to standardize AI deployments across industrial, automotive, consumer, communications, and compute markets without compromising on power or costs. Let me take a moment to talk about the role of NPUs in the broader AI ecosystem. At the end of the day, an NPU is an optimized compute engine for AI inference. Just as CPUs orchestrate system control and GPUs accelerate graphics, companies rarely reinvent CPUs or GPUs. They license proven processor IP and focus on system integration and software differentiation. We believe NPUs will follow the same path. Licensing a proven and scalable NPU architecture delivers the performance and scalability customers need while freeing resources to focus on software-optimized models and application-specific experiences. CEVA is uniquely positioned to lead this transition. We have a full range NPO portfolio, a unified software framework, and tools, and a strong partner ecosystem. This enables customers to focus on differentiated models and experiences while we provide the scalable, proven technology foundation. Our recent new point engagement with a leading MCU vendor is a powerful validation of this approach. Beyond the new portfolio win, we signed three AI DSP agreements that broaden our reach across consumer electronics and automotive. First, a leading global electronics brand is integrating our AI DSP into its next-generation edge SoC family for home appliances, enabling vision, voice, and contextual awareness in connected devices. Second, a high-profile automotive customer expanded its use of Silva AI DSPs and accelerators for centralized compute platforms now entering production. And a new engagement with an innovative ADAS chiplet architecture company is strengthening our position in automotive. AI processor licensing is now a very meaningful and growing part of our business, contributing roughly one-third of the licensing revenue in both the second and third quarters. The first time AI has had such a significant impact on our licensing mix. In addition, these AI agreements typically carry a higher royalty potential than our traditional licensing business, further enhancing long-term value. Moving now on to wireless connectivity, which represents a core pillar of our growth strategy and a powerful cross-sell engine into AI. We had another impactful quarter. We delivered wins in both established standards, like Wi-Fi 6 and Bluetooth 5, and next-generation standards. This quarter, a long-term customer licensed our latest Wi-Fi 7 and Bluetooth high data throughput IP for upcoming roadmaps. These standards offer higher throughput, lower latency, and improved power efficiency, which are essential for advanced audio wearables, robotics, and broader physical AI use cases. These transitions are not one-off wins. They cement multiyear royalty ramps as customers build on power generation and continue forward with CEVA Technologies as core enablers of connectivity and AI. By consistently delivering end-to-end, multi-standard connectivity solutions, together with advanced sensing and AI IP, we provide a unified foundation for intelligent, connected devices. This positions us as the de facto partner for next-generation connectivity and strengthens our leadership as AI and sensing adoption expands across markets. Now turning into royalties. We delivered solid growth across most of our markets, with royalties up 6% year over year and 16% sequentially. Consumer IoT was a key driver, posting 9% year-over-year growth supported by record shipments in cellular IoT and Wi-Fi. Our 5G SWAN infrastructure customers also had a strong quarter, with revenues up 91% compared to last year. In automotive, two large semiconductor customers continued to ramp up volume shipments for ADAS solutions based on our AI DSP, contributing to overall royalty growth in the quarter and beyond. Mobile royalties grew 4% year over year and 7% sequentially, driven by recovering low-end smartphone segments. At the high end, our U.S. OEM customers launched a second smartphone model featuring its in-house 5G modem with CEVA technology. And as this model expands into more markets in the fourth quarter, we expect further royalty growth. In summary, this quarter's AI-led licensing momentum and continued progress in wireless connectivity highlight the breadth and scalability of our IP across Sense, Connect, and Infer. These wins strengthen our pipeline, increase visibility into future revenue streams, and reinforce CEVA's role as a foundational technology provider for intelligent, connected, and increasingly physical AI devices. Now I will hand the call over to Yaniv for the financials."
+  },
+  {
+    "speaker": "Yaniv Arieli",
+    "role": "",
+    "text": "Good morning. Thank you, Amir. I'll now start by reviewing the results of our operations for 2025. Revenue for the third quarter was $28.4 million, up 4% compared to $27.2 million for the same quarter last year, and up 11% sequentially. The revenue breakdown is as follows: licensing and related revenue totaled $16 million, representing 56% of our total revenue for the quarter. This reflects a 3% year-over-year increase and a 7% sequential increase. Licensing revenue for 2025 reached $46.1 million, a 4% increase compared to $44.3 million for the same period of 2024. As Amir noted, this growth primarily represents strong traction in AI, following multiple significant design wins for NPUs and AI DSPs. AI processor licensing contributed roughly a third of the licensing revenue in both the second and third quarters, demonstrating solid momentum and strategic progress. These were our core, the importance of our Neuprol MPU portfolio and AI DSP offerings as key growth drivers going forward. Royalty revenue for the third quarter was $12.4 million, reflecting 44% of total revenue, a 16% sequential increase, and a 6% increase year over year. Consumer IoT is a key driver. It posted 9% year-over-year growth, supported by record shipments in cellular IoT and Wi-Fi. Gross margin came slightly better than our guidance, at 88% on a GAAP basis and 89% on a non-GAAP basis, compared to 85% and 87% respectively a year ago. Total operating expenses for the third quarter were $27.1 million, at the higher end of our guidance. Our total non-GAAP operating expenses for the third quarter, excluding equity-based compensation expenses, amortization of intangibles, and related acquisition costs, were $22.1 million, at the higher end of our guidance as well, mainly due to higher employee benefit provisions associated with better financial results. Non-GAAP operating margins and net income improved significantly over 2025, reaching 11% of revenue and $3.1 million, also higher than any percent and $2.1 million recorded in the third quarter of last year. GAAP operating loss for the third quarter was $2.1 million, as compared to a GAAP operating loss of $2.6 million for the same period in 2024. GAAP and non-GAAP taxes were $1.7 million, just below our guidance. GAAP net loss for 2025 was $2.5 million. The EBIT loss per share was $0.10, as compared to a net loss of $1.3 million and a net loss per share of $0.06 for the same period last year. Our net GAAP income, non-GAAP net income, and diluted income per share for 2025 was $2.7 million and 11%, respectively, representing $0.01 over Street estimates. In the same period last year, net income was $3.4 million and diluted income per share was $0.14. With respect to other related data, shipped units by CEVA licensees during 2025 were 559 million units, up 19% sequentially and 11% up year over year. Of these, 69 million units, or 12%, were mobile handset builders. A record 510 million units were for IoT, up 13% year over year, with consumer IoT reaching 500 million units and industrial IoT totaling 10 million units. Bluetooth shipments were 303 million units in the quarter, down 1% from 306 million in 2024. Cellular IoT shipments were an all-time record high at 69 million units, up 41% year over year. Wi-Fi shipments also reached an all-time high of 82 million units, up 73% from 47 million units a year ago. Wi-Fi 6 shipments also set a new record, up 194% year over year, as customers continue to ramp up the cloud. Our wireless IP portfolio, which includes Bluetooth, Wi-Fi, UWB, and cellular IoT, achieved its strongest royalty revenue quarter on record. These shipments and royalty trends reinforce the adoption of next-generation connectivity standards, which serve as the foundation for AI-embedded devices and position CEVA for multiyear growth. As for the balance sheet items, as of September 30, 2025, CEVA's cash, cash equivalent balances, marketable securities, and bank deposits were approximately $152 million. In the third quarter, we repurchased about 40,000 shares for approximately $1 million. In all of 2025, we purchased approximately 340,000 shares for approximately $7.2 million. As of today, around 684,000 shares are available for repurchase under the repurchase program, which was extended in November. Our DSOs for the third quarter of this year were 47 days, a bit higher than the last quarter, but in line with our norms in prior quarters. During the third quarter, we used $5.9 million of cash from operating activities. Ongoing depreciation and amortization was $1.2 million, and the purchase of fixed assets was $400,000. At the end of the third quarter, our headcount was 434 people, of whom 353 are engineers. Now for the guidance. Our licensing business remains strong, supported by a robust pipeline and deal flow across our three core pillars: Connect, Sense, and Infer. We delivered six consecutive quarters with licensing revenue above $15 million, underscoring consistent execution. Royalty revenue typically strengthens in any given second half, and the third quarter reflects this trend with 16% sequential growth and 6% year-over-year growth. Looking ahead, we expect continued seasonal momentum in the fourth quarter, driven by share gains at a U.S. OEM smartphone customer using our technology in its in-house 5G modem and by strong ramps in Wi-Fi and cellular IoT. We are maintaining our full-year revenue guidance as previously discussed and aligned with Street estimates for the year. As for the fourth quarter, total revenue is expected to be in the range of $29 million to $33 million. Gross margin is expected to remain high and with the same level of Q3, approximately 88% on a GAAP basis and 89% on a non-GAAP basis, excluding a grade of $200,000 for equity-based compensation expenses, and $100,000 of amortization of acquired intangibles. GAAP OpEx is expected to be higher than the third quarter, in the range of $27 million to $28 million, and our anticipated total operating expenses for the third quarter, $4.7 million, is expected to be attributable to equity-based compensation expenses, $200,000 for amortization of acquired intangibles, and $100,000 for expenses related to a business acquisition. Non-GAAP OpEx is also expected to be higher than the third quarter, in the range of $22 million to $23 million. Net interest income is expected to be approximately $1.5 million. Taxes for the third quarter are expected to be approximately $1.8 million, and the share count in the third quarter is expected to be approximately 25.8 million shares."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Rocco, we can now open the Q&A session, please."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Yes, sir. Please press star then 1 on your telephone keypad. If your question has already been addressed and you'd like to remove yourself from the queue, please press star then 2. Once again, that's star then 1 if you have a question. First question comes from Chris Reimer with Barclays. Please go ahead."
+  },
+  {
+    "speaker": "Chris Reimer",
+    "role": "",
+    "text": "Congratulations on the strong quarter. Looking at shipments, you mentioned the strong momentum with the smartphone customer that was driving the royalties. I was wondering if you could describe any of the other segments and how they're doing, if there might be any other ramp-ups coming to market in the near term."
+  },
+  {
+    "speaker": "Amir Panush",
+    "role": "",
+    "text": "Yes, Chris. This is Amir. Thanks for the question. Definitely, we see growth momentum in terms of our royalty, both in terms of seasonality and overall. Coming from basically multiple different opportunities. One, of course, is the mobile that we mentioned, with the large U.S. OEM. The other things from a seasonality point of view in mobile, the low-tier customers that we have in mobile, we expect them to continue basically the sequential growth as we go through the year. And the other things that we mentioned, and now we see more and more that happening, is basically the Wi-Fi shipment volume growth and the transition from Wi-Fi 4, 5 to the more latest standard Wi-Fi 6, which on its own also basically goes with higher ASP per unit. And with that, will drive higher royalty overall. In addition to that, we see the cellular IoT keeps going very nicely. And we had another record high this quarter, like the Wi-Fi shipments. And the last piece that we mentioned is things related to automotive ADAS systems. We have now two customers that started to ramp in volume production, and we expect that to continue to grow in Q4 and through the next few years as well. And additionally, in V2X, we had a customer that got acquired by Qualcomm, and this is also going and ramping right now. And we expect that to continue to drive additional royalty growth. So all in all, from significant Wi-Fi growth, server IoT, getting more market share in mobile, and doing better in automotive, all these will drive royalty growth as we move forward."
+  },
+  {
+    "speaker": "Chris Reimer",
+    "role": "",
+    "text": "Thanks. Yes, that's great color. Just touching on the Microchip partnership and in addition, with the other NPU deals that you're making, is there any change in the timeline to development and getting products into the market, and is there any change in the types of products? Just wondering about any color there."
+  },
+  {
+    "speaker": "Amir Panush",
+    "role": "",
+    "text": "Sure. Thanks, Chris. So first, we are super excited about this opportunity, where Microchip decided to license our complete portfolio of NPUs all the way from the lower power performance type of MCU needs all the way to more high-end type of inference needs in infrastructure and data centers. So this is a really great opportunity to collaborate with a great company like Microchip. And in terms of the time to market, it's similar to most other technology that we see, which is typically between eight and twenty-four months from the time that we start the design until we basically go to production and start the ramp-up. So overall, I would say this is not different that much from many of the other design wins that we have had."
+  },
+  {
+    "speaker": "Chris Reimer",
+    "role": "",
+    "text": "Got it. Got it. Thanks for that. That's it for me. I'll jump back. Thank you, Chris."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Thank you. Our next question comes from Madison DePaulo with Rosenblatt Securities. Please go ahead."
+  },
+  {
+    "speaker": "Madison DePaulo",
+    "role": "",
+    "text": "Hi. This is Madison calling on behalf of Kevin Cassidy. I was just wondering when can we expect to see the Microchip MPU shipments hit CEVA's royalty revenue? And what is the time frame of the license?"
+  },
+  {
+    "speaker": "Yaniv Arieli",
+    "role": "",
+    "text": "Yeah. You know, a typical license agreement is a few years, and then usually a customer comes and licenses the next generation or different enhancements and new features that we come up and develop over the years. That's our normal life cycle of the licensing deal. And one thing I think Amir mentioned is that we don't see the NPU or AI business line having any significant differences versus the other IoT and the connected devices. Usually, the design cycle of the chip runs anywhere between one to two years. And then productization and ramp-up. So anywhere between the two years to three years, you usually find and see the royalty stream, especially for a big and successful company, that's the norm that we have seen in recent years. So we don't think AI is any different than the other IP that we license."
+  },
+  {
+    "speaker": "Amir Panush",
+    "role": "",
+    "text": "Maybe one more comment I will add. This is Amir. First, in terms of the deal itself, this is a multiyear deal. So this is really to provide direct access to our technology, to Microchip, to eliminate the cost on the product line. And we are very excited about that. But also, definitely, AI is a market where technology in terms of new innovation and new needs is coming very quickly. So we do expect, especially in the AI domain, that the cycle of innovation and speed towards innovation will drive renewal of those deals with additional capabilities to come on a good regular basis of every year or two. So definitely, there is more opportunity to keep upselling the technology as we drive more development."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Sure. Thank you. Our next question comes from Martin Yang at Oppenheimer. Please go ahead."
+  },
+  {
+    "speaker": "Martin Yang",
+    "role": "",
+    "text": "Hi, thank you for taking my question. Can you maybe go into more details on which Microchip product family or verticals will be prioritized initially? Is it industrial, automotive, any other data centers? And how do you think about the attractiveness of those end markets respectively based on when or which goes to market first?"
+  },
+  {
+    "speaker": "Amir Panush",
+    "role": "",
+    "text": "Yes. So Martin, thanks. Great question. Again, just to clarify, in terms of the deal itself, this is to provide full access for all the different ranges of needs of MPUs to all the different markets that Microchip has business in. In terms of which will come first, we can't really go into the business of what our customer is planning to do. But it will definitely be on the so-called full spectrum of that range. So we do expect to have multiple programs where some of them are more, I would call it, the embedded MCU product line, and some of them are more towards the infrastructure and the data center type of solution."
+  },
+  {
+    "speaker": "Martin Yang",
+    "role": "",
+    "text": "Thank you, Amir. One more question. How do you think about the prospect of getting Neural Pro integrated with your connectivity IPs? Is there a strong interest by customers for both of those? And if so, how far along with productization and mass production?"
+  },
+  {
+    "speaker": "Amir Panush",
+    "role": "",
+    "text": "Yes. That's a great question. First, with this specific customer, for example, yes, we have in the past licensed connectivity and are very likely to continue licensing additional connectivity technology as we move forward. So we definitely see a good synergy of the ability to license both connectivity technology and NPU technology. And definitely, as we go towards more the embedded system, that's where the integration of the two technologies makes lots of sense and provides additional time-to-market advantage, cost, and power efficiency of the solution. And those are the things that we typically really master very well and can enable our customers to compete very successfully in the marketplace. And so that combination will play to our strengths as we keep moving forward. In the previous quarter, we talked about several deals of NPU coming together with connectivity. And that trend will continue. So we are very, very encouraged with what we have seen so far, really building on the wireless connectivity leadership. And then on top of that, we are now driving very good success in terms of design wins and accessing the markets with our AI solution."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Thanks, Martin. And our next question comes from David O'Connor at BNP Paribas. Please go ahead."
+  },
+  {
+    "speaker": "David O'Connor",
+    "role": "",
+    "text": "Great, good morning, thanks so much for letting me ask a question. Maybe, Amir, just firstly on again, to go back to the Microchip deal. But if you could give us just a bit more color around what the competitive landscape looks like for you to kind of secure that win? Was it mainly internal IP that you were competing against? Is there a lot of kind of anything you can share around what led to that and why exactly now? I mean, you proved sales you guys have been developing for some time. Why exactly now this Microchip licensed new probe? And also maybe as a follow-on, can you talk as well around the sustainability of that kind of AI looking forward? So when you look in the pipeline, how does that look? Is there other potential Microchips? Any kind of color you can share on that would be helpful. Thank you."
+  },
+  {
+    "speaker": "Amir Panush",
+    "role": "",
+    "text": "Yes. Thanks a lot, David. So really like three different questions. I'll try to address each of them. So first, from a competitive landscape, this is also what I mentioned in the prepared remarks. Related specifically to NPU. NPU, we believe, like other processors, whether it's a CPU or a DSP or GPU, we believe that the majority of the companies out there are not going to build on their own or make on their own. And they will go and license this technology. So we believe there is a great opening and opportunity ahead of us to license NPU technology. And the same, again, applies to the customer, which we competed with other potential IP vendors rather than the mix versus pie. And we believe, again, that's a great opportunity for us. And the reason that we have won in account and how why now we are seeing the momentum, which is honestly, it's not just now. It's for the last two quarters in bigger numbers, for the last four quarters, we're really starting gaining the momentum. It's because we are delivering three major ingredients that each of them is quite unique to us, and all of them is extremely unique of what we can offer. One is now a complete portfolio of NPUs starting again from the low end to the higher end of the spectrum for inference use cases. So again, portfolio play. Second is a combined software stack that can support all the different hardware configurations underneath and one that can quite easily get integrated by our customers into their own software stack. So again, very advanced software stack. It supports all our combined portfolio. And the last piece is that within each of those different configurations, we believe that we have one of the best, if not the best, optimization in terms of the architecture and technologies we can offer, of the trade-off between power, cost, size, and performance. So again, extremely competitive offering on each ingredient on its own, on top of the portfolio, and then the software stack that comes on top of it. And we believe all those three ingredients coming together provide us a very good competitive advantage in the marketplace. The last piece about the sustainability of the business. At the end of the day, when we look at the pipeline ahead of us, it aligns quite nicely with the momentum that we have generated the last two quarters. So a significant portion of the pipeline comes from our NPU product line, that, as you mentioned, we have invested in that for the last few years, and now we really see that's materializing nicely. So I cannot say that on a quarterly basis, that's exactly going to be the revenue recognition. And things can vary on a quarterly basis. But as a long-term trajectory, our pipeline definitely supports this level of revenue. And potentially even above it."
+  },
+  {
+    "speaker": "David O'Connor",
+    "role": "",
+    "text": "Very helpful. That's great color. And maybe just following on from that one for Yaniv on the OpEx side of things. Given the kind of interest and acceleration you're seeing on the new Pro AI side of things, can you just speak to the OpEx? Is that in the base? Or can we expect maybe a step up in OpEx required there to support that growth that you're seeing? Anything around the OpEx related to new products?"
+  },
+  {
+    "speaker": "Yaniv Arieli",
+    "role": "",
+    "text": "Yes. Sure, David. Two things on that. One, definitely, as you have seen for the last few years, we definitely manage very carefully expenses. And we would like to drive continued momentum on the bottom line. Having said that, definitely we see an opportunity ahead of us both actually on keep expanding our wireless connectivity leadership as well as on the AI that now we really have the proof points and the success in the marketplace. So when I take these two points into consideration, definitely, we look at how we can invest and add the capabilities to drive revenue growth. All while at the end of the day stay quite disciplined. So how we invest our money. So for Q4, we gave the specific guidance. We wouldn't see big changes in the OpEx and in R&D investments. Going forward, we need to do our planning and discussions probably we'll do it later or early next year. About 2026 investments and how we see the opportunities and the potential ROI in this specific very, very exciting market. And it seems that we have managed to penetrate into and in some sense, there are signs of some very, very interesting and lucrative deals."
+  },
+  {
+    "speaker": "Amir Panush",
+    "role": "",
+    "text": "Yes. And overall, David, I would just conclude, we're really excited about the momentum that we are seeing right now. And the competitiveness of our technology. Again, both on AI and overall the wireless connectivity leadership with the volume keeps going up. Quarter over quarter."
+  },
+  {
+    "speaker": "David O'Connor",
+    "role": "",
+    "text": "Great color. Thanks so much, guys."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Thank you. And that concludes our question and answer session. I'd like to turn the conference back over to Amir Panush for any closing remarks."
+  },
+  {
+    "speaker": "Amir Panush",
+    "role": "",
+    "text": "Hello? Hello? Amir? I'd like to turn the call over to Amir Panush. Please go ahead."
+  },
+  {
+    "speaker": "Richard Kingston",
+    "role": "",
+    "text": "That's fine. I'll take it here. Thanks very much, Rocco. On behalf of the CEVA team, thank you for joining us today. With AI now contributing over one-third of licensing revenue, and connectivity shipments hitting record highs, we are well-positioned for sustainable growth and expanding our role as a foundational technology provider for intelligent connected devices. We look forward to meeting many of you during the third quarter at investor conferences. As a reminder, the prepared remarks for this conference call are filed as an exhibit to the current report on Form 8-Ks and accessible through the Investors section of our website. With regard to upcoming conferences, we will be participating in the following conferences: the fourteenth Annual ROTH Technology Conference November 19, in New York, the UBS Global Technology and AI Conference December 2 in Scottsdale, Arizona, and the Northland Growth Conference December 16 being held virtually. Further information on these events and all events we will be participating in can be found on the Investors section of our website. Thank you, and goodbye."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Thank you. That concludes today's conference call. We thank you all for attending today's presentation. You may now disconnect your lines and have a wonderful day."
+  }
+]

@@ -1,0 +1,399 @@
+Operator
+Good afternoon, ladies and gentlemen. Thank you for standing by, and welcome to PTC's 2024 second-quarter conference call. [Operator instructions] I would now like to turn the call over to Matt Shimao, PTC's Head of Investor Relations. Please go ahead.
+Matt Shimao
+--
+Head of Investor Relations
+Good afternoon. Thank you, John, and welcome to PTC's fiscal 2024 second-quarter conference call. On the call today are Neil Barua, chief executive officer; and Kristian Talvitie, chief financial officer. Today's conference call is being broadcast live through an audio webcast, and a replay of the call will be available later today at www.ptc.com.
+During this call, PTC will make forward-looking statements, including guidance as to future operating results. Because such statements do with future events, actual results may differ materially from those projected in the forward-looking statements. Additional information concerning factors that could cause actual results to differ materially from those in the forward-looking statements can be found in PTC's annual report on Form 10-K, Form 10-Q and other filings with the U.S. Securities and Exchange Commission as well as in today's press release.
+The forward-looking statements, including guidance provided during this call, are valid only as of today's date, May 1, 2024, and PTC assumes no obligation to update these forward-looking statements. During the call, PTC will discuss non-GAAP financial measures. These non-GAAP measures are not prepared in accordance with generally accepted accounting principles. A reconciliation of the non-GAAP financial measures to the most directly comparable GAAP measures can be found in today's press release made available on our website.
+With that, I'd like to turn the call over to PTC's chief executive officer, Neil Barua.
+Neil Barua
+--
+Chief Executive Officer
+Thanks, Matt. I'm proud of what the PTC team accomplished during our second fiscal quarter. We again delivered solid results, which Kristian will take you through in detail. This quarter continues to demonstrate that PTC is on the right track and that our portfolio of products is resonating with customers.
+Before going into more detail about our strategy and discussing some proof points from the quarter, I'd like to address our midterm targets, which we have updated today. To be clear, we are not changing our cash flow guidance. What we have updated is our midterm ARR growth targets. We are now targeting constant currency ARR growth in the low double digits over the midterm, which is consistent with the performance we have delivered over the past 5 years through varying macroeconomic conditions.
+In addition, we feel very good about our ability to hit our cash flow targets even while we appropriately reinvest into the business for product development. This is because we have a disciplined process to manage our internal spending based on the level of ARR growth we are seeing. This year, as an example, our internal spend framework assumed 10% to 12% ARR growth. In addition to adding incremental investment to drive multiyear growth, we are also proactively managing our existing spend.
+We are able to do this effectively by leveraging the skill sets of our global R&D teams, where we could shift the focus of these resources toward the product areas that create the greatest customer value. In addition, we have confidence in generating increasing operating leverage from our go-to-market and G&A teams. The investments we make are aligned to the market environment and our five focus areas to ensure appropriate resource allocation toward the areas that create the greatest customer value. As an example, we are currently in the process of rebalancing resources, primarily in R&D, away from creating new stand-alone IoT and AR applications to instead support PLM, ALM, and SLM growth.
+While these are not huge movements of people and there will not be a restructuring charge associated with this, it is an example of how we plan to put a greater focus on driving our priorities more effectively. As a reminder, our five focus areas include: number one, PLM, which is driven primarily by our Windchill product; number two, ALM, which is driven by our Code Beaver product; number three, SLM, which is primarily driven by ServiceMax, number four, CAD, which is driven primarily by Creo; and lastly, number five, our continued focus on SaaS. I'd like to turn now to discuss two of our focus areas to illustrate the significant value we bring to customers. This quarter, I'll touch on what we have been seeing with customers of our Windchill PLM and ServiceMax SLM products.
+Starting with PLM. This is product life cycle management, and Windchill is our flagship PLM product. PLM systems tend to be highly configured, really sticky, and our mission-critical system of record for our customers. This is software that historically had the function of helping CAD engineers keep track of their CAD files.
+Part of the reason PTC's growth has been so solid over the last few years is because PLM systems have grown in importance at product companies. Today's products are more complex, typically with embedded electronics and software, and even the mechanical components are now more complex. To drive revenue growth, product companies have become increasingly focused on producing more variance other products, mixing certain hardware configurations with other software configurations, while at the same time, compressing the time it takes to get new products to market. That's a tall order.
+Simply put, product companies that offer multiple configurations of their products face a diversity at scale challenge. And sooner or later, it becomes clear to these companies that having an advanced PLM system is a strategic necessity. In general, manufacturing companies have a long way to go in terms of their digital transformation journeys. When a product company gets really serious about optimizing and automating their workflows, we tend to see large PLM expansion projects.
+This creates a step function increase in ARR as customers expand their Windchill deployments in terms of both seats and functionality. This is what we saw at a leading medical equipment company with over $5 billion of annual revenue and 20,000 employees. Getting new products to market faster is a top business priority for them. As a first step, they standardize on Windchill within R&D across all their business divisions and harmonize their engineering practices related to product changes and configuration management.
+By doing this, they establish a solid engineering foundation that ensures the traceability work performed and updates made for both productivity gains and also to remain compliant with regulations. Before standardizing on Windchill, this customer did not have an authoritative source of truth for their product data. So whenever they ran into conflicting product data in their systems, they lost a lot of time figuring out why that happened and what to do about. While the first step for this customer was expanding Windchill within R&D, they also want to accelerate their new product introduction time lines.
+To do this, they needed to drive earlier collaboration around new products across other operational functions outside of R&D. To accomplish this goal, they decided to leverage their Windchill system as a backbone for enterprisewide collaboration around product data. And they expanded their Windchill deployment to teams, including manufacturing, supply chain, quality, regulatory, compliance, and marketing. For example, providing the supply chain team with relevant product data earlier in the process enables any issues around component availability or component pricing to be identified earlier, resulting in less need for products to be redesigned or reworked later.
+Turning to the second customer example for today, which is about cross-selling ServiceMax SLM into our base. First, a reminder that SLM is service life cycle management. And our main product here is ServiceMax, which we acquired a little over a year ago. ServiceMax is the industry leader in field service management for high-value long life cycle products.
+Our customers are not only facing complexity challenges, competitive pressures have also increased. Globalization has forced companies to be more efficient if they want to remain competitive. They are looking for new, steady sources of top line growth and margin expansion. In order to drive scalable service revenue, expanding their focus with digital tools on their services operations is key.
+The example I want to highlight here is one of the largest elevator companies in the world with billions in annual revenue. After struggling with disparate disconnected systems that got in the way of providing good service to their customers, they decided to embark on a complete service transformation to improve both the growth and profitability of their services business. In the future, when their service technicians go into the field to service an elevator, they will know, using the ServiceMax application about the specific elevator so they bring the right parts to the work site. They will know the service history and have service instructions for that specific elevator.
+And of course, they'll be scheduled and routed efficiently to the job site. Furthermore, the elevator business is highly regulated, and the ServiceMax application will ease the regulatory compliance burden by having traceable records of the work performed during service calls. This is how ServiceMax helps our customers. We've been focused on cross-selling ServiceMax into a strong base of customers where we have established customer trust.
+As of the start of fiscal '24, we aligned the PTC sales team with the ServiceMax sales vessels to go to market together, and this collaboration played a big role in getting this deal across the finish line. We also remain encouraged by our other focus areas that I didn't provide examples for this quarter, which are Codebeamer, ALM, CAD, and SaaS. In each of our five focus areas, we made incremental progress during Q2 toward executing in a scalable fashion and focusing our investments on the product advancements that customers care the most about. As many of you know, during my transition period before taking over as CEO, I spent time listening to employees, digging into our product strategy, speaking with customers and partners to understand their needs and how we address them.
+As a result of the time I spend on this, I feel good about our product portfolio and strategy, which guides our five focus areas. You should expect to see a continued emphasis on focusing our resources in the areas that create the greatest customer value and where we have a right to win. I've also started to focus on our operations. I began to examine where we excel and have room for improvement.
+As you know, PTC has been on a multiyear journey to improve efficiencies. But my early observations are that PTC will benefit from a fresh look at innovative ways to continue to drive operational improvements. I'm turning over lots of stones, and we'll look at everything to usher in a new phase of focus and effectiveness across the entire company. With that, I'll hand the call over to Kristian to take you through our Q2 financial results.
+Kristian Talvitie
+--
+Chief Financial Officer
+Thanks, Neil. Hello, everyone. Starting off with Slide 8. PTC, again delivered solid financial results in terms of both ARR and free cash flow in a challenging selling environment.
+As you know, we believe ARR and free cash flow are the most important metrics to assess the performance of our business. To help investors understand our business performance, excluding the impact of FX volatility, we provide ARR guidance and disclose our ARR results on a constant currency basis. At the end of Q2, our constant currency ARR was $2.075 billion, up 12% year over year and above our guidance range. Note that we acquired ServiceMax in Q2 of fiscal '23, so we're no longer excluding ServiceMax from our organic ARR results.
+In Q2 '24, our cash flow results also came in ahead of our guidance with operating cash flow of $251 million and free cash flow of $247 million, both of which were up 19% year over year. Our cash flow performance is driven by our ARR and operating efficiency. And in Q2, we extended our track record of disciplined operational management while continuing to invest in our key focus areas. Turning to Slide 9.
+Let's look at our ARR growth at a more detailed level. Starting with our product groups in CAD, we delivered 11% constant currency ARR growth in Q2 with the growth primarily driven by Creo. In PLM, our constant currency ARR growth was 13%, primarily driven by Windchill. Despite the overall demand environment, which has been sluggish for many quarters now, our top line has shown good resilience.
+Our solid ARR growth is supported by our unique portfolio with a solid footprint and higher growth segments of the market and the digital transformation journeys of our customers. These underlying strengths are further supported by our subscription model, our low churn rate, and the propensity for our customer base to prioritize their own R&D investments through challenging times. Moving to our ARR by region. Our constant currency organic ARR growth was solid across Americas, Europe, and APAC with growth in the low to mid-double digits.
+Across all regions, our year-over-year organic constant currency growth rates in Q2 were similar to the growth rates we saw in Q1. Moving to Slide 10. First of all, given the consistency and predictability of our free cash flow, we aim to maintain a low cash balance. And as you know, our long-term goal, assuming our debt-to-EBITDA ratio is below 3 times, remains to return approximately 50% of our free cash flow to shareholders via share repurchases while also taking into consideration the interest rate environment and strategic opportunities.
+So given the strategic acquisitions, namely ServiceMax and Codebeamer that we've done over the past 2 years, we paused our share repurchase program. And as we've said before, we intend to use substantially all of our free cash flow to pay down our debt in fiscal '24. Heading into fiscal '25, we'll revisit the prioritization of debt paydown and share repurchases. We were 2.3 times levered at the end of Q2.
+During the quarter, we paid down our debt by $256 million, and we ended Q2 with cash and cash equivalents of $249 million and gross debt of $2.011 billion. We expect to end the year with gross debt of approximately $1.7 billion. Lastly, we now expect our diluted share count to increase by approximately 1.5 million shares in fiscal '24 versus our previous expectation of approximately 1 million shares under the accounting rules, specifically ASC 260, a higher share price result, and incrementally higher diluted share count. With that, I'll take you through our guidance on Slide 11.
+We're reiterating our fiscal '24 free cash flow guidance and narrowing our fiscal '24 constant currency ARR guidance range. We're taking the low end of the ARR guidance up by $10 million, reflecting our solid first-half performance. We're taking the high end of the range down by $10 million, reflecting a change to the deferred ARR we expect to recognize in the back half of the year. You'll recall that we said we had approximately $20 million more deferred ARR in the back half of fiscal '24 compared to fiscal '23.
+We've reduced this by $10 million as we've renegotiated a handful of customer contracts. While not commonplace with existing contracts, renegotiations do sometimes happen. Some of you may recall that we had a handful of these during COVID as well. The field teams do a good job here, working with customers in what I like to call a customer-friendly but commercially responsible manner, meaning we're doing the right thing for the customer now while also ensuring that these deals will result in a higher exit run rate and better contractual terms for PTC.
+We remain squarely focused on long-term value creation for our customers and our shareholders. It's worth noting that we're updating our fiscal '24 revenue guidance accordingly, taking the low end up by $10 million, reducing the high end by $10 million. Additionally, we're lowering the entire range by $10 million due to the impact of FX. As you'll recall, we do not guide to constant currency revenue.
+Our EPS guidance reflects our first-half performance and the impacts of the narrowing of the revenue range and the FX impact as well. And lastly, our free cash flow is also impacted by FX, but we're reiterating the $725 million guidance given the first-half results. For Q3, we're guiding for free cash flow of approximately $220 million in constant currency ARR of $2.115 billion to $2.13 billion, which corresponds to year-over-year growth of 11% to 12%. We believe we've set our Q3 and full-year guidance appropriately.
+I'll get into more ARR guidance details on the next two slides. But before we do, I'd also like to reiterate my favorite reminder. To help you with your models, we're providing revenue and EPS guidance. But ASC 606 makes revenue and EPS difficult to predict for PTC since we sell primarily on-premise subscriptions, and the way revenue is recognized from these contracts can vary significantly based on variables that aren't necessarily relevant to the performance of the business.
+I did a teach-in on this subject on our Q4 '22 call that you may want to refer to if you're new to PTC. The summary is we believe ARR and free cash flow rather than revenue and operating income are the best metrics to assess the performance of our business. Importantly, we've maintained consistent billing practices over time. We primarily bill our customers annually upfront 1 year at a time, regardless of contract term lengths.
+So our free cash flow results over time are comparable. Let's turn to Slide 12, and here's an illustration of what's needed to get to the midpoint of our constant currency ARR guidance for fiscal '24. As you can see from the slide, to hit the midpoint of our fiscal '24 guidance range, we need $145 million of sequential ARR growth in the second half of fiscal '24. This is approximately $20 million more than we added in the second half of the previous 2 fiscal years.
+And in the second half of fiscal '24, we expect to benefit from Codebeamer, cross-selling ServiceMax with an aligned and enabled sales force, and $10 million more of deferred ARR than we had in the second half of fiscal '23. Moving on to Slide 13. Here's an illustrative constant currency ARR model for Q3 '24. You can see our results here over the past 10 quarters, and the column on the far right illustrates what's needed to get to the midpoint of our constant currency ARR guidance.
+This illustrative model indicates that to hit the midpoint of our Q3 guidance range, we need $48 million of sequential net ARR growth. Because our ARR trends tend to see some seasonality, the most relevant comparison is the sequential growth in Q3 of fiscal '23 and Q3 of fiscal '22. We think our guidance range for Q3 of '24 and the full year balances both risk and opportunity. Finally, on free cash flow, I want to reiterate the point that Neil made earlier.
+We continue to have a high degree of confidence in our cash flow guidance and targets due to the predictability of our cash collections and the disciplined resource allocation structure we have in place. In conclusion, PTC has a strong portfolio and strategy and a great team of people with deep expertise and strong customer relationships. We're focused on disciplined and consistent execution to ensure we deliver on the value-creation opportunities we have ahead of us. With that, I'd like to turn the call over to the operator and begin the Q&A session.
+Questions & Answers:
+Operator
+Thank you. [Operator instructions]. Your first question comes from the line of Nay Soe Naing from Berenberg. Please go ahead.
+Nay Soe Naing
+--
+Berenberg -- Analyst
+Hi. Thank you for taking my questions. Maybe if you could start with the update in your midterm ARR growth outlook, please. Maybe break it down a little bit more in terms of opportunity, obviously, you had reiterated your mid-teens growth outlook as recently as last quarter, it's only been probably 2 months or so now.
+So what's changed in those 2 months? And also, if you may, could you reference it back to the growth building blocks that you have provided in your previous earnings pack as well, please?
+Neil Barua
+--
+Chief Executive Officer
+Yes. Thanks for the question. I'll start with the first one and, then Kristian could add. After taking over as CEO of Feb 14, I've been doing my assessment of the business, as I mentioned, across all dimensions.
+On this 1 on the midterm target and just to make sure we level set on this piece. For this year, we've updated our constant currency era guidance to 11% to 13%, as Kristian stated. For the sake of understanding what low double digit means, I see that as plus or minus that range. And again, over the past 5 years, as you've been following the company, we've gone from 10% growth 1 year to 15% for an average of about 12% through varying macroeconomic conditions.
+So when I took a look at how I want to put my stamp in a credible way around the company moving forward in the view of the midterm targets, I looked at all those variables. I also looked at the fact of the current conditions of the market and felt it was the appropriate thing to do to make the midterm target toward that low double digits versus have the mid-teens target out there. Kristian, do you want to add?
+Kristian Talvitie
+--
+Chief Financial Officer
+Yes. I mean the only other thing that I would say is that every time we talk about mid-teens, we had to caveat the status of the economy and so on. So I think this is just cleaner way to do it. .
+Nay Soe Naing
+--
+Berenberg -- Analyst
+Sorry, I literally just got disconnected and I got reconnected just now, but I'll just read the transcript afterwards. But I didn't catch any of the answers, unfortunately.
+Kristian Talvitie
+--
+Chief Financial Officer
+They were the best answers we've ever given.
+Nay Soe Naing
+--
+Berenberg -- Analyst
+I'm sure. So I'll eagerly wait the transcript to come up. Thank you. Thank you anyway.
+Operator
+The next question comes from the line of Daniel Jester from BMO Capital Markets. Please go ahead.
+Dan Jester
+--
+BMO Capital Markets -- Analyst
+Good afternoon. Thanks for taking my question. Maybe on the balance sheet, you made great progress deleveraging well in advance of your leverage target that you want to hit by the end of the year. I guess, one, why not today sort of move forward with the reassessment of the capital deployment strategy.
+And maybe two, Neil, maybe you have any comments about how you view inorganic growth as the driver of longer-term opportunity? Thanks.
+Kristian Talvitie
+--
+Chief Financial Officer
+It's Kristian. Thanks, Dan. So I think your question is around why are we not starting buybacks sooner. I guess that's maybe the gist of it.
+And I mean, I think I'll just try to hit it this way. Listen, we still have $2 billion-plus in debt outstanding. Interest rate environment is still not favorable. The rate on the revolving credit facility we have is almost 7%.
+And after today's comments by the Fed, it doesn't look like those are going to get any better anytime soon. We've got a couple of quarters left to get through the year here, and we'll revalue.
+Neil Barua
+--
+Chief Executive Officer
+And on the M&A piece, we've clearly done a number of M&A deals over the history of PTC. That continues to be something that we'll always look at as opportunities to accelerate the strategy of the business. However, given my assessment of the business, currently, I like the areas -- the focus areas that we are aligned toward as a company to execute across organically those priorities are extremely effectively over the next number of quarters and years. That being said, if there are tuck-in acquisitions or things that make a lot of sense to do, we'll always take a look at it.
+But currently, my focus on making sure the execution around the organic priorities of the business are well taken care of.
+Daniel Jester
+--
+BMO Capital Markets -- Analyst
+Great. Thank you very much.
+Operator
+The next question comes from the line of Ken Wong from Oppenheimer & Company. Please go ahead.
+Ken Wong
+--
+Oppenheimer and Company -- Analyst
+Great. Thanks for taking my question. This one is for you, Kristian. On the medium-term growth, I guess, we roughly estimate that maybe $100 million is coming out of ARR, yet you guys are still able to meet free cash flow targets.
+I guess, should we assume you guys have that same level of confidence in hitting those targets as you did previously?
+Kristian Talvitie
+--
+Chief Financial Officer
+Yes, a short answer.
+Ken Wong
+--
+Oppenheimer and Company -- Analyst
+All right. Fair enough. And then for you, Neil, in terms of best practices that you're trying to implement here I guess maybe this kind of piggybacks on what I just asked Kristian, but like what do you -- what should we expect in terms of driving that incremental operating leverage?
+Neil Barua
+--
+Chief Executive Officer
+As you know, Ken, we've been doing a nice job. The team has been doing a nice job for many years driving greater effectiveness within the business. But I'm focused on the stones that I'm turning is making sure within the business around how we interact with our customers. The go-to-market motions from a direct and indirect standpoint are done as effectively as we can with the best practices that are out there but also an assessment of what's the best thing for our customers and internally here at PTC.
+G&A, we've been efficient on that. We'll continue to turn over every rock there. As I mentioned, a two-pronged strategy every year around incremental investments and then what can we take and reposition existing spend to more focused areas that could drive greater customer value and ultimately value for all the shareholders. And so we're taking a look at that, and we'll continue to drive forward around all those vectors to make sure we're driving the business with greater focus and effectiveness as we move forward.
+Ken Wong
+--
+Oppenheimer and Company -- Analyst
+Great. Thank you.
+Operator
+[Operator instructions]. Your next question comes from the line of Andrew Obin from Bank of America. Please go ahead.
+Andrew Obin
+--
+Bank of America Merrill Lynch -- Analyst
+Good afternoon. So you mentioned on the call that the selling environment has been sluggish. Has this bottomed out? And any view on what needs to happen for a macro uplift in the software environment? And also for an industrial guy, if you can point out which verticals are particularly weak. I would imagine maybe life sciences, ag, machinery, but just any color there.
+Thanks so much.
+Neil Barua
+--
+Chief Executive Officer
+I'll start. Kristian, you could add. I don't see right now any change in the selling environment it's been tough going for at least 6 quarters now here at PTC. That didn't change in Q2 despite having solid results.
+So the team continues to deliver despite a challenging selling environment. We look at every metric, GDP, PMI, you name it. We have not seen a change yet. Given some maybe positivity, they have not turned into a trend.
+I will say from a broad base outside of industries, outside of specific industries, the point that I think we're trying to articulate is the challenging selling environment really is punctuated in the larger deals. So these are the large digital transformation deals that are 7, 8 figure that I'm truly excited about seeing how the pipeline is building on that. That continues to be challenged, the same by which it's been for the last 6-plus quarters around the large yield in getting those projects to be the key priority by which you could get the sign PO and begin implementation. That's the area we continue to work through.
+To be clear, we continue to do well around securing those, but those are the areas by which the challenging selling environment really impacts us the most, and I don't see that changing right now in the current environment. Kristian, anything to add?
+Kristian Talvitie
+--
+Chief Financial Officer
+No, I think that's great.
+Andrew Obin
+--
+Bank of America Merrill Lynch -- Analyst
+And any specific verticals that just stand out as being particularly weak within certain industries?
+Neil Barua
+--
+Chief Executive Officer
+From our perspective, we are -- I feel good about the key industry verticals that you know we play in, Andrew, doing well. Some are doing better than others. I'd say all are going through digital transformation in a very serious manner. So we feel good about our position in those verticals.
+It's a question of the largest deals in those verticals how much can we actually execute and close within a certain quarter.
+Andrew Obin
+--
+Bank of America Merrill Lynch -- Analyst
+Got you. No, I really appreciate it. Thanks so much.
+Operator
+[Operator instructions]. The next question comes from the line of Saket Kalia from Barclays. Please go ahead.
+Saket Kalia
+--
+Barclays -- Analyst
+Okay. Great. Neil and Kristian, thanks for taking my questions here. How are you.
+Neil Barua
+--
+Chief Executive Officer
+Saket, good.
+Saket Kalia
+--
+Barclays -- Analyst
+Hey, Neil, I'll keep it to one, just maybe for you. When you joined, I think one of the things that was really interesting that you talked about was just being more discerning about resource allocation. And maybe very specifically putting more wood behind the arrow for PLM while maybe managing other areas like IoT and AR. And you correct me there if I'm wrong.
+But maybe the question is, what's the next step in that evolution? And as you think about sort of that investment in PLM, what are the areas that you want to bolster the most inside that business? Does that make sense?
+Neil Barua
+--
+Chief Executive Officer
+Yeah. Great question, Saket. And just -- I want to make sure I make this point again. We did say and I did say wood behind more -- wood behind the arrows that matter the most for customer value.
+We already have done that, started that process. This IoT AR, those two sentences I mentioned, is a very significant first move of executing across that point that I made to all of you for the last 6 months. And what that will allow us to do is make sure in the concept of PLM, as you asked, Windchill, which is this wonderful system that I referenced a great customer, is now getting enterprise adoption. There is more we can do around making sure that there's three components.
+Number one, Windchill and the ability for all the enterprise groups that I mentioned have really understanding and visibility and viewability of the data that is coursing through an engineering group as an example, right? And so the product development around making sure the user experience, the viewing of that data is best-in-class. We're working through that with these dollars that we're repositioning from IoT AR. We're working through stronger integration points by which Creo and the CAD design tools can more seamlessly move through the enterprise within Windchill. We're working through Codebeamer and Windchill integration points by which software configuration management with hardware configuration management can be even more clearly done for an enterprise.
+We're working through a ServiceMax-Windchill integration, and we're going to keep working through that by which product data can now be seen in the field and vice versa. So those are the two big themes. And the third other theme that we're putting wood behind the arrow within PLM is using the foundation of Windchill and all the great things that AI could do and copilots could do with a seamless data stack within Windchill. Over time, we'll work through how does that create value for our customers as well in a differentiated way for them as they use this as an enterprise system.
+So a lot of great things, Saket, happening on that. And again, theme around focus on the priorities, focus on the core, and let's bring the cavalry behind it because our customers are really needing it and requiring us for us to show up in this manner, and the opportunities is there in front of us.
+Saket Kalia
+--
+Barclays -- Analyst
+That's very clear. Thanks, guys.
+Operator
+Your next question comes from the line of Jay Vleeschhouwer from Griffin Securities. Please go ahead.
+Jay Vleeschhouwer
+--
+Griffin Securities -- Analyst
+Thank you. Good evening. Neil, your comments just now an answer to Saket's question, I think touched on an important point about the portfolio, where cross-selling necessarily has the corollary of increasingly integrating products across the portfolio. So more closely coupling the products rather than loosely coupling the products.
+So over time, what do you think that might mean in terms of, let's say, the regularity of the business? SLM historically was quite a variable lumpy business. The ALM business, it was on a good trajectory. But as you increasingly closely couple the various three-letter acronyms of the business, how do you think about retention? How do you think about variability of the business?
+Andrew Obin
+--
+Bank of America Merrill Lynch -- Analyst
+Yeah. Great question. Thank you for asking, Jay. It is a journey.
+And as a reminder, we've done a really nice job, and it will continue to have open integrations in the environment. We're not a closed system. And when a customer looks at us, they could see best-of-breed PLM, best-of-breed CAD, best-of-breed SLM, best-of-breed ALM. And we believe we have all of them, right? But the customer can choose from that and feel OK for the interoperability with other systems that they may choose for ALM, SLM, PLM, or CAD.
+So that will be the philosophy we continue to have. That being said, our customers are really pushing on us because there's real value given the credibility PTC has with them of creating even more distinct integration points, UI interfaces that are seamless between Codebeamer and Windchill. Obviously, we have a very strong, tightened integration already with Creo and Windchill. We could do more with that, right? And now as you mentioned, ServiceMax, which I will correct you for a little bit, ServiceMax is a very stable recurring revenue business that is native SaaS.
+So it takes away the lumpiness from the SLM business that might have existed historically. It helps with that. But the main point strategically is as we create better value props, as I answered in Saket's question, for the customer to have product data run, why weave through their enterprise for all the collaboration, time-to-market benefits, quality benefits, we believe customers will choose PTC for a greater number of those best-of-breed solutions in a one-stop shop. But we will make it so it's customer value-driven versus edicts from us saying it's only us you could play within a closed system versus being open.
+So we're taking the customer view, and I think it's going to win out, Jay, in the long term.
+Jay Vleeschhouwer
+--
+Griffin Securities -- Analyst
+In the meantime, for, let's say, the remainder of this year or early next year, how would you describe your pipeline of large deals that might have, as you saw in Q2, significantly pronounced 606 effects incremental? Obviously, in the case of Q2, apparently in Europe, especially. So is there any way to predict the 606 effects and fold that into guidance?
+Kristian Talvitie
+--
+Chief Financial Officer
+If there was a way to predict the 606 effects, Jay, trust me, we'd be happy to share it with you.
+Jay Vleeschhouwer
+--
+Griffin Securities -- Analyst
+Understood.
+Neil Barua
+--
+Chief Executive Officer
+We can't do that, Jay.
+Jay Vleeschhouwer
+--
+Griffin Securities -- Analyst
+OK.
+Neil Barua
+--
+Chief Executive Officer
+I can say though that the pipeline of large deals, we feel good about. It's healthy. And sales team, all of us are focused on closing them. The timing of those always top, as I mentioned, but we have a really nice pipeline that's been growing on those large-sized deals across the world, quite frankly.
+So we feel good about what we're entering in the second half year.
+Kristian Talvitie
+--
+Chief Financial Officer
+And Jay, not trying to be snarky about the 606 thing. I mean if you will remember that the main drivers are the kind of contract, and there's the upfront contracts, and there's the ratable contracts, the term length of the contract. So those are probably the two main drivers. Term length, we can try and incent customers to move in a certain direction.
+But ultimately, they're going to make the right decision for them, and that includes both on new and renewal transactions. And then as it relates to the ratable versus the upfront contracts, we still have a small base of perpetual support that we're still converting. So every time that happens, you're taking a ratable contract and moving it to an upfront contract. We have -- we're, as you know, transitioning customers to SaaS.
+So every time you do that, you're taking an upfront contract and moving into a ratable contract. The moving parts, the volatility is -- well, you get the picture.
+Jay Vleeschhouwer
+--
+Griffin Securities -- Analyst
+Yes. Indeed. Thank you.
+Operator
+[Operator instructions]. The next question comes from the line of Stephen Tusa from J. P. Morgan.
+Please go ahead.
+Steve Tusa
+--
+J.P. Morgan -- Analyst
+Hi, guys. How's it going?
+Neil Barua
+--
+Chief Executive Officer
+Hey, Steve.
+Steve Tusa
+--
+J.P. Morgan -- Analyst
+So the net new ARR has been up nicely the last couple of quarters. You have it guided, I guess, down just year over year. You can kind of like cut these numbers any way you want. But any -- is that a reflection of the macro you were talking about? And then when does this now $10 million of deferred go live? Are you expecting that in the 3Q or the 4Q?
+Kristian Talvitie
+--
+Chief Financial Officer
+So let's start the -- I guess we'll go in reverse order. The $10 million of deferred is also split, probably pretty evenly between Q3 and Q4. The other $10 million, let's just be clear, those are still contractual commitments that will -- that have just moved to a future period, right? So they haven't gone away. They've just gotten larger and moved to a future period.
+In terms of the macro, again, I think Neil mentioned earlier, we haven't really seen any change really in any direction here over the past few quarters. And as it relates to tying that back to Q2 results, Q3 guidance, in any given quarter, there can be a little volatility around lumpiness of deals, start dates, and prediction of those that can cause minor swings in either direction. So all in all, we're pleased with the results for Q2. We think we've set the Q3 guidance appropriately and steady as she goes.
+Steve Tusa
+--
+J.P. Morgan -- Analyst
+And then just one last one on the -- in the appendix. You had, in the last presentation, I believe, guided for like cash taxes in '25 and '26. I think it was. That wasn't in the appendix this time around. Anything moving around on that cash tax guide for the next couple of years?
+Kristian Talvitie
+--
+Chief Financial Officer
+No, not specifically. I think we were just trying to again, tighten up the disclosures. And it was -- to be honest, it was a little weird. We were giving points on certain line items and not other line items, and so we just tidied up the more detailed disclosures to fiscal '24.
+And otherwise, we remain on target for the other -- for '25 and '26.
+Steve Tusa
+--
+J.P. Morgan -- Analyst
+So sorry, one more just to get Neil involved. Is there a dynamic here where your customers are evaluating their IT budgets in regard to AI and that's slowing these pipelines from closing because they've obviously been faced with a different kind of choice that seems like a bit generational in nature? And so is that something you're seeing as far as these extended close rates that there's potentially a bit of reallocation into these new technologies?
+Neil Barua
+--
+Chief Executive Officer
+Absolutely not. And the reason why I say it was such firmness is because in our segment of the market, there is plenty of POC-ing and experimentation and conversations. And what I will say is we're involved in those, right, on a fair number of them. Because while I'm not coming out promoting this on calls like my other peers we are building and working through a number of ideas around practical use cases for copilots.
+We've actually put out, like I mentioned last earnings call, a beta for Gen AI solution for service that we're getting good feedback on. Where I'm going with this, Steve, is that I believe that AI is not taken away from IT prioritization currently as they're thinking through what the POCs are and what the use cases are and, quite frankly, what they're going to do with it. And vice versa, what are vendors actually going to charge for. So we've got some work to do as an industry around it.
+I actually think it will happen, but there's no way in which causing anything different than the selling environment because now we have an AI coming on the top of ERP, CRM, or PLM migrations. We still are at the top of the heap in terms of the large systems. Because lastly, and I'll summarize this, I think most of our customers have realized that a digital foundation is necessary before you do anything practical on AI at scale. And that's why you need a system like what we have to offer, a PLM, ALM, CAD, SLM, and I think the customer base is primed for that.
+So we feel good about that dynamic, Steve.
+Steve Tusa
+--
+J.P. Morgan -- Analyst
+Great. Love the conviction. Thanks a lot.
+Operator
+[Operator instructions]. Your next question comes from the line of Blair Abernethy from Rosenblatt Securities. Please go ahead.
+Blair Abernethy
+--
+Rosenblatt Securities -- Analyst
+Thanks very much. Neil, just one more on the product side, Onshape CAD Arena PLM, that's SaaS part of the business, how is adoption going there and growth rates in those businesses? How are they faring this year? . And then secondly, as you look to deemphasize some of the other areas, AR and IoT as an example, would that be something you would consider spinning off at some point?
+Neil Barua
+--
+Chief Executive Officer
+So Onshape and Arena, I want to be clear, those are very important parts of our business. I'm not talking to them on a call like this up until a question is asked. Because the five focus areas drive the greatest amount of customer value and ultimately economic value for us currently. Now the Onshape and Arena team are tasked with getting on those five priority lists, sooner rather than later, and they are working hard at that.
+And what I will give you color on is I'm very enthused about what's happening in Onshape right now. I think the dynamic of a great product at a time when we have the openness, the customer friendliness of that tool in a SaaS platform is a huge differentiator versus the others that are out there, right, outside of PTC. So we feel good about the strategic positioning. I feel good about what I'm seeing so far in terms of Onshape momentum, and we're keeping a close eye as that evolves around the momentum and by which that becomes part of the top five priorities of the company.
+Arena, similarly, we're seeing good trends there. PLM, they have a very strong set of capabilities, particularly with supply chain. And the module there is catching some really interesting themes. I feel good about the progress we're seeing in Arena for the last couple of quarters.
+We're staying close to them and making sure that, that momentum builds. But in summary, those two businesses, I'm actually really rooting for them with the resources they have, with the attention that they've got from a great leader in Dave Katzman to make sure that they make it on the high priority list. They're not being ignored. They got the momentum, and we're making sure that we take advantage of that scale.
+And so that just answers your last question. I'm more focused on making sure Onshape creates a disruptive force in the competitive market right now and build on the momentum versus anything else outside the business. So I'm looking forward to their continued recognition and their support as well as productivity within PTC.
+Blair Abernethy
+--
+Rosenblatt Securities -- Analyst
+Great. Thank you.
+Neil Barua
+--
+Chief Executive Officer
+One thing, sorry to interrupt because I think it is important to make this point to the team here. We're not abandoning IoT and AR. We're absolutely not abandoning those two areas, and I'll take AR first. AR, we're not doing stand-alone applications, new product roadmap, expending resources for things that are discrete markets that have very little tied to our core systems.
+So that -- those cost items and more importantly the focus will be built upon AR tools that actually make sense within our core systems like Windchill, ServiceMax, et cetera, versus stand-alone applications, which has been the case for the last few years. So we're stopping that. We're still going to support the current customers because that's important since they're part of the entire ecosystem. And similarly in IoT, we'll make sure that we support what we've done in SCO, SCP.
+But position that IoT strength that ThingWorx capability to enable Windchill expansion in the enterprise. And so we're positioning that to be the emphasis and where we allocate the cost, not an abandonment, whatsoever. It's a repositioning of the focus of where IoT and AR technologies actually makes sense for us.
+Blair Abernethy
+--
+Rosenblatt Securities -- Analyst
+Makes sense. Thank you.
+Operator
+The next question comes from the line of Matt Hedberg from RBC Capital Markets. Please go ahead.
+Matt Hedberg
+--
+RBC Capital Markets -- Analyst
+Great. Thanks for taking my questions guys. We've spent a lot of time in the past, it feels like several years talking about above-average PLM growth, but seeing CAD continued to grow double digits is really impressive. I guess when you think about -- obviously, macros remain still a bit uneven, but like what are the core drivers there beyond just SaaS, which Creo Plus still early.
+I guess what I'm trying to get is like this above pure growth rate. How do we explain it? Because it's a question that we often get from folks and it feels like you guys continue to outperform on that line item.
+Neil Barua
+--
+Chief Executive Officer
+So I'll start. And Kristian, if you want to add anything. The -- you're right. We are happy with what we're seeing in terms of our CAD growth rate.
+And I believe, given my work on this and talking to customers, it's because we have a really great product in Creo. And subsequent to that, we have a growing, very small business in Onshape, right? That's as I mentioned, doing well, and we expect to do even better as the years come by, given the competitive dynamic. So I believe we have a really strong product. I also believe tying this into, as I mentioned, the customer example of the med tech company that's deploying Windchill.
+What I didn't mention is they had disparate CAD systems as well. And when they went through the Windchill consolidation to make sure Windchill seats expanded within the enterprise, they actually did the same thing with their CAD systems, right, which helped the business for PTC on that area. So there's a level of customers seeing the digital thread and having PTC be part of that. That's helping, I think, the CAD piece.
+And so that's one theme. And then two is around the world, there has been more interest and movement from 2D to 3D. In Japan that I was in just a couple a month ago, the world is still in 2D. They are now moving to digitize, and that's moving to 3D models, which allows for potentially Creo and Onshape to be competitive, some of the offerings out there.
+So there's a bit of the competitive positioning occurring. I don't think it's the majority of the growth, but it helps us as we display some of the seats in other competitors with some of the dynamics that we are with the full portfolio.
+Kristian Talvitie
+--
+Chief Financial Officer
+Yes. And then, of course, in addition, I know everybody knows this. But the model, we've talked about that before the subscription model, the sales model that we have, our contracting model, also adds to that run rate.
+Matt Hedberg
+--
+RBC Capital Markets -- Analyst
+Appreciate it, guys. Well done.
+Operator
+The next question comes from the line of Joshua Tilton from Wolfe Research. Please go ahead.
+Arsenije Matovic
+--
+Wolfe Research -- Analyst
+Hi. This is Arsenije Matovic on for Joshua Tilton. Just a quick question on indirect performance versus direct channel. I think indirect was diluted from growth, about two points on a tougher comp.
+I guess what's your expectations for the performance of the channel throughout the year? Are they facing any macro headwinds that direct channel isn't facing? And then one brief follow-up. Thanks.
+Neil Barua
+--
+Chief Executive Officer
+Yes. I've been spending much more time with the channel had out there in Europe with some of our bigger ones next week. What I'll say is we're -- and under my leadership, we're really making sure the channel is operating with the same sort of energy and focus as the direct side, which, as you could see, we've been delivering solid results on. And by that, I mean how do we really position our channel partners to really think through the driving of the pipeline and the bookings and the ARR growth that we've been seeing on the direct side and the consistency that we've been showing.
+And so we're working through that through enablement, through, again, prioritizing the focus areas, showing them what's been working, et cetera, supporting them like I will be next week. So we're making sure that we revitalize the trend lines of the channel to deliver the growth on ARR versus just renewed deals. And so we're going to push on that. And I have a high expectation that if we have the channel partner, they must also deliver the same type of results as we're seeing and pushing our direct teams to do so.
+Arsenije Matovic
+--
+Wolfe Research -- Analyst
+Got it.
+Operator
+The next question comes from the line of Adam Borg from Stifel. Please go ahead.
+Adam Borg
+--
+Stifel Financial Corp. -- Analyst
+Awesome. thanks for squeezing me in. Maybe for Neil. Obviously, it's great to hear the strategy around the 5 focus areas.
+And just maybe drilling into the fifth area of SaaS. Maybe just an update on how Creo Plus, the Windchill Plus are resonating. Obviously, we've talked about this being a decade-long journey. But maybe just give us an update on how these conversations are going and how we should think about that in the coming years.
+Neil Barua
+--
+Chief Executive Officer
+Sure. Great question. It is a priority. We continue to build momentum there.
+We have not slowed down in terms of our approach, our customer conversations, and our intensity to make sure we work through all the automation and back office elements to make the experience really great. We're working through a number of conversions, where we're learning a lot and making sure we continue to sharpen our sword, so to speak, to make sure the next conversion happens more seamlessly. As I mentioned, to reiterate, I see this as a 10-plus year journey. We will do it hand-in-hand with customers so the experience is good.
+So I think that's been working well. We've also put out new releases of Windchill Plus specific to the med device sector that has greater emphasis around compliance and regulatory issues that we've embedded into our product. We're looking forward to continued view of how that is received in the marketplace. So we are not laying off the accelerator within our Plus strategy across even Creo.
+We're just -- we're putting out a release now, Creo Plus. So we continue to invest into it. Again, it will be a long journey. As I mentioned, I view 10-plus years.
+It might happen earlier. We're building the rep, so to speak, to make sure that we're ready for at-scale conversion into our Plus strategy, and we continue to invest our resources and attention on that front and feel progress is OK to good on that front over the last few quarters.
+Adam Borg
+--
+Stifel Financial Corp. -- Analyst
+Awesome. Thanks for the question.
+Operator
+Next question comes from the line of Joe Vruwink from Baird. Please go ahead.
+Joe Vruwink
+--
+Baird -- Analyst
+Hi. Great. Hi, everyone. Neil, just going back to the big deals in PLM, this is something we're hearing more regularly as well, particularly, it seems like it comes up as part of enterprise ERP decisions.
+But also, the feedback seems to be more recently that customers just need to end up spending more time studying what PLM can do. And the studying process and I think appreciating the workloads that matter, it just contributes to longer sales cycles. So I'm wondering if you could maybe characterize how you think about close rate assumptions on this big pipeline. And if you converted at a high rate, and these are very large ACV deals, what might that mean for kind of the upper bound of ranges? I imagine the low double-digit ARR growth rate you're talking about.
+That's probably more of a base case planning assumption. So I guess I'm poking at what the upper end of ranges could be ultimately.
+Neil Barua
+--
+Chief Executive Officer
+Yeah. So we have a broad portfolio, not just large PLM expansion deals or displacements to be clear, right? And there's -- some parts of the portfolio are faster cycle, close rates. Some are longer. Very large deals, to your point, like PLM deals take a while given some of the closing dynamics that we mentioned.
+What I can say is I can't predict when the close rate and selling environment changes. I'm not smart enough to tell you when the world gets steadier, geopolitics becomes less of an issue, interest rate, whatever. All the dynamics that causes stress in the system for our customers, I can't predict that. But what I can do is control the level of conversations, the clarity of describing to our customers the value of enterprise PLM, which is what we're internally working on in execution to the external market, by which they all know that if you don't deploy enterprise PLM, you as a product company will no longer exist in a few years.
+And I fundamentally believe that that is how important a construct of PLM is to our customers. Because cycle times, new product introductions, quality, collaboration across the entire enterprise to deliver great products and customer experience, if you don't do that, we're seeing it across the board, you're dead. And I believe our job is to show what others have already done at PTC using Windchill as well as ALM, CAD, as well as SLM, and make sure we show the business value. And so if you just heard what's happening internally, we're working through that aggressively so that this conversation becomes an easier way in which the customers can see.
+Even if I'm in a stressed macro environment, I need this because many customers are already doing this, as you can see from results, but there's plenty more of wood to chop for us. And if the selling environment changes, and we have a large pipeline, you guys do math better than me, clearly, we have greater opportunity to execute around ARR growth. That's higher than what we put in terms of our aspirations, but I'm not assuming that until I see that change.
+Joe Vruwink
+--
+Baird -- Analyst
+Great. Thank you very much.
+Operator
+Ladies and gentlemen, this concludes our Q&A session. I would like to turn the call over back to Neil for closing remarks.
+Neil Barua
+--
+Chief Executive Officer
+Thank you, everyone, for joining us today. Here's what ahead specific to investor conferences. May 14, Kevin Wrenn, our CPO, will attend the Bank of America Industrials Conference in New York. May 20, KT and I will be at the J.P.
+Morgan Conference in Boston. Early June. KT will attend the Baird conference on the 4th and the Wolfe Conference on the 5th in New York City. On June 4, I'll attend the Stifel conference in Boston.
+PTC will also join two virtual conferences this quarter. KT at the BMO conference on June 11; and Steve Dertien, our CTO, will attend the Rosenblatt Conference on June 12. On behalf of the entire PTC team, thank you again, and we look forward to engaging with you.
+Kristian Talvitie
+--
+Chief Financial Officer
+Thanks, everyone.
+Operator
+[Operator signoff]
+Duration: 0 minutes

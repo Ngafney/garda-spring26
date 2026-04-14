@@ -1,0 +1,337 @@
+[
+  {
+    "speaker": "Unknown",
+    "role": "",
+    "text": "Full Conference Call Transcript Serge Saxonov, our CEO and Co-Founder; and Adam Taich, our Chief Financial Officer. We will host a question-and-answer session after our prepared remarks. We ask analysts to please keep to one question so that we may accommodate everyone in the queue. With that, I will now turn the call over to Serge."
+  },
+  {
+    "speaker": "Serge Saxonov",
+    "role": "",
+    "text": "Thanks, Cassie, and good afternoon, everyone. During today's call, I'll start with a brief overview of the product launches and foundational progress we made in 2024 and while we have a great setup to execute on our long-term strategy. Next, I will highlight our key priorities and focus areas for 2025. Then Adam will provide a more detailed look at our financial results, business trends and revenue guidance for the year. Adam will also touch on recent developments around the academic funding environment. As previously announced, we finished 2024 with total revenue of $611 million, down 1% compared to the prior year. On the background of an increasingly challenging macro environment, 2024 was a year of change for us. First, we launched major new products across all three of our platforms. While this entails extra effort from both our sales team and our customers to understand trial and transition over to the new portfolio, these launches have been met with a tremendous customer response. Second, within our single cell portfolio, we introduced a number of new products that deliver a lower price per cell and per sample. We believe there is a great potential to grow single cell revenue by reducing prices to increase volumes over time. And finally, we embarked on a major reorganization of our sales force to support the growing diversity of our products and customers and to allow us to scale into the future. While all these changes entail some near-term challenges, we're confident that they better position us to capture the tremendous long-term opportunity we see ahead."
+  },
+  {
+    "speaker": "Serge Saxonov",
+    "role": "",
+    "text": "I'll start with the product innovations we introduced in 2024. First, on our Chromium platform. Last year was the biggest year of Chromium product launches in our history. We introduced a new microfluidic architecture, GEM-X and a slate of new products and capabilities. Once again, we raised the borrowing performance on data quality on robustness on scale. We rolled out powerful new capabilities to improve ease-of-use, sample prep and data analysis, and we did it all with products at lower prices. We also established a new standard for scale and cost. Customers can now run million cell experiments with a single chip and in a single run. They can also do so at a price point of $0.01 per cell with our GEM-X Flex assay. And with our on-chip multiplexing products, customers can now get down to $600 per sample at any scale. We also launched Chromium Xo, an instrument that provides a low-cost entry point so more researchers can access instrument powered workloads and performance advantages of Chromium single-cell analysis. Our goal is to democratize single-cell to drive it to ubiquity and routine use. This last year, we took major steps in this direction, both in product capabilities and pricing. The average price per Chromium reaction decreased as we proceeded through 2024. This was expected as customers transition over to our lower-priced GEM-X products. The drug was more pronounced in Q4, the first quarter in which GEM-X Flex and on-chip multiplexing became available to customers in conjunction with lower prices, we saw sequential increases in reactions sold throughout the year. While we expect it will take time for volume growth to offset the lower prices as a result in overall revenue growth, we are motivated by the early interest and adoption of our new assays."
+  },
+  {
+    "speaker": "Serge Saxonov",
+    "role": "",
+    "text": "Turning to spatial. 2024 was also a big year for our spatial platforms. with product revenue growing 33% year-over-year as the portfolio continues to become a larger portion of our overall business. A significant contributor to the excitement for spatial last year was the new products we launched notably Visium HD and Xenium Prime 5K. Within our Visium platform, we launched Visium HD, which brings spatial discovery to a new level by enabling whole transcriptome spatial analysis at single cell scale resolution, critically enabled by our CytAssist instrument, Visium HD increases the resolution of the Visium platform by over three orders of magnitude all while leveraging the same robust and easy-to-use workflow that the Visium platform is known for. Since its launch, we've continued to see positive momentum from our customers. In the fourth quarter, customers continued the trend of order in Visium in larger volumes and new to Visium customers are now overwhelmingly opting for Visium HD. We also continue to execute on our robust Xenium R&D pipeline across our assays, applications and software. We started the year by launching our widely requested multimodal cell segmentation kit which leverages advances in assay chemistry and sophisticated machine learning algorithms to significantly improve the determination of cell boundaries. We also added new content, expanded sample compatibility and drove major advances in data analysis. Finally, we launched Xenium Prime 5K, increasing flex by an order of managed to 5,000 genes. The Xenium Prime 5K features brand-new chemistry and software to deliver excellent per gene sensitivity, specificity and spatial fidelity. The enthusiasm from customers for these launches only adds to our excitement about the Xenium platform and its long-term potential to be the most significant technology of revolution since the arrival of NGS. We're encouraged by the robust utilization trends we are seeing from researchers and by reorders from customers purchasing additional Xenium systems as they experience first hand the platform's benefits. In addition, there has been a growing number of publications and a coalescence of interest from researchers who are planning cohort studies on Xenium, further fueling our conviction in opportunity ahead. Both Visium HD and Xenium 5K has been met with exceptional feedback. In fact, one customer called the arrival of these technologies a watershed moment in spatial transcriptomics reviewing biological complexity at unprecedented resolution. We share our customers' excitement and believe in spatial's potential in scientific discovery, translational work and ultimately clinical applications."
+  },
+  {
+    "speaker": "Serge Saxonov",
+    "role": "",
+    "text": "Alongside the product innovations we introduced in 2024, we also embarked on a major reorganization of our sales force in order to realize the full potential of our expanding product portfolio and evolving customer mix. As mentioned on our Q3 call, we created greater specialization by establishing our capital equipment via pharma and emerging account teams, all with the goal of improving focus and creating more defined roles with targeted incentives. We've made meaningful progress with our new sales model since its introduction. While we still have open roles to fill, we're gaining traction with hiring and onboarding. Our team is creating new opportunities at a faster pace. And we're bringing more consistent attention across customer accounts of all sizes in both biopharma and academia. Overall, we believe we are on track for our new sales model to be in full force by midyear as expected."
+  },
+  {
+    "speaker": "Serge Saxonov",
+    "role": "",
+    "text": "As we took off 2025, we're executing against several key priorities. First, finishing our commercial transformation and transitioning researchers to our new product portfolio. Our goal is to start taking advantage of the benefits that these foundational changes enable and deliver consistent execution quarter after quarter. Second, we are working to drive more volume and greater use of single cell through lower prices. We firmly believe in the elasticity of demand of our products. That's why we're working to democratize access to our tools delivering better products, better workflows and better pricing so more customers can do more single cell work more routinely. Third, we plan to leverage our new single cell portfolio and the momentum we have in spatial to unlock exciting new growth opportunities, including in biopharma, translational studies and large-scale single cell projects."
+  },
+  {
+    "speaker": "Serge Saxonov",
+    "role": "",
+    "text": "Let me share a bit more about each of these. We believe we have the opportunity to deliver outsized growth in biopharma. Today, this segment makes up around 15% to 20% of our total revenue and we intend to expand biopharma to be half of our business in the future. In addition, there has been rapidly growing interest in using single cell and spatial for translational cohort studies, and we believe it's still early days. As we look forward, we expect both the damper and scale of such studies to continue to increase as researchers work to transform how we understand, diagnose and treat disease. Another significant growth opportunity is enabling large-scale single-cell studies to map out gene functions and construct AI models of biology. The convergence of our technologies and AI has the potential to transform how research is done. Just last week, for example, when Chan Zuckerberg Initiative launched its unprecedented Billion Cells Project. We're extremely proud to partner with both CZI and Ultima Genomics on this landmark initiative to fuel rapid progress in AI model development in biology. And finally, as we move through 2025, we will continue our focus on managing costs, taking a disciplined approach to spending, so we can maintain the strength of our balance sheet."
+  },
+  {
+    "speaker": "Serge Saxonov",
+    "role": "",
+    "text": "When you take a step back, it is clear just how vast and powerful the opportunity is for single cell and spatial truly are. It seems not a week goes by but other new exciting revelation being made using our technologies. Let me highlight just a few that have inspired and motivated our team recently. As featured in Nature last month, researchers relied on Chromium, Visium and Xenium to demonstrate how different immune cells emerge and are deployed to fight infection in the small industry. In a recent Nature cancer paper, focused on diagnostic markers in brain tumors to author has demonstrated how spatial transcriptomics previously restricted to research now shows potential in routine diagnostics. And it's not just scientific journals taking note of the revolutionary potential of our technologies. Recently, The Atlantic described a goal of our work, the virtual cell as a holy grail of science. The potential of our tools to accelerate the industrial biology and advance human health has never been more clear. That's why we do what we do. That's why we believe the opportunity in front of us is so large. With that, let me turn it over to Adam."
+  },
+  {
+    "speaker": "Adam Taich",
+    "role": "",
+    "text": "Thank you, Serge. I'll start by reviewing our financial results for the 3 months ended December 31, 2024. Then I'll review our financial results for the full year 2024, and I'll finish by discussing our outlook for 2025. All growth rates provided will be on a year-over-year basis unless otherwise noted."
+  },
+  {
+    "speaker": "Adam Taich",
+    "role": "",
+    "text": "In line with our previously announced preliminary results, total revenue for the quarter was $165 million, an increase of 9% sequentially and a 10% decrease year-over-year. Looking at our revenue breakout, Total consumables revenue was $133.5 million, down 5%. Chromium consumables revenue was $97.7 million, down 17%, driven by lower reaction prices. and spatial consumables revenue was $35.8 million, up 61%. Moving on to instruments. Total instrument revenue decreased 37% to $24.4 million. Chromium instrument revenue was $10.9 million, down 2% and spatial instrument revenue was down 51% to $13.4 million, driven by fewer Xenium instruments sold. Services revenue was $7.1 million, up 35%."
+  },
+  {
+    "speaker": "Adam Taich",
+    "role": "",
+    "text": "Looking at our revenue by geography. Americas decreased 16% to $87.2 million. EMEA decreased 2% to $49.8 million and revenue in APAC was down 5% to $28 million."
+  },
+  {
+    "speaker": "Adam Taich",
+    "role": "",
+    "text": "Turning to the rest of the income statement. Gross profit for the fourth quarter was $111 million compared to $115.8 million for the prior year period. Gross margin [ increased ] to 67% from 63% in the fourth quarter of 2023. This was primarily driven by change in product mix, predominantly fewer Xenium instruments sold. Total operating expenses for the fourth quarter decreased to $160.8 million compared to $171 million for the prior year period. This decrease was primarily driven by a $19.6 million in-process research and development expense related to a technology acquisition in the prior year period, partially offset by an increase in outside legal expenses. R&D expenses increased to $67 million compared to $65.3 million for the prior year period, primarily driven by higher laboratory materials and supplies. SG&A expenses increased to $93.8 million compared to $86.1 million for the prior year period, primarily driven by increased outside legal expenses. Operating loss for the fourth quarter was $49.8 million compared to a loss of $55.2 million in the fourth quarter last year. Net loss for the period was $49 million, flat to the fourth quarter of 2023."
+  },
+  {
+    "speaker": "Adam Taich",
+    "role": "",
+    "text": "Turning to our full year results. Total revenue for the full year ended December 31, 2024, was $610.8 million, representing a 1% decrease over full year 2023. Total consumables revenue for the year was $493.4 million, up 3%. Chromium consumables revenue was $372.3 million, down 11% and spatial consumables revenue was $121.1 million, up 104%. Total instrument revenue was $92.7 million, down 25%. Chromium instrument revenue was $35.2 million, down 26% and spatial instrument revenue was $57.5 million, down 24%. Services revenue was up 57% to $24.6 million."
+  },
+  {
+    "speaker": "Adam Taich",
+    "role": "",
+    "text": "Looking at our regional results for full year 2024. Americas revenue was $347.8 million, down 7% EMEA grew 12% to $159.8 million, and revenue in APAC was $103.3 million, flat to prior year."
+  },
+  {
+    "speaker": "Adam Taich",
+    "role": "",
+    "text": "Turning to the rest of the income statement for full year 2024. Gross profit was $414.5 million compared to gross profit of $409.3 million for the prior year. Gross margin increased to 68% compared to 66% for 2023. This was primarily driven by change in product mix, predominantly fewer Xenium instruments sold. Total operating expenses for 2024 decreased to $609 million compared to $674.6 million for the prior year. The decrease was primarily driven by a $61 million in-process research and development expense related to a technology acquisition in the prior year period and lower personnel expenses, partially offset by higher outside legal expenses. R&D expenses decreased to $264.7 million compared to $270.3 million for the prior year, primarily driven by lower personnel-related costs. SG&A expenses increased to $344.3 million compared to $343.3 million for the prior year, primarily driven by increased outside legal expenses. Operating loss for 2024 was $194.6 million compared to a loss of $265.3 million for 2023. Net loss for 2024 was $182.6 million compared to a net loss of $255.1 million for 2023. We ended 2024 with $393.4 million in cash and cash equivalents and marketable securities, an increase of approximately $5 million from December 31, 2023."
+  },
+  {
+    "speaker": "Adam Taich",
+    "role": "",
+    "text": "Turning to our outlook for 2025. We expect full year revenue to be in the range of $610 million to $630 million, representing 0% to 3% growth over full year 2024. At the midpoint, this guidance implies double-digit growth for both Chromium reactions as well as our overall spatial revenue. With this outlook, we are making the following assumptions. First, we are not anticipating improvements in the overall macro environment and generally expect it remains similar to what we experienced in the second half of last year. That said, it has been a very fluid situation over the past few weeks and days with heightened uncertainty surrounding NIH funding. As we've shared previously, we estimate total NIH funding exposure to be about 20% to 25% of our revenue. Our guidance range contemplates previously anticipated weakness in NIH-funded research based on delays and reductions in new grant funding and how broader uncertainty around funding may impact customers' budgets and spending patterns. However, the current guidance range does not reflect the potential impact of the recently announced 15% cap on indirect costs should that be fully implemented. Second, our goal is to democratize single cell analysis, and we remain committed to driving increased access and usage of our products in customers' labs. We expect Chromium consumables revenue to be modestly down this year as our lower-priced products become a larger portion of our sales. And finally, we continue to execute on the commercial changes that we made last year. As previously discussed, we anticipate some lingering impact from these changes during the first half of 2025 as we fill open roles, particularly in our Xenium team. We have conviction that these were the right structural changes to make and remain on track to be fully complete by the middle of the year. As Serge mentioned, we continue to focus on managing our spend. We are taking a disciplined approach to our expenses and are driving efficiencies throughout the organization. We ended the year with $393 million in cash and cash equivalents, and we feel confident about our strong balance sheet and we are well positioned for the long term. At this point, I'll turn it back to Serge."
+  },
+  {
+    "speaker": "Serge Saxonov",
+    "role": "",
+    "text": "Thanks, Adam. Before we open it up for questions, I want to thank the 10x team. I'm so grateful for your tireless work, unwavering dedication and obsession with customer success as we continue to push through boundaries and hard challenges together. I have full confidence in the talent and tenacity of our team as we execute on our 2025 priorities with urgency and excellence in this 10x wave. That's how we'll advance our mission and create value for all stakeholders, both now and over the long term. With that, we will now open it up for questions. Operator?"
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "[Operator Instructions] . And your first question comes from the line of Dan Brennan with TD Cowen."
+  },
+  {
+    "speaker": "Daniel Brennan",
+    "role": "",
+    "text": "Maybe the first one would be just on kind of single cell pricing. Serge, you talked about and Adam talked about the investment in price that you're making, and you still expect there to be some pressure on consumables this year. Just give us a sense of kind of where are we in the evolution? It looks like if we just took your consumables divided by reactions, price was down about 11% in '24. So how do we think about what's baked in for '25? And kind of what's the gap today between your price and the competition? And kind of how much narrower does it need to get?"
+  },
+  {
+    "speaker": "Serge Saxonov",
+    "role": "",
+    "text": "Dan, yes, thanks for the question. So one thing to keep in mind is that we have multiple products with multiple configurations and different customers, depending on the applications, depending on their experiments are looking at these experiments differently, right? So for some price per cell is important, for some price per sample is important, for some price per experiment is important. And we believe that we have really, really compelling value propositions for all these customers across all these applications now with all the launches we had last year. So -- and it's important to keep in mind that our primary imperative here is to grow the market. We see there is a lot more potential in single cell than what has been tapped into so far. There's great potential to grow volumes. And last year, we took major steps in enabling -- unlocking sort of some of these price barriers and enabling much -- enabling new applications and greater volumes. So we believe that with our current product composition and lineup, we're in a good spot to drive more volume, which is what Adam was referring to earlier. That's our expectation for the year. And I think the story for this year is going to be kind of the transition from -- into the new product lineup and which will drive ASPs, average price per reaction lower just by virtue of the product mix kind of shifting into all these new products."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "And your next question comes from the line of Patrick Donnelly with Citi."
+  },
+  {
+    "speaker": "Patrick Donnelly",
+    "role": "",
+    "text": "Serge, maybe one -- I know the NIH you touched on a little bit. It sounds like maybe that new Monday 15% potential cut not really included in guidance. Could you just talk about what you're seeing from customers? Was there any reaction to that news? I understand the NIH exposure, but just that second derivative to the academic market, how do you think about that? And what's the right way to fence the risk there?"
+  },
+  {
+    "speaker": "Serge Saxonov",
+    "role": "",
+    "text": "Yes. Let me just turn it over to Adam to clarify the specifics around NIH."
+  },
+  {
+    "speaker": "Adam Taich",
+    "role": "",
+    "text": "Yes. Thanks, Patrick. Yes, let me try to provide some transparency around the assumptions we've made in the revenue guide. So as I mentioned earlier, we estimate total NIH funding is about 20% to 25% of our total revenue. And so at the midpoint of our guidance range, what we've assumed here is a mid-single-digit decrease in NIH funded projects to our customers in 2025. And so that would equate to about a $7 million or so million impact to our revenue. And that assumption is based on a continuation of general conservatism, some of the spending patterns that you just asked about, Patrick, and delays that we first saw from our NIH-funded customers in the second half of last year. And then certainly, some of the announcements on the funds flow in January related to the NIH. And then since that time, the situation has been pretty fluid and dynamic, as you noted, the indirect funding costs were capped last Friday and temporarily suspended by a judge a couple of days later. And we expect there's going to be additional challenges to these new rules from universities and from others. And no one really knows with certainty what the final outcome of those various announced changes will be. And so as such, we have not incorporated these more recent events, the indirect conversation, which have changed by day, by day, in some cases, by the hour, we have not incorporated those into our guidance. Generally speaking, our customers use direct funds to purchase our products, including instruments. And so while this potential cap on indirect cost is not in our guidance, let me give you some color about how we're broadly thinking about these latest developments. Without going into real detail on direct versus indirect funds, we can reasonably bound the potential impact of an overall reduction in NIH funding. The NIH has said it expects the indirect cap to save more than $4 billion annually, which would imply an 8% cut to the overall NIH budget. So based on our 20% to 25% exposure, we estimate that this potential 8% reduction, if fully implemented across both direct and indirect funds, could result in approximately a $10 million to $15 million impact to our revenue, again, not accounted for in our 2025 guidance. I would add to that, also part of your question, apart from the quantitative impacts, we have to acknowledge the collective and heightened uncertainty around funding is going to have an additional impact on the confidence of our customers. And this can further impact customer spending patterns, their ability to make purchases and the timing of their purchases. So we're here to support our customers as they navigate this uncertain time, which unfortunately distracts from the important work they're doing to push science in the world forward. We're watching closely to see how customers deal with this uniquely dynamic environment, and we are here to partner with them. Given its critical role funding advanced research and discovery, the NIH has historically received bipartisan support, and we hope and expect that will continue as conditions normalize."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "And your next question comes from the line of Dan Arias with Stifel."
+  },
+  {
+    "speaker": "Daniel Arias",
+    "role": "",
+    "text": "Serge, can you just add some color to your comment on Chromium volumes? I mean it looks like Chromium reactions were basically flat this year, down a point or 2, I believe. You're guiding to double-digit growth in 2025, which is a pretty big step-up, particularly given the environment right now. So where is the confidence in going from 0 to 10 plus? And just where is it coming from? Is it discrete projects like Billion Cells? Do you think you open up the market with some of these new products? Would just be helpful to sort of get your take on how you're feeling about going to that level of acceleration."
+  },
+  {
+    "speaker": "Serge Saxonov",
+    "role": "",
+    "text": "Yes, Dan. So one thing to -- maybe to keep in mind is that we actually had a sequential increase in reactions going from Q3 to Q4. which we see as kind of starting the pattern that we have worked on to establish. And we anticipate that, that trend will continue into this year. And yes, I mean, it's a function of the things we've talked about before, the new products, the new price points, the new configurations, opening up more use cases opening up more routine use for some people, opening up new people entering single cell that weren't necessarily doing or considering it before. And for sure, opening up a big large projects. So the CZI was a great example. There's many people who are looking to scale up their single cell research. And up until recently, pricing was a big barrier. So we do anticipate that to continue, and we see that the trend we saw starting in Q4 is going to continue as well."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "And your next question comes from the line of Puneet Souda with Leerink Partners."
+  },
+  {
+    "speaker": "Puneet Souda",
+    "role": "",
+    "text": "Serge, I'm struggling with the fact that the indirect cuts are not included in your guide. Simply saying that because when you ask your customers, and I'm sure your sales reps are getting this feedback, the instrumentation purchases are very risky in times when there is significant uncertainty on something that the researchers have really not experienced ever before. And indirect cuts where when they go in, they're going to institutions that are some of the leading institutions, medical schools, private universities that have significant indirect exposures, 60% to 80%, sometimes larger, and they're expected to cut to 15%. So in situations like that, the uncertainty is even heightened and that's where some of your innovative products are going. So I'm trying to understand knowing the fact pattern here, knowing at least in the first week, the level of conservatism that you're seeing and the fact that really the legal cases that you talked about, they might be temporary and Congress act might require much longer. Given all that uncertainty, I'm just trying to understand still why this is and direct cuts are not baked into the guide."
+  },
+  {
+    "speaker": "Serge Saxonov",
+    "role": "",
+    "text": "Well, Puneet, we -- our goal here is to provide maximum transparency in terms of how we're thinking about the year. As Adam mentioned, it's a very, very kind of volatile situation right now. Things are changing by the day, by the hour. So we need to be careful in making assumptions about how it's all going to turn out. You're right, the customers, as we said, are definitely on edge right now, and there's a lot of uncertainty. I do want to emphasize that our exposure when it comes to instruments is also somewhat bounded, right? Only a fraction, a small fraction of the instruments that we sell go on to academic core labs. And within those, the instruments are supposed to be financed through majority through direct funds. So while we recognize there's certainly exposure and the current environment is highly uncertain, the potential impact is also bounded. And that's what Adam articulated, and that's how we're thinking about it."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "And your next question comes from the line of Doug Schenkel with Wolfe Research."
+  },
+  {
+    "speaker": "Douglas Schenkel",
+    "role": "",
+    "text": "I'm going to, I think, follow up with just a couple of clarification questions on guidance. And I'm sorry if I'm just being a little slow or maybe need a little more coffee late in the afternoon, but there's just a couple of things I'm not clear on. So the first is, I think you talked about reducing your guidance by $7 million due to something relating to the NIH, which occurred prior to the news about the indirect cuts. So I want to just understand what the $7 million was. Then I believe you said your best estimate on the impact of indirect funding being capped would be an additional $10 million to $15 million. I want to make sure I have that right. That kind of gets at one of the big elephants in the room, which is the NIH. Then what I don't think you talked about was China, and you weren't named in the same way Illumina was named, but there are obviously lots of concerns about what's going on in terms of demand for genomics tools in China. And I think it's broader than that in tools. So the first thing is, can you clarify what's in and what's not in for the NIH, how you're treating China? And then I think the other thing you haven't talked about is really pacing. And again, I'm sorry if I missed that, but given everything that's going on in the world, I could either see where folks are trying to accelerate activity in advance of uncertainty or they're actually slowing down and basically waiting for more clarity. What are you seeing? And how are you treating that in guidance? And accordingly, how should we model things by quarter?"
+  },
+  {
+    "speaker": "Adam Taich",
+    "role": "",
+    "text": "Yes. So why don't I start, Doug, and then I may sort of go back and forth to the search on the China piece of this. So I think you -- let me clarify, I think you actually got it right. So baked into the guide is roughly a mid-single-digit decrease in NIH funded projects for our customers. So we knew things were -- they were shaky before the indirect news came out, I guess, it was last Friday. So that's what we've tried to incorporate into our guide. That is roughly a $7 million impact. If you think about a mid-single-digit decrease in funding for that 20% to 25% or so of our revenue. And again, that's just based on sort of the conservatism that we've been seeing. Again, things are more uncertain, obviously, now given the indirect, but that's really from a direct funding perspective, what we baked into the guide. The $10 million to $15 million that is not incorporated in the guide. It's really just we are to say, look, it's just a complete 8% cut to the total NIH budget. And there are two distinct pools of money. There isn't direct. There isn't indirect that's the math that we were trying to walk people through. Again, I think as Serge just mentioned, we're just trying to be as transparent, try to give people the right parameters to understand and bound the risk, and so again, based on our 20% to 25% exposure, if there's a full 8% reduction kind of just across the board is the way that it played out, implemented across both the direct and indirect funding that result roughly $10 million to $15 million impact to our revenue. And that's the piece of it that we didn't put it to the guide. Let me just touch on pacing real quick. So from a pacing perspective, there's a couple of things to consider. One is just, yes, we're living in interesting times right now in particular. And so that's one reason that we would anticipate the year to be a bit more back-end loaded. The other, though, which we've been transparent about, I guess, going back all the way towards Q3 is that we're still working through and building up our commercial force. And so hiring is going quite well. We still have some gaps that we're filling. We're training up the reps that we were able to hire and bring on board really in Q4 of last year. But even just as a result of getting that team up to full force and again, consistent with the messaging we've been sending, we would anticipate we're really all systems go from a commercial perspective by the time we get into the second half. And so as such, we're really thinking about as we thought about sort of quarterly pacing sort of first half versus second half, modeling it out much more consistent with what we saw in 2023. And I think -- I mean both of these years -- I think even 2022, where there's more business that's transacting in the second half than we are in the first half. So I think if you use that kind of a general guideline looking back at 2023 pacing by quarter, I think that gives you a pretty good parameter of what we're thinking about. And then maybe, Serge, do you want to touch on the China questions?"
+  },
+  {
+    "speaker": "Serge Saxonov",
+    "role": "",
+    "text": "Yes. So Doug, I mean, there's a few things embedded in the China sort of concerns with people. First of all, there's sort of the news around Illumina and to what extent that would affect us given that a lot of our products are used in conjunction with Illumina sequencing. Now the important thing to appreciate there is that our products are inherently compatible with just about any sequencing technology, right? And so it is fairly straightforward for our customers to switch over to another sequencer. In fact, that's what's happening in many cases over there. And so we don't anticipate a major impact from the fact that Illumina could be taken out of some of our customers' labs here. Also, as far as sort of our actual technology, it doesn't draw really the same levels of attention over there compared to some of these other products like sequencing or others. And also, there isn't really a great alternative in the country for our products as well. So kind of putting all those factors together, while there's a lot of different kinds of issues that are going on around China, we feel like generally, we are -- our risk is reasonably contained. And again, China is also a fairly minor part of the overall business at 9% at this stage."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "And your next question comes from the line of Tycho Peterson with Jefferies."
+  },
+  {
+    "speaker": "Tycho Peterson",
+    "role": "",
+    "text": "A couple of cleanups on guidance. I guess, Serge, can you talk about what you're baking in for contributions from the product launches last year? Just any color you can give on what you're baking in there? And then Chan Zuckerberg, what's in the guide for that? And are there other similar projects you're baking in. Legal, I think, goes down post the NanoString injunction. So maybe just talk a little bit about spending there. And then one thing I want to understand on NIH is just the funding has actually been good. I mean it was up 35% last year for spatial. I think you have $400 million of trailing 12-month funding available. When does that start to flow through? Obviously, there's a lot of noise here in the near term, and I get all that, but the funding actually went up quite a bit last year."
+  },
+  {
+    "speaker": "Serge Saxonov",
+    "role": "",
+    "text": "Yes. So Tycho, on the sort of first part of the question, as far as new products are concerned, yes, I mean, they are definitely a big part of what we expect to happen this year. First of all, we do expect that materially all of sort of the Chromium business will turn over into the GEM-X -- should most of the business will transform more into the GEM-X architecture across the course of this year. We also are seeing good traction with the launches we did in Q4 around on-chip multiplexing and with GEM -X Flex. So those are going to be a larger, larger fraction of the overall product mix and potential. And so they are -- and that's part of what's going to be driving increased volumes through the year. The larger projects that we have talked about, CZI being one of them is also part of what we expect to be happening this year. So that is also contemplated within our expectations within our guide. As far as on the funding for NIH, you're right. Sort of if you look -- if you click down a level below sort of the overall total funding trends, the trends for single cell and spatial are actually really promising and really, really healthy, which is what part of the reason that gives us some amount of optimism about how things are going to be trending into this year and beyond. We just have to temper it somewhat with the current situation and uncertainty around that."
+  },
+  {
+    "speaker": "Adam Taich",
+    "role": "",
+    "text": "I think the last part -- sorry, of your question around sort of legal from an OpEx perspective, I mean, from an OpEx, we continue to manage our costs in a disciplined way. And we would anticipate our costs year-on-year roughly flat from an operating expense perspective, and that legal piece is part of it."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "And your next question comes from the line of Tejas Savant with Morgan Stanley."
+  },
+  {
+    "speaker": "Tejas Savant",
+    "role": "",
+    "text": "Just a couple of cleanups on the guide, and then I have one on the legal side of things as well. So maybe, Adam, for you, any color on gross margin cadence through the year? There's a few moving pieces here. Obviously, you mentioned the pricing headwind and mix and so on. But also potentially as some of these large single cell projects come through, does that sort of weigh a little bit on the gross margin line? So any color there would be great. And then on the IP litigation with Vizgen that was settled here, were you generally satisfied with the terms? Can you share whether they involve any ongoing royalty or licensing fees to you? And given the patent overlap between that case and the one with Bruker, I guess, any color on how you think sort of that outcome positions you for the other case?"
+  },
+  {
+    "speaker": "Adam Taich",
+    "role": "",
+    "text": "Why don't I take the gross margin question, and then I'll defer to Serge on the second part of your question, Tejas. Yes, I think on gross margin, the way we're thinking about the year in total is roughly in the same ZIP code of where we ended 2024. A couple of things that I would add, and you touched on them. Product mix from -- for one can swing things, right? So the more Xeniums we sell, and again, sort of embedded in that, when I say that margins will be fairly consistent year-on-year is an assumption around Xenium. To the extent that we're selling more Xenium instruments, that will put some pressure on it. We certainly have, and I'm not talking about specific tariff commentary, but we've got cost pressures in the business, really just basic inflationary supply costs that we're working our best with our ops team here to be mitigating through other efficiencies. I think to your point on large projects, and it's hard to forecast the timing of those, but we're going to compete to win. And so to the extent -- and we're going to do that across our business. So to the extent with our portfolio, we've got flexibility to compete. And to the extent that we're competing and winning some of those larger projects during the course of the year, yes, that could have a negative or a detrimental impact on gross margin. It's not something that we're baking kind of into the plan as it stands, but that's something that certainly we would be talking about as the year progresses. And Serge, do you want to."
+  },
+  {
+    "speaker": "Serge Saxonov",
+    "role": "",
+    "text": "Yes, Tejas. So on the Vizgen settlement, so yes, we're actually extremely happy with the outcome. Fundamentally, the settlement validates the intellectual property investments we have made, like fundamental the importance of George Church's work on this foundational inventions around in situ. The team recognized the importance of this intellectual property early on and invested in developing this IP and the products and R&D all around it. And I think this is a really great moment and a huge testament to the whole team. And yes, we're very happy with the outcome."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "And your next question comes from the line of Rachel Vatnsdal with JPMorgan."
+  },
+  {
+    "speaker": "Unknown Analyst",
+    "role": "",
+    "text": "This is [ Jen ] on for Rachel. Just digging into the placements, how should we think about placements for Xenium and Visium next quarter and then in '25? And then on Chromium, what's the total pricing discount headwind you expect for next year for Chromium consumables?"
+  },
+  {
+    "speaker": "Adam Taich",
+    "role": "",
+    "text": "Yes. Let me take the first part. Actually, I can take both parts of your question. So I think on the Xenium instrument side, I think what we've said from a guidance perspective is that we anticipate the entire spatial business to grow double digits. So we are anticipating growth in the Xenium unit placements during the course of the year. And we would anticipate we'll sell more in '25 than we did in '24. We've got a great pipeline. We've got a dedicated Xenium capital equipment team now. They're starting to hit their stride. That is the team that probably still has the most hiring to do. So we do anticipate as the year progresses as that team continues to develop and push the great opportunities that they're developing through the pipeline and closing those that we'll have growth in the Xenium instrument business year-on-year. To your question on Chromium consumables, I guess a couple of things I would say to sort of bound the math there. We called out double-digit volume is what we're anticipating, and that's what's baked into the guide. We also said, though, as part of the guidance section that I mentioned earlier that we'd be modestly down overall. And so I think you can infer from that, that we'll probably have -- as we think about the new products that we launched really from a price and creating accessibility from a customer perspective be down sort of in the double-digit sort of framework on a year-on-year basis from a reaction price standpoint."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Next question comes from the line of Dan Leonard with UBS."
+  },
+  {
+    "speaker": "Daniel Leonard",
+    "role": "",
+    "text": "I was hoping you could elaborate a bit more on your biopharma comment. I think you commented that's about 15% of your revenue could grow to 50% over time. Can you perhaps share what was the growth rate for biopharma in 2024? And just any more color around what the cadence would be to mix that part of your revenue?"
+  },
+  {
+    "speaker": "Serge Saxonov",
+    "role": "",
+    "text": "Yes. So I mean, overall, the biopharma run was -- for the year was fairly challenged, especially if you go back earlier like the first part of last year. But as we proceeded through, especially after sort of we made our changes on the commercial side and set up the new team in Q3, we saw a really nice sequential improvement in Q4. And a lot of the signs that we're now seeing as far as the team is concerned, having the people in place, having sort of the new applications opening up and the conversations we're having with customers is all pointing in the direction of there's great potential to grow our business there. And so yes, so we do anticipate over -- historically, we've been around 15% to 20% per time. And now we're making concerted investments, and we're seeing great, great opportunities to grow much faster in there towards that goal of about 50%."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Next question comes from the line of Subbu Nambi with Guggenheim Securities."
+  },
+  {
+    "speaker": "Subhalaxmi Nambi",
+    "role": "",
+    "text": "On gross margin was a bit weaker than expected in the quarter. Was that just a function of high instrument mix? Or is there also some inefficiency associated with the rollout of new consumable products that are dragging on margin?"
+  },
+  {
+    "speaker": "Adam Taich",
+    "role": "",
+    "text": "Yes. Thanks, Subbu. It was really a Xenium mix impact. We did mention we saw -- we weren't anticipating originally budget flush towards the end of the year just based on what we had been seeing. I think we mentioned earlier in the year publicly that we did end up seeing. So when you think about where we had guided and where we landed, a good portion of that was budget flush. A good portion of that was in biopharma, and then there were certainly some Xenium instruments that played into that. And so when you think about gross margin trend during the course of the year, that was really the primary impact of that -- what you described there in Q4."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "And your next question comes from the line of Kyle Mikson with Canaccord Genuity."
+  },
+  {
+    "speaker": "Kyle Mikson",
+    "role": "",
+    "text": "A follow-up on biopharma, that's a focus for you going forward. Can you talk about the biopharma spending assumptions in the '25 guidance given the budget flush experience at the end of '24? And secondly, just on the IP side, PTAB invalidated all your claims asserted against the competitors' products. Just given that litigation, is there going to be even more competitive headwinds in single cell going forward?"
+  },
+  {
+    "speaker": "Serge Saxonov",
+    "role": "",
+    "text": "So yes, maybe I'll address the first part of the question -- the second part of the question first. No, absolutely, no the decisions have a bearing in terms of like overall protection of our products and our technologies. We feel really, really strong about those. And as far as competitive dynamics are concerned, we feel really great about the position of our products, the value that they provide, all the advantages in terms of data quality, in terms of performance, in terms of ease of use, the value that they deliver to our customers. And we feel really great where we are, and that's always going to be our North Star is delivering great value for our customers. And as far as biopharma is concerned, yes, I mean, we are -- certainly, as part of our guide is to carefully consider the trajectory and the impact, the growth within biopharma this year as well."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "And your next question comes from the line of Luke Sergott with Barclays."
+  },
+  {
+    "speaker": "Luke Sergott",
+    "role": "",
+    "text": "Just a quick cleanup here. I might have missed it, but did you give any sense or direction on the split between Visium and Xenium consumables in the quarter? And then unrelated, can you kind of give us some timing there on the Billion Cell Project and kind of how that plays out? And can they get that done in 2, 3 years? Or what's needed there from an equipment perspective?"
+  },
+  {
+    "speaker": "Serge Saxonov",
+    "role": "",
+    "text": "Well, so we -- the project itself is getting going pretty quickly. As far as the timing to complete, obviously, this is a very large-scale sort of endeavor. It's not -- it shouldn't be kind of a 3-year time frame, but it will take time for it to get done."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Your next question comes from the line of Matt Larew with William Blair."
+  },
+  {
+    "speaker": "Matthew Larew",
+    "role": "",
+    "text": "I have two unrelated follow-ups. The first, based on the reaction and pricing commentary you gave as well as the GEM-X transition started Q4 '24. Is it reasonable to assume that you will grow single cell revenue in the fourth quarter in your current plan? That's part one. And then part two, understanding any transition with respect to overhead would be a challenge. Can you just talk a little bit about your customers in Europe in terms of what their behavior is like? Certainly, EMEA has been a very rapidly growing category for you over the last 5 years in that scenario where indirect at 25%. So I'd just be curious to hear about any differences similar to customer behavior there."
+  },
+  {
+    "speaker": "Serge Saxonov",
+    "role": "",
+    "text": "So as far as the European sort of business and overhead, I think your question is around sort of the indirect and overhead kind of funds and how that plays out. Yes. So I mean, that's a good point of comparison. Our European business has actually been doing relatively well over the course of the past year plus. And that sort of indicates what happens when there's sort of a lower potential indirect rate over there. Now of course, when we're looking at the U.S., we have to be cautious. And every time -- any time you have a significant change of this magnitude, that creates a lot of uncertainty. And that is certainly affecting the outlook of our customers. But yes, you can see that in the long run, this can work out and research can continue at a really robust rate."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "And your next question comes from the line of Matt Sykes with Goldman Sachs."
+  },
+  {
+    "speaker": "Matthew Sykes",
+    "role": "",
+    "text": "Just back to the commercial changes you made last year, just as we think about the first half of this year, measuring your progress and the success of those commercial changes, I know you said that Xenium would likely be a little bit later. You made some comments about biopharma seeing sequential improvement at the end of last year. But how should we think about where sort of the leading indicators of success of these changes would be? Is it in Chromium CapEx? Is it in consumables? What are some of the measuring sticks we should be looking out for?"
+  },
+  {
+    "speaker": "Serge Saxonov",
+    "role": "",
+    "text": "Right. Well, so one thing to appreciate here is that the changes that we implemented were meant to be holistic, right? This is like a rearchitecting of our go-to-market fundamentally where we created new suborganizations with our commercial function with a specified focus with specified target incentives and such. And as such, it's going to affect all parts of our business, right? We specifically wanted to make sure we have a special dedicated team to focus on Xenium, which is great. It's going to help Xenium, but also by virtue of taking Xenium instruments out of the bag of other sales executives, that gives them the opportunity to focus more on the Chromium products and on the Visium products, which should also help those product lines. Also by virtue of separating out the focus of academia from biopharma, will help biopharma, but will also help academia, academic accounts. And overall, as we kind of zoom out where we are, we do feel like we're in a good pace and making good progress as we have outlined previously. Good progress with hiring, good progress with onboarding, opportunity management, account coverage. And as we look for the balance of the year, we should be really in full force by the middle of this year."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "And your next question comes from the line of Michael Ryskin with Bank of America."
+  },
+  {
+    "speaker": "Michael Ryskin",
+    "role": "",
+    "text": "I want to just follow up on a couple of earlier points, make sure I caught it right. I think, Adam, you talked about first half, second half seasonality in 2025. You guys occasionally give quarterly guidance just whenever there's anything to keep in mind. So just any additional clarity on 1Q specifically? Or are you just going to keep it by halves? And then the other follow-up question, Serge, maybe better suited for you, something Dan Leonard asked on earlier, your comments about pharma and biotech growing to 50%. I actually want to push on that a little bit more. I mean if you're at 15% to 20% revenue mix now, I realize that longer term for a lot of technologies in genomics and tools, there's growing use cases in translational research as you sort of move out of that earlier pure academic pure research setting. But if I look at your portfolio, these technologies have been out there for a while. This is not that new. And yet despite being on the market for, in some cases, 5, 10 years now, you're still only at 15%, 20%. So I'm just wondering how do you get to 50%, right? I mean I would have thought that if you're really going to get there, you would have been further along the ramp now. Is there something from a commercial organization or from a customer use case that you think is holding you back and sort of keeping you out of pharma and biotech to a greater extent?"
+  },
+  {
+    "speaker": "Serge Saxonov",
+    "role": "",
+    "text": "Yes, Mike. So a couple of things. So first of all, the products themselves actually had not reached the level of maturity and capability that's really suitable for pharma until, I would say, a couple of years ago. because it is really imperative to have the ability to fix your samples or work -- be able to work with fixed tissues, especially FFPE as you think about kind of later-stage clinical work and clinical trial work. And that was not available up until just a couple of years ago. Now we have it across our entire product line with the Flex product and FFPE compatibility on the single cell side with Visium supporting FOP with Xenium being kind of FFPE native from the very beginning. So I think that is a really, really important context to keep in mind. So as you think about getting out of like the early-stage discovery into later stages of product development, you do need to have fixation compatibility, which wasn't really the case there before. The second is just, yes, I mean, things take somewhat longer to get tested and to get validated and to spread within pharma and biotech. And we have -- we are seeing the emergence of new applications that were sort of out there for -- since really 2016 that are now really gaining wide adoption and lots of interest. So specifically large-scale CRISPR screens, something that's of great interest to biopharma has emerged as a really big application across many companies. And we see that this is just the early days. Lots of applications through the full continuum of drug development as we have been getting into the sort of the specifics of all these different applications. And yes, I mean, the last point is this has to be also enabled by the appropriately focused commercial team. We have been very much focused on academia historically. And we have created now for the first time, a separate and distinct organization that's focused on driving this biopharma business. It's a different kind of sales motion. It's a different kind of expertise that's required to do so, and we feel like we are putting the right pieces in place to now drive it at a greater speed going forward."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Thank you, presenters. And that is all the time we have for questions. This now concludes today's conference call. Thank you all for joining. You may now disconnect."
+  }
+]

@@ -1,0 +1,294 @@
+Operator
+Greetings, and welcome to the Cognex third quarter 2024 earnings conference call. At this time, all participants are in a listen-only mode. A question-and-answer session will follow the formal presentation. [Operator instructions] It is now my pleasure to introduce your host, Nathan McCurren.
+Thank you, and you may begin.
+Nathan McCurren
+--
+Head of Investor Relations
+Thank you, operator. Good morning, everyone, and thank you for joining us. Our press release was published yesterday after market close, and our quarterly report on Form 10-Q for Q3 2024 was filed this morning. The press release, earnings presentation, and 10-Q are available on the Investor Relations section of our website.
+Both our published materials and the call today will reference non-GAAP measures. You can find a reconciliation of certain items from GAAP to non-GAAP in our press release and earnings presentation. Any forward-looking statements we made in the press release, the accompanying presentation posted to our website, or any that we may make during this call are based upon information that we believe to be true as of today. Our actual results may differ from our projections due to the risks and uncertainties that are described in our SEC filings, including our most recent Form 10-K and Form 10-Q.
+On today's call, Rob Willett, Cognex's president, and CEO, will discuss end-market trends and provide an update on our strategic initiatives. Dennis Fehr, Cognex's CFO, will discuss our third-quarter financial results, and we'll conclude with our outlook. With that, I'll turn the call over to Rob.
+Robert J. Willett
+--
+President, Chief Executive Officer, and Director
+Thanks, Nathan. Hello, everyone, and thank you for joining us on Halloween, Cognex's favorite holiday. In the third quarter, we delivered revenue and adjusted EBITDA margin in line with our guidance. Revenue grew 19% year on year or 7%, excluding the contribution of our Moritex acquisition, led by continued momentum in Logistics and Semiconductor and comparing against a low base in Q3 of 2023.
+Conditions across our broader factory automation business remained challenging. While most of our factory automation business has been stable for several quarters, we've seen a further step down in Automotive. We continue to manage costs tightly in the third quarter and reduced operating expenses sequentially despite increased costs from the emerging customer initiative and an extra month of Moritex financials. I now want to provide you with an update on our strategic initiatives.
+We continue to make excellent progress in bringing world-class AI to our machine vision products. In the third quarter, we launched AI-assisted labeling to reduce the time required to train deep-learning vision models. We've incorporated a new AI model into our VisionPro deep learning products that can cut out any object in any image with a single click. This makes the labeling process much faster.
+Training AI vision models can sometimes require labeling of over 1,000 images, and this latest model cuts the labeling time by approximately 90%, allowing more customers to adopt our most powerful deep learning products. Another example of how we're making our products more accessible to a broader audience can be seen in our AI-driven Optical Character Recognition tool that we launched in Q3. Our prior OCR offering requires significant training, which limited its use to more sophisticated customers. Now, with virtually no setup required, customers can leverage this out-of-the-box technology to obtain industry-leading read rates and performance.
+As AI enables machine vision to solve more human-like tasks, we have conviction that a larger portion of future market growth will be driven by a more diversified set of small- and medium-sized businesses who need products that are easy to implement and which deliver powerful results. I now want to go a bit deeper into our strategic rationale for the emerging customer initiatives and give you more color on how it is going, what we've learned, and what we expect from here. Historically, Cognex has excelled at providing the most powerful vision technology to the world's most advanced manufacturers. There are thousands of such customers, and our share with them is high, but there's also a much larger segment of customers with less complex applications and less automation engineering capacity who are looking for more standardized products that are easy to apply and easy to use.
+The technology we have developed over the last five years, including our edge learning, sensor, and newest ID products, are ideal for these customers. And as we launch more of these types of products, we expect to achieve our long-term growth by reaching more of what we estimate to be hundreds of thousands of potential customers. We're doing so by adding a new Salesnoid profile to our team: ambitious recent college graduates who are less experienced, less expensive to employ, and less technical. They are enabling us to broaden our sales coverage, make many more shorter sales calls, and reach more customers.
+Our first cohort of these Salesnoids entered the field at the beginning of 2024 against a challenging macro backdrop, but we're happy to see their bookings continue to ramp. Q3 of 2024 was our largest quarter, and September was our largest month of emerging customer bookings. This is helping to offset slow bookings in many of our end markets in 2024, and even resulting in bookings in end markets where we have previously had minimal coverage, such as aerospace and agriculture. While we will not report the following metric on a regular basis, I want to help you understand the scope of what this program is delivering.
+In the third quarter, the first cohort of emerging customer Salesnoids sold almost $1 million per week and referred millions of dollars of vision business that was closed by our more experienced sales teams. I will note that this includes bookings by these Salesnoids to some existing accounts, so it's not necessarily all incremental. Our second cohort is now in training and will enter the field over the next four months. Our emerging customer initiative is a long-term program, still in its early stages and driven with a mindset of continuous improvement.
+We're learning which products are most compelling to these target customers. We've responded by evolving the product portfolio to the sales team and equipping them to sell additional vision products. Just like prospective customers, our established accounts also have use cases for our entry-level, easy-to-use technology and benefit from more frequent engagement and broader sales coverage from Cognex. Emerging customer Salesnoids can also identify more applications for our advanced vision products and refer this business to our more experienced Salesnoids.
+To better serve these accounts and optimize sales coverage, we are combining sales forces under a unified management structure in each geography. While we are long-term focused, we acknowledge that we are investing in a challenging market environment. In the near term, this initiative is generating more customer visits, increasing our customer base, and generating gross margin accretive business. Emerging customer Salesnoids are on track to make over 80,000 additional in-person customer visits and to add around 3,000 new accounts this year.
+In the medium and long term, we expect the sales transformation to support strong growth and profitability. As our Salesnoids are now serving a mix of new and existing accounts, incremental revenue delivered by this group is no longer a measure we are evaluating to determine success. However, we believe this sales transformation supports our long-term target of over 30% adjusted operating margins and positions Cognex for future success. We are excited to continue this initiative and to introduce a new cohort of Salesnoids each year.
+As we plan for future years, we will, however, be flexible about cohort sizes and be responsive to market conditions and resulting growth. Turning now to what we are seeing across our end markets, which you will find on Page 6 of the earnings presentation. I will discuss the end market results, excluding the contribution of Moritex. End markets have been mixed, as we have seen both continued softness as well as pockets of growth.
+Starting with Automotive, revenue was down both year on year and sequentially. We continue to see delays, reductions, and cancellations of EV battery projects, and we saw a further step down in our broader Automotive business. I spent time this past quarter with Automotive customers in many geographies. This is probably the weakest and most tentative I have seen the automotive market in my 16 years at Cognex.
+The industry is suffering from an overinvestment in electric vehicles, macro uncertainty, increased competition from new entrants, and unclear future end-user demand. This has all led to minimal capital investment across the value chain, which we expect to continue until these customers have more certainty. Moving on to Logistics. Revenue in Logistics has grown strong double digits year to date.
+We continue to see growth across this business from large e-commerce to parcel and post to base logistics customers globally. This is fueled by both market growth and recent product innovations, including the success of the DataMan 380 that we launched in 2023. One recent example of Logistics success is our partnership with the e-commerce leader in South Korea. We're seeing regional e-commerce leaders like this automate more of their warehouses and adopt more vision solutions.
+We partnered with this customer to increase its throughput and enable better tracking and tracing of packages by providing a hands-free ID reading solution for its inbound freight processes across its network. We won this business with better read rates at higher speeds than our competition can support. This customer is also investing in robotic automated bagging across their existing facilities. With unmatched read rates and value, our DataMan code readers were able to unlock this opportunity for us, where we both replaced competitors on existing equipment and one business on investment in new automation.
+We believe Logistics is well positioned to continue to be our fastest-growing end market. As automation penetration increases e-commerce investment returns, we win share in the parcel and post segment, and more customers move beyond purely reading barcodes and start to implement a broader range of vision tools and technology. Consumer Electronics revenue was up year on year and down sequentially, both driven by project timing. Q2 of 2023 included $15 million of revenue that shifted forward from Q3.
+This year was also more weighted to Q2 but to a lesser extent than in 2023. Consumer Electronics has positive long-term trends. Currently, our expectation for a near-term investment in Consumer Electronics are tempered. But we tend to have a better line of sight to this by early Q2 each year.
+Lastly, SEMI is continuing to build with significant year-on-year growth, albeit off a low 2023 base. We're seeing increased investment from major machine builders across geographies and are optimistic that these trends can continue. Let me now hand it over to Dennis to walk you through the financial results and the outlook for the fourth quarter.
+Dennis Fehr
+--
+Chief Financial Officer
+Thank you, Rob. Turning to the financial highlights, which you can see on Page 8 of our earnings presentation posted to the website. Third quarter results include four months of Moritex financials as we aligned accounting close schedules in the quarter. Third-quarter revenue of $235 million came in slightly above the midpoint of our guidance range and increased 19% year on year.
+Excluding Moritex, revenue grew by 7%. As a reminder, in 2023, we had approximately $50 million of Consumer Electronics revenue shift into the second quarter from Q3, providing us with an easier comparison. Adjusting for this timing effect, revenue excluding Moritex was roughly flat year on year. From a geographic viewpoint, excluding Moritex, revenue grew year on year in all four of our major regions for the first time in over two and a half years.
+Europe grew nearly double digits in the quarter, while Americas and other Asia were both up slightly. Strong Logistics results pushed these three regions into year-on-year growth. China was up significantly in the quarter, snapping a streak of seven consecutive declines, however, entirely due to the timing of Consumer Electronics revenue in the comparable period. Turning to margins.
+Adjusted gross margin was 68.7% in Q3, down four points from 72.7% a year ago. Gross margin included a three-percentage-point dilution effect from Moritex, which is higher than the typical two-percentage-point impact due to the additional month of Moritex financials. Sequentially, adjusted gross margin declined 1.6 percentage points, driven mostly by extra Moritex revenue and mix effect. Furthermore, gross margin in Q3 was impacted by competitive pricing pressure.
+Many manufacturers are being more discerning on cost in the current market environment. And considering the current scarcity of projects, we have prioritized maintaining share. This has been most pronounced within China. Adjusted operating expenses increased 10% year on year and were slightly down sequentially despite the additional month of Moritex expense.
+The year-on-year increase was driven by Moritex, increased investment in our emerging customer initiative, and the headwind in incentive compensation from a lower bonus achievement accrual in 2023. We continue our focus on cost management and the current business environment. Excluding Moritex and the emerging customer initiatives, adjusted operating expense was down 2% on a year-to-date basis despite incentive compensation headwinds. Just in the third quarter, we able to reduce opex sequentially by $3 million, excluding these two initiatives.
+Adjusted EBITDA margin was 17.6% in Q3, in line with the midpoint of our guidance range and up slightly from 17.4% a year ago. Operating leverage from higher year-on-year revenue was mostly offset by lower adjusted gross margin and strategic investment in the emerging customer initiative. Adjusted EBITDA margin declined by 2.3 percentage points sequentially, driven by the step-down in adjusted gross margin, as well as slight operating deleverage. Diluted earnings per share on a GAAP basis was $0.17, up from $0.11 in the year-ago period.
+The year-on-year increase was mainly due to an $8.5 million foreign currency loss recognized in Q3 of 2023 on a forward contract to hedge the purchase price of Moritex. Adjusted diluted EPS was $0.20, up 19% or $0.03 year on year due to the contribution from Moritex. The adjusted effective tax rate was 18% in both Q3 of 2024 and Q3 of 2023. Free cash flow in Q3 was $52 million, our highest quarterly total since Q4 of 2022.
+This compared to $35 million the previous year. While we are early in the journey and Q3 was supported by seasonal effects, our focus on working capital efficiency is paying off, as shown by a sequential improvement in our cash conversion cycle. The strong free cash flow in the quarter flowed to the balance sheet, where Cognex strengthened its position with $607 million in cash and investments and no debt. Cognex returned $17 million to shareholders in the form of stock buybacks and dividends in the quarter.
+I will now turn to our outlook for the fourth quarter. In the fourth quarter, we expect revenue between $210 million and $230 million. This range reflects the challenging but stable backdrop we are operating against. The sequential step down is driven by seasonal Consumer Electronic trends and one month less of Moritex results.
+At the midpoint, excluding Moritex, this represents a high single-digit increase year on year, driven by continued growth in logistics and SEMI. We expect the Moritex business to return to its typical range of 6% to 8% of revenue in Q4. As a reminder, the fourth quarter of 2023 included six weeks of Moritex results or $7 million in revenue. For the fourth quarter, we expect adjusted gross margin in the high 60% range.
+Sequentially, mix and competitive pricing are expected to be a slight headwind, partially offset by the favorable impact of one month less of Moritex financials. The total gross margin impact of Moritex is expected to be approximately two percentage points in the quarter or an approximately one-point headwind year on year. We expect adjusted EBITDA margin between 14% and 17%. The midpoint of this range represents a three-percentage-point increase year on year, driven by continued tight management of operating expenses and positive operating leverage, slightly offset by lower gross margin and investment in the emerging customer initiatives.
+Lastly, I would like to call to your attention that we expect to hold our Investor Day on June 9th and June 10th of next year. So, please mark your calendars and consider joining us in person at our Boston area headquarters for this exciting event. Now, we will open the call for questions. Operator, please go ahead.
+Questions & Answers:
+Operator
+Thank you. We will now be conducting a question-and-answer session. [Operator instructions] One moment please while we poll for questions. Our first question comes from the line of Jamie Cook with Truist.
+Please proceed with your question.
+Jamie Cook
+--
+Analyst
+Hi. Good morning, and thank you for the questions. I guess, first, on the emerging customer initiative, how do we think about the 3,000 new customers that you're targeting -- that you talked about this quarter relative to your targets in the beginning of the year and how that compares to the $50 million of incremental revenue you once talked about? And given the combined sales force that you're doing, does that represent a cost savings opportunity potentially in 2025? And then my second question, just on the gross margins for the fourth quarter. Can you just elaborate how much mix and pricing is a headwind to margins sequentially? And just sort of what's going on in the pricing environment? That sort of seems like a new nuance.
+Just wondering, again, how much of a headwind this could be as we look further out. Thank you.
+Robert J. Willett
+--
+President, Chief Executive Officer, and Director
+Great. Yes. Thank you. Thanks for joining us.
+So, I'll talk to your first question, and then I'll give it to Dennis, who give you a little color on gross margin. So, I think some context overall, I think as we all understand, Cognex has very strong share among the most sophisticated manufacturers. And we're looking to make our new technology more available to many more customers. And we think there are hundreds of thousands of customers like that.
+So, we expect to sign up 3,000 new customers through the current program in its very first year. So, it might sound like a small number, but it's big step, I think, that this first cohort is making. They're ramping. They're getting better every day.
+The rate of signing up new customers is increasing. And as we move into next year, we would expect more from them. Then we have the second cohort coming online, we'd expect the same or better from them as we get better and better at this initiative. So, you can see, we can give it as turning a flywheel, and it's starting to get momentum, and it's broadening our customer base over time.
+And then in context, we've sort of said in the past, we have about 30,000 customers. So, that 3,000 and hopefully, more from that cohort next year, the second cohort coming on and adding as we turn the flywheel faster and faster. You can see over a long period, we're pretty optimistic about how that can broaden our customer base overall. Second part of your question, you asked a little bit about the cost of serving customers.
+For sure, we're bringing in a different profile of Salesnoid and much more activity. They need make more sales calls as they're selling easier-to-sell products, and they are less expensive to employ. So, as our sales force grows and develops and turns over over time, we're seeing the potential for higher productivity per salesperson both from a sales amount and from a cost point of view. So, that's how we certainly think about that, and we have a lot of metrics that we use to track that.
+In terms of our expectations on entering the year, we were learning as we went along. I would say we're pretty happy with where this is getting in terms of the expectations we had originally.
+Dennis Fehr
+--
+Chief Financial Officer
+All right. Let me take the second question. So, when we look at the gross margin, gross margin stepped down about 160 basis points sequentially. About one basis point -- sorry, one full percentage point of that is driven by Moritex, right, an addition of an extra month of Moritex financials.
+So, in the quarter, that dilutive impact was three points instead of the normal two points. And then the remainder of that is driven by mix and pricing. So, that means we talk about the mix side, then we have less of Consumer Electronics and more of Logistics. And then on the pricing specifically, we have been talking about specifically about China.
+Jamie Cook
+--
+Analyst
+Thank you.
+Operator
+Thank you. Our next question comes from the line of Tommy Moll with Stephens Inc. Please proceed with your question.
+Tommy Moll
+--
+Analyst
+Good morning, and thank you for taking my questions. Rob, I wanted to start on Logistics, the progression there we're seeing again in the third quarter, presumably also in the fourth. And if we look around that end market, there are some fairly positive anecdotes just in terms of the pacing of warehouse leasing activity. Others in the market talking about some of the end users having absorbed a lot of the overcapacity that was built in years past.
+And so, I'm just curious, given that a lot of these large projects can be -- can have a lead time for you, where you have -- I don't know how early you take orders or how early the conversations start. But are you seeing any signs that there could be another inflection higher in the coming quarters?
+Robert J. Willett
+--
+President, Chief Executive Officer, and Director
+So, we're certainly very positive about what we're seeing in Logistics currently. Revenue grew materially on a year-on-year basis for the third straight quarter in the third quarter. And we expect to finish this year in strong double-digit range. And it's pretty broad across our business, both in terms of the end markets that we're serving and in terms of geographies.
+And I think we all know that we're coming off two years of significantly lower investment. So, I think we're starting from a much lower position, basically where there was overcapacity built during the pandemic that had to be worked through. And it has worked through now. And we're getting back on to the nice growth path we had envisioned, and I think it's coming together very nicely.
+In your question, you asked about visibility. Yes, for sure, longer lead times, bigger projects. So, we do have, I think, good visibility for a business that we see in our pipeline, and we see it booking. When it comes in, how quickly or not can vary.
+The projects that on things coming in this quarter that come next and vice versa. But overall, yes, I think we have a pretty good sense of what's going on in that market. Some other things that we're seeing and that we expect to go on seeing, new customer activity is strong with many new customers signing up. We're seeing the industry embrace our edge intelligence platform, which really is adding a lot more capability to our customers in terms of understanding what's going on within the tunnels and read points they have in a warehouse, and those could be thousands of read points, so it's a very data-rich resource we're giving to customers.
+We're seeing more penetration of vision products, which is exciting to us beyond our traditional ID where we excel, but we want to go further. Nice momentum building in the parcel and post sector for our business. Although new capex and investment in that market isn't necessarily great. Our business is really -- we're starting to penetrate that sector and more exciting.
+And then emerging markets, especially in India, have a lot of potential for us overall. So, that's a little color on what we see overall.
+Tommy Moll
+--
+Analyst
+Thank you. And then for a follow-up, I wanted to ask about something you mentioned on the emerging customer initiative. I think I heard you say the first cohort hit the $1 million-a-week run rate in the third quarter. And if I heard that correctly, I'm just curious, what does that number need to be to hit the targeted 30% operating margin for this initiative? Thank you.
+Robert J. Willett
+--
+President, Chief Executive Officer, and Director
+Yes. I said almost $1 million per week, and that's correct. They did that. And then they're also referring significant business over to our account sales engineers who are closing vision business, etc.
+As we look at our models, it's some quarters before they break even and then start to add -- to reach that 30%. It's gross margin accretive to our target. So, the gross margin is great. The fall-through is great, as we see that.
+We've given you a sense in general and what we've invested in the program. Overall, there's a bit of attrition, obviously, as one would expect overall. So, I think we can all do the math together on kind of how that plays out. Dennis, I don't know if you'd like to weigh in.
+Dennis Fehr
+--
+Chief Financial Officer
+Yeah. Maybe first, I think we wanted to give you this number, right, that you have a bit of a sense where is, right? You also mentioned it's not a number which we want to provide on an ongoing basis. So, I think in a big picture, what we have typically said is that like in the first year's investment year, right, we hired them last year, we trained them this year. This year is the year for breakeven and next year is basically the year where we really want to see it to be accretive to our numbers.
+So, it's perhaps how you can think about the progression.
+Tommy Moll
+--
+Analyst
+Thank you both. I'll turn it back.
+Operator
+Thank you. Our next question comes from the line of Andrew Buscaglia with BNP Paribas. Please proceed with your question.
+Andrew Buscaglia
+--
+Analyst
+Hey, good morning, everyone. So, for the guidance for Q4 for gross margin, are you able to say -- is that similar to Q3 and more tech would be above 70%? Or is there any other color you can provide to help us out with that?
+Robert J. Willett
+--
+President, Chief Executive Officer, and Director
+Yeah, sure. I wouldn't give you a number on excluding Moritex, but I can talk you through a bit on the puts and takes here, right? So, if you take our Q3 '24 as a starting point, right, and we have benefits on the one side, right, we have one month less of Moritex? So, that's the percentage point on the positive side. But then on the other side, it's -- clearly, we also talked about where the growth is coming from. It's coming from Logistics.
+And then certainly, Q4 is typically the weakest quarter on Consumer Electronics. So, that means we have a headwind on mix. And then we have been talking also about the headwind on pricing, particularly in China. So, these are kind of the puts and takes from Q3 moving into Q4.
+Andrew Buscaglia
+--
+Analyst
+OK. So -- OK. And with the emerging customer initiative, are you assuming contribution in Q4? And then should we expect a number or another target for 2025 as $1 million a week would imply a pretty material number? So just wondering what your thoughts are in terms of the guiding that.
+Dennis Fehr
+--
+Chief Financial Officer
+Right. So, two things on that, right? First, we have been saying this $50 million run rate, not all of that is incremental, but we have been seeing have been continuous increase of bookings. In that regard, yes, absolutely, there a contribution baked into our Q4 guidance in terms of increased bookings coming out of the emerging customer initiative. And then second, when we talk about 2025, I think we think it's too early to talk about '25, right? So, we can talk about broader -- the market trends that we are seeing there.
+But in general, a bit early to call '25 at this moment.
+Andrew Buscaglia
+--
+Analyst
+OK. Thank you.
+Operator
+Thank you. Our next question comes from the line of Damian Karas with UBS. Please proceed with your question.
+Damian Karas
+--
+Analyst
+Hey, good morning, everyone. I was wondering if you might be able to just speak to us about the specific trends you're seeing at the regional level. I know you said kind of all regions were up in the quarter, but maybe you could just take us a walk around the globe and where you're seeing things looking potentially any better or any worse than previously?
+Robert J. Willett
+--
+President, Chief Executive Officer, and Director
+Yeah, I'm happy to do that. And I have circled the globe since we last spoke. So, I think I have some perspective on this. I think the Americas market is -- so overall, I mean, markets are tough, right? You look at the PMIs that we see overall.
+Generally, they're pretty weak on a global basis. And I think that's a good metric of what we see in markets and current feelings across really all the markets that we're serving. And that doesn't so much apply to other sort of growth areas like logistics and semiconductors that are really helping us. But everywhere else, it's weak.
+Very weak, I would say, overall. Americas, it's -- that certainly applies. You can see that, particularly negative sentiment in automotive, I would say, overall, other markets as sort of low but stable. I would characterize.
+In Europe, similar story, even more concern, I think, around automotive. We put up some pretty good results in Europe in the last quarter, and I think we probably gained some share there but helped a lot by our Logistics, the performance of our Logistics business. But the factory automation situation continues to be pretty weak there. China, we can go into that in a lot more detail if we're interested if others if you want to talk about it.
+But I think the market there has been weak for a long time. We've seen seven consecutive quarters of decline in our business, but we actually grew there last quarter and mostly as a result of the timing of electronics, but our Automotive business in China did grow last quarter. And I think we'll hear and see, and my experience having visited China this month is the automotive industry in China is strong, strengthening, and they have overcapacity, which means their vision investments aren't perhaps strong, but the overall market sentiment there in automotive is perhaps a little better than anywhere else. Japan might be a slightly better market overall, I think, helped by SEMI, helped by a weak yen.
+Certainly, we're we see some more positive sentiment there. And then probably the rest of Asia definitely is more of a growing market, but still a lot of tentativeness around what's going on in the world about the geopolitical situation. So, I think that would be a little bit of a color on how I would call the markets overall around the world.
+Damian Karas
+--
+Analyst
+That's really helpful. And Rob, you talked about some of the AI tools that you're building into your solution set. I'm curious if that's changing your pricing dynamics at all. Or maybe the best way to think about that is just as a means to get new customers on board or existing customers to refresh.
+And also, I'm just kind of curious to what extent AI might be driving an investment cycle for your customers, right? Like if I just think about Consumer Electronics, I presume a lot of those customer products are going to be evolving to become AI-enabled. So, kind of getting beyond the near-term CE pressures, how are you thinking about that?
+Robert J. Willett
+--
+President, Chief Executive Officer, and Director
+Great. Yeah. Thank you. So, what's going on in the world of AI, as we all hear about, is it's moving at a great pace.
+It's very exciting, the capabilities. I alluded to some in the -- in my opening remarks that really are taking very complicated problems that really weren't solvable by machine vision before or not economically solvable. And making them much easier to deploy, right? This is a very sophisticated technology overall, but what -- it is allowing us to serve more customers who can now apply our technology in a more robust way. And it's the beginning.
+There's a lot of very powerful technology coming to market. We're investing in it. We think we're ahead in that space based on the acquisitions and the investments that we've made and the caliber of our engineers. And it's something we have very, very clearly in our sights.
+I've met with some of the most sophisticated manufacturers in consumer electronics and other spaces over the last few months. And I think they're very excited about as we are about what we see the potential of this technology is. It does have the potential for us to broaden what we do and serve many, many more applications and to do so more cost-effectively with less engineering time spent by us or by our customers overall. And then as we've alluded to and continues to be true, this technology, it gets applied in a very powerful complex way.
+And I think of NVIDIA chips banging out huge data masses of data to accomplish tasks. And then we're very good at taking that technology and deploying it in a much more energy and processor-intensive way into embedded systems. And that's what we see more in lower price point products, selling what we call edge learning technology that can be trained on just a very few samples. And it doesn't have the power, but has, in some cases, quite close to the power of the products that we sell at the high end.
+So, that's something that we then will allow -- is allowing us to broaden our customer base. And that links very closely to our aspirations with the emerging customer segment, where we can take powerful technology that then over time, we learn how to make easy to deploy, to put on low-cost hardware and sell very broadly and broaden those customers away beyond the 30,000 toward the hundreds of thousands we aspire to. So, that's kind of the journey that we're on, and we're excited. But we also know the whole industry is moving fast in that direction, so we need to make sure we're innovating and staying ahead.
+Damian Karas
+--
+Analyst
+Absolutely. Thanks for all the color.
+Robert J. Willett
+--
+President, Chief Executive Officer, and Director
+Thank you.
+Operator
+Our next question comes from the line of Joe Giordano with Cowen and Company. Please proceed with your question.
+Unknown speaker
+--
+Cowen and Company -- Analyst
+Good morning. This is Michael on for Joe. So, earlier, you mentioned about $1 million per week sale cadence from that first cohort for the emerging customer -- excuse me, customer initiatives. And then like a certain degree of referral business.
+So, all this was hit despite, clearly, factory automation being weak, and that's like the primary end market for those types of customers. So, can you just give us a sense of what the revenue uplift would be in a more normalized market environment? Thank you.
+Robert J. Willett
+--
+President, Chief Executive Officer, and Director
+Yes. I wouldn't say it's a $1 million cadence. I'd say it's growing all the time, right? So, we've hired a team. We're getting them out and they're growing.
+And in the third quarter, they were selling almost $1 million per week. Our aspirations are for them to sell more and more as we move forward. And they are referring business, you're quite right. In terms of where that ends up, in terms of where we can get to and the potential of that, that's something that we're going to discover.
+But right now, we -- as we're looking at that hill and we're seeing our progress, we're pretty happy with what it is, but I can't give you more detail on that at this point.
+Dennis Fehr
+--
+Chief Financial Officer
+Right. Maybe to add -- I mean, what we also said is that in this quarter, we made changes that now these emerging customer Salesnoids also selling to existing customers. And therefore, not all of this revenue coming out of that is incremental, right? So, in that regard, keep that in mind when you think about that $1 million.
+Robert J. Willett
+--
+President, Chief Executive Officer, and Director
+Yeah. Yeah. And actually, to that point, I think it might be interesting. We gave you a concrete example of why we're doing that.
+We definitely have seen within our existing customers that we're just not making enough calls within them at deeper levels within and broadly enough within those existing customers. So, I was at one of the world's largest automotive companies in recent weeks. And I think it's kind of instructive as to who Cognex is. I was in there with the head of automation engineering in a three-hour meeting, discussing the application of advanced machine vision to robot guidance.
+Right? And just imagine those kind of videos you see on YouTube, right? OK. And a great meeting, I walk out of the meeting, and I noticed there's a cubicle outside with one of our competitors demoing vision sensors and ID products. And that's the place generally we haven't been at Cognex, and there's a lot of business in that space. And with the emerging customers calling at existing accounts, that's where we see we can get a big bang from the buck in addition to signing up these thousands of new customers were targeted.
+So, I hope you see that and perhaps you can also see why it's a little difficult for us then to pass and quantify what's incremental versus just pure sales of dollars.
+Unknown speaker
+--
+Cowen and Company -- Analyst
+Great. Thanks, guys.
+Operator
+Thank you. Our next question comes from the line of Jim Ricchiuti with Needham and Company. Please proceed with your question.
+James Ricchiuti
+--
+Analyst
+Hi. Thank you. I wanted to focus on the -- in the other category that you guys sometimes talk about, it's in your deck. SEMI, strength in semi, I wonder if you can talk to where you're seeing the strongest demand, particularly in light of concerns some people have about maybe a more modest recovery in the WFE market in the early part of 2025? And then also, I noticed you highlighted strength in the medical market, Rob.
+Maybe you could talk to what you're seeing there?
+Robert J. Willett
+--
+President, Chief Executive Officer, and Director
+Yeah. Hi, Jim. Happy to do that. Thanks for the question.
+So, yes, I mean, it is hard to call a long-term trajectory of semiconductor capex have been -- having been in that a long time as have you -- we know how that market is. I think there's a debate about are we in -- are we at the start of a super cycle or are we really -- are we in more of a cyclical position? We talk to machine builders. I'm not sure I have great visibility on that either, to tell you the truth. But we are seeing strong investment definitely and a lot around high-bandwidth memory, relating to a lot of chips for data centers overall.
+And I think just the quality of Cognex's technology in that space for precise alignment and inspection for traceability, for wafer probing for those type of applications, is very well recognized and good. So, we see that. And then our business with Moritex really -- and Moritex was a significant part of its revenue is in SEMI is giving us nice additional exposure to that market and cross-selling opportunities to sell optics or software where we were previously only selling one in, respectively, Cognex or Moritex. So, we like what we see.
+We're confident about what we're seeing at the moment in the near term. But next year, perhaps more difficult to call, as you note. The second part of your question asked about medical-related industries, which are about 10% of our revenue. They grew nicely in the third quarter.
+And although year to date has been down, I think what we're seeing is pretty consistent with what other players supplying into this industry are seeing, was -- there was just an overinvestment in -- by big machine builders around COVID, around kind of supply chain disruption that we've seen. It was kind of massive, I would say. And I think we've now seen that unwind. And I think we're probably going to be returning over the next few quarters to a much more normal cadence of spending and investment in collaboration with those kind of companies.
+We have great technology for them, and particularly our new edge learning tools and deep learning tools, I think, really are resonating very well with those customers who want to do a lot more inspection of medical samples and inspection of medical products to make sure quality is there to see color changes in test tubes and layers of fluid in test tubes and applications like that. We all know it's a very long sales cycle also. So, while they may have over-ordered for some of the existing customers, we expect new customers to come online, who we would think would be long-term customers in that space. And I do think probably as we look at the vision industry and we think kind of longer term, that the investment we're making in AI and the capabilities we're having, not everybody is going to be able to do that, right? So, certainly, as I meet with customers, particularly in the life science segment, there's potential reduction of players who can really meet the needs for what they want to do, and we're excited to be there.
+James Ricchiuti
+--
+Analyst
+Got it. Just a quick follow-up. Rob, it sounds like you were in China and spent a lot of time with customers. Just curious, I know it's early, but are you seeing -- are the customers that you talked to at all hopeful of stronger business just given some of the government initiatives to try to stimulate growth?
+Robert J. Willett
+--
+President, Chief Executive Officer, and Director
+Yeah. It's not obvious to me, Jim, that that stimulus impacts manufacturing per se. I think it's about -- probably more about the real estate market. But if it feeds back into consumer demand, then that obviously drives domestic consumption and manufacturing.
+And I don't think it's there yet overall. But as I mentioned, if you look at our overall business in China, it's been declining sequentially for seven quarters, but we did buck that trend in this quarter. Too early to say whether that is a turning point or really just year over year. I'm not talking about sequentially year over year.
+Yes. Anyway, so I think too soon to say is the answer to that question. But the market itself is weak, very weak compared to where it was. And there's a lot of excess manufacturing capacity, which is meaning not a lot of desire to invest in new automation or applications at the moment.
+And then in our own space, there are more local Chinese competitors who are getting stronger. They're gaining share, I would say, particularly versus European companies and some of the smaller Japanese players in that space. And as we think about our position in that market, we believe very strongly, it's important that we maintain share. So, particularly at the lower end of the market, simpler applications like simpler barcode reading.
+We're pricing just more aggressively in that market to make sure that we're maintaining share while we get our new products ready, which will be higher gross margin, and then we can be there with very, very competitive technology as we have as the market recovers. And then we tend to sell older generations of products at those lower price points to make sure that we're still maintaining share. But that is a little dilutive to our gross margin. And you'll see a little of that in the Q3 results if you look closely.
+James Ricchiuti
+--
+Analyst
+Yeah, that's very helpful. Thank you, Rob.
+Operator
+Thank you. Our next question comes from the line of Jacob Levinson with Melius Research. Please proceed with your question.
+Jake Levinson
+--
+Analyst
+Hi. Good morning, everyone. Rob, just on the Logistics business. I think we've heard some mixed signals from some of the players in that space, and it feels a little bottomed-out at this point after the post-COVID overhang.
+I know a few years ago, you had a pretty large concentration with an e-commerce customer that we all know well. You mentioned that you're making progress in post and parcel. And I mentioned a Korean e-commerce company. So, can you just give us a sense of how that business has changed over the last couple of years and maybe just the breadth of the customers that you have today versus a few years ago?
+Robert J. Willett
+--
+President, Chief Executive Officer, and Director
+Yes. So, I think -- I'm not sure I heard you correctly. If you said bottomed out, I would agree with that. I think that's kind of where we are, and we're now seeing a nice growth trajectory.
+And probably we have now for a few quarters. And that's building. That is really happening across all of our Logistics business, though, I would say, maybe for different reasons. I think the big e-commerce players are coming back and spending strongly and rolling out new generations of automation, and you can see that and what they're saying publicly.
+And we're right there with them, and it's very exciting. And then you see that even in the customers I mentioned out in Korea or in others overall. But then, yes, our more second tier of customers, smaller players, what we sometimes call our base logistics business. That definitely is signing up many new customers, and we're seeing a lot of nice business there.
+I think of a large -- a sort of an e-commerce company, not huge in terms of revenue, but playing in a niche, actually, a few companies like that, whether it's pet food or food delivery type businesses. Certainly, we're seeing a pickup in the number of customers we have in those spaces and the growth and investment that we're seeing. So, I think it's still quite early, I think, in the recovery. But what we're seeing in terms of activity, what we're seeing in terms of their response to our new products, which we've really spent a lot of time and investment in and are really now hitting their strides nicely is something we're encouraged by.
+And likewise, our parcel and post, a segment where we've been underrepresented. Well, I don't think the segment itself is exactly investing heavily. I don't. I think the -- if you look at the capex numbers from the big parcel players are kind of down is what they're saying.
+But we, ourselves, because our share was low and we have great technology now, we're seeing growth in that business for us, too. So, that's an overall picture for you.
+Jake Levinson
+--
+Analyst
+OK. That's helpful. Just pivoting quickly on semiconductor. I feel like that's -- that was the original machine vision market, I suppose, way back when, but as I understand it, a lot of those customers brought those capabilities in-house a long time ago.
+It's not a market that I think we've heard a lot about from you folks in the last couple of years. But what's changed? I mean, have you just had success? And you mentioned the machine builders, have there been other portions of that market where you've been able to make inroads over time?
+Robert J. Willett
+--
+President, Chief Executive Officer, and Director
+Yeah. I think -- gosh, we just stopped our history books. At Cognex, we go about 30 years, for sure. I think directionally, I think I'm right in saying that in the late '90s, 70% of our business was in Japan, and it was almost all semiconductor.
+So, things have changed a lot. And you're right, a lot of those capabilities were brought in-house in the late '90s. But the Cognex technology is great, and we have -- they rely on us to do very difficult tasks that no one else can do, and they have spec-ed into their machines in a market that generally doesn't change providers of technology very easily and more of a copy exact kind of mentality. So, we benefit from that in a lot of areas have been inspection and code reading through the wafers and other difficult material for high-speed pick and place and align-type things that just we do better than anybody in the world and work really closely with those big machine builders.
+So, generally, our business with them is going to kind of move with their own sales. It's kind of -- it's a market-driven thing where we are spec-ed in. And then we see --and we are seeing opportunities to sell newer technology, particularly around the application of deep learning. Some of the factors I talked about when I talked about AI and what it can do, which can, in many cases, be incremental business into similar applications that can be done more effectively, require less engineering or so.
+So, overall, it's a relatively small number of customers compared to what we see in the rest of our business. Our share is long-term and good with them. And we're seeing just the quality of our technology and the demand for their products really leading to some nice growth for us.
+Jake Levinson
+--
+Analyst
+Great. Thank you. I'll pass it on.
+Operator
+Thank you. Our next question comes from the line of Rob Mason with Baird. Please proceed with your question.
+Rob Mason
+--
+Analyst
+Yes. Good morning. Hopping between calls here, so apologies if this has already been addressed. But Rob, I heard your commentary opening up around Automotive.
+Taking an incremental step lower, it sounded like. I'm just curious where you think that is in terms of the market bottoming. And what potentially could be a catalyst there to see investment flow back? Does it just need to be redirected back toward more traditional? Or are you still going to be relying on EV to drive that?
+Robert J. Willett
+--
+President, Chief Executive Officer, and Director
+Yeah, Rob. I think it's -- I think the market is -- looks very weak, and sentiment in the market is very weak. So, we're not -- certainly not expecting a recovery in that market anytime soon. It will recover, right, but not that soon, I think.
+I think as we might segment by region and applications. So, I think the companies I've spoken to in America and Europe are really feeling quite burned by their investments in EV that they haven't really come through for them, right? And I think we probably all know that. I think they built infrastructure to supply perhaps hundreds of thousands of EV. I'm thinking of a Tier 1 supplier I met with recently who I've made very big investments to supply one of the biggest automotive companies in the world with hundreds of thousands of a particular area, and it's really just tens of thousands, and they put capital into that, and it's painful for them.
+And I think sometimes with different pricing where you want to play in the EV space, you've got to price lower because it's the future, right? So, I think I heard quite a lot of that in Europe and America. And so, I think rebuilding around that when the EV supply -- EV demand isn't there, right? And we will read a lot about that, the lack of charging infrastructure, the lack of range, the reasons Western cost -- the reason that Western consumers aren't buying EVs. That will change at some point, but I don't think in the near term, right? Because I do think in the long run, the technology will be superior, and I think it will be driven and adopted. But it's going to take time.
+And where will it happen then becomes the next question, right? So, I think as I'm in China, in short, you hear those people who go to China and see it's a very different picture there. It's really great movement in EV. EVs are being adopted and embraced by consumers and driven by the government there. And if you look at our own business, we did actually see some growth in the EV business in the last quarter while we saw the rest of the sort of the non-EV business slow down.
+So, that's -- those are the dynamics that I think are in China and are going to continue. But there is an overcapacity in automotive in China. So, I think that has to be consumed first. And then I think the other sort of other countries that are big in automotive, one thinks of Japan and Korea.
+I think they're more -- they've been faster or perhaps they've just been maybe fast cross lower, in some cases, and they're more in the hybrid mode. And I think that's really paying off well for them now. So, I think where you might see some better results out of -- particularly out of Japanese companies, it's because they've been a little more thoughtful and cautious. And they have great use for our technology, but it's early days in terms of how they're applying it more to inspection or other aspects of batteries and other newer energy technologies that they have under development.
+So, I've said a lot. But overall, it's a pretty mixed picture, but we're not optimistic next year or at least for the next few quarters in terms of Automotive.
+Rob Mason
+--
+Analyst
+Understood. OK. And just real quickly, just -- I know it's, again, a challenging market backdrop, as you noted, but you introduced some newer 3D vision products this year. I'm just curious, what the sense of uptake has been there?
+Robert J. Willett
+--
+President, Chief Executive Officer, and Director
+Yeah. We launched an excellent product, the first product ever to bring AI to 3D, an industrial 3D system. We launched it in April. We're happy to see the growth that's going on in that, and we think very much, it has very significant opportunity from here.
+So, it's something we're pleased about. It's a good example, I think, of us launching new products, high gross margin products, high growth potential. We hope to do a lot of that next year and sell them through what is a larger sales force to many more customers. And I think we're a little low on time.
+Maybe that's a good note to end on. Thank you. So, I'll -- operator, I'm going to wrap up. I'm just going to say to everybody, I really, really appreciate you joining us this morning and your questions, and we look forward to seeing you again on the next quarter's call.
+Thank you.
+Operator
+[Operator signoff]
+Duration: 0 minutes

@@ -1,0 +1,349 @@
+Operator
+Good afternoon, and welcome to the Elastic fourth quarter fiscal 2024 results conference call. All participants will be in listen-only mode. [Operator instructions] After today's presentation, there will be an opportunity to ask questions. [Operator instructions] Please note, this event is being recorded.
+I would now like to turn the conference over to Anthony Luscri, vice president of investor relations. Please go ahead.
+Anthony Luscri
+--
+Vice President, Investor Relations
+Thank you. Good afternoon, and thank you for joining us on today's conference call to discuss Elastic's fourth quarter fiscal 2024 financial results. On the call, we have Ash Kulkarni, chief executive officer; and Janesh Moorjani, chief financial officer and chief operating officer. Following their prepared remarks, we will take questions.
+Our press release was issued today after the close of market and is posted on our website. Slides, which are supplemental to the call, can also be found on the Elastic investor relations website at ir.elastic.co. Our discussion will include forward-looking statements, which may include predictions, estimates, or expectations regarding the demand for our products and solutions and our future revenue and other information. These forward-looking statements are based on factors currently known to us, speak only as of the date of this call, and are subject to risks and uncertainties that could cause actual results to differ materially.
+We disclaim any obligation to update or revise these forward-looking statements unless required by law. Please refer to the risks and uncertainties included in the press release that we issued earlier today, including the slides posted on the investor relations website and those more fully described in our filings with the Securities and Exchange Commission. We also discuss certain non-GAAP financial measures, disclosures regarding non-GAAP measures, including reconciliations with the most comparable GAAP measures can be found in the press release and slides. The webcast replay of this call will be available on our company website under the investor relations link.
+Our first quarter fiscal 2025 quiet period begins at the close of business on Wednesday, July 17th, 2024. We will be participating in the Bank of America Global Technology Conference and the Baird Global Consumer Technology and Services Conference during the week of June 3rd, and the Mizuho Technology Conference and the Rosenblatt Technology Summit during the week of June 10th. With that, I'll turn it over to Ash.
+Ash Kulkarni
+--
+Chief Executive Officer
+Thank you, Anthony, and thank you, everyone, for joining us on today's call. Elastic delivered yet another strong quarter and a great finish to the fiscal year. We once again outperformed against our guidance on both revenue and profitability metrics. In Q4, revenue grew by 20%, and cloud revenue grew by 32%, and we delivered an operating margin of 9%.
+We also continued to execute on our land, expand and consolidate motion, and we grew the number of customers spending over $100,000 with us to over 1,330. A year ago, we kicked off FY '24 by releasing our Elasticsearch relevance engine, including our vector database and our sparse encoder model, ELSER. Throughout this past year, we continued to strengthen our position as the platform of choice for building real-time generative AI or GenAI applications. And I'm happy to share with all of you that we now have well over 1,000 distinct paying customers using our vector database and retrievable augmented generation, or RAG, capabilities for building GenAI applications.
+I'm particularly pleased with the strong GenAI adoption we are seeing among our largest customers with more than 145 of our customers with annual contract values of over 100,000, already using our GenAI capabilities. The number of GenAI customers in this category has more than tripled in the last year, and this represents the fastest pace of adoption we have seen for any new major capability we have introduced in the past. We believe that in time, every organization, big and small, will leverage the power of AI to transform their businesses. This is a significant market opportunity for us that will play out over the long term.
+Every customer interaction I had in Q4 involved customers actively seeking to explore and use GenAI for business benefit. Our customers are using GenAI to improve all kinds of business processes and to transform customer and employee experiences. This includes customers from newer digital native companies like Roboflow to more mature enterprises, including some of the largest companies in the Fortune 100. Roboflow is using the Elastic platform at a tremendous scale for building innovative GenAI applications.
+The Roboflow platform is used by hundreds of thousands of engineers to create data sets, train models and deploy computer vision models in production. Roboflow uses the Elastic vector database to store and search billions of vector embeddings at extreme speed. In Q4, within the enterprise segment, one of the world's largest financial services institutions expanded with a multiyear eight-figure deal with Elastic. The company uses Elastic for search and observability in a center of excellence with multiple use cases across the business.
+The company is now using Elastic's vector search capabilities in a strategic new application to provide highly accurate AI-based real-time recommendations for wealth managers to support the organization's most valuable clients. Not only will clients receive better service from wealth managers but the managers will be able to double the number of clients that they can support. The company chose Elastic over other vendors for this new generative AI use case because of our innovative technology, superior time to value, and their ability to use existing in-house expertise in technology to quickly deploy this cutting-edge interactive application. Another example is a large international electronics company in Asia, which expanded their existing use of Elastic and chose Elastic for vector search and retrieval augmented generation, or RAG, to power their internal employee support system.
+The new LLM-based Q&A system for the semiconductor division is expected to improve both employee productivity and product quality. Another large global financial services company signed an expanded deal this quarter to use Elastic's GenAI capabilities for bank policy search, helping all employees find and understand the organization's complicated, interconnected regulatory policies and procedures. This will increase efficiency and productivity across the business, as well as help improve the overall regulatory posture. As the search AI company, Elastic is uniquely positioned to help our customers capitalize on the transformative possibilities that generative AI brings.
+We bring together the precision of search and the intelligence of AI, so customers can build innovative applications. The strong and sustained adoption we are seeing for our GenAI capabilities and our continuing pace of innovation that expands our competitive moat in this area reinforces our confidence in our ability to be a long-term beneficiary of the massive wave of business transformation being brought about by GenAI. In the areas of observability and security, we are helping customers harness the power of search AI to make their organizations more resilient by bringing more intelligence and automation to their observability and security solutions. In Q4, our AI strength, including our AI assistance, for observability and security continued to help us displace incumbent observability and security vendors and consolidate customers onto the Elastic platform.
+As customers look to consolidate onto a few platforms to reduce costs while increasing their pace of innovation with AI, Elastic has continued to be a beneficiary. Thanks to our relentless focus on innovation, and our obsession with customer-centricity. For example, one of the largest global providers of insurance, annuities, and employee benefits signed a new deal for Elastic Cloud on Azure. The company consolidated multiple tools onto Elastic as part of its AIOps strategy, allowing teams to be faster, more efficient, and more accurate.
+Elastic was chosen over competitors because of our ability to ingest any kind of data, aggregate and correlate all data on one platform, as well as automate observability using the Elastic AI assistant. Now turning to products. In Q4, our team continued to deliver some highly anticipated capabilities to further expand our competitive moat in the areas of search, GenAI, observability, and security. We launched a first-of-its-kind Search AI Lake and announced the technical preview of our new Elastic Cloud Serverless offering, which is built on top of the Search AI Lake architecture.
+Data lakes in the past offered low-cost, durable data storage, but there was a compromise when it came to speed and the ability to search for relevant information across all of the data in the lake in real time. This has historically inhibited the use of data lakes for real-time applications. Elasticsearch AI Lake is a significant innovation that addresses this need. It's an exabyte scale, cloud-native architecture with built-in search and vector database capabilities.
+It is optimized for real-time low-latency applications, including RAG, observability, and security. Our Search AI Lake and the technical preview of our serverless offerings are currently available on AWS. Over the next couple of quarters, we plan to expand this offering to all three major cloud hyperscalers and across the major geographical regions, at which point we will make this offering generally available. We see this as an exciting new chapter for Elastic Cloud as it greatly simplifies the overall user experience, and we expect this to be a growth driver for cloud in the coming years.
+In the area of search and GenAI, we delivered several new capabilities to further differentiate our offering, starting with significant enhancements to Elasticsearch open inference API. These additions include integration with Cohere's vector embedding and Reranking APIs, as well as the embedding API for open AI on Microsoft Azure. We also delivered improvements to our core vector database, including concurrent multi-segment graph search and native code optimizations that contributed to significant improvements to vector search query speed. We released vector search optimized instance types on both Google Cloud Platform and Microsoft Azure, completing our effort to support optimized hardware profiles on all three hyperscalers.
+We also released native support for custom learn to rank models, allowing customers to deploy trained models that improve search relevance based on user behavioral data directly in Elasticsearch. In addition, Microsoft announced that Elasticsearch was added as an officially supported vector store and retrievable augmented search technology for Azure OpenAI service on your data. Similarly, Red Hat also announced their support for Elasticsearch as an officially supported vector store in OpenShift. In the area of observability, Elastic has become a platform of choice for customers who are standardizing on open telemetry.
+Earlier in FY '24, we donated the Elastic Common Schema, or ECS, to the Cloud Native Computing Foundation, or CNCF's open telemetry project as its standard schema for logs. And now we've open sourced our profiling agent under the Apache two License and contributed it to CNCF, pending their approval. Additionally, we also delivered support for AWS Bedrock and the Anthropic Claude 3 model in our observability AI assistant, improving the overall AI assistant experience and increasing choice for our customers. In security, we unveiled our newest innovation, Attack discovery, powered by search AI at the RSA Security Conference.
+Attack discovery correlates, enriches, sits through, and prioritizes actionable intelligence from a flood of alerts using the unique RAG capabilities of our platform, significantly reducing the effort SOC analysts have to put into the alert triage and investigation process. It presents the user with an attack view that focuses on the few relevant attacks that matter as opposed to the underlying alerts, which can have way more noise than signal. On average, SOC teams received thousands of alerts daily and spent many hours manually triaging these alerts, leaving a significant portion of potentially critical threats to slip through attacks. By leveraging Elastic's AI assistance, Attack discovery, and other AI-powered ways to remediate or prevent issues, we enable security practitioners to do their jobs more efficiently, while helping our customers remain resilient with less cost and less effort.
+Our customers have told us that they see this patent-pending innovation as a true game-changer for the SOC. The SIEM space is evolving again, this time to an AI-driven security analytics platform, and we are leading the charge in this evolution. Lastly, in security, Elastic Security Labs also delivered our LLM safety assessment, along with detection rules to help customers protect themselves from prompt injection attacks and other threats to the secure adoption of large language models and other GenAI technologies. In closing, I couldn't be more proud of our team and the consistent way we have executed on our strategy while managing the business with discipline throughout FY '24.
+We continue to strengthen our position as the platform of choice for building real-time GenAI applications, and we see increased momentum as customers displace incumbent solutions and consolidate onto Elastic for more and more use cases. Our customers, partners, and the developer communities are what drive our focus and fuel our innovation. As the search AI company, Elastic is exceptionally well positioned to take advantage of the transformative technology shift that generative AI is ushering in. With that, I'll turn it over to Janesh to go through our financial results in more detail.
+Janesh Moorjani
+--
+Chief Financial Officer
+Thanks, Ash. Q4 was a great finish to the year, continuing our momentum of strong execution. I am pleased that we once again exceeded the high end of our guidance across all measures. As in prior quarters, we continue to see a number of customers consolidate onto the Elastic platform to realize strong business value and innovation, and we had yet another quarter of healthy cloud consumption.
+Total revenue in the fourth quarter was $335 million, up 20% year over year as reported and in constant currency. Subscription revenue in the fourth quarter totaled $311 million, up 21% year over year as reported and in constant currency. Within subscriptions, revenue from Elastic Cloud was $148 million, growing 32% year over year as reported and in constant currency. Elastic Cloud represented 44% of total revenue in the quarter.
+We continue to see consumption patterns similar to the prior quarter. While we are not seeing the level of focus by our customers on optimization that we experienced some quarters ago, cost consciousness and operational efficiency remain important themes for them, which continues to be a reason why customers are picking Elastic as their preferred platform to consolidate workloads. Elastic Cloud revenue based on month-to-month arrangements came in at 14% of total revenue. As we've shared before, Elastic Cloud revenue based on month-to-month arrangements is driven mainly by a self-service motion in the SMB segment, which remains challenged.
+Professional services revenue in the fourth quarter was $24 million, growing 1% year over year as reported and in constant currency. Although professional services may fluctuate across quarters based on the timing of services delivery, we do not expect it to vary significantly in mix over time. To add more context around deal flow during the quarter, we saw a healthy balance across our solutions and continue to maintain a similar solution mix in annual contract values versus the prior quarter. The quarter's strength was also balanced across geographies where EMEA grew the fastest, followed by the Americas and APJ.
+Customers continue to make strong multiyear commitments to us, reflecting their preference for Elastic as we consider platform consolidation and reflecting our increasing relevance to their business. We also saw a higher volume of early renewals than we typically see in Q4, reflecting continued customer confidence and commitment to our platform. As a reminder, early renewals do not impact the timing of revenue recognition, so there was no revenue benefit from this in the quarter. Our strategy of focusing on customers with a higher propensity for growth is working as evidenced in our customer metrics.
+We ended the fourth quarter with over 1,330 customers with annual contract values more than $100,000. We are pleased with this quarter's customer additions in the greater than $100,000 category as these larger customers provide a strong foundation for our land and expand motion as we build a multibillion-dollar company over time. The strength of this motion is also reflected in the number of customers over $1 million in annual contract value, which was over 165 customers at the end of fiscal '24 compared to over 140 such customers at the end of the prior year. As a reminder, we generally provide this data point of customers over $1 million ACV annually.
+Looking at customer additions more broadly, we ended the quarter with over 4,370 customers above $100,000 in ACV and approximately 21,000 total subscription customers. Our net expansion rate was approximately 110%, which was in line with our expectation for the quarter. As you know, this is a trailing 12-month measure and the effects of the consumption optimization headwinds that impacted some of the prior quarters have now largely abated. Now turning to profitability and cash flow for which I'll discuss non-GAAP measures.
+Gross margin in the quarter was 76.6%, in line with our expectations. Our operating margin in the quarter was 8.6%, which was better than expected, driven by our revenue outperformance. Diluted earnings per share in the fourth quarter was $0.21. Free cash flow margin on an adjusted basis was 18% or approximately $60 million in the fourth quarter.
+We ended the year with adjusted free cash flow of $169 million, which was a substantial improvement against the prior year, consistent with our overall operating profitability improvement. Finally, though we don't formally guide to cash flow, we are expecting adjusted free cash flow margin for fiscal '25 to be slightly above the non-GAAP operating margin for fiscal '25. This is similar to what we experienced in fiscal '24. Cash flow on a quarterly basis will fluctuate given timing issues and seasonality, so we continue to look at this primarily on a full year basis.
+Turning to guidance. As we look into fiscal '25, we remain focused on execution and believe that we are well positioned for long-term growth and profitability. Our guidance philosophy remains unchanged from fiscal '24. We remain prudent in the near term and assume that current business conditions will remain stable.
+Our sales strategy remains focused on the enterprise and commercial segments where we continue to believe that offering customers the choice on whether to deploy on-premise or in the cloud is a competitive differentiator for us. Accordingly, we expect continued momentum across both self-managed and annual cloud subscriptions depending on customer preference. As Ash mentioned, we are seeing strong customer interest around generative AI use cases and continue to believe this will be a significant growth driver for us in the long term. This market opportunity is significant for us, but customers are still in the early stages of the adoption cycle.
+While we anticipate continued growth in fiscal '25, we are not modeling significant revenue contribution from GenAI this year. As we've shared before, fiscal '25 will be a year of focused investment for us as we reinvest some of our natural operating leverage back in the business, in particular toward the GenAI opportunity. These investments will be focused on engineering, sales, and marketing activities. With that background, for the first quarter of fiscal '25, we expect total revenue in the range of $343 million to $345 million.
+This represents 17% year-over-year growth at the midpoint, both on an as reported basis and in constant currency. We expect non-GAAP operating margin for the first quarter of fiscal '25 in the range of 9.2% to 9.4% and non-GAAP diluted earnings per share in the range of $0.24 to $0.26, using between 105.5 million and 106.5 million diluted weighted average ordinary shares outstanding. For full fiscal '25, we expect total revenue in the range of $1.468 billion to $1.480 billion. This represents 16% year-over-year growth at the midpoint, both on an as-reported basis and in constant currency.
+We expect non-GAAP operating margin for full fiscal '25 in the range of 11.7% to 12.3%, and non-GAAP diluted earnings per share in the range of $1.35 to $1.47, using between 107 million and 109 million diluted weighted average ordinary shares outstanding. In summary, we are confident that we are still in the early stages of our growth journey. We are pleased with our strong performance in fiscal '24 and are confident in our outlook for the first quarter and fiscal year. And with that, let's go ahead and take questions.
+Operator?
+Questions & Answers:
+Operator
+We will now begin the question. [Operator instructions] Our first question today is from Matthew Hedberg with RBC Capital Markets. Please go ahead.
+Matt Hedberg
+--
+RBC Capital Markets -- Analyst
+Great, guys. Thanks for taking my questions. Congrats on the results. So, obviously, this is a tough selling environment, but really good to see the Elastic Cloud acceleration.
+And I guess for either of you, there's been a lot of convergent or divergent data points on consumption companies recently. Even tonight, a database vendor had some divergent results here. You guys are delivering strong Elastic Cloud results. And it also doesn't seem like GenAI is much of a tailwind for you.
+So, I'm kind of curious if you could provide a little bit more color on sort of the consumption trends that you're seeing that seem a bit more favorable than others. And maybe why is that impacting your model maybe differently than others?
+Ash Kulkarni
+--
+Chief Executive Officer
+Yeah, hey, Matt, thanks for asking the question. This is Ash, I'll get started and then ask maybe Janesh to add to it. But just in terms of the overall consumption environment, and what we saw in Q4 was largely that consumption was steady. Customers were continuing to consume, increase their consumption toward the commitments that they've made.
+And as we've explained in the past, our model tends to be that we sell commitments for customers related to specific projects, and those commitments, the consumption ramps toward it. And we saw that happening quite nicely. The fact that we have been able to win competitive opportunities where we are displacing incumbents because of the innovations that we've been driving, especially in the areas of observability and security, and the fact that when it comes to search, we have a very strong position. In search, I'd argue is more important now than ever before because of GenAI and everything that's happening there.
+So, the consumption trends that we saw were very steady based on everything that we had seen through Q4, not that different from what we saw in Q3. I don't know what others have reported. I haven't had a chance to look at it, but we were quite pleased with how Q4 played out.
+Janesh Moorjani
+--
+Chief Financial Officer
+I think that sums it up nicely, Ash.
+Matt Hedberg
+--
+RBC Capital Markets -- Analyst
+Maybe just a follow-up then. Janesh, it sounds like you're not really baking in much revenue contribution from GenAI, yet Elastic Cloud continues to accelerate. I guess when we think about the full year growth for fiscal '25, how are you kind of thinking about the progression of Elastic Cloud into this year? And maybe when might we actually see GenAI tailwinds given that it sounds like you already have 1,000 paying customers using vector and RAG?
+Janesh Moorjani
+--
+Chief Financial Officer
+Yeah, Matt. So, the way I think about it as follows. If I think about fiscal '24, the year played out really nicely for us. And we're very confident in our outlook for this year.
+To start with, as I think about the overall guidance framework and philosophy, we've not changed that from prior quarters. So, we continue to guide based on what we know and maintain that prudent stance. As you've seen, we initiated guide for the full year at 16% at the midpoint compared to the 19% we just reported for the full fiscal year '24. If I think about the breakdown of that, we'll expect that we will see momentum in both self-managed, as well as cloud depending on customer preference.
+Fundamentally, when we think about the progression in each of those, that's driven by customer choice, and we think that's actually a competitive differentiator for us in terms of our ability to offer that choice. Also, in terms of the guide, we are not assuming meaningful revenue upside from GenAI either in self-managed or in the cloud. If I think about it from a segment perspective, our sales strategy continues to be focused on the enterprise and commercial segments where we are continuing to see a strong growth of cloud annual subscriptions. And the SMB segment, which we serve, as you know, through our self-serve monthly cloud offering, we're expecting that that will remain challenged from a macroeconomic perspective.
+So, I think those are some of the general puts and takes. And in terms of GenAI, we said, we continue to expect to see progression there, but we're not modeling any significant inflection at this point. I think that's a longer-term play for us.
+Matt Hedberg
+--
+RBC Capital Markets -- Analyst
+Thanks, guys.
+Operator
+The next question is from Brent Thill with Jefferies. Please go ahead.
+Brent Thill
+--
+Jefferies -- Analyst
+Ash, just a follow-up on Matt's question on the demand environment. I mean it seems like something's going on in the industry. You've seen in the best of front office, back office, and what you saw with Mongo, there seems to be an air pocket in demand. And I think everyone's scratching their heads trying to figure out what's happening.
+One of the explanations maybe that AI is causing some type of investigation or pause. And clearly, it seems like you're benefiting to some degree from that. Though I guess, just if you had to sum up the conversations with your clients and what you're hearing around the demand environment and are seeing a sudden change in budgets because there's a pretty clear signal that's coming through the software industry, as Matt said, you're not seeing it?
+Ash Kulkarni
+--
+Chief Executive Officer
+Yeah, Brent, thanks for the question. And the way I'd characterize it is the demand environment really felt stable throughout Q4. And customers are really focused on generative AI and how they can leverage in their business. And you can see it in the kinds of use cases that they are trying to apply generative AI toward.
+I talked about some of the use cases, the large Fortune 100 bank that's using generative AI for improving the experience for their high-net-worth individual clients. All of these are designed to improve their efficiency, improve the kinds of customer experiences that they deliver. So, there's real value there and they're trying to make sure that they can fund those, they're funding those initiatives. And it is definitely taking a lot of mind share.
+In terms of the level of optimization and stuff that we had seen in the past, those have, like you've said, leveled off, but cost consciousness and operational efficiency remains important themes for customers. And for us, we actually have been leaning into it. And we've talked about this in the last many quarters. We lean into it because we believe that we are able to offer the innovations that we deliver based on our generative AI capabilities, both in search for GenAI but also how we apply that toward observability and security.
+And I've talked about that in my prepared remarks and how we are really changing the game in security. All of those are helping us compete better. They're helping us deliver greater value to customers at a better price. It's helping us displace incumbents, and we are benefiting from some of these things that are happening.
+But definitely, apart from the SMB area, whereas Janesh said, that has remained flat. It has been flat for a few quarters now. We are seeing the benefit of our ability to drive differentiation at a better cost among our customer base.
+Brent Thill
+--
+Jefferies -- Analyst
+Thanks, Ash and Janesh, just a quick follow-up. Just when you think about the 16% growth you gave for the year, are you embedding a little more headwind from macro and uncertainty in SMB slowdown? Any change in assumptions or conservatism in terms of how you're setting that guide point?
+Janesh Moorjani
+--
+Chief Financial Officer
+Yeah, Brent, the way I'd characterize it is that we've learned over the last couple of years that when customer spending priorities are shifting, it's really important for us to stay very close to them. That's exactly what we are doing right now with our sales and customer success teams. And it's also really important that we maintain prudence in our outlook and that prudence is reflected in our guidance. So, we're going to continue to monitor things carefully as we move forward.
+But at this point, we feel good about our outlook, and we'll obviously update you as we go.
+Brent Thill
+--
+Jefferies -- Analyst
+Thank you.
+Operator
+The next question is from Pinjalim Bora with J.P. Morgan. Please go ahead.
+Pinjalim Bora
+--
+JPMorgan Chase and Company -- Analyst
+So, great, thanks for taking the questions and congrats on the quarter, guys. Ash, I want to ask you obviously, you're seeing a great uptake of the GenAI capabilities. Can you talk about the ROI that people are seeing around kind of the vector search? When we have done our own research, it seems like when you move Elasticsearch to vector search, the cost shoots by a lot, somewhere around 20x to 30x. So, wondering, anecdotally, what are you hearing around ROI in general? And if people are leaning more on sparse encoding versus dense?
+Ash Kulkarni
+--
+Chief Executive Officer
+Yeah. So, Pinjalim, thanks for the question. We are seeing usage of both sparse encoded models like our ELSER model, but also the use of dense vectors. And what we are seeing is that the projects that are getting funded at least initially many of them are related to improving efficiency in the processes that involve supporting, supporting either customer, supporting both internal and external customers.
+The Fortune 100 bank that I talked about what they are trying to drive is a faster way to deliver precise information on what's happening that affects the portfolios of their high-net-worth individual clients as quickly as possible. It's enabling them to reduce the number of -- the time that it takes for their internal employees to provide that kind of information to clients. In effect, per wealth manager supporting more number of clients, but also the overall experience becomes better. So, when you look at those kinds of dynamics, the overall cost does tend to be more favorable, although you're spending more on the technology and those are the kinds of projects that we are seeing.
+And we've had customers, whether it was Cisco or OCBC Bank, Stack Overflow, customers that I mentioned in past calls that have presented at our Elastic conference events and talked about the specific metrics and benefits that they have seen and a lot of them had clear ROI. So, that's what we are seeing as a trend. Obviously, more and more customers as they go through that journey of ramping up their use cases, we expect that we'll see greater and greater benefits and that will show up in revenue over time for us. But it's really exciting, and I'm very excited about the adoption that we have seen, especially among our over 100K customer cohort because that's the customer cohort that effectively are some of our largest customers.
+And as they adopt our GenAI capabilities, that's going to be very, very meaningful for us in the long run.
+Pinjalim Bora
+--
+JPMorgan Chase and Company -- Analyst
+Yes. Understood. One follow-up for Janesh. Janesh, this is more of a hypothetical question on the guidance.
+But I look back in your numbers, fiscal '23 RPO exited the year at 17% growth in constant currency. And you did 18% in revenue growth in constant currency in fiscal '24. Seems like RPO is accelerating exiting fiscal '24 now, but the revenue growth seems to imply a deceleration. So, maybe talk about that dispersion.
+And is there any reason because of which you might be longer duration that's driving RPO maybe? But is there any reason that revenue growth will not directionally follow ARPU this year?
+Janesh Moorjani
+--
+Chief Financial Officer
+Yeah, Pinjalim, I'm happy to talk about that. So, there's a couple of things to consider as you think about the RPO performance. One is maybe just as a starting matter. The Elastic Cloud from month-to-month arrangements that we talked about that is more heavily weighted toward SMB, where there continues to be a greater degree of macro pressure.
+That part of the business does not have any RPO in it. And so that's one piece to naturally consider in the model. I think the other piece that I would also just highlight, I touched on this a little bit during the prepared remarks that we did see a slightly higher volume of early renewals here in Q4 than we generally see in any other Q4. And that's just reflects continuing customer confidence and commitment to our platform and that was a little bit more than $15 million above what we typically see.
+And most of those contracts were due in Q1. In some instances, I think those were related to the single-digit price increase for our self-managed products that went into effect in May. Some customers wanted to lock those lower prices in and they renewed early, and that's obviously something that we had anticipated when we announced the price increase. And just as a reminder, I mentioned this on the call, on the script as well that early renewals, they do not impact the timing of revenue recognition.
+So, there was no revenue benefit from that in the quarter, and it doesn't change anything for revenue for fiscal '25 either. The other thing I would point out in Q4 is that we saw a very strong multiyear commitments. Many of these are new and renewing customers and they all elected to sign multiyear contracts with us. And these multiyear commitments are obviously super valuable to us because they create long-term commitments, but those don't necessarily translate into revenue in fiscal '25.
+So, those are some of the things that I would call out as you're thinking about RPO and the connection of RPO to revenue.
+Pinjalim Bora
+--
+JPMorgan Chase and Company -- Analyst
+Got it. Very helpful. Thank you.
+Operator
+The next question is from Tyler Radke with Citi. Please go ahead.
+Tyler Radke
+--
+Citi -- Analyst
+Yes, thanks. Thanks for taking the question. Janesh, just following up on the price increase side of the equation, can you just talk about what you're embedding in for the full year? And then I know you recently released the technical preview of serverless. If you could just talk about to the extent that serverless and different pricing models in cloud are being considered in the guide as well? Thank you.
+Janesh Moorjani
+--
+Chief Financial Officer
+Thanks, Tyler. So, maybe I'll start off with the first piece, which was the self-managed price increase that we did. And for those that may not be familiar with it, we did raise prices for our self-managed products actually starting this month. It was a single-digit percentage increase and based primarily on all the technology enhancements that we've delivered in the platform.
+That's not a meaningful driver of revenue in the near term for a few reasons. First off, it's obviously limited to self-managed only, and it is a single-digit percentage increase, so it's not that substantial. And also, it will start to come into renewal contracts only at the time of renewal. And given that we signed a number of multiyear contracts, not all of those will be due here in fiscal '25.
+And then, of course, you have the revenue recognition waterfall on top of that. So, it's not a significant impact to revenue, but we do continue to deliver tremendous value to our customers who are willing to pay for the value that we bring to them and the price increase was a reflection of that and eventually will play out in revenue over the longer term. In terms of serverless, serverless is going to go GA only later this calendar year. And as a reminder, serverless does not replace the hosted offering that we have today.
+It's an additional offering. So, we expect that the adoption of that will be gradual and over time, will again play into the model. So, we've not baked in any meaningful upside from serverless either at this point in time in the revenue guide.
+Ash Kulkarni
+--
+Chief Executive Officer
+Yes. And Tyler, just to add to that, in terms of serverless, we believe that it gives more choice to customers, right? So, the current Elastic Cloud offering, what we'll end up calling Elastic Cloud Hosted, we'll continue to have the pricing model that it has today. It allows customers to have more control over their Elasticsearch, the store itself and the technology itself. With serverless, it's even more fully managed offering.
+And it sits on top of the search AI Lake that I talked about. And the pricing model there will also be consumption-based, but it would be based on metrics that we have seen from customers that they are interested in seeing from us in terms of pricing based on the amount of data ingested and the amount of data stored and queried. And so, it's more choice for customers. It's going to unlock more types of workloads.
+It's going to give them more flexibility to optimize those workloads in ways that really allows them to do more and more with Elastic. So, I'm very excited about what that's going to mean for the long term for Elastic Cloud. But as Janesh said, given that it will be generally available only after the next couple of quarters, we are not modeling any benefit from that in FY '25.
+Tyler Radke
+--
+Citi -- Analyst
+OK. Very helpful. And just a follow-up, if I may, on the bookings side. And Janesh, I appreciate the explanation that there could have been some early renewals ahead of that price increase that drove the bookings strength.
+But I'm just curious in the context of tying back bookings to the trajectory of net expansion rate, like how are you seeing the upsells and contracts expand from an ARR perspective, even if the timing was a little bit earlier? Do you feel like we're at a point now where given your comments on optimization is easing, we can start to see the NRR improve from here?
+Janesh Moorjani
+--
+Chief Financial Officer
+Yeah, Tyler, it's a great question. So, as we think about the net expansion rate, it played out as we expected. And a couple of things about the net expansion rate. Number one, as you know, it's a trailing 12-month measure.
+So, the effects of the consumption optimization headwinds have now started to wear off and have largely and in terms of thinking about the bookings piece or orders, just keep in mind that for cloud business, the net expansion rate is actually based on actual consumption. It's not based on the commitments. So, that doesn't affect the net expansion rate immediately. And if I think about the self-managed business on that side, the net expansion rate will include the commitments that customers have made to us.
+But overall, the strength that we see in our land and expand motion is playing out quite nicely. We obviously had a great finish here to Q4 and to the full year. And so, as I think about what that means sort of the net expansion rate going forward, we don't provide a specific view on it, but I will say that we feel very good about our expansion motions working nicely, both in self-managed and in cloud, and you've seen that in the numbers that we just printed. So, we're excited about that for the rest of the year.
+Operator
+The next question is from Rob Owens with Piper Sandler. Please go ahead.
+Unknown speaker
+Great, thanks for taking my question. This is Ethan on for Rob. I wanted to ask about the 100K plus customers that are adopting Azure right now. Can you speak to how big Azure commitments are relative to their overall spend on Elastic? And if you're seeing any material uplift in spend for this specific portion of your larger customer base due to S3? Thank you.
+Janesh Moorjani
+--
+Chief Financial Officer
+Maybe I'll start and Ash can add to that. So, we are actually very pleased with the option that we've seen of our overall GenAI functionality in that cohort of customers that are more than 100K. As you know, that reflects our higher-value customers, and that pool is the primary driver of our business. And with more than 10% of those customers already using us for GenAI, it's been just phenomenally rapid expansion in that category.
+If I think about the level of adoption there in terms of what that means and by way of a dollar contribution, it's still small. As we've said, most of our customers are still in the very early stages of adopting GenAI. And relative to the overall opportunity that we see longer term, I think the revenue contribution in the near term is small and will continue to take some time to ramp, and that's the way we've built our model. As we said a few minutes ago, we've not built any meaningful upside into the guidance from that.
+But in terms of the use cases for which those customers are adopting us, it's a variety of different use cases. Most of them tend to be more focused on their internal enterprise rather than things that they're exposed to external customers at this point just yet. But I think that's just the nature of where the industry overall is in terms of the adoption of GenAI. And so, we've seen really strong traction across geographies and across different types of use cases in that population.
+Unknown speaker
+Thank you.
+Operator
+The next question is from Austin Dietz with UBS. Please go ahead.
+Austin Dietz
+--
+UBS -- Analyst
+Hey, thanks, guys. Janesh, just to impact the growth in cloud this past 4Q, looking at the annual cloud business, it's been growing in the mid-40s in 2Q and 3Q, and it looked like it picked up a little bit further to 50% in 4Q. So, I guess, what's been the biggest driver of that stability you're seeing in the annual cloud business? And then how are you feeling about the durability of that growth in annual cloud as we move into fiscal '25?
+Janesh Moorjani
+--
+Chief Financial Officer
+Happy to take that. So, fundamentally, as I think about our land and expand motion, it's been working quite nicely. We've talked over the last several quarters about the investments that we've been making to drive that and the strength of the commitments and the strength of the consolidation that we are seeing on to the Elastic platform, and that's all been playing out quite nicely. We obviously had a strong finish here in Q4 as well.
+And so fundamentally, those drivers continue to play out, and we are seeing strength, both in the enterprise and commercial segments from that selling motion. And that's offset a little bit, as I mentioned, on the monthly cloud side by some of the broader macro weakness in the SMB segment. But as we move forward into fiscal '25, we're continuing to focus our sales efforts in enterprise and commercial and continuing to drive those expansion plays, particularly within areas like GenAI and areas like platform consolidation. And I think that's actually working quite nicely for us.
+So, we've been pleased with the performance of cloud so far, and we're looking forward to Q1 and the rest of the year.
+Austin Dietz
+--
+UBS -- Analyst
+Great. Thanks, guys.
+Operator
+The next question is from Mike Cikos with Needham. Please go ahead.
+Matt McGinley
+--
+Needham and Company -- Analyst
+Hey, guys. This is Matt McGinley on for Mike Cikos over at Needham. Thanks for taking our question. You guys have been clear that consumption will vary quarter to quarter.
+But is there anything you can call out as far as expected seasonality or shape to consumption in fiscal '25? And on that note, are you expecting 2Q to be a seasonally strong as this past year?
+Janesh Moorjani
+--
+Chief Financial Officer
+Mike, maybe I'll take that. And as I sort of look back at fiscal '24, I'm actually very happy with the consistent execution that we had across all the 4 quarters of fiscal '24. Very proud of how the whole team delivered. As I think about fiscal '25, we've obviously just initiated guidance for the full year at 16% year-over-year growth and for Q1 at 17% year-over-year growth.
+I expect that revenue will continue to ramp nicely over the course of the year. And so as we think about the specific numbers for Q2 and beyond, I think it's too early to tell. So, we provide you with a better view on Q2 specifically as we get to the end of Q1, but we expect that revenue will ramp nicely over the course of the year.
+Matt McGinley
+--
+Needham and Company -- Analyst
+OK. That makes sense. And then you mentioned a couple of times continued softness in the SMB segment, but was there any change quarter to quarter? And what are you doing to counter this softness?
+Janesh Moorjani
+--
+Chief Financial Officer
+Yeah. So, in terms of what we experienced over the course of the quarter, it was remarkably stable. We haven't seen any fundamental big shifts in terms of the state of the SMB segment broadly. And if I think about the operating actions that we are taking in that monthly cloud self-serve business, that continues to be an important part of the business to us from a growth standpoint.
+We're continuing to make appropriate investments. For example, the product investments that we made in serverless will ultimately make adoption easier and will make scaling more seamless for users in that segment and that very naturally supports a product growth self-service motion. We are working toward making our serverless offerings available on all three hyperscalers later this year. In addition to some of the product enhancements, we're also focused on driving appropriate demand-gen investments to continue to drive users to the product.
+And that motion is working quite nicely for us as well. So, I think it's more of a broader macro impact in SMB that we are continuing to work our way through. But in terms of both product, as well as applying the right kinds of demand-gen and motions to it, we're continuing to make the investments through an efficient cost model so that we can continue to serve that segment in a profitable way.
+Matt McGinley
+--
+Needham and Company -- Analyst
+Awesome. Thanks so much.
+Operator
+The next question is from Raimo Lenschow with Barclays. Please go ahead.
+Raimo Lenschow
+--
+Barclays -- Analyst
+Thank you and congrats from me, as well as like if you compared to everyone else, these are kind of amazing numbers and guidance. Ash, if you think about customer understanding of like where you guys are going to play going forward and if you think about like all the other guys that are trying to say, like, oh, I can do this, etc., like what do you see in customer conversations in terms of understanding like your offering versus the competitors' offering? And where do you see like where are you on that adoption curve there coming out of that?
+Ash Kulkarni
+--
+Chief Executive Officer
+Raimo, thanks for the question. So, first of all, what I'd say is every single conversation that I've had in the last quarter, even when customers have been using primarily Elastic for observability and security, every one of those conversations has involved generative AI. And this is something that's coming up from the customer side because every single customer that I've spoken to seems to be thinking about how they can use generative AI, in general, to make their offerings to make their systems, their processes just better, more automated, more efficient, etc. In terms of the awareness of our capability, what I'd say is I think we've done a good job of getting our customers to understand all the vector database functionality that's inherent in our platform.
+And we're very proud of the fact that because we built this into our platform, not as an add-on or an adjunct, our customers immediately get the benefit of it as long as they have the right tier of usage. And so, they have the skills, their data is already sitting on Elastic and now without having to learn new things, they're able to quickly get started using us for these kinds of generative AI use cases, both for dense vector usage or sparse encoded vectors and just the breadth of functionality, the integrations that we keep delivering with third parties, the ability to use all of these large language models that are out there. All of these have been tremendous strengths and advantages. And the last year has been a journey for customers to better understand this evolving landscape.
+What I'd say is we are still in the early phases of the overall journey for GenAI, but the customer awareness, both in terms of differentiation and why they need not just a vector database but a much more comprehensive platform that includes hybrid search, that includes the ability to reranking and so on, the integrations that I talked about, all of those are becoming clearer and clearer. So, I'm having fewer conversations where I'm having to do that explanation and more discussions where customers are asking for us to work with them together to help them not only build these applications but really define the art of the possible. So, the momentum is working very nicely, and I'm quite excited about it.
+Raimo Lenschow
+--
+Barclays -- Analyst
+And then, Janesh, one for you. In theory, if you think about it, if the customer was using search, it should be a very easy upsell that you just go in and say, look, I can give you a hybrid search with vector data baked in using Azure, etc. Can you remind us like search as a percentage of the different workloads? I know you never gave like proper numbers, but is that like a meaningful part of what you did? Like how does that fit in into your overall scheme? Thank you.
+Janesh Moorjani
+--
+Chief Financial Officer
+Yeah, Raimo, I think the solutions mix for us in Q4 across observability, security and search was very consistent with what we've generally seen over the course of the last year in terms of ACV. All of the solutions are growing nicely for us. In terms of numbers, observability continued to be a little bit more than 40% of the mix in terms of ACV, security continued to be roughly 25% or a bit higher, and then search makes up the rest of it. And over time, we think that search will benefit from GenAI, but we also obviously see the opportunity to drive growth in security and observability with the consolidation motions that we've been seeing.
+So, we feel very good about our overall solution mix.
+Ash Kulkarni
+--
+Chief Executive Officer
+The only thing I'll add to that is we are seeing that it's becoming more interesting to customers than ever before because of generative AI. The willingness for customers to invest in it is something that I'm seeing a very interesting change in conversation on. And people are also looking to look at how Elastic and search AI can change their observability and their security solutions for the better. So, that's the reason why everything seems to be benefiting from the work that we have done in this really fundamental area of search.
+Raimo Lenschow
+--
+Barclays -- Analyst
+OK, perfect. That makes sense. Thank you.
+Operator
+The next question is from Ittai Kidron with Oppenheimer. Please go ahead.
+Ittai Kidron
+--
+Oppenheimer and Company -- Analyst
+Thanks, and nice results guys. Ash, I was wondering if you can give us a little bit more color on the ramp profile of with the GenAI customers. I mean, first of all, congrats on reaching 1,000 paying customers. But if I remember correctly, you've already had at least a few hundreds of them that have been with you for more than two quarters.
+Is there any pattern of behavior and adoption of growth? Any color you can give us on how should we expect the usage here to grow? What are you seeing with customers on the pace by which they incorporate it? And then on the flip side, the pace by which those applications are used in driving more demand?
+Ash Kulkarni
+--
+Chief Executive Officer
+Yes, it's a great question. And if you think about it in terms of the customer journey, the first step is almost always the adoption, right? What are they choosing as the technology platform of choice, and that's where the 1,000-plus customer stat that's how we should think about it. So, it's the most appropriate leading indicator of the traction, as well as the 145-plus customers in the 100K plus category because those are the customers that tend to, they are our largest customers. So, that's where we see the greatest revenue potential in the future.
+Now once customers choose us, they start to go into the implementation phases. And we've had many customers that have put everything in production, their applications have ramped up. And many of those customers have come and talked at our Elastic conferences. I mentioned a few names earlier, whether it's Cisco or Stack Overflow and so on and so forth.
+But other customers that I mentioned during this earnings call, the bank, the electronics company, etc., they are putting their technology into production. And over time, it's going to ramp. One of the things that you have to consider when it comes to generative AI is because in the context of an enterprise, enterprises tend to have much lower willingness to accept hallucinations than consumers would when you're using something like a ChatGPT. So, the natural amount of time that it takes customers to do testing and so on and feel comfortable with deploying these tends to be longer.
+So, that's one of the reasons why you're seeing this slightly longer curve. But once that kicks in, because there is clear ROI associated with it and the customers that have spoken at conferences have talked about the ROI that they have seen, in our opinion, this is a matter of when. And it's just a matter of timing, which is why we've not modeled it into our FY '25 guide, but we feel very strongly that this is going to increase our total addressable market in a significant and meaningful way in the long run.
+Ittai Kidron
+--
+Oppenheimer and Company -- Analyst
+Very good. Awesome. And then second question on the SIEM opportunity. This has been clearly a big area of success for you for years, with Splunk being the main competitor.
+But in the last three months, a lot of things are happening in this market. LogRhythm and coming together, IBM selling business to Palo Alto and of course, Cisco closing on Splunk. I guess my question is, how do you see the landscape in SIEM specifically developed for you? And when you see all those things happening in the market, how are you reorienting either product go-to-market pricing, anything internally to try and capitalize on what could be a very big displacement opportunity over the next 12, 24 months?
+Ash Kulkarni
+--
+Chief Executive Officer
+That's a great question. And what we are seeing, especially in the security market, especially in SIEM, which is as you know, I've talked about this in the past, that's our core focus when it comes to security. The market is moving to where we have always been. We've looked at this as a problem, all about data.
+And as data volumes have been growing, it's becoming very clear to customers that you need a data platform in the back end that's able to ingest any and all kinds of security data even from other security technologies like if a customer is using somebody else's endpoint security or cloud security products, we need to be able to bring that data in and correlate across all of it very, very quickly at speed. That's something that we're exceptionally good at. The second thing is using AI to automate all of the processes around it, the work that we've done with our AI assistance, the Attack discovery work that we've done, the market is moving in this direction in this area of security analytics, and we have been beneficiaries of it. We've been able to displace incumbents in a very nice way, and we are seeing the results of that kind of consolidation play, the land expand consolidation play playing out with the kinds of dynamics that you talked about.
+So, I'm very excited about what this means, and we are leaning in on the go-to-market and product side of this.
+Ittai Kidron
+--
+Oppenheimer and Company -- Analyst
+Can you elaborate on the go-to-market side? Because what you've described is a lot of product enhancements and benefits. But what have you changed on the go-to-market side to try and capitalize on this?
+Ash Kulkarni
+--
+Chief Executive Officer
+Yeah. Look, we got out of our sales kickoff just a couple of weeks ago, and this is one of the areas that our sales teams are most excited about. So, we have clear campaigns that are going after this opportunity, as you can imagine. Literally, the way we talk to our sales team is the two questions that we need to be asking is, one, what vector database are you using for every customer? That's the question that we should be asking.
+And the second, are you using any of these incumbent security or log analytics technologies that haven't been delivering value, haven't been innovating? And we are seeing success with that motion. So, it is absolutely a big go-to-market focus for us. And the discipline and just the up-leveling of everything that Mark Dodds, our CRO is doing is just something I'm very excited about.
+Ittai Kidron
+--
+Oppenheimer and Company -- Analyst
+Very good. Good luck. Thanks.
+Operator
+The next question is from Shrenik Kothari with Baird. Please go ahead.
+Shrenik Kothari
+--
+Robert W. Baird and Company -- Analyst
+Hey, yeah, thanks for taking my question. Congrats on the great execution. So, Ash, you mentioned about, of course, the recent deal that you guys signed with the global insurance provider to implement Elastic Cloud on Azure. And you highlighted, of course, consolidation and ingesting data, which gives you an advantage.
+But given the context of all conversations involving GenAI that you highlighted and Elastic being the first non-Microsoft entity on the Azure OpenAI Service, which in itself highlights strong kind of Azure partnership and relationship. Can you elaborate on the strategic importance of this OpenAI service in particular and how it is and it can move the needle? And then I will have a quick follow-up.
+Ash Kulkarni
+--
+Chief Executive Officer
+Yeah, Shrenik, so the hyperscalers they see a lot of value in partnering with us because in the context of generative AI and all the spaces that we play in, the data tends to already be on Elasticsearch just given our prevalence out there in the market. We provide a lot of choice to customers. And the fact is that just a vector database isn't enough. You need all of the other search capabilities that we've built over the last 12 years.
+And that's one of the reasons why the hyperscalers have worked very closely with us to integrate our technologies very nicely, so customers get a great experience. The integration that I talked about in my prepared remarks, that makes Elasticsearch and our vector database functionality available through the Azure interface for building AI applications, which makes it easier for customers, and it's going to be a faster way for us to get out there in the market. And we are seeing that also play out in deals like the one that you're referring to. So, great things in across all three hyperscalers.
+Shrenik Kothari
+--
+Robert W. Baird and Company -- Analyst
+Got it. And just a quick follow-up for Janesh. And the continuation of the last question on go-to-market, it seems like, of course, you guys are executing on displacing competitors and of course, leveraging GenAI and also expanding partnerships. But the GenAI, in particular, I mean, you have highlighted earlier that it's still in kind of early design phase.
+It's still very kind of looks like pilot programs. And then the new AI workload adoption is also evolving. So, how do these initial kind of programs and data are kind of informing your internal models in terms of like anything that you can share from a financial standpoint, like which innings does it look like? Is it still kind of very design phase or things are kind of starting to move or inflect up?
+Janesh Moorjani
+--
+Chief Financial Officer
+Shrenik, just in the interest of time to keep it brief. I'll just recap out that we built our guidance prudently considering things that we know. We have not modeled in any meaningful upside in our model from GenAI. We expect that we will continue to see some growth because there was some small contribution in fiscal '24.
+So, we expect that we will see some contribution in '25 as well, but it's not a significant amount that we are modeling. And we're also not modeling in any meaningful upside from serverless, which obviously happens much later this fiscal year in terms of its general availability. And so that's been the approach we've taken.
+Shrenik Kothari
+--
+Robert W. Baird and Company -- Analyst
+Got it. Thanks a lot.
+Operator
+The next question is from Jake Roberge with William Blair. Please go ahead.
+Jake Roberge
+--
+William Blair and Company -- Analyst
+Hey, thanks for taking the questions. Just in terms of the 1,000 of paying customers you now have in ESRI, are those largely existing customers that you're seeing upgrade to premium solutions, or the new capabilities also starting to expand the top of funnel and drive some incremental new logo activity to you?
+Ash Kulkarni
+--
+Chief Executive Officer
+Hey, Jake, I'll maybe address that. We're seeing both. That's a simple answer. Existing customers, obviously, are the easiest ones to convert.
+But then we are also seeing new customers, especially ones coming in through the monthly cloud motion and then translating to being paid customers. So, across the board.
+Jake Roberge
+--
+William Blair and Company -- Analyst
+OK. Great. And then just a quick follow-up on the price increases. How often do you push those out to the self-managed base? Is it on an annual basis? Or is this the first price increase that you've done for a few years?
+Janesh Moorjani
+--
+Chief Financial Officer
+It's the first one in a few years, Jake. We don't do it on an annual basis. We generally tie up price changes to value that we deliver. And so, when we have significant shifts from the standpoint of value added to the subscription tiers, that's when we will go in and adjust prices because that's when customers see the value in what they've been getting, and it's a much easier conversation at that point.
+So, this is not a standard annual practice for us.
+Operator
+This concludes our question-and-answer session. I would like to turn the conference back over to Ash Kulkarni for any closing remarks.
+Ash Kulkarni
+--
+Chief Executive Officer
+All right. Thank you all very much for joining our call today. We had a great fiscal 2024, and I'm really proud of how the team executed. Continuing to bring exciting innovations and providing value to our customers.
+We are excited. Thank you, and have a great rest of the evening.
+Operator
+[Operator signoff]
+Duration: 0 minutes

@@ -1,0 +1,532 @@
+David Connell
+OK. Hello everyone, and welcome to Zoom's Q2 FY '23 earnings release webinar. As a reminder, today's webinar is being recorded. And now, I would like to hand things over to Tom McCallum, head of investor relations.
+Tom.
+Tom McCallum
+--
+Head of Investor Relations
+Thank you, David. Hello everyone, and welcome to Zoom's earnings video webinar for the second quarter of fiscal 2024. I'm joined today by Zoom's founder and CEO, Eric Yuan, and Zoom's CFO, Kelly Steckelberg. Our earnings press release was issued today after the market closed and may be downloaded from the Investor Relations page at investors.zoom.us.
+Also, on this page, you'll be able to find a copy of today's prepared remarks and financial -- a slide deck with financial highlights that, along with our earnings release, include a reconciliation of GAAP to non-GAAP financial results. During this call, we will make forward-looking statements, including statements regarding our financial outlook for the third quarter and full fiscal year 2024; our expectations regarding financial and business trends; impacts from the macroeconomic environment, our market position, opportunities, go-to-market initiatives, growth strategy, and business aspirations; and product initiatives and the expected benefits of such initiatives These statements are only predictions that are based on what we believe today, and actual results may differ materially. The forward -- these forward-looking statements are subject to risks and other factors that could affect our performance and financial results that we discuss in detail in our filings with the SEC, including the annual report on Form 10-K and quarterly reports on Form 10-Q. Zoom assumes no obligation to update any forward-looking statements we may make on today's webinar.
+And with that, let me turn the discussion over to Eric.
+Eric Yuan
+--
+Founder and Chief Executive Officer
+Hey, thank you, Tom. Hey, thank you, everyone, for joining us today. So, before starting, I'd like to welcome Dr. XD Huang as our CTO, who joins us after a successful career at Microsoft, where he most recently served as Azure AI CTO and technical fellow.
+Dr. XD joins us at an optimal moment in our AI journey. In the past few months, we brought several new AI innovations to the market and announced an aggressive roadmap aimed at empowering our customers to work smarter and serve their customers better. And, as we develop and deploy AI solutions, we strongly believe that technology should advance trust.
+We are privileged to have countless customers rely on us for their communications needs. We don't take that for granted. Earlier this month, we took the additional step in stating that Zoom does not use customer content to train our AI models or third-party AI models. I'm proud of the approach we are taking.
+By putting customers' privacy needs first, Zoom is taking a leadership position in ensuring customers can use our AI features with confidence that their content is protected. Now, let me share how we have advanced in our mission of One Platform Delivering Limitless Human Connection. We launched Zoom Scheduler, which serves to reduce the hassle of scheduling with people outside your organization; and Intelligent Director, which uses AI and multiple cameras to provide the best image and angle of participants joining from a conference room. We also launched many new offerings like Zoom Clips, which enables asynchronous video conversations.
+And more and more customers are getting on Zoom Team Chat, driven by increased adoption of Zoom One and new features like Continuous Meeting Chat, which connects the transient in-meeting chat feature to the persistent Zoom Team Chat product. Currently, we have two Fortune 15 companies, one major consulting firm, a global F&B brand, and a leading law firm using Zoom Team Chat as a core means of text-based communications. Our Contact Center product has surpassed 500 customers, and we are rolling out about 90 new features and enhancements per quarter. We launched Workforce Management in early July to help customers streamline customer communications, manage agent needs, and transform their customer experience all from a single, unified platform.
+WFM is already off to a great start, and we look forward to adding additional products to this suite to expand our native customer experience capabilities and revenue streams. We have progressed rapidly in our integration of Workvivo. After rolling it out internally, I could not be more impressed with the product and confident in the value it will bring to our customers in terms of building culture across a distributed workforce, ultimately delivering upon our strategic pillar of enabling hybrid work. Speaking of which, a few weeks ago, we announced internally a structured hybrid approach, asking Zoomies that live within commuting distance to come into their local office twice a week.
+Zoom is purpose-built for hybrid work, and it is on us to understand what our customers are experiencing in their hybrid journeys and what works and does not work for them. We believe that this approach will enable us to continue to innovate for our customers and deliver what they need to succeed. Now, moving on to some of our customer wins. First, we are very excited to expand with the United States Postal Service.
+In Q2, the postal service added Zoom Team Chat for 21,500 users to their existing Zoom for Government deployment. Let me also thank Brookdale Senior Living, the largest operator of senior housing in the United States. Brookdale started as a Zoom Meetings customer in fiscal 2020. A year later, they began evaluating Zoom Phone.
+And in Q2, they went all-in on the cloud and upgraded to Zoom One in order to unify their communication needs under one integrated product. Let me also thank Perdue Farms. Like many of our customers' journeys, Perdue's started years ago with an initial Zoom Meetings deployment. Last Fall, they went all-in with Zoom One Enterprise Plus.
+However, the story does not end there. In Q2, Perdue added Zoom Contact Center due to its native integration with their existing Zoom Phone deployment and our ambitious innovation roadmap. Let me also thank Valmont Industries. Valmont came on board as a Zoom customer a little over a year ago with Meetings and Phone and quickly became a major platform adopter, including Zoom One and Zoom Contact Center.
+And in Q2, with the goal of utilizing AI to better service their customers and also their employees, they added Zoom Virtual Agent due to its accuracy of intent understanding, ability to route issues to the correct agent, ease of use, and quality of analytics. We are so delighted to see our partnership with Valmont grow so quickly, and we are committed to innovating further to support their operations. Finally, let me thank Dollar General, America's general store, for choosing Zoom's Workvivo platform to connect employees as the digital heartbeat for the company. Dollar General will roll out Workvivo's employee engagement platform for its roughly 190,000 employees to enhance the employee experience at the individual, group, and district levels, drive employee dialogue, and reinforce its strong culture.
+Again, we are very excited to welcome and expand with USPS, Brookdale, Perdue Farms, Valmont, Dollar General, and all of our customers worldwide. And with that, I'll pass it over to Kelly. Thank you.
+Kelly Steckelberg
+--
+Chief Financial Officer
+Thank you, Eric, and hello, everyone. We are pleased that we beat our top-line and profitability guidance in Q2. Here are a few milestones: First, operating cash flow grew 31% year over year to $336 million. Second, Zoom Phone reached roughly a half billion dollars in annualized run rate revenue.
+And finally, we are excited that Zoom Contact Center has surpassed 500 customers in only six quarters. In Q2, total revenue grew 4% year over year to $1.139 billion, which includes $10 million of pressure from foreign exchange. This result was approximately $24 million above the high end of our guidance. Our enterprise business grew 10% year over year and represented 58% of total revenue, up from 54% a year ago.
+We continued to see improvement in online average monthly churn, which decreased to 3.2% from 3.6% in Q2 of FY '23. The number of enterprise customers grew 7% year over year to approximately 218,100. Our trailing 12-month net dollar expansion rate for enterprise customers in Q2 came in at 109%. We saw 18% year-over-year growth in the up-market as we ended the quarter with 3,672 customers contributing more than $100,000 in trailing 12 months' revenue.
+These customers represent 29% of revenue, up from 26% in Q2 of FY '23, and include some of the amazing names that Eric highlighted earlier. Our Americas revenue grew 6% year over year, while EMEA and APAC declined by 1% and 3%, respectively. Absent currency impact, both EMEA and APAC would have been approximately flat year over year. On a quarter-over-quarter basis, all regions grew 3%.
+Moving to our non-GAAP results, which exclude stock-based compensation expense and associated payroll taxes, acquisition-related expenses, net gains or losses on strategic investments, restructuring expenses, and all associated tax effects. Non-GAAP gross margin in Q2 was 80.3%, an improvement from 78.9% in Q2 of last year. We are pleased with the strength of our gross margins as we continue to optimize usage across the public cloud and our co-located data centers for both existing and emerging technologies. For the full year, we expect non-GAAP gross margin to be approximately 79.7%, as we make additional investments in new AI technologies.
+Research and development expense grew by 6% year over year to approximately $104 million. As a percentage of total revenue, R&D expense increased to 9.1% from 8.9% in Q2 of last year, reflecting our investments in expanding our product portfolio including Zoom Contact Center, AI, and more. Looking ahead, investing in innovation will remain a top priority for Zoom. Sales and marketing expense decreased by 3% year over year to $276 million.
+This represented approximately 24.2% of total revenue, down from 26% in Q2 of last year. As a reminder, Zoomtopia will be held in Q3 this year and will drive incremental marketing investment in the quarter. G&A expense declined by 19% to $73 million, or approximately 6.4% of total revenue, down from 8.2% in Q2 of last year, as we continue to achieve greater efficiencies and experienced one-time savings in the quarter. Non-GAAP operating income grew by 17% to $462 million, exceeding the high end of our guidance of $410 million.
+This translates to a 40.5% non-GAAP operating margin, a meaningful improvement from 35.8% in Q2 of last year. Our effective tax rate in Q2 was 18.5%. For the remainder of the year, our tax rate is expected to approximate the blended U.S. federal and state rate.
+Non-GAAP diluted earnings per share in Q2 was $1.34, on approximately 306 million non-GAAP diluted weighted average shares outstanding. This result was $0.28 above the high end of our guidance and $0.29 higher than Q2 of last year. Turning to the balance sheet. Deferred revenue at the end of the period was $1.37 billion, down approximately 2% from Q2 of last year.
+This was in line with the high end of the expectations that we shared last quarter. For Q3, we expect deferred revenue to be down 4% to 5% year over year, partially driven by shorter billing frequencies on enterprise deals arising from the high interest rate environment. Looking at both our billed and unbilled contracts, our RPO increased 9% year over year to approximately $3.5 billion. We expect to recognize approximately 59% of the total RPO as revenue over the next 12 months, as compared to 61% in Q2 of FY '23, indicating lengthening contract durations on a year-over-year basis.
+As a reminder, our renewal seasonality peaks in Q1 and declines throughout the rest of the year. Operating cash flow in the quarter grew 31% year over year to $336 million. Free cash flow grew 26% year over year to $289 million. Both results include the approximately $60 million cash payment related to the legal settlement that we discussed last quarter.
+Our operating cash flow and free cash flow margins were 29.5% and 25.4%, respectively. We ended the quarter with approximately $6 billion in cash, cash equivalents, and marketable securities, excluding restricted cash. Given the strength in profitability and collections, we are increasing our cash flow outlook for FY '24. We now expect free cash flow to be in the range of $1.2 billion to $1.23 billion.
+Turning to guidance. For Q3, we expect revenue to be in the range of $1.115 billion to $1.12 billion, which at the midpoint would represent approximately 1% year-over-year growth, or 2% in constant currency. We expect non-GAAP operating income to be in the range of $400 million to $405 million. Our outlook for non-GAAP earnings per share is $1.07 to $1.09 based on approximately 309 million shares outstanding.
+We are also pleased to raise our top-line and profitability outlook for the full year of FY '24. We now expect revenue to be in the range of $4.485 billion to $4.495 billion. At the midpoint, this represents approximately 2% year-over-year growth, or 3% in constant currency, which we expect to be neutral in the back half of the year. Our increased total revenue guidance reflects a consistent view on Enterprise, with tempered expectations for online for the remainder of the year.
+We expect our non-GAAP operating income to be in the range of $1.685 billion to $1.695 billion, representing an operating margin of approximately 38%. Our outlook for non-GAAP earnings per share for FY '24 is $4.63 to $4.67, based on approximately 308 million shares outstanding. Thank you to the entire Zoom team, our customers, our community, and our investors for your trust and support. Before opening up for Q&A, we are excited about our premier user conference, Zoomtopia.
+It will be in-person in San Jose as well as on Zoom Events. We look forward to sharing more about our expanding platform, new innovations, and customer testimonials. Please join us at Zoomtopia on October 3 and 4. David, please queue up the first question.
+David Connell
+Thank you, Kelly. As Kelly mentioned, we will now move into the Q&A session. [Operator instructions] Our first question will come from Mark Murphy with J.P. Morgan.
+Mark Murphy
+--
+JPMorgan Chase and Company -- Analyst
+Well, thank you so much, and congrats on solid execution in the quarter. Curious if you can comment on the Zoom Scheduler product. It looks like a very attractive add-on option and a clear efficiency gain. I understand that that's going to be free for some period of time and then looks like $6 per month for -- for certain users.
+I understand it's going to be included in some of the other bundles, but can you just comment on how that's going to work? Maybe, Eric, you can -- you can touch on the efficiency gains from that product. And, Kelly, any type of a framework for the revenue potential out of that particular product?
+Eric Yuan
+--
+Founder and Chief Executive Officer
+Yeah. So, I can talk about the product side. Kelly, feel free to tell me on the revenue potential. I think.
+Mark, you are so right. I guess probably you already tried it out, it's indeed very attractive. You know, the reason why you look at the whole customers or even including Zoom Meetings, like how we schedule a meeting. Let's say, Mark, I want to schedule a meeting with you next week, it's so complicated, right? I need to reach out to your EA to reach my EA, or we need to think about a calendar schedule.
+It's so hard, you know, meaning across the company, you know, scheduling is so complicated, right? How do I help customers and simplify that experience, that's why I decided to introduce Zoom Scheduler, right? And also, there are some other start-up end solutions out there. The customer do -- would like to level the Zoom platform because, you know, they are using Meetings, Phone, Team Chat, and one more click they can scale the meeting with, you know, the software from an outside organization, really like that experience. That's why we decided to build that. And, you know, we already have a free trial and as a customer world how to pay the customer already and also be a part of a Zoom One as well down the road.
+And actually, it's doing very well and really simplify the way for you to schedule the meetings with any or on the side of your organization. Well, pretty excited about that opportunity.
+Kelly Steckelberg
+--
+Chief Financial Officer
+I think in terms of its overall contribution, Mark, it's at a very attractive price point and will grow over time, certainly. But also we think that what it does is make the product continue to be where you live, and it makes especially our larger enterprise customers that much more retentive as it continues to, you know, spread the platform and how you spend your day.
+Mark Murphy
+--
+JPMorgan Chase and Company -- Analyst
+Thank you so much.
+Eric Yuan
+--
+Founder and Chief Executive Officer
+Thank you, Mark. Hopefully, you try that. Thank you. Appreciate it.
+David Connell
+OK. Our next question comes from Meta Marshall with Morgan Stanley.
+Kelly Steckelberg
+--
+Chief Financial Officer
+Hi, Meta. Oops, Meta, we can't hear you.
+Meta Marshall
+--
+Morgan Stanley -- Analyst
+Cause I'm on mute. So, one of the questions that I had was just what you were seeing in terms of the environment. You know, I know that you're upside kind of came from the enterprise. Just wanting to get a sense of how the environment changed during the quarter, if there were any changes during the quarter, and just whether kind of that upside came as a result of kind of better upsells or just more deals kind of getting closing in shorter order.
+Thanks.
+Kelly Steckelberg
+--
+Chief Financial Officer
+Yeah. Thank you, Meta. So, I would say in terms of Q2 versus Q1, the environment has been pretty consistent. We continue to see momentum in Zoom One and Zoom Phone.
+You know, there are still, I would say, lengthened sales cycles out there and customers really making sure that they take advantage of doing their full due diligence. But we're really excited about the vision that we can paint for them, not only around, obviously the existing platform, but what's also coming from an AI perspective. And I think our customers are finding that very attractive. As you heard from the customers that Eric talked about, seeing a lot of momentum of customers that were originally Meetings, customers really moving either into Zoom One or adding on Zoom Phone and considering Contact Center as well.
+Meta Marshall
+--
+Morgan Stanley -- Analyst
+Great. Thanks.
+Eric Yuan
+--
+Founder and Chief Executive Officer
+Who'll be next?
+Kelly Steckelberg
+--
+Chief Financial Officer
+David, Who's next?
+David Connell
+Apologies. Our next question comes from Kash Rangan from Goldman Sachs.
+Kelly Steckelberg
+--
+Chief Financial Officer
+Hi, Kash. Oops, sorry.
+Kash Rangan
+--
+Goldman Sachs -- Analyst
+I got it.
+Kelly Steckelberg
+--
+Chief Financial Officer
+All right.
+Kash Rangan
+--
+Goldman Sachs -- Analyst
+It looks like the enterprise business has seen stability with respect to attrition, etc. I'm curious to get your thoughts on the online business for that. It's still a substantial portion of the revenue and anything that you have identified that could help stabilize the attrition levels. And also, just while we're at it, what is the pricing power of Zoom? Like, you talked about customers worried about inflation and doing shorter-term contracts, then I guess on the flip side means that you could raise prices.
+Wondering how much leverage you have with that. Thank you so much.
+Kelly Steckelberg
+--
+Chief Financial Officer
+Yeah. So, in terms of the online segment, we were really pleased with the continued improvement that we're seeing in the retention rates or the churn rates. You know, they are really at historic lows, and so that's really great to see. And Wendy and her team continue to innovate.
+We just saw a little -- a little more volatility, and that's what we indicated and sort of tempered expectations for the rest of the year but really pleased with the ongoing progress that we're seeing in that segment of the business. And then, you know, in terms of the pricing power, I mean, Eric, feel free to chime in, but certainly, we continue to have these discussions with our customers when it comes up for renewals, looking for opportunities to potentially expand their usage of the, you know, the portfolio. Moving them from Zoom Meetings to Zoom One is a very common upsell mechanism or, I should say, movement that we're seeing with our customers today. And considering is there an opportunity, potentially, given the -- the value that they're seeing in the platform potentially for a price increase at renewal as well.
+Eric Yuan
+--
+Founder and Chief Executive Officer
+Yeah. Yeah, just, too, quickly, in terms of pricing power, in most of businesses, they still will employ experience as the No. 1 forte, right? That's why they really want to, you know, kind of give a customer the best way to service, you know, like a Zoom platform. Yyou know, otherwise, you know, probably they do not care about employee experience.
+And when they focus on price, that's not the case, right? And most of the customers we talked with really appreciated the value and the ease of use and quality of Zoom service.
+Kash Rangan
+--
+Goldman Sachs -- Analyst
+Thanks so much.
+Eric Yuan
+--
+Founder and Chief Executive Officer
+Thank you, Kash. Appreciate it.
+David Connell
+Our next question comes from Michael Funk with Bank of America.
+Michael Funk
+--
+Bank of America Merrill Lynch -- Analyst
+Yeah. Hi. Thank you for me -- taking the question today. You know, so , you know, congratulations on the new logo additions.
+You know, good momentum there, and the Phone adds as well. Just -- just wondering, Kelly, I mean, what has to happen with some of the other metrics that did decelerate during the quarter in the ARR, obviously, sequentially, you know, online churn up sequentially? Enterprise customer additions also slowed sequentially. So, you know, thinking about the acceleration and revenue growth we've been expecting or hoping for, which of those metrics is going to churn first, and how much visibility do you have into that churn?
+Kelly Steckelberg
+--
+Chief Financial Officer
+Yeah. So, a couple of things. Let me just comment on a couple of the metrics that you called out specifically. First of all, for the online churn metric, as a reminder, we expect Q2 and Q4 to be seasonally higher than Q1 and Q3.
+So, while it was up over Q1, it was down over Q4, and that's because of summer and winter holidays. So, I think that 3.2 number is -- is a really great number. And, you know, we are going to continue, and Wendy and her team are continuing to focus on opportunities to improve that. You know, in terms of the enterprise, we're really focusing on some of the approaches we've talked about earlier.
+Certainly, Zoom Phone is one of the -- the key drivers in terms of expanding our customers' usage of the platform. That doesn't necessarily result in new customers, but you could see that in the enterprise customer metric as that starts to expand. Also, the success of Zoom One is going to drive that expansion of more customers in the $100,000. So, I think those are the metrics that you should watch as great indicators as our enterprise team continues to sell Zoom Phones, sell, Zoom One, sell Zoom Contact Center. And then, of course, as AI becomes more front and center, you'll get to see that as well.
+Michael Funk
+--
+Bank of America Merrill Lynch -- Analyst
+OK. So, just quickly then, so the NDRR for enterprise, that should improve as we exit the year, is that expectations, the 109, that should improve off that number?
+Kelly Steckelberg
+--
+Chief Financial Officer
+Remember, so it's a trailing 12-month number. It may come down a little bit more yet but then start to inflect, potentially, at the back half of the year but it might be into early of FY '25.
+Michael Funk
+--
+Bank of America Merrill Lynch -- Analyst
+OK. Thank you, Kelly. Thank you, Eric.
+Eric Yuan
+--
+Founder and Chief Executive Officer
+Thank you.
+David Connell
+Our next question comes from James Fish from Piper Sandler.
+James Fish
+--
+Piper Sandler -- Analyst
+Hey, guys. Thanks for the questions. You know, Kelly, for you, or Eric, are you seeing optimizations on your seats showing a slowdown or a similar pace to what you've seen more recently? Is there any way to talk about the linearity in general? And, Eric, you know, we get the investment behind AI, and it seems like it's causing gross margins to drop a couple of points and guides sequentially. I guess, what can you say that gives confidence that this isn't just further price degradation or just a higher level of conservativism on the other side of the coin?
+Eric Yuan
+--
+Founder and Chief Executive Officer
+Kelly, you want to address the first one?
+Kelly Steckelberg
+--
+Chief Financial Officer
+So, in terms of the optimization of seats, what we've seen is, you know, I think we talked about this sales motion before that our reps have the opportunity to really get in there and talk to our customers. And they've done a great job about logo retention. And even if there are customers, because they've had a dislocation in their employee base, taking that opportunity then to replace that revenue with an upsell of another product like Zoom Phone and showing them how, overall, we can drive such a great ROI for them and save them. And our sales team has been incredibly successful at that. And so, that's what we're seeing.
+Even though there's still a little bit of sifting, I would say, of seats in there, we're seeing lots of momentum on those upsells at that renewal period. And I just want to highlight, we only -- in terms of gross margin, we had 80.3 this quarter, and we only guided to 79.7. So, it's not even 100 basis points of degradation, so. And --
+James Fish
+--
+Piper Sandler -- Analyst
+Fair enough.
+Kelly Steckelberg
+--
+Chief Financial Officer
+Eric can talk about the reasons and why that is, and what we're investing in.
+Eric Yuan
+--
+Founder and Chief Executive Officer
+Yeah. Yeah. Gross margin is very very strong. Again, you know, in terms of impact, this is short term, not long term.
+The reason why, you know, when it comes to AI, it's becoming more and more important. Many of our customers told us who rely on Zoom platform, you know, like all the features today, you know, like a meeting summary. You know, someone can, you know, take meeting notes, you know, manually, right? How to leverage AI to improve the productivity and efficiency, right? For sure. you know, we needed to invest more.
+The good news, we already invested, you know, two to three years ago, right, and that's why some of the features are already ready. But how to further double down on that investment, right, you know, we hired a Dr. XD and also invested a lot of, you know, the GPUs as well, our team. And we have -- we have a higher confidence and those AI features, we have a customer [Inaudible], right? And also, our strategy is very differentiated, right? You know, first of all, I have fiduciary -- federated AI approach. And also, the way we look at those AI features, how to have a customer improve productivity, that's very important, right? And the customer already like us, not like some, you know, others, right, who, you know, give you a so-called a free service and then charge your AI features, you know, a crazy price.
+That's not our case, right? We really care about the customer value and also add more and more innovations. At the same time, you know, the way for us to look at innovations, not only for incremental innovation in terms of delivering AI, but also how to leverage AI with some brand new services to innovate, to deliver even more value than customer expected. That's why we can, you know, monetize to leverage AI technology. That's why we keep investing more. Again, the goal is about some brand-new services, like a Zoom market for sales, just one.
+A lot of other services, we going to build it down the road. So, stay tuned, you know, for the Zoomtopia.
+James Fish
+--
+Piper Sandler -- Analyst
+Thanks, Eric. Thanks, Kelly.
+Eric Yuan
+--
+Founder and Chief Executive Officer
+Thank you.
+David Connell
+Our next question comes from Matthew VanVliet, BTIG.
+Kelly Steckelberg
+--
+Chief Financial Officer
+Hey, Matt.
+Matt VanVliet
+--
+BTIG -- Analyst
+Good afternoon. Thanks for taking the question. Wanted to dig in a little bit more on the trends you're seeing in the Contact Center. Can you help us with, you know, what situations you're seeing the most success in? I think in most use cases, you have sort of Meetings and Phone.
+And then sort of within that, are you seeing more sort of internal helpdesk-type situations, or are you seeing kind of higher-volume customer-facing deployments as well?
+Eric Yuan
+--
+Founder and Chief Executive Officer
+Yeah, Matt, it's a good question. You know, first of all, I can tell you, you know, take Zoom for -- for example, you know, we already, you know, and deploy to the Contact Center within Zoom since a year ago, right? And, you know, our support team are very happy about our -- own deployment. It works extremely well, right, because all those innovations and integrations. Speaking about customers, right, you know, for sure, even if we're at a loss of our innovations every quarter, but in brand recognition, right, it still, you know -- will take some time.
+That's why, you know, quite often, you know, all those existing customer, they would like to deploy Zoom Contact Center integration very well with the Zoom Phone. And also, they found a new use case like internal helpdesk, IT help desk, as you said. At the same time, we also have some context on the customers who do not have a Zoom Phone, who do not have Zoom Meetings. You know, they like a Contact Center. I think given our -- the speed of innovation, I think we have a high confidence, you know, not only in SMB but also more and more [Inaudible] sized customer who realize the value of Zoom and a Zoom Contact Center.
+I think something similar to what we did for Zoom Phone as well, right? When we started, only the SMB end customer -- existing customer very soon realized, wow, there's huge value and why not try or test it out the Zoom, you know, Contact Center as well, right? So, that's the path for our -- to further grow our Contact Center business.
+Matt VanVliet
+--
+BTIG -- Analyst
+Great. Thank you.
+Eric Yuan
+--
+Founder and Chief Executive Officer
+Thank you.
+David Connell
+Our next question comes from Ryan Koontz with Needham.
+Ryan Koontz
+--
+Needham and Company -- Analyst
+All right. Thanks for the question. Want to ask about the healthy growth we're seeing here in the $100,000 in accounts. Is it -- is that primarily displacements of legacy vendors that we're still seeing, or are these other kind of competitive wins, greenfield-type wins? And, you know, can you share anything about kind of the effective playbook you're using at market there to expand these big logo wins? Thanks.
+Kelly Steckelberg
+--
+Chief Financial Officer
+Yeah, I think some of that, Ryan, points to the ongoing success we're seeing with Zoom One. Customers really like the ability to -- to buy the bundle, which meets all of their needs. And it's a great opportunity to see the value, especially your previously existing Meetings customers seeing that opportunity. We do continue to see greenfield especially, you know, Eric just highlighted, Contact Center sometimes is a way that they're coming in the door now, which is amazing. And then, also, we still have a lot of customers -- the Meetings customers that are upgrading to Phone as well.
+So, it's it's a combination of both new customers that come in at that -- that level as well as customers that grow up to that level over time.
+Ryan Koontz
+--
+Needham and Company -- Analyst
+Got it. Any general changes in the pricing environment market?
+Kelly Steckelberg
+--
+Chief Financial Officer
+No. Especially from Q1 to Q2, there weren't really significant changes. As I mentioned, there's still, I think, lots of scrutiny around deal but no other real changes in the environment.
+Ryan Koontz
+--
+Needham and Company -- Analyst
+Got it. Really helpful. Thank you.
+Kelly Steckelberg
+--
+Chief Financial Officer
+Thanks, Ryan.
+David Connell
+Our next question comes from Siti Panigrahi with Mizuho.
+Siti Panigrahi
+--
+Mizuho Securities -- Analyst
+All right. Thanks for taking my question. My question on Contact Center again. You know, that is -- that's a huge opportunity considering like 80% legacy is still here to move to cloud, and you're starting from a clean slate, you know, just building yourself in-house.
+So, Eric, how are you plan -- how are you trying to differentiate, I mean, among other cloud vendors right now in the contact center space? And, Kelly, should you think about this Contact Center, you know, next leg of growth, is this adoption should be like Phone what we have seen in the last few years?
+Eric Yuan
+--
+Founder and Chief Executive Officer
+Yeah. So, speaking of differentiation, you know, first of all, we built the Contact Center service from the ground up, right, which is absolutely the new modern architecture. And also, video is part of that as well. AI is happening, you know, AI components.
+You know, we have to invest in AI, you know, and also, at the same time, a seamless integration with other products as well. That's why we have a high confidence right? And in order for, like, some other vendors, you know, order there for a long, long time, right? And the architecture may not be modern and the performance, the quality, and so on and so on, and so forth, right? However, you know, how to make sure every enterprise customer, you know, you know, during their IR review process, right, they do look at a Zoom. When you look at Zoom, we have a higher confidence we can compete. And also, you know, we just, you know, had a lot of innovations around the Workforce Management platform as well. And essentially, you know, Zoom Contact Center will become a full contact center suite, not just the one part, right, that target the SMB and enterprise.
+And also, with AI, and I think, you know, we are innovating very fast, right, you know, to compete against any other cloud-based or on-prem-based and contact center vendors, so.
+Siti Panigrahi
+--
+Mizuho Securities -- Analyst
+And is that going to be similar to, like, Phone kind of adoption?
+Kelly Steckelberg
+--
+Chief Financial Officer
+Yeah.
+Eric Yuan
+--
+Founder and Chief Executive Officer
+Absolutely, yeah. Sorry, go ahead. Yeah.
+Kelly Steckelberg
+--
+Chief Financial Officer
+[Inaudible] only six-quarters old today, so it's -- it's very relative, right, to the existing ARR base. It's it's small. It's growing very quickly, though. So, it won't be visible to you probably for at least another four to -- I don't know, four to five to six quarters, probably.
+But we're really pleased with the growth. And then, as Eric mentioned, when you start considering workforce management, of course, doing virtual agent, quality management, which is coming, it starts to be a platform unto itself that could really be a significant growth driver over time.
+Siti Panigrahi
+--
+Mizuho Securities -- Analyst
+Great. Look forward to seeing you at Zoom -- Zoomtopia.
+Kelly Steckelberg
+--
+Chief Financial Officer
+Thank you.
+Eric Yuan
+--
+Founder and Chief Executive Officer
+Yeah. Thank you.
+David Connell
+Our next question comes from Rishi Jaluria with RBC.
+Rishi Jaluria
+--
+RBC Capital Markets -- Analyst
+Oh, wonderful. Hey, Eric. Hey, Kelly. Thanks so much for taking my questions.
+Two quick ones. First, you know, look, appreciate a lot of the investments you're making around generative AI. And I know it's early, but I want to think about how -- how do you think longer term about your strategy around monetizing generative AI and around, you know, specific modules and discretely charging for them? Is it about gatekeeping them behind higher tiers and using that to drive upgrades? And maybe alongside that, you know, you're starting to see better adoption, I think, of your non-core products, including Zoom Phone at half a billion ARR. And, Eric, you called out some great customer wins on Zoom Chat.
+How do you think about using generative AI as kind of a connective tissue to drive more usage of noncore products and maybe even the entire Zoom One pricing impact? Thank you.
+Eric Yuan
+--
+Founder and Chief Executive Officer
+Yeah, that's a wonderful question. So, if you look at, you know, the Zoom platform, right, so not only do we have Meetings, right? So, some, you know, people are still sort of with just the Meetings company episode, that's not the case. You know, a full-platform company, right? You know, for those customers, we deploy like a Team Chat. USPS deploys Zoom Team Chat.
+A lot of company deployed Zoom Phone and Whiteboard and the Zoom Contact Center as well, you know, Scheduler, you know, and also the Zoom Clips. As we build more and more services, right, and essentially, when we talk about our platform, how to look at everything from customer perspective, how to add more value. Let's take Zoom One or example. Customers say, "I really like Zoom.
+I want to pay and deploy an entire platform." You know, a lot of, you know, features, you know, take this gen AI features, you know, like a meeting summary and -- to leverage AI, to write, you know; Team Chat and meeting query. And let's say you are late to the meeting, how to get a quick, you know, real-time summary about what -- what had been discussed over the past five minutes, all those gen AI features can make the entire platform not only sticky but also more valuable, right? So, you know, quite often, you know, some customers say, "Yeah, you can charge," and some other competitors do that. We -- we are taking a different approach. We think if you add more value to customers and they are going to do more, they're likely to move on to your entire platform, right? Does not mean we cannot monetize AI. How do we think about AI to be the new services, right? You know, if I can give an example, back in the -- 1995, 1996, the internet was sort of born.
+You know, every -- you know, let's say, you know, the -- you know, the, you know, the stores, right, when they embraced internet, you do not want to increase the price, right? You buy online while you increase price. However, you can leverage internet to build new services, right, and new innovations, right? That's why we're taking a different approach, not as some other competitors. They give you some free service, then they give you generative AI, oh, my God, they charge you a crazy price. I do not think that's fair to customers, right? We are taking a different approach and more value to leverage gen AI to our existing customers, you know, focus on the feature improvements to leverage gen AI; at the same time, given our speed of innovation, how to leverage AI and include some brand-new AI services to monetize.
+That's our goal. That's our direction. Also, that's our differentiator pricing strategy as well. Hopefully, you know, my -- my answer is clear.
+Otherwise, let's talk more at the Zoomtopia.
+Rishi Jaluria
+--
+RBC Capital Markets -- Analyst
+Yeah, very helpful, and looking forward to it. Thank you.
+Eric Yuan
+--
+Founder and Chief Executive Officer
+Appreciate it. Thank you.
+David Connell
+Our next question comes from Alex Zukin with Wolfe Research.
+Alex Zukin
+--
+Wolfe Research -- Analyst
+Hey, guys. Thanks for taking the question. I guess, so when I sit back and look at the quarter, this quarter looks a little bit different than last quarter. You grew sequentially your revenue base on enterprise and online for the first time together and sometime, where both of those things happen.
+Your enterprise billings actually grew as well. And so, I look at the guidance and it looks like we're taking a step back, and I appreciate the conservatism in the macroeconomic environment. Appreciate the fact that you've got changes you're still working through in the go-to market. But help us understand if we look at the trends as they've -- you know, has churn stabilized to a point where we can expect, for instance, on the online business, that this is a new floor we can count on? Because if I look at the exit rate for enterprise revenue, I don't think it's at the rate that, you know, any of us sitting here would -- would be jumping up and down about.
+You mentioned ARR on the enterprise side starting to, I think you said, inflect but maybe go back up in the first half of next year. What's the right way to interpret the enterprise growth exiting this year and into next year? Then I've got a quick follow-up.
+Kelly Steckelberg
+--
+Chief Financial Officer
+Yeah. So, in terms of online, I would say that, you know, we are very pleased with the performance that we're seeing in the churn rate itself. And I do think we're stabilizing around a new level that is back to historic levels, and I think that's a reasonable assumption to make going forwards. And then, in terms of enterprise, we're obviously not in a place that we're going to comment on FY '25 yet. We're not going to do that on this call.
+But enterprise, you know, when you look at it from a from a -- form a -- how do I say this to you -- when you look at it in terms of the growth rate that you're expecting, you can -- you can back into, right, what it is. And we are, as you say, still considering, you know, no improvement from the macro at this point and, as you said, continuing to have the sales force settle in to our new structure. You know, we're thrilled to have Graeme leading the organization. We -- you know, some of the transitions took a little bit longer in EMEA and APAC than the rest of the world, as you've heard us talk about. But, you know, as we're coming into Q3, the pipeline is strong.
+It's stronger than it was as we were coming into Q2. So I think those are the factors you can take into consideration as you're looking for the growth rate for the rest of the year.
+Alex Zukin
+--
+Wolfe Research -- Analyst
+OK. And then maybe, Eric, for you. Obviously, the evolution of Zoom from a, you know, point solution to a platform is nice to watch. You've talked about Zoom One.
+You've now given us that $500 million annualized number for Zoom Phone. What's the penetration today for Zoom One within the enterprise base? And what's the penetration for the Phone product in the enterprise base? And where does it go from here in your mind? Like, what does success look like for you?
+Eric Yuan
+--
+Founder and Chief Executive Officer
+Yeah, I think Zoom Phone penetration is doing relatively well, but Zoom One, I think, you know, still has a huge opportunity, right, Zoom-wise, not only for Zoom Meetings, the Phone, right? Also, Team Chat if a customer wanted to deploy our free integrated Team Chat solution and Whiteboard and a lot of other services, right? So, I think a huge opportunity, especially for medium and large-size customers. And we needed to kind of share the value. You know, as I said earlier about, like, gen AI features, all those kind of thing is part of Zoom One, right? So, leverage all those -- you know, the cool features, right, to -- to, you know -- to penetrate the more, you know, and -- about Zoom One when the market is shared, right? And the Zoom Phone itself is going right and well but, you know, a huge opportunity ahead of us for Zoom One penetration, and I would say we just started. So, you know, I give one example. I'll take USPS, for example.
+When they realized, "Wow, you have a great Team Chat solution. It's also part of Zoom One, and also it's free, that's amazing." And they tested it, right? Why not deploy Zoom One, right? So, many more customers, when they realize the full potential of a Zoom One platform, I think that's the value, right, we need to focus on, so.
+Alex Zukin
+--
+Wolfe Research -- Analyst
+Perfect. Thank you, guys.
+Eric Yuan
+--
+Founder and Chief Executive Officer
+Thank you, Alex.
+David Connell
+Our next question comes from Peter Weed with Bernstein.
+Peter Weed
+--
+AllianceBernstein -- Analyst
+Thank you. And maybe this kind of falls up a little bit of what Alex was just getting at. But, you know, first off, I want to say it's really exciting to see the progress on Zoom Phone and Contact Center. It's been amazing to watch that.
+And, you know, all the checks I do with folks are very positive on -- on things that are going there. You know, I think, Kelly, you commented a few minutes ago and we're alluding to, I think with Alex here, you know, that NRR may come down a bit, you know, before it starts reaccelerating. Maybe by the end of this fiscal year and maybe the beginning of next year, we start to see some line of sight to some benefit there. I'd really love to kind of dig into like what will drive that improvement.
+And kind of when I split the customer base, you do a really nice job of reporting both on greater than 100K and less than 100K. Like some quick math suggests where it's been really painful recently is on the greater than 100K customers. And I'm trying to figure out, like, on that reacceleration is it about kind of reigniting those greater than 100K is the opportunity with the less than 100K, like, growing them up because they're less mature, and like, really what is it that you are going to be delivering with these customers to reignite that between those -- those customer bases?
+Kelly Steckelberg
+--
+Chief Financial Officer
+So, one of the things I commented on is that we have seen some dislocation in our customers' own employee base and that our sales reps do a great job, when they're talking to those customers, about helping them potentially rightsize if they have downsized in their employee base, but upselling and retaining that revenue in other parts of our platform. So, that -- as there's still pressure in the macroeconomic environment, you're going to see that a little bit, right? So, maintaining logos, maybe even maintaining the same amount of revenue, but would have been an upsell if not for a down-sell due to seats. So, part of it is just an ongoing potential change in the macro, which we have not factored into the guidance that we gave, and then the continued acceleration of all these new products that we keep talking about, right? Phone is obviously doing really well and has well hit its stride. But remember, that's taken three to four years to accomplish. And so, Contact Center, do we expect to follow the same, is just -- it just needs a little more time.
+And then, you heard about all the additions into the Contact Center platform itself with ZVA, with Workforce Management, Quality Management that's coming. All of those will continue to contribute to growth over time. And then, you know, Eric sort of hinted, thinking about the ways that AI, over time, is going to help with both retention as well as potential opportunity to grow revenue. So, it's just some of these things just have to grow a little bit or, you know, age a little bit and mature into the stage that they're contributing in a way that you can see them.
+Peter Weed
+--
+AllianceBernstein -- Analyst
+Yeah. And how high do you anticipate NRR being able to get once all of that stuff works out? I mean, obviously, you've seen some of those headwinds, so you kind of know how much you -- you're like, darn, like, I lost this and it would have been so much better. Like if you're looking forward, like, what should we aspire to be getting NNR back to? And, like, how soon do you think we can get there?
+Kelly Steckelberg
+--
+Chief Financial Officer
+Yeah. You know, Peter, we'll talk about that more when we're ready to give FY '25 guidance but not -- not today.
+Eric Yuan
+--
+Founder and Chief Executive Officer
+You know, I can [Inaudible] little bit more, Peter. So, the question you asked were very similar to what Alex asked about Zoom One. Actually, you know, today is -- the problem is, you know, Zoom is it's too strong brand on Meetings side, right? Many of the customers, unfortunately, even did not realize we have a lot of other services, not to mention a Zoom One platform, right? That's the No. 1 challenge that we're facing, how to make sure all those, even existing -- even -- for existing customers, they also say, "Oh, this is just the Meetings." That's not the case, right? When we -- you know, and share a good story, make sure most of our customers or the public realize Zoom, not only just the Meetings, had a full platform.
+I think the inflection point will not happen until then.
+Peter Weed
+--
+AllianceBernstein -- Analyst
+Thank you.
+Eric Yuan
+--
+Founder and Chief Executive Officer
+Thank you.
+David Connell
+Our next question comes from Imtiaz Koujalgi with Wedbush.
+Imtiaz Koujalgi
+--
+Wedbush Securities -- Analyst
+Hey, guys. Thanks for taking my question. Two questions. First one for Kelly.
+And you had a price increase for the online business in Q1, and that was being phased out, I think, in different geos at different times. Has that been rolled out across the globe? And if you can comment on any tailwind you saw from that price increase in the Q2 online business.
+Kelly Steckelberg
+--
+Chief Financial Officer
+Yeah. So, it has been very effective in general in terms of, you know, maintaining strong retention rates and moving customers from monthly to annual as they continue to see value when we've rolled out this price increase. And given that it's been in effect for the full time now, we're not going to break out, but -- you know, break it out separately. But it certainly is overall having a great impact and including in the momentum for online. And it is -- I believe it's live in every market at this point.
+Imtiaz Koujalgi
+--
+Wedbush Securities -- Analyst
+Got it. And then, one follow-up on Contact Center. I know it's pretty early. You've just started -- you know, you've just had, you know, your first early customers, but any comments on price points just seeing an attach rate of seats? So, let's say a customer has 100 seats of Zoom Meetings.
+When customers buy Contact Center, what is -- what is kind of the attach rate that you're seeing for these early -- early customers?
+Kelly Steckelberg
+--
+Chief Financial Officer
+Yeah, it's -- I mean, it's it's very different, right, in terms of it's not -- it's not anywhere near like Phone typically is near one to one and sometimes even more one to one, you know, attach rate. Contact Center is very different. It depends on the use case we're seeing of the customers. If it's an internal helpdesk or if it's like, you know -- one of our largest deals today was a BPO where it is their business, right, to drive Contact Center.
+So, I don't think there's necessarily a standard ratio that you can look at because it varies so much based on use cases. And then, in terms of pricing, as a reminder, our list price for Contact Center is highly disruptive. It's $70 per seat. And given -- you know, comparing that it's -- given comparing it to the other competitors in the market, it's a really -- I think brings a lot of value to our customers. So, while, you know, enterprise customers and larger customers are going to get discounts, we've certainly been able to manage to maintain price points given how disruptive and competitive it is compared to others in the market.
+Imtiaz Koujalgi
+--
+Wedbush Securities -- Analyst
+Can I just sneak in just one more clarification? You mentioned that we won't have visibility into Contact Center revenues for another four to six quarters, it's still very early. Were you implying that it'll be close to 10% of revenues in four to six quarters?
+Kelly Steckelberg
+--
+Chief Financial Officer
+No, no, no, no, no, no, no. I don't mean to imply that at all. I just mean that -- I see Matt laughing -- that, over time, right, you started to see Zoom Phone and we talked about like more milestone metrics and how it was contributing, that's what I was saying. I mean --
+Unknown speaker
+Yeah.
+Kelly Steckelberg
+--
+Chief Financial Officer
+That would be a fast growth rate if that were to occur.
+Imtiaz Koujalgi
+--
+Wedbush Securities -- Analyst
+Got it. Thank you, guys. Thanks a lot.
+Eric Yuan
+--
+Founder and Chief Executive Officer
+Thank you.
+David Connell
+Our next question comes from Matt Stotler with William Blair.
+Matt Stotler
+--
+William Blair and Company -- Analyst
+Yeah. Hey there, thank you for taking the question. Maybe just to follow up on -- on Zoom Phone, if I look at the disclosure this quarter, you know, 500 million ARR, and last quarter, Zoom Phone was 10% as a percent of revenue, the implication would be, you know, something in the ballpark of, let's say, 10%, maybe a little more, sequentially in terms of growth for -- for Zoom Phone ARR. I would just like dig into -- or double click on, I guess, what's driving that growth, right? Is that indicative of the success you're seeing with Zoom One? Is that evidence of go-to-market maturity there? Is it some large customers like the BPO you just mentioned, kind of ramping up? Anything you'd like to call out there?
+Kelly Steckelberg
+--
+Chief Financial Officer
+Yeah, I mean, actually, Matt, it's all of the above is what I would say. You know, it's as we take in -- as we are talking to our customers about renewals, taking the opportunity to talk to them about the value of Zoom One or talking about just helping them, I think every CFO and CIO across the world today is trying to think about how do they, you know, drive more efficiencies in their organization, and Zoom Phone is a great way to do that when you look at it compared to the ROI, especially having it as an on-prem solution. And then, also with Contact Center, if Contact Center is a driving force, Zoom Phone is a very natural adjacency to it. So, I think it's a combination of all of that, and it's just going to continue to create more and more synergies as -- as Zoom Contact Center, especially, continues to mature.
+Matt Stotler
+--
+William Blair and Company -- Analyst
+Yeah, OK.
+Eric Yuan
+--
+Founder and Chief Executive Officer
+Just -- yeah, just quickly, you know, when we talk with our customers, they're really like, you know, have both, you know. They deploy both Zoom Meetings and Zoom Phone together. The Contact Center, the new opportunity, in particular, for those customers, you know, I think they don't want to deploy a point of solution, right? If you just have a Phone [Inaudible], it's really hard to -- to -- to -- to -- to build a sustainable business. Customers', you know, Phone and Meetings, you know, sort of the, you know, very similar integration, like, you know, have a phone call, one more click and jump to the video meeting, right? So, that's, you know, that's -- that kind of seamless experience really help us, you know, further accelerate our Phone growth, right? If you just offer a point of solution that's really not as scalable, not as sustainable, and -- down the road, more and more customers, they would like to move on to a platform player like Zoom.
+Matt Stotler
+--
+William Blair and Company -- Analyst
+Got it. Thank you.
+Eric Yuan
+--
+Founder and Chief Executive Officer
+Thank you.
+David Connell
+Our next question comes from Sterling Auty with MoffettNathanson.
+Kelly Steckelberg
+--
+Chief Financial Officer
+Hi, Sterling.
+Sterling Auty
+--
+MoffettNathanson -- Analyst
+Hey, guys. All right, Kelly, for the online outlook, how much of this is that -- because it seems like the online guidance is a little bit worse than what we had before. How much of this is macro? How much of this is execution? And, Eric, one for you. When we think about AI and all the innovation that you're driving, how much of that AI innovation is just going to be driving and differentiating the core Zoom products versus bringing a premium monetization kind of, you know, pricing model, you know, or specific AI SKUs?
+Kelly Steckelberg
+--
+Chief Financial Officer
+Eric, you want to go first?
+Eric Yuan
+--
+Founder and Chief Executive Officer
+Sure. Yeah. So, first of all, in terms of honesty, Sterling, you know, I know you have a pro account. You know, hopefully, you still have a pro account, you know, and for sure, you can contribute to our online groups.
+So, speaking of AI, I think, you know, we are taking a different approach. As I said earlier, from architectural perspective, it's different -- it's better with AI. In terms of monetization, right, again, you know, we look at it how to leverage gen AI to improve our community experience, you know, deliver more value, make the services more sticky. You know, customer appreciated Zoom always, you know, offer more and more features values.
+At the same time, we do not, you know, kind of charge them a crazy price, increase the price a lot, right, at all, right? That's why we build the trust. You know, we want to go to full Zoom platform. At the same time, gen AI does bring huge opportunity, right, in terms of monetization, in terms of for the new service. How -- as I said earlier, how to leverage AI to put some brand new service. You cannot only count on low-hanging fruit, right? You already bought this service, I have a gen AI feature now, you need to pay a crazy price -- I do not think that's sustainable. The customers do not like it, right? That's our approach: how do we, with gen AI, to make sure existing customers are happy and leverage gen AI with building new services, focus on innovation, innovation, and innovation.
+That's our approach.
+Kelly Steckelberg
+--
+Chief Financial Officer
+Thank you, Eric. And, Sterling, in terms of online, you know, I would say we're pleased with the execution. And where you see that is the ongoing stabilization in the churn rate, you know, that I think has been really really well done and stabilized over the last four quarters now. And I think that's a really great indication of the ongoing improvements in the platform, the buy flow, the movement of customers from monthly to annual.
+Where we do see some ongoing headwinds is in the overall macro, which is driving more for the top of the funnel. And that's where Wendy and her team continue to focus on, you know, new pricing packages, new payment currencies, things that can -- they can focus on to expand the top of the funnel so that, over time, and then eventually starting to add new products as well that can be sold online. That's what will eventually drive this. You know, ideally, we want it to -- to not only be stable but to be a growth driver as well.
+Sterling Auty
+--
+MoffettNathanson -- Analyst
+Makes sense. Thank you.
+Kelly Steckelberg
+--
+Chief Financial Officer
+Yeah.
+Eric Yuan
+--
+Founder and Chief Executive Officer
+Thank you, Sterling. Thank you.
+David Connell
+OK, we have time for one more question. And that last question goes to William Power with Baird.
+Will Power
+--
+Robert W. Baird and Company -- Analyst
+OK, great. Thanks for sneaking me in. Maybe one more question on Contact Center. Great to see the traction there.
+I wonder if perhaps, Eric, you can update us on where you are with respect to go-to market. I know that have been a big focus. You know, how much more room and opportunity is there on that front? And then, I guess the second part of that is it feels like there's a big opportunity with respect to AI in Contact Center. And being a new entrant, you know, how do you think about the opportunity for whether it's Virtual Agent or other capabilities to help you be even more disruptive in that market?
+Eric Yuan
+--
+Founder and Chief Executive Officer
+Yeah, great question. So, yes, speaking of go-to market, I think, you know, on product front, we have a high, high confidence when you look at the innovation speed where there's so many features, and Workforce Management, a lot of other features being produced every quarter. In terms of go-to market, I think not like what we did before for Meetings, right? You know, by and large, more like driven -- primarily driven by the regular business, 100% is different. You know, for sure, we need to double down on the indirect channel, right? You know, embrace all the -- the sort of, you know, partners and a master engineer and so on and so forth.
+And I think we need to invest more on that front. And, you know, essentially, you know, this is one of the things why, you know, not like Zoom Phone, you know, quickly, we see the -- the accelerated revenue but even have a greater context on the product. As long as you see the progress on the go-to-market front, I think that, you know, we will see the great result. And in terms of AI , not like, you know, other vendors, right? They already have a contact center solution for -- for a long long time. When you look at AI, you know, kind of architecture, not that flexible right, how to add AI to that, you know, to all those existing layers.
+When we built Contact Center, we already realized the importance of AI, right? That's why, you know, we have a very flexible architecture. Not only do we build organic, you know, AI features, but also, you know, required a survey and also the Virtual Agent and so on, so forth. You know, organic growth and also the acquisition certainly help us a lot in terms of product innovation. And AI is going to play a big role, you know, for the Contact Center. We have high confidence, you know, we can do very well on that front.
+Will Power
+--
+Robert W. Baird and Company -- Analyst
+Thank you.
+Eric Yuan
+--
+Founder and Chief Executive Officer
+Thank you.
+David Connell
+OK, this concludes our Q&A. I would now like to pass things back to Eric for closing comments.
+Eric Yuan
+--
+Founder and Chief Executive Officer
+Oh, thank you all, you know, for joining us, you know, for the Q2 earnings call. I really appreciate your great support and very very grateful, and thank you. Appreciate it.
+Kelly Steckelberg
+--
+Chief Financial Officer
+Bye, everybody.
+David Connell
+[Operator signoff]
+Eric Yuan
+--
+Founder and Chief Executive Officer
+Thank you.
+Duration: 0 minutes

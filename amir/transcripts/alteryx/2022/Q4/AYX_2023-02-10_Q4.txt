@@ -1,0 +1,364 @@
+Operator
+Greetings. Welcome to the Alteryx fourth quarter 2022 earnings conference call. At this time, all participants are in a listen-only mode. A question-and-answer session will follow the formal presentation.
+[Operator instructions] Please note this conference is being recorded. I will now turn the conference over to your host, Ryan Goodman, head of investor relations. You may begin.
+Ryan Goodman
+--
+Head of Investor Relations
+Thank you, operator. Good afternoon, and thank you for joining us today for Alteryx's fourth quarter and full year 2022 earnings conference call. I'm Ryan Goodman, Alteryx's head of investor relations. With me on the call today are Mark Anderson, chief executive officer; and Kevin Rubin, chief financial officer.
+Additionally, Paula Hansen, our president and chief revenue officer; and Suresh Vittal, our chief product officer; will be joining us for the question-and-answer session after prepared remarks. This afternoon, we issued a press release announcing our results for the fourth quarter and full year ended December 31, 2022, as well as a new shareholder letter with key metrics and commentary on the results. If you would like a copy of the release and shareholder letter, you can access both online on our Investor Relations website. During this call, we will make forward-looking statements related to our business, including statements about our financial guidance for the first quarter and full year 2023.
+These statements are not guarantees of future performance. They are subject to a variety of risks and uncertainties, some of which are beyond our control. Our actual results could differ materially from expectations reflected in any forward-looking statements. For a discussion of additional forward-looking statements made during this call, and the material risks and other important factors that could affect our actual results, please refer to our SEC filings available on the SEC's website and our Investor Relations website, as well as the risks and other important factors discussed in today's earnings release.
+Additionally, non-GAAP financial measures will be discussed on today's call. A reconciliation of these measures to their most directly comparable GAAP financial measures can be found in today's earnings release. With that, I'd like to turn the call over to chief executive officer, Mark Anderson.
+Mark Anderson
+--
+Chief Executive Officer
+Thanks, Ryan, and thank you all for joining us on the call today. We delivered a strong Q4 with all of our key financial metrics, exceeding our outlook. Q4 revenue came in at $301 million, up 73% year over year. Annual recurring revenue, or ARR, came in at $834 million, up 31% year over year and Q4 non-GAAP operating profitability meaningfully exceeded our outlook at $68 million.
+We finished 2022 with strong growth momentum and an increasing focus on profitability, capping historic year for Alteryx with multiple key strategic initiatives. We significantly accelerated our cloud platform innovation road map. We realigned our go-to-market motion to focus on the largest global organizations with the greatest opportunity for expansion. We updated our partner program to efficiently scale our market reach, and we invested in our customer success program to ensure that our customers are engaged and successful on their data democratization journeys with Alteryx.
+We are pleased with our financial results, particularly given the economic backdrop as our value-focused sales motion is resonating with customers. Even so, we are seeing similar dynamics that are facing many of our software peers. In Q4, we saw this in the form of elevated deal scrutiny and elongation of sales cycles. I've certainly experienced similar macroeconomic headwinds throughout my executive career and I'm confident in our ability to continue to execute at a high level with the transformational decisions we've made over the last two years.
+First, our Alteryx Analytics Cloud platform has catalyzed enterprise buy-in to the long-term Alteryx vision. Second, our focus on enterprise has driven a mix shift to higher lifetime value customers with increased net retention. Third, our executive-facing go-to-market approach has aligned our sales engagement with the decision-makers and budget owners of our customers. And last but not least, our level of engagement with customers is stronger than ever, supported by both our partner ecosystem and customer success initiatives.
+Underlying this is robust demand for data analytics as we are seeing CIOs prioritize core operational platforms like Alteryx over front-end applications more exposed to headcount variations. Let me share a few highlights from the quarter. Our Global 2000 penetration increased to 47%, up four points from this time last year as top brands across the globe are aligning with Alteryx. We saw durable strength in our Global 2000 net expansion rate of 129% and our overall net expansion rate of 121% and achieved record-high renewal rates.
+We sold more ELA bundles in Q4 than the rest of the year combined. The increased flexibility and simplified pricing are resonating with our larger customer cohorts. We're also starting to see ELAs from 2021, creating tangible and more predictable upsell opportunities. Our Alteryx online community has now surpassed 400,000 members, a great milestone for these Alteryx zealots, who continue to champion our mission across the globe.
+And our partner ecosystem, which continues to influence a growing percentage of our business is providing an increased tailwind to the business, again, influencing well over half of new business in Q4. Q4 was truly a great quarter, capping off a strong year and another clear validation of the strategic direction of this company. Customers need our innovation now more than ever. The pace and scale of our innovation has never been greater, and our commitment to governance across the platform is enabling our customers to scale with confidence across their organizations.
+Our cloud platform initiative is increasingly becoming a contributing driver of success with large enterprise companies looking to expand their Alteryx deployment. In fact, we're finding that the introduction of Alteryx Analytics Cloud is amplifying customers' commitment to the extended Alteryx platform. Our cloud innovation road map provides customers with a clear path to layer on cloud and expand data analytics to new personas and new use cases. We saw examples of this in Q4.
+We had a great win with Royal Caribbean Group, a leading international cruise company. Building on its existing Alteryx usage within finance, Royal Caribbean is expanding with new use cases and new personas in human resources. They will leverage designer, server, and machine learning in an effort to further unlock and optimize their crew experience and to drive financial efficiencies. They're also adopting Auto Insights as a means to more effectively disseminate information and insights throughout the organization.
+Chemours Company, a global specialty chemicals company that signed on with an ELA earlier in 2022 is now expanding with Auto Insights to provide enhanced data-driven clarity on cost and budgeting trends. And a mobile network operator that expanded with the designer ELA in early 2022, signed on for a cloud ELA in Q4 to utilize Auto Insights for cloud cost optimization analysis by the office of the CIO. With access now to machine learning and designer cloud, they can also explore new use cases such as network data analysis and financial forecasting, empowering new personas within other parts of the organization. Our technology partnerships with cloud-based data warehouses like Snowflake, Databricks, and Google BigQuery are also helping us win with companies driving cloud-based digital transformation initiatives.
+In Q4, Specsavers Optical Group, a multinational optical retail chain selected Designer Cloud to help drive their initiatives to promote a data-oriented culture with self-service analytics. Designer Cloud's low-code/no-code interface and deep integrations with cloud environments like Databricks were key differentiators in enabling this new customer relationship. We have a highly differentiated data analytics platform and our enhanced go-to-market motion built on the pillars of enterprise, partners, and customer success is now enabling us to capitalize on this opportunity. We continue to see strong traction with large enterprise organizations.
+We more than doubled the number of $1 million ACV wins in 2022 versus 2021 and we closed the year with over 140 customers with ARR of $1 million or more, up over 50% year over year. As I mentioned earlier, we now have presence at 47% of the Global 2000. Many are using Alteryx in only a small initial capacity, which creates meaningful upsell opportunities in these accounts for the years ahead. Our ELA bundles are resonating with our larger customers as they provide flexibility to expand to additional licenses for a fixed period of time or what we refer to as first capacity.
+First capacity gives customers the freedom to use up to 50% more than their allocated license count at no cost during the first year without additional license or procurement administration complexity. When our customers are digitally transforming, this first capacity helps them go faster. And for the ELA sold in Q4 2021, some of which were multiyear contracts, over two-thirds became upsells in Q4 2022. We are still in the early days for the ELA strategy and momentum has been growing.
+Orange France, the largest subsidiary of the Orange Group and a leader in B2B and B2C telecommunication services in the country, selected an Alteryx ELA in Q4 to automate and optimize many processes within the financial team, as well as to drive analytics on infrastructure and network usage. The ease of use of the Alteryx platform coupled with the flexibility of the ELA, convinced the finance teams, and will enable Orange to begin expanding data analytic usage with new personas throughout the organization. As for the second pillar of our go-to-market motion partners, we are benefiting from ecosystem expansion and favorable engagement trends. We're pleased to welcome EY as one of our newest partners in Q4.
+Partners delivered over 50% year-over-year growth in new logo ACV contributions in 2022 and once again, influenced well over 50% of the new ACV in the quarter. We deeply value our partner relationships, and it is particularly gratifying when we find our partners broadening their usage of Alteryx as a customer. KPMG is a great example where we're seeing both regional expansion of the partnership, an increased usage of designer to provide differentiated offerings to their clients, particularly those looking to transform and optimize their corporate tax departments. In Q4, KPMG increased its designer license count by over 50% as it looks to elevate Alteryx usage across more client-facing consultants plus further leverage Alteryx for internal analytics.
+Partners provide additional scale to our go-to-market motion, enhancing our ability to find incremental use cases and drive value for our customers. We saw this with West Monroe, a digital service firm, who worked closely with a partner when they first explore Alteryx solutions over the summer. In Q4, West Monroe significantly expanded their Alteryx implementation after identifying opportunities to both accelerate and enhance digital analytics services they provide their clients. And the journey doesn't end with the implementation of our software, we've invested in our customer success team over the past two years, and our customers are seeing tangible incremental returns on their Alteryx engagement.
+There are so many positive examples here of value creation in partnership with Alteryx customer success. A leading FTSE100 financial institution identified over 1.5 million pounds in value by automation of manual efforts, upskilling, and efficiency gains. A national retail chain identified a way to save 5,000 hours plus hundreds of thousands of dollars in costs within its supply chain optimization in just two months of working with the Customer Success Manager. I encourage you all look at the use cases on our Alteryx community site for real-life examples that speak to both the value of our solutions and the effectiveness of our enhanced customer success efforts.
+As I look ahead to 2023, we have a massive opportunity in front of us, and we expect to achieve a significant milestone of becoming a $1 billion ARR company this year. Let's be clear, it won't be easy in this macro environment, but we have demonstrated the robust nature of data analytics demand, as well as Alteryx's ability to effectively execute in this market. We entered 2023 on even stronger footing and are focused on three key initiatives to ensure our success. First, the Alteryx Analytics Cloud platform.
+We are seeing strong interest in our portfolio of offerings across designer cloud, machine learning, and auto insights as customers look to consolidate vendors, we are uniquely positioned to provide a cloud-based end-to-end, low-code/no-code data analytics platform for all. And we have some exciting updates to share on this front soon. Second, go-to-market. We made so much progress in upgrading our go-to-market motion in 2022, and I firmly believe we are just getting started.
+We entered 2023 with an upgraded and expanded sales force, hardware program, and customer success team, and we're just starting to lap early ELA wins, which will create incremental upsell opportunities at our larger customers; and third, profitability. As we move beyond the investment phase of last year, we are committed to increasing operating profitability. We plan to achieve this through both scaling the business and demonstrating spending discipline. Kevin will provide additional color in his comments.
+In closing, 2022 was an outstanding year for Alteryx, and I'm so proud of the entire team. We are absolutely changing lives with what we do, empowering people to upskill themselves and drive value for their companies. Thank you to our customers, our employees, and our partners on an amazing 2022. And with that, I'll turn the call over to Kevin for a closer look at the financials.
+Kevin?
+Kevin Rubin
+--
+Chief Financial Officer
+Thanks, Mark. Q4 was a strong financial quarter and capped off a year of robust ARR growth and an accelerated return to positive non-GAAP operating profitability. ARR of $834 million grew 31% year over year. This included a $7.9 million FX tailwind relative to our guidance.
+Even excluding this FX impact, ARR still would have exceeded the high end of our guided range. Revenue of $301 million grew 73% year over year, which was well above the high end of our guided range, benefiting from a strong renewal cycle and record renewal rates. Non-GAAP operating profit came in at $68 million, $13 million above the high end of the guided range. This was driven by both top-line strength, as well as elevated spend and discipline.
+For 2022, revenue of $855 million increased 60% year over year and non-GAAP operating profit came in at $13 million, both above the high end of our guided ranges and significantly better than the initial outlook entering the year. Earlier in the year, we enhanced our go-to-market motion with investments in enterprise, partners, and customer success, and we accelerated our cloud innovation road map with strategic investments in the platform architecture. As we move beyond this investment phase, we're already seeing points of leverage materialize in the financial model. We improved Q4 non-GAAP sales and marketing expense as a percentage of revenue by seven points year over year.
+We benefited from early productivity in the sales force in 2022 versus 2021 in terms of new ACV per sales rep. As we enter 2023 with a higher mix of ramped reps more comprehensive sales enablement capabilities and with expanded product portfolio, we expect these tailwinds to persist and help us navigate this dynamic macro environment. And we improved Q4 non-GAAP G&A expense as a percentage of revenue by three points year over year, driven primarily by efficiencies of scale. On top of the natural leverage embedded in our financial model, we've identified additional opportunities for cost optimization to further accelerate our return to higher profitability.
+For example, given the distributed nature of our current workforce, we were able to rationalize our real estate usage by approximately 40% during Q4. In addition, we optimized headcount by approximately 5%, primarily from rigorous performance management, as well as role eliminations. Looking ahead, we feel the business is on strong footing to deliver expanding profitability with scale. And with the majority of our costs being variable in nature, we believe we have the ability to stay nimble in this economic environment.
+Profitability is certainly top of mind. And as we now move beyond this investment phase, we are focused on delivering durable, profitable growth going forward. Underpinning this success is our growing traction with large enterprise organizations. We continue to see our strongest ARR growth with our $1 million-plus ARR customer cohort, bolstered by many of the strategic initiatives we put into motion over the past couple of years.
+For example, we upgraded our enterprise sales force with well-tenured experienced reps. And as we land wins with larger companies, we are effectively seeding future upsell opportunities at a much higher scale. With approximately one-third of our Global 2000 customers generating less than $50,000 in ARR today, and approximately 200 Global 2000 customers still within two years of their first Alteryx license purchase. We have a large runway for growth as we deepen penetration in coming years.
+Expansion is a key growth driver for our business, with the vast majority of our new ACV in any given quarter continuing to come from existing customers. And now as the opportunities become bigger, we are seeing consistent growth in the average expansion deal size. To help us streamline this enterprise adoption, we introduced ELA bundles in mid-2021. ELAs come in tiered bundles that vary in size and burst capacity.
+This allows for progressive upselling, and we are already seeing success with the 2021 ELA cohort. The investor presentation we posted on our website today helps illustrate how ELAs creates expansion opportunities with Alteryx. Mark noted that over two-thirds of the ELA is lapping one year upsold in the fourth quarter. Of those that expanded, we saw average ARR growth of over 50% year over year.
+While this is still a very early sample set, it demonstrates the positive impact ELAs can have when coupled with proper customer success and a growing product portfolio. On that note, to further accelerate the customer land and expand motion, we made meaningful investments in our customer success practice. We have found that accounts leveraging our customer success team are seeing net expansion rates more than 10 points higher than those that are not. To summarize, we are winning with larger companies, which is unlocking bigger opportunities and driving larger deal sizes.
+All of this is fueling robust growth momentum in our average ARR per customer, which reached $100,000 in Q4. As we look to 2023, we are paying close attention to the state of the macro environment. While we are executing with a high level of success, our outlook incorporates an elevated level of conservatism to account for potential shifts in macro dynamics, keeping a close watch on all key forward-looking business indicators, such as new pipeline generation, sales rep productivity, and sales cycles, and we believe we can quickly calibrate the model should the need arise. That said, we have several incremental growth drivers to layer on in the coming year that we expect will contribute to our growth and profitability momentum.
+First, we have a meaningfully larger renewal base relative to 2022, which supports revenue growth and creates upsell opportunities. Second, we have a growing book of ELAs where burst expirations create additional upsell opportunities with a high level of visibility. Third, we expect to sell significantly more ELAs in 2023, driven by growing traction with large enterprise customers. Fourth, the Alteryx Analytics Cloud platform is unlocking new personas and new use cases, as well as catalyzing adoption across the Alteryx offerings.
+Fifth, we view international expansion as a meaningful opportunity invigorated with new sales leadership. And last but not least, our growing partner program is contributing incremental opportunities within new and existing customers. With this framework in mind, let's turn to the Q1 2023 outlook. We expect ARR to be in the range of $856 million to $860 million, representing year-over-year growth of 25% to 26%.
+Our guidance assumes FX rates remain at current levels. We expect GAAP revenue to be in the range of $198 million to $202 million, representing year-over-year growth of 25% to 28%. We expect non-GAAP operating loss to be in the range of $23 million to $19 million per share to be in the range of $0.29 to $0.25. This assumes 69.7 million weighted average shares outstanding and an effective tax rate of 20%.
+For the full year 2023, we expect ARR to be in the range of $1.015 billion to $1.025 billion, representing year-over-year growth of 22% to 23%. We expect GAAP revenue to be in the range of $980 million to $990 million, representing year-over-year growth of 15% to 16%. In terms of linearity, our business historically has seen an approximate 40-60 split between the first half and second half of the year for net new ARR and revenue. As we derive portion of growth from large enterprise customers, we expect similar top-line linearity dynamics in 2023.
+We expect non-GAAP operating profit to be in the range of $40 million to $50 million. We expect our spending to track similar to historical patterns in which Q2 reflects an uptick in spending for items, including our Inspire User Conference, followed by a sequential spending decline in Q3. Given the top-line linearity and timing of expenses, we expect nearly $100 million in non-GAAP operating profitability to come in the second half of the year. We expect non-GAAP net profit per share to be in the range of $0.36 to $0.46.
+This assumes 78 million weighted average shares outstanding and an effective tax rate of 20%. In summary, 2022 was an excellent year for Alteryx. We strengthened our go-to-market motion, we accelerated our cloud innovation road map, and we delivered ARR growth of 31% with non-GAAP operating profitability. As for 2023, while the macro-dynamics are certainly a factor, we believe we're on track to surpass $1 billion in ARR, and we expect to achieve this scale with disciplined spending, expanding profitability, and positive operating cash flow.
+Before we wrap up, I'd like to also let you know we are planning to hold an Investor Day in conjunction with Inspire being held from May 22 to May 25. We'll provide additional details on this soon. With that, thank you all for joining us today, and I'll turn the call back to the operator for Q&A.
+Questions & Answers:
+Operator
+Thank you. And at this time, we will be conducting a question-and-answer session. [Operator instructions] One moment, please, while we poll for questions. Our first question comes from the line of Brent Bracelin with Piper Sandler.
+Please proceed with your question.
+Brent Bracelin
+--
+Piper Sandler -- Analyst
+Good afternoon. Great to see the pivot back to profitability here. Mark, for you, the $75 million build in net new ARR in Q4 is by far the most we've ever seen, despite increasing deal scrutiny here. New ELAs and upsells seem to be the big contributor.
+What's driving the EL interest in this recessionary environment and why now?
+Mark Anderson
+--
+Chief Executive Officer
+Yeah. Hey, Brent, thanks for the question. Yeah, listen, I think, you know, the ELA -- the interest in the ELA continues to grow. We launched this about a year and a half ago.
+And as you heard from the prepared comments, we've just seen incredible traction for our customers, primarily because the ELA gives them flexibility and doesn't restrict them, like the old-world software company used to wrap you on the knuckles when you went over your license count. I think based on what our customers use Alteryx for to help transform their tax department or to help make better decisions in supply chain. We want our customers to go faster. We want them to do more.
+So, we actually allow for a burst of 50% and customers have just been eating that up as you heard. So, I think it's that. And I think also people are really aligned with where we're going as a company and how we're getting there and the rooting for us. So, I'm expecting even better results down the road.
+Brent Bracelin
+--
+Piper Sandler -- Analyst
+Helpful color. And then, Kevin, just a quick follow-up here on the guide. Net new ARR, it looks like it's going to be about $9 million less this year than last year. You talked about elevated levels of conservatism in that guide.
+What's factored in that? Is that something that you're seeing in the pipeline today or more around trying to factor in some of the recessionary headwinds that could impact the business? Thanks.
+Kevin Rubin
+--
+Chief Financial Officer
+Yeah. Thanks, Brent. I think, look, at the end of the day, we are very cognizant of the economic backdrop and environment that we're in today. And we're just baselining our guidance on a weakening overall environment as we go through the year.
+Brent Bracelin
+--
+Piper Sandler -- Analyst
+Thank you.
+Kevin Rubin
+--
+Chief Financial Officer
+Thanks, Brent.
+Operator
+Our next question comes from the line of Tyler Radke with Citi. Please proceed with your question.
+Tyler Radke
+--
+Citi -- Analyst
+Yes. Thanks for taking the question. I wanted to ask you just a product question. If you could just level set how you're thinking about the rollout of some of the cloud SKUs for 2023 to the extent you've baked in any contribution from some of those new product releases? And then just given all the excitement around OpenAI, ChatGPT, how are you thinking about that opportunity?
+Mark Anderson
+--
+Chief Executive Officer
+Yeah. I think great questions, Ty. Thanks a lot for the question. Maybe I'll take the beginning of this question, then I'll hand it over to our subject matter expert, Suresh Vittal, who runs product for Alteryx here.
+So, on ChatGPT, listen, I'm super excited about it. I think any kind of technology that aligns with our notion of democratizing analytics, being able to put capabilities in the hands of knowledge workers in the functional areas, because you can't train a data scientist to be a great supply chain person. I'm all for it and super excited about it. And of course, we've been very, very aligned with generative AI in the first place in large language model.
+I think I kind of see this in kind of three sort of buckets, really. First of all, it's going to work with our products to help accelerate timely insights, streamlining the development of analytics throughout the enterprise to go faster and to get better insights. Secondly, as I said, it will help democratize access to better decisions with the data that rolls around the enterprise. And third, it's really already starting to see this -- if you've looked at LinkedIn and seen what some of our partners have posted already between ChatGPT-3 and Alteryx, it's going to give us some really cool vertical applications that will dovetail very nicely.
+I think as these technologies work very complementary to each other. So, I'm super excited about it. And I think just a quick note before handing over to Suresh on innovation. I'm really proud of our team.
+We've come through 2022, and we've knit this Trifacta acquisition into our applications. And this year, we're going to be cooking with gas. I'm telling you because we've got so much innovation rolling out. If you come to our Inspire conference in May and will be able to hear kind of what we're talking about.
+But a lot of innovation coming this year, and I'll pass it over to Suresh.
+Suresh Vittal
+--
+Chief Product Officer
+Thanks, Mark. Tyler, great question. So, on the cloud SKUs and the cloud rollout, we're super excited. We've been systematically, as Mark said, integrating the Alteryx Analytics platform and all the new innovation, whether it's Designer Cloud, Alteryx machine learning, Auto Insights, location intelligence, metric store, really getting innovation into the hands of our customers.
+We see this as a great opportunity to expand access regardless of where the customer wants to consume Alteryx innovation on a desktop in a browser or in a mobile device, they get access to that. And so, 2023 is going to be a continued set of rollout of the capabilities and adoption by customers. As I said, new personas, new use cases. Lots of opportunity for our customers to try out the cloud technology.
+On the ChatGPT question, Mark kind of alluded to, and we think it's a massive accelerating opportunity for us. What is --Imagine a world where customer could base on generative AI trained against their libraries of previous workflows in Alteryx. They're synthesizing new workflows and giving creators a lot more time and flexibility in how they embrace our technology. We see great opportunity for generative AI to help augment our capabilities as well.
+We're already building tools that leverage generative AI technology needs to translate between languages like SQL and Python and create huge time savings for the different technology and developer personas, so they can start to incorporate massive amounts of SQL code and Python code into their Alteryx platforms. Mark talked about the reimagination. So, many of our partners are already starting to reimagine and create vertical apps that bring a combination of generative AI and Alteryx. We think the end goal of democratizing analytics and indeed democratizing AI is very nicely matched between what technologies like ChatGPT, generative AI technologies, and large language models allow consumers to do and what Alteryx helps consumers do.
+So, we think this is a real one plus one equals three opportunity for us.
+Tyler Radke
+--
+Citi -- Analyst
+Great. And just to clarify, maybe for Kevin, are you embedding some contribution in the guide just from some of the new cloud products that are expected to roll out? Or is that all upside?
+Kevin Rubin
+--
+Chief Financial Officer
+No, we certainly are anticipating that the cloud suite of products become more significant to the business in '23, and we've certainly contemplated that in how we think about the contributions of our business this year.
+Tyler Radke
+--
+Citi -- Analyst
+OK. Thank you.
+Kevin Rubin
+--
+Chief Financial Officer
+Thanks, Tyler.
+Suresh Vittal
+--
+Chief Product Officer
+Thanks, Tyler.
+Operator
+Our next question comes from the line of Derrick Wood with Cowen and Company. Please proceed with your question.
+Derrick Wood
+--
+Cowen and Company -- Analyst
+Great. Thanks. Congrats, guys, on a solid quarter and some nice nuggets in that shareholder letter. And so, maybe I'll start with -- and maybe Kevin, this is directed to you, but the one-third of your, I think, Global 2000 base generating less than $50,000.
+Do you see the majority of those customers as targets to bring into the seven-figure range over time? And then on the flip side, given that your strongest growth is coming from 1 million ARR customers today, can you just give us a sense as to where large engagements are tracking over the next several years? I mean, are these customers moving into the $3 million to $5 million range with -- if you continue the success? Just trying to get a sense as to what the scope of larger customers are trending toward.
+Kevin Rubin
+--
+Chief Financial Officer
+Yeah. Thanks, Derrick. Let me take the first part of that, and I'll have Paula jump in on the second. Yes, so the reason that I provided that level of color relative to the G2K is just for that reason, right? We're very early with a large portion of the Global 2000.
+They have small deployments, and we think the success that we've had with the longer-tenured G2Ks will be replicated across this greater population, not to mention new G2Ks that will end up landing over time. So, to your point, we absolutely see these as an opportunity to significantly expand their footprint and be able to expand much more broadly across the organization. I'll let Paula take the second part of the question around longer-term growth.
+Paula Hansen
+--
+President and Chief Revenue Officer
+Yeah. So, we are very excited by what we're seeing in the largest cohort of our customer base with over 140 customers now and growing that are at 1 million-plus ARR rate still with a lot of room to grow within that cohort and then definitely with intentions to move many of the lower ACV cohorts into that same range and bigger. We have some eight-figure customers today, and we're excited to continue to add to that cohort as well. And what we're proving out with the strategy today with our largest customers is what we will continue to prove out across the entirety of the customer base, the same things that help customers to accelerate their democratization with customer success works across all bands of customers.
+The portfolio that we have value to all sizes of customers. Our partner ecosystem helps us cover all sets of customers. So, it really is continuing this strategy and motion that's working for us to move all of those customers up the growth track with us.
+Derrick Wood
+--
+Cowen and Company -- Analyst
+Great. Well done. Thank you.
+Kevin Rubin
+--
+Chief Financial Officer
+Thanks, Derrick.
+Paula Hansen
+--
+President and Chief Revenue Officer
+Thanks, Derrick.
+Operator
+Our next question comes from the line of Sanjit Singh with Morgan Stanley. Please proceed with your question.
+Sanjit Singh
+--
+Morgan Stanley -- Analyst
+Thank you for taking the question, and really impressive results to close out 2022, so congrats to the team. I wanted to come back to the topic of ELAs and I think you addressed this a little bit in your script, Kevin. But in terms of the percentage of bursting users that you are converting to paid users given the cohort that you saw in 2022, any way to sort of quantify or frame that? So, if you have a customer that's on a 100-user ELA, they have first capacity to 200 sort of on average, what are you seeing that conversion look like over the last couple of quarters?
+Kevin Rubin
+--
+Chief Financial Officer
+Yeah. Thanks for the question, Sanjit. So, maybe I'll call back to the statistic that we had provided last quarter, the ELA burst customers that had been meaningfully in their burst period, 40% of those were inversed. And then we mentioned in the prepared remarks that we saw over two-thirds of expiring 21 ELAs upsell in Q4 of this year, and the significance of that upsell was greater than 50% ARR.
+So, the burst is working. As we go forward, we sold a significant number of ELAs in Q4 and expect to continue to sell more. So, we've converted a lot of those that are outstanding. So, we're back -- we're now at a very large population of ELA customers that are early in their burst cycle.
+And so, we're going to continue to run the same execution strategy of surrounding them with customer success resources and additional products to continue to see success as we convert these throughout 2023.
+Sanjit Singh
+--
+Morgan Stanley -- Analyst
+Yeah. It looks like it's working pretty well. Mark, I wanted to come back to you on just sort of where we are on the broader Alteryx sort of transformation journey. As you came in as CEO, you did a lot of work on the sales, go-to-market, ramping up the executive leadership team and you're sorting that pay tremendous dividends over the last couple of quarters.
+When I look at Kevin's comments on the ramping profitability and your comments on cloud, the piece that we were sort of waiting for back then was progress on sort of the cloud portfolio. I'm trying to sort of read between the lines between Kevin's comments on profitability and all the progress that you've clearly showed over the last year on go-to-market, is there a signal that the investments in sort of products have been largely made and now we're in a phase of the story where you're looking to basically push those products, the cloud portfolio from a go-to-market perspective? Or said another way, is like the cloud portfolio ready for prime time, you know, the two years after you joined the organization?
+Mark Anderson
+--
+Chief Executive Officer
+Yeah. Hey, Sanjit, thanks for the question. And thanks for the well wishes as well. Yes.
+Listen, I think we have done a lot of work to kind of get ready for this incredible opportunity that we have ahead of us, but I still think we're in early days of building out this platform. The Trifacta acquisition was pretty darn important, right? It was the replatforming option that accelerated our journey probably about 50% or more. And in terms of saved time to be able to stand up our stack in all three public cloud environments globally. And getting that done was super important.
+But now, it's really just continuing to innovate and add more capabilities onto this platform, so the customers can have fewer vendors and more consolidation of the elements in this journey that are important. And so, that's absolutely what we're focused on. Profitability, very important. It's a kind of Tier 1 focus for us, absolutely committed to driving leverage in this exceptional business, and it will be leveraged for a very long period of time.
+Sanjit Singh
+--
+Morgan Stanley -- Analyst
+Makes total sense. I appreciate the comments, Mark. Thanks.
+Operator
+[Operator instructions] Our next question comes from the line of Mike Cikos with Needham and Company. Please proceed with your question.
+Mike Cikos
+--
+Needham and Company -- Analyst
+Hey, guys. I did want to come back to the guidance here, and maybe this is more in relation to the first caller on the Q&A. I know we were citing the net new ARR contribution and maybe it's for the newer audience, but just wanted to call out the level of conservatism here. Just because calendar '22 did benefit from the inorganic growth, right? I believe at the time of the Trifacta acquisition, you guys had cited roughly a $20 million contribution to ARR from Trifacta.
+So, the first question on the net new ARR is that $20 million assumption? Did that still hold? Is that true? And then the follow-up, I know that you guys spoke about looking through your guidance, I guess, multiple different lenses. You spoke about the pipeline gen, I guess, your ongoing engagement with customers. But can you give us a little bit more color as far as how you sweated those numbers to arrive at the guidance that we're getting today? Thank you.
+Kevin Rubin
+--
+Chief Financial Officer
+Yeah. Thanks, Mike. Appreciate it. So, yes, that's a good call out.
+I appreciate with respect to Trifacta. So, last year, we indicated we expected Trifacta to contribute about $20 million in ARR for 2022. We actually closed out the year with Trifacta contributing $22 million. So, it was a little bit above the estimate that we had.
+So, that is certainly embedded in the 2022 results and should be considered as you look at 2023. In terms of guidance and the different dynamics in terms of how we think about the process, we certainly have a top-down approach. We have a bottoms-up where we look at all the different components of how we're going to expect to deliver the year, things like the size of the renewal base, the number of ELAs we have outstanding, how the burst affects that, and provides visibility. And then we look at the macro and provide a perspective on how we think that that's going to trend over time.
+And as I said in both my prepared remarks and in response to Brent, we really did want to ensure that we were baselining our guidance this year on a weakening overall environment as we go through the year.
+Mike Cikos
+--
+Needham and Company -- Analyst
+That's great. And then just real quick, but I know that you guys had cited the macro as well with respect to maybe elongated sales cycles. It seems or feels just given the way that you guys are talking and describing the successes here, like that's relatively minor in scope. But can you kind of delve into that a little bit more? And I'd be curious for those sales cycles, is that elongation process impacting both new and existing customers? And is it impacting them differently? Again, anything there would be helpful.
+And thank you again for the answers. I appreciate it.
+Paula Hansen
+--
+President and Chief Revenue Officer
+Yeah, Mike, I'll take that question. This is similar to what we talked about on last quarter's call. We do see more scrutiny when we're working through deals with customers, sometimes a little bit more of an approval process or a review process and that can elongate the cycle a little bit more. But I think perhaps what we feel really positive about is that we've been instrumenting the go-to-market for two years now to be focused on value and to be thinking about the outcomes that we can drive and quantifying it with value engineering engagement and making sure that our customer success teams ensure that previous investments get adopted and turned on quickly and that we're able to come prescriptively when we're expanding with an ELA or a renewal to be able to justify that investment.
+So, I think that we are fortunate that that's been our strategy prior to the macroeconomic environment, and that will continue to be our focus and I think will help us to fare a little bit better during this extra scrutiny that our customers are deploying.
+Mark Anderson
+--
+Chief Executive Officer
+Yeah. And, Mike, I'll add a couple of things to that. First of all, Paula has really built an incredibly good team that's based on the sort of the foundation of high-quality salespeople with a very sophisticated and large enterprise go-to-market motion that is very different than it was a couple of years ago with Alteryx. So, we now are sitting down with CFOs.
+We get visibility to their priorities and working with large partners like a PWC or KPMG. And so, I think we've gone through this transformation to be able to plan out campaigns around renewals, right? And so that's why I think we have real strength in our execution because we're dealing with customers that love our software, and we're providing them with the kind of resources that helps them do a lot more with us and with a lot less friction. And it really is making a big difference. All around the table here, we work on deals with customers every quarter.
+And I've been doing this for a long time. I can't say I've never been more confident about a team than I am now.
+Mike Cikos
+--
+Needham and Company -- Analyst
+Thank you again for the thoughtful answers, guys.
+Mark Anderson
+--
+Chief Executive Officer
+Thanks, Mike.
+Operator
+Our next question comes from the line of Michael Turits with KeyBanc. Please proceed with your question.
+Michael Turits
+--
+KeyBanc Capital Markets -- Analyst
+Hey, everybody. Good evening. Mark, congrats on the performance. Good to talk to you guys as always.
+With the turn to profitability, I wanted to try to ask you a little bit more relative to the leverage you'll get on the sales and marketing side. So, Kevin and Paula, maybe you could talk a little bit about you could quantify as much as possible, how sales headcount grew over time, what it was like in '21, what it's been like in '22? And what you think that would be like in '23? And where we are going into '23 in terms of ramped reps from that context, too?
+Kevin Rubin
+--
+Chief Financial Officer
+Yeah. Thanks, Michael. Let me go ahead and start off at least. So, as we've talked over the last two years, we have hired and invested heavily in the go-to-market organization that has been hiring a different type and scale of rep.
+It has been adding customer support and customer success resources. It's upgrading the technical resources that are in and around the sales organization to be able to help sell and we did so pretty significantly through '21 and most of '22. We saw some of the hiring in sales and marketing start to slow down as we got in the back half of -- and I would expect that we are now kind of out of that investment phase and going into '23, it would be a much slower clip, and it would be much more deliberate and surgical around areas of the business that we see opportunities. So, to go back to Mark's commentary, we are very committed to driving higher levels of profitability as we've kind of exited this investment phase and are now into really driving scale.
+Michael Turits
+--
+KeyBanc Capital Markets -- Analyst
+And I'm sorry, Paula, are you going to jump in there?
+Paula Hansen
+--
+President and Chief Revenue Officer
+Sure, Michael. Just a slight add, which is around the fact that it really is about deploying the same deep planning at this point of the year that we deployed last Q1, where we're really taking all of those ramped resources and the teams that support them to plan the business for the year. and to deploy the same strategy that we deployed last year. So, definitely much more about driving scale this year than it is about adding capacity.
+Michael Turits
+--
+KeyBanc Capital Markets -- Analyst
+I'd ask a bit just about the ramped reps. Can you contextualize maybe where you are now in terms of ramped reps to where you've been in the past and where you might end up at the end of next year?
+Mark Anderson
+--
+Chief Executive Officer
+We're one year better than we were last year. Michael. I'd say that's slightly facetious. We've got a really large cohort of hires that we hired over a year ago that are really coming into their own right now, and these are people that, on average, have more than 15 years of experience are mostly coming from 1 billion companies or greater like VMware or Palo Alto Networks.
+And I know you know this, but from my experience, when you have a product that is very differentiated and a need for it that's never been greater, like I think we have today, you can grow productivity per quota-carrying head for a very long time. And I've been saying that for the last nine quarters, -- and we've seen that for the last nine quarters, and I expect to see that for a very long time. As you have seen from many more mature companies over a five- to 10-year period.
+Michael Turits
+--
+KeyBanc Capital Markets -- Analyst
+Thanks very much.
+Mark Anderson
+--
+Chief Executive Officer
+Thanks, Michael.
+Operator
+Our next question is the line of Kamil Mielczarek with William Blair. Please proceed with your question.
+Kamil Mielczarek
+--
+William Blair and Company -- Analyst
+Thank you, and congrats on the strong results. In your slides, you call out the company, the often use of the [Inaudible] tools for each activity, and Alteryx tresses a wide range of use cases from discovery and pre to prediction and prescription. Can you talk about the role that center consolidation has played in your successful expansion in the G2K? And to what extent are these enterprise wins greenfields where the customer is adopting Alteryx, either any new use case and sunsetting an existing vendor?
+Paula Hansen
+--
+President and Chief Revenue Officer
+Yeah. Thanks, Kamil. No doubt that today's economic time can drive companies to be thinking more about vendor consolidation. And they're looking for platforms rather than single-point offerings or stitching together a collection of discrete tools.
+So, we definitely do find that to be a strength for us when we're out with our customers and positioning our platform and end-to-end analytics platform that not only services the business analysts with the data engineers, the business users, and so forth. And so, it puts us in a great position to talk to customers with a platform value proposition. And it resonates equally with existing customers where, of course, we're spending a lot of our time because there's so much growth opportunity within the existing customer base, but also serves us very well with new customers as well, who are thinking about, OK, if I'm just getting started on this journey, I want to have some investment protection for the future as I grow and know that this platform is going to grow with my business.
+Kamil Mielczarek
+--
+William Blair and Company -- Analyst
+Thanks, Paula. And if I could just squeeze in a quick one for Kevin. Acquisitions and investments made cash flow a bit volatile in '22. Can you provide some detail on how we should think about free cash flow margin conversion in 2023?
+Kevin Rubin
+--
+Chief Financial Officer
+Yeah. I mean, we don't guide to cash flow. I did put some commentary in my script around positive operating cash flow this year, and we do expect cash flow to generally track operating income. With respect to M&A or other investments, that we continue to look at interesting things in the market, and should something present itself that is actionable and strategic, we would certainly take advantage.
+Kamil Mielczarek
+--
+William Blair and Company -- Analyst
+Thank you, and congrats again.
+Kevin Rubin
+--
+Chief Financial Officer
+Thank you.
+Operator
+Our next question comes from the line of Pinjalim Bora with JPMorgan. Please proceed with your question.
+Pinjalim Bora
+--
+JPMorgan Chase and Company -- Analyst
+Great. Hey, everyone. Thanks for taking the questions, and congrats on the quarter. Just two-parter here.
+Could you maybe dig a little bit on the 5% optimization in headcount that you talked about in the letter, what roles did that impact broadly speaking? And I guess going into this year, have you -- what kind of change in sales compensation have you put in place? Is there a particular focus area? Are you putting in any kind of a cloud-based data out there? Any color would help. Thanks.
+Mark Anderson
+--
+Chief Executive Officer
+Hey, Pinjalim. It's Mark here. I didn't hear the second part of your question. Let me answer the first part of it and then I'll allow you to repeat.
+I think it was for Paula. But with regards to headcount, yes, for sure, listen, I think we're -- I'm really happy with the way we finished this year. And mathematically, I feel really good about becoming a $1 billion company in 2023 from a revenue or an ARR standpoint. And it's my experience at this stage and really every year beyond, you got to run a tighter ship regardless of economic conditions, but especially given the macroeconomic conditions, we took a hard look at the plan for FY '23 and realized we can benefit from the foundational investments we made last year in -- not only go-to-market but also in product and engineering and really start to see some meaningful leverage out of this business.
+But to do that, I think we had to do a clean sheet of paper exercise and take a look across the company at roles that were no longer sort of valued, I guess, for the next few legs of our journey. And so, that involved about 150 people, I believe, 150 roles were in effect, eliminated and never an easy thing to do, but I'm really proud of the way our chief people officer, Doniel Sutton, helped us manage this and do it in a way that hopefully allows people to get out there and do something different.
+Pinjalim Bora
+--
+JPMorgan Chase and Company -- Analyst
+Yeah. Understood. My second part was basically around any changes on the sales comp structure that you're putting in place. Any certain focus are you putting in a cloud-based quota? And I'll just add a follow-up there.
+Kevin, is there a way to understand kind of the savings from the 5% optimization in the headcount?
+Paula Hansen
+--
+President and Chief Revenue Officer
+I can be quick on the sales compensation question. No material changes to the way that we've structured our comp plan this year.
+Kevin Rubin
+--
+Chief Financial Officer
+Yeah. And, Pinjalim, just with respect to your last question, we didn't quantify the impact of the headcount adjustments on the business. But certainly, it's embedded in the improving operating profitability that we've guided to. I would just point out the other area of additional savings that we did drive in Q4 was the rationalization of our real estate portfolio where we reduced our footprint by about 40%.
+And that did contribute about $15 million to 2023 in terms of order of magnitude.
+Pinjalim Bora
+--
+JPMorgan Chase and Company -- Analyst
+Got it. Thank you so much.
+Operator
+And our next question comes from the line of Ittai Kidron with Oppenheimer. Please proceed with your question.
+Ittai Kidron
+--
+Oppenheimer and Company -- Analyst
+Thanks. Congrats, guys. Nice quarter. Kevin, a couple of questions for you on duration.
+Can you tell us how duration has changed and impacted your revenue recognition in the fourth quarter?
+Kevin Rubin
+--
+Chief Financial Officer
+Yeah. Thanks, Ittai. I appreciate the comments. So, with respect to duration, I think as we've talked over the last probably six quarters, we've seen duration stabilize in and around one and a half years, which is kind of what we anticipated and signaled over time.
+I think we really are at a point where customers are self-selecting the duration that works appropriately for how they choose to buy and negotiate software. I would remind you that we did have a slight change in the rev rec in 2022 relative to product mix, which is included in our 2022 results. We don't expect that to change -- or we don't expect any changes as we go into 2023.
+Ittai Kidron
+--
+Oppenheimer and Company -- Analyst
+Right. OK. Very good. And then last one for me.
+trying to think again about ELA. And specifically, the '22 ELA cohort that will renew in '23. Can you give us two things? One, anything about the size of that ELA cohort, number one? And number two, what are -- from your experience, you've talked about your expansion rates and what they are for your overall business and for large customers -- but can you tell us roughly what is common to see on first-year ELA expansion? What is the expansion rate on those type of deals?
+Paula Hansen
+--
+President and Chief Revenue Officer
+Yes. So, it's still early days for us with ELAs, which is what gives us so much excitement for the future opportunity with us. So, it's had a lot of strength for us in 2022. And as we talked about, we did more ELAs in Q4 than we did for the balance of the year.
+So, that gives you a good feel for how this is becoming a real pervasive sales motion and customer motion for us. And we saw a really high cohort of customers as they came up on the expiration of their burst even if they weren't expiring on their ELA, but expiring on their one-year burst capacity, that that created a great compelling event to move them up. In some cases, they were doubling their licenses or as much as, you know, 4x the number of licenses at the end of that burst expiration. So, it's a powerful motion for us, and we're just getting started.
+Mark Anderson
+--
+Chief Executive Officer
+Yeah. Just as a heads up, Ittai, just a reminder, the '23 renewal base is significantly larger than the '22 renewal base, not just because it has a bunch of ELAs coming up for renewal, but it's because of the really solid work of the team in 2022 and in 2021. So, listen, it gives us the kind of comfort to build a plan for FY '23 that will allow us to continue on this journey and continue to be able to build a company that earns the right to expand and renew with customers.
+Ittai Kidron
+--
+Oppenheimer and Company -- Analyst
+Very good. Good luck. Thanks.
+Mark Anderson
+--
+Chief Executive Officer
+Thank you.
+Operator
+And we have reached the end of the question-and-answer session. I'll turn the call back over to Mark Anderson for closing remarks.
+Mark Anderson
+--
+Chief Executive Officer
+Thank you, operator. And I'd like to say thank you again to our customers, partners, shareholders, and our incredible team here at Alteryx. 2022 was a terrific year for Alteryx. I'm very proud of this team.
+As we look at 2023, we enter with an expanded platform of cloud offerings and up-level go-to-market motion, an unwavering commitment to profitability as we close out on a $1 billion ARR milestone. Thank you all, and I look forward to seeing many of you at the upcoming Inspire Conference in May.
+Operator
+[Operator signoff]
+Duration: 0 minutes

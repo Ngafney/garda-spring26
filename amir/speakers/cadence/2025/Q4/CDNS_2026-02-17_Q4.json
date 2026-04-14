@@ -1,0 +1,242 @@
+[
+  {
+    "speaker": "Unknown",
+    "role": "",
+    "text": "Full Conference Call Transcript"
+  },
+  {
+    "speaker": "Anirudh Devgan",
+    "role": "",
+    "text": "that Cadence Design Systems, Inc. delivered excellent results the fourth quarter. Closing an outstanding 2025 with 14% revenue growth, and 45% operating margin for the year. We finished 2025 with a record backlog of $7,800,000,000. Well ahead of plan. Reflecting broad based portfolio strength, and increasing contributions from our AI solutions. I would like to emphasize the essential nature of Cadence Design Systems, Inc.'s engineering software. As I have stated previously, our platform is best viewed as a three layer cake framework. Accelerate compute being the base layer, principal simulation and optimization,"
+  },
+  {
+    "speaker": "Richard Gu",
+    "role": "",
+    "text": "as the critical middle layer and AI"
+  },
+  {
+    "speaker": "Anirudh Devgan",
+    "role": "",
+    "text": "as the top layer to drive intelligent exploration and generation. This holistic approach ensures that our AI solutions are not just fast, but physically accurate and grounded in scientific truth. Building on this foundation, we are deploying agentic AI workflows powered by intelligent agents that autonomously call our underlying tools. AI flows act as a force multiplier. Enabling our customers to significantly expand design exploration and accelerate time to market. While driving increased product usage. And deeper engagement across our entire platform. We see growing momentum on both AI for design and design for AI fronts. On AI for design, our Cadence AI portfolio continues to gain traction with market shaping customers. Last week, we launched ChipsTech AI SuperAgent. The world's first agentic AI solution for automating chip design and verification. It's built upon a proven physically accurate product. And provides up to 10x productivity improvement for various tasks. Including design coding, generating test benches, and debugging. ChipsTech has received compelling endorsements from Qualcomm, NVIDIA, Altera, and Tenstorin. Among others. Our other AI product, such as Cadence Cerebras, Vericium, and Allegro xAI, are proliferating at scale. And our LLM based design agents powered by JEDI Data Platform, are delivering impressive results. On design for AI, the infrastructure AI phase is in full screen. With AI architectures growing in scale and complexity. Customers are increasingly standardizing on Cadence Design Systems, Inc.'s full flows to address their performance power and time to market challenges. We continue to closely collaborate with market leaders on their next generation AI designs spanning training, inference, and scaling. We deepened our long standing partnership with Broadcom, through a strategic collaboration to develop pioneering agentic AI workflows to help design Broadcom's next generation product. We also expanded our footprint at multiple marquee hyperscalers. Across our EDA hardware IP and system software solutions. And we are particularly excited by the emerging physical AI opportunity and our broad based portfolio uniquely positions us to enable autonomous driving and robotic companies to address multimodal silicon and system challenges."
+  },
+  {
+    "speaker": "Anirudh Devgan",
+    "role": "",
+    "text": "we are increasingly applying AI internally to improve efficiency. Across engineering, go to market, and operations. In 2025, we also further our partnerships with leading foundries. We expanded our collaboration with TSMC to power next gen AI flows on TSMC's N2 and A16 technologies. We strengthen our engagement with Intel foundry by officially joining the Intel Foundry Accelerator Design Services Alliance."
+  },
+  {
+    "speaker": "Richard Gu",
+    "role": "",
+    "text": "RAPIDUS made a wide ranging commitment to our core EDA software portfolio"
+  },
+  {
+    "speaker": "Anirudh Devgan",
+    "role": "",
+    "text": "across digital, custom analog, and verification solutions. And Samsung Foundry expanded its collaboration with Cadence Design Systems, Inc., leveraging our AI driven design solutions and IP solutions. Now turning to product highlights for Q4. And 2025. Accelerating compute demand driven by the AI infrastructure build out and demanding next generation data center requirements continue to create significant opportunities for our core EDA portfolio. Our core EDA business delivered strong performance with revenue growing 13% in 2025. Our recurring software business reaccelerated to double digit growth in Q4 a testament to the strength and durability of our model."
+  },
+  {
+    "speaker": "Anirudh Devgan",
+    "role": "",
+    "text": "delivered another record year with over 30 new customers and substantially higher repeat demand from AI and hyperscalers. Seven out of the top 10 customers 2025 were Dynamic Duo customers. Underscoring the differentiated value provided by our hardware systems. With a strong backlog, entering 2026, we expect this year to be yet another record year for hardware. Our digital portfolio delivered a strong year driven by continued proliferation of our full flow solutions as we added 25 new digital full flow logos in 2025. We expanded our footprint at a top hyperscaler. Growing our AI driven synthesis and implementation solutions, including our 3D IC platforms. A marquee hyperscaler embraced the Cadence Design Systems, Inc. digital full flow for its first full customer owned tooling AI chip tape out. Broad proliferation of Cadence Cerberus continues. And adoption of our Cadence Cerberus AI Studio is accelerating. Recently,"
+  },
+  {
+    "speaker": "Richard Gu",
+    "role": "",
+    "text": "Samsung US used it to tape out the SF2 design."
+  },
+  {
+    "speaker": "Anirudh Devgan",
+    "role": "",
+    "text": "Achieving 4x productivity improvement. In custom and analog, our Spectre circuit simulator saw significant growth at leading AI and memory companies. Our flagship Virtuoso Studio, the industry standard for custom and mixed signal design, saw continued traction in AI driven design migration across its vast installed base. A top multinational electronics and EV customer reported a 30% layout efficiency gain using our AI driven design migration. Our IP business saw strong momentum. With revenue growing nearly 25% in 2025. Reflecting both the strength of our expanding IP portfolio and the critical role our STAR IP solutions play in the AI, HPC, and automotive verticals. We achieved both significant expansions and meaningful competitive wins. At marquee customers. Demonstrating the superior performance capabilities of our IP solutions across HBM, UCI, PCIe, DDR, and SerDes titles. We are seeing particularly strong adoption of our industry leading memory IP solutions. Including our groundbreaking LPDDR6 memory IP. Which is enabling customers to achieve the memory performance efficiency required for next generation AI workloads. In Q4, we launched our Tensilica HiFi IQ DSP. Offering up to 8x higher AI performance, and more than 25% energy savings for automotive infotainment smartphone, and home entertainment markets."
+  },
+  {
+    "speaker": "Anirudh Devgan",
+    "role": "",
+    "text": "design and analysis business delivered 13% revenue growth in 2025. Earlier in the year, we introduced the new Millennium M2000 AI supercomputer. Featuring NVIDIA Blackwell. Which is ramping nicely and with growing customer interest across multiple end markets. Our 3D IC platform has become a key enabler for the industry's transition to multichip architectures. Which are increasingly critical for next generation AI infrastructure, HPC, and advanced mobile application. Adoption of our AI driven Allegro X platform is accelerating."
+  },
+  {
+    "speaker": "Richard Gu",
+    "role": "",
+    "text": "Earlier in Q3, Infineon standardized on Allegro X"
+  },
+  {
+    "speaker": "Anirudh Devgan",
+    "role": "",
+    "text": "and in Q4, ST Microelectronics decided to adopt our Allegro X solution to design printed circuit boards. Our reality data digital twin solution continued its strong momentum. And was deployed at several leading hyperscalers and marquee AI companies. Beta CAE continues to unlock tremendous opportunities particularly in the automotive segment. With our previously announced acquisition of Hexagon's DNE business, we'll be poised to accelerate our strategy around physical AI. Including an autonomous vehicles, and robotics. In closing, I'm pleased with our strong performance in 2025. And I'm excited about the strong momentum across our business. As the AI era continues to accelerate, our AI driven EDA SDA, and IP portfolio powered by new AI agents and accelerated computing, positions Cadence Design Systems, Inc. extremely well to capture these massive opportunities. Now I will turn it over to John to provide more details on the Q4 results and our 2026 outlook."
+  },
+  {
+    "speaker": "Richard Gu",
+    "role": "",
+    "text": "Thanks, Anarud. Good afternoon, everyone. I'm pleased to report that Cadence Design Systems, Inc. delivered an excellent finish to 2025 with broad based momentum across all our businesses."
+  },
+  {
+    "speaker": "Anirudh Devgan",
+    "role": "",
+    "text": "Robust design activity, and strong customer demand drove 14% revenue growth and 20% EPS growth for the year."
+  },
+  {
+    "speaker": "Richard Gu",
+    "role": "",
+    "text": "Productivity improvements across the company helped us achieve an operating margin of 44.6% for the year. Fourth quarter bookings were exceptionally strong, and we began 2026 with a record backlog of $7,800,000,000. Here are some of the financial highlights from the fourth quarter and the year starting with the P&L. Total revenue was $1,440,000,000."
+  },
+  {
+    "speaker": "John M. Wall",
+    "role": "",
+    "text": "For the quarter and $5,297,000,000 for the year. GAAP operating margin was 32.2% for the quarter, and 28.2% for the year. Non-GAAP operating margin was 45.8% for the and 44.6% for the year. GAAP EPS was $1.42 for the quarter, and $4.06 for the year. Non-GAAP EPS was $1.99 for the quarter, and $7.14 for the year."
+  },
+  {
+    "speaker": "John M. Wall",
+    "role": "",
+    "text": "turning to the balance sheet and cash flow. Our cash balance was $3,001,000,000 at year end. While the principal value of debt outstanding was $2,500,000,000. Operating cash flow was $553,000,000 in the fourth quarter and $1,729,000,000 for the full year. DSOs were sixty four days, we used $925,000,000 to repurchase Cadence Design Systems, Inc. shares during the year. Before I provide our outlook for 2026, I'd like to share that it contains our usual assumption that export control regulations, that exist today remain substantially similar for the remainder of the year. And our current 2026 outlook does not include our pending acquisition of Hexagon's design and engineering business. For our outlook for 2026, we expect revenue in the range of $5,900,000,000 to $6,000,000,000. GAAP operating margin in the range of 31.75 to 32.75%, non-GAAP operating margin in the range of 44.75% to 45.75%. GAAP EPS in the range of $4.95 to $5.05, non-GAAP EPS in the range of $8.05 to $8.15. Operating cash flow of approximately $2,000,000,000, and we expect to use approximately 50% of our free cash flow to repurchase Cadence Design Systems, Inc. shares in 2026. For Q1, we expect revenue in the range of $1,420,000,000 to $1,460,000,000. GAAP operating margin in the range of 30 to 31%, non-GAAP operating margin in the range of 44 to 45%. GAAP EPS in the range of $1.16 to $1.22, and non-GAAP EPS in the range of $1.89 to $1.95. And as usual, we published a CFO commentary document on our investor relations website, which includes our outlook for additional items. As well as further analysis and GAAP to non-GAAP reconciliations. In conclusion, I am pleased that we delivered strong top line and earnings growth for 2025. And we finished the year with a record backlog and ongoing business momentum, setting ourselves up for a great 2026. As always, I'd like to thank our customers, partners, and our employees their continued support and with that, operator, we will now take questions."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Thank you. And at this time, I would like to remind everyone who wants to ask a question to please press star and then the number one on your telephone keypad. As a courtesy to all participants, we ask that you please limit yourself to one question. And we will pause for just a moment to compile the Q&A roster. And our first question comes from the line of Vivek Arya with Bank of America Securities. Your line is open."
+  },
+  {
+    "speaker": "Anirudh Devgan",
+    "role": "",
+    "text": "Thanks for taking my question. Anil, I'm curious have you seen any disruption or change of thinking whatsoever at your customers in terms of them using AI to reduce or eliminate a demand for EDA or IP or any other computer aided engineering tools. Is there a scenario at all, that you have discussed"
+  },
+  {
+    "speaker": "James Edward Schneider",
+    "role": "",
+    "text": "right, or your customers might contemplate where they can use more of their internal tools or AI to displace what you're doing right now. Thank you."
+  },
+  {
+    "speaker": "Anirudh Devgan",
+    "role": "",
+    "text": "Yeah. Hi, Vivek. Thank you for the question. I know this is a is a topical know, question on top of mind for investors. But like I said before, I mean, for us, know, we always look things as a as a three layer cake. You know, there's different kinds of software. You know, there's lot of discussion in terms of will AI replace you know, some form of software, but you know well, anyway, there are different kind of software. Our software is engineering software. You're doing very, very complex, you know, physics based mathematical operations. So any AI tools that we are developing or our customers are using basically, the end, call our software to get the job done properly. So what we are saying instead is that and you can see that in our results. You can we can see this in our discussion with customers. Is there is as we move to these agenda flows, it uses more of our soft to get the job done. Than the other way around. So as these even like our own super agent, which is ChipStack, you know, it is doing a part of the flow, first of all. That was not automated. You know, even in regular AI, there is a lot of automation in coding. You know, that's one of the big applications. But if you move that over to chip design, know, if you look at our flow, you know, there is a equivalent of coding, which is RTL code, which this describes the describes the chip or the system. But that part has been mostly manual. And then after that, our tools kick in, you know, to optimize the RTL to simulate, verify the RTL. So what we are doing with our AI flows, the top layer is we are adding extra tools that will automate the writing of RTL but then still, it calls lot of middle layer tools, you know, lot of the base tools to implement and verify that. And I've said before, like, what we are seeing at our customers, you know, they want to use more AI and I think they will all they will invest more in R&D. I they will also hire more engineers but as a percentage of spend, the more spend will go to automation and compute. Because the other thing which is unique, to our end market is that the workload is exponential. You know, if the chip goes from 100,000,000,000 now to 1,000,000,000,000 in few years, they need to do a lot more work. And then some of the work will be done by AI agents, you know, calling our base tool. So overall, to answer your question, we have seen absolutely no discussion with customers of reducing the usage on the contrary, you know, all these AI tools are increasing the usage of our tools. And, of course, then the AI build out also, you know, as customer design more and more chips, know, that is also increasing the usage of our tools."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "question comes from the line of Joseph D. Vruwink with Baird. Your line is open."
+  },
+  {
+    "speaker": "James Edward Schneider",
+    "role": "",
+    "text": "Great. Thanks. I maybe wanted to ask about how you're approaching the outlook for"
+  },
+  {
+    "speaker": "John M. Wall",
+    "role": "",
+    "text": "2026. Looks like recurring revenue is set to accelerate, and that's normally well supported by backlog. Maybe can you talk about the key contributors to the recurring improvements? And then just on the 20% or so of revs that come from upfront sources, obviously, it had an incredible 2025 with your hardware platforms and sounds like you're expecting growth there again. I think we're in year two of that platform. Now. Can you kinda see a repeat of what you observed back in 2023? That was a very strong year too for the second gen product out how maybe are you thinking about that product and just where it is in its life cycle?"
+  },
+  {
+    "speaker": "John M. Wall",
+    "role": "",
+    "text": "Yeah. Thanks for the question, Joel. This is John. As usual, at this time of the year, our guidance will reflect what we believe to be a prudent and well calibrated view of the year. We finished the year with very strong momentum on backlog and we saw that strength right across the board, across all lines of business. And as Andrew says, you know, our view of the AI area is that increases workload faster than headcount grows and Cadence Design Systems, Inc. monetizes workload through broad portfolio proliferation across EDA, IP, hardware, and SDA, and we're we're seeing that flow through into all lines of business for us. Now, typically, at this time of the year, our, you know, hardware is a up pipeline business. Expecting very strong first half for hardware. But because we only typically see two quarters in the pipeline, we're quite prudent in the second half of the year in this current guide. But that's no different to what we normally do. Same. We typically try to derisk the guide for things like hardware and China. At this time of the year. And if you look at how China's performed in the last two years, I think it was 12% of our revenue in 2024, 13% in 2025, and we expect it to be in that kind of range, 12 to 13% of our revenue as well for this year. The but, yeah, we're we're seeing absolutely huge strength across the board. Delighted with the with the strength of the guide. And just a key a key transparency metric you'll see in the CFO commentary. Around 67% of 2026 revenue is coming from beginning backlog. And that gives us strong visibility into multiyear recurring base. So we're very, very happy to see that recurring base."
+  },
+  {
+    "speaker": "Richard Gu",
+    "role": "",
+    "text": "Get back to kind of"
+  },
+  {
+    "speaker": "John M. Wall",
+    "role": "",
+    "text": "double digits, kinda low teen growth."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Our next question comes from the line of Joseph Michael Quatrochi with Wells Fargo."
+  },
+  {
+    "speaker": "John M. Wall",
+    "role": "",
+    "text": "Yeah. Thanks for taking the questions. Just kind of curious maybe following up on that."
+  },
+  {
+    "speaker": "Harlan L. Sur",
+    "role": "",
+    "text": "You know, on the verification and emulation hardware cycle, any sort of help on just kinda where you think you are at in that cycle? Then is there anything we should think about just in terms of memory availability from that perspective or just anything about margins given pretty significant price increases that we've seen across the DRAM spectrum?"
+  },
+  {
+    "speaker": "Anirudh Devgan",
+    "role": "",
+    "text": "Yeah. Good question. So hardware, like, you know, like, you know, is in a you know, multi every year is a record for hardware. And I expect that trend to continue. And the reason being, of course, you know, these hardware systems become indispensable. To the design of complex chips and systems. Actually, no complex AI chip or any other, you know, mobile or automotive chip. Any complex chips are not designed without hardware systems, and we have a the best hardware system on the market because we design just to remind you, we design our own chips. Know, made by TSMC, and we maybe sell full racks. You know, these things have, you know, you know, trillions of transistors to emulate, you know, other chips. So in even though it is reported upfront, as you know, because the customers will buy and use the systems, you know, for multiple years, the big customers are buying them almost every year. Okay? And I see that trend changing and, like, even I indicated, like, when we launched Z3, even Z2 was a very good system. So the fact that the is second year now, I think there's still it has capacity to design, systems of 1,000,000,000,000 transistors. Okay, which will last for several years to go. And, you know, in few years, anyway, we launch our next system. So we're always ahead of what the market will need. In terms of demand, you know, we don't see any difference, you know, versus if you ask me this year, versus last year, the demand is only stronger, you know, and we you can see that in the backlog. And then how much this will grow, we will see. Like John said, you know, beginning of the year, we are we, you know, we are a little careful with hardware. But we'll update you middle of the year depending on how things are going. But hardware system is performing well. We are taking share and, actually, what I feel is we are taking share in all our major product segments. So we are taking share in hardware. We are taking share in IP. Which is really good to see now. Will be almost, you know, third year of strong IP growth. You know us. Right? We don't one year doesn't make a trend for us. So but after three years, I can see that I feel good about our IP business. Hardware has been strong for a while. EDA, you know, our core business is doing phenomenal. Okay. 3D IC, we are taking share. Agendaq AI, we are first to market. We already have of customer using our Agendaq AI flow. So not only I feel good about the hardware business and where it is, actually, I feel really good about our overall portfolio. And how we are performing."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "question comes from the line of James Edward Schneider with Goldman Sachs. Your line is open."
+  },
+  {
+    "speaker": "John M. Wall",
+    "role": "",
+    "text": "Good afternoon. Thanks for taking my question."
+  },
+  {
+    "speaker": "James Edward Schneider",
+    "role": "",
+    "text": "I was wondering if you could talk about a little bit more about your excuse me, your AI workflows and if it's possible to quantify any of the benefits that your customers are getting from those workflows today, whether that be time market enhanced productivity per seat, or so on, and maybe separately kind of address how you're able to monetize that and then how broad that is across your portfolio today? Thank you."
+  },
+  {
+    "speaker": "Anirudh Devgan",
+    "role": "",
+    "text": "I mean, first of all, the results are quite remarkable with AI. You know? And, like, few years ago, there was some skepticism of how much AI can benefit. But now, I mean, this is true in other areas too. But definitely, in chip design, the results are fantastic and real. And I think there is a difference, I believe, chip design versus other industries. Because, you know, one of the issues with AI flows is that you really don't know whether the AI result is correct or not. This has been one issue even in white coding or software, like, okay, generate some code, but, you know, you spend a lot of time verifying that it is correct or not. And in some other industries, you know, there is no, like, formal languages to design things. But in chip design, first of all, we have formal languages to design things, which is RTL. Over the last you know, twenty, thirty years, we have built all these products whose job is to make sure that the RTL is correct. Okay? So all our, you know, middle layer tools, know, verification, simulation, optimization, so therefore, AI can be a force and accelerate into chip design. Versus other areas. Okay? And so the way and the results, you know, just to highlight, like, we talked about Samsung getting 4x productivity. You know, this is code from the customer. Or, you know, Altera talking about, you know, 7 to 10x productivity improvement. Now they're on parts of the flow. You know, for, like, RTL writing, which has been kinda manual. So there can be massive improvement in productivity. And in the back end, for example, physical design, you know, there could be 7%, 10%, PPA improvement, 12% in that range. So just so you know that you know, when you go from one node to another node, like, five to three or three nanometer to two nanometer, the gain could be, like, 10, 20%. So you're getting half the gain or almost the same gain as a node migration through better optimization with AI. Okay. I think the results are real. We have demand from almost all customers now to engage rapidly because they want to deploy AI in their R&D function. And you have to remember the way our customers deploy R&D in their apply AI in their R&D function is through Cadence Design Systems, Inc. and Cadence Design Systems, Inc. tools. Right? So they are all very anxious to try all these things. We all these engagements with all the top customers. And our monetization and I'm I'm you know, I always said in the past that it takes some time for monetization to happen. You know, it takes two contract cycles, and I think we are you know, well into that now. So I think we are we are seeing the monetization now. Is reflected in our results. Is reflected in our record backlog. And AgenTik AI can give further monetization. You know? So the way we go to market with AgenTeq AI will be different. Because this is a new tool category. Of something that EDA never automated. You know, writing of RTL or test benches was right? So we will price it as, a virtual engineer or agent. So that would be, you know, extra business. And our customers are willing to spend on because it is it is productivity improvement for them. And then on top of that, just like before, it will call the base tools and they become lot more lot more licenses or usage will happen our base tools. And the reason for that is, like, in a non AI four, you know, this is a misnomer that, you know, we are, like, seat count limited. We are exploration limited. Even if a, you know, user, like, a manual user is running our tool, they will run, three or four, five experiments in parallel to see what is the best PPA. But with the agent AI flow, you know, it could run 10 or 100 experiments in parallel. So our plan for monetization, which is working well, we'll add the agent tech app part. We will charge for the agent tech flows a virtual engineer, things like RTL writing, and then, of course, for the licenses in the base layer. And see how that goes. But from a customer standpoint, mean, there's a lot of demand to try all these new tools."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "And our next question comes from the line of Gary Wade Mobley with Loop Capital. Your line is open."
+  },
+  {
+    "speaker": "John M. Wall",
+    "role": "",
+    "text": "Hi, guys. Let me extend my congratulations on the strong finish to the year. John, I believe there's been a an effort to move your SD and A customers into one year license terms and if we're not mistaken, that's been an impediment to growth. So the question is, is that the reason why SD and A revenue grew only 13% in 2025? And what's the consideration for 2026 and then what's the consideration for Hexagon when you roll that business? And I believe they were at a $240,000,000 revenue run"
+  },
+  {
+    "speaker": "James Edward Schneider",
+    "role": "",
+    "text": "rate. Does that see a more limited"
+  },
+  {
+    "speaker": "John M. Wall",
+    "role": "",
+    "text": "is that number limited because of this one year license term transition?"
+  },
+  {
+    "speaker": "John M. Wall",
+    "role": "",
+    "text": "Yeah. Thanks for the question, Gary. Yeah. I'd and you're right in terms of SDNA. You know, we lap some tough comps in SD and A in Q4 twenty five, partly due to the multiyear business. So we did some multiyear business in Q4 twenty four through our Beta subsidiary, and we have deliberately been moving to more annual subscription arrangements for Beta in 2025. And that impacts the year over year numbers. And seeing all that, we're we're very pleased with SDNA's strategic trajectory. And its role in the chip to systems thesis from a mix standpoint, SD and A was, like, 16% of revenue and 25 consistent with '24 when you look at the year. The and we expect it to grow. We expect all product groups to grow, but we're not guiding by segment. In relation to Hexagon, I think the annualized I think we've said this before at some fireside chats that the annualized revenue for Hexagon is about 200,000,000 for on a year basis. Now what that means, of course, that's it's kinda like Beta where Beta did a lot of January 1 deals. But the like, if deal closed by the '1, you're probably looking at a 150,000,000 revenue for the year. But we're not guiding. We don't have final numbers for anything like that now. But so we haven't got anything to do with Hexagon in this guide."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "question comes from the line of Charles Shi with Needham. Your line is open."
+  },
+  {
+    "speaker": "Harlan L. Sur",
+    "role": "",
+    "text": "Anirudh, thought that the highlight of the quarter was the announcement around the marquee hyperscaler customer Cadence full digital full flow I think you characterized it as for the first field chip that they're gonna take out. So it sounds like we should expect a that particular hyperscaler having a COV chip, coming out in two or three years down the road. And just kinda wanna"
+  },
+  {
+    "speaker": "Anirudh Devgan",
+    "role": "",
+    "text": "ask a question. Like, how many hyperscaler customers"
+  },
+  {
+    "speaker": "Harlan L. Sur",
+    "role": "",
+    "text": "right now are doing COT and, even for that particular customer having the first chip on COT, wonder what's your what do you think the ramp is gonna be? Like, how"
+  },
+  {
+    "speaker": "Anirudh Devgan",
+    "role": "",
+    "text": "how will they proliferate COP for the other chips they are developing? Because every hyperscaler these days have more than one chip. That's my understanding. And that's just wanna get some sense for you where you are in terms of that whole COP"
+  },
+  {
+    "speaker": "Harlan L. Sur",
+    "role": "",
+    "text": "proliferation, and I believe this is one of the great stories about the cadence about EDA in general, but I want to get it with that."
+  },
+  {
+    "speaker": "Anirudh Devgan",
+    "role": "",
+    "text": "Yeah. Thanks for the question, Charles. I mean, without getting into, like, specifics of a particular customer, but you know, I have said for some time now because we work with our customers confidentially. You know, we share our road map with them. You know, they share map with us, and we are in a unique position to work with all the leading companies across the globe. Right? And so I have said for a while that, you know, this trend of first of all, the trend that the customers especially these big hyperscalers, will do their own chips is even more firm now. Than one or two years ago. And it's it's evident now with some of the big hyperscalers the success they're having with their own chips, right, especially in the last six months. That has become evident. Because it was not clear, like, one or two years ago, people thought, you know, people will not design their own chips. Doesn't mean that the merch semi will not do well. A merchant semi will do fabulous. But the big customers will design their own chips. Okay. And then this is also true that, over time, the big customers will do more and more things in house. You know, starting with ASIC to hybrid COT to COT because these chips are I mean, this is more there's another step these days versus the old days, which is hybrid COD because these chips have multiple chiplets in them. So the customers can do some of the chiplets themselves. Some can be outsourced, and then they can do all of them. Themselves. So I think this trend is going to happen and the reason we talk about it, it is it is happening. You know? And different customers will do it at different pace. But, eventually, I think, there will be multiple customers with their own chips. There'll be multiple, of course, very significant semi standard, you know, general purpose chips. And almost all of them will over time do more and more COG and like you said, they do multiple chips now, at least three major platforms. For each hyperscaler. So all this is good for us. Good for more EDA consumption at the system companies."
+  }
+]

@@ -1,0 +1,278 @@
+Operator
+Good afternoon, and welcome to SiTime's third-quarter 2023 financial results conference call. [Operator instructions] As a reminder, this conference call is being recorded today, Wednesday, November 1st, 2023. I would now like to turn the call over to Brett Perry with Shelton Group investor relations. Brett, please go ahead.
+Brett Perry
+--
+Investor Relations
+Thank you. Good afternoon, and welcome to SiTime's third-quarter 2023 financial results conference call. Joining us on today's call from SiTime are Rajesh Vashist, chief executive officer; and Art Chadwick, chief financial officer. Before we begin, I'd like to point out that during the course of this call, the company may make forward-looking statements regarding expected future results, including financial position, strategy and plans, future operations, the timing market, and other areas of discussion.
+It's not possible for the company's management, to predict all risks nor can the company assess the impact of all factors on its business, or the extent to which any factor or combination of factors, may cause actual results to differ materially from those contained in any forward-looking statements. In light of these risks, uncertainties, and assumptions, the forward-looking events discussed during this call may not occur, and actual results could differ materially and adversely from those anticipated or implied. Neither the company nor any person assumes responsibility, for the accuracy and completeness of forward-looking statements. The company undertakes no obligation, to publicly update forward-looking statements for any reason at the date of this call, to conform statements to actual results, or to changes in the company's expectations.
+For more detailed information on risks associated with the business, we refer you to the risk factors described in the 10-K filed on February 27th, 2023, as well as the company's subsequent filings with the SEC. Also during the call, we'll refer to certain non-GAAP financial measures, which are considered, to be an important measure of company performance. These non-GAAP financial measures are provided in addition to and not as a substitute for, or superior to measures of financial performance, prepared in accordance with U.S. GAAP.
+The only difference between reported GAAP and non-GAAP results is stock-based compensation expense. Please refer to the company's press release issued today for a detailed reconciliation between GAAP and non-GAAP financial results. With that, it's now my pleasure to turn the call over to SiTime's CEO. Rajesh, please go ahead.
+Rajesh Vashist
+--
+Chief Executive Officer
+Thank you. Good afternoon. I'd like to welcome you as well, as existing investors to SiTime's Q3, 2023 earnings call. For those of you that, are not as familiar with SiTime's, we are the leader in a dynamic new semiconductor category called precision timing.
+In electronics, timing is ubiquitous and ensures reliable functioning. SiTime created precision timing, to serve the needs of applications like automated driving, data center, 5G, and AI. We're early in our growth as we transform the $10 billion timing market. SiTime has shipped 3 billion precision timing chips to 15,000 customers in 300 applications.
+Q3, 2023 was in line with our guidance. Revenue for the quarter was $35.5 million. Non-GAAP gross margins were 58.2%. Non-GAAP EPS was $0.06 per share versus a loss of $0.21 in Q2, 2023.
+As we forecasted, we continue to see a reduction of inventory in Q3 and an uptick in end demand, particularly in the mobile IoT consumer segment. We expect these trends to continue in Q4, leading to 15% to 20% sequentially higher revenue, over Q3. In addition, the long-term strength of our business continues, as we have envisioned. This is through the introduction of new exceptional products, leading to SAM expansion, solid ASPs, increased design wins, and continued strength in our single-source business.
+In the second half of '23, all four factors continue to remain on track, and I will touch on these now in more detail. We continue to expand our SAM with high-value products like Epoch for the communications and data center markets. Epoch is a revolutionary product that beats legacy quartz OCXOs on all key nine specifications that customers need. Our customers are excited about this product, and we've built a robust funnel of opportunities.
+Our ASPs are holding steady from 2022 to '23 despite lower revenues, which is an indication, of the value that we bring to our customers. Our funnel continues to show robust growth. Our cumulative design wins to date in '23 have grown 75% over the same period in 2022. And lastly, in the multi-sourced oscillator business, 85% of our Q3 revenue was single source, which is an indication of the unique value of SiTime.
+Since our IPO in 2019, our singular focus has been on expanding SAM in the oscillator category, along with revenue growth. In the past four years, we've grown from 60 to 150 unique oscillators, and the price of the highest-value oscillator has grown tenfold. This strategy makes us, the leader in the oscillator space and a trusted advisor, to customers in our focus markets, unlike our competitors. We're now applying the same focus to the clock category of the timing market with exciting results.
+We are acquiring clock products from Aura Semiconductor. This leverages our strong balance sheet to accelerate our clocking revenue and roadmap by several years. Additionally, we expect to increase our oscillator revenue, due to pull-throughs, when they are sold with complementary clocks. This proven portfolio of high-performance products includes all the four major categories of clocks, network synchronizers, jitter cleaners, clock generators, and buffers.
+In fact, our Cascade clock, which was introduced in 2020 includes some Aura clock technology, and we already have 150 designs at 100 customers. With this acquisition, SiTime immediately adds 20--best-in-class clocks now and another 20, by the end of 2024. Additionally, by combining our men's and oscillators with these clocks, we believe that a whole new category, of precision timing products will be created for our core markets of comms, data center, and AI. This continues SiTime's trajectory of building unique timing products that bring us closer to the customer and enhance our trusted advisor status, at the top electronics companies.
+I'm deeply satisfied and convinced that this acquisition significantly advances our vision. I'd also like to give an update on changes to our management team. After four years at SiTime, Art Chadwick, our CFO, has decided to retire. Art's guidance has played a strong role in SiTime's achievements.
+He's been a tremendous partner and a key strategic advisor to SiTime's investors and our business partners. We thank Art wholeheartedly, for his contributions and impact on our business. I'm very excited to appoint a new member to SiTime's executive team. Beth Howe is joining SiTime as our CFO on November 8th.
+She comes to SiTime with proven financial leadership and deep experience driving performance in scale, multinational organizations. Her wealth of experience will be invaluable, as we continue to build market momentum and drive SiTime's future growth and success. In conclusion, these are exciting changes to the company that advance our vision and take us to further success. Thank you.
+Art Chadwick
+--
+Chief Financial Officer
+Well, thanks, Rajesh, and good afternoon, everyone. Today, I'll discuss third-quarter 2023 results and then provide some guidance for the fourth quarter. I'll focus my discussion on non-GAAP financial results and refer you to today's press release, for a detailed description of our GAAP results, as well as a reconciliation of GAAP to non-GAAP results. Revenue in the third quarter was $35.5 million, up 28% from Q2.
+Sales into our mobile IoT and consumer segment, were $17.9 million or 50% of sales, up from $10.4 million in Q2, due primarily to higher sales, to our largest customer. Sales to that customer, were $13.2 million, up from $4.6 million in Q2. Excluding sales to our largest customer, sales into this segment were $4.7 million, or 13% of sales. Sales into our industrial, automotive, and aerospace segment were $11.7 million or 33% of sales, down just slightly from $12.4 million in Q2.
+Sales into our communications and enterprise segment were $5.9 million or 17% of sales, up from $4.9 million in Q2. Non-GAAP gross margins were 58.2% essentially flat with margins in Q2. Non-GAAP operating expenses, were $26.3 million, down about 4% from Q2, as we continue to closely manage expenses. Expenses were $15.8 million in R&D and $10.5 million in SG&A.
+The third-quarter non-GAAP operating loss was $5.6 million, substantially better than the $11.2 million loss last quarter. Interest and other income was $7.1 million, up from $6.5 million in Q2 due to higher earned interest on our T-Bill investments. Third-quarter non-GAAP net income was $1.4 million or $0.06 per share, compared to a loss of $4.8 million last quarter. Accounts receivables were $25.2 million with DSOs of 65 days, as compared to $15.8 million and DSOs of 51 days in Q2.
+Inventory at the end of the quarter was $64.5 million, essentially flat with last quarter. During the quarter, we consumed $11.6 million in cash from operations, invested $3 million in capital purchases, and ended the quarter with $568.1 million in cash, cash equivalents, and short-term investments. I'd now like to provide some financial guidance, for the fourth quarter of 2023. There is still more inventory in the channel than normal, but it is being worked down.
+For some customers, including our largest customer, channel inventory is back to normal. But for other customers, it will take them until the end of this year or into 2024 to get back to more normalized levels. As Rajesh mentioned, we are seeing an uptick in end demand, and we now expect fourth-quarter sales will be up 15% to 20% sequentially. Whereas growth from Q2 to Q3, was essentially driven by increased sales to our largest customer, growth from Q3 to Q4, will be driven by customers, other than our largest customer, especially in the comms and enterprise, industrial, and aero markets.
+We expect non-GAAP gross margins, will be essentially flat with Q3, as will operating expenses. Interest income will be approximately $6.5 million. Our share count will be approximately 22.5 million shares. As a result, we expect non-GAAP EPS, will be somewhere between $0.18 and $0.22 per share.
+I'd now like to make a few comments, about our deal with Aura Semiconductor. This is a very exciting and strategic deal for SiTime. It's an all-cash transaction, comprised of fixed payments totaling $148 million, $36 million of, which will be paid at close, and expected $75 million will be paid in 2024 and an expected $37 million, will be paid in 2025, all tied to product deliveries from Aura. The earn-out payments will be based on various multiples of revenue generated from the acquired products from 2023 through 2028, with a total cumulative earn-out capped at $120 million.
+This deal will clearly accelerate our clocking business, but it will take time to grow revenue. We must first win design sockets with our customers, and then it takes time, for those designs to go into production. We, therefore, do not expect any material revenue, or non-GAAP operating income in 2024. However, revenue and operating income should increase in 2025 and beyond, growing to $100 million business in a number of years.
+I would also like, to note that from a reporting standpoint, we plan to exclude the amortization of these acquired intangible assets and licenses when we report future non-GAAP results. Now on a personal note, today, we announced that I have decided to step down as CFO and retire. I have had an amazing four years here at SiTime, helping take the company public, raising capital, and being part of this amazing management team. But my wife and I are now empty nesters, and we usually want to spend more time on activities outside of work.
+So I decided it's now time to pass the baton. I want to thank Rajesh and everyone here at SiTime for being so great to work with. And I want to extend a special thanks to Samsheer Ahmad, our VP of finance, and our entire finance and accounting team who do amazing work and who made my job easy. Finally, I'd also like to welcome Beth as our new CFO.
+I think she's going to do great, and I think the company is going to do great. And on that note, I'd like to hand the call back to the operator for Q&A.
+Questions & Answers:
+Operator
+Thank you. [Operator instructions] Our first question comes from the line of Tore Svanberg of Stifel. Your line is now open.
+Tore Svanberg
+--
+Stifel Financial Corp. -- Analyst
+Yes. Thank you. And congratulations on the continuous recovery here. And Art, I wish you all the best in your retirement and Beth Howe welcome to the platform.
+My first question is on the growth that you are expecting for Q4. You talked about growth in your-- in the business that's, not related to your largest customer. I was hoping you could add a little bit more color there. What are some of the subsegments that, are expected to grow? And what are some of the subsegments that, are perhaps still plagued by inventories, as we exit the year?
+Art Chadwick
+--
+Chief Financial Officer
+Sure. No, great question. As I mentioned in my commentary, there's a few subsegments that I did call out, and we're going to see relatively substantial growth quarter to quarter. One is comms and enterprise.
+That I expect will increase somewhere around 50%, 5-0 percent sequentially from Q3 to Q4. We're seeing strength in industrial that will also increase, from Q3 to Q4, and we're seeing a lot of strength in aerospace and defense, and we are projecting some very significant sequential revenue increase, from Q3 to Q4 in that segment. For consumer, excluding our largest customer, that is going to be flattish quarter to quarter. And I think that kind of summarizes it.
+Tore Svanberg
+--
+Stifel Financial Corp. -- Analyst
+Yeah. That's great color. And a question for Rajesh. Rajesh, with the Aura Technology and sort of accelerating penetration into the clocking market--I know there's not going to be much of a financial impact in '24, but you did mention that these are higher-margin businesses.
+So how does this change the financial profile, for the company longer term, both from a sort of 30% growth perspective, but then also for gross margins over time?
+Rajesh Vashist
+--
+Chief Executive Officer
+Yes. On the gross margins, clearly, these are high-end gross margins. As I've said before, clocking has a few distinctive traits. Clocking products are relatively middle-of-the-road ASPs.
+The ASPs are anywhere from $4 to $10, but the gross margins are typically around the 70% range, particularly for the markets in comms enterprise AI that we are going for. On having a material impact on our growth, I don't think this--I think it's only positive, to the extent we get the design wins. So the sooner we get the design wins and start selling them along our oscillators, the sooner we get the growth. But in general, we'll maintain our 30% annual growth rate, for the long-term business that we've always talked about.
+This can only help that.
+Tore Svanberg
+--
+Stifel Financial Corp. -- Analyst
+Sounds good. I'll get back in the line. Thank you.
+Rajesh Vashist
+--
+Chief Executive Officer
+Thanks, Tore.
+Operator
+Thank you. One moment for our next question. Our next question comes from the line of Quinn Bolton of Needham and Company. Your line is now open.
+Quinn Bolton
+--
+Needham and Company -- Analyst
+Hi, guys. Thanks for letting me take--ask a couple questions. And Art, just want to say best wishes to you and your wife in your retirement. It's been great working with you, not only for the last four years but also at Cavium.
+So just really enjoyed the time. And Beth, welcome. I guess my first question, just following up on Aura Semiconductor. It sounds like it's just a product line, sort of acquisition without any substantial opex, or R&D that comes to the company.
+And so I guess two questions. One, can you confirm that? Two, will Aura continue to be a separate entity that continues, to generate these clock products for you? Or at some point, will you have to take over R&D for some of these future generations, or derivatives of these clock products? Thank you.
+Art Chadwick
+--
+Chief Financial Officer
+Yes. So Quinn, on the expense side, we are going, to hire a few of their folks in India and a few other locations, but it's not significant opex. So whatever revenue and gross margins, we do drive, that will cover the opex. So I basically guided that from a non-GAAP operating income standpoint is essentially neutral next year.
+And we're suggesting folks not really changed their expectations or their models for 2024. Because it will take time to get these design wins and then, for those to ramp over time. Aura will continue as a company, absolutely. For the next few years, the products that they will continue to develop are part of this deal, and we will have complete ownership of the technology associated, with those products.
+We will absorb them into our technology and we take complete control, of management of those products going forward. So in the future, if Aura were to cease to exist, I don't believe that's going to be the case. We are--totally self-sufficient with that technology. And to add to that, one of the things--I think of it as a two-step, we get to start selling clocks as is, maybe three-step--clocks as is.
+Then we get to add either virtually, or literally our MEMS oscillator technology just like we have in Cascade. Our current shipping product into it. And then the third is, we get to use this technology and build something that's, even greater as we go forward. So all three of these are going, to come to bear--on spooling our roadmap.
+Quinn Bolton
+--
+Needham and Company -- Analyst
+Got it. And then just sort of outside your largest customer, it sounds like you are starting, to see a better order environment. Just wondering, I know orders have been pretty choppy and generally at low levels, over the past couple of quarters, but could you describe, the order trends that you've seen, sort of through the third quarter into the fourth quarter? Have they improved? Is that what's given you sort of this confidence in the pretty substantial growth rates, you're talking about for comms enterprise, industrial, and the A&D segments? Thank you.
+Art Chadwick
+--
+Chief Financial Officer
+Yes. So clearly, we've seen an uptick. We mentioned in our commentary, we've seen an uptick in end-user demand. So that is a piece of it.
+It is still a little choppy. Some days, our order rates are great by our standards. And some days, they're not as great. So it is still a little bit choppy out there.
+But clearly, the order rate has increased. That's what's driving this sequential increase in those market segments that I described. And we are very confident in our Q4 guidance. So that says something about how we're seeing changes in the market here.
+And part of it, I'll add to this, is that we've had this inventory issue all year. And as customers work through their inventory, and get back to more normalized order levels, that helps improve sales, and we're seeing some of that also.
+Quinn Bolton
+--
+Needham and Company -- Analyst
+Great. Thank you.
+Operator
+One moment for our next question. Our next question comes from the line of Suji Desilva of ROTH MKM. Your line is now open.
+Suji Desilva
+--
+ROTH MKM -- Analyst
+Hi, Rajesh, and Art best of luck on your transition here, and Beth, welcome to the team.
+Art Chadwick
+--
+Chief Financial Officer
+Thank you, Suji.
+Suji Desilva
+--
+ROTH MKM -- Analyst
+So Art, you talked in prior calls this year about an under-shipping number of about $30 million this year. Is that still a good number, to think about as a baseline going into '24, to model growth off of? Just understanding if that inventory digestion, kind of works back in next year?
+Art Chadwick
+--
+Chief Financial Officer
+Yes. Again, those are not hard numbers, because it has to do with the information we get from the subcontractors and how much "excess inventory" they have. But it's in that ballpark, $30 million to $40 million of under-commitment, I think, this year is in ballpark.
+Suji Desilva
+--
+ROTH MKM -- Analyst
+OK. Great. And then my other question on the Aura acquisition. You guys seem to have known about this company for a while, and it seems like it's going, to kind of accelerate the adoption of oscillators along with clocks in data center and comms.
+Why not do this transaction earlier? Why the timing of doing it now and no pun intended?
+Rajesh Vashist
+--
+Chief Executive Officer
+Well, it's a good question. As you know, we have been very consistent that our acquisition, the first one would be in the clocking space. So I'm deeply gratified that, we are living up to that promise over the last few years. And we're doing it exactly in the clocking area and exactly in the networking comms, enterprise, AI space, which is the highest value part of the business.
+Sometimes the timing is just high 2G. The planets aligned. And in this case, we've been dealing with them for a while. As I said earlier, we have already launched the Cascade product line in 2020, and we saw the high-quality work that the guys at Aura Semiconductor did.
+We saw the level of technology, they brought to bear. And we think that, while we could do that, it would take us time. And by connecting with these guys and bringing these products in, we're accelerating by several years our revenue. And this just seemed to be the right time, because we were also done with bringing a lot of new oscillator products, see the Epoch launch to the market.
+So it just seemed like almost the perfect time. And this is one of those times when the planets aligned and Aura themselves were more open to this. And we've built a great relationship with them, with a team in Bangalore, India, and we're very pleased with what they have done.
+Suji Desilva
+--
+ROTH MKM -- Analyst
+Thanks, guys.
+Rajesh Vashist
+--
+Chief Executive Officer
+Thanks.
+Operator
+Thank you. [Operator instructions] Please stand by for our next question. Our next question comes from the line of Douglas O'Laughlin of Fabricated Knowledge. Your line is now open.
+Doug O'Laughlin
+--
+Fabricated Knowledge -- Analyst
+Hi, guys.
+Rajesh Vashist
+--
+Chief Executive Officer
+You're sounding a little bit muffled Doug.
+Doug O'Laughlin
+--
+Fabricated Knowledge -- Analyst
+Rajesh, hello? Can you hear me?
+Rajesh Vashist
+--
+Chief Executive Officer
+Much better. Yes, much better.
+Doug O'Laughlin
+--
+Fabricated Knowledge -- Analyst
+OK. Well, congrats Art and welcome to the team, Beth. I just had a question on the comms segment. You said 5-0 quarter over quarter.
+Does that imply gross margin is troughing this quarter given that historically, you said that comms, is your highest gross margin segment? And then I guess I have a follow-up on Aura?
+Art Chadwick
+--
+Chief Financial Officer
+Yes. So I did say that the comms enterprise revenue will increase approximately 50%, 5-0 percent sequentially. These are still not large dollars that generally is higher gross margin for us, but we also have some other offsets throughout the rest of the business, which is why I had to guide relatively flat gross margins from Q3 to Q4.
+Doug O'Laughlin
+--
+Fabricated Knowledge -- Analyst
+OK. Perfect. And then I guess this one is more for Rajesh. Could you kind of walk us through how a customer would get an attach rate for something like an Aura Semiconductor clock product with an oscillator? And I know these deals are going to take a long time, but just kind of walk us through the logic and the reason of why together this is a much better deal for you guys.
+Just I think it would be helpful for us to understand and quantify and understand the impact of how big Aura could be for you and maybe even some of your oscillator business.
+Rajesh Vashist
+--
+Chief Executive Officer
+Exactly. So our business in comms enterprise is the one that we believe, is a very important one for SiTime. And this offering of clock-based products comes front and center into that. It takes us from a SAM of $50 million to an additional $450 million.
+So really increases it tenfold. So if you look at a remote radio unit in that we today supply both the oscillators that goes into RRUs or RRHs. Now alongside that, are typically new clocks, which use either clock generators or network synchronizers, or buffers that go into the same box, which heretofore, we had--we did not possess. And while we've been building some of these internally, it just takes a lot longer.
+So with this product right away, we would have four slots in the RRU, ready to go. In another example, in the core router business, that's very heavy on clocking and relatively light on oscillators. So we have an opportunity for one oscillator, which we do supply, but there's an opportunity for up to eight clocks that, distribute that are jitter cleaners, buffers, and network synchronizers that are needed in that. And now we would have the opportunity to sell eight more chips in that one core router.
+And finally, in the data center, for example, in a server, we already have opportunity for oscillators, a couple of those. But now we would have an opportunity to sell up to four different kinds of clocks in that market. So these are three key markets. The first one was in the radio access networks.
+The second one was in the core edge and access networks, and the third one is in the data center. So we have really fulfilled our clocking opportunities and products not partially, but wholly. In other words, it allows us to compete with the other clocking companies, full front and center that have taken them decades to build these products. We're able to do that overnight.
+It gives us a unique opportunity because, of course, none of those clocking companies possess the SiTime MEMS-based technology with all its superior attributes. So this gives our customers a very unique way to come to us, to solve their entire clocking needs, entire timing needs. And we think that that's a very, very important place to be.
+Doug O'Laughlin
+--
+Fabricated Knowledge -- Analyst
+Perfect. Would this be like some kind of integrated package unit that would be sold as like one piece that contains, all these pieces of silicon, and maybe versus another vendor, it's an integrated solution?
+Rajesh Vashist
+--
+Chief Executive Officer
+Right. So first, as I said, it's the first step would be for us to sell these products as is. So we get quickly to design wins and in the market. The second one would be to do a virtual value creation.
+So two chips, not in one ship, two separate chips that are sold, particularly in connection with our Epoch product in connection with our Elite RF and Elite X products. But then the third time around is to do what we've already done with Cascade. Our Cascade family of products has an oscillator from SiTime integrated into it, and that's been very valuable to our customers. We would do that for the plot generators, we would do that for the jitter cleaners, and we do that for the network synchronizers.
+So it has the opportunity to take our product, ASP significantly higher and make our products significantly more valuable, either through the virtual integration or the actual physical integration, and we're going to do both throughout.
+Doug O'Laughlin
+--
+Fabricated Knowledge -- Analyst
+Perfect. Looking forward for the next call. Take care guys.
+Rajesh Vashist
+--
+Chief Executive Officer
+Thank you, Doug.
+Doug O'Laughlin
+--
+Fabricated Knowledge -- Analyst
+Thanks.
+Operator
+One moment for our next question. Our next question comes from the line of Tore Svanberg of Stifel. Your line is now open.
+Tore Svanberg
+--
+Stifel Financial Corp. -- Analyst
+Yes, Tore at Stifel. Just had two quick follow-ups. First of all, Art, I noticed the DSO went up quite a bit. Is that, because of a revenue mix? Or are customers starting to ask for extended terms at this point?
+Art Chadwick
+--
+Chief Financial Officer
+No. It has nothing to do with customers asking for extended terms. It has to do with the fact that this particular quarter for a particular--some manufacturing reasons, was a little more back-end loaded. So when you ship more of your quarter near the back end of the quarter, it raises the DSOs, because you ship it and you can't collect it within the same quarter.
+I expect DSOs would drop back to more normal levels in Q4.
+Tore Svanberg
+--
+Stifel Financial Corp. -- Analyst
+Understood. And my other follow-up, coming back to Aura. So it sounds like with the earn-out, the total cost could be as much as $268 million. You mentioned a potential $100 million business.
+So I was just hoping you could share a little bit more on the math that the management team went through to determine this type of a price.
+Art Chadwick
+--
+Chief Financial Officer
+Yes. Well, first of all, I think your numbers are correct. You have to remember that the payment that we're making both the fixed payment and the earn-out payment are being paid over a number of years. So that obviously impacts kind of the present value of the deal.
+But we can grow this to a $100 million a year business in a number of years. And grow beyond that, put a reasonable multiple on that revenue and a multiple--we should be able to run this at our target operating margin of 30%. That drives a lot more value than the $268 million that we'll end up paying them if we pay out the full earn-out.
+Tore Svanberg
+--
+Stifel Financial Corp. -- Analyst
+Sounds good. Thanks again.
+Rajesh Vashist
+--
+Chief Executive Officer
+Thanks, Tore.
+Operator
+Please stand by for our next question. Our next question comes from the line of Chris Caso of Wolfe Research. Your line is now open.
+Chris Caso
+--
+Wolfe Research -- Analyst
+Yes. Thank you. Good evening. I guess, just a question on gross margins and how we should look at them, going into next year.
+What are the steps? And what's the visibility on getting the gross margins back, to more normalized levels as the market starts to come back?
+Art Chadwick
+--
+Chief Financial Officer
+Sure. Well, we've talked about this before. At a very high level, as our revenue increases, our fixed manufacturing overhead becomes a lower percentage of the cost of sales, and so that improves margins. My simple example is, if we can double revenue from the current run rate that, improves margins by about five percentage points, because our overhead is running about 10 points of margin.
+So that is, one way that our margins will improve again. It's also one reason why our margins are down from where they were a year ago. And the other is mix. The middle of this year, if you recall, our comms and enterprise customers had way more inventory than they needed.
+Our sales in that segment were down dramatically. And that mix should improve over time. If you recall, a year and change ago, that segment was almost a third of our business. And over time, if we get it back up, to a third of our business that helps blended margins substantially.
+So right now, we think that margins will move back up into the 60s next year, probably low 60s earlier in the year, and increased sequentially through the course of the year. So that's how I see it right now.
+Chris Caso
+--
+Wolfe Research -- Analyst
+OK. That's helpful. I guess my next question is, it's on China, both kind of shorter term and more broadly also, and there's been a lot of talk about incremental weakness in China, because of the economic conditions there. To what extent is that contributing to what you're seeing here? And then longer term in China, maybe you could talk about the opportunity, because obviously geopolitical tension right now that at least the--desire to in-source more product.
+Obviously, there's no men's timing sources within China right now. But does the geopolitical situation impact, your opportunities in China going forward?
+Rajesh Vashist
+--
+Chief Executive Officer
+In general, our China business is a robust, meaningful part of our revenue. Much of it comes from industrial and from automotive. So we are not subject to the same restrictions that we see in comms, with some of the bigger guys in China nor, are we in the consumer segment in any meaningful way. So we think that the China business will continue to grow, even though some of the macro conditions continue to be somewhat choppy as we see in the headlines.
+I think our China business next year will grow, over our China business this year. Simply, if I look at the design win and the design win rate. There is some--we don't do any production in China. So we don't have any restrictions when it comes to the so-called China-free requirements.
+So we're good there. Some of the people are talking about Taiwan free. So to some extent, we have to pay attention to that. But in general, we think that China continues, to be an important part of our revenue source and business source, and we support it with a lot of success.
+Chris Caso
+--
+Wolfe Research -- Analyst
+That's helpful. Thank you.
+Rajesh Vashist
+--
+Chief Executive Officer
+Thanks, Chris.
+Operator
+At this time, I'm showing no further questions. I would like to now turn it back to management for closing remarks.
+Rajesh Vashist
+--
+Chief Executive Officer
+Great. So first of all, I want to say thank you for all the kind comments from all of you folks that ask questions. We have nothing else on our end. So we want to thank everybody for joining us for the call today, and have a great evening.
+Thank you very much.
+Art Chadwick
+--
+Chief Financial Officer
+Thank you, guys.
+Operator
+[Operator signoff]
+Duration: 0 minutes

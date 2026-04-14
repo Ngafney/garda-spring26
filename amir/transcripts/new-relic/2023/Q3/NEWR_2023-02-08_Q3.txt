@@ -1,0 +1,387 @@
+Operator
+Good afternoon. My name is Matt, and I'll be your conference operator today. At this time, I would like to welcome everyone to the New Relic third quarter fiscal year 2023 earnings conference call. All lines have been placed on mute to prevent any background noise.
+After the speakers' remarks, there will be a question-and-answer session. [Operator instructions] It is now my pleasure to introduce your host, Ingo Friedrichowitz, senior vice president of investor relations and corporate finance. Thank you. You may begin.
+Ingo Friedrichowitz
+--
+Senior Vice President, Investor Relations and Corporate Finance
+Good afternoon, and welcome to our third quarter fiscal year 2023 earnings call. On the call with me are Bill Staples, our chief executive officer; and Dave Barter, our chief financial officer. On our Investor Relations website, you can find the earnings press release and the investor summary slide deck, which is intended to supplement our prepared remarks during today's call. In addition, an audio replay of this call will be available on our website, ir.newrelic.com, in a few hours.
+During today's call, we will be making forward-looking statements, including about our business outlook and strategies, which we based our predictions and expectations on as of today. Our actual results could differ materially due to a number of risks and uncertainties, including the risk factors in our most recent 10-Q and our upcoming third-quarter 10-Q to be filed with the SEC. Also, during this call, we will discuss certain non-GAAP financial measures. Unless otherwise noted, all of the expense and profitability metrics discussed on today's call are non-GAAP results.
+We have reconciled those to the most directly comparable GAAP financial measures in our earnings release. These non-GAAP measures are not intended to be a substitute for our GAAP results. And with that, I'd like to turn it over to Bill.
+Bill Staples
+--
+Chief Executive Officer
+Thanks, Ingo. I'm pleased to announce another well-executed quarter. We exceeded our revenue and profitability guidance. Revenue was $240 million, and we generated nearly $19 million of non-GAAP operating income, both high watermarks for the company despite an uneven economic climate.
+This is a result of the transformation we have driven across the business, including product innovation, our powerful and differentiated platform pricing model, and focused execution. Let me start with an update on go-to-market execution this quarter. We saw strong new logo growth in the third quarter, adding more than 800 net new paid platform customers, a rate which is significantly ahead of other competitors in our category. As you know, New Relic's success in growing new paying customers is a result of our unique product-led growth motion, which starts with a perpetual free tier that allows customers to use the product and falling in love with it at their own pace and then pay with a credit card as they begin to scale usage.
+Our free tier includes engineers from Fortune 100, Forbes Global 2000, leading public sector institutions, and companies spanning a range of industry verticals. This well of tens of thousands of engaged customers, along with our growing paid customer base, makes New Relic the most ubiquitously adopted observability platform on the planet. Let me share a couple of examples of large new logo lands where we drove head-to-head wins versus leading competitors. First, we closed a strategic agreement with Confluent, the data streaming pioneer who is standardizing their observability practice on New Relic.
+Confluent chose to move off a leading competitor in order to have access to more than 30 capabilities in one platform with better cost scaling that supports their rapid growth and better TCO. And second, BlackLine, a financial operations management platform, is standardizing on New Relic in order to consolidate spend from eight different tools as we partner with them to increase the productivity of their engineers and improve their service performance. So, we're clearly winning new customers through our growth engine at industry-leading rates as well as new strategic levels who are standardizing on New Relic. Perhaps most important for revenue growth in the short term, however, is how we're driving more value for our existing customers by expanding their use of New Relic.
+One key factor in our success driving expansion within our base is our all-in-one platform pricing model, which I blogged about just a few weeks ago. I'd encourage everyone to read it. New Relic doesn't offer just a different way to price observability, but a better way, which translates to better economies of scale and lower TCO as customers standardize on our platform. For example, unlike competitors, our data pricing model follows modern cloud service pricing trends where customers pay for actual usage instead of monthly peaks.
+This aligns with how our customers are driving their own cloud optimization efforts by making use of elastic scaling of their infrastructure and can translate to significant having in their observability spend. Our incremental cost per gigabyte is also a key differentiator and can result in much lower spend versus leading competitors. Our customers enjoy 3x more value than host-based pricing for APM and infra monitoring. Our pricing also stacks up very well against every log management tool on the market.
+Customers can get 2 to 4x more value than leading competitors. All of this results in lower overall total cost of ownership. New Relic can deliver more than 5x more value than leading competitors as customers standardize on our platform. In an uneven economy where every business is looking for efficiency, New Relic is the leading choice.
+Let me share just a few examples of how our pricing advantages meet with innovation to result in more value and growth within our existing customer base. Mercado Libre, the largest online commerce ecosystem in Latin America, has been standardizing on our platform for observability for some time. This quarter, they more than doubled their already large commitment to supporting their growing observability needs, including the use of OpenTelemetry. OpenTelemetry is a cloud-native computing foundation-driven standard, which New Relic is proud to support and a top contributor in our category.
+Next, William Hill is one of the world's leading game and entertainment companies, and they quadrupled their commitment this quarter to support their consumption growth, which is also fueled by their embrace of OpenTelemetry in addition to using New Relic's capabilities across mobile, network, and MLOps. These are just a few examples that showcase why observability is a mission-critical category. It's often said, what gets measured gets improved. New Relic helps our customers, large and small, measure the performance of their software and the digital experiences so they can continue to improve them.
+This helps their business in two ways. They can help them drive efficiencies to their bottom line by identifying idle systems that can be reclaimed or poorly written software to be fixed. It also helps them improve their top line as we deliver insights, which help them improve their digital business performance. The opportunity for observability to positively drive business performance only grows more mission-critical in an uneven economy in investment you can't afford to lose.
+This is why our ability to land new paying customers and nurture increased consumption throughout the base continues to grow stronger despite current economic headwinds. We are simultaneously improving three things to catalyze this success. First, our product innovation continues to fuel increasing value for customers. Second, our all-in-one platform pricing model is a more efficient way to pay for observability and standardize on our platform, an important differentiator, especially to this economy.
+And third, our new leadership is bringing new energy and focused execution. One might wonder, with such terrific pricing, how is New Relic performing on gross margin? To answer that, let's now shift our focus to our product efforts. The engineering team drove a four-point increase in gross margin this quarter and 9 points over the last year. We are now operating a cloud-native 78% gross margin business.
+This is especially impressive relative to peers who enjoy the margin benefits of on-premise software to achieve these same levels. What I'm even more proud of is how the engineering team has been able to drive not, only significant efficiency improvements, but also simultaneously deliver many major innovations launched in recent quarters. Let me share just three examples of where innovation is having a business impact. We're seeing really strong traction with our log-in capability.
+This quarter, we continue to see organic expansion across our base, and we also took share in dozens of accounts versus multiple competitors. The combination of rich features now available in this capability, including log authentication, log anomaly detection, and a rich log management experience, along with a low cost per gigabyte for all telemetry data, is leading customers to realize they can save money by moving their log management to New Relic and get a better experience for their engineers. Second, we continue to expand our cloud to all hyperscalers. This is an important part of our strategy because we serve our customers best by enabling them to use the New Relic platform in their cloud provider of choice, keep their data resonant alongside their infrastructure and apps and easily pay for New Relic through their existing cloud commitments.
+This quarter, we launched New Relic as a native Azure service. And our perpetual free tier and paid experiences are now accessible to millions of Azure engineers to discover, try and buy all inside the Azure experience. This opens an entirely new funnel of potential customers for us, and it's an exciting addition for the existing Azure customers already in our base. Third, our vulnerability management launch last month went really well.
+We launched the preview last quarter and saw a very healthy engagement throughout the preview period. New Relic's vulnerability management builds on our heritage and strengthen APM, allowing every one of our APM customers to automatically get insights into vulnerabilities in their code with zero configuration for deployment. In addition, unlike competitors, our platform approach allows them to integrate multiple security tools from Snyk to Lacework to AWS and more and aggregate those security signals into New Relic, allowing them to prioritize and plan where to focus across their stack. In January, we announced general availability and launched in-product acceptance and payment of this capability, which is available for an additional $0.10 per gigabyte data ingest increase or as part of our Data Plus bundle at $0.50 per gigabyte.
+We saw very promising acceptance of both monetization paths, and our sales teams are executing a focused sales play this quarter with special price-existing customers. Let's now shift our focus to the road ahead and what gives me confidence in the long-term success of our business. First, I want to express my confidence and gratitude for the leaders who have joined New Relic in the last few quarters and who are helping set high standards and drive operational excellence in all we do. The management team today is stronger than it has been in my tenure at New Relic, and we continue to gain momentum.
+Thousands of Relics around the world continue to work exceptionally hard and demonstrate commitment to our company and customers with grit and resilience as they are transforming our business despite the global pandemic, despite social political unrest, and uneven economy and market turmoil. I believe few companies would undertake what we have already done, and we're just getting started. Next, on revenue growth. I believe we have significant opportunity ahead given our expanding base of new and existing customers and the increasing value of the platform.
+The pace of new paid customers is strong. Consumption across the customer base in the third quarter remains healthy, and our ability to capture commitments continues to improve with our largest-ever sequential increase in committed revenue this quarter. We continue to see the cohort of customers on the platform using our modern consumption buying programs, growing much faster than overall company revenues. We've heard feedback over the last 6 quarters of our transition that investors would like more durable measures to model the business across these cohorts.
+We've been locking on our new metrics and are finishing baselines this quarter. We're excited to share them with you, along with our FY '24 plan in May. We would like to invite all investors and analysts to an Analyst Day this coming May. In this meeting, we will share with you details of our FY '24 financial plan, the measures we use to benchmark and forecast our growth going forward, and updated product strategy and go-to-market strategy as well as a customer panel where you'll hear directly from customers why they choose our platform.
+We're excited to meet you in May. Stay tuned for the exact date and venue. Last, we are committed to profitable growth. In Q2, we turned the corner on profitability for the first time since our transition began.
+And we accelerated in Q3 in both revenue and operating margin growth. We can do both. We are not mutually exclusive. Look no further than how we've moved the dial on both gross margin and operating income.
+Four quarters ago, we reported 68.2% gross margin. And this quarter, we ran at 77.6%, a nine-point increase, driven by our engineering team's focus on cloud optimization and architectural improvements while, in parallel, delivering innovation and increasing customer value. Just two quarters ago, we reported a non-GAAP loss of $17.2 million. And this quarter, we reported a profit of $18.7 million, at the same time as a substantial sequential revenue increase.
+These are durable improvements to the business that we're excited to build on. In closing, as a company, we're growing stronger as our product, go-to-market execution, and operating leverage all improved quarter over quarter. We feel well positioned as a strategic partner to our customers and helping them navigate through economic, social, and technological change. Our simple all-in-one platform is optimized to support our customers' efficiency efforts and drive their top line while increasing productivity of their engineering team as they shed less efficient competitors and standardized New Relic.
+Our ability to outperform in Q3 is a testament to strong execution of our team and the power of our strategy. With that, Dave, I'll turn it over to you.
+Dave Barter
+--
+Chief Financial Officer
+Thank you, Bill. Our team executed well in the third quarter. We exceeded the top end of our guidance, both revenue and operating income. Our revenue was $239.8 million, an increase of 18% from a year ago.
+Operating income was $18.7 million, representing a margin of 7.8%. Our earnings per share was $0.32 on a diluted share count of 68.8 million. Profitability is quickly turning into a strength for the company. Our focused execution, which started last summer with a restructuring, is yielding tangible dividends.
+Gross margin increased to 78%, a four-point increase over last quarter and a nine-point increase over last year. Our engineering team continues to implement cloud optimizations and architectural improvements to lower our cloud cost. Our engineering team has also commenced work to shut down our three remaining legacy data centers. With our AWS cloud reaching near 80% gross margin efficiency, we now can start to focus on introducing new cloud environments in strategic regions to serve more customers and drive growth and profitability.
+As an example, we've launched a cloud environment in EMEA, and we recently launched New Relic on Microsoft Azure. Looking beyond gross margin and gross profit, I'm pleased with our focus on efficiency and operational excellence. We continue to find opportunities to drive leverage and scale. Equally, we're also finding opportunities to lower fixed cost.
+During the quarter, we further reduced our real estate footprint, resulting in a one-time noncash $8.1 million expense. Without this cost, our operating margin would be over 11%. While we still have work to do, I'm energized by our progress. Our efficiency-focused efforts enable thoughtful investment in engineering, which has climbed to almost 25% of revenue, while the business is delivering meaningful levels of profit.
+Looking at next year, I expect New Relic will be able to produce durable double-digit operating margins. The other strength that's starting to emerge is our commercial execution. As Bill highlighted, we performed well this quarter, landing new logos and expanding relationships. You'll see clear evidence of this in our 10-Q.
+Our remaining performance obligation, or RPO, increased 19% year over year, representing an increase of $116 million. Similar to our efforts to enhance profitability, there is more work to be done, but our focused execution is yielding tangible proof points. Adoption of our consumption contracts is at very healthy levels. The growth in RPO gives us confidence we will be able to continue driving top-line growth and reducing situations where customers overconsume versus their contractual commitments.
+Let's shift to the balance sheet. We ended the quarter with $800 million in cash, cash equivalents, and investments. We have a convertible note that is coming due on May 1. We expect to repay this with our cash on hand.
+We are not currently interested in or pursuing additional financing at this time that would dilute our shareholders. We believe the business will continue to generate improving levels of free cash flow. We expect our free cash flow margin to track our operating margin while noting there might be some quarter-to-quarter fluctuations as we continue to phase in monthly consumption and invoicing. With that, let's move on to the guidance for Q4 and full fiscal year 2023.
+Our outlook for Q4 contemplates a few points. One, the seasonal pattern of consumption is in line with how we described it on our last earnings call. In other words, customer usage peaked in December and then follow the typical pattern of less usage post holiday and into January. Two, our fourth quarter has two fewer days than fiscal Q3 when we averaged $2.6 million of revenue per day.
+These first two points are expected seasonal elements in the business that are part of the business model and are taken into account in our guidance, resulting in a lower sequential revenue increase in Q4. And three, our costs will be impacted by the normal beginning of calendar year headwind of $10 million due to the payroll tax and 401(k) reset. Factoring in these points for the fourth quarter of fiscal year 2023, we expect revenue between $240 million and $242 million, representing growth of approximately 17% to 18% year over year. We expect non-GAAP income from operations between $12 million and $14 million and non-GAAP earnings per diluted share between $0.20 and $0.23.
+For the full year fiscal 2023, we're increasing our outlook, and we now expect revenue between $923.1 million and $925.1 million. We expect non-GAAP income from operations to be in a range of $2.4 million to $22.4 million and non-GAAP earnings per diluted share to be in a range of $0.40 to $0.43. To conclude, I'm very pleased with the performance we delivered in the third quarter and our focus on executing our plan. Equally, I'm energized by our strategy, and we're very focused on delivering long-term profitable growth.
+With that, let's open up the call for questions. Operator?
+Questions & Answers:
+Operator
+Thank you. [Operator instructions] The first question is from the line of Fred Lee with Credit Suisse. Your line is now open.
+Fred Lee
+--
+Credit Suisse -- Analyst
+Thank you for taking my question, and congratulations on an outstanding quarter. I was wondering what percentage of the quarter was derived from the platform versus legacy APM-only revenue. And then I have a quick follow-up.
+Dave Barter
+--
+Chief Financial Officer
+That's a great question. I think the modern consumption contracts drove about 75% of the revenue. The legacy was about 25%.
+Fred Lee
+--
+Credit Suisse -- Analyst
+OK. Thank you. And then regarding your gross margin performance, incredible performance. How much of the expense was related to price increase versus the cloud optimization, the engineering efficiencies you detailed on the call?
+Bill Staples
+--
+Chief Executive Officer
+Yeah. I'll take that one. The majority of the improvement there is due to our engineering team, really focused on cloud efficiency and architectural improvements that just make the performance of our overall service better.
+Fred Lee
+--
+Credit Suisse -- Analyst
+OK. Great. Thank you very much. Great quarter.
+Bill Staples
+--
+Chief Executive Officer
+Thanks so much, Fred.
+Dave Barter
+--
+Chief Financial Officer
+Thanks, Fred.
+Operator
+Thank you for your question. The next question is from the line of Derrick Wood with Cowen. Your line is now open.
+Unknown speaker
+Great. Thanks. It's Andrew for Derrick. Dave, the RPO growth was very strong.
+Just wondering how CRP looks within that. Was there any duration benefit in there? And is that driven by legacy customers into multiyear deals?
+Dave Barter
+--
+Chief Financial Officer
+It's a great question. If you were to look at the duration, whether on a 12-month or a 24-month basis, I believe that was up about 15%. So, it didn't -- the total RPO did show a little bit of a tick-up as customers started to go to two- and three-year contracts. But we were overall just pleased also with the CRPO expansion and also very pleased with how much was driven by the new consumption contracts around savings and volume plan.
+Unknown speaker
+Great. And, Bill, it seems like the competitive displacement or win rate activity had an uptick this quarter, very strong. Any more metrics to share on this? And what's kicking that dynamic into a new gear?
+Bill Staples
+--
+Chief Executive Officer
+Yeah. For example, our EMEA team was able to displace 25 different competitors' tools and 22 of our customers during the quarter. I think it's really driven off of the strategy that we put in place two years ago to build an all-in-one platform. If you remember, we told investors we thought this category was ripe for disruption, and we wanted to bring it.
+The No. 1 concern that we heard from customers, and we continue to hear, is that observability, the price is too high for the value. And the No. 2 concern they have is tool fragmentation.
+Customers have been really hungry for a platform that helps them standardize their observability practice. So, their engineers can stop swiveling between screens and get work done faster and because a platform approach will drive efficiency in their spend. We've been heads down building that business. And we believe the current economic climate really only accelerates what we saw coming two years ago.
+In essence, this is what we were built for. And the road ahead is an exciting opportunity to show the strength of our strategy to be the first true consumption observability business and solve those hard customer problems.
+Unknown speaker
+Congrats on the quarter. Thanks.
+Operator
+Thank you for your question. The next question is from the line of Sanjit Singh with Morgan Stanley. Your line is now open.
+Sanjit Singh
+--
+Morgan Stanley -- Analyst
+Thank you for taking the questions. My congrats on the excellent Q3 results. I want to ask you about the topic of cloud optimization, probably one of the bigger themes in this December quarter across software. What's the role that observability has sort of enabling cloud cost optimization? Is that a trend that you saw in the results this quarter? And to what extent is the category itself, observability, a target for cloud cost optimization? If you could sort of address it from both this angle, I'd really appreciate it.
+Bill Staples
+--
+Chief Executive Officer
+Thanks, Sanjit. Yeah, it's obvious cloud consumption is slowing down as reported by all three hyperscalers this quarter. And while we aren't immune to the cloud consumption slowdowns, we did see some of that in our base. It's really important to think about the use cases of observability in answering the question because New Relic really helps our customers do two things.
+We help them save money, and we help them make money. That's why observability is so mission-critical, it supports both top-line and bottom-line initiatives for our customers. To help drive more efficiency, our customers use New Relic to understand how their infrastructure and apps are performing and where there are efficiencies to be gained. So, in part, we play a role in helping them drive that cloud efficiency, but we also help drive their top line.
+Customers using Relic to optimize their digital business and increase its performance, reach more customers, deliver better experiences, sell more product and services. And therefore, it's a key priority for every business right now who's fighting harder for every dollar. So, will optimization within our customer base happen around New Relic's consumption services? Yes. Absolutely.
+No vendor is immune. Every company is looking for efficiencies. But will they turn off observability? Absolutely not. And we believe the economic reset that we're going through is ultimately just accelerating the vision that we had for observability two years ago.
+Sanjit Singh
+--
+Morgan Stanley -- Analyst
+That's super thoughtful, Bill. I really appreciate the answer. When we look at the financial model and how it's evolved so materially over the last four quarters, and I imagine it's probably a topic when we all get together in May, but do you sort of have any sort of financial operating sort of rule of thumb? Like does the rule of 40 makes sense in terms of a framework in terms of managing the financials? Because obviously, the gross margin, the operating margin expansion that we've seen over the last 4 years has been really, really impressive. And the growth has held in.
+You guys are in a few that sort of sustained growth in calendar 2022. And so, as we look ahead over the next couple of years, what's your sort of operating philosophy, if you will, in terms of managing the business?
+Bill Staples
+--
+Chief Executive Officer
+That actually is the key topic for our May Investor Day, as you alluded to. But let me actually turn it over to Dave, and he can share a few insights in terms of how we're thinking about the business.
+Dave Barter
+--
+Chief Financial Officer
+It's a great question. It's very timely. As we think out to what happens in 13 weeks and just sitting down in May, but I think what we're excited about as we take all customers and turn all customers into consumption contracts, we do feel like there is an opportunity over the next four years in line with the plan that we've discussed with our board to barely drive a nice balance between growth and profitability. I think we've talked about market rates of growth.
+And then as we highlighted, we think there are improving levels of profitability. And so, we have a road map around how to get to rule of 40 and, quite frankly, a road map on how to get the rule of 40. And it's one that we're excited to share with everyone where it just continues to play out logically, Sanjit, as you know, just kind of inning by inning as we continue to drive the business model forward.
+Sanjit Singh
+--
+Morgan Stanley -- Analyst
+Makes total sense while looking at it today. Congrats. Thanks so much.
+Operator
+Thank you for your question. The next question is from the line of Erik Suppiger with JMP Securities. Your line is now open.
+Erik Suppiger
+--
+JMP Securities -- Analyst
+Yes. Thanks for taking the call. Two questions. One, just curious if you have any updates, metrics related to your consumption run rate metrics.
+I think last quarter, you suggested you would increase that by $50 million. I was curious if you had anything comparable. And then secondly, you talked about log management, and you sound like you're doing very well going after that market. I'm curious if you are seeing any of your competitors, maybe Splunk, discounting in order to defend some of their share -- their market share.
+What kind of behavior are you seeing out of some of the players in that space?
+Bill Staples
+--
+Chief Executive Officer
+Yes. Thanks for the question. I'll start with the first one, CRR. I did share some updates around that last quarter and got a lot of questions about it.
+CRR as a run rate metric is inherently volatile. And so, we've chosen, again, to not provide it just because it's not the best metric to benchmark our business with. And that's why we're excited to come back in May with a set of benchmark metrics with historical view that we can share with you and help you build models for the path forward. I will say overall consumption for Q3 was healthy, and it was a very good quarter, which is accounted for in our revenue results.
+Ultimately, we report revenue based on consumption for the majority of our revenue, and that was reflected in the consumption rates. So, on the second question around log management, it's true, we are seeing really good success with our logging product now coming up. Both customers who have not yet enabled logs for their services, which is the majority of our business, but also competitive takeouts against pretty much every other log management solution in the market. And we don't see competitors reacting differently.
+It's really for us an opportunity to drive that all-in-one observability platform play where we help customers save money, bring all their engineers in one place by bringing all of their data into our platform. And we're seeing good success with that strategy.
+Erik Suppiger
+--
+JMP Securities -- Analyst
+Just a follow-up on that. Would you say more of your business is coming from customers that have not enabled their logs at this point? Or are you seeing more of your business come from competitive environments where you're displacing a competitor?
+Bill Staples
+--
+Chief Executive Officer
+Yeah. It's really -- I would say a lot of our data growth comes from greenfield, comes from apps and infrastructures that are not instrumented, that are new, or that are migrating to the cloud. And then, of course, customers do have logs and metrics and other telemetry in a variety of different places. That's the tool consolidation problem I alluded to earlier that we're really now increasingly effective at consolidating into our platform.
+Erik Suppiger
+--
+JMP Securities -- Analyst
+Very good. Thank you.
+Operator
+Thank you for your question. The next question is from the line of Adam Tindle with Raymond James. Your line is now open.
+Unknown speaker
+Yeah. This is Mark on for Adam. Thanks for taking our question. I was wondering if you could give an update on early renewals after the impact of last quarter -- was $18 million.
+And how does this factor into [Inaudible]?
+Dave Barter
+--
+Chief Financial Officer
+Excuse me. You broke up. Hello? You're very faint. Closer to the mic, perhaps.
+Unknown speaker
+Yeah. It's picked up. So, can you provide an update on early renewals in the quarter? And then after -- it was $18 million last quarter. And then how does factor in the growth plans?
+Dave Barter
+--
+Chief Financial Officer
+Well, give me a second to pull the number up for you. But overall, the early renewals were quite successful. We saw a significant expansion of existing deals. We felt really good about the customer engagement in line with maybe Bill's remarks around tool consolidation that we're seeing in the market.
+We feel like it was -- for customers who are overconsuming, it really allowed us to wrap up all of their consumption in the contract. And for a number of customers, we felt like it opened up an opportunity to drive new growth as we add on new workloads and new scenarios. But overall, we saw a very healthy uptick in that segment of the business.
+Bill Staples
+--
+Chief Executive Officer
+Yeah. I'll just add on. Our ability to execute that motion where a customer is consuming ahead of their original commitment is getting stronger with each quarter as you'd expect as our sales teams get more practiced in having that conversation and as we continue to seek to close that gap between consumption and committed consumption. It was a quarter, the first one, in fact, where we were able to close the gap, thanks in part to that early renewal process as well as our ability to capture increased commitment and incremental new revenue that's reflected in the RPO results that we shared in our 10-Q, but it's also a healthy signal that we're able to capture commitments on consumption and start to close that gap.
+Next question, operator?
+Operator
+And thank you for your question. The next question is from the line of Rishi Jaluria with RBC. Your line is now open.
+Richard Poland
+--
+RBC Capital Markets -- Analyst
+Hey, this is Richard Poland on for Rishi Jaluria. Thanks for taking my question. Just on the price increase as well as the Data Plus SKU. I know you haven't given us any metrics in terms of how much of the customer base is on that Data Plus SKU, but just would be curious if there's any incremental color you could give there, maybe if it's directional just in terms of adoption on Data Plus.
+And then just on the price increase, is that kind of fully reflected in the base at this point?
+Dave Barter
+--
+Chief Financial Officer
+It is not. Price on a weighted average continues to climb, and we certainly saw through the renewals' healthy adoption of both standard and Data Plus. Average price was just above $0.30 for telemetry data ingest this quarter as we went through renewals, which represents a hybrid of both the standard telemetry and the Data Plus telemetry. So, overall, we feel like our pricing paradigm and framework is working as expected.
+Richard Poland
+--
+RBC Capital Markets -- Analyst
+Got it. That's helpful. Thank you. And then just kind of -- is there an updated view just in terms of the data versus the seats component and how we should think about that going forward?
+Dave Barter
+--
+Chief Financial Officer
+I think right now, it's about 50-50. It's going to move around by account, depending upon how accounts are ramping up, particularly new accounts where -- with their new relationships. And so, users come on and probably at different rates and different paces. But right now, again, in aggregate across the portfolio, about 50-50.
+Richard Poland
+--
+RBC Capital Markets -- Analyst
+Got it. Thank you.
+Dave Barter
+--
+Chief Financial Officer
+You're welcome.
+Operator
+Thank you for your question. The next question is from the line of Taz Koujalgi with Wedbush Securities. Your line is now open.
+Taz Koujalgi
+--
+Wedbush Securities -- Analyst
+Hey, guys. Thanks for taking my question. I have a question on -- any impact that you can characterize from the price increase you had, I think, in the June and July time frame? One, how is that being received by customers? And any sort of tailwind or any sort of benefit from the price increase that you can quantify in the results?
+Dave Barter
+--
+Chief Financial Officer
+So, we announced the price increase back in May at FutureStack, and it went into effect really in June, but that's -- June is our smallest period for expirations. We started to see some of it in, arguably, the September window. But again, that also is not a big quarter for us in terms of expirations. It was really this past quarter.
+And again, we saw a very healthy acceptance of it. So, I think everybody understands the pricing model and how competitively priced our telemetry offering is. And again, relative to competitors where they charge so much more for the telemetry ingest, we just have not received a lot of pushback.
+Richard Poland
+--
+RBC Capital Markets -- Analyst
+Thanks. One follow-up. If I'm doing the math right, it looks like your sales and marketing spend was down year over year in the quarter, and you had a nice acceleration on the top line. So, that's a good thing, but just going forward, how should we think about that system marketing trending forward? Should that continue to lag your top-line growth? Or is there anything else that's having a slowdown there while your top line is accelerating?
+Dave Barter
+--
+Chief Financial Officer
+Great question. I guess I think we suggested a couple of calls ago, we felt like we had an opportunity to operate with greater efficiency, greater scale, and I think you're starting to see that percolate through the --
+Richard Poland
+--
+RBC Capital Markets -- Analyst
+Thank you.
+Operator
+Thank you for your question. The next question is from the line of Mike Cikos with Needham and Company. Your line is now open.
+Mike Cikos
+--
+Needham and Company -- Analyst
+Hi, guys. Thanks. Thanks for getting me on here. And I apologize if I'm duplicating on questions here.
+I'm juggling a couple of earnings tonight. But I did want to circle back. I think there was an earlier question where you guys had referenced this closed gap as far as what you're able to drive with customers who had been overconsuming versus those commitments. And I think this is the first time that we're hearing about that closed gap.
+I know that what it sounded like was Bill attributed that closed gap to the success of that early renewals program, but I did want to see, is there anything else that would be driving that narrower gap today versus us having this conversation three months ago? I just wanted to see if there's anything else to that.
+Bill Staples
+--
+Chief Executive Officer
+Yeah. As I said a minute ago, it really is, first, our success driving early renewals gets better and better with every quarter. Practice makes perfect, if you will. And we've been doing it for a few quarters now.
+The teams are getting more comfortable helping customers commit early, helping structure those contracts accordingly. And we saw a significant amount of revenue commitments pulled forward from future quarters. We are also seeing a healthy uptick on in-quarter renewals, which also helps close that gap. Obviously, the primary driver for commitments in the consumption business is capturing the value that customers already receiving as well as forecasting where their consumption might go in the year ahead.
+And so, that's also driving a healthy increase in commitments, and you can see that in the RPO results that we shared in our 10-Q.
+Mike Cikos
+--
+Needham and Company -- Analyst
+That's great. Thank you. And if I could just tack on one more question there. I guess a two-parter here.
+But the first is really around customer behavior. And I know that in previous quarters, we've spoken about, let's say, a customer is overconsuming north of 130% of their commitment. And so, they'll manage down their consumption to kind of rightsize or course correct for that commitment. Is that still the case? Is that even more, I guess, severe in today's macro? Just curious on that.
+And then the other question is more strategic here. But just curious, I know we're talking about the RPO and some of the increased duration as far as maybe a greater focus on the multiyear as opposed to previous annual contracting. And just again, from a strategic level, would be curious to hear why we're focusing on more multiyear commitments from those customers.
+Bill Staples
+--
+Chief Executive Officer
+Thanks. I'll let Dave take the multiyear one. I'll tackle the consumption behavior question you started out with. I really encourage investors to think about the consumption behaviors as an inherent part of the business model that we think is incredibly advantageous to our business and building long-term customer relationships.
+Customers value this consumption business model because they only pay for what they use. And in this uneven economy, it's even more important than ever. If you compare us with competitors, they still charge based on a decades-old pre-cloud era host-based pricing model where they charge for penalties, for peak rates and [indiscernible] customers with overages. Our pricing model matches what customers really expect today from a cloud service.
+They only have to pay for what they use. And so, their usage scales automatically up and down as their infrastructure and apps usage. And when it comes time for contracts to be renewed, they also have the right and the ability to manage their consumption to bring it in line with what they think their new commitments or spend should be. All of that really makes New Relic an incredibly attractive business and especially in this economy because we offer the best value in observability category.
+So, we do see those behaviors continue. And in many ways, they're a feature. They're a benefit to our customers that we're proud to provide them. On the multiyear question, Dave?
+Dave Barter
+--
+Chief Financial Officer
+It's a great question. And one of the things that we like about multiyear, and I think it kind of comes through with our customers, they've made multiple-year commitments to hyperscalers. So, for us, as part of the contracting process where we can ultimately get in there for either their Azure or their AWS commitment, and they can peel off a piece of it and reserve it for observability. I think that works really well.
+Another dimension that some of our customers will say, gosh, if I make a two- or three-year commitment. It also gives them an opportunity to pull forward similar to maybe some of the tendencies they would have with a Snowflake or a Mongo where they make a commitment. And then if it's running hot, there's a pool of funds that they can access and pull forward to fund additional rollouts of the New Relic platform. So, overall, I think just multiyear just naturally works well in this market for a few reasons.
+Mike Cikos
+--
+Needham and Company -- Analyst
+That's great. I really do appreciate the additional color from both of you on that. Thank you.
+Operator
+Thank you for your question. The next question is from the line of Yun Kim with Loop Capital Markets. Your line is now open.
+Yun Kim
+--
+Loop Capital Markets -- Analyst
+Thank you. Congrats on solid quarter. Just following up on the -- several questions around the multiyear trend that you're seeing. Noncurrent deferred revenue balance was up a lot.
+Are you billing multiyears upfront? If you can explain that dynamics there.
+Dave Barter
+--
+Chief Financial Officer
+No, not typically. We're not typically billing upfront. Our general twist or the adaptation we've made is actually switching to consumption, invoicing, and billing more on a monthly basis.
+Yun Kim
+--
+Loop Capital Markets -- Analyst
+OK. Great. And then my understanding is that there were some -- there were a lot of large -- or some large renewals that's queued up in the second half. It sounds like the renewals performed very well in the quarter.
+But the net rate retention rate did decline sequentially. I am assuming that's just a lag effect from prior quarters. So, should we expect that NRR to perhaps at least stay flat going forward or even, you know, inch up to reflect the strong renewal that you guys mentioned in the quarter?
+Dave Barter
+--
+Chief Financial Officer
+It really reflects to that rolling 12-month view. So, you're right, it's such a long-horizon metric. It's not a great indication of exactly what happened in the quarter given the arithmetic.
+Yun Kim
+--
+Loop Capital Markets -- Analyst
+OK. Great. And then one last question. Bill, you mentioned special pricing on renewals.
+Is that different than some of the proactive measurements you guys have taken on some of the renewals or just more value-based kind of efforts that you guys put in for renewals? Or is that something different that you're talking about when you mentioned special pricing on renewals in your prepared remarks?
+Bill Staples
+--
+Chief Executive Officer
+Yes. I was referring to special pricing on our vulnerability management capability that we took to general availability in January. We're giving customers who've been in the preview and whose contracts are up for renewal this quarter -- who want to pull forward a contract into this quarter, the opportunity to secure that capability for a discount. Our retail price for the vulnerability management capability is $0.10 add-on for their data charges or it's bundled in our Data Plus offering, which is $0.50 per gigabyte.
+And for those customers willing to pull forward or add the pricing to their contracts this quarter, the sales teams are negotiating some pretty healthy discounts to help customers get that value sooner.
+Yun Kim
+--
+Loop Capital Markets -- Analyst
+OK, great. That's it for me. Thank you so much.
+Operator
+Thank you for your question. The next question is from the line of Pinjalim Bora with JPMorgan. Your line is now open.
+Unknown speaker
+Hey, guys. This is Noah on for Pinjalim. Just two questions from our end. Can you maybe just touch on the linearity of the consumption trends for this quarter and what that looked like in January? And then I think it was mentioned earlier on the call that you were expecting double-digit pro forma operating margins for next year.
+If that's the case, just trying to get a better sense of what are some of the levers you pull near term to achieve that, if so. Thanks.
+Bill Staples
+--
+Chief Executive Officer
+Yeah. I'll speak to the linearity patterns of consumption in the quarter and through January. 12 months ago, we saw the seasonal pattern of the business. And this year, the patterns are very similar.
+As Dave said, we made it clear in our earnings report last quarter that we anticipated the seasonal element in our business and guided accordingly. January, we're seeing consumption resume in some customers, but not all are back up to their seasonal highs from last year yet. We believe the seasonality element of our business is pretty well understood at this point and should not be a surprise to investors. It's not a surprise to us, and we're managing it well.
+Not all quarters look alike for many businesses. And in fact, we think this one really reflects a unique and competitive advantage of the business model and real customer value that we're passing to customers. So, hope that answers the linearity question. Dave?
+Dave Barter
+--
+Chief Financial Officer
+And then in regards to profitability, I think we're taking this in chapters or toll gate. So, I think if you were to look last summer, we started -- we announced our restructuring started to adjust our cost structure. We quickly kind of got ourselves up to that first round of kind of getting to about a 5% margin. Now we've kind of crossed that line where we're operating about 10%.
+And I think what we wanted to signal to investors, and particularly looking at analyst models, that sitting at about -- going into next year at about a 10% margin seemed like an area where we're at a durable place where we feel confident that we're at 10%. Clearly, we're not satisfied at that level of profitability, and we're working toward the next round, but we kind of take it in five-point increments, if you will. And I think, again, in our prepared remarks, I wanted to signal -- given the success we had last quarter and the steps we're taking this quarter, we feel like we're at about 10%.
+Unknown speaker
+Got it. Thanks, and congrats on the quarter.
+Dave Barter
+--
+Chief Financial Officer
+Thanks so much.
+Operator
+Thank you for your question. The next question is from the line of Kingsley Crane with Canaccord Genuity. Your line is now open.
+Kingsley Crane
+--
+Canaccord Genuity -- Analyst
+Hi. Thanks for fitting me in. I want to touch on the Native Azure service. Bill, I'm sure this is gratifying for you.
+I know you've been thinking about this for some time. So, what are you more excited about? Is this more about driving adoption from Azure users that would not have had exposure to New Relic? Or is it more about unlocking demand from existing customers to monitor more of their total cloud workloads?
+Bill Staples
+--
+Chief Executive Officer
+Great question, Kingsley, and glad we could fit you in because Azure is obviously near and dear to my heart, having spent a lot of time on Microsoft and [indiscernible] Azure. And I'm so excited about this native integration for both of those reasons, frankly. I know millions of engineers use Azure every single day, and I know they can all benefit from New Relic. And the Microsoft team has just done a fantastic job integrating us into their console.
+You can discover New Relic. You can subscribe with just a few clicks. It's free to get started like -- just like it is when you come to our cloud. And they can pay for it on their Azure subscription.
+But what's even more cool is you can look at every single application, every single host, and infrastructure inside the Azure cloud. And with just a few clicks, you can inject New Relic's agents and begin collecting all of your metrics, events, logs, and traces directly into New Relic, running on the Azure cloud. So, all of the telemetry data you collect comes into New Relic, but your data stays within the Azure cloud environment next to your infrastructure and apps. We think that's incredibly valuable for new customers to come experience New Relic with and for our existing customers who already have commitments to Microsoft.
+They can now use those commitments to pay for New Relic as well. And that's also of economic value to them, and they can also benefit from the experience I just described. So, it's really a win for everybody.
+Kingsley Crane
+--
+Canaccord Genuity -- Analyst
+Thanks, Bill. That's really helpful. And just as a follow-up, is that Azure consumption ramps, I'm wondering if that will have any material factor on gross margins, which were quite seller this quarter.
+Dave Barter
+--
+Chief Financial Officer
+It's a great callout. And I think we tried to highlight in our prepared remarks our investment in EMEA, our investment in Azure, almost our intentional natural -- well, investments and a little bit of headwind to gross margin. But I think overall, we're excited to have Azure scale because as it scales, it's actually less of a headwind on gross margin. So, looking forward to, again, that deep partnership with Microsoft and building out a very high growth, but highly profitable cloud.
+Kingsley Crane
+--
+Canaccord Genuity -- Analyst
+Great. Thanks. That's it for me. Thanks.
+Dave Barter
+--
+Chief Financial Officer
+Thanks so much.
+Operator
+Thank you for your question. The next question is from the line of Michael Turits with KeyBanc. Your line is now open.
+Michael Turits
+--
+KeyBanc Capital Markets -- Analyst
+Hey, guys. Hey, David and Bill. I just wanted to come back to the closing-the-gap question and consumption. So, I'll make sure I understand.
+So, by closing the gap, you're renewing early. So, I mean people are upping their commits early. So, they're not going over on the consumption. And since there's no penalty from a unit pricing, what incents them to do that? Are they -- are you offering discounts for them to go at a higher volume rate? Or why should they?
+Dave Barter
+--
+Chief Financial Officer
+Well, that's a great question. Michael, I guess, I think about it from the CTO to the CFO when I reach out and work with customers, and I think we saw over $20 million of net new ACR from just people early renewing and expanding. I think it's with the idea that they're using New Relic more broadly, whether it's for cloud, digital transformation, or certainly in this economy taking out more tools. And so, I think just well-run enterprises, they try keep their spend in line with their commitments, and that ultimately creates an opportunity, I guess, as I've worked with customers for us to go ahead and top off the contract and, again, get it in line with whatever fiscal year plan they might have.
+We certainly, like every software company, will offer incentives and discounts, but I think those tend to be almost more pervasive for all customers rather than just signaling one particular segment.
+Michael Turits
+--
+KeyBanc Capital Markets -- Analyst
+Thanks. And then I know you're not giving the consumption rate the way you did it at one point, but there's two ways to think about a leading indicator. One is what that consumption rate is. You've been -- did 18% growth.
+You guided to high teens growth. So, I guess I think about whether or not the consumption rate is in that same ballpark of high-teens growth and also whether when people renew, they're renewing for commitments that are also, call it, 18% above on an apples-to-apples basis for products in terms of -- on a product basis, not if they expand. So, the renewals coming into high teens [Inaudible] consumption high teens.
+Dave Barter
+--
+Chief Financial Officer
+Yes. You know, I mean, I think we saw ultimately renewals coming in at high teens and certainly some agreements were coming in much higher, particularly the early renewals. So, I think we felt like from a contractual perspective, in line with the expansion, whether you look at current RPO or total RPO, really raising the ceiling very nicely on contracts. I think when we think about consumption, the way I think Bill highlighted, it is consumption certainly peaked in December, it's come back in January, but that seasonal element certainly is what I'd say auto correlates, if you will, with revenue.
+So, I think there is a dimension, if I understand the nuances in your question, between the contracts and the consumption. The consumption follows its natural seasonal pattern, which I think is tracking pretty closely to what we expected and close to the prior two years.
+Operator
+There are no additional questions waiting at this time. So, I'll pass the conference back to the management team for any closing remarks.
+Bill Staples
+--
+Chief Executive Officer
+Hey, everyone, thanks again for joining the call today and your questions and your interest in New Relic. We're excited to see many of you in the upcoming investor events in February and March. And one last reminder that we are inviting all investors and analysts to our upcoming Analyst Day in May. See you then.
+Thank you very much.
+Operator
+[Operator signoff]
+Duration: 0 minutes

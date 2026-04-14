@@ -1,0 +1,348 @@
+Shane Xie
+Hello, everyone. Welcome to the Confluent Q4 and fiscal year 2023 earnings conference call. I'm Shane Xie from investor relations, and I'm joined by Jay Kreps, co-founder and CEO; and Rohan Sivaram, CFO. During today's call, management will make forward-looking statements regarding our business, operations, sales strategy, market and product positioning, financial performance, and future prospects, including statements regarding our financial guidance for the fiscal first quarter of 2024 and fiscal year 2024.
+These forward-looking statements are subject to risks and uncertainties, which could cause actual results to differ materially from those anticipated by these statements. Further information on risk factors that could cause actual results to differ is included in our most recent Form 10-Q filed with the SEC. We assume no obligation to update these statements after today's call, except as required by law. Unless stated otherwise, certain financial measures used on today's call are expressed on a non-GAAP basis, and all comparisons are made on a year-over-year basis.
+We use these non-GAAP financial measures internally to facilitate analysis of financial and business trends and for internal planning and forecasting purposes. These non-GAAP financial measures have limitations and should not be considered in isolation from, or as a substitute for, financial information prepared in accordance with GAAP. A reconciliation between these GAAP and non-GAAP financial measures is included in our earnings press release and supplemental financials, which can be found on our website at investors.confluent.io. And with that, I'll hand the call over to Jay.
+Jay Kreps
+--
+Co-Founder and Chief Executive Officer
+Thanks, Shane. Good afternoon, everyone, and welcome to our fourth quarter earnings call. We closed fiscal year 2023 with a solid Q4, exceeding the high end of all guided metrics. Total revenue grew 26% to 213 million.
+Confluent Cloud revenue reached 100 million for the first time, growing 46%, and non-GAAP operating margin came in at 5.3%, our first positive quarter, improving 27 percentage points. Since going public two and a half years ago, we have more than doubled our total revenue run rate and driven more than 46 percentage points in non-GAAP operating margin improvement. These results are a testament to the power of our platform and the incredible growth of the data streaming category. Last quarter, we discussed our accelerated transition to a fully consumption-oriented go-to-market model for Confluent Cloud, including shifting our sales compensation for cloud to be based on incremental consumption and new logo acquisition, orienting our field team toward landing new customers and driving new workloads with customers, and adopting product and pricing to reduce friction in landing customers and maximize the potential for expansion.
+As we said before, these changes are internal to our go-to-market teams and don't change our business model or revenue model or any other customer-facing aspect, all of which are already consumption oriented. We've executed some of the initial changes of our consumption transformation effective January 1st, including a new compensation model and the initial rollout of new systems, metrics, and measures. Last week, I spent time with our sales and marketing teams at our sales kickoff. The initial reaction from the team has been very positive.
+We will be spending the next few quarters fully adapting and optimizing our business to these changes. We believe our transition to a fully consumption-oriented business, alongside our category leadership, puts us in an excellent position to capture more of the $60 billion data streaming platform opportunity in front of us. I'd like to spend a few minutes and reflect on the increasing recognition of data streaming as a category and its potential for growth. One way of thinking about data technologies is to break them into two groups, those oriented for handling data at rest, the databases and storage systems, and those oriented at handling data in motion.
+These two areas have very different evolutionary paths. Over the last several decades, data at rest has become highly concentrated around a powerful infrastructure platform, the database, a $90 billion-plus category. The landscape of data-in-motion technologies remain highly fragmented, with technology analysts recognizing disparate technology categories, including message queues, application integration tools, data integration tools, event brokers, ETL products, iPaaS, and more. The reason for this was largely technological.
+Each of these product categories was defined by its technological limits, whether latency, scale, complexity of processing, or ease of use. The potential for data streaming is to collapse the fragmentation of data-in-motion technologies, and create a new data platform that supersedes each of these limited precursors. Since Confluent's creation, that has been our central thesis that the data streaming platform would be a data platform of similar importance and scale to databases, but acting as the central nervous system, handling all the data in motion. Now that this category has gotten to scale in usage, it's starting to get formal recognition.
+In December, research published by Forrester validated our thesis that data streaming platforms are a distinct category that has become a mission-critical component of the modern data stack. The Forrester Wave: Streaming Data Platforms, Q4 2023 recognizes streaming data as the pulse of an enterprise and names Confluent a leader. We were also named a leader in The Forrester Wave: Cloud Data Pipelines, Q4 2023, and won InfoWorld's Technology of the Year in the Data Management: Streaming technology category. Taken together, these recognitions show us that the data streaming era is here and Confluent is a clear leader.
+As we've discussed before, this data streaming platform is more than just Kafka. Kafka is the data stream, a foundational layer, but it's just the start to extract the full value of data in motion. Organizations need to connect to the systems they have, process data in real time, and govern these flows of data across the enterprise. Each of these capabilities, connectors, stream processing, and governance, is on a path to become sizable business on their own.
+One key aspect of our consumption transformation is that it lets our go-to-market directly drive consumption around these additional products, which can be used under the same consumption contract with no additional purchasing friction. Today, I'd like to spend a few minutes covering what's happening in the world of stream processing. Stream processing enables organizations to act on data as it arrives rather than waiting to process it in batch at the end of the day. For an airline, it could be processing data from streams of flight times, weather information, and customer information.
+By itself, these streams are powerful. But with stream processing, these streams can be combined and enriched to drive logistics, pricing, scheduling, and cascade that information throughout the system to minimize travel disruptions. For Confluent, this represents a significant growth opportunity. Today, the spend on applications around the data stream is significantly higher than on the stream itself.
+By making these applications easier to build and bringing that spend into our platform, we believe both adoption of our platform, as well as the growth of our business will be accelerated. I'd like to spend the next few minutes addressing the question of why Confluent is uniquely positioned to succeed in stream processing with our Flink offering. There are three key reasons I'll address: first, Flink is the emerging de facto standard; second, the company with the stream gets the processing; and third is the rise of data products. Let me address each of these in turn.
+The first reason is perhaps the most obvious. We believe Flink is simply the best technology in the space and has attracted the largest community of developers working with real-time apps. This technological superiority comes with the fact that Flink was designed to have the full processing power of the database but was designed from the ground up for streaming, addressing batch processing needs as a special case of stream processing. This affects every aspect of the design, from how storage is managed, how failover and fault tolerance works, the latency of results, and the interfaces presented to users.
+This is dramatically better than attempts to bolt streaming features into existing databases or batch-processing engines. The result is our ability to offer the most complete platform and ecosystem for stream processing, one that supports SQL. as well as native apps in popular programming languages, and it unifies batch and real-time processing. This platform has attracted the most vibrant community doing development in this space.
+The developers have spoken. And like Kafka, this is the technology that they choose when they need real-time streaming. In 2023, there were nearly 1 million unique downloads of Flink and a 43% increase in open job requisitions for Flink developers. Unlike Kafka, it has proven itself with one of the most sophisticated user bases, including companies like Apple, Capital One, Netflix, Stripe, and Uber.
+Perhaps what's most impressive is that Flink has attracted this broad adoption in apex users without having significant commercial backing or go-to-market support. This is truly the best engineers taking the best technology. Our investment in Flink gives us a leadership position and the winning technology in stream processing, but our advantage isn't limited to the technology or developer community. As attractive as stream processing is, it doesn't stand alone.
+It's always adopted along with a stream of data that needs processing. Everyone agrees that Kafka is the standard for the stream itself. As the leaders in Kafka, we're in a prime position for capturing the emerging stream processing market. Indeed, this pairing is very similar to what made databases themselves successful.
+Database has brought together data storage with data processing into a unified product, driving a vastly simpler experience. Confluent is working toward the same by unifying data streaming with Kafka with stream processing via Flink. We believe the resulting data streaming platform is exactly the product the customers want. This pairing is not just skin deep either.
+Confluent can make the stream and processing layers work together as a coherent product that is optimized as a single system, from performance to security to data discoverability to transactional semantics. And we think the processing layer that is unified with the underlying stream is going to be the easiest, fastest, and most obvious choice for any developer. That makes Confluent's Flink offering a kind of default option when it comes to processing data in Kafka. There's a final trend that supports Confluent's position in stream processing, and that is the increasing role of the reusable data products in modern data architecture.
+In classical data architecture, data largely lived in a silo and, at most, was extracted to a single destination, the data warehouse, where it was processed to clean it up and make it usable for various reporting and analytics use cases. In modern data architecture, the data warehouse is no longer the single destination for data. Dozens or even hundreds of other systems feed off critical data streams. Repeating the processing that cleans up data for use dozens or hundreds of times is completely infeasible.
+The result is that the processing is being pulled upstream from the destination to the source to produce high-quality, reusable data products. That is rather than having dozens of destination systems all try to clean up the data, instead, the source is responsible for publishing data in a processed, ready-to-use format to all destinations. This means the processing is happening on the stream as data enters the system rather than in the destination, and this is pulling workloads from batch processing in the destinations into stream processing at the source. This is why, structurally, we expect the bulk of stream processing won't happen in destination systems like databases, data warehouses, or data lakes.
+We think these three reasons are each powerful enough to draw processing workloads into the data streaming platform and, put together, will make the DSP the nexus of next-gen data workloads. We continue to see demand from customers who are building the next wave of generative AI applications, including AI-powered procurement software, chatbots, coding platforms, and even unexpected use cases like predicting and detecting cavities. These organizations turn to Confluent to quickly build and scale GenAI applications that connect their proprietary systems to LLMs, so they can deliver trustworthy and contextually rich insights to their customers. We believe this represents a tremendous opportunity for Confluent as customers evolve from experimentation in the short term to production in the medium and long term.
+We continue to invest in our product and in our partner ecosystem to address the demands we see across customers. Alongside Anthropic, we recently partnered with a vector database vendor, Pinecone, and their new Pinecone serverless offering. Our integration allows customers to build retrieval augmented generation, or RAG, pipelines that allow customers to bring together the real-time state of their proprietary data sources with general-purpose AI models. OpenAI has become the poster child of GenAI.
+In Q4, OpenAI signed with us to improve their visibility into customer usage patterns. We're still in early stages with this customer, but we have already identified additional use cases, including ways to help reduce costs across their stack. This customer and others like it continue to validate their strategic role of data streaming in the generative AI landscape. Finally, I'd like to close with two more customer stories that underscore our platform advantage.
+ACERTUS operates the largest automotive logistics company in the United States. It serves car manufacturers, dealers, rental companies, and e-commerce dealers to move, store, recondition, title, and register finished and sold vehicles. However, the data systems that supported its business and customers were old and siloed, creating pricing delays, supply chain bottlenecks, duplicate records, and customers left waiting. So, ACERTUS turned to Confluent Cloud for a data streaming platform to provide real-time access to data across its business.
+Connectors allow ACERTUS to instantly connect data to internal systems, including applications in AWS, NetSuite, Salesforce and Snowflake, and external partners. Stream processing enables them to process data in flight and deliver it to a data warehouse. So, data is up to date and accessible by anyone. Stream governance allows the team to search and tag topics so users can find the data they're looking for and know it's trustworthy.
+With Confluent serving as its data streaming platform, ACERTUS has been able to open new business lines to generate tens of millions of new revenue while delivering internal cost and time savings, savings for the customer, and increased its profit margins. e continue to see strong growth in India, particularly in the digital native segment. A fast-growing e-commerce brand is a great example. By matching the world of fashion to the best technology, this company has experienced massive growth.
+In 2023, it reached tens of millions of new app users while growing its customer base by 100% in the last 18 months. Previously, their data platform relied on open-source Kafka to power end-to-end e-commerce workflows: fulfillment, real-time inventories and order management. But with the company's explosive growth came challenges scaling open-source Kafka, resulting in large maintenance overheads and overprovisioning. So, in Q4, they turned to Confluent Cloud with a seven-figure deal to power six business services that previously used open-source Kafka and plans to leverage our full platform, including streaming governance, connectors and stream processing to support their ambitious growth goals.
+In closing, we're pleased with our strong finish to fiscal year 2023. We are more confident than ever that our transformation to a fully consumption-oriented business and continued innovation in our category-leading platform will serve as a catalyst for winning the $60 billion market opportunity in front of us. With that, I'll turn things over to Rohan.
+Rohan Sivaram
+--
+Chief Financial Officer
+Thanks, Jay. Good afternoon, everyone. I'll start with a brief recap of our full year results. In fiscal year 2023, total revenue grew 33% to $777 million.
+Confluent Cloud revenue grew 65% to $348.8 million, and non-GAAP operating margin improved 23 percentage points to end the year at negative 7.4%. This includes the fourth quarter where we achieved our first positive non-GAAP operating margin of 5.3%, far exceeding the breakeven target we set a year ago. As we look back at fiscal year 2023, we are pleased to have delivered on our commitment of driving higher revenue growth while accelerating our path to positive non-GAAP operating margin by one year. Our ability to achieve $750 million-plus revenue and positive non-GAAP operating margin in just nine years since the company's founding is a major accomplishment.
+It required substantial effort across every team in the company to achieve this milestone. I'm proud of our incredibly talented teams at Confluent, and I'd like to thank our employees, customers and partners for their important contribution throughout the years. Turning to the Q4 results. Key highlights include: robust subscription revenue growth with our first $100 million quarter for both Confluent Cloud and Confluent Platform; record high non-GAAP total gross margin, driven by strong unit economics of our product offerings; and our first positive quarter for both non-GAAP operating margin and free cash flow margin, underscoring our commitment to driving efficient growth at scale.
+Total revenue for the quarter grew 26% to $213.2 million. Subscription revenue grew 31% to $202.8 million. Within subscription, Confluent Platform revenue grew 18% to $102.8 million, representing 48% of total revenue. The strength was driven by healthy demand for Confluent Platform in regulated industries.
+Confluent Cloud revenue grew 46% to $100 million, exceeding our guidance of $97.5 million and ended the quarter at 47% of total revenue, compared to 41% of revenue a year ago and 46% last quarter. We're pleased with the healthy consumption we saw in our digital native customers despite a still uncertain macro environment. Turning to the geographical mix of revenue. Revenue from the US grew 27% to $127.6 million.
+Revenue from outside the US grew 25% to $85.5 million. Moving on to rest of the income statement. I'll be referring to non-GAAP results, unless stated otherwise. Total gross margin reached another record high of 77.5%, up 450 basis points.
+Subscription gross margin also reached a record high of 81.1%, up 240 basis points. Gross margin outperformance was driven by strong Confluent Platform margin and the efficiency and optimization we continue to realize in our Cloud offering. Turning to profitability and cash flow. We achieved positive operating margin for the first time as a public company, improving 27 percentage points to 5.3%, representing our sixth consecutive quarter of more than 10 points and third consecutive quarter of more than 20 points in margin improvement.
+Our relentless focus on driving operational efficiency across the company resulted in improvement in every category of our operating expenses, with the largest improvement of 16 percentage points in sales and marketing expenses as a percentage of total revenue. Net income per share was $0.09 for Q4, using 342.4 million diluted weighted average shares outstanding. Fully diluted share count under the treasury stock method was approximately 356.1 million. Free cash flow margin also turned positive in the quarter, improving 21 percentage points to 3.2%.
+And we ended the fourth quarter with $1.9 billion in cash, cash equivalents, and marketable securities. Turning now to other business metrics. In Q4, total customer count grew 9% to approximately 4,960. Customers with $100,000 or more in ARR, grew 21% to 1,229 and customers with $1 million or more in ARR grew 24% to 158.
+We ended fiscal year '23 with 19 customers with $5 million or more in ARR, up from nine customers a year ago. This reflects our customers' strong confidence in standardizing on our data streaming platform, making Confluent the central nervous system of their technology stack. We believe the completion of our consumption transformation in fiscal year '24 will help accelerate the growth of our total customer count. In fact, we saw good traction in total customer count in January.
+While early, we believe the transformation will make it even easier for our customers and prospects to try, adopt and expand across stream, connect, process, and govern in our product portfolio. NRR in the quarter was slightly above 125%, exceeding our midterm target threshold of 125%. Gross retention rate remained strong and was above 90%. As discussed last quarter, we expect NRR will be between 120% and 125% as we go through our consumption transformation this year.
+As we exit the transformation and starting fiscal year '25, we expect NRR to revert to Q4 '23 levels and exceed our midterm target threshold of 125%. RPO was $919.9 million, up 24%. Current RPO, estimated to be 64% of RPO, was $591.9 million, up 30%. As called out last quarter, RPO-related metrics are less relevant beginning this year, given our greater focus on driving consumption for our cloud business.
+Next, I'm pleased to announce that we recently acquired Notable, which did not have a material impact on our financials. We closed the acqui-hire in Q4 of 2023 and welcomed a small team of highly talented individuals to Confluent. This team focuses on developing a no-code data visualization capability that simplifies navigation and identifies important insights. Now I would like to discuss Confluent's positioning for 2024 and beyond.
+Driven by our TAM, technology and team, we have shown in our 2023 results our success in driving efficient growth at scale. In 2024, our TAM, technology and team are only getting stronger. First, our $60 billion-plus TAM is underpinned by the prevalence of data streaming as more than 150,000 organizations have built around streaming, along with long-term secular tailwinds such as cloud migration and GenAI. Second, our technology differentiation is expanding rapidly.
+We have successfully evolved from a single product streaming company to the industry's only data streaming platform company. Our DSP is cloud native, complete with stream connect, process and govern and available everywhere. Our customers are excited about the innovation we plan to bring to the market in 2024 as we have one of the most exciting product release cycles coming up in the history of the company, starting with Flink GA in Q1. Finally, our team has proven ability to execute with the latest accomplishment of delivering higher revenue growth annually while improving non-GAAP operating margin by more than 46 points in just 10 quarters.
+In 2024, we have strong alignment and commitment across every function of the company to deliver on our consumption transformation. This will put us in a better position, more aligned with our customers to address the $60 billion-plus TAM in front of us. Given this backdrop, we are focused on sustaining efficient growth in 2024 by delivering our first breakeven year for both non-GAAP operating margin and free cash flow margin. Given our solid Q4 performance, we feel confident in delivering 22% total revenue growth for 2024 and eventually returning to our midterm target growth of 30%.
+Turning now to our guidance. As announced on our last earnings call, we will be transitioning our revenue guidance metrics to subscription revenue beginning this quarter. To assist the investment community, we're transitioning to our new guidance practice, we will continue to provide total revenue guidance for the first two quarters of 2024 and for full year 2024. We will fully transition to providing only subscription revenue guidance beginning with Q3.
+For the first quarter of 2024, we expect: total revenue to be in the range of $211 million to $212 million, representing growth of 21% to 22%; subscription revenue, which is our new guidance metric and consists of Confluent Cloud and Confluent Platform revenue, will be in the range of $199 million to $200 million, representing growth of 24% to 25%; non-GAAP operating margin at approximately negative 4%, representing improvement of approximately 19 percentage points; and non-GAAP net income per diluted share to be approximately zero to $0.02. For the full year 2024, we expect: total revenue to be approximately $950 million, representing growth of approximately 22%; non-GAAP operating margin to breakeven, representing improvement of approximately 7 percentage points; and non-GAAP net income per diluted share of approximately $0.17. Additionally, I'd like to provide some modeling points. We expect Confluent Cloud revenue in Q1 to be approximately $105 million, representing growth of approximately 43%.
+We expect free cash flow margin in fiscal year '24 to breakeven, representing improvement of approximately 16 percentage points. Consistent with prior years, Q1 free cash flow margin will continue to show pronounced seasonality, primarily due to our corporate bonus payout, employee stock purchase program and the holdback payment related to our Immerok acquisition. Despite these headwinds, we expect Q1 free cash flow margins to improve approximately 20 percentage points year over year. Finally, we are pleased with decreasing our annualized net dilution from 4.7% in fiscal year '22 to 3.5% in fiscal year '23.
+We expect net dilution for fiscal year '24 will be approximately 3%, in line with our midterm target. Our goal over the long term is to bring net dilution down to under 2%. In summary, we are pleased with closing out the year with solid fourth quarter results. Our track record of improving non-GAAP operating margin is a testament to the power of our innovation engine and our commitment of driving efficient growth.
+Looking forward to 2024, we are focused on achieving our first positive non-GAAP operating margin and free cash flow margin for the full year while delivering on our top line commitment. Now Jay and I will take your questions.
+Shane Xie
+All right. Thanks, Rohan. [Operator instructions] And today, our first question will come from Michael Turrin with Wells Fargo followed by Morgan Stanley. Michael, go ahead.
+Michael Turrin
+--
+Wells Fargo Securities -- Analyst
+Hey, Thanks. Nice bounce back here. I appreciate you taking the question. Jay, I want to go back to some of the partnerships you mentioned.
+You caught out a few captivating companies with Anthropic, Pinecone, and then the OpenAI customer relationships. So, I'm just wondering, is there a commonality in terms of their needs for data streaming? Are there reasons they're landing with Confluent versus open-source Kafka? I think this is obviously a new ground for all of us. So, just anything else you can provide just to help us understand what drove those is useful.
+Jay Kreps
+--
+Co-Founder and Chief Executive Officer
+Yeah. I think increasingly, streaming is a critical part of the architecture for these generative AI applications. The need is very much to bring together the kind of proprietary enterprise data you would have with one of these more generic language models that kind of knows about the world, but doesn't know the up to the second view of your business and what's happening. And so, that's very much the use case where we tend to play in that.
+So, the partnerships with the vector databases like Pinecone, the models, it's very much around supporting that architecture. And our goal was really to support the integration across the best technologies in that space. And I think it was very much embraced on the other side by these companies that are trying to do that. And then OpenAI, this is incredible technology company that I think has the potential to be the size of Google over time in terms of the scale of their infrastructure.
+We're extremely happy to be part of that stack.
+Michael Turrin
+--
+Wells Fargo Securities -- Analyst
+That's great. If I can just ask a follow-on for Rohan. It's encouraging to see the 22% guide held on to here. You mentioned a number of impacts for us to consider last quarter.
+Any commentary you could provide just on how some of those played through in Q4 relative to what you're expecting previously is also useful. Thanks very much.
+Rohan Sivaram
+--
+Chief Financial Officer
+Thanks for the question, Michael. Yes, of course. I mean, it all starts with our Q4 execution. We delivered subscription revenue growth of 31% and total revenue growth of 26% and a couple of milestones, so first quarter of $100 million for both Confluent Platform and Cloud.
+That, coupled with just the green shoots we started seeing in the digital native segment with respect to the consumption, was, I'd say, one area. In general, Q4 execution was solid. I think number two, on the consumption transformation side, Michael, we saw good early traction with respect to where exactly where we want to be. As Jay mentioned, we were at sales kickoff last, last week, and the feedback was very, very positive.
+And generally, like one month in, we're getting just positive signals with respect to our transformation. So, that's that. And in general, when you think about our guidance philosophy, if you look at our Q1 and full year guidance, we're not assuming a huge amount of acceleration in the second half of the year. I mean when you combine all of these, it just gives us, I'd say, more confidence around our 2024 guidance.
+Michael Turrin
+--
+Wells Fargo Securities -- Analyst
+Very clear. Thanks very much. Appreciate it.
+Shane Xie
+All right. Thanks, Michael. We'll go to Sanjit Singh with Morgan Stanley, and then followed by Deutsche. Sanjit?
+Sanjit Singh
+--
+Morgan Stanley -- Analyst
+Yeah. Just to pick up on the previous question and some of the themes last quarter. Jay, I think one of the themes that you called out last quarter was just that software development projects had slowed down throughout the course of calendar 2023. It doesn't sound like you're giving the all-clear signs just yet, but there seem to be some encouraging signs with like new logo acquisition in January.
+In terms of what you're seeing from the customer base and sort of them sort of restarting some innovation initiatives, any update there that you can tell us as it relates to potentially driving pipeline for Confluent?
+Jay Kreps
+--
+Co-Founder and Chief Executive Officer
+Yeah. I would characterize it this way, I think '23 was just a tight year for IT budgets kind of everywhere. And then in the digital native space, it was extra, extra tight where there was very significant push on optimization. So, where are we now? Yes, I wouldn't say it's all back to where 2021 was, but there are some green shoots, right? We've definitely seen more activity in the digital native space, right? I think some of the optimization has been accomplished.
+So, there's projects happening there. I think maybe there's kind of a normalization across both large enterprise and digital native where people are getting a little bit back to normal. It's early in calling that, but I would say that's the early part of what we've seen.
+Sanjit Singh
+--
+Morgan Stanley -- Analyst
+Great. So, a little bit of incremental progress. And maybe just one quick follow-up. Q4 is typically a big renewal quarter for most software companies.
+As you saw the renewals come up, did you pick up any sort of increased motivation by a cohort of customers to move or downgrade from paid Confluent to open-source Kafka and sort of update them?
+Jay Kreps
+--
+Co-Founder and Chief Executive Officer
+No. Overall, the kind of gross retention rate has remained very strong. As I think we called out, that we track exactly whenever we compete versus open source, whether renewal or kind of new win. And those win rates have remained very strong.
+In fact, it actually improved in Q4 over past quarters.
+Sanjit Singh
+--
+Morgan Stanley -- Analyst
+Excellent. Thank you.
+Shane Xie
+Great. Thanks, Sanjit. We'll go to Brad Zelnick with Deutsche next, followed by RBC.
+Brad Zelnick
+--
+Deutsche Bank -- Analyst
+Thanks very much, guys, and great to see the strong finish to the year. I want to follow up on Michael Turrin's question around these partnerships, Jay, and AI use cases, which you called out in your press release, I think, where you referenced real-time generative AI use cases as really being at the forefront right now. If we kind of go back to where we were at your analyst event in New York, I don't know if that was six or eight months ago, it feels like with these partnerships, this is really more coming into focus and into fruition. Can you give us any prospective view in terms of like the types of use cases and the extent to which this is really going to materialize into demand, which I think, again, reflecting back six, eight months ago, was a little bit unclear as things were shifting in the world exactly.
+You kind of knew Confluent was participating, but I think you left the door open to exactly how -- if you could articulate that, that would be great.
+Jay Kreps
+--
+Co-Founder and Chief Executive Officer
+Yeah. Yeah. So, I would say the kind of our place in that stack has played out exactly as we called, right? We're in that kind of data supply chain for use cases around large language models. I would say the predominant use case, it's a lot of language and chat stuff, as you would see, very much that kind of apply this language model using the data about my business.
+That's the broad version of it. That could be around augmenting internal employees and making them effective, that could be something customer-facing, that could be kind of a back-end data processing task. We've seen that across a variety of disciplines, whether it's -- I can't call out some of them, but everything from kind of retail to tech companies to financial services. So, I think that's happening.
+Where are we at in that cycle? Yes, I would say it's still early. There's more experiments in production applications, and obviously, we're kind of a production data layer. So, that's where we come into play. But I think it's definitely promising.
+It kind of adds to the set of use cases that we have that drive adoption of this new architecture around data streaming.
+Brad Zelnick
+--
+Deutsche Bank -- Analyst
+Great. And maybe just a quick follow-up for Rohan. Great job on the quarter. Better Q1 guide than we were modeling.
+But would I be wrong to assume -- and just what I think I'm hearing from you is that you're feeling better about the environment and growth opportunity versus a quarter ago, given you've nudged up your 2024 guidance, but you're still keeping the margin guide for flat. This makes me wonder, are you hiring more into the opportunity you see ahead? Or is there maybe dilution from Notable? What should we -- not to nitpick, but what should we be thinking about here?
+Rohan Sivaram
+--
+Chief Financial Officer
+Yeah. Thanks, Brad. Thanks for the question. When you -- on the top line side, like I mentioned, three things: strong Q4 performance, our consumption transformation after the start, exactly how we expected it to be, and just some green shoots on digital native that's driving our slight increase in dollar terms and increased confidence in our '24 guide.
+On the margin side, we have a guide of 7 percentage points improvement year over year. That's holding to what we said a year back. So, I wouldn't call out anything specific. I called out that Notable does not have any material impact on our financials, and it's included in the guidance.
+But in general, as we head into 2024, we will hire in critical areas of the business and -- to overall make sure that we are driving durable growth and doing that efficiently in a thoughtful manner.
+Brad Zelnick
+--
+Deutsche Bank -- Analyst
+Great. Thanks very much. Nice job, guys.
+Shane Xie
+All right. Thanks, Brad. We'll take a question from Matt Hedberg with RBC, followed by Needham. Matt?
+Matt Hedberg
+--
+RBC Capital Markets -- Analyst
+Great. Thanks, guys. I'll offer my congrats as well. Following up on Brad's question a bit and focusing on the TAM for data streaming.
+Do you have a sense for the percentage of workload, Jay, that -- or workload or apps that customers typically see as needing real-time data versus where maybe batch is fine?
+Jay Kreps
+--
+Co-Founder and Chief Executive Officer
+Yeah, yeah. It's a great question. I mean the key observation is I think that everybody wants data to be up to date and they want things in sync with the business. The question is how critical is that, right? Is that something that you must have at all costs? Is that something you would like to have? And I would say there's two changes there.
+First, increasingly, use cases do need that. As systems become more part of the operational stack of companies, as more of the use of data is driving action, not just reporting, I think that does require things to be much more in sync with the current state of the world. And so, I think there's a trend, overall, in that direction. And then secondly, the cost of real time, the cost of streaming and the difficulty of it is very much coming in line with batch computing.
+There's no reason this should be harder. It's just newer, right? And that takes time to mature. So, yeah, we felt like hey, without making a lot of really big assumptions, if you look at kind of what's the portion of workloads that the average enterprise would have on the streaming platform, I would say about a third, maybe a third live in this kind of operational database world where you're doing the quick lookups and serving the interactive web apps, maybe a third are in the kind of analytics world kind of back-end dash [Inaudible], really doesn't need to move out of that, kind of off-line processing, and maybe a third are in that stream processing space. I think that's the end state that we're aiming for.
+If you look at companies that are a little more technologically advanced and have been at this for a while, that's where they are. If you look at companies who are just starting in this space, they just have a few things, right, that they've done. So, the assumption is that those newcomers will be able to progress. What enables that is making this technology easy and approachable, which is, of course, the direction of all our investments.
+Matt Hedberg
+--
+RBC Capital Markets -- Analyst
+Great. And then maybe just a quick follow-up. Obviously, good execution here in Q4, and Rohan noted that new customer adds have increased in January, which is good to hear. Have you just heard any more just general feedback from the sales force on these changes? And did you notice any abnormal sales rep attrition?
+Jay Kreps
+--
+Co-Founder and Chief Executive Officer
+Yeah. Yeah, it's a great question. So, like when we were thinking about the risks involved in this consumption transformation, that was definitely one of our potential risks, was like, hey, this is a big change for the sales team. What we've seen so far, I think, has been very promising.
+So, first of all, people understood why we were doing it. They felt like it was coming more in line with some of the peer companies. Those companies have done it successfully. So, I think there's enough kind of in water that you know this makes sense.
+I think it's in line with what we see from customers, like what customer want to do. So, I think it made sense to people. You have a lot of conversations with bag-carrying sales reps, sales leaders at our sales kickoff last week. And I was expecting a more mixed set of feedback.
+Usually, if you make big changes, you get a little bit of everything. On the whole, I thought it was extremely positive. So, that's been good. And then yes, attrition, that was one of our concerns.
+Overall, that's not been an issue. Attrition is under what we modeled for the year and in line with historical norms for years when we haven't had this change. So, that's very positive.
+Matt Hedberg
+--
+RBC Capital Markets -- Analyst
+Great to hear. Congrats, guys.
+Shane Xie
+All right. Thanks, Matt. We'll go to Mike Cikos with Needham next, followed by William Blair.
+Mike Cikos
+--
+Needham and Company -- Analyst
+Hey. Thanks for taking the questions, guys. And I just wanted to pick up where Matt left off, just because I know that there's so much focus on this go-to-market transformation that you guys have been talking about. We're probably going to get this question.
+I just want to get it in a public forum here. But the concern, if we wanted to play devil's advocate, is that part of the Q4 strength was driven by, let's say, sales reps really trying to jam some of these contracts in under the old incentive structure. Can you just parse that out, while we have everyone here to hear, I guess, what you saw on that front?
+Jay Kreps
+--
+Co-Founder and Chief Executive Officer
+Yeah, I'm happy to do that. I mean first, it's important to understand that there's no change for Confluent Platform, the licensed software offering. So, there's no -- I mean, sales reps always want to get something done in the current year, if they can. But there's no particular need to jam it through in '23 versus '24 on the Confluent Platform side.
+On the Confluent Cloud side, it's very important to understand that the revenue actually comes with the consumption. And so, what you're seeing has nothing to do with the kind of deals closing that would show up in RPO, but the revenue represents just the increasing consumption, as you would expect. So, yes, I don't think there was a -- always people want to close deals as soon as they can, but I don't think there was a huge transition or kind of pull forward.
+Mike Cikos
+--
+Needham and Company -- Analyst
+Great. And then a bit of a two-parter here, one to close out the sales and another just to the broader platform. The first more just a financial checking here. But for Rohan, maybe you could give us a comment.
+But I think last quarter, the company had alluded to maybe 200 to 300 bps of an operating margin headwind based on the upfront expense recognition for Confluent Cloud with this incentive structure. Can you confirm that that's still the case when we think about this guidance here for the year? And then the second part, again, this is coming back to you, Jay. But can you talk about the importance of Flink? And where I'm going with this is, I believe Flink actually generalizes the processing, right? It can handle both streaming and batch processing. And again, for those folks who don't have the technical chaps, myself included, but what is the importance of that generalization when we think about the potential that Flink has for your platform?
+Jay Kreps
+--
+Co-Founder and Chief Executive Officer
+Yeah. Great. Do you want to go first, Rohan?
+Rohan Sivaram
+--
+Chief Financial Officer
+Yeah, I'll go first. Mike, you're right. What we said last quarter was around just how commission is recognized, and that had a 200 to 300 basis point headwind to our operating margins. That still holds good.
+And that impact has actually been incorporated into our guide that we shared. So, the 7 percentage points improvement that we're talking about year over year takes into account that dynamic that's happening. So, to just confirm what you said, it's true.
+Mike Cikos
+--
+Needham and Company -- Analyst
+Perfect. Thank you for that.
+Jay Kreps
+--
+Co-Founder and Chief Executive Officer
+Yeah. And then on the Flink side, that's exactly right. When people think about streaming, one of the mistakes I think they often make is to think of it as kind of a niche, right? What's actually happened in the world to make this area successful is it's really kind of a generalization of the batch systems. And that's actually true in the Kafka layer, where data is streamed but it's actually stored permanently, if you like, as well, and it's true in the Flink layer, where data is processed in real time but can also be reprocessed in batch.
+So, it has actually a very sophisticated batch-processing engine as well. And it's a bit into the tech weeds. But like that ability to provide something that's a generalization, that's actually key to the earlier point of what workloads would move, why would they move. You want something that is as capable as fully featured can handle the full set of workloads, but now does them continuously in sync with the business.
+Mike Cikos
+--
+Needham and Company -- Analyst
+Terrific. Thank you for that. I'll have to nerd out with you on that another time, but appreciate it. Thank you, guys.
+Shane Xie
+All right. Thanks, Mike. We'll go to Jason Ader with William Blair next, followed by Goldman Sachs. Jason?
+Jason Ader
+--
+William Blair -- Analyst
+Yeah. Thanks, Shane. Good afternoon, guys. First question for you.
+Just beyond the comp model shift that you guys have undertaken here, just wanted to get some more detail on some of the organizational changes. I know you have a new CRO. Can you just talk about how sales ops is changing, account coverage, sales engineering, customer success, partner engagement? Just sort of a little bit of a lay of the land in terms of how the sales organization looks today versus what it looked like a year or two ago.
+Jay Kreps
+--
+Co-Founder and Chief Executive Officer
+Yeah. So, the field operations, overall, remains under Erica Schultz. There are some changes within that, that kind of line up to this consumption change, right? It changes a little bit and how the sales engineers operate since the distinction between kind of land and expand is now a little bit different in a consumption world, changes in some of the organizations in the Americas and elsewhere as well.
+Jason Ader
+--
+William Blair -- Analyst
+OK. And so, it's more of a tweak, is that fair, versus overhaul.
+Jay Kreps
+--
+Co-Founder and Chief Executive Officer
+Yeah. Yeah. I mean, I don't know where the line between one and the other is. But on the whole, I feel like we've had a lot of continuity in that team.
+The people kind of driving this are the same people who kind of set up the set of changes that we executed in '23. So, I think there's been a lot of continuity in how we've thought about the kind of set of adjustments we would need to make.
+Jason Ader
+--
+William Blair -- Analyst
+OK. And one quick one for Rohan. Can you talk about just the shape of the quarterly revenues in 2024? And any rough cut on impact of Flink and timing of impact from Flink?
+Rohan Sivaram
+--
+Chief Financial Officer
+Yeah. I'll start with the second part, Jason. With respect to Flink, as we mentioned earlier, we expect the GA Flink in Q1. And with any kind of infrastructure product, it takes a couple of quarters for customers to start -- build applications and use it.
+So, as we've said before, very consistent with what we've said before, we expect material revenue contributions from Flink to happen in fiscal year '25. So, that's on the Flink part. On the shape, I'll just call out a couple of things. I'm not going to guide or provide color commentary on every quarter.
+But in general, I think one thing I can give you some additional color is around the shape of the Cloud business for 2024. In general, Cloud as a percentage of total revenue for 2024, we expect to be in the range of 50% to 51%, which is kind of in line with where the estimates are. And of course, from a first half versus second half, what I've shared earlier is, as a result of the consumption transformation, we're expecting second half growth rates to be slightly more elevated than first half. But as you can see from the guide, it's not a huge acceleration in that number.
+I hope that helps, yes.
+Jason Ader
+--
+William Blair -- Analyst
+Very helpful. Thank you.
+Shane Xie
+Thanks, Jason. I will go to Kash Rangan with Goldman, followed by J.P. Morgan. Kash?
+Kash Rangan
+--
+Goldman Sachs -- Analyst
+Yeah, yeah. Thank you very much. Good to connect with you guys. As you fought the new consumption model and how salespeople are going to get compensated, what has been the customer feedback? Does it change anything about the way the customer is going to be dealing with Confluent regardless of the way you compensate your salespeople? And secondly, Jay, as you go into 2024, we're hearing a lot more Flink.
+The message, Confluent is an elegant technology platform. This is pretty complicated, but it gets even more complicated as we get into discussion of where Flink fits in versus Kafka. Are we -- how are we to navigate this complexity in the technology portfolio versus the complexity in the way we're going to be compensating salespeople? One of the tools and techniques you're giving your core market organization to navigate and get through this complication. Thank you.
+Jay Kreps
+--
+Co-Founder and Chief Executive Officer
+Yeah. Yeah. On the first question, there's nothing immediate that changes in the interaction with customers or at least not in the way that you would immediately notice, right? So, the payment model, the kind of business model, that has all been consumption-oriented since prior to the IPO. And so, you might not notice anything if you're a customer.
+Hopefully, you noticed that our field team is more helpful in finding the applications that are critical to your success, making sure that those get to production as quickly as possible. Hopefully, they were doing that already. But the consumption incentive kind of directly drives that behavior, but it wouldn't be something where we have to send you some notice of something changing. Really, it's internal to our operations that the change is most apparent.
+On your second point, I think you will hear about complexity around Kafka or around Flink. I think it's actually very important to separate out the operational complexity of trying to build a big in-house data system that you self-manage from actually using one of these cloud services. The interface to Kafka is a very simple kind of read and write data streams. The interface for Flink is just SQL, as people are used to this kind of the common language of databases or in other common programming languages, very similar constructs.
+So, that developer interface is not complicated. If you want to stand up and build an in-house data platform and run it yourself off the open source, yes, there's a lot of rocket science involved in that. And so, when we think about how does that affect our sales model, well, that's part of what we're bringing, right, the value of these cloud platforms, in particular, is taking all that way. You can just depend on this as a service.
+And I do think that that's where, call it, 90% of the complexity in this new stuff lies. And that's always been true. Like running databases is hard, running data systems of all kinds is hard, and this stuff is no different from that.
+Shane Xie
+All right. Thanks, Kash. We'll take our next question from Pinjalim Bora with J.P. Morgan, followed by Mizuho.
+Pinjalim Bora
+--
+J.P. Morgan -- Analyst
+Thanks. Thanks, guys, and thanks for the questions. Congrats on the quarter. I want to ask you on the go-to-market changes.
+I think I heard you have already put kind of the initial changes in place. Maybe go a little bit deeper. What has been rolled out? What is remaining? Because what about the sales enablement side? Because it seems like the conversations for the sales reps also changes a bit, looking at more use case-driven versus committed contracts. So, maybe talk about what is rolled out and what is remaining.
+Jay Kreps
+--
+Co-Founder and Chief Executive Officer
+Yeah. Yeah. The kind of set of things that need to change at a high level, the compensation structure changes, what we track in sales force changes. We're now tracking the individual application workloads, not just the kind of high-level contracts progressing.
+That's intentional. That lets us really explicitly drive back. And then yes, there is a bit of a different motion and enablement around that. And so, what have we done? We've rolled out these new systems.
+We've changed the compensation. We're kind of managing and driving this. We've run through the enablement. That was obviously a big focus in our sales kickoff.
+So, does that mean everything is done, mission accomplished? Well, no. Now we have to go drive it successfully. Like any new thing, you got to put all the parts together and turn it into a car and drive the car. So, that last bit is kind of the key focus this quarter and next quarter is really making sure we nail that, that all of this works well in every territory for every rep everywhere in the world.
+That's obviously our focus. But in terms of like, well, how do we feel relative to last quarter as we talked about this? Well, obviously, a number of things have derisked, right, like we rolled out this compensation program. I think it was successful. People understood.
+They felt they could make money on this plan. We got the systems and tools built to run the business. So, a lot of progress has been made, but there's obviously still a lot of work to do.
+Pinjalim Bora
+--
+J.P. Morgan -- Analyst
+Yeah, understand what portion of your customer base today already uses kind of an open-source version of Flink or maybe using Kafka streams on AWS to query?
+Jay Kreps
+--
+Co-Founder and Chief Executive Officer
+Yeah. Yeah. So, it's a pretty high overlap. Like any open-source stat, it's an inexact science, tracking the usage of open-source things.
+But yes, we had given some adoption stats for Flink. It's smaller than Kafka is but on very similar growth trajectory. I think it was a few earnings calls ago when you kind of plotted out the relative adoption of those two projects. So, yes, it's certainly double-digit percentages of the customer base already uses open-source play.
+Pinjalim Bora
+--
+J.P. Morgan -- Analyst
+Thank you.
+Shane Xie
+Thanks, Pinjal. We'll take our next question from Gregg Moskowitz with Mizuho, followed by TD Cowen. Gregg?
+Gregg Moskowitz
+--
+Mizuho Securities -- Analyst
+Great, OK. Thank you for taking the questions. Your net new logos were lighter than the typical Q4. Did the self-service activity really slow down? And did the upcoming go-to-market transition to consumption factor into that? Also, it sounded like you had a nice bounce back in net new logos in January, and so any additional color there would be helpful as well.
+Jay Kreps
+--
+Co-Founder and Chief Executive Officer
+Yes. I would say this one is -- that's an accurate observation. I would say this one is mostly mechanical, and this is one where the consumption changes did have an impact in Q4. So, one of the changes we made, in Q4, we incented just kind of the bookings for Cloud or Platform.
+Starting in Q1, starting in January, we're directly incenting both land, new logos and expand the kind of consumption off of it. So, yes, if you were going to close a very small new customer in late December, you might want to do it January because you get paid on it. And so, yes, we did see a bit of a shift there. We're off to a good start, as we noted in the script, in January.
+And then if we think about the trajectory over the rest of the year, we do think there's an opportunity to really drive higher velocity land of customers, and that's part of our goal with this consumption transformation. So, that's one of the areas we're going to be watching, to try and see some like significant growth there over the course of the year.
+Gregg Moskowitz
+--
+Mizuho Securities -- Analyst
+Very helpful. Thanks, Jay. And Rohan, so your subscription gross margins continue to impress. And in fact, your total gross margins are now well above your prior or current, I should say, long-term guidance.
+Is there anything sort of one time in nature that's contained within gross margins today? Or are you unlocking more efficiencies than you maybe had expected previously?
+Rohan Sivaram
+--
+Chief Financial Officer
+No, Gregg, that's the right observation. When you look at our gross margins, we had record gross margins for total gross margins, as well as subscription gross margins. And when you just kind of double-click into it, the dynamics are as Cloud mix, over time, increases, that's a headwind to gross margins. And during the same time, our engineering and product teams have done an incredible job in making sure they're improving the efficiency with which we done delivering our products to the customers.
+And that's one driver. As we look ahead, I think there's an opportunity for us to drive a higher multi-tenant mix in our product, which is obviously going to be a tailwind to gross margins. So, looking forward, we expect to be in the, I would say, zip code of 75-plus percent, which is our long-term target gross margins. With some puts and takes, the tailwind is going to be more efficiencies coming through multi-tenant, and the headwind is going to be as Cloud becomes a bigger piece of the mix.
+So, we expect them to offset and be in this range that you see right now.
+Gregg Moskowitz
+--
+Mizuho Securities -- Analyst
+Teriffic. Thank you.
+Shane Xie
+Thanks, Gregg. Our final question today will come from Derrick Wood with TD Cowen. Derrick?
+Derrick Wood
+--
+TD Cowen -- Analyst
+Great. Thanks. First, for you, Jay. I think you guys, in the past, have talked about Confluent Cloud 60% cheaper than self-managed open source, and we know there's over 100,000 companies using open-source Kafka.
+You'd think in this environment where there's more focus on spend efficiency, maybe you could see some kind of rising interest on the Cloud side. So, I guess as you move into 2024, are there any things you'd flag that you're doing to help drive more open-source conversion?
+Jay Kreps
+--
+Co-Founder and Chief Executive Officer
+Yeah. Yeah. It's a good observation. Yeah, there's two key things.
+So, I think the observation is right. There's like excellent TCO. The two things that we think are critical to get right to raise the volume of conversions, one is this consumption transformation. One of the things that happened in '23 was I do think a lot of organizations tamped down on kind of bottom-up purchasing.
+So, the interplay between product-led growth and the sales team suddenly becomes very, very important. And that's a key aspect of how we've kind of designed our plan for this year and how we've designed the consumption model for Confluent, is to make sure that we have the right setup to land customers in our product, convert them over and kind of take them all the way with a little bit of help from the field team. And I think that's actually incredibly important in the infrastructure space, if you want to be able to land volumes of customers. So, that's the first change.
+The second change on our side is reducing the kind of friction of adoption. So, that's technological. Just how easy is it to get from here to there? Like there may be some savings. But if I'm also reducing my team, do I have -- do people actually make the change or make the switch? Part of that is just doing everything we can to make our product to drop in replacement, making it as easy to switch, making that kind of starting cost as appealing as possible.
+All of that matters a lot to make the -- not just the payoff, but the payoff time really appealing.
+Derrick Wood
+--
+TD Cowen -- Analyst
+Great. And Rohan, the -- this was the biggest Cloud revenue upside quarter you've delivered in nearly two years. Can you just parse out the puts and takes? Did you see notable improvements in consumption in the quarter? Or were you overly conservative in your guide perhaps with respect to the two large customers you flagged last quarter in terms of headwinds? Can you just double-click on the outperformance in the quarter and what that's telling you around consumption trends heading into '24?
+Rohan Sivaram
+--
+Chief Financial Officer
+Yeah. I mean, of course, we were pleased with the results from Confluent Cloud. We grew 46% and the momentum with which we are exiting Q4 is also showing up in our Q1 guide, which is north of 40% as well, Derrick, right? So, when you look at puts and takes, the first piece I spoke about in the prepared remarks was just the green shoots around digital native segment. That's positive as we head into next year.
+And outside of that, when you look at our broader customer base, in general, we felt the consumption came in line with our expectations and nothing unusual. And obviously, that's probably the drivers of consumption. And as we enter next year, we were optimistic with respect to -- as you can see in our Q1 guide.
+Derrick Wood
+--
+TD Cowen -- Analyst
+Thanks. Well done.
+Shane Xie
+[Operator signoff]
+Duration: 0 minutes

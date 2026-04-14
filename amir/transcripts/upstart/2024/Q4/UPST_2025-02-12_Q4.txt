@@ -1,0 +1,462 @@
+Operator
+Good afternoon, and welcome to the Upstart fourth-quarter and full-year 2024 earnings call. At this time, all participants are in a listen-only mode to prevent any background noise. Later, we will conduct a question-and-answer session, and instructions will be given at that time. As a reminder, this conference call is being recorded.
+I would now like to turn the call over to Sonya Banerjee, head of investor relations. Please go ahead, Sonya.
+Sonya Banerjee
+--
+Head of Investor Relations
+Thank you. Welcome to the Upstart earnings call for the fourth quarter and full year 2024. With me on today's call are Dave Girouard, our CEO and co-founder; and Sanjay Datta, our CFO. During today's call, we will make forward-looking statements, which include statements about our outlook and business strategy.
+These statements are based on our expectations and beliefs as of today and are subject to a variety of risks, uncertainties, and assumptions. Actual results may differ materially as a result of various risk factors that have been described in our SEC filings. We assume no obligation to update any forward-looking statements as a result of new information or future events, except as required by law. Our discussion will include non-GAAP financial measures, which are not a substitute for our GAAP results.
+Reconciliation of our historical GAAP to non-GAAP results can be found in our earnings materials, which are available on our IR website. Before I turn the call over to Dave, I'll share the events that we're participating in this quarter. On February 13, we'll be participating in a retail investor Q&A on Twitter with Henry Invest. And on March 3, we'll be participating in the Citizens JMP Technology Conference.
+A replay of both events will be available on our IR website. With that, Dave, over to you.
+Dave Girouard
+--
+Chief Executive Officer
+Thanks, Sonya. Good afternoon, everyone. Thank you for joining us today. 2024 was a year of rapid quarter-by-quarter improvement for Upstart, and the fourth quarter clearly took the cake.
+Considering the weak environment we faced at the beginning of the year, we couldn't have asked for a stronger finish. In Q4, our business grew dramatically across all product categories on a sequential basis, delivered adjusted EBITDA at levels not seen since the first quarter of 2022, and came within a whisker of returning to GAAP profitability. We'll get to the financial details a bit later, but it's worth summarizing upfront. In Q4, overall, our origination volume grew 33% and our revenue grew 35%, both on a sequential basis.
+On a year-over-year basis, this equates to 68% growth in originations and 56% growth in revenue. Originations for each of our new product categories grew at an incredible pace with both auto and HELOC growing by about 60% sequentially and our small dollar relief product growing a stunning 115% quarter on quarter. None of this could have happened without insanely great work by Upstarters across the country. And I want to thank each of them for believing in Upstart and achieving more than we thought possible just a year ago.
+While we continue to deliver model and product wins to support that growth, we also finally benefited from a macro tailwind, most clearly represented by the decline of the Upstart Macro Index in the latter part of 2024. We never plan our business assuming any future improvements to the Macro, but they're certainly appreciated when they come. Now, I'd like to dive in and describe some of the product and model wins that we saw in the fourth quarter. In our core personal loan product, we continue to deliver model innovations that separate us further from the crowd.
+Model wins that increase risk separation are the lifeblood of Upstart. They're responsible for much of the improvements you have seen in our business lately and our pipeline of potential future model wins is robust. If you recall with Model 18, the most impactful innovation was using the price of the loan, or APR, as an input to the model. This is what's referred to as a feature of the model in ML speak, and it led to a giant leap forward in model accuracy.
+This model delivered much of the momentum we saw in the second half of 2024. In Q4, we launched Model 19, which introduced a new capability called Payment Transition Model, or PTM. To explain this a bit, in all prior models, the underwriting model only considered the terminal state and timing of a loan in the training data set. In other words, the particular month when a loan was charged off or prepaid.
+PTM enables consideration of intermediate delinquency states that may have preceded the final status of the loan. This means delinquencies that recover to current are suddenly meaningful in the training data and can inform a more accurate model. It also means that our model can properly learn from loans that are delinquent but not charged off directly in the core model. We're often surprised by the increase in accuracy these types of innovations deliver, but concepts like APR as a feature and PTM aren't one-time boosts.
+They're new model forms entirely. You can think of them as innovation vectors that offer our team many ways to refine and build on their advantages for a long time to come. In addition to these core model innovations focused on risk separation, we've also invested significantly in achieving consistent model calibration. I want to share some recent thoughts and analyses we've done in this area.
+As a reminder, calibration measures the gap between the predicted and actual overall level of default. And as we all know, Upstart has several quarterly vintages that underperformed during the time that the government was withdrawing COVID stimulus. It's important to state first that less than 1% of our lending partners' quarterly vintages actually lost principal during even the worst of this period. But of course, any underperformance whatsoever isn't a good thing.
+We recently completed a backtest using today's macro handling tools applied to this period associated with intense macro volatility. We found that had we had today's tools throughout this time of volatility, we would have avoided 55% of the excess loan defaults observed in that historical period and would have returned to full calibration 12 months sooner. This analysis gives us confidence that we're making meaningful strides to improve the resilience of our platform through periods of economic volatility and bodes well for our future. Moving on to our newer products.
+In Q4, we released new underwriting models for both our auto refinance and auto retail products, resulting in improved conversion rates and contributing to the roughly 60% sequential increase in origination volume that I mentioned earlier. Auto refi, in particular, has seen giant improvements in conversion rates, about a 7x improvement across all of 2024. Also, the modest reductions in base interest rates has begun to revive the auto refinance opportunity, and we hope to take full advantage of it in 2025. We're increasingly focused on auto refinance as an excellent cross-sell opportunity for our millions of prior borrowers.
+Our HELOC product had a strong Q4, growing by approximately 60% sequentially, much like our auto business. This growth was driven by a combination of conversion improvements, cross-selling, and expanding state eligibility. In Q4, we automated the counteroffer process, much as we did in personal loans years ago. This is an important conversion booster.
+In December, we launched a machine learning-powered feature that increased instant income verification rates by 34%. We also ramped up our ability to cross-sell HELOCs to prior borrowers. We finished the year with our HELOC offered in 36 states, representing 60% of the U.S. population.
+We're working hard and hoping to begin originations in our home state of California soon. We also finished 2024 with more than 1,000 HELOCs originated and zero defaults, a super strong start for our newest product. In Q4, we also signed our first HELOC agreement with a lending partner. This is an important milestone for us and a harbinger of great things to come.
+HELOC offers were already being made on behalf of this partner in January, which is a superfast turnaround on bringing the partner live. And more importantly, this partner offers improved the best HELOC rates available on Upstart by about 100 basis points, a huge win for borrowers and for Upstart. The demand for HELOCs from our lending partners is substantial because it's very prime, and it's a product with which they're both familiar and comfortable. Banks and credit unions also love homeowners as customers.
+So, it's quite likely our funding supply for HELOC will exceed our needs for some time to come. I expect 2025 will be a great year for home lending as a fast-growing and emerging part of Upstart. I'm increasingly confident that our HELOC product will have a distinct advantage, not only in terms of process automation, which is always an Upstart strength but also in terms of cost of funding, given our extensive relationships with and business orientation toward banks and credit unions. The team developing our small dollar relief loans continued their amazing run with more than 100% sequential growth in loan volume in Q4.
+This was driven predominantly by the large reduction in variable cost per loan origination that I referenced earlier in the year. This giant cost improvement allowed us to approve more borrowers for small-dollar loans within our target economics. The SDL product has exceptional credit performance, strong gross margins and accounted for more than 13% of new borrowers on Upstart in the fourth quarter. As of Model 19, we're beginning to use small-dollar repayment data to help train our core personal loan underwriting model.
+This has the important effect of expanding the sample set of borrowers on which the model is trained to represent even more Americans. In the near future, we'll be moving to a single underwriting model for both of our unsecured products, which we expect to lead to more efficiency and accuracy for both. Last year, I outlined plans to modernize and scale our servicing operations by leveraging data, automation, and personalization to improve borrower outcomes and operational efficiency. In 2024, it became clear that these efforts were paying off.
+In Q4, we increased the rate at which a delinquent borrower makes a payment within 14 days of contact by 25% sequentially by personalizing our outreach timing and methods. This demonstrates how personalization helps borrowers stay on track and improves overall portfolio health. Ongoing investments in automation helped us reduce the people-related cost per current loan by 50% over the course of 2024. At the same time, we've intentionally prioritized direct collections efforts for borrowers at risk of default where they're most impactful.
+This balanced approach, automating routine servicing while intensifying delinquency management has helped us reduce roll rates from one-day delinquent to charge-off by 15% year over year. AutoPay enrollment continues to rise as well with more than 93% of new loans now enrolled at origination, the highest level in two years. Overall, portfoliowide AutoPay exceeded 80% for the first time, up more than 300 basis points year over year. These improvements reflect our commitment to exceptional customer experiences while driving efficiency and better credit outcomes for both borrowers and lenders.
+Servicing may not be the flashiest part of lending, but at Upstart, we're turning it into a competitive differentiator that creates value for all stakeholders. 2024 was an exceptional year for the funding supply in our business and sets us up well for 2025. We saw increased commitments from our partners in private credit as well as a growing roster of lending partners active on our platform. In Q4, we upsized commitments with long-standing capital partners, increasing these commitments by a total of $1.3 billion.
+We also closed a $150 million personal loan warehouse facility. These wins underscore the confidence our capital partners have in our platform. 2024 also marked the return of lenders to our platform with our bank and credit union partners continuing to expand their loan volumes given improved liquidity and confidence in the Upstart platform. Q4 originations with our lending partners grew 30% quarter over quarter and 76% year over year.
+We also strengthened our balance sheet considerably in the second half of the year by refinancing convertible debt due in 2026 as well as raising almost $500 million to improve our cash position and liquidity for our anticipated growth in 2025 and beyond. As we begin the new year, I want to share my priorities for Upstart in 2025. Number 1, 10x our leadership in AI. I want to dramatically increase our pace of model innovation this year.
+This means strengthening the team, improving the infrastructure, streamlining the processes, and accelerating the growth in our proprietary training data. This goal is, number one, for a reason. Number two, prepare our funding supply for rapid growth. We can strengthen our funding partnerships with both investors and lenders by delivering high-quality, reliable loans across all of our asset classes.
+In 2025, I want to take steps toward building the largest yield factory in the world. Number three, return to GAAP net income profitability in the second half of the year. We aim once again to be the unique company that combines high growth and profits. We're on the verge of doing just that.
+And number four, giant leaps toward best rates, best process for all. We started rapidly down this path in the second half of 2024, and we want to make even bigger strides in 2025. Success in this endeavor will make Upstart invaluable for those who partner with us, and it will present a real challenge for those who choose otherwise. A few thoughts as I wrap up.
+One of our very early Upstarters who went on to join Google's DeepMind and then eventually started his own AI venture fund said something recently that stuck with me. Upstart is building the foundation model for credit. Nobody else is even trying. This is a simple yet elegant description of Upstart.
+In fact, I wish I had said it. But if you're a believer in the transformational power of AI, it's undeniable that the trillions of dollars of credit origination each year represent a clear and obvious opportunity for AI to improve the lives of people everywhere. While many rightfully worry about whether AI will ultimately be good or bad for humanity, AI-enabled lending is undeniably a winner for the American family. A few weeks ago, we Upstarters gathered in San Diego to kick off 2025 with our second annual Upstart Live conference.
+The theme of the event was game changers, and we spent a lot of time talking about what it will take to create a generational company, a destination for credit unlike any other in the world. 2025 is mostly about taking giant leaps toward the best rate and best process for all across each of our products. This is an incredibly challenging goal, but it's realistically within our grasp. We believe success in offering the best rate and best process to all will create a brand and a company for the ages.
+On May 14, we'll host an event we're calling Upstart AI Day for investors and analysts in New York City, where we'll provide an in-depth look at our technology, our business model, and the incredible opportunity the combination of the two unlocks. This event is a great opportunity to connect with more of our management team and gain deeper insight into what we're building and how it sets us apart. Thank you. And now I'd like to turn it over to Sanjay, our chief financial officer, to walk through our 2024 financial results and guidance.
+Sanjay?
+Sanjay Datta
+--
+Chief Financial Officer
+Thanks, Dave, and thanks to all of our participants for sharing some of your time with us today. We are encouraged to be emerging from 2024 with good momentum, having navigated what was an otherwise challenging environment for much of the past year. At the beginning of last year, we set out some ambitious financial objectives, turn around the growth trajectory of the business, continue to scale up our committed capital base, reduce the size and improve the performance of our own balance sheet, and return to adjusted EBITDA profitability. Our wish list consisted only of a stable macro environment.
+As we look back on the year, we are pleased with our report card. Versus our nadir in Q1 of 2024, by the fourth quarter, originations were up 86%, revenue from fees were up 44%. The amount of loans on our balance sheet fell by about 25%. Quarterly net interest income flipped from negative $10 million to positive $20 million.
+Fixed costs were largely controlled, and we closed the year with two successive quarters of positive adjusted EBITDA. The Macro did indeed remain largely steady over the back half of the year from a credit default perspective, even showing recent signs of improvement since attaining peak defaultiness sometime last spring as reflected in our published macro index, the UMI. This welcome break from the consistently degrading environment over the prior two years allowed some of our more recent model improvements to see the light of day, giving us good momentum on conversion wins over the last two quarters of the year. Our conversion rate in Q4 was at its highest level in nearly three years.
+Additionally, as of year-end, all of the recent credit priced on our platform on behalf of lenders and investors was on track to meet return targets, giving our funding partners increasing confidence to continue leaning into our marketplace with their supply of lending capital. With this as context, here are some financial highlights from the fourth quarter of 2024, which exceeded our guidance across virtually all metrics. Revenue from fees was $199 million, up 30% year over year and 19% sequentially, partially from the aforementioned model enhancements and partially from a combination of lower UMI and last fall's rate cuts working their way into our platform pricing. Net interest income was almost $20 million as we've now mostly worked off underperforming older vintages and as the falling UMI is increasingly reflected in improving fair value marks. Taken together, net revenue for Q4 came in at approximately $219 million, up 56% year on year and 35% quarter on quarter.
+The volume of loan transactions across our platform was approximately 246,000, up 89% from the prior year and 31% sequentially and representing 162,000 new borrowers. Average loan size of approximately $8,580 was up from $8,400 in the prior quarter, reflecting continued model improvements that allowed us to approve higher loan amounts. Our contribution margin, a non-GAAP metric, which we define as revenue from fees minus variable costs for borrower acquisition, verification, and servicing as a percentage of revenue from fees came in at 61% in Q4, flat versus the prior quarter. Despite a marginally lower take rate than Q3, margins were supported by the strength of our conversion funnel, which reinforced our customer acquisition efficiency as well as an improving cost to service borrowers.
+GAAP operating expenses were roughly $224 million in Q4, up 8% sequentially from Q3. Expenses that are considered variable relating to borrower acquisition, verification, and servicing were up 19% sequentially, in line with the growth of the corresponding fee revenue base. Fixed expenses were marginally up by 3% versus Q3 due to continued catch-up accruals for expenses that were not being incurred earlier in the year at our lower volumes, some of which will be temporary in nature. You can expect that we will continue to pursue tight fixed expense management as a core principle of how we manage our business.
+Altogether, Q4 GAAP net loss was $2.8 million, well ahead of expectation and reflecting the outperformance on the top line against our steady margins and fixed cost base. Adjusted EBITDA was $39 million, also scaling nicely in accordance with our operating leverage and positive for the second consecutive quarter. Adjusted earnings per share was $0.26 based on a diluted weighted average share count of 116 million. We completed the full year with net revenue of approximately $637 million, up 24% from 2023, a contribution margin of 60%, and a positive adjusted EBITDA of $10.6 million, representing a 2% adjusted EBITDA margin versus a negative margin of 3% a year earlier.
+We ended the year with $806 million of loans on balance sheet, consisting of $703 million of loans held directly and $103 million from the consolidation of a securitization deal in which we retain minimal economic exposure. The $703 million of loans held directly is down 28% from the prior year but rose sequentially from $537 million in Q3 as the surge of borrower volume outstripped our expectations for the quarter. We view this to be a short-term timing issue. Rising borrower volumes are the signal for us to put in place the next set of capital arrangements, which we are now well down the path toward.
+Our objective remains to continue reducing the amount of loans held directly on our balance sheet as the year progresses. The $103 million of consolidated loans are from a securitization deal completed back in 2023 from which we retained a total net exposure of only $16 million. Our unrestricted cash position also strengthened as we ended the year at $788 million, up from $445 million in the prior quarter and reflecting the proceeds from two convertible debt issuances that we did in the back half of last year. As we gear up for the year ahead, we will strive for the following objectives and plan against the following baseline assumptions: a relatively stable macro environment and a constant Upstart Macro Index, no assumption of any rate cuts, a historical pace of modeling wins and conversion gains that will drive the majority of our growth, relatively stable contribution margins, although our efforts to grow in the primary borrower segments, if successful, may put some downward pressure on average margins and take rates, continued availability of third-party funding as we scale platform volume, continued fixed cost containment and continued pruning of the loans held directly on balance sheet.
+Additionally, as we complete a shift from multiyear over to one-year equity grants, we expect to see a negative impact on stock-based compensation expense. While one-year grants will generally result in lower economic dilution by aligning calculated amounts with the current stock price, they will incur a higher accounting charge than older grants, which are typically expensed at the lower historical prices. With these items as context and with a reminder that the first quarter is typically our seasonally slowest quarter, for Q1 of 2025, we are expecting total revenues of approximately $200 million, consisting of revenue from fees of $185 million and net interest income of approximately positive $15 million, contribution margin of approximately 57%, net income of approximately negative $20 million, adjusted net income of approximately positive $16 million, adjusted EBITDA of approximately $27 million with a basic weighted average share count of approximately 95 million shares and a diluted weighted average share count of approximately 105 million shares. For the full year of 2025, we are expecting total revenues of approximately $1 billion, consisting of revenue from fees of $920 million and net interest income of approximately positive $80 million, adjusted EBITDA margin of approximately 18%, and we expect GAAP net income to be at least breakeven for the year.
+Thanks to all once again for joining us on this call. To the Upstart employees, profound thanks to you for all your efforts and contributions as we've navigated this past year together. Excited about 2025, I am. Operator, over to you.
+Questions & Answers:
+Operator
+Thank you. [Operator instructions] And we'll pause for a moment to allow everyone an opportunity to signal. And we'll take our first question from the line of Kyle Peterson with Needham. Please go ahead.
+Kyle Peterson
+--
+Analyst
+Great. Good afternoon, guys. Nice quarter and thanks for taking the questions. I wanted to start off on funding.
+You guys mentioned it seems like there's a good pipeline that you guys are working down. How are you guys kind of thinking about the mix of funding moving forward between whether it's committed capital, some of the at-will buyers, or depositories? How should we think about the deployment of additional funding in 2025?
+Sanjay Datta
+--
+Chief Financial Officer
+Hey, Kyle, thanks for joining. This is Sanjay. I would say that our medium-term objectives here remain the same. We've talked in the past of having somewhere north of 50% of our capital committed and the balance, some allocation between bank and credit union balance sheet capital and maybe at will ABS and hedge fund type capital.
+I think that's still a good medium-term target for us. Obviously, in the short term, we're seeing some expansion of borrower volumes, and we will look to grow capital in the most expeditious way possible. And oftentimes, that involves striking some large deals with counterparties. So, that's probably what we have lined up in the near future, but I think our medium-term objectives remain the same.
+Kyle Peterson
+--
+Analyst
+OK. Thank you. And then maybe just a follow-up on the balance sheet. Appreciate the commentary that you guys plan on kind of reducing what will be held on the balance sheet as the year goes on.
+But how should we think about the pace of that? And is there any update, whether it's end of January or anything you could provide as to kind of where the loans on balance sheet sit now and where that should sit over the next quarter or two?
+Sanjay Datta
+--
+Chief Financial Officer
+Yeah, Kyle, we've talked in the past similarly about there being a bit of a timing challenge between spurts of growth on the borrower side and the ability to put in place capital agreements to match it. And that's sort of what we're facing right now. We've had obviously good extension on the borrower side in Q4. So, I would say that's quarter to quarter, and we'll look to create the capital sources to take those loans from us, and we're in conversations about that right now.
+But it's more of a quarter-to-quarter activity than a month-to-month one.
+Kyle Peterson
+--
+Analyst
+OK, fair enough. Thank you, and nice results.
+Sanjay Datta
+--
+Chief Financial Officer
+Thanks, Kyle.
+Operator
+We'll take our next question from the line of Simon Clinch with Redburn Atlantic. Please go ahead. Your line is open.
+Simon Clinch
+--
+Analyst
+Hi, everyone. Thanks for taking my question. I was wondering if we could just start with your comments, Sanjay, on the borrower demand. Could you just help break down sort of what really drove the upside that you saw this quarter? Was it all to do with the model? Or was there just -- were borrowers being brought down beneath that sort of 36% rate cap? Just kind of curious as how that sort of breaks down.
+Sanjay Datta
+--
+Chief Financial Officer
+Hey, Simon, yeah, in terms of the sort of increase in approvability and conversion, some amount of it was the improvements to model accuracy that Dave alluded to some of them. I don't know, as a rough maybe rule of thumb, you could maybe think of it as half coming from that. And some amount also coming from some combination of if UMI has subsided a little bit. And I guess corresponding default rates have moderated a little bit.
+That's been reflected in platform pricing. And the rate cuts we saw last fall, we've always talked about them having some delay in how they work into our platform pricing, but some of that is being reflected now as well. So, some combination of better technology, a little moderation in default rates, and some rate cuts from last fall, all conspiring to lower APRs on the platform.
+Simon Clinch
+--
+Analyst
+Great. Thanks. And just a quick follow-up, actually. Thanks for all the color around the framework with which you're thinking about the Macro and your guidance for the year.
+I'm kind of curious as to how much flex or, I guess, your approach to managing that outlook, given the -- there's still plenty of uncertainty. Certainly, there's people in my shop that think that rates might even be going up at the end of the year. How are you planning for those kinds of various eventualities within your business?
+Sanjay Datta
+--
+Chief Financial Officer
+Well, we take, I guess, what we think of as a conservative position. We don't assume that rates are going to go down or up, for that matter. We don't assume that UMI is going to go up or down. So, we think that's the most kind of prudent approach to take.
+We do build conservatism into our model such that they're targeting just a modest amount of overperformance if things stay as they are. But we think that's the best that we can do. Having the right tools to have the models adjust themselves very, very quickly to any changes is actually very powerful. I talked about that a bit in my remarks.
+And I think that's our view on it, which is we can't accommodate any potential future that might be out there and assume our volumes would never drop, etc. But generally speaking, we're moving toward a place where our models are more resilient. We can respond even quicker and more accurately or precisely as is necessary based on what's going on out there. And I think this is a big win for our lending partners and investors because it just means better results for them.
+Dave Girouard
+--
+Chief Executive Officer
+And Simon, just a reminder that the impact of rate movements themselves are relatively modest, certainly compared to changes in our default index.
+Simon Clinch
+--
+Analyst
+Thanks, guys.
+Dave Girouard
+--
+Chief Executive Officer
+Cheers. Thanks, Simon.
+Operator
+Our next question comes from the line of Peter Christiansen with Citi. Please go ahead. Your line is open.
+Peter Christiansen
+--
+Analyst
+Thank you. Good evening. Thanks for the question. Nice turnaround, guys.
+Sanjay, Dave, just curious, as you're thinking about forming new sources of capital throughout the year, what's your view on risk retention, a lot of emphasis there in the area? And at least what you're seeing from market participants and the health of the market on the funding side, do you think there's more appetite for outside partners to think about taking on more risk here? Thanks.
+Sanjay Datta
+--
+Chief Financial Officer
+Hey, Pete. Just to clarify, you're asking about risk retention in our committed capital arrangements or just more generally in the securitization markets?
+Peter Christiansen
+--
+Analyst
+Yeah, that and both, actually. Yeah.
+Sanjay Datta
+--
+Chief Financial Officer
+OK. I guess with respect to the capital arrangements we're making, our view remains unchanged. We have a certain target percentage of our platforms that we want underpinned by committed capital. And in those arrangements, we have said that we will put some single-digit percentage of the total capital at risk from our own balance sheet.
+And I think those rough ratios continue to remain true. I think more broadly in the market, there is definitely an increasing appetite for risk, both in the securitization markets and just more broadly with loan asset purchasing. And so, I think we're starting to see some parts of that market heat up a little bit, not yet quite back to the fever pitch it was maybe a few years ago, but there's definitely a lot of conversations and traffic and engagement happening even at the, I would say, the risk part of the debt stack. So, that's encouraging.
+Peter Christiansen
+--
+Analyst
+That's helpful. And just as a follow-up, it looks like borrower acquisition cost, I guess, as a percentage of principal went up a little -- uptick a little bit. Just curious how you're thinking about that using external network partners. Or do you think the Upstart brand has gotten to a point where it can really attract borrowers onto itself? Thanks.
+Dave Girouard
+--
+Chief Executive Officer
+Hey, Pete, this is Dave. We've had, over a long period of time, a pretty amazing either consistency or even dropping in acquisition cost per loan. So, we feel very good about that. The economics -- the unit economics of our loans are exceptional.
+So, there'll be little variances from quarter to quarter. But if you looked over the long trajectory through enormous growth, we've actually reduced the cost of acquisition per loan. So, we have no concerns on that front whatsoever. Generally speaking, we have opportunities to dial up marketing and dial down contribution per loan when that makes sense.
+And, but it's an area where I feel like the team has performed exceedingly well for many, many years.
+Peter Christiansen
+--
+Analyst
+Thank you, Dave. That's helpful.
+Dave Girouard
+--
+Chief Executive Officer
+Thank you.
+Operator
+We'll take our next question from the line of Ramsey El-Assal with Barclays. Please go ahead. Your line is now open.
+Ramsey El-Assal
+--
+Barclays -- Analyst
+Hi. Thanks for taking my question. Terrific quarter. The fully automated loans kind of keep moving up.
+I think now they sit at about 91%. Those seem to have a lot of knock-on benefits for the model. I'm just curious about your updated thoughts about, is there a ceiling there. How close we are -- are we to the max level? Or is there still a lot of room to run in terms of automation?
+Sanjay Datta
+--
+Chief Financial Officer
+I guess you could say the ceiling is 100%, but there'll always be some sort of fraudulent activity, etc., or just imperfections that mean we'll never get to 100%. I would say a couple of years ago, we never would have expected to get to 90%. So, I do think that we're happy with where it is. There's a team working constantly to improve on the models that unlock instant approvals.
+So, I think it can go higher. We're also -- I mean, a lot of what we're doing is applying some of the same techniques to the other products, not just the personal loan product. So, there's a lot more wins to be had in automation and instant decisioning. So, yes, I don't know how high it can go.
+I think in the personal loan product, it can still go higher, though how much is to be determined. It really -- is ultimately a fraction of how much we can attract true applicants, true borrowers to the platform versus the bad guys out there that we have to keep away, and that dynamic will always be there.
+Ramsey El-Assal
+--
+Barclays -- Analyst
+OK. And a follow-up for me. As we look out over the next few years, can you help us think through kind of like a hypothetical pie chart of your loan mix in terms of personal loans, small-dollar loans, auto, HELOC in terms of originations? How should we think about the model kind of evolving now that you're getting a little traction with these other verticals, these other loan types?
+Dave Girouard
+--
+Chief Executive Officer
+Yeah. We certainly don't have a perfect lens onto that other than to say our core business, as you can see today, is growing very rapidly. It's a category itself that is growing very rapidly because its -- personal loans are -- have high, high utility for consumers. So, it's a little bit of tricky.
+We also believe our market share is growing very quickly in personal loans and so when you have those two dynamics growing market share within the category and the category itself growing quickly, it's hard to put any kind of cap on what personal loans can do. But on the other side, of course, home lending, auto lending are both much larger categories, generally speaking. So, there's a huge amount of headroom there. So, it's a bit of a bet, and we don't know for sure.
+We're really happy to see the newer products growing very rapidly, and we're excited to see what they'll do in 2025. But it's frankly a little bit hard to judge between them.
+Ramsey El-Assal
+--
+Barclays -- Analyst
+Got it. All right. Thank you.
+Operator
+And we'll take our next question from the line of Dan Dolev with Mizuho. Please go ahead. Your line is now open.
+Dan Dolev
+--
+Analyst
+Hey, Sanjay, Dave, outstanding quarter as always. Thank you very much. This is great. I have two quick questions.
+First one is on the margin. It looks like you're guiding 18%, which is huge for the year. Can you maybe walk us through some of the operating levers that you have in the model? And how should we think about the model over the medium and long term because it looks pretty good? And then I have a quick follow-up.
+Sanjay Datta
+--
+Chief Financial Officer
+Hey, Dan. We've talked in the past about the fact that we believe we have good operating leverage in our business model. And by that, specifically, what I mean is as the volumes increase and our fee revenue increases, we foresee relatively steady take rates and relatively steady contribution margins, meaning a lot of that will drop from the top line very efficiently to the bottom of the P&L. And against that, we are anticipating relatively stable costs.
+Now that we're expanding on the top line, again, we will make some investments in 2025, but they'll be modest. And so, I just think, in general, as our business grows in 2025 and beyond, we have an ability to transmit a lot of that to the bottom line. And Dave talked more generally about our ambition to be a company that's both fast-growing and highly profitable. And I think this sort of underpins our belief in our ability to do that.
+Dan Dolev
+--
+Analyst
+Got it. And then I have a follow-up. It seems like we are in some sort of a supercycle. I mean, I know -- I guess, that according to the Bible, the prophecy is for the fools.
+So, I don't want you to make a prophecy, but I mean, how much legs is there to this cycle? I mean, it seems like things are getting better -- incrementally better over time. If you had to make a bet on where we are in the cycle, that would be great. Thank you.
+Dave Girouard
+--
+Chief Executive Officer
+I don't know if I'd call it a cycle in that sense. Pricing of loans in our platform are still relatively high. Long-term UMI is -- notionally should be one, and it's much higher. So, I don't think -- and also rates are probably at least a little bit higher than you might expect them to be on a long-term normal.
+So, that tells me, at least in terms of those inputs to our platform, which are really important and very fundamental to the price of loans, that those are still elevated. And I hope there's some over the next year or maybe it will take two years that we'll see both of those things trend back toward long-term normals. And that would be obviously great for our business. We've been able to do what we've been able to do still with these very high prices.
+But like we said, we don't sit around waiting for interest rates to go down or UMI to go down. Most of what we do here are just fundamental improvements to risk separation and automation and those deliver growth. So, I think we'll just take the macro wins when we can get them. And otherwise, we will keep cranking away on more accurate models.
+Dan Dolev
+--
+Analyst
+That sounds really positive. Well, great results. Thanks again.
+Dave Girouard
+--
+Chief Executive Officer
+Thanks, Dan.
+Operator
+We'll take our next question from the line of David Scharf with Citizens JMP. Please go ahead. Your line is open.
+David Scharf
+--
+Analyst
+Great. Good afternoon. Thanks for taking my questions. Maybe one specific and one a little more open-ended.
+On the specific side, Sanjay, obviously, there's -- we know how much operating leverage there is in a fee-based model like this. There also seems to be a tremendous amount of leverage in just the reversal in net interest income in the guide. Can you tell us -- are you factoring in material fair value write-ups? Is any of that included in the NII guide for '25? Or is part of it just holding fewer loans on the balance sheet and having less mark-to-market growth?
+Sanjay Datta
+--
+Chief Financial Officer
+Yeah. Hey, David, great to hear from you. Let's see. Our NII guide for 2025, I would say, is the majority of that is just a performing set of assets on the balance sheet.
+There may be some incrementally more fair value marks or maybe put another way, the UMI has improved. That signals an improvement in the expected performance of the assets. And I don't think we've taken all of that really yet and so some more of that should trickle into 2025 if the macro holds. But I think more than anything, we're signaling that.
+Look, we, on our balance sheet, had some underperforming vintages, both in the auto R&D that we originated a couple of years ago as well as in our core. And I think as of Q4, we've largely moved past it. And now we're looking at a balance sheet that should be expected to perform and produce returns as any investor would expect as well. So, that's the majority of the story.
+David Scharf
+--
+Analyst
+Yeah. No, understood. That sounds pretty much consistent with most consumer lenders with the peak losses in the rearview mirror. A little more open-ended, and you may have partially answered this in the last question.
+Both the press release and I think Dave's opening comments kind of referenced sort of Q1 2022 as a reference point. That was sort of a high watermark. I think it was about $4.5 billion of funded principal. I mean, 2.5x what you had this quarter, and that was just with personal loans.
+I think the conversion rate at the peak got above 24%. And as we just try to think about how much contribution margin and EBITDA the business can scale to once again. I'm looking at that period, that peak late '21, early '22. Other than the interest rate environment, is there anything else different that you could call out that could potentially signal to us we're going to get back to that sweet spot of an environment, whether it's just on the funding side, competition? I don't know if the same players you're competing against on Credit Karma searches and whatnot.
+But what is it about the current environment that could potentially improve to get back to that level of conversion rate in quarterly funded principal amount?
+Sanjay Datta
+--
+Chief Financial Officer
+Yeah, Dave. I guess the path back to that scale of business, I mean, the obvious answer is a drop in the risk of the environment. I guess you could sort of proxy that with the drop in the UMI. But I also think that the path back will look different than our original path there because, compared to that time, our models are dramatically stronger.
+A lot of that is not obvious because of the high rates and the high level of risk in the environment. And so, as Dave said, the prices are still quite elevated. But the models themselves, in terms of their ability to decision-risk between relatively similar-looking borrowers, is dramatically better. And so, I think we will not require as constructive as an environment as existed in 2022 in order to get back to that rough level of scale.
+And maybe a related point is that, as and when we do, our business model itself is much stronger. I think we've been clear that I do not believe our contribution margins will fall back to the level that they were back then. I think we're much more optimized in how we price and how we measure elasticity and how we manage our take rates. And so, I think, again, for a similar size of top-line business, you should expect us now to have better margins and frankly, a more streamlined fixed cost base or level of efficiency in terms of onboarding and servicing borrowers and even the fixed cost base beyond it.
+So, the only real difference beyond that is that the fact that we have undertaken a few bets that are more early stage, and we expect those to contribute over time as well, and there will be some period of time in which we have to incubate that. But beyond that, I think across the board, whether you're looking at our business model or the strength of our actual underlying technology, it's pretty much better across the board.
+David Scharf
+--
+Analyst
+Got it. Congrats on the turnaround.
+Sanjay Datta
+--
+Chief Financial Officer
+Thank you.
+Operator
+We'll take our next question from the line of Vincent Caintic with BTIG. Please go ahead. Your line is now open.
+Vincent Caintic
+--
+Analyst
+Hi. Good afternoon. Thanks for taking my questions. Both are follow-ups.
+So, first question, so on the profitability guidance and so guiding for at least positive net income in 2025, trying to get a sense for how positive that earnings could be while you're going to be GAAP profitable. Is it something where we should be expecting EPS to kind of continue to move alongside transaction volume growth? Or are there investments that you want to make, so perhaps we should be seeing slower EPS growth in the near term kind of relative to your transaction volume growth in the near term? Thank you.
+Sanjay Datta
+--
+Chief Financial Officer
+Yeah. Hey, Vincent, I guess we would just reiterate that in 2025, we'll be in the ballpark of breakeven or at least breakeven. So, I think we expect to be roughly in that ballpark, not dramatically ahead of it. In general, yes, I think that you could think of our profitability as improving with scale.
+There is a couple of mechanical things happening to the P&L. I called out one of them quickly in my script that has to do really with the accounting of stock-based expense. And the fact that we are moving from what we've previously done, which is grants approved multiyear grants essentially to more of a one-year grant style program, and that just has the impact of essentially pricing or costing the grants at a more current stock price and it increases the accounting charge of the grant. So, that's something that I think you could think of as a one-time impact.
+And then as we grow from the Q1 guidance we've given, which I believe is about minus $20 million, as the platform scales through the course of the year, you should see us then grow the profitability to the point where the full-year will be breakeven to positive.
+Vincent Caintic
+--
+Analyst
+OK. Great. That makes sense. Thank you.
+And then second, just another follow-up on the prior discussions about your funding capacity. So, if I just kind of do the rough math in the fourth quarter of 2024, your $2.1 billion transaction volume and the $150 million of fee income, if that kind of holds then the guidance for 2025 of the $920 million of fee income, that's close to about $13 billion of transaction volume in 2025. So, great volumes for 2025. I'm sort of wondering how much is kind of funding availability or capacity of binding constraint on your ability or on your transaction volume growth, if maybe we could see potentially more growth in that transaction volume if the current environment of good funding availability holds? Thank you.
+Sanjay Datta
+--
+Chief Financial Officer
+Yeah, Vincent, a couple of thoughts. First of all, I think your math on origination volumes for 2025 is directionally correct, but maybe a little aggressive compared to what we're expecting. So, it's not -- I don't think we're expecting quite as much as $13 billion. But even at a relatively close number to that, we did make the explicit assumption, and we called out the explicit assumption that most of the forecasting modeling we do is really about the borrower side of the platform, and we make the assumption that the funding will be available.
+And every signal we have as of right now, in terms of the conversations we're in and the pipeline we have, suggests that we'll be able to scale the capital side in accordance with what we were able to achieve in terms of borrower volumes and approvability. That said, it's not a gating variable in any real way to our guidance. What will determine the growth of the platform really, I think, comes down to how successful we are on the product and the technology and the marketing side of our business in finding more quality borrowers to approve. There is a world in which funding does not materialize and that will constrain our growth.
+But I don't think infinite funding would allow us to raise that number in any way.
+Vincent Caintic
+--
+Analyst
+OK. Great. That's both very helpful. Thanks very much.
+Sanjay Datta
+--
+Chief Financial Officer
+Thank you.
+Operator
+We'll take our next question from the line of John Hecht with Jefferies. Please go ahead. Your line is open.
+John Hecht
+--
+Analyst
+Good afternoon, guys. Thanks very much for taking my questions. Your first one is sort of just on the source of the volumes. Obviously, we've seen a pretty good recovery here.
+I'm wondering how -- can you give us some characteristics of how much is coming from your primary channels like Credit Karma, how much is recurring business? And then maybe where the sources of -- for auto -- I know auto is through dealership network, but maybe HELOC and auto just more high level about the sources of that and how that mix might migrate over the course of this year?
+Sanjay Datta
+--
+Chief Financial Officer
+Sure. Hey, John. Because a lot of our growth was conversion-driven in the core business, it sort of hit all acquisition channels in a similar way. They just all got more productive and more efficient.
+So, I don't think the channel skew changed much at all versus what it has been previously. And the new products, while exciting, are still not at the scale where they're moving the dial on the overall numbers compared to the core business. So, I think you could just think of it as largely driven by the core business at the aggregate level with a channel mix that's relatively sort of similar to what we've been doing in prior quarters.
+John Hecht
+--
+Analyst
+OK. And then second question, Dave, you mentioned the small loan -- small dollar loans. It sounds like that's growing nicely. Maybe how does -- what's the mix of that now? What are the kind of size and terms? And then is the overall intention of that to have a customer kind of development program where you might take someone in that program and then migrate them to different products over time?
+Dave Girouard
+--
+Chief Executive Officer
+Hey, John, this is Dave. Yeah, for sure. Smaller loans with a shorter duration, generally, you're going to be able to approve more people at the margins. And so, it's just generally a way to more rapidly understand and underwrite more of the U.S.
+population. And so, it's definitely been an accelerator in terms of just -- you can just think of the boundaries of the models of people that we can understand moving out more rapidly. And that's the heart of that product. It is generating good economics.
+So, it's not sort of a loss leader for us in any sense of the word, but it is an accelerator in terms of the models understanding. And those people can definitely move on to other products, larger personal loans or refinance a car loan, etc. And so, it's definitely an acquisition strategy. We mentioned that in the fourth quarter, 13% of new borrowers on Upstart were from that product itself.
+So, that means it's meaningful to us in the sense of how quickly we're bringing new people onto the platform. And we're getting better and better at cross-selling to other products, being able to help them on other types of borrowing. So, it's all very good and the rate with which that product is growing, I think, is a huge indicator for our future that we're going to be able to just underwrite and have these models understand more and more of the population.
+Sanjay Datta
+--
+Chief Financial Officer
+John, just in terms of the parameters of those loans, you're looking at terms from six to 18 months compared to our core product, which is three to five years. And the average size of these loans is somewhere just north of $1,000, which compares to about $10,000 in our core product. So, it's sort of that scale.
+John Hecht
+--
+Analyst
+Great. That's very helpful. Thanks, guys.
+Sanjay Datta
+--
+Chief Financial Officer
+Thanks, John.
+Operator
+We'll take our next question from the line of Reggie Smith with JPMorgan. Please go ahead. Your line is open.
+Reggie Smith
+--
+Analyst
+Thanks for the question. Congrats, guys. Great quarter. I wanted to, I guess, follow up on the last question.
+I'm not sure if you broke this out. But can you talk about -- I guess, as you think about your transaction volume, how much of it is from the smaller dollar loans today? And it sounds like there may be a difference in conversion rate between those and the large ones. Maybe frame that for us as well.
+Dave Girouard
+--
+Chief Executive Officer
+Yeah. Hey, Reggie, the small-dollar loans are, I would say, just north of 15% of total loan count. But because they're small, they are more like maybe something like 3% of total dollar originations. So, it's on that scale.
+With respect to conversion, I mean, it's a little bit -- there's some overlap there. I mean, the conversion rates are definitely lower than the core PL, but you have to remember that a lot of this volume comes as turndowns from our core product. So, if we can approve somebody for a $10,000 loan over five years, we can sort of look at them for a much smaller loan. So, you're already looking at an applicant that has, in some sense, been declined.
+So, it's a bit hard to do it apples-to-apples. Maybe think of it as a second look at a conversion, but that conversion number in and of itself is lower than the number we have for our core product.
+Reggie Smith
+--
+Analyst
+Got it. And you kind of talked about this, but I was just curious, what are the main drivers of your improved conversion? Like I would imagine that it's the APR loan, but I don't want to oversimplify that. And then the second part of the question is when you have these improvements in your underwriting model, how does that trickle down to your loan buyers? Like is there a process where they get comfortable and confident in that? Because presumably, you'd be approving more people maybe at a lower rate, and I'm curious whether that lower rate would then translate to a lower transaction fee from your partner. Like how do they get comfortable in the accuracy of your model, if that makes sense?
+Dave Girouard
+--
+Chief Executive Officer
+I'll speak to the first part. This is Dave, and then let Sanjay speak to investors and how they get comfortable with our model. The very fundamentals of our technology for those that follow us are that the models get more and more accurate. That has the effect of avoiding more people that are likely to default or at least pricing them more accurately.
+And when that happens, the other people generally, you can improve more and reduce rates for them. So, the very basic dynamic that is so important to who we are and how we do what we do is that more accurate models lead to growth. The other side is because rates aren't everything is automation. When the level of automation goes up, meaning there's less friction involved in getting a loan from us, invariably, the conversion rate goes up.
+So, those two dynamics explain almost the entire history of our company, frankly, more accurate rates or credit decisioning and then less friction. And you put those two together, and that is the story of Upstart in 100 words or less.
+Sanjay Datta
+--
+Chief Financial Officer
+Yeah. And just to speak to the investor side, Reggie, I mean, loan buyers who work with us are loan buyers who've gotten comfortable with the fact that our model evolves over time. And it's on that basis that they do their diligence on us. And of course, certainly in the instances where that capital is under a committed capital arrangement, we're also putting our money where our mouth is, of course.
+And so, it's sort of embedded in the nature of any -- of a relationship that we have with any loan buyer. They know we're not a static underwriter, and they've chosen to be a counterparty to us on the basis of how our models evolve and they understand that well. So, I don't think it's generally not a surprise to folks who work with us.
+Reggie Smith
+--
+Analyst
+I guess what a better way to articulate it would be, as your models improve, if their discount rate or what they're willing to pay for a loan doesn't change, then presumably the alpha in your model is captured by them, am I thinking about that correctly? So, like they don't change what they're willing to buy your loan for. But if the model improves, they ultimately benefit from it on the back end because it outperforms even what they would have thought. Is that the right way to think about it?
+Dave Girouard
+--
+Chief Executive Officer
+Not exactly. So, Reggie, you're right in that the state of our model has no bearing on what return they require. But if their return requirement is constant and we perceive for a set of borrowers a lower amount of risk, we will actually lower the APR. So, it's the borrower, in fact, who gets -- who makes the gain from a model improvement, not the investor.
+The investors, they just care that we're calibrated to their rate of return. And frankly, they don't really worry too much how we drive that return as long as we stand behind it and we execute. But yes, better models tend to accrue value to the borrowers in the form of lower APRs.
+Reggie Smith
+--
+Analyst
+Congratulations on the quarter, guys. I was totally flat-footed by this one. I want to give you flowers for great work on the quarter for sure. Thanks for the question.
+Dave Girouard
+--
+Chief Executive Officer
+Thanks, Reggie.
+Operator
+We'll take our next question from the line of James Faucette with Morgan Stanley. Please go ahead. Your line is now open.
+James Faucette
+--
+Analyst
+Great. Thanks very much, and congratulations on a really good quarter. I wanted to ask a couple of clarifying questions. First, on contribution profit margin, it looks good, although it's probably down a little bit from third quarter '24 and the fourth quarter of '23.
+I know there can be some seasonality and that kind of thing. But can you talk about like reduced CAC, etc.? Can you give us a little bit of nuance like what is moving the contribution margin around and what we should think as a realistic range for it to be in as we go through the next year and beyond?
+Sanjay Datta
+--
+Chief Financial Officer
+Hey, James. So, things that are moving the contribution margin, I guess I would call out three things. One is just our take rates and how we're managing those. I think as you know, we've been very in-quarter take rate optimized recently.
+I think as we regrow our volumes and get back into net profitability, GAAP profitability, you could imagine us altering the leverage between in-quarter profit and overall platform volume, and we do that by lowering take rates and increasing volumes. And that's a constant experiment we're running, and it's a constant decision we're taking. So, take rates are one source of variability in contribution margin. The second is our acquisition cost.
+And similarly, as Dave pointed out, we've been very, very cash efficient, if you will, in the lean periods of the prior years. We've been largely growing off of what you might think of as organic or CRM-mined acquisition leads, and those are obviously free. And as we get more expansive and we get a better conversion funnel, you'll see us weigh further into paid acquisition. So, that may have an impact on the margin on contribution margin.
+And the third one is really our operating costs, our cost to onboard a loan, our cost to service a loan. And those are areas where I think we're making great efficiencies over time. We have leaders that are applying technology to those areas and delivering a lot of automation and a lot of wins. And so, our actual cost to process and service alone, those costs are coming down over time.
+So, I think you add the three of them up, and there's some puts and the takes in either direction. But we've been pretty steady. We've sort of bounced around between, I don't know, it's 58% and 62% for most of the past year. So, I think in the grand scheme of things, we've demonstrated a pretty good resiliency on the margin.
+James Faucette
+--
+Analyst
+Great. Thanks. And then speaking of customer acquisition, etc., I just wanted a little bit of input as to what you're thinking on channels and how much is direct and direct mail versus new people who [Inaudible] upstart.com, etc.? And any changes we should anticipate as we go through this year in that mix?
+Dave Girouard
+--
+Chief Executive Officer
+Sure, James. This is Dave. I would say, first of all, we'll continue to have our kind of base of users is growing. So, we, of course, are getting more and more by either cross-selling products or they're getting second or third loans, etc.
+So, I think that fraction will always continue to tick up and those, of course, have close to zero acquisition cost. So, generally, that's a great thing. We continue to make great progress. Whenever our models get better, we tend to get more volume from partners, DM -- direct mail converts better so that we can actually increase the amount of direct mail we send.
+So, we're very sort of marginal dollar-oriented when we do marketing. We certainly prefer direct marketing, meaning directly to the consumer. I would also say because of one of our big initiatives, which is really for the consumers, we want to have the best rate you can get anywhere. No matter if you are an 800 or 850 FICO score, making $200,000 a year, or whether you are a 640 FICO score and earning $45,000 a year or anywhere in between all those, we want to have the best rates.
+And we've made big strides toward that. And I think one of the results of that will be is you can do much more broad-based marketing when your offer is good for almost everybody. And I think we're making big strides in that direction. And so, we're doing OTT-like television stuff at some scale.
+I think you'll begin to see more and more of that. I don't -- I don't anticipate us putting our name on a football stadium or anything like that anytime soon. But I do think you'll see Upstart's brand out there more and more in very, very efficient ways to attract consumers.
+James Faucette
+--
+Analyst
+Great. I appreciate all that.
+Operator
+We'll take our next question from the line of Matt O'Neill with FT Partners. Please go ahead. Your line is open.
+Matt O'Neill
+--
+FT Partners -- Analyst
+Yeah. Thank you so much. Sanjay, I was hoping we could follow up on the sort of underlying or internal assumptions around UMI. I know there's a bit of an asymmetry there when things are improving.
+You take a little bit more time to sort of see how the improvements hold versus when they're deteriorating, the model is kind of quick to adjust and become more conservative. So, I guess the question is kind of all else equal, with where the UMI is now versus some level of conservatism, should it stay here through the year? Would the internal view continue to come down until you approach where it is now?
+Sanjay Datta
+--
+Chief Financial Officer
+Matt, your question is whether we have an internal view that the UMI will continue to go down.
+Matt O'Neill
+--
+FT Partners -- Analyst
+Well, just that I understand how -- when the data shows that it's improving, the internal model doesn't immediately adjust to that level because you're underwriting for a period of time into the future. So, my understanding was there's a little bit of an asymmetry around how quickly signs of improvement kind of flow through into the underwriting.
+Sanjay Datta
+--
+Chief Financial Officer
+I see. Yeah. Yeah. I mean, I guess, in general, we will continue to lag any improvements in UMI.
+And if UMI stays flat for the rest of the year, we will remain above it in terms of the assumptions we're making in newly underwritten loans. So, there will be an enduring conservatism in how we underwrite because as Dave explained earlier, we always want some buffer to at least brace for a scenario where the economy does some kind of a U-turn with respect to credit risk. And I expect that to be true until that UMI is back down to some long-term normal average like 1.0. And frankly, even then, we would want some positive buffer above how we're underwriting.
+So, I think maybe the other way to put it is there will always be an expression of conservatism in our underwriting in order to brace for scenarios of risk increasing over time.
+Matt O'Neill
+--
+FT Partners -- Analyst
+Got it. Thank you.
+Operator
+And we'll take our last question from the line of Rob Wildhack with Autonomous Research. Please go ahead. Your line is now open.
+Robert Wildhack
+--
+Analyst
+Hey, guys. One more on the contribution margin. Sanjay, I think earlier you said steady contribution margins for 2025. I'm just wondering why wouldn't those go lower with so much volume growth.
+I would think that as volume grows, you have to spend a bit more on marketing, take rates tend to come down and lead to a lower contribution margin. Why isn't that the case in 2025?
+Sanjay Datta
+--
+Chief Financial Officer
+Hey, Rob, I think we've -- harking back to something Dave said, we've been able to demonstrate growth at efficient steady acquisition costs and take rates over time. And I don't think that's changed. I think the only thing that would cause our contribution margin to drop would be a conscious move to lower our take rates in order to invest in future volume, if you will, at the expense of in-quarter financials. And as we've talked about, that is a decision we may take one day.
+But I do not think that an increasing unit cost, whether it's acquisition or operations costs really will put a lot of pressure on our contribution margins as we scale. We're always very, as Dave calls it, margin dollar efficient when it comes to acquisition. As our conversion funnel gets better, we can do more marketing, and we will expand the marketing to the point where our acquisition costs come back in line with our targets. So, we don't view ourselves as a business that needs to overspend on marketing in order to grow.
+Robert Wildhack
+--
+Analyst
+OK. And you touched on those at-will ABS-type loan buyers a couple of times this evening. Curious if that cohort is returning to the platform in a meaningful way yet? And does the 2025 outlook consider a big rebound in the ABS engine there? Because I know that's been a big volume channel in the past. So, just curious to get your thoughts on the ABS channel.
+Thanks.
+Sanjay Datta
+--
+Chief Financial Officer
+Yeah. I guess the more at-will side of the platform, it's a population we're engaged with right now, and I think there's a lot of good conversations happening. Probably too soon to really make a call in terms of where they are as a broader market, but I think we're optimistic. Our 2025 numbers don't really make any explicit assumptions about -- at will capital.
+They just make the broader assumption that capital will not be a bottleneck for us. And there's many different paths or ways that that could be true. But nothing specific is being assumed about the ABS markets.
+Robert Wildhack
+--
+Analyst
+Helpful. Thank you.
+Sanjay Datta
+--
+Chief Financial Officer
+Thank you.
+Operator
+That concludes today's question-and-answer session. Dave, at this time, I'll turn the conference back to you for your closing remarks.
+Dave Girouard
+--
+Chief Executive Officer
+All right. Thanks to all of you for joining us today, either on the phone or on the web. I'm sure you can sense our enthusiasm and our optimism. We've been through a lot, and we've really taken Upstart to a level that I think the world has yet to see.
+So, we look forward to talking with you all again in May and sharing more about our work in 2025. Thanks. Have a good evening.
+Operator
+[Operator signoff]
+Duration: 0 minutes

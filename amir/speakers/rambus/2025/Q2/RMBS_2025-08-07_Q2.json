@@ -1,0 +1,232 @@
+[
+  {
+    "speaker": "Unknown",
+    "role": "",
+    "text": "Full Conference Call Transcript"
+  },
+  {
+    "speaker": "Desmond Lynch",
+    "role": "",
+    "text": "Thank you, operator. And welcome to Rambus Second Quarter 2025 Results Conference Call. I'm Desmond Lynch, Chief Financial Officer at Rambus and on the call with me today is Luc Seraphin, our CEO. The press release for the results that we will be discussing today has been filed with the SEC on Form 8-K. We are webcasting this call along with the slides that we will reference during portions of today's call. A replay of this call can be accessed on our website beginning today at 5 PM Pacific time. Our discussion today will contain forward-looking statements, including our expectations regarding projected financial results, financial prospects, market growth, demand for our solutions, other market factors, including reflections of the geopolitical and macroeconomic environment and the effects of ASC 606 on reported revenue amongst other items. These statements are subject to risks and uncertainties that may be discussed during this call and are more fully described in the documents we file with the SEC, including our 8-Ks, 10-Qs, and 10-Ks. These forward-looking statements may differ materially from our actual results, and we are under no obligation to update these statements. In an effort to provide greater clarity in the financials, we are using both GAAP and non-GAAP financial presentations in both our press release and on this call. A reconciliation of these non-GAAP financials to the most directly comparable GAAP measures has been included in our press release and our slide presentation and on our website at rambus.com on the Investor Relations page under Financial Releases. In addition, we will continue to provide operational metrics such as licensing billings to give our investors better insight into our operational performance. The order of our call today will be as follows: Luc will start with an overview of the business, I will discuss our financial results, and then we will end with Q&A. I'll now turn the call over to Luc to provide an overview of the quarter."
+  },
+  {
+    "speaker": "Luc Seraphin",
+    "role": "",
+    "text": "Thank you, Des. Good afternoon, everyone, and thank you for joining our second quarter conference call. Rambus delivered a very strong second quarter exceeding expectations for both revenue and earnings, while continuing momentum in our growth initiatives. Achievement was driven by our memory interface chip business outpacing the market with 43% year-over-year growth and another quarter of record product revenue. The strong performance highlights our sustained leadership in DDR5 products as we continue to execute on our strategic roadmap of signal and power integrity solutions and to drive the adoption of our new products. We also generated record cash from operations of $94 million, showcasing the efficiency of our execution and the robustness of our business model. Our balanced portfolio and diverse revenue streams across chips, silicon IP, and patent licensing position us exceptionally well in the market. They also provide stability in a dynamic macroenvironment and enable our continued product investments to drive long-term growth. Our chip business continues to be a key growth engine for the company. With Q2 marking our fifth consecutive quarter of product revenue growth. As I mentioned in my opening remarks, we delivered a historic quarter of record product revenue. Our strength in DDR5 continues to be a cornerstone of our success with increased sales of our core products driving above-market growth. Looking forward to Q3, expect our ongoing RCD market share leadership combined with early contributions from new products to drive double-digit sequential product revenue growth. We have growing traction for the record number of new products introduced throughout last year with chips progressing through the respective stages of customer qualification and adoption. Additionally, we remain actively involved in the definition of future generation products with the industry. As we look further into the future, we are also very pleased that our industry standard MRDIMM chipset is advancing on schedule, and we're excited about its role in meeting the growing memory performance requirements of next-generation server workloads. Going beyond servers, we recently launched our client memory module chipset for AIPCs. With that introduction, we are proud to now offer chipsets for all JEDx standard DDR5 and LPDDR5 modules. Our client chip solutions waterfall are proven server class technology into new applications and extend our reach into next-generation high-performance PCs, opening up a growing market opportunity in the coming years. Our expanding product offering supports the next wave of high-performance computing platforms in servers and client systems. Through ongoing leadership in our cities, and growing traction across our portfolio of new products, we expect continued momentum and long-term growth. Turning to Silicon IP, we delivered solid results in Q2, and we remain on track for long-term growth. AI and data center applications continue to drive strong demand for our high-speed memory and interconnect IP as well as our security IP. Our IP solutions are foundational to enabling the performance required by next-generation accelerated computing ICs. We're seeing strong demand and design win momentum across our portfolio led by best-in-class HBM4 and PCIe7 solutions. As we look ahead for the company, the data center will continue to undergo profound transformation driven by exponential growth of AI workloads and the increasing complexity of high-speed performance computing. Across the ecosystem, the shift towards scalable heterogeneous compute architectures is accelerating demand for novel high-performance memory solutions and enabling technologies. These trends align directly with Rambus' long-term strategy. We are strategically focused on advancing system memory bandwidth and capacity through groundbreaking memory connectivity and power management solutions. These capabilities are foundational to enabling the next generation of AI and HPC platforms. We have built a roadmap that addresses the increasing technical demands of data-intensive applications. Our leadership in signal and power integrity core to enabling robust high-performance memory subsystems places us at the heart of this transformation. With our strong balance sheet and ongoing focused investment, Rambus is poised to capitalize on the secular growth trends. In closing, Q2 was a standout quarter for Rambus. We achieved excellent financial results, delivered record product revenue, and continue to execute on our roadmap. We are excited to enter the second half of the year with strong momentum and we expect another quarter of record product revenue with double-digit growth in Q3. Our leadership in DDR5, increasing customer traction for new products, and strong business model position us well for continued success and long-term profitable growth. As always, I want to thank our customers, partners, and employees for their continued support. And with that, I'll turn the call over to Des to walk through the financials. Des?"
+  },
+  {
+    "speaker": "Desmond Lynch",
+    "role": "",
+    "text": "Thank you, Luc. I'd like to begin with a summary of our financial results for the second quarter on Slide 3. We delivered a strong quarter, exceeding our expectations for both revenue and earnings. Our chip business continued to drive our growth as we delivered record results, marking our fifth consecutive quarter of product revenue growth. In addition, our diversified portfolio generated record quarterly cash from operations of $94 million. Our ability to consistently generate cash is a key aspect of our strategy and enables us to continually invest in initiatives that fuel our long-term growth. Let me now provide you a summary of our non-GAAP income statement on Slide 5. Revenue for the second quarter was $172.2 million, which was above our expectations. Royalty revenue was $68.6 million, while licensing billings were $66.4 million. The difference between licensing billings and royalty revenue mainly relates to timing as we do not always recognize revenue in the same quarter as we bill our customers. Product revenue was $81.3 million as we delivered another quarter of record product revenue. This represents a 7% sequential increase and a 43% year-over-year growth driven by continued strength in DDR5 products. Contract and other revenue was $22.3 million consisting predominantly of silicon IP. As a reminder, only a portion of our silicon IP revenue is reflected in contract and other revenue and the remaining portion is reported in royalty revenue as well as in licensing billings. Total operating costs, including cost of goods sold for the quarter were $93.2 million. Operating expenses of $60.4 million were in line with our expectations. Interest and other income for the second quarter was $4.8 million. Using an assumed flat tax rate of 20% for non-GAAP pretax income, non-GAAP net income for the quarter was $67.1 million. Now let me turn to the balance sheet details on Slide 6. We ended the quarter with cash, cash equivalents, and marketable securities totaling $594.8 million, up from Q1, primarily driven by record cash from operations of $94.4 million. Second quarter capital expenditures were $10.4 million while depreciation expense was $7.4 million. We delivered $84 million of free cash flow in the quarter. We consistently deliver value to our stockholders as we continued our stock repurchase program in the quarter. Let me now review our non-GAAP outlook for the third quarter on Slide 7. As a reminder, the forward-looking guidance reflects our current best estimates at this time, and our actual results could differ materially from what I'm about to review. The economic environment remains a dynamic environment and we continue to actively monitor the situation. In addition to the non-GAAP financial outlook under ASC 606, we also provide information on licensing billings which is an operational metric that reflects amounts invoiced to our licensing customers during the period adjusted for certain differences. We expect revenue in the third quarter to be $172 million and $178 million. We expect royalty revenue to be between $57 million and $63 million and licensing billings between $58 million and $64 million. We expect Q3 non-GAAP total operating costs, which includes COGS, to be between $98 million and $94 million. We expect Q3 capital expenditures to be approximately $12 million. Non-GAAP operating results for the third quarter is expected to be between a profit of $74 million and $84 million. For non-GAAP interest and other income and expense, we expect $5 million of interest income. We expect the pro forma tax rate to be 20% with non-GAAP tax expenses to be between $15.8 million and $17.8 million in Q3. We expect Q3 share count to be 108.5 million diluted shares outstanding. Overall, we anticipate the Q3 non-GAAP earnings per share range between $0.58 and $0.66. Let me finish with a summary on Slide 8. In closing, I am pleased with our strong financial results and ongoing execution. Our diversified portfolio and disciplined business model continues to drive profitable growth with strong cash generation. Our robust balance sheet allows us to invest in market expansion opportunities in the data center and AI, while consistently delivering value to our stockholders. Before I open the call up to Q&A, I would like to thank our employees for their continued teamwork and execution. With that, I'll turn the call back to our operator to begin Q&A. Could we have our first question?"
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Of course. Ladies and gentlemen, if you have a question, please press star followed by one on your touch-tone phone. Please limit yourself to one question and one follow-up and then return to the queue just so we can access everyone's questions. Our first question comes from the line of Aaron Rakers with Wells Fargo. Your line is now open."
+  },
+  {
+    "speaker": "Aaron Rakers",
+    "role": "",
+    "text": "Yeah. Thanks for taking the question. I'll just ask my question and my follow-up together here. First, on the revenue line, strong growth, up 43.5% year over year. I'm curious, Luc, how do we think about the contribution from the RCDs, your positioning as I think your target's been 40% market share in DDR5. And where we're at as far as seeing the ramp of the PMIC opportunity. And then as the follow-up real quickly, can you just remind us again, you know, as we think about Granite Rapids, you know, from Intel, from a CPU perspective, and we look at the roadmap going forward, is the expectation that we see continual memory channel expansion with next-generation platforms, i.e., moving from 12 to 16 and so on going forward? Thank you."
+  },
+  {
+    "speaker": "Luc Seraphin",
+    "role": "",
+    "text": "Thank you, Aaron. To your first question, yeah, we're very pleased with the growth of our product business with this 43% year-over-year growth in the second quarter. RCD remains very strong for us, and our belief is that we continue to gain share with the expansion of DDR5 in the market. We were slightly above 40% share at the end of 2024. And we expect to continue to gain share this year. And we do start to see the contribution for new chips, you know, power management chips, but all the chips that we're introducing to the market. It's still modest. It represents low single-digit contribution to the product revenue in Q3, but it's gonna grow to mid to upper single-digit contribution in Q3. Sorry. Use low single-digit in Q2. And we do see momentum there. So it's modest, but we do see momentum across the board. We said, we have different stages of qualification and adoption of these different products in the market. We feel very comfortable with the momentum there. With respect to the different platforms, our partners continue to roll out platforms. We do sell chips ahead of the platform deployment. So to the platform you mentioned, we're starting to see volume shipments of products on the RCD side. We do believe that, in addition to the Intel platform, AMD and the ARM-based platforms are also going to roll out products that will create demand for our DDR5, our CD chips. And the fact that these platforms are transitioning from 12 channels to 16 channels is also going to create further demand for DDR5 in the quarters and years to come. So that's good news for us."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Thank you for your questions. Our next question comes from the line of Gary Mobley with Loop Capital. Your line is now open."
+  },
+  {
+    "speaker": "Gary Mobley",
+    "role": "",
+    "text": "Guys. Thank you. Thanks for taking my question. I had some questions about the PC market. I know it's not what everybody's focused on, but if I'm not mistaken, your newly introduced PMIC products are geared towards Panther Lake and with that launch imminent, can you share with us whether or not you've got any visibility into the PMIC sales into the PC market ramping this year or next and are you generating yet any client clock driver revenue from the PC market?"
+  },
+  {
+    "speaker": "Luc Seraphin",
+    "role": "",
+    "text": "Thank you, Gary. Yeah. You know, as we said in earlier calls, we do see the requirements that we initially or historically saw in the data center flowing into high-end PCs and the need for the equivalent of an LCD or the equivalent of the power management chip flowing into the high-end PC market. So we introduced the clock driver last year, and we are starting to see more modest traction. Modest traction not because the product is not successful. It's just the market is limited at this point in time. It really targets the very high-end speed layer of the market. And over time, it's gonna slow down all the segments of the market. We were encouraged with the reception of our PMIC products into the data center. That's why we announced PMIC products for the client market, a gen two PMIC for DIMMs in the client market as well as an LP CAM solution for the PC market. So we're planting the seeds in a market that we think is gonna be very fast-growing going forward. But that's going to address the high-end PC markets first and then slow down. So we do expect the contributions from these client markets to start to be visible in 2026. When this year we're gonna just see the initial shipments of qualification and preproduction orders."
+  },
+  {
+    "speaker": "Gary Mobley",
+    "role": "",
+    "text": "Alright. Thanks, Luc. As a follow-up, I wanted to quickly ask about inventory. It appears as though your dollars of inventory are getting lean and days of inventory are lean. And so the reason I bring this up is, are your lead times extending? And if they are, is there a motivation for your memory customers to start to maybe sort of ensure or hedge against that in the form of higher inventory?"
+  },
+  {
+    "speaker": "Desmond Lynch",
+    "role": "",
+    "text": "Hi, Gary. It's Des here. That's a good question. Our inventory levels in Q2 came down to about 120 days, which was mainly driven by more finished goods inventory at the end of the quarter. And it's important to note that our inventory holding at June 30 is just a snapshot in time and really based upon our current view of demand, we will have sufficient inventory to meet our customers' demand through the end of the year. We do have long-term relationships with our supply chain partners and they are fully supportive of our growth plans going forward into 2026 and beyond. As we look ahead, given our expanding product portfolio and strong cash generation, we are comfortable with holding more strategic inventory on the balance sheet. And this is something we'll definitely endeavor to do here over the next couple of quarters. As it relates to lead times, I would say that they remain within sort of normal levels and consistent with prior quarters from the air gallery."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Thank you for your questions. Our next question comes from the line of Kevin Cassidy with Rosenblatt Securities. Your line is now open."
+  },
+  {
+    "speaker": "Kevin Cassidy",
+    "role": "",
+    "text": "Thank you, and congratulations on the great results. You know, the AI ASIC market is exploding in the, you know, it's called the XPU. Can you say how that ASIC market might be changing the demand for your silicon IP?"
+  },
+  {
+    "speaker": "Luc Seraphin",
+    "role": "",
+    "text": "Thanks, Kevin. Yes. Sure. You know, what we see with the AI exploding and the emergence of these XPU solutions, ASIC solutions, is that the need for very high-speed connectivity and the need for very high-speed memory interfaces increases and accelerates. And that translates, you know, for us into an acceleration of our development for solutions such as HBM4, HBM4e, as well as PCIe7. So we are engaged with customers. You know, this market tended to be quieter. It's a bit like the RCD market. Everything is accelerating. But we do have several engagements on these leading-edge technologies on the HBM4 and the PCIe7 in particular. As well as for the security solutions. So the need to actually secure data when it sits into those chips or secure data when it moves around chips is becoming critically important. That's also giving traction to the sales of our silicon IP in the security area."
+  },
+  {
+    "speaker": "Kevin Cassidy",
+    "role": "",
+    "text": "Okay. Great. Thanks for that detail. And you know, maybe a more mundane discussion is there's been announcements for DDR4 end of life. Does that change anything for Rambus or, you know, I guess, we had a couple of years ago, we had an inventory issue. So I guess that's out of the way now. But does it mean going forward?"
+  },
+  {
+    "speaker": "Luc Seraphin",
+    "role": "",
+    "text": "It doesn't change much for us. You know, DDR4 sales remain very limited. And, you know, this has been our message for several quarters now. And we don't see that picture changing. You know, we do see slowly inventories going down in the market. We hear about the last time buy orders. You know, we expect, you know, DDR4 demand to remain low, if even decreasing, and maybe it's gonna be on a case-by-case basis when people go work through these last time buy orders."
+  },
+  {
+    "speaker": "Kevin Cassidy",
+    "role": "",
+    "text": "Okay. Great. Thanks. Congratulations again."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Thank you for your question. Our next question comes from the line of Mehdi Hosseini with SIG. Your line is now open."
+  },
+  {
+    "speaker": "Mehdi Hosseini",
+    "role": "",
+    "text": "Yes. Thanks for taking my questions. Wanted to better understand the mix of the product revenue, especially given the increased contribution from the companionship? How should I think about the DDR5 RCD chip or RCD buffer chip versus a companion chip? How is that mix evolving?"
+  },
+  {
+    "speaker": "Luc Seraphin",
+    "role": "",
+    "text": "The way to look at it is we introduce a lot of products, and there are different stages of introduction and qualification with our customers. But in Q2, these new products represented low single-digit contribution in percentage terms of our product revenue. And when we look at Q3, that contribution in terms of percentages is probably going to be mid to upper single-digit percentage of our product revenue. So as I said earlier, we planted the seeds. We see traction, and we're very happy with the traction with our customers. The contribution today is modest, but we do see very strong momentum in terms of adoption of these products."
+  },
+  {
+    "speaker": "Mehdi Hosseini",
+    "role": "",
+    "text": "Gotcha. Thanks for that clarification. Would that increased contribution continue into year-end?"
+  },
+  {
+    "speaker": "Luc Seraphin",
+    "role": "",
+    "text": "Yes. It will continue into year-end. You know, we're still in the phase of introduction and preproduction of these products. So, you know, when we look at the view of our product revenue, you know, for, we're comfortable with where the street sees us, and we see for Q4, slightly higher contribution from our new products. But the real thing is gonna be 2026 when the platforms are in full swing into the market."
+  },
+  {
+    "speaker": "Mehdi Hosseini",
+    "role": "",
+    "text": "Okay. Alright. If I may squeeze my second question, I want to better understand the same kind of diversification in your silicon IP. There was a significant improvement on a Q over Q basis of almost $6 million. Is that driven by HBM4? If not, what is driving that sequential increase in silicon IP? And if HBM4 was not a factor, when should we expect customers to come back and buy more IP for that specific application, HBM4?"
+  },
+  {
+    "speaker": "Desmond Lynch",
+    "role": "",
+    "text": "Hi, Mehdi. It's Des here. We're really pleased with the performance of our Silicon IP business, which delivered strong results in the first half of the year. And we're really on track to meet our annual growth expectations for the full year. From here, what I would say is when you look at the different revenue categories of contract and other and licensing billings, these move around on each sort of quarter. Which is really dependent upon the IP that we are selling to customers. So what you did see in Q2 is an increase in our contract and other sort of line, which represents more customizable IP being sold, and we saw the corresponding sort of decline on the licensing billings line, which is off-the-shelf IP. But what we really see here is a really strong momentum in the business, which has really been led by the memory controller solution of the HBM4, PCIe7, and also nice traction on the leading-edge security IP solutions. But overall, for the full year, we do expect the business to grow in line with the overall sort of expectations from here."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Thank you for your questions. Our next question comes from the line of Natalia Winkler with Evercore. Your line is now open."
+  },
+  {
+    "speaker": "Natalia Winkler",
+    "role": "",
+    "text": "Hi. Thank you for taking my questions. My first one is about the MRDIMM opportunity. Luc, I was wondering if you can help with an update on how you guys see that market and maybe sort of, you know, the ultimate proportion of the CPU market that might be using that technology?"
+  },
+  {
+    "speaker": "Luc Seraphin",
+    "role": "",
+    "text": "Yeah. So MRDIMM is staged to enter the market towards the end of 2026, depending on the availability of platforms. This is not the next-generation platform, but the one after. But it's important to engage with customers very early on. So, at this point in time, we're very pleased with the progress we're making with our customers in terms of design winning and engagements on the qualification side. But that will contribute to the revenue towards 2026 and beyond. You remember, the MRDIMM content is much larger than the content of the standard RDIMM for DDR5. Because the RCD is more complex, the power management chip is more complex. You also have 10 dB chips that were not present on the standard DIMM. So we're very excited with the progress, but that's gonna have an impact in 2026, second half and beyond. The market is difficult to assess at this point in time. But we expect, in full swing, it could represent about $600 million market for MRDIMM, that you can compare to a market RDIMM today, is about $800 million. So that's a significant growth potential in terms of SAM. That's something that's gonna happen '26, the second half and beyond."
+  },
+  {
+    "speaker": "Natalia Winkler",
+    "role": "",
+    "text": "Thank you. That's very helpful. And then my second question is around ARM CPUs. If you could help us understand if there's a little bit of a trade-off, you know, from the standpoint of units of the CPUs and the channel count. If you guys view the ARM CPU market, you know, different from x86."
+  },
+  {
+    "speaker": "Luc Seraphin",
+    "role": "",
+    "text": "We are kind of agnostic as to the CPU that is being used. Certainly, different platform providers offer different numbers of channels. We kind of take that into account when we estimate the market size. But for us, the very fact that people are developing chips based on ARM that are in competition with the x86 platforms is a good thing. It creates tension in the market. Competition in the market is good for the rollout of higher-speed RCDs and companionship solutions. We're kind of agnostic, but we see this in a positive way."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Thank you for your question. Our next question comes from the line of Tristan Gerra with Baird. Your line is now open."
+  },
+  {
+    "speaker": "Tristan Gerra",
+    "role": "",
+    "text": "Hi. Good afternoon. Is it fair to assume that the customized IP that you sold in the quarter that it more related to custom ASIC? And, also, when you talk about the contribution going from low single-digit to mid to upper single-digit this quarter, for new product, I'm assuming companionship is really the best majority of that increase, and is that more on the Granite Rapid platform?"
+  },
+  {
+    "speaker": "Luc Seraphin",
+    "role": "",
+    "text": "Yeah. To your second question, it's a combination. We introduced eight new products last year, mostly companionships. The chips that we introduced this year are companion chips for the client space, mostly in the power management area. And different customers are at different stages. So, when we mentioned this, low single-digit going to mid to upper single-digit, these are all these new chips that we introduced, mostly companion chips."
+  },
+  {
+    "speaker": "Tristan Gerra",
+    "role": "",
+    "text": "Your first question was the Could you repeat the first question, please?"
+  },
+  {
+    "speaker": "Tristan Gerra",
+    "role": "",
+    "text": "Yeah. It was regarding the customized IP and whether this was related to custom ASIC."
+  },
+  {
+    "speaker": "Luc Seraphin",
+    "role": "",
+    "text": "Yeah. Mostly, it's custom ASICs. It's people developing their own chips to address the demands of the AI market. There's a lot of interest now for AI inference in particular, which drives the need for AI chips for high-speed interfaces. So, yeah, it's mostly for ASICs, ranging from start-up companies that want to enter that market all the way up to more established companies that already have a footprint in that market."
+  },
+  {
+    "speaker": "Tristan Gerra",
+    "role": "",
+    "text": "Okay. And then just as a quick follow-up, what is typically the timeline between when you collect this customized IP versus the timing when the custom ASIC is ramping? And the reason I'm asking is because there's a number of hyperscalers that are at different stages of ramping custom ASICs over the next couple of years. And I think you've mentioned that increasing customized IP was happening in the quarter, but not necessarily sustainable or lumpy. But we see an increase medium-term from customized IP revenue over the next, in the medium term into next year?"
+  },
+  {
+    "speaker": "Luc Seraphin",
+    "role": "",
+    "text": "Yeah. That's a good question. Typically, our IP business is a licensing business, so our customers pay us when we deliver the IP for a license, for one use or several uses depending on the contracts. So we typically see the revenue it depends, 12 to 24 months before the products ramp into the market. So, our current sales address chips that are going to be in the market in a couple of years from now. And that's why we do see demand for these leading-edge technologies. People are using looking at HBM4, HBM4e, PCIe7, for the next generation of products, and we're gonna be on that leading edge as we move forward. Then it depends on how successful these customers are. They are customers that have been developing chips for many years. And we'd continue on that path with us. And start-up companies, there are more and more start-up companies paying licenses to us as they move forward. Whether their chips are going to be successful or not is a different question. But, again, it's important for us to have the revenue recognized at the time we sell the license when they actually decide to use these leading-edge technologies into their products."
+  },
+  {
+    "speaker": "Tristan Gerra",
+    "role": "",
+    "text": "Great. Thank you very much."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Thank you for your question. At this time, no apologies. We have a follow-up question from the line of Mehdi Hosseini with SIG. Your line is now open."
+  },
+  {
+    "speaker": "Mehdi Hosseini",
+    "role": "",
+    "text": "Yes. Thanks for taking my follow-up. Wanna look into next year 2026 and 2027. Wanna better understand how you thinking about the opportunities associated with the client market, PC market versus CXL. It seems like CXL 3.0 is more like a late '26. If it doesn't push out again, would the incremental opportunity from the PC market be enough, be large enough to offset if there is more push out in CXL adoption?"
+  },
+  {
+    "speaker": "Luc Seraphin",
+    "role": "",
+    "text": "Thank you, Mehdi. You know, the way we look at it is that you're correct. CXL may push out even further but we do see MRDIMM really being the solution that is going to be adopted for use cases that have to do with memory expansion in particular. So on the data center side, we have high expectations for the deployment of MRDIMM. As I said, with revenue in the '26 and '27, I think that would address a lot of the use cases that CXL was supposed to address in terms of chip business. Now clients is different. Clients you do there's not really a CXL market for client at this point in time or small for chips per se. But the client business for us, we really see these as an extension of our companionship market for the data center. As we said earlier, the technical requirements that we're gonna find in high-end client systems are very similar to the ones that we currently find in data centers. So this is gonna be a driver for SAM expansion for truck driver chips and power management chips into the client business. That's a different area of growth for us, different than the MRDIMM in the data center space."
+  },
+  {
+    "speaker": "Mehdi Hosseini",
+    "role": "",
+    "text": "Got it. Thank you."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Thank you for your question. At this time, there are no further questions. This will conclude the question and answer session. I would now like to turn the conference back over to the company."
+  },
+  {
+    "speaker": "Luc Seraphin",
+    "role": "",
+    "text": "Thank you to everyone who has joined us today for your continued interest and time. We look forward to speaking with you again soon. Have a great day."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Thank you. This now concludes today's conference."
+  }
+]

@@ -1,0 +1,451 @@
+Operator
+Hello, and welcome to the 3D Systems Q1 2023 conference call and webcast. [Operator instructions] As a reminder, this conference is being recorded. It's now my pleasure to turn the call over to your host, treasurer, and vice president of investor relations, Mick McCloskey. Please go ahead, sir.
+Mick McCloskey
+--
+Vice President, Investor Relations
+Good morning, and welcome to 3D Systems' first-quarter 2023 conference call. With me on today's call are Dr. Jeffrey Graves, our president and chief executive officer; Michael Turner, executive vice president and chief financial officer; and Andrew Johnson, executive vice president, chief corporate development officer, and chief legal officer. The webcast portion of this call contains a slide presentation that we will refer to during the call.
+Those following along on the phone who wish to access the slide portion of this presentation may do so on the Investor Relations section of our website. For those who have accessed the streaming portion of the webcast, please be aware that there may be a few seconds delay and that you will not be able to post questions via the web. The following discussion and responses to your questions reflect management's views as of today only and will include forward-looking statements as described on this slide. Actual results may differ materially.
+Additional information about factors that could potentially impact our financial results is included in last night's press release and our filings with the SEC, including our most recent annual report on Form 10-K and quarterly reports on Form 10-Q. During this call, we will discuss certain non-GAAP financial measures. In our press release and slides accompanying this webcast, which are both available on our Investor Relations website, you will find additional disclosures regarding these non-GAAP measures, including reconciliations of these measures with comparable GAAP measures. Finally, unless otherwise stated, all comparisons in this call will be against our results for the comparable period of 2022.
+With that, I'll turn the call over to our CEO, Jeff Graves, for opening remarks.
+Jeff Graves
+--
+President and Chief Executive Officer
+Thank you, Mick. And good morning, everyone. I'll begin this morning with some comments on the major drivers of our first-quarter performance and how we anticipate the rest of the year unfolding at this point. I'll include progress we've made against some key strategic objectives, including partnerships and initiatives that we've previously announced.
+After that, I'll hand the call over to our CFO, Michael Turner, for a more detailed discussion of our first-quarter financial results and our updated guidance for 2023. With that, let me turn to Slide 5 and start with a quick recap of the quarter. In describing our current market dynamics, they can best be characterized as being strongly bifurcated with one specific market being soft and the remainder being strong. I'll begin with the negative and that being the dental orthodontics or, more specifically, the clear dental aligners business.
+As most of you know, we have a particularly strong position in this market. As we've said for the last few quarters, demand has been severely impacted by reduced consumer discretionary spending as inflation has forced many consumers to focus on meeting life necessities such as food, gas, and rent. While we're pleased that this market seems to be stabilizing, it has yet to return to growth. Compounding the economic impact on the actual market demand has been our customers' desire to reduce inventory levels, which had grown significantly during the COVID period.
+We expect this pressure to continue through midyear and then moderate as supply and demand come back into balance in the second half. This assumption is reflected in our guidance for the year. Looking ahead, provided a deep recession can be avoided as inflation now moderates, we would anticipate this market returning to growth in 2024. Turning then to the orthopedic half of our healthcare business, the story becomes very positive.
+This market continues to be robust, which in Q1 translated again into strong double-digit revenue growth. As many of you are aware, 3D Systems was a pioneer in this field, beginning with the creation of customized medical models in the early 2000s, and since that time, expanding significantly into human musculoskeletal applications based on our rapidly growing orthopedic expertise. This transition from simple medical models into applications within the human body was a titanic undertaking for our company spanning many years, with success requiring not only the development of compelling technologies, but the establishment of world-class process disciplines and quality practices, accompanied by the required regulatory approvals that are the price of entry for any company that wishes to participate in this market. Fast forward to today, we're a recognized leader in craniomaxillofacial and spinal orthopedic applications.
+And over the last few years, we've expanded our focus to include many additional indications in the human skeletal system. This expansion in our orthopedic business is a key element of our strategic growth plan for the future. Success in these new orthopedic indications requires, first, that we continue to advance our printing hardware and material systems, which now fully encompass both metal and polymer platforms, and to do so with increasing software integration that incorporates AI and machine learning to optimize the full medical workflow from receipt of the patient's digital imaging data through the surgical planning process with the patient's surgeon, and then to the printing and finishing operations which provide patient-specific medical implants. We can produce these implants within days of the initial request and do so while manufacturing custom surgical instrumentation and cutting guides to aid the surgeon in the OR.
+To date, we have used this process to bring life-changing orthopedic repairs to well over 150,000 individual patients, and the number grows daily. Often an example is helpful and fully conveying the nature of what we do. If you look at the left-hand side of Slide No. 5, you'll see an actual digital image of a patient suffering from a cancerous tumor in their leg in pelvic region.
+Traditionally, this type of tumor would have been removed by amputation of much of the surrounding bone structure, which in this case would have cost the patient one of their limbs and part of their pelvis. Through the use of our die cut, and print, and free-form software, our engineers working with the patient's surgical team were able to design and print the needed high-precision cutting guides and surgical instrumentation that allow the tumor to be carefully removed. Then in the same operation, install a custom patient-specific triflange titanium implant to reinforce the remaining bone structure, thereby avoiding amputation the limb. This complex implant was manufactured using our Oqton 3D expert printing software in combination with our DMP 350 metal printing system.
+This entire process from first interaction with the patient data, the completed medical device was done in days, allowing the patient to receive the treatment they so badly needed shortly after the first diagnosis. While the technology itself is remarkable, the speed and economics of this entire orthopedic workflow has now improved to the point of large-scale adoption. Even with this progress, we continue to challenge ourselves to push even further on capability and cost efficiency. For example, this year, we moved from a single laser metal printing platform to a dual laser system, which dramatically improves production throughput.
+And we've recently expanded from a focus on titanium materials, which are preferred for many applications in the human body, to a special cobalt chrome material that's needed for use in articulating joint repair and replacement such as the human knee. We're the first to do this through 3D printing, which opens the door for a much greater degree of economic customization and joint replacement, which is becoming a common need and an active but aging population. Moving to our industrial solutions group. We're also seeing continued strong demand, driven largely by automotive, electronics, and military aviation and space markets.
+In the electronics market, I would specifically call out electrical connectors as a leading application for additive manufacturing, which can be attributed to a very high number of part types that are geometrically complex and produced at lower volumes or on a very regular basis. These types of applications benefit greatly from the avoidance of hard tooling and dedicated injection molding capacity for their manufacturer. While our development efforts for connectors has been progressing behind the scenes for some time, in the first quarter, we were pleased to announce publicly our collaboration with TE Connectivity, a world leader in connectors and sensors. Our joint program focuses on developing an additive manufacturing solution to produce electrical connectors that meet stringent UL regulatory requirements at scale for use within our partner's global factory network.
+The production solution illustrated on the right-hand side of Slide 5 comprises a modified Figure 4 modular printing platform, unique polymeric materials that have been the first known to pass the UL standards for flame retardancy, our 3D Sprint software, and our global services capability. Instrumental to this success has been a newly developed photopolymer that we engineered specifically to meet TE Connectivity's requirements for performance and cost, and in parallel the hardware performance to produce the precision and speeds at an industrial scale. This is a great example of how we're partnering with industry leaders in key markets to accelerate innovation and build competitive advantage through additive manufacturing solutions. We believe TE Connectivity has the potential to become a significant customer for us, and we're honored to be their partner.
+As 2022 was an investment year, I'm pleased to address the progress we're making on some of our recent acquisitions. Moving to Slide 6. Last quarter, we shared the achievement of a major milestone for our healthcare solutions group when a surgical team at Austria's University Hospital in Salzburg executed the first clinical implantation of a 3D-printed cranial plate manufactured from medical-grade peak polymer material using a Kumovis printer. This printer was specifically developed for precision printing of medical-grade, high-performance polymers.
+They received early approval by European regulators for this procedure, and a similar process is underway in the U.S. with the FDA. Using a Kumovis printer installed at the point of care inside the hospital, the surgical team customized and printed a cranial implant to precisely match the patient's specific anatomical profile and related physiological needs. A few months after the procedure was performed, we're thrilled that Mr.
+Trummer and -- for Mr. Trummer and the relief that this has brought to him. We are deeply indebted to the talented surgeons and staff at Salzburg University Hospital we brought together for the first time, our unique software, hardware, and materials technologies in a point-of-care hospital setting to address the specific needs. We believe that this success provides a real-life demonstration of the potential for enhancing orthopedic outcomes through the use of comprehensive digital manufacturing technology within a hospital setting.
+Our focus on point-of-care implementation of these integrated technologies is a key priority for our company and one that we believe will bring significant benefits to patients around the world in the years ahead. Here's a picture of Mr. Trummer several weeks after the surgery, where his recovery is on track and very apparent for all. Now turning to Slide 7.
+The next area I wanna update you on is the recent news regarding our software division, Oqton, which we acquired in 2021. Oqton's unique cloud-based, AI-enabled manufacturing operating system accelerates deployment and automation of digital manufacturing and production environments to improve efficiencies and reduce costs. Oqton recently announced the first comprehensive update on the adoption of this system in the dental market. To date, several hundred dental labs have now adopted Oqton's manufacturing operating system worldwide in the first 18 months of its availability.
+With dental labs now migrating quickly to the Oqton platform to manage their operations, customer feedback has been overwhelmingly positive as demonstrated by churn rates ranging from negative 20% to negative 30% for the software, meaning that customers are not only renewing their initial licenses but are rapidly expanding the number of licenses they're using at each of their operational sites. Production efficiency gains exceeded 50% in the first year of implementation, and the ratio of lifetime value to customer acquisition cost of over five demonstrates the value creation through Oqton adoption. Now moving to Slide 8, I'd like to provide some updates on some of our most recent exciting R&D efforts. Another strategically important area of investment focus last year was regenerative medicine.
+And we had announced the formation of Systemic Bio, a wholly owned start-up company that's leveraging our expertise in vascularized tissue printing to develop and manufacture unique organ-on-a-chip technology called h-VIOS for use in drug discovery and development by the pharmaceutical industry. Systemic Bio will partner directly with major pharmaceutical industry partners to jointly develop h-VIOS chips that are tailored to specific organ and disease functions and then market those ships directly to pharmaceutical and biotech companies engaged in drug discovery. I am very happy to announce today that we've signed our first contract with a major pharmaceutical company for application of our h-VIOS chip technology. While we do not yet have permission to disclose the company name, in this program, we will establish a bio-printed vascularized tumor model to be used for drug discovery and development efforts in oncology.
+Given development time lines in the industry, our efforts will seek to accelerate the development of new, patient-specific therapies using these tumor models. This will be a multiyear collaboration to test the response of a patient's tumor through a variety of anticancer therapies through the use of our h-VIOS technology. We're extremely excited about the potential for the widespread adoption of our h-VIOS chip technology and view this initial contract as early initial validation of our approach to reducing the development cycle for new drug therapies. Turning then to Slide 9.
+As we've stated before, a key point regarding our ongoing investment initiatives is that we are only pursuing R&D programs and new additions to our product portfolio that we believe offer attractive returns and are consistent with our company mission to provide application-focused, additive manufacturing solutions to high-value, high-growth industrial and healthcare end markets. As you saw in our announcement last week, we were very excited to enhance our selective laser sintering or SLS offering with the planned acquisition of Wematter. With their Gravity Essential, and Essential+, and enterprise line of SLS printers, Wematter brings affordable, turnkey, closed-loop solutions that make SLS accessible for smaller production environments, enabling a broader population of potential customers whose manufacturing space is limited. In addition, their portfolio of over 20 SLS material types enables them to address a wide range of applications for industrial, medical device, and academic research markets.
+Importantly, Wematter emphasizes a new standard for customer ease of installation and use, and a focus on environmental sustainability with its unique integrated powder handling and recycling system. While having a robust internal development program to meet most of our emerging customer needs, we've used strategic bolt-on acquisitions, such as Wematter with their unique printing technology, as having a smaller but important role to play in our continued expansion into new customer-specific applications across our two business units. We expect to close the Wematter transaction in early July. Shifting to our internal development efforts, I'm pleased to share that our announcement late last year of the revolutionary SLA 750 deal, the world's first synchronous dual laser SLA printer, continues to garner excitement and remains on track for a summer release.
+As a reminder, the trailblazing SLA dual delivers twice the speed and three times the throughput of competing platforms, dramatically improving productivity and cost efficiency. This industrial printing system, as confirmed through our extensive beta testing with select customers, will be the industry leader in print size, speed, accuracy of resolution, delivering parts with unmatched surface finish, and mechanical performance. When leveraged with the Oqton manufacturing platform, it unlocks the true power of seamless integration on the Factory 4. We believe that this system will become a mainstay in industry such as transportation, motor sports consumer technology and durable goods, manufacturing services, aerospace, and healthcare for many years to follow.
+In addition to introducing our newest growth initiatives, I believe it's good discipline to provide an update on some of our previous announcements, and particularly if there's a directional change to note. Along these lines, in February of 2021, we announced a collaboration with Jabil Corporation, a longtime customer and partner for the development product we called Roadrunner. Using extrusion technology, this product aims to offer several benefits to industrial markets, including increased speed, high-temperature material capability, a larger build area, and enhanced precision. The intent with Roadrunner was that customers would use a standard film and input material, much of which Jabil was capable of supplying.
+However, as this program got underway, we continue studying alternatives, including moving to a pellet extrusion technology, which offer the potential for a much lower material cost. As we dug further, we discovered a small company in Colorado called Titan Robotics that has developed such a printing platform. In short order, we elected to acquire Titan and integrated into the 3D Systems family of printing platforms and operating systems. The net result was a quicker, surer path to market for a machine that -- from the outset that many of the attributes we were looking for in the Roadrunner system.
+Today, the Titan platform is in full production and is rapidly gaining customer acceptance across several significant industrial markets. Since acquiring this talented group of engineers, we've continued to build on the Titan platform, reinforced with technology that we both developed ourselves and gleaned from our subsequent acquisition of Kumovis, which as I mentioned earlier, has a novel extrusion technology for high-performance medical and aerospace grade polymers. Through both the Kumovis and Titan platforms, we are now being integrated and expanded upon through our internal investments to continue our move into the broader extrusion market. Stay tuned for future developments in this area as there very well may be a son of Roadrunner in the offering.
+The second initiative that we'd like to update you on is the partnership we announced in June of 2021, which focused on the bio-printed regenerative soft tissue matrix for use in breast reconstruction. While the initial exploratory efforts of our partners' results were promising, as the program progressed, material scientists in our laboratories independently developed alternative materials, which we believe were better suited for both breast reconstruction and other soft tissue applications. As such, earlier this year, we decided to pursue these applications by ourselves and have continued our own efforts in the printing of vascularized soft tissue using our unique materials and printing technology. We detailed this effort in the release we made in February of this year.
+This human tissue program has shown great promise in the large animal studies that we've completed to date, as we have subsequently announced. We remain excited about this effort in the rapidly increasing number of human applications to continue to emerge from this program. And finally, regarding our acquisition of the high-speed rotary printing platform, dp polar, we're moving along quite well with the first beta phase units that will launch with select strategic customers in key industrial and healthcare growth markets. We expect the first of these units to be installed in late summer and more to follow in the fall.
+These units are specifically designed for high-speed printing of high-volume high-mix polymer components. We'll update you once again as we gain customer feedback from this initial trial launch. Now moving to Slide 10. Before turning the call over to Michael, I'd like to update you on our outlook for 2023 and beyond.
+Let me make a very clear statement of our operating philosophy. As a leader in our industry, we believe it's important to demonstrate that we can deliver both exciting growth and profitability levels sufficient to support the ongoing investment requirements that are needed in order to meet rapidly expanding customer applications. As such, earlier this year, we announced a restructuring initiative to improve our 2023 profit profile by better aligning our European engineering and manufacturing operations for our three metals platforms, streamlining our software organization, which is now consolidated under Oqton and focusing our product portfolio on platforms that bring the highest long-term value to the market. We're progressing very well on this front.
+And as we announced last night, we've now expanded our restructuring efforts to reduce headcount by approximately 6% across all functions of the company. We feel it's necessary to prudently manage our cost structure in step with the uncertainties associated with the broader macroeconomic environment. And most importantly, our previous investments in productivity are now allowing us to harvest more cost efficiencies as the year progresses. As Michael will detail for you later, we have increased our guidance to deliver $2 million or more in adjusted EBITDA in 2023 with no change to our outlook for revenue, non-GAAP gross profit margin, and free cash flow.
+In closing, I'd like to address a question that's arisen from some of our analysts who follow the company regarding our historic core healthcare and industrial businesses and the additional investments that we're choosing to make in regenerative medicine, which is not generating material revenue for us today. Very specifically, we're being asked why, particularly in these challenging times, are we choosing to make these investments. First, let me be as clear as possible about the magnitude of our investment, including within our full-year 2023 guidance is a plan to invest between $10 million and $12 million in Systemic Bio and our other regenerative medicine initiatives related to human non-organ tissue development. In addition to this, we're also receiving significant external support for our human organ development efforts from our partner, United Therapeutics.
+To state the obvious, if we were not committed to this effort, our EBITDA performance would be much greater this year. The reason that we're making these investments is very simple. We have an incredibly unique and exciting opportunity to drive unprecedented change in the field of medicine and in tens of thousands of people's lives who can benefit from this technology. It's an opportunity we are uniquely positioned to unlock with a series of highly strategic investments that have the potential to drive significant change for the future of the company and, more importantly, a life-changing impact on society.
+And we're fortunate to be in a position to fund them with our strong balance sheet and profit-generating businesses inherent in our core portfolio. The benefit for all stakeholders including our shareholders, our employees, and importantly, the people's lives that we will impact will be exceptional. As to our time frame, I'll remind you of the goal that our partner, United Therapeutics' CEO, Martine Rothblatt, stated at last summer's CNN-sponsored Life Itself event that within 5 years, we'll have a printed organ in human clinical trials. Today, we're a year closer to making this goal a reality.
+You can expect more announcements related to our human and pharmaceutical efforts in the future. Until then, our core businesses are thriving. We're making the progress needed in each key market to ensure that we retain our leadership position. And with that, let me turn the discussion over to Michael for more detail on our financial performance and our outlook.
+Michael?
+Michael Turner
+--
+Executive Vice President, Chief Financial Officer
+Thanks, Jeff. Before I start, I'd like to make a few comments regarding seasonality and year-over-year comparisons as an important backdrop to today's discussion on Slide 12. As I commented during our last call, it has been typical for 3D Systems to begin each year with a relatively lower first quarter, then go through somewhat higher second and third quarters, and finish the year with a strong Q4, with customers flush annual budgets and stock-up on inventory for the coming year. 2022 did not follow the same trend, primarily due to a shift in demand patterns in the dental market.
+Therefore, we would expect the distribution of quarterly revenue for 2023 to be more in line with the distribution of quarterly revenues in 2021 as opposed to what we saw in 2022. Now to set the stage a bit more, let's turn now to our first-quarter revenue summary on Slide 13. Our results in Q1 came in largely as expected, with dental softness impacting our growth on a year-over-year basis. Excluding the expected decline in sales to our dental customers, we experienced solid growth across our businesses, demonstrating consistent growth in demand for the rest of the end markets served by our industrial and healthcare Solutions segments, which I'll detail for you shortly.
+Q1 revenue of $121 million decreased 8.8% compared to the same period last year. Q1 revenue on a constant currency basis decreased 6.5%, reflecting the anticipated weakness in the dental orthodontics market. Q1 revenue from our nondental markets increased 12% on a constant currency basis compared to the same period last year. Specific to our segments, healthcare solutions revenue decreased 24.3% to $48.7 million compared to the same period last year.
+Healthcare solutions revenue on a constant currency basis decreased 23.4% versus the prior year due to continued softness in our dental orthodontic market as expected, which was down approximately 46% versus the same period in the prior year. Our dental orthodontic market had a particularly strong first half of 2022, followed by a significant decline in the second half of 2022, broadly due to adverse macroeconomic conditions. In our last earnings call, we mentioned that we expected this market to be down approximately 35% in 2023, and that view remains unchanged today. For the remainder of our healthcare solutions business, revenue from our nondental markets was up by more than 22% on a constant currency basis versus the same period last year.
+And we continue to expect double-digit growth in this business, driven by strength in both the orthopedic market and the CMS space on the basis of increased market adoption and technical advancements. Turning now to our industrial solutions segment, where revenues increased 5.6% to $72.5 million compared to the same period a year ago. As we noted in the past, our industrial solutions segment is more exposed to FX rate movements than our healthcare solutions business. Excluding the impact of FX, industrial solutions revenue increased by over 9% versus the prior year, driven by strong performances in consumer auto and OEM, academic and research, and electronics and connectors.
+Jewelry and service bureaus continue to be key markets for industrial solutions. Moving now to gross profit on Slide 14. Gross profit margin in the first quarter of 2023 was 39% compared to 40% in the same period last year. Non-GAAP gross profit margin was 39% compared to 41% in the same period last year.
+The decrease was primarily due to lower overall sales volumes resulting in reduced fixed cost leverage, unfavorable sales mix, and input cost inflation. On a sequential basis, non-GAAP gross profit margins were down by approximately 200 basis points due to normal seasonal trends, with the lower volumes driving lower fixed cost leverage. We maintain our view that full-year gross profit margins will be between 40% and 42% for the year. I'll speak more on seasonal impacts to gross profit margin shortly.
+Moving now to Slide 15. Adjusted EBITDA decreased by $12 million to negative $10 million in the first quarter of 2023 compared to the same period in the prior year. The decrease in adjusted EBITDA primarily reflects lower sales volumes in our digital orthodontics market and inflationary impacts on our input costs, as well as spending in targeted areas to support future growth including expenses from acquired businesses, research and development costs, as well as investments in regenerative medicine and corporate infrastructure. Net loss of $29.4 million resulted in a diluted loss per share of $0.23 and a diluted non-GAAP loss per share of $0.09.
+The year-over-year EPS decline reflects all the factors that we previously discussed. Turning now to Slide 6 for an update on our balance sheet. We ended the quarter with approximately $530 million of cash and short-term investments on hand, which is down $39 million from year-end levels. The decrease resulted primarily from normal seasonal use of cash from operations of $28 million, capital expenditures of $9 million, and taxes paid to net share settlement of equity awards of $2 million.
+We continue to have a strong balance sheet with sufficient cash to support organic growth and our investments in our pre-commercial businesses, and we maintain our view that we will achieve breakeven or better free cash flow during 2023. I'll conclude my remarks on Slide 17 with an update on our restructuring efforts and our updated full-year 2023 guidance. Last night, we announced the next phase of our restructuring initiative to improve operating efficiencies throughout the organization in order to drive long-term value creation. The next evolution of this restructuring initiative will target a reduction in headcount by approximately 6% of our workforce, which is being enabled by prior investments made to improve business processes, operational efficiencies gains, and continued integration of acquisitions completed over the last two years.
+We expect this initiative to reduce operating expenses by approximately $4 million to $6 million in 2023 and provide annualized savings of $9 million to $11 million beginning in 2024. This is in addition to the restructuring initiatives that we announced earlier this year, which we continue to expect will deliver savings of $2.5 million to $3.5 million in 2023 and $5.5 million to $7 million in 2024 and beyond. We expect the combined impact of both initiatives to deliver $6.5 million to $9.5 million of savings in 2023 and $14.5 million to $18 million in 2024 and beyond. As a result of this most recent phase of our restructuring initiative and our unchanged views on the fundamental drivers of demand growth, we are raising our full-year 2023 adjusted EBITDA guidance to $2 million or better and reaffirming our guidance for revenues, which we continue to believe will be in the range of $545 million to $575 million; non-GAAP gross profit margins, which we continue to expect to be in the range of 40% to 42%; and free cash flow, which we expect to be breakeven or better in 2023.
+I'd also like to note, as Jeff mentioned earlier, this guidance includes expected investments of $10 million to $12 million in Systemic Bio and our regenerative tissue program this year. Before I conclude my prepared remarks, I'd like to talk briefly again about our expected pacing of revenues throughout the year, where I'll point you to my seasonality comments from earlier this morning as well as from our last earnings call. The short message is that if you apply our full-year sales guidance to the distribution of 2021 actual sales by quarter, it should provide an indicative view of how we would expect 2023 to unfold. This will also have an impact on our quarterly gross profit margins due to volume impacts on fixed cost leverage resulting in lower margins in the first half of the year and higher margins in the second half of the year.
+We believe that the prudent actions we continue to take are necessary and demonstrate our ability to harvest productivity gains and efficiencies, drive organic growth, and deliver on our commitments to profitability and enhancing long-term value creation for our future. That concludes my remarks. Operator, we are now ready to open the line for questions.
+Questions & Answers:
+Operator
+[Operator instructions] Our first question today is coming from Troy Jensen from Lake Street Capital. Your line is now live.
+Troy Jensen
+--
+Lake Street Capital Markets -- Analyst
+Hey, gentlemen. Good morning. Thanks for taking my question here. Maybe quick first for you, Jeff.
+The strength in industrials, is it primarily DMLS? Or what technologies are most upside in that vertical?
+Jeff Graves
+--
+President and Chief Executive Officer
+So, good morning, Troy. First of all, thanks for the question. And also the prior questions that you've asked, that's part of the response that we included in the script this morning. Are you asking about what technologies are driving the growth, Troy?
+Troy Jensen
+--
+Lake Street Capital Markets -- Analyst
+Yeah. I just see there's been a lot of strength in metals is what I'm going to if you look at a couple of your competitors have reported, and I'm just wondering if that's the specific technology that's benefiting the most in industrials.
+Jeff Graves
+--
+President and Chief Executive Officer
+No, encouragingly, Troy, it's pretty broad-based. I mean metals has done well this year. And metals -- clearly, additive for metals is being adopted more widely now, and we're benefiting from that. I would also tell you, though, our polymer platforms are doing quite well.
+And that's full spectrum from SLA and DLP doing quite well, and our new extrusion platform with Titan is doing well. So across our MJP platform, it is in big demand as well. So it's very broad-based, both from a technology standpoint, Troy, and from an end market standpoint.
+Troy Jensen
+--
+Lake Street Capital Markets -- Analyst
+Glad to hear. So -- and speaking to that, your Q1 was somewhat soft, I guess, versus consensus, but you're maintaining full-year guidance. So just talk about visibility in the second half. And in conjunction, Mike, if I just take 22% in Q1 versus what you guys just printed, that gets us like a revenue number of about $550 million.
+So is that what you're endorsing specifically? Or what's the basis now?
+Michael Turner
+--
+Executive Vice President, Chief Financial Officer
+So the way I would talk about revenues for the year, Troy, if you just take our -- the previously provided guidance range of $545 million to -- what was it?
+Jeff Graves
+--
+President and Chief Executive Officer
+$575 million.
+Michael Turner
+--
+Executive Vice President, Chief Financial Officer
+$575 million. Just take wherever you want along that path and just kind of plot it against the 2021 distribution of quarterly revenues.
+Troy Jensen
+--
+Lake Street Capital Markets -- Analyst
+Got it.
+Michael Turner
+--
+Executive Vice President, Chief Financial Officer
+And that's largely how we think it would hold out. So literally using the midpoint, it'd be like -- yeah, you can do the math. So just take the numbers and using seasonality.
+Jeff Graves
+--
+President and Chief Executive Officer
+And then, Troy--
+Troy Jensen
+--
+Lake Street Capital Markets -- Analyst
+Visibility, though, in the second half to--
+Jeff Graves
+--
+President and Chief Executive Officer
+Yeah. That's what I was just gonna comment on, Troy. As you know, it's a crazy world right now, and we see no reason to change our outlook that things are gonna kind of go along as planned. We've paid particular attention to the clear aligner market to track that one.
+It's a big influence on us. But -- and we baked that in, what we expect there, and we'll try to be very transparent on the call on what we expect. The rest of the market, we're assuming basically continues. The behavior is the -- it looks like inflation is coming down a bit, the interest rate.
+And hopefully, the interest rate increases will kind of moderate, at least the increases. We're not expecting a booming economy or a big bust. We're kind of projecting along the way. So we'll have more clarity after the second quarter.
+But I think our estimates right now are very reasonable, given what we all know about the world. But I think they're quite reasonable, and they assume no heroics in terms of economic performance out there by any country or region.
+Troy Jensen
+--
+Lake Street Capital Markets -- Analyst
+Perfect. And thank you for that $10 million to $12 million regenerative investment. I think that's important to know. Good luck, guys.
+Jeff Graves
+--
+President and Chief Executive Officer
+Thank you, Troy.
+Michael Turner
+--
+Executive Vice President, Chief Financial Officer
+Thanks, Troy.
+Operator
+Thank you. Your next question is coming from Jim Ricchiuti from Needham & Company. Your line is now live.
+Chris Grenga
+--
+Needham and Company -- Analyst
+Hi. Good morning. This is actually Chris Grenga on for Jim. Good morning.
+Are you seeing any difference--
+Jeff Graves
+--
+President and Chief Executive Officer
+Good morning.
+Chris Grenga
+--
+Needham and Company -- Analyst
+Are you seeing any difference in demand trends across geographies? Any relative strengths or weaknesses that are worth considering there?
+Jeff Graves
+--
+President and Chief Executive Officer
+No, it's -- we sell primarily into the U.S. and European markets, and I would say it's fairly uniform across both. I think they're both experiencing the same kind of economic ups and downs, and both geographies are exposed to the same geopolitical risks. So there's been no significant difference between them.
+And we're seeing strength in outside -- again, outside of dental orthodontics, we're seeing strength across the board in both economies for our technologies.
+Chris Grenga
+--
+Needham and Company -- Analyst
+And if you could, what rate of decline in dental did you see excluding the largest customer?
+Michael Turner
+--
+Executive Vice President, Chief Financial Officer
+We don't typically break it out like that. I mean on the slide of the presentation, you can see that we've lumped all of dental together, and it was down. We quoted 46%, and we maintain our view that we'll be down 35% for the full year, just given my comments earlier that the dental had a particularly strong first half of 2022, followed by a weaker second half. So the comps in the first half will be a little more negative than they are gonna be in the second half.
+Jeff Graves
+--
+President and Chief Executive Officer
+So just to give you a little bit more color to the -- clearly, our dental business, and I think the dental business for additive in total is really dominated right now by orthodontics. But that will be changing in the next several years here as printing really, I believe, transforms that industry in the movement in dentures, partial denture, and other dental implants, and things that are kind of in their infancy right now. But we expect that to be a nice growth driver over the next few years, and that technology has come along quite nicely. But today, as Michael pointed out, it's really dominated by orthodontics.
+Chris Grenga
+--
+Needham and Company -- Analyst
+Great. Thanks. And just to confirm, the cost savings in connection with the restructuring initiative, those are all-in operating expense, correct?
+Michael Turner
+--
+Executive Vice President, Chief Financial Officer
+No. There's -- I mean I would call it roughly 15% that are gonna be included in gross profit with the rest of opex.
+Chris Grenga
+--
+Needham and Company -- Analyst
+Thanks very much. I'll take the rest offline.
+Michael Turner
+--
+Executive Vice President, Chief Financial Officer
+All right. Thank you.
+Jeff Graves
+--
+President and Chief Executive Officer
+Thanks, Chris.
+Operator
+Thank you. Your next question today is coming from Paul Chung from J.P. Morgan. Your line is now live.
+Paul Chung
+--
+JPMorgan Chase and Company -- Analyst
+Hi. Thanks for taking the question. So can you expand on how to think about the TE Connectivity kind of partnership? What the ramp there is? How material it can be doing the kind of very strong revenues in COGS you see at TE? Was this partnership kind of embedded in the initial guide given last quarter or kind of incremental or too early to tell?
+Jeff Graves
+--
+President and Chief Executive Officer
+Yes, I would say it's embedded. And I would say it's still -- in terms of development and white-scale acceptance, it's still in early days. The reason -- there's a couple of reasons we're really excited about it. Number one, the -- just the basic logic behind moving to additive for connectors, and what I refer to as kind of the tail of their curve in terms of part types.
+They literally make millions of different types of connectors, but there's a long tail on -- in terms of lower volume, high mix, complicated polymer connectors that additive really works well for, the economics really work out nicely for. And the limiting factor there has been No.1 throughput on the machines. And that's really gotten there, which is great. But also the materials development and process along with that, you have to have -- you have to print a very high precision, very reproducibly, and they have to be printed with special materials that are -- that have flame retardancy and other characteristics as blessed by the Underwriters Labs, UL.
+So getting all of that correct has taken some time, and we're very close to having all of that finished up and be really moving into basically scaling development now with them as a partner. So that's why we jointly went public with our cooperative agreement. The ultimate potential for connectors is enormous. It could easily become a dominant revenue stream for us over the coming years.
+The pace of adoption will take a few years to ramp. And they have factories all over the world to accommodate, which gets back to the reliability and robustness of fleets of printers. So the direction we're headed as a company is to address those markets, where you're installing tens or hundreds of printers. You link them together with intelligent software, and you put a high-value material through those printers to deliver value to the customer.
+Those are the three legs of the stool that you have to get right. We've been working with TE for a number of years now, and it's gotten to the point of maturity where we both wanted to be very public about it, and we believe it's a great trend for the future. So it certainly has the potential to become a very large customer for us, a very large marketplace, and it's an excellent application and example of additive.
+Paul Chung
+--
+JPMorgan Chase and Company -- Analyst
+Great. And then on Wematter, can you expand on some of the details there, how that decision came about, where you're looking to kind of gain share, who the main competitors are in your view, and how you're positioned for the project in the U.S.? Any details on the installed base?
+Jeff Graves
+--
+President and Chief Executive Officer
+Yes.
+Paul Chung
+--
+JPMorgan Chase and Company -- Analyst
+Yes, go ahead.
+Jeff Graves
+--
+President and Chief Executive Officer
+I'm sorry, Paul. Go ahead and finish your question.
+Paul Chung
+--
+JPMorgan Chase and Company -- Analyst
+No, just a comment on the revenue margin profile and any other details.
+Jeff Graves
+--
+President and Chief Executive Officer
+Yeah, yeah. So any market -- I can tell you from a March standpoint, any market we're moving into now, we are -- we have a long-term goal of having 50% gross margins. And any market we move into with any technology has that potential. So I would tell you, we have every confidence that Wematter can live into that.
+Their machine -- and I'm not sure if you were at the RAPID tradeshow or not. I'm told that you were.
+Paul Chung
+--
+JPMorgan Chase and Company -- Analyst
+Yeah.
+Jeff Graves
+--
+President and Chief Executive Officer
+If you saw that unit, it is really a clever unit. It's got a small footprint, so it can go in factories of all sizes. And obviously, you can sell many of them that are a big factor, but you can also access smaller factories. It is very self-contained and has an excellent recycling capability that's kind of unique in the industry.
+It has three times the build volume of other competitive products on the market, and there are very few of them today. There are very few products for that footprint that access that part of the market. It has three times the volume, the print volume is the leading competitor out there, and we can sell it very close to the same kind of price point. So we can access the same type of customer base.
+So we are very bullish on that technology. And it's always a choice of make or buy in terms of spending your R&D money. This came along, and we initially signed up a selling agreement with them to market product, and it was so popular with our channel partners that we said this is a technology we really wanna own and run fast with. So we like it a lot.
+It's an excellent group of engineers up in Sweden. Very smart guys that have done a really good job of getting this unit designed and built. And again, we can give you some more metrics on the machine itself as we publish them. But it's small, fast, and yet it's got a very big printing footprint, and the recycling capability is unmatched.
+So it's really clever. So I'm very bullish on that entire value proposition. We've gotten the approvals we need, or they have gotten the approvals they needed in Europe to sell it. We're still working our way through the approvals in North America.
+That's a matter of timing. So we'll get all those in hand. The deal closed in July, and our objective is to be in market as quickly as we can.
+Paul Chung
+--
+JPMorgan Chase and Company -- Analyst
+Great. And then lastly, on free cash flow. Where can we expect inventories to kind of shake out as we exit the year? Are there any kind of risk to write-downs there? And given kind of heavy investments in working cap last year, what are some levers to kind of drive some upside to guidance there? And capex guide as well would be helpful. Thank you.
+Michael Turner
+--
+Executive Vice President, Chief Financial Officer
+Yeah. So thank you for the question. Yeah. So free cash flow, obviously, we have the build of inventory, the heavy investment in inventory in the second half of last year as we in-source into our Rockville, South Carolina facility.
+We had to purchase inventory related to that. So obviously, we've got a pretty big lever to pull there as we work down to that inventory. I don't see a significant risk of any inventory write-offs. I mean we're constantly evaluating our inventory.
+The age of that inventory is no real significant issues there. But yes, that is gonna be a big lever that we pull as we work down inventories, and we have a dedicated team working on that effort. So feel free to go about it.
+Jeff Graves
+--
+President and Chief Executive Officer
+Paul, A big motivator to in-source that manufacturing was we just believe we can manage that supply chain much better ourselves. The inventory we had to buy when we did that transaction was large, and we're gonna burn our way through it this year. I think we've got a good plan to do that free up cash from inventory. To Michael's point, it's all good inventory.
+It's virtually all good inventory. We expect very few write-offs, and we'll just convert it to cash over time.
+Paul Chung
+--
+JPMorgan Chase and Company -- Analyst
+Great. Thank you so much.
+Jeff Graves
+--
+President and Chief Executive Officer
+Thanks, Paul.
+Michael Turner
+--
+Executive Vice President, Chief Financial Officer
+Thank you.
+Operator
+Thank you. Next question is coming from Brian Drab from William Blair. Your line is now live.
+Brian Drab
+--
+William Blair and Company -- Analyst
+Hey, thank you. I've had a really choppy signal for some reason, so I hope you can hear me. Can you talk at all about -- especially with the new agreement that you have signed or have in the works for Bio? When do you think that this is going to be a revenue-generating business? Are you getting any more visibility to that?
+Jeff Graves
+--
+President and Chief Executive Officer
+Yeah, Brian. And by the way, you're coming through just fine. Yes, I was thrilled to get our first contract from a major pharmaceutical company, and it's one that everybody worldwide very aware of. It's a great endorsement of the technology, and we look forward to that collaboration.
+It will stretch out for several years now. And the way those companies work, the first one is hard to land in a lot of bureaucracy, as you might imagine. So you work your way through that, and it's taken some time. We have several more in the pipeline that we're working hard on now.
+I'd be disappointed if we didn't have a couple of more contracts this year. And along with that, I wish we could announce names and sizes. Hopefully, we'll be able to do that more in the future. All in all, clearly, we mentioned the investment we're making in that business and in our soft tissue business this year of $10 million to $12 million.
+We expect to start generating revenue next year in Systemic Bio to start generating revenue next year. The revenue generated this year, we really haven't factored into our guidance. So there may be there may be some positive upside on that one, but we're mainly targeting it for next year. And then I think you'll see a fairly rapid climb to be cash flow breakeven and then growing from there.
+That's the game plan.
+Brian Drab
+--
+William Blair and Company -- Analyst
+OK. Thanks. And I know you answered some questions on Wematter, but I'm just not very familiar with the company. And I don't know if I missed it, but did you say what their installed base is? And is there any way you could comment, even like with the range, how much that acquisition cost? Or do we have to wait, I guess, maybe to the second quarter 10-Q?
+Jeff Graves
+--
+President and Chief Executive Officer
+Yeah. It's -- we don't -- so a couple of comments on that, Brian. We don't expect any material -- we haven't modeled any material revenue in the business this year from those guys. We closed in July.
+We're still working our way through the approval in the U.S., as I mentioned. And they are now, we will be, when we wrap up the deal. We didn't mention the investment. I would tell you, you can imagine it's a small kind of mature R&D-type investment.
+In terms of the installed base, their customer feedback has been very positive, and our channel partner feedback. They do not have a huge installed base today. But when we look at their competitive position, we're very optimistic about how they'll do in the market. And there's clearly room for other players as well.
+It's a big and growing market for small-footprint SLS for industrial applications. So we're bullish on them. They don't have a big installed base today. They've got some -- an excellent product and a couple of more coming, and we're excited about it.
+In terms of the spend on it, it was modest. And certainly, we got there a lot faster and with less cost than we would have on our own in this case.
+Brian Drab
+--
+William Blair and Company -- Analyst
+Got it. Yeah, I know that's a growing subsegment in the market, so it makes sense. I'll follow up more later. Thank you.
+Jeff Graves
+--
+President and Chief Executive Officer
+Thanks, Brian.
+Operator
+Thank you. Next question today is coming from Shannon Cross from Credit Suisse.
+Ashley Ellis
+--
+Credit Suisse -- Analyst
+Hi. Thank you. This is Ashley Ellis on for Shannon this morning. First, could I just clarify the restructuring savings targets? Are those net or gross?
+Michael Turner
+--
+Executive Vice President, Chief Financial Officer
+Those would be -- you mean net of the -- of any severance or exit costs, Ashley? Is that what you're asking?
+Ashley Ellis
+--
+Credit Suisse -- Analyst
+Well, are you expecting the majority to fall through to the bottom line?
+Michael Turner
+--
+Executive Vice President, Chief Financial Officer
+Oh, yeah, yeah. The $4 million to $6 million range that we set for 2023, yes, we expect that to fall straight through to EBITDA.
+Ashley Ellis
+--
+Credit Suisse -- Analyst
+OK. And then with the decision to manufacture more metal systems in-house, is that a result of kind of the success you've seen in Rock Hill? Or is that -- is it a different transaction? How should we think about capex and inventory for that?
+Jeff Graves
+--
+President and Chief Executive Officer
+Yeah. It's a different location. So we've insourced metals. We were -- we manufacture our metal printers in Europe.
+And we've insourced into Riom, France, an existing plant in Riom. So Riom will now make our small and mid-frame metal systems, and our large metal printing system is still outsourced in Belgium. So obviously, we model our savings based on doing that and much more control of our supply chain going into it. So again, I think it's a great move.
+There should be modest inventory changes with that. It's -- we're taking from a very good manufacturer of the product outside. So it's not nearly the impact on inventories that we experienced with the prior insourcing in Rock Hill.
+Ashley Ellis
+--
+Credit Suisse -- Analyst
+OK. Thanks for the details. And then I just wanted to better understand kind of the puts and takes for gross margin through the year. I know you pointed to 2021.
+But if I look at 1Q '21 and what you did for the full year, it was a step-down and maybe that was due to some divestitures and stranded costs. But could you kind of help me bridge that from 39% to 42%?
+Michael Turner
+--
+Executive Vice President, Chief Financial Officer
+Yeah, that's a great question, Ashley. And you're right, there's been nothing but choppiness and kind of confusion over the past two years as it relates to gross profit as we adjusted to the change of the macroeconomic conditions that we have some divestitures, so on and so forth. But in general, I think you should think about our gross profit margins. There's obviously a fixed component there.
+So as we scale on the top line, we'll get some leverage in that gross profit margin. So the short answer here, I think, is that the gross profit margin that we turned in in Q1 was exactly in line with what we expected. And we kind of expect that to start stepping up kind of steadily as we progress through Q2, Q3, and then Q4 to settle out in that range of 40% to 42% for the full year. So it is -- I agree, it's difficult to look back at prior years and really understand the trends, but that's what you can expect for this year.
+Ashley Ellis
+--
+Credit Suisse -- Analyst
+OK. Thank you very much for the details.
+Jeff Graves
+--
+President and Chief Executive Officer
+Thanks, Ashley.
+Michael Turner
+--
+Executive Vice President, Chief Financial Officer
+Thanks, Ashley.
+Operator
+Thank you. Your next question is coming from Greg Palm from Craig-Hallum. Your line is now live.
+Greg Palm
+--
+Craig-Hallum Capital Group -- Analyst
+Hi. Good morning. Thanks. I appreciate the quarterly color this time around.
+I'm just curious, if you think back to Q4 when you reported, and you didn't give this color, how did the quarter shake up relative to internal expectations? And I guess have you seen anything different these last months from customer behavior that gives you any sort of concern for the rest of the year?
+Jeff Graves
+--
+President and Chief Executive Officer
+Yeah. That's a great question. I'll start out, and I'll let Jeff kind of fill in some blanks here. But we did mention in the earnings call and in our kind of prepared remarks last time that we would expect the unfolding of 2023 revenue by quarter to be very similar to 2021 revenue by quarter.
+But to answer your question, if you would just kind of to do the math and you took, say, the midpoint of our guidance range and you applied it to that 2021 distribution, then yeah, I mean I think it's fair to say we fell toward the bottom end of the range but still above the bottom end of the range. Just -- that's just normal puts and takes in quarterly distribution. But as we commented, it came in roughly as expected. So no real surprises internally for us.
+Michael Turner
+--
+Executive Vice President, Chief Financial Officer
+Yeah, Greg, if you looked at -- in terms of our internal estimates, I think the year is shaping up exactly as we had kind of thought it would in Q4. And I know it's always difficult externally to get the quarterization correct, but we were not surprised by Q1 performance. In fact, it's nice to see a degree of normalcy in terms of puts and takes. As Michael said, that's the normal noise within a quarter.
+But nicely, the -- if anything floated out of the quarter, it was -- it's still in folks' plans, and it's still working its way through. I think the world is nervous, and so you see things -- you see purchase orders and things kind of dragging a little bit more as people are spending capex. The good news is they have the money to spend. That's encouraging to have, a clear need to spend it.
+And they're just nervous, like all of us are, about the world situation and the economy. But it's -- we expect the year to unfold, as we would have told you in the fourth quarter when we did our earnings release for year-end. Second, we'll give another update in midyear. But right now, we feel pretty good about the guidance range on both revenue and EBITDA.
+Greg Palm
+--
+Craig-Hallum Capital Group -- Analyst
+I guess I'm trying to tie up that commentary because it feels like we're sort of anything but normal this year. And obviously, the guidance assumes a much more heavily back half year and a pretty significant ramp in Q4. So what gives you the visibility now just given all of the uncertainties out there that you can sort of achieve normal seasonality as compared to 2021?
+Jeff Graves
+--
+President and Chief Executive Officer
+It's -- well, I'd tell you, Greg, in this space, when you're selling into factories, into industrial environments, purchase orders aren't placed without a lot of prior discussion. So I would tell you, our revenue forecast is based on really solid, I'd call them, longer-term discussions around capital needs of our customers. And it generally is capex, it's not opex from our customer standpoint. And they talked to us a long time, do a lot of trials before they place a purchase order.
+So we do have -- we may not get the timing exactly correct. But we do have a very good feel for purchase order forecast, what's in the pipeline, and what's coming. And you can always be surprised, and that's why we always give kind of a midyear update after Q2. That's probably a little bit more precise in the second half.
+But I would tell you right now, and it's -- the world has anything been normal. But if you didn't know that, if you didn't open a newspaper, and you just looked at the business flow day-to-day, you'd say, "Oh, this feels pretty normal. It's not much out of the ordinary."
+Michael Turner
+--
+Executive Vice President, Chief Financial Officer
+The only other thing I would add to that is kind of some fundamental pillars of our guidance we provided at the -- for year-end. We said that we expect dental to be down 35%, and we kind of pointed to mid-teens growth in the rest of the business. And we sit approximately right there today, right? We grew it a little over 12% in the rest of our business. So things from our perspective are coming in as planned.
+I mean there's a lot of year left, and there's puts and takes with the rest of the lot of the year. But where we sit right now, we still feel really good about our outlook.
+Greg Palm
+--
+Craig-Hallum Capital Group -- Analyst
+Yes. OK. I appreciate that. And then just last one, just a clarification, on the adjusted EBITDA guide.
+Is that based on sort of the midpoint of the guide for the year? Or do you think you can achieve that even toward the lower end?
+Michael Turner
+--
+Executive Vice President, Chief Financial Officer
+It's a great question, so let me just kind of walk you through it a little bit. We'll start at the midpoint. If you just take the midpoint of our guidance range and you again apply that 2021 distribution of revenue, and then you just kind of assume our Q1 opex and just on a non-GAAP basis, just for clarity, that's roughly $6.5 million. If you just assume that that runs out and then we've got a steady depreciation, add back of a little over $5 million, and then you drop in the midpoint of our savings range of $5 million, I mean that would get you in a range of, call it, $4 million to $6 million of EBITDA just at the midpoint.
+So if you do that same math at the lower end of the range, you're gonna be in and around breakeven EBITDA. We saw plenty of levers left to pull if we go that direction. We're absolutely committed to hitting that $2 million number, and I think we just added more certainty to that with the actions that we've taken with the restructuring.
+Greg Palm
+--
+Craig-Hallum Capital Group -- Analyst
+Understood. All right. Thanks.
+Michael Turner
+--
+Executive Vice President, Chief Financial Officer
+Yeah, thank you.
+Jeff Graves
+--
+President and Chief Executive Officer
+Thanks, Greg.
+Operator
+Thank you. Your next question is coming from Alek Valero from Loop Capital Markets. Your line is now live.
+Alek Valero
+--
+Loop Capital Markets -- Analyst
+Hey, how's it going, guys? Good morning. Thanks for taking my question. It's actually Alek stepping in for Ananda. So my question is, so given the current cost savings programs that you guys announced last evening, how should we think about the right cost structure for the current revenue run rate? Are you guys there now? And additionally, if this is appropriate cost structure, can you guys maybe provide some context or some color around how we could think about operating leverage potential over the next few years?
+Michael Turner
+--
+Executive Vice President, Chief Financial Officer
+Yeah, it's a great question. And thanks for asking, Alek. So I think the way I would answer that question is there's certainly a component of volume scale, and we've got the balance sheet to kind of weather the storm right now. And so we're preparing to see some steel growth over the next few years, which will get our operating expenses more in line with our target percentage of revenue.
+So I think right now, we're a little higher than we wanna be. The restructuring efforts we just took, that were enabled by some of the optimizations that we put throughout the business. I think we'll help with that. So I think we're in the right ballpark.
+But certainly, volume scale is a strong component of it as we move forward.
+Alek Valero
+--
+Loop Capital Markets -- Analyst
+Awesome. Thanks for that. And just as a quick follow-up. Can you guys maybe update us on how you guys are thinking about M&A currently? And maybe like what areas of focus you guys are looking at?
+Michael Turner
+--
+Executive Vice President, Chief Financial Officer
+From an M&A standpoint?
+Jeff Graves
+--
+President and Chief Executive Officer
+M&A for us, M&A would be very -- for both of us is very modest, very opportunistic. There's -- we have a very robust internal development activity. And again, we spend an appropriate amount of money on both hardware, software, and materials as a key part of our investment strategy. We really have most of the assets we need.
+Occasionally, you get something coming along like Wematter that we can plug in into a niche in the market. That is really a nice quick payback on the investment. But more and more, we're well suited to do that ourselves. The industry itself has been going through a lot of changes.
+So I don't know on a larger scale what may come. But I feel great about our balance sheet. We've got well over $0.5 billion of cash on the balance sheet. We'll be EBITDA positive this year and cash flow -- free cash flow breakeven or better.
+So we feel really good about our balance sheet should something come along that's of interest to us. But in terms of meeting anything, we're in pretty good shape. Does that answer your question, Alek?
+Alek Valero
+--
+Loop Capital Markets -- Analyst
+It does. Very helpful. Thank you so much.
+Jeff Graves
+--
+President and Chief Executive Officer
+You're welcome. Thanks.
+Operator
+Thank you. We reached the end of our question-and-answer session. I'd like to turn the floor back over to Jeff for any further or closing comments.
+Jeff Graves
+--
+President and Chief Executive Officer
+Thanks, Kevin. So just a quick thanks to everybody for joining us this quarter. We look forward to updating you again after next quarter's results. Until then, be well, and thanks for calling in.
+Operator
+[Operator signoff]
+Duration: 0 minutes

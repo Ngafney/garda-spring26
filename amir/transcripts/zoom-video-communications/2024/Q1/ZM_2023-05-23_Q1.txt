@@ -1,0 +1,512 @@
+Kelcey McKinley
+Well, hello, everyone, and welcome to Zoom's Q1 FY '24 earnings release webinar. As a reminder, today's webinar is being recorded, and now I will hand things over to Tom McCallum, head of investor relations. Tom, over to you.
+Tom McCallum
+--
+Head of Investor Relations
+Thank you, Kelcey. Hello everyone, and welcome to Zoom's earnings video webinar for the first quarter of FY '24. I'm joined today by Zoom's founder and CEO, Eric Yuan; and Zoom's CFO, Kelly Steckelberg. Our earnings press release was issued today after the market closed and may be downloaded from the investor relations page at investors.zoom.us.
+Also, on this page you'll be able to find a copy of today's prepared remarks and a slide deck with financial highlights that, along with our earnings release, include a reconciliation of GAAP to non-GAAP financial results. During this call we will make forward-looking statements, including statements regarding our financial outlook for the second quarter and full fiscal year 2024; our expectations regarding financial and business trends; impacts from the macroeconomic environment, our market position, opportunities, go-to-market initiatives, growth strategy and business aspirations; and product initiatives and the expected benefits of such initiatives. These statements are only predictions that are based on what we believe today, and actual results may differ materially. These forward-looking statements are subject to risks and other factors that could affect our performance and financial results, which we discuss in detail in our filings with the SEC, including our annual report on Form 10-K and quarterly reports on Form 10-Q.
+Zoom assumes no obligation to update any forward-looking statements we may make on today's webinar. And with that, let me turn the discussion over to Eric.
+Eric Yuan
+--
+Founder and Chief Executive Officer
+Thank you, Tom. Thank you, everyone, for joining us today. As we continue to execute on the strategic focuses, which I shared with you last quarter, we are grateful for the support, feedback, and trust that we have received from our customers and investors. Last month, we closed our acquisition of Workvivo, which we are super excited about.
+Workvivo is a modern employee communication and engagement platform. Their solution combines a social intranet and employee app into one central hub, forming the heart of a company's digital ecosystem. Incorporating Workvivo's feature-rich technology into our all-in-one collaboration solution will allow us to offer Zoom customers a unified platform that keeps knowledge workers and front-line employees informed, engaged, and connected throughout the workday, regardless of in-person, remote, or hybrid work style. According to Enterprise Apps Today, communicative employers have mobile workers who are five times more productive and feel three times less burned out.
+The Workvivo team is working hard to capitalize on this opportunity and is 100% aligned with our culture of delivering happiness to customers and employees. We are so excited to join forces with Workvivo and help our customers raise the bar for employee communication and engagement. Last quarter, we reiterated our strong positioning in AI, and highlighted our expanded vision to see generative AI permeate and elevate productivity across our portfolio. In Q1, we made considerable progress toward that vision.
+We outlined our approach to AI is to drive forward solutions that are federated, empowering, and responsible. Federated means flexible and customizable to businesses' unique scenarios and nomenclature. Empowering refers to building solutions that improve individual and team productivity, as well as enhance the customer experience. And responsible means customer control of their data with an emphasis on privacy, security, trust, and safety.
+At Enterprise Connect, we unveiled Zoom IQ's new set of in-beta features, leveraging generative AI to support chat and email compose, and meeting summary. We are also building new features to summarize long chat threads, catch up tardy meeting participants on what they missed, and brainstorm in Whiteboard. Last week, we announced our strategic investment in Anthropic, an AI safety and research company, working to build reliable, interpretable, and steerable AI systems. Our partnership with Anthropic further bolsters our federated approach to AI by allowing Anthropic's AI assistant, Claude, to be integrated across Zoom's entire platform.
+We plan to begin by layering Claude into our contact center portfolio, which includes Zoom Contact Center, Zoom Virtual Agent, and, now in beta, Zoom Workforce Engagement Management. With Claude guiding agents toward trustworthy resolutions and powering self-service for end-users, companies will be able to take customer relationships to the next level. Now, moving on to some of our customer wins. I would like to thank Major League Baseball.
+MLB has long used the power of the broader Zoom platform to strengthen its connection to fans and teams. And this quarter we expanded our relationship by launching a first-of-its-kind partnership that leverages Zoom Contact Center to enhance real-time replay reviews and deliver increased transparency to baseball fans. By introducing Zoom technologies into operations on and off the field, MLB strives to create an engaging and unique experience for its fans and teams. I would like to thank Virginia Tech for expanding our relationship by adding more than 10,000 Zoom Phone seats, as well as Zoom Contact Center to their Zoom Meetings deployment.
+We brought responsiveness, reliability, and regulatory compliance to this large expansion. And Virginia Tech will leverage Zoom's unified communications platform to build a next-gen solution integrated across meetings, phone, and contact center to serve the entire university community. I would also like to thank Vensure Employer Services, which has grown its workforce significantly the past few years through hiring and M&A. In Q1, Vensure expanded their existing footprint with us by adding approximately 10,000 Zoom Phone Seats and 800 Zoom Contact Center seats, as well as our AI-powered Zoom Virtual Agent and Zoom IQ for Sales.
+It is so exciting to see customers leverage our natively integrated phone plus contact center solutions and invest in our next generation AI-enabled products across their businesses. Finally, I want to thank My Plan Manager, Australia's leading services provider for the National Disability Insurance Program. MPM chose Zoom Contact Center for its attractive total cost of ownership, the deep integration with Salesforce, and the vision and future roadmap for customer experience. And our journey did not end with contact center.
+Appreciating the value of the platform, they also decided to standardize on Zoom One. We are so happy to partner with MPM to help them deliver a world-class customer and employee experience to their clients and disability service providers. Again, thank you so much MLB, Virginia Tech, Vensure, MPM, and all of our customers worldwide. And with that, I'll pass it over to Kelly.
+Thank you.
+Kelly Steckelberg
+--
+Chief Financial Officer
+Thank you, Eric, and hello, everyone. We are pleased that we beat our top-line and profitability guidance in Q1. Here are a few milestones. First, our non-GAAP gross margin of 80.5% exceeded our long-term target.
+Second, after adjusting for the three fewer days in the quarter, our online revenue was slightly up sequentially. And last, the moment you have all been waiting for, Zoom Phone surpassed 10% of revenue in the quarter. In Q1, total revenue came in at $1.105 billion, up 3% year over year and 5% in constant currency. This result was approximately $20 million above the high end of our guidance.
+Our enterprise business grew 13% year over year and represented 57% of total revenue, up from 52% a year ago. As I mentioned in the quarterly milestones, our online business improved meaningfully in the quarter as it benefited from many initiatives, including the price increase and buy flow optimization. In addition, we saw online average monthly churn decrease to 3.1%, from 3.6% in Q1 of FY '23, and 3.4% last quarter. We are pleased that this part of our business is stabilizing sooner than expected.
+The number of enterprise customers grew 9% year over year to approximately 215,900. Our trailing twelve-month net dollar expansion rate for enterprise customers in Q1 came in at 112%. We saw 23% year-over-year growth in the upmarket as we ended the quarter with 3,580 customers contributing more than $100,000 in trailing 12 months revenue. These customers represent 29% of revenue, up from 24% in Q1 of FY '23, and span diverse industries such as healthcare, education, government, and more.
+As expected we did experience some distraction across the global sales team due to the previously announced headcount reduction and subsequent sales reorganization. Despite the distraction, our Americas revenue grew 8% year over year, while EMEA and APAC declined by 8% and 5%, respectively. The decline in EMEA was primarily attributable to the outsized impact of the headcount reduction due to local regulations prolonging the process, the Russia-Ukraine War, and the stronger dollar. The decline in APAC was primarily attributable to the stronger dollar.
+Moving on to our non-GAAP results, which exclude stock-based compensation expense and associated payroll taxes, acquisition-related expenses, net litigation settlements, net gains or losses on strategic investments, undistributed earnings attributable to participating securities, restructuring expenses, and all associated tax effects. Non-GAAP gross margin in Q1 was 80.5%, an improvement from 78.6% in Q1 of last year and 79.8% last quarter. We are pleased that we have achieved our long-term target as we drove sequential improvement mainly due to optimizing usage across the public cloud and our co-located data centers. For FY '24, we still expect non-GAAP gross margin to be approximately 79.5%, reflecting additional investments in new AI technologies.
+Research and development expense grew by 25% year over year to approximately $106 million. As a percentage of total revenue, R&D expense increased to 9.6% from 7.9% in Q1 of last year, reflecting our investments in expanding our product portfolio including Zoom Contact Center, AI, and more. Looking ahead, innovation will remain a top priority for Zoom. Sales and marketing expense grew by 4% year over year to $278 million.
+This represented approximately 25.2% of total revenue, up from 24.9% in Q1 of last year. G&A expense declined by 10% to $84 million or approximately 7.6% of total revenue, down from 8.6% in Q1 of last year, as we focused on achieving greater back office efficiencies and savings. Non-GAAP operating income expanded to $422 million, exceeding the high end of our guidance of $379 million. This translates to a 38.2% non-GAAP operating margin, an improvement from 37.2% in Q1 of last year.
+Non-GAAP diluted earnings per share in Q1 was $1.16, on approximately 304 million non-GAAP diluted weighted average shares outstanding. This result was $0.18 above the high end of our guidance and 13% higher than Q1 of last year. Turning to the balance sheet. Deferred revenue at the end of the period was $1.4 billion, up 3% year over year from $1.3 billion.
+This is slightly above our guidance and primarily driven by renewals during our largest seasonal renewal quarter. Looking at both our billed and unbilled contracts, our RPO totaled approximately $3.5 billion, up 16% year over year from $3 billion. We expect to recognize approximately 59% of the total RPO as revenue over the next 12 months, as compared to 63% in Q1 of FY '23 and 56% in Q4 of FY '23. The sequential increase in current RPO as a percentage of total RPO was primarily due to shorter contract durations in recent enterprise deals arising from uncertainty in the macro environment.
+We expect Q2 deferred revenue to be down 2% to 4% year over year, which takes into account the recent trend of shorter durations on enterprise deals and our renewal seasonality, which peaks in Q1 and declines throughout the year. We ended the quarter with approximately $5.6 billion in cash, cash equivalents, and marketable securities, excluding restricted cash. We had operating cash flow in the quarter of $418 million, as compared to $526 million in Q1 of last year. Free cash flow was $397 million, as compared to $501 million in Q1 of last year.
+Our operating cash flow and free cash flow margins were 37.9% and 35.9%, respectively. Due to a net legal settlement expected to occur later this year, we are revising our cash flow outlook for FY '24. We now expect free cash flow to be in the range of $1.14 billion to $1.19 billion. In FY '24 and going forward, we expect our smallest cash tax payments to occur in Q1 and largest to occur in Q2.
+Now, turning to guidance. For Q2, we expect revenue to be in the range of $1.11 billion to $1.115 billion, which, at the midpoint, would represent approximately 1% year-over-year growth, or 2% in constant currency. We expect non-GAAP operating income to be in the range of $405 million to $410 million. Our outlook for non-GAAP earnings per share is $1.04 to $1.06 based on approximately 307 million shares outstanding.
+As our online business is stabilizing, we wanted to give you all some additional one-time color on how we see it playing out in the coming quarters. We expect our online revenues to be approximately $480 million in Q2 and be relatively flat thereafter in FY '24. We are pleased to raise our top-line and profitability outlook for the full year of FY '24. We now expect revenue to be in the range of $4.465 billion to $4.485 billion, which, at the midpoint, represents approximately 2% year-over-year growth or 3% in constant currency.
+We expect our non-GAAP operating income to be in the range of $1.63 billion to $1.65 billion representing a non-GAAP operating margin of approximately 37%. Our tax rate is expected to approximate the blended U.S. federal and state rate. Our outlook for non-GAAP earnings per share is $4.25 to $4.31, based on approximately 308 million shares outstanding.
+As we look to reignite growth and maintain strong profitability, we are committed to doing so in the right way. We are pleased to have recently issued our second ESG report, which includes additional data regarding our greenhouse gas emissions inventory, and recommits Zoom to achieving 100% renewable energy for our direct operations by 2030. Our core value of care is as important as ever. It's embedded in how our product fosters emissions reductions, while supporting greater inclusiveness.
+It is also evident in our corporate and employee-giving. You heard it from Eric. We are innovating extremely quickly to bring our customers the immense benefits of generative AI and empower modern collaboration. We are trusted and loved by our amazing and diverse set of customers.
+And we are fortunate to be one of the most recognized brands in the world. In Q1, we made some very tough decisions related to team size, structure, and incentives that have understandably caused distraction in the short term, but at the same time exemplify our commitment to long-term growth and profitability. With a focus on the future, we have refreshed our mission and vision: one platform delivering limitless human connection. Thank you to the entire Zoom team, our customers, our community, and our investors.
+With that. Kelcey, please cue up our first question.
+Kelcey McKinley
+Thank you so much, Kelly. And as Kelly mentioned, we will now move into the Q&A session. So, when I call your name, please turn on your video and unmute. And as a reminder, in an effort to hear from everyone, please limit yourself to one question.
+And our first question will come from Goldman Sachs' Kash Rangan. Kash, go ahead and come on video for us and unmute if you would, please. All right. Well, hearing no response, we'll go ahead and move on to Meta Marshall with Morgan Stanley.
+Meta Marshall
+--
+Morgan Stanley -- Analyst
+All right. I think I got mine to work. Perfect. Appreciate it.
+You know, I noted that you were taking down kind of -- or not taking down, but giving back some of the gross margin upside that you saw in the quarter and noted that that was for some of your investments. You know, Eric, I guess I'm just wondering how you were judging kind of bill versus buy when it comes to AI, or just where to leverage kind of the ecosystem of AI development that's going on versus investments that you want to make.
+Eric Yuan
+--
+Founder and Chief Executive Officer
+Thanks. Yeah, it's good question. I think it looks like everyone, you know, seem to have just woken up to AI. Actually, we have been busy AI for a few years.
+Looking at the positive several -- you know, two of the largest acquisitions, right, you know, Solvvy and Kites, right, all of them are AI-based. Internally, we also have AI team as well because we understand the importance of AI, you know, in particular during recently by the generative AI momentum. I think, first of all, we do have our own AI team. We have our own internally developed modules as well.
+We also take a very open approach. You know, essentially, we announced our, you know, the federated approach to AI. You know, we announced the collaboration with OpenAI at Enterprise Connect. We also doubled on our partnership with Anthropic recently as well.
+And the down the road, you know, maybe some open-source models available, we are also going to embrace that. Again, you know, we look at everything from a user perspective, right? You know, first of all, you know, we have a team really dedicated to AI. And also, when we sit down with the customers, sometimes customers say, "Yes, really like anthropic model. Yes, why not?" We double down that partnership.
+You know, we can leverage their API as well, right? So, we are taking a federated approach, which is to put it customer-centric, right? That's why we are very, very excited about this AI momentum can truly improve our product experience.
+Meta Marshall
+--
+Morgan Stanley -- Analyst
+Great. Thanks.
+Eric Yuan
+--
+Founder and Chief Executive Officer
+Thank you.
+Kelcey McKinley
+And moving on to Michael Funk with Bank of America.
+Michael Funk
+--
+Bank of America Merrill Lynch -- Analyst
+Yes. Hi. Thank you, guys. Another question for you, Eric, if I could just some more detail on how you think about AI integrating into your own platform.
+Do you think about it more as an enhancement or as a separate SKU? And then, how do you monetize AI within your platform?
+Eric Yuan
+--
+Founder and Chief Executive Officer
+Good question. I would say the answer is, you know, about both. You know, you take a, you know, our Zoom IQ for Sales, for example, right? It's extremely important, right? When you send all the sales people back at home or working remotely, how to help them, you know, to improve their productivity. That's the reason why we announced the Zoom IQ for Sales.
+And even before, you know, the generative AI momentum, right? And internally developing, you know, large language models really helped us, right? We can monetize that AI in Zoom IQ for Sales product. At the same time, you look at our feature-rich collaboration portfolio, you know, like a meeting summary, the email, and the chat compose email -- you know, composer chat message and a Zoom Contact Center virtual agent and also, you know, and recently, in beta, right, workforce management solution as well. All of them will be powered, you know, based on the AI, the platform, right? So, on the one hand, we love AI to look at almost every features we have to empower those features, you know, and also elevate the customer, you know, the product experience. At the same time, a lot of monetization opportunities, right? Zoom IQ for Sales is just one example, right, as there are more opportunities for us.
+Again, we think AI does bring tremendous opportunity for us because, you know, we focus on communication. I think Workvivo, for example, right, just acquired employee communication and engagement platform, you know, how to leverage AI to improve that product experience. That's another example. Again, full of opportunities here at the Zoom with AI.
+Michael Funk
+--
+Bank of America Merrill Lynch -- Analyst
+Great. Thank you, Eric.
+Eric Yuan
+--
+Founder and Chief Executive Officer
+Thank you.
+Kelcey McKinley
+All right. So, let's go to Kash again with Goldman Sachs. Kash, I think you're out there driving. So, he's going to stay off video.
+Kash Rangan
+--
+Goldman Sachs -- Analyst
+Exactly. Thank you very much. Appreciate you watching out for my safety. But just so you know that I'm not a bot, I'm a human.
+Just will turn on that video, very quickly on. So, Eric, I'm curious to get your take. So, I want you to, if you don't mind, drill a little bit deeper into generative AI. And while a lot of software companies are announcing partnerships with LLMs based on the content and data that they uniquely possess, we're also at a point where many companies are identifying very unique workflows and productivity scenarios that differentiate them going forward, right? So, in that regard, just so -- there's a scenario, everybody in UCAAS will ultimately have a generative AI strategy.
+So, when you start to have these LLMs work with your core products and given the vast user base and behaviors that you have contained in your knowledge base, how do you think Zoom is uniquely qualified to get productivity scenarios that are very unique to Zoom, sorry, using the same word again, that could be more enduring as a source of competitive advantage. Because the first chapter of UCAAS was all about providing that core capability of the technology, which you did an amazing job of. But I'm curious about the next leg of productivity growth and how you can take this company forward. Thanks so much.
+Eric Yuan
+--
+Founder and Chief Executive Officer
+Yes, good questions. We have a great integration with the Tesla cars, right? If you use to drive a Tesla, just one click and join the call. You know, even if you can come over the video, the audio will be always on anyway. So, back to your AI question, I think, first of all, if you look at the generative AI, you know, two things is very important, right? So first of all, if you do not start years back, just, you know given what's going on in AI industry, AI world, you say, oh my God, a lot of things.
+However, we already started investing in AI, a few years back. We should understand that. The reason why our Zoom IQ for Sales was developed to base on our own internally developed in large language models. Having said that, there are two things really important.
+One is the model, right? You know, OpenAI has modeled Anthropic and Facebook as well, Google and those companies. The most important thing is how to leverage these modules to fine-tune based on your proprietary data, right? That is extremely important when it comes to collaboration, communication, right? Take a Zoom, you know, employee, for example. We have so many meetings, right, and talk about every day, like our sales team, you know use the Zoom call with the customers. We accumulated a lot of, let's say, internal meeting data.
+How to fine-tune the model with this data is very important, right? Not only just for the AI model itself because it will evolve for sure, you know. And, also, we're also going to embrace. At the same time, how to leverage our proprietary data to fine-tune these AI models toward our industry, that's very important. Look at -- take a meeting, for example, right? I think that this is probably, you know we have more data than anybody else, right, given, you know all the past many years' experience, how to fine-tune that model, those data.
+And I think this is our unique -- will help us to deliver unique experience to customers. If any other company, you may have -- let's say, you have a greater AI model, however, how to fine-tune it? It's a lot of effort, right? That's the reason why we think that's, you know, something unique for us to truly empower AI to, you know, deliver a differentiated experience to our customers.
+Kash Rangan
+--
+Goldman Sachs -- Analyst
+Very persuasive. Thank you so much, Eric.
+Eric Yuan
+--
+Founder and Chief Executive Officer
+Thank you. Appreciate it.
+Kelcey McKinley
+Everyone out here -- so sorry, please continue. OK. We'll move on to Tom Blakey with KeyBanc.
+Tom Blakey
+--
+KeyBanc Capital Markets -- Analyst
+Hi, everyone. Thank you for taking my question. Kelly and Eric, good to see you guys. You know, there was some large competitor of yours has been in the news lately with Microsoft possibly needing to create a separate SKU for their Teams product in terms of bundling that product.
+I know how important the collaboration component is to Zoom's vision of becoming the communications operating system for large enterprises. And just noting with Kelly's updated color in terms of online -- with the online business stabilizing, which is great, the implied guide for the enterprise businesses is for a pretty good decel into the second half. So, just wondering how Zoom's thinking about, if at all, the potential impact or opportunity there just to get an understanding of the importance of the collaboration component to your product. Thank you.
+Kelly Steckelberg
+--
+Chief Financial Officer
+Well, as we noted, we talked about earlier in the quarter, I don't think that the adjustment that you're seeing is necessarily related to competition and more due to, as we expected, some distraction internally due to the reorganization. But we feel great about the structure of our sales organization now with Graeme, especially as our chief sales officer, and Wendy leading the online team, and that we've made the hard decisions to get them focused and ready now to execute for the rest of the year. And, you know, we're just looking forward to seeing that come to light over the next couple of quarters.
+Tom Blakey
+--
+KeyBanc Capital Markets -- Analyst
+OK. Thank you.
+Kelcey McKinley
+And our next question will come from Parker Lane with Stifel.
+Parker Lane
+--
+Stifel Financial Corp. -- Analyst
+Yeah, guys, thanks for taking the question. Kelly, I was hoping you could give us a better understanding of just how to what degree contract durations actually compress during the quarter. How much that will be an impact as we progress through the year? And is that more of a factor in any particular product set? Or was it pretty much across the board?
+Kelly Steckelberg
+--
+Chief Financial Officer
+Yeah, it was pretty uniformly across our direct segment of the business especially, trying to be thoughtful about every decision, which is every buying decision, I should say, which is not new. It's just taking -- giving themselves, you know, time to make sure that they are getting the product deployed. And we expect it to be, you know, not long term in nature. But in order to reflect that, you know, we've updated our guidance based on as we talked about deferred revenue as well for the coming quarter.
+Parker Lane
+--
+Stifel Financial Corp. -- Analyst
+Got it. Appreciate the color. Thank you.
+Kelcey McKinley
+We will now hear from Peter Levine with Evercore.
+Kelly Steckelberg
+--
+Chief Financial Officer
+Hi, Peter.
+Peter Levine
+--
+Evercore ISI -- Analyst
+Thank you for taking my question. Maybe, Eric, one for you is know when you think about the use case of AI and you think across like phone video contact center, you know, where do you envision seeing the most kind of uplift in terms of client adoption of AI? Just curious to know where you're seeing that today.
+Eric Yuan
+--
+Founder and Chief Executive Officer
+I think on many fronts, right? Like take Anthropic investment, for example, right? For sure, we are going to lever that, you know, not only for the entire portfolio, but we are going to start from a contact center, you know, the virtual agent, and, you know, the contracts and the related features. We also look at our core meeting platform, right, the meeting summary. It is extremely important, right? And it's also we have our team chat solution and also how to lever that to compose a chat. Remember, last year, we also have email candidate as well.
+How do we leverage the generative AI to understand the context, right, and kind of bring all the information relative to you and help you also generate the message, right? When you send an email, you know, back to customers or prospects, right, either chat message or email, right? We can leverage generative AI as well, right? I think a lot of areas, even like you like say, maybe you might be later to the meeting, right? You know, 10 minutes later, you joined the meeting. You really want to stand in what had happened, right? Can you get a quick summary over the positive minutes. Yeah. You just also leverage generative AI as well.
+You also can get to that as well. It's kind of almost a lot of key use cases, right? I think, you know, we'll be empowered by those AI capabilities. That's why we are looking at almost every area, right, how to leverage generative AI to improve in that experience. You know, take OpenAI, for example.
+This is a great company. And also, a lot of companies are leveraging their AI, you know, not only bigger companies, small companies. We also announced the collaboration with them at Enterprise Connect, right? So that's why, you know, as I said earlier, three things, right? You understand the large lung model, how to fine-tune that with your own data and also revisit almost every feature you have -- are there any ways to empower those features? Are there any ways to monetize. You know, that's why we take a holistic approach and also we like our federated approach to AI.
+By the way, internally, we do have an AI team. It should understand the large language models. It's not something, you know, other companies [Inaudible] AI.
+Peter Levine
+--
+Evercore ISI -- Analyst
+Thank you.
+Eric Yuan
+--
+Founder and Chief Executive Officer
+Thank you.
+Kelcey McKinley
+And moving on to Rishi Jaluria with RBC.
+Rishi Jaluria
+--
+RBC Capital Markets -- Analyst
+All right. Wonderful. Thank you so much for taking my questions. Eric, I want to stay on the AI train for a little bit.
+You've obviously talked about some great use cases and feels like there's a big opportunity. I want to ask about maybe the potential to start to vertical some of the solutions because, you know, it feels like you have a huge opportunity around distribution, doing things like adding AI tools on top of videos for video interviews and giving real-time signals, for example. And I'm sure that's one being discussed internally. So, just want to understand maybe how are you thinking about that opportunity to verticalize.
+And is that something that can make maybe direct monetization a little bit more easy because the value prop is very straight out of the box? Thank you.
+Eric Yuan
+--
+Founder and Chief Executive Officer
+Yeah, this is a great question. By the way, I downloaded OpenAI mobile iOS app. I should ask ChatGPT, you know, the answer to that question. But anyway, you are so right on.
+When it comes to vertical industry -- vertical, I would say, the opportunity, there are two things. One is departmental level, another one is vertical industry, right? If you look at our Zoom IQ for Sales, specifically targeted sales use case or sales department, right? Contact center is for support department. You are so right. Down the road, HR department, even marketing, almost every department, they all use zoom, right? How to leverage AI, to build a differentiated, you know, solution, right? That's the opportunity.
+That's, you know, opportunity. Another opportunity, really, about, you know, the vertical industry. Take healthcare, for example. Zoom by far is No.
+1 on telemedicine, right? You know, how to leverage that, right? And if it's, you know, those proprietary data, right? And also, working together with the customers, right? And fine tune this AI model, right? You know, this is one example. Another example is a lot of law firms are also using Zoom as well, right? And, you know, how to leverage AI, to truly empower those use cases is also another opportunity. I think, as I said earlier, you guys truly bring tremendous opportunity to us. So, you know, we got to deliver that.
+The good news, we already have invested in this area for a few years.
+Rishi Jaluria
+--
+RBC Capital Markets -- Analyst
+Awesome. Thank you so much.
+Eric Yuan
+--
+Founder and Chief Executive Officer
+Thank you.
+Kelcey McKinley
+And our next question comes from Catharine Trebnick with Rosenblatt Securities.
+Catharine Trebnick
+--
+Rosenblatt Securities -- Analyst
+Got it. Thank you. All right. In the last two years, a lot of changes has happened.
+First, everybody worked from home. And now, people are going back to the office. So, is that actually changed any of your opportunities when you're looking at marketing your products? I was thinking in terms of Zoom Room and then some of the areas where you want everybody to be equal in your Zoom Room viewing. So, has that changed anything? Have you seen anything different from that?
+Eric Yuan
+--
+Founder and Chief Executive Officer
+Good questions. Good news, question is not about AI anymore. So, you're so right. I think that during the COVID, right, as a lot of consumer use cases, right? Almost every family, you have with company account like a Zoom account, right? You know, after the COVID, I think, you know, if you look at the usage, right, consumer-centric usage, I think, less and less.
+But, however, to support a hybrid work, enterprise customers, they are going to leverage video content more and more. Not only just to support remote work. When you try to support hybrid work, then, you know, how to reserve a desk, all those basic features, right? How to make sure when you join the meeting from the comp room, right, remote people, they can't see you, right? Not only just one big square, right? So, everyone who are sitting in the comp room, you know, equally, we have a Square as well the Zoom Square, right? So, those kind of experiences, extremely important, right? A lot of features are built upon enabling hybrid work, right? Even Workvivo is not example, right? During the hybrid work, right, quite often, you can chat, you use the email or is the phone call meetings. But sometimes, I also want to announce a very exciting news and record a video how to distribute those to employees and sometimes even to customers.
+That's the reason why we're quite a worker as well. I think the hybrid work is going to stay. That's the reason why a lot of new use cases, right? How to double down on that. Take Confluent, for example, we have, you know, the smart gallery view feature, right? Customers like that.
+However, in some cases, customers are still down to work. I have a huge conference room, how do you support that? That's the reason why we are working on supporting three cameras, right? That's another way to embrace hybrid work. I think the hybrid work does bring another kind of huge opportunity to us, especially it's hard to convince everyone back to office five days a week. Even for us, even if, you know, I talked with many CEOs.
+Everyone, you know, wanted, right? Sometimes, you want these employees more. But, however, this is kind of to let employees work anywhere is sort of become a fashion. It's hard to force employees back in the home. That's why you have to embrace hybrid work.
+That's the reason why Zoom can play a much bigger role to support the hybrid work.
+Catharine Trebnick
+--
+Rosenblatt Securities -- Analyst
+All right. Thank you.
+Eric Yuan
+--
+Founder and Chief Executive Officer
+Thank you.
+Kelcey McKinley
+And William Blair's Matt Stotler has the next question.
+Matt Stotler
+--
+William Blair and Company -- Analyst
+Yeah. Hey there. Thank you for taking the question. Maybe just one on the contact center side.
+So, you obviously continue to innovate on the product front for contact center. But last time, we got a deep update, there was still some honing. It was needed to go to the market front. Wanted to just get an update on, you know, what you're seeing on that front, overall adoption of the contact center product suite, and then what you think are the keys to driving further adoption going forward?
+Eric Yuan
+--
+Founder and Chief Executive Officer
+Kelly, you want to take it?
+Kelly Steckelberg
+--
+Chief Financial Officer
+Yeah. So, our context center leader is Scott Brown. He is a great addition to our team, and we are focusing from a go-to-market perspective now, in the same way that we took Zoom Phone. We are hiring -- we have some onboard already, but we are hiring additional contact center specialists who will act as an overlay team and be there to support the account executives to go in as it's more of a technical sale and give them the opportunity to, eventually, over time, all become versed in how to sell contact center.
+So, we're in the process of that today. And as I said, we've approved more reps, so we're excited about making the investment there.
+Matt Stotler
+--
+William Blair and Company -- Analyst
+Got it. Thank you.
+Kelly Steckelberg
+--
+Chief Financial Officer
+Yup.
+Kelcey McKinley
+Moving on to William Power with Baird.
+William Power
+--
+Robert W. Baird and Company -- Analyst
+Great. Thanks. I want to ask you a question on online. It's great to see that segment finally stabilizing.
+Maybe kind of two parts tied to that. Any early color with respect to the price increases and what you've seen out of that? And as you look forward for the guidance for online, maybe just some broader framework for how you're thinking about both churn and top of funnel. What gives you the confidence on both those fronts that this really is going to stabilize here?
+Kelly Steckelberg
+--
+Chief Financial Officer
+Yeah. So, we've seen a very positive reaction to the price increase. When we, you know, came into the year and we were modeling it, we've actually seen better-than-expected retention rates in response to that. So, that's been really great.
+As well as Wendy's done a lot of work around the online buy flow, which has also seen a very positive response. And then, we've talked about it in the past, but there's a whole roadmap of other initiatives that are being worked on and continue to be added, including things like additional payment currencies, additional payment types, and additional offerings. So, those are all the top-of-the-funnel items you're referring to. And then, they've also done a lot of work to the flow when people -- the cancellation flow, when people come through, which is also contributing to the improved retention rates.
+And we feel great about them now. They've been -- you know, it was 3.1 in Q3, 3.4 in Q4, and now 3.1 again or maybe -- yeah, 3.4, and now, back to 3.1 again in Q1. And as we said, we expect Q2 and Q4 to be seasonally higher quarters due to the holidays in those periods and the flexibility we give our customers to come and go as they need the product. So, the churn we're very pleased with, and we've seen the behavior exactly as we expected, coming back down in Q1.
+So, that gives us confidence that it's going to be within that range for the foreseeable future.
+William Power
+--
+Robert W. Baird and Company -- Analyst
+OK. Thank you.
+Eric Yuan
+--
+Founder and Chief Executive Officer
+By the way, just quickly, to add on to what Kelly cited, right? So, as we add more and more new services also can help us more upsell opportunities even for online segment. Take the Zoom Schedule, for example. We announced that as new service, right? You know, and some customers have already paid for other services, like Calendly, right? You know, customers, "Yeah. I'd like to go with Zoom, you know, deploy something similar," right? This is part of the package, right? I think a lot of, you know, upsell opportunity for us to target the online segment as well.
+William Power
+--
+Robert W. Baird and Company -- Analyst
+Great.
+Kelcey McKinley
+Thanks, William. And moving on to Siti Panigrahi with Mizuho.
+Siti Panigrahi
+--
+Mizuho Securities -- Analyst
+Thanks for taking my question, Eric. When you -- I just want to dig into this Workvivo acquisition. Do you see that more of a long-term opportunity? Or do you see that's something that we can think of, you know, this is some sort of technology that you can cross-sell into the base, you know, in the near term? And, you know, what sort of -- you know, is there some particular vertical or, you know, segment where you can see more traction there? Could you give some -- little bit, you know, elaborate in terms of revenue opportunity from that?
+Eric Yuan
+--
+Founder and Chief Executive Officer
+Yes, good question. So, first of all, you look at our collaboration platform, right, we really want to offer a unified communication and collaboration platform. You know, customers can live within the Zoom platform, right? I can -- today is one of the problems we are facing, customer also mentioned for us as well, right. You know, quite often, you know, they send all kind of message either through email.
+It's really hard to find, you know, not scalable, or you send a message through chat, you know, all those public channels, right? You know, customer also wanted to essentially like say, I will, you know, a video message, right? I want to share to the entire, you know, employee base and or maybe department news, right? All those kind of, you know, the content, right? Are there any other better ways to share and engage with employee, right? I think that's the reason why we single work. You know, we will, you know, can play a bigger role, right, to focus on those kind of use cases, right? It's not only for the short term, you know, missing -- a key missing element of our entire product portfolio, but also for -- in the long run, also will help us a lot. Because of the AI, right? Because how do you make sure you have more data, right? And really, you know, collaboration, communication, you know, related data, right? It's working well, for sure. You know, every day when you're, you know, engaged with your employees.
+You know, we have Workvivo platform will generate a lot of data, right? All those details are very, I will say, relevant and meaningful, right, how to leverage AI, right? So, that's why, you know, in the long run, it certainly can help us more, so --
+Siti Panigrahi
+--
+Mizuho Securities -- Analyst
+Great. Thank you.
+Eric Yuan
+--
+Founder and Chief Executive Officer
+Thank you.
+Kelcey McKinley
+Next question will come from George Iwanyc with Oppenheimer.
+George Iwanyc
+--
+Oppenheimer and Company -- Analyst
+Thank you for taking my question. Kelly, maybe building on the stabilization you've seen on the online side, can you give us a sense of what your expectations are from an expansion rate on the enterprise side, you know, as you look out over the next couple of quarters?
+Kelly Steckelberg
+--
+Chief Financial Officer
+Yeah, we don't guide specifically around the expansion rate. But as a reminder, it is a trailing 12-month metric. So, given that it's at 112% and, you know, you can look at where the enterprise growth rate is, that possibly has the opportunity to come down slightly more until it starts to reaccelerate as we expect, you know, both online and direct revenue to start reaccelerating as we get to the back half of this year and that the net dollar expansion rate is going to trail behind that.
+George Iwanyc
+--
+Oppenheimer and Company -- Analyst
+Thank you.
+Kelly Steckelberg
+--
+Chief Financial Officer
+Yeah.
+Kelcey McKinley
+And Wolfe Research's Alex Zukin will have the next question.
+Alex Zukin
+--
+Wolfe Research -- Analyst
+Hey, guys. Can you hear me OK?
+Kelly Steckelberg
+--
+Chief Financial Officer
+Hi, Alex.
+Alex Zukin
+--
+Wolfe Research -- Analyst
+So, I guess I'll try the kind of a two-parter. One is just a simple how do you plan to monetize generative AI functionality in the product rather than, you know, making it a part of the overall experience? And the second is, from an enterprise revenue growth perspective, I think the rate of decel being contemplated, from the mid-20s last year in the first half to, you know, just over 5% in the second quarter guide implied, that's a much larger rate of decel than I think we all contemplated or thought. So, how do we -- like, is it upsell, is it cross-sell, is it new products that are launching, is it later revenue recognition? Like, what is it that's driven that rate of decel? And how do, you know, reaccelerate, obviously? But how do you get back to a double-digit growth rate in that regard? Because it seems like that's where a lot of the valuation oomph is coming from for the stock.
+Eric Yuan
+--
+Founder and Chief Executive Officer
+Kelly, I'll address the first one. You take the second one. I think in terms of how to monetize generative AI, I think, you know, first of all, take Zoom IQ for Sales, for example, that's a new service to target the sales department. You know, that and I technology is based on generative AI, right? So, we can monetize.
+And also, seeing some features. You know, even before the generative popularity, we have a live translation feature, right? And also, that's an auto -- free feature. There's a feature, right, behind a paywall, right? And, also, a lot of cool features, right? You know, you know, take the, you know, Zoom meeting summary, for example, you know, enterprise, you know. the customers.
+If you can deploy Zoom One you know, deploy Zoom One, they will have those features, right? For our customers, you know, see like a free all those SMB customers, they do not deploy Zoom One, they may not get to those feature, right? That's the reason why -- now a reason for us to monetize. I think there's a multiple ways to monetize.
+Kelly Steckelberg
+--
+Chief Financial Officer
+And then, in terms of the enterprise outlook, as I mentioned earlier, you know, we expected the distraction in Q1 as there was impact to the sales org, not only from the reduction but also reorganization. And we feel really good about the structure of the sales organization now. And we have also, as I mentioned, we are prioritizing where we want to continue to invest and just recently committed to adding more reps in the contact center team. For example, we hired a leader in Europe, which we haven't had before.
+So, really excited to have Frederick join us. And all of these, I think, put us to bring us to be very well positioned to execute for the rest of the year. And now, we're looking to the sales team to do exactly that. And they -- you know, we talked about we have an amazing platform that's there for them to sell, and we're all rallying behind them to support them, to see them execute.
+Alex Zukin
+--
+Wolfe Research -- Analyst
+Perfect. Thank you, guys.
+Eric Yuan
+--
+Founder and Chief Executive Officer
+Thank you.
+Kelcey McKinley
+And moving on to Michael Turrin with Wells Fargo.
+Michael Turrin
+--
+Wells Fargo Securities -- Analyst
+Hey there. Thanks. Good to see everyone. Kelly, on the on the billings deferred revenue side, you came in a little bit ahead of what you were guiding for a few percentage points from last quarter despite some duration impacts.
+So, I'm wondering if there's any way you can help us quantify those duration impacts, either on Q1 or the Q2 guide, and anything else you can provide just to help us think through seasonality as you've now passed the heavier renewal period, but mention maybe some sales transition impacts still out there. Just help us think through just what's contemplated in the guide from a few different levels. Thank you.
+Kelly Steckelberg
+--
+Chief Financial Officer
+Yeah. So, I think on the billing duration impact, as I said earlier, we don't expect this to be a long-term impact. We think it's just indicative of some of the uncertainty that's in the macro environment today and just watching and being thoughtful about the impact that it's having on deferred. And then, you also heard it in terms of RPO.
+But, you know, we've seen this impact before, and we've also seen customers come back then. And I think especially as we continue moving toward more bundles, Zoom One, Contact Center, Zoom Phone, those are all products that customers are going to commit to for the longer term. So, I think as you continue to see more and more of those in our pipeline and being sold by the enterprise team, that duration impact will start to expand again. And then, you know, in terms of the balance between enterprise and online, we're thrilled that enterprise has stabilized a little bit earlier than we expected.
+And given the days in the month, you know, the days in the quarter, that's why we gave a more specific view, because it's a little bit tricky when you look at it for the rest of the year. And, you know, the guidance contemplates all the things that we already talked about in terms of the pipeline and all the initiatives the online team is working on. And then, of course, the restabilization, if you will, of our direct sales org at the same time.
+Michael Turrin
+--
+Wells Fargo Securities -- Analyst
+OK. Thank you.
+Kelly Steckelberg
+--
+Chief Financial Officer
+Yeah.
+Kelcey McKinley
+And Ryan MacWilliams with Barclays has the next question.
+Ryan MacWilliams
+--
+Barclays -- Analyst
+I appreciate it, guys, and congrats on Zoom Phone reaching 10% of sales. Just thinking back a few years, pretty amazing that this metric only came after reaching 5 million phone seats. So, quite the run. Look, I love all the questions so far, but I guess I'll just ask the boring macro question.
+Kelly, are you seeing any differences in the impact of macro to the online segment versus the enterprise segment, and if you've seen any changes at renewal on the enterprise side, maybe from an enterprise logo like churn standpoint? Thanks.
+Kelly Steckelberg
+--
+Chief Financial Officer
+No. So, our enterprise renewals, as you know, Q1 is our highest seasonal quarter and the renewals were exactly in the range of where we expected them to be for the quarter. So, that was really great to see. And then, in terms of online, you know, where we've seen strength, we've already talked about, I think it's increasing the top of the funnel.
+We've also continued to see strength in annual plans, which is great. And this is due to the -- just a reminder, when we did the price increase, we didn't increase the price for the annual plan. So, it just shows customers committing to the amazing value that they see in Zoom and the discount that they get for committing to the long term. But, of course, that's amazing for us because the lifetime value of those annual customers is so much greater.
+Ryan MacWilliams
+--
+Barclays -- Analyst
+Appreciate the color. Thank you.
+Kelcey McKinley
+And Patrick Walravens with JMP Securities has the next question. I'm not sure he's out there. Patrick, do you want to come off mute and start your video for us? All right. Hearing no response.
+Pat Walravens
+--
+JMP Securities -- Analyst
+I'll come off mute. OK. I'm going to turn off the video, and you can see why. Eric, can you talk to us a little bit about sort of the [Technical Difficulty] and what part of that is appealing to you guys?
+Kelcey McKinley
+Patrick, so sorry. Your audio is cutting out for us. Will you try one more time? And unfortunately, we might have to skip you if it doesn't improve. But try again, please.
+Pat Walravens
+--
+JMP Securities -- Analyst
+No worries. Eric, can you just talk a little bit more about Anthropic and what you believe in [Technical Difficulty]. Yeah.
+Eric Yuan
+--
+Founder and Chief Executive Officer
+Sure, sure, sure.
+Kelly Steckelberg
+--
+Chief Financial Officer
+You heard anthropic, yeah?
+Eric Yuan
+--
+Founder and Chief Executive Officer
+Yeah. Yeah. I think. Yeah, I thought.
+You know, is a great partner and this is great a team. And. And when we look at the AI landscape, I think why not a double down on that? A partnership. Right.
+And given our federated approach. Right. Internally we discussed that happen to be, you know, in the middle of raising another round of financing. Right.
+That's why I hope to solidify our partnership again. There are greater team in a greater technology and I think this is no brainer for us to invest them right to further solidify the partnership. And yeah, so that's pretty much because, you know, look at our corner center, right, it will further empower our content and offering. Right? And also down the road will be applied to, you know, an entire product portfolio.
+Again, this is very important to our federated, federated approach to AI, and that's the reason why invested so.
+Kelcey McKinley
+Thanks, Patrick. We'll go ahead and move on to Matthew Niknam with Deutsche Bank.
+Matt Niknam
+--
+Deutsche Bank -- Analyst
+Hey, thanks for taking the question. Just two quick ones on cash flow, maybe for Kelly. First, accounts receivable, the last two years, it's been about a drag of 80 million this quarter. Much better only about 29 million.
+Wondering what changed there in terms of cash collections. And then, secondly, in terms of the legal settlement, if you can just quantify and let us know maybe when we should anticipate that. Thanks.
+Kelly Steckelberg
+--
+Chief Financial Officer
+Yeah. In terms of the settlement, Matthew, it's not clear exactly when that will be completed in terms of the payment. That's why we said for the full year, we're updating, it could be in Q2, it could also be in Q3. That's why we just wanted to give you visibility into that.
+And then, in terms of your first point about collections, I think part of that, honestly, is just the continued improvement that we're seeing in our team around collections and our ongoing DSOs. And also, as we've seen online, you know, when there's more online, especially annual, that the online is mostly paid via credit card. So, that is an improvement in terms of our DSOs usually as that's growing because the DSOs on online are about three days, if that helps.
+Matt Niknam
+--
+Deutsche Bank -- Analyst
+And the legal settlement, if you could just quantify how much that is.
+Kelly Steckelberg
+--
+Chief Financial Officer
+It's exactly the amount -- the difference between our previous guidance. That was -- let me say it this way. There was no other change to our cash flow outlook other than the anticipated potential net legal settlement.
+Matt Niknam
+--
+Deutsche Bank -- Analyst
+Got it. Thank you.
+Kelly Steckelberg
+--
+Chief Financial Officer
+Yup.
+Kelcey McKinley
+Shebly Seyrafi with FBN Securities has the next question.
+Shebly Seyrafi
+--
+FBN Securities -- Analyst
+Yeah, thank you very much. So, you're implicitly guiding for your enterprise growth rate to decelerate to something like 6% in Q2 and maybe 3% to 4% in the back half. It was only double digits in the past. So, I know you have a lot of changes this year with the sales force, etc.
+After this year, do you target double-digit growth in enterprise? Or is it like an upper single-digit growth rate? And also related, the online business is stabilizing at 480 for the next few quarters, it looks like. At Q4, that means zero growth versus negative growth. Is it a growth business afterwards as well? So, I'm just looking after this year. Is online a growth business, is enterprise low double digits or up single-digit growth rate business?
+Kelly Steckelberg
+--
+Chief Financial Officer
+All the investments that we are making today are focused on growing the top line and investing in ways to do that for the future for both online and the direct business. So, that's innovation. It's expanding our platform. It's focusing on investing in the go-to-market teams in terms of what we've talked about earlier, like the contact center, adding a leader to Europe, really focusing on marketing in the right way.
+And we haven't, obviously, given FY '25 guidance. But the goal is, and we've talked about before, starting to see reacceleration of growth as we exit FY '24 and having that continue into FY '25. We're so early in the year of FY '24, but lining up everything to anticipate reacceleration as we exit the year
+Shebly Seyrafi
+--
+FBN Securities -- Analyst
+And the enterprise?
+Kelly Steckelberg
+--
+Chief Financial Officer
+Across, potentially both same.
+Shebly Seyrafi
+--
+FBN Securities -- Analyst
+So, I'm just saying, the enterprise is it upper single digits or a low double-digit growth rate the way you're targeting it? Not guiding, just targeting.
+Kelly Steckelberg
+--
+Chief Financial Officer
+Yeah, I'm not going to get that specific, especially this early. We'll be more prepared to talk about that later this year.
+Shebly Seyrafi
+--
+FBN Securities -- Analyst
+OK. Thank you.
+Kelcey McKinley
+And we'll move on to Karl Keirstead with UBS.
+Karl Keirstead
+--
+UBS -- Analyst
+OK, great. Hey, Kelly, just to follow on that conversation about driving for acceleration next year and, earlier on, you talked about innovation being a huge priority, that seems to me like there's the potential to shift a little bit the growth margin trade-off as you invest to drive growth next year. I'm wondering if you're intending to signal that, you know, high 30s, 40% margins, everybody on the call should consider sort of a peak. And then, if I could ask a clarification, did Workvivo impact at all your guidance for this year? Thank you.
+Kelly Steckelberg
+--
+Chief Financial Officer
+Yes. Thank you, Karl. So, as a quick reminder, our long-term target operating margin is lower, much lower than where we are operating today. And that is, as we've said in the past, to give us the opportunity as we see opportunities for investment to do so.
+We're really focused on doing everything we can to drive top-line growth and continue to take market share. In the period of time where we've had slower growth, we've been focused on balancing that with profitability. But as we see opportunities, we absolutely could bring our margins down. So, yes, I think we're at, probably, the peak of where our margins are, you know.
+But again, we're always being very thoughtful about growth and profitability and balancing both of those. And then, in terms of the Workvivo team, you know, given they're amazing and we're really excited about bringing them into the family, but they're having really, I would say, minimal impact on both the top line and the bottom line today.
+Karl Keirstead
+--
+UBS -- Analyst
+OK. Thank you.
+Kelly Steckelberg
+--
+Chief Financial Officer
+Yup.
+Kelcey McKinley
+We have time for one additional question, which will come from Sterling Auty with MoffettNathanson.
+Sterling Auty
+--
+MoffettNathanson -- Analyst
+Great. Thanks, guys. Hopefully my connection holds up. Just wondering back on the enterprise, given the online 480 million a quarter stabilization, it implies the enterprise revenue is well below street consensus.
+Did we analysts just have the mix models wrong? Or was the disruption or something having a bigger impact on the online are on the enterprise business for the rest of the year?
+Kelly Steckelberg
+--
+Chief Financial Officer
+I think there's two things. I think, first of all, we've seen online stabilize much more quickly than we anticipated, or then we had been indicating to all of you. So, I think the overall mix for the year is probably shaping up to be a little bit different than you anticipated, and even on we anticipated at the beginning of the year. And then, you know, we're doing, as I said, we're doing everything we can to focus on supporting our direct sales organization.
+The distraction in Q1 was not de minimis, right? It was -- as I said, it was across not only the reduction, but also a reorganization and some changes to incentives and comp plans. And so, you know, we're very happy that that's all behind us now. And we're all looking forward to do everything we can to support them and regain momentum there.
+Sterling Auty
+--
+MoffettNathanson -- Analyst
+Sounds good. Thank you. Yeah.
+Kelcey McKinley
+And again, this does conclude our question-and-answer session. So, I'll pass it back to you, Eric, for any closing or additional remarks.
+Eric Yuan
+--
+Founder and Chief Executive Officer
+Well, thank you all for your time. Really appreciate for all your support. And thank you and see you all next meeting. Appreciate it.
+Kelly?
+Kelly Steckelberg
+--
+Chief Financial Officer
+Bye, everybody.
+Kelcey McKinley
+And again -- sorry, Kelly. And again, this does conclude today's earnings release. We thank you all for your participation. So, go enjoy your summer, and we will see you next quarter.
+Duration: 0 minutes

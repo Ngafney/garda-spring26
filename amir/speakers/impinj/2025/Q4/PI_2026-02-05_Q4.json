@@ -1,0 +1,347 @@
+[
+  {
+    "speaker": "Unknown",
+    "role": "",
+    "text": "Full Conference Call Transcript"
+  },
+  {
+    "speaker": "Andy Cobb",
+    "role": "",
+    "text": "Thank you, Nick. Good afternoon, and thank you all for joining us to discuss Impinj, Inc.'s fourth quarter and full year 2025 results. On today's call, Chris Diorio, Impinj, Inc.'s founder and CEO, will provide a brief overview of our market opportunity and performance. Cary Baker, Impinj, Inc.'s CFO, will follow with a detailed review of our fourth quarter and full year 2025 financial results and first quarter 2026 outlook. We will then open the call for questions. You can find management's prepared remarks, plus trended financial data on the Investor Relations section of the company's website. We will make statements in this call about financial performance and future expectations that are based on our outlook as of today. Any such statements are forward-looking under the Private Securities Litigation Reform Act of 1995. Whereas we believe we have a reasonable basis for making these forward-looking statements, our actual results could differ materially because any such statements are subject to risks and uncertainties. We describe these risks and uncertainties in the annual and quarterly reports we file with the SEC. We do not undertake and expressly disclaim any obligation to update or alter our forward-looking statements except as required by law. On today's call, all financial metrics, except for revenue, or where we explicitly state otherwise, are non-GAAP. All balance sheet and cash metrics, except for free cash flow, are GAAP. Please refer to our earnings release for a reconciliation of non-GAAP financial metrics to the most comparable GAAP metrics. Before turning to our results and outlook, note that we will participate in the Barclays 43rd Annual Industrial Select Conference on February 17 in Miami, Susquehanna's 15th Annual Technology Conference on February 26 in New York, and the 2026 Tanner Global Technology and Industrial Growth Conference on March 11, in New York. We look forward to connecting with many of you at those events. I will now turn the call over to Chris."
+  },
+  {
+    "speaker": "Chris Diorio",
+    "role": "",
+    "text": "Thank you, Andy. And thank you all for joining the call. 2025 was a tough year for our industry. Tariffs, and tariff-related supply chain whipsaws, inventory reductions at every layer of our retail markets, a downward trend in apparel imports, and protracted general merchandise adoption all weighed heavily on the RAIN market. It was also a transition year for us. We grew year-over-year endpoint IC volumes by 9%, believe we gained endpoint IC market share, made M800 our volume runner, launched Gen2X, and proved it to be a must-have for solution success. We drove Gen2X-enabled solutions at multiple Lighthouse accounts, helped plant the seeds for accelerating food adoption, and exited the year with record adjusted EBITDA and cash. I am very pleased with how our team rose to meet the challenge. Looking into 2026, we see in the first quarter, a confluence of order timing, ongoing retailer inventory burn-down, product transitions, and a super seasonal systems decline due to project timing, driving revenue lower. Looking just a bit further out, we see conditions improving as endpoint IC volumes rebound, and growth returning as our investments in seeding new opportunities and our solutions focus pay off. Starting with first quarter endpoint ICs, like last year, our second large North American supply chain and logistics end user significantly shifted their label supplier allocations. Partners that anticipated share gains ordered ahead in the fourth quarter, whereas those with share losses are reducing inventory in the first. Additionally, we are quickly pivoting to a custom-built endpoint IC for that end user which I'll describe shortly, causing a further temporary dip in endpoint IC orders as partners reduce prior product inventory while we ramp volumes of the new IC. Second, we see apparel retailers reducing stock and under-buying demand, impacting our first quarter outlook. And finally, food volumes remain modest in the first quarter. Turning to our expectations as we exit the first quarter, I'll start with that custom endpoint IC. Think of it as an ASIC, developed with the end user tightly linked to their and our platforms, with added features like label authentication, that solve key business needs, while also eliminating unneeded features. They plan to fully switch to it this year. The EIC also opens new opportunities for them to unlock and for us to participate in new outward-facing customer accounts. Second, we see endpoint IC demand for apparel normalizing as soon as the second quarter. Third, we see general merchandise growing as existing categories add SKUs, and new categories get added. Fourth, we see food rollouts expanding to more stores. And finally, we see our solutions efforts opening major new accounts. To speed our pivot to solutions, we recently added Chris Hundley as an executive vice president for enterprise solutions. Chris adds significant software and solutions talent to our team. We are also doubling down on Gen2X as a solutions enabler. Added EM Microelectronic as a Gen2X licensee, and are forging close Gen2X partnerships with leading ecosystem players. We not only see Gen2X increasing the performance and feature gap between M800 and its competition, but also see it as an essential toolkit for enterprise solutions. And we have a growing pipeline of solutions opportunities. We expect our solutions efforts to drive endpoint IC volumes and share, reader and reader IC revenue growth, and in time, meaningful software revenue. And perhaps most importantly, a selling model that focuses on solution value rather than individual components. Of course, even as we pursue solutions, we remain keenly focused on our current products. In retail apparel, multiple new end users are talking openly about RAIN adoption. We are pursuing wins with them as well as further share shifts with existing retailers. In general merchandise, we see 2026 as the year that unlocks key new logos and current use cases, add significant new ones, and drive the IC volume goals. On the competitive front, we see Gen2X driving additional opportunities to us. In food, we see a ramp through 2026 led by bakery with proteins to follow. And although food volumes remain modest, the opportunity is staggeringly large and we intend to lead and win it. Overall, we see industry endpoint IC volumes rebounding from an uninspiring 2025 as these growth factors layer on with our leading market share driving an outsized portion of those volumes to us. We see our solutions revenue expanding, notably as our Lighthouse end users outperform their peers, and pull us into opportunities. And in all, we expect our focus on hitting solution price points where the ROI pencils out for the end user to pay off handsomely. Before I turn the call over to Cary for our financial review and first quarter outlook, I'd like to again thank every member of the Impinj, Inc. team for your constant effort driving our bold vision. As always, I feel honored by my incredible good fortune to work with you. Cary?"
+  },
+  {
+    "speaker": "Cary Baker",
+    "role": "",
+    "text": "Thank you, Chris, and good afternoon, everyone. Fourth quarter revenue was $92.8 million, down 3% sequentially compared with $96.1 million in third quarter 2025, and up 1% year-over-year from $91.6 million in fourth quarter 2024. 2025 revenue was $361.1 million, down 1% year-over-year compared with $366.1 million in 2024. Fourth quarter endpoint IC revenue was $75.2 million, down 5% sequentially compared with $78.8 million in third quarter 2025 and up 2% year-over-year from $74.1 million in fourth quarter 2024. Endpoint IC revenue slightly exceeded our expectations driven by Pern's orders. M800 was the volume runner with unit volumes increasing sequentially. 2025 endpoint IC revenue declined 2% year-over-year driven by the factors Chris already noted. Looking to first quarter, we expect endpoint IC revenue to decline sequentially at a high teens percentage rate driven primarily by supply chain and logistics channel inventory reductions, retail weakness, and to a lesser extent by annual endpoint IC price reductions. Fourth quarter systems revenue was $17.7 million, up 2% sequentially compared with $17.3 million in third quarter 2025, and up 1% year-over-year from $17.5 million in fourth quarter 2024. Systems revenue exceeded our expectations driven by NRE revenue, while reader and gateway revenue and reader IC revenue declined as anticipated. 2025 systems revenue grew 2% year-over-year with reader and gateway growth more than offsetting declines in both reader ICs and test and measurement solutions. Looking to first quarter, we expect systems revenue to decline more than seasonally, primarily due to project timing at our enterprise customers. Fourth quarter gross margin was 54.5%, compared with 53% in third quarter 2025 and 53.1% in fourth quarter 2024. The year-over-year increase was driven by higher endpoint IC direct margins, specifically from a richer mix of M800. The quarter-over-quarter increase was driven primarily by higher systems direct margins, specifically higher NRE revenue, and to a lesser extent, higher endpoint IC direct margins. 2025 gross margin was 55.3%, compared with 54% in 2024 with the increase due primarily to a richer mix of M800 endpoint ICs. Looking to first quarter, we expect gross margin to decline sequentially driven primarily by lower revenue on fixed cost and annual endpoint IC price reductions. Total fourth quarter operating expense was $34.2 million compared with $31.8 million in third quarter 2025, and $33.6 million in fourth quarter 2024. Research and development expense was $18.6 million. Sales and marketing expense was $8.2 million. General and administrative expense was $7.4 million. 2025 operating expense totaled $130.1 million compared with $131.9 million in 2024. We expect total first quarter 2025 operating expense to increase sequentially, driven primarily by normal seasonal factors. Fourth quarter adjusted EBITDA was $16.4 million compared with $19.1 million in third quarter 2025 and $15 million in fourth quarter 2024. Fourth quarter adjusted EBITDA margin was 17.7%. 2025 adjusted EBITDA was a record $69.6 million compared with $65.9 million in 2024. 2025 adjusted EBITDA margin was a record 19.3% in line with the long-term model we shared at our 2023 Investor Day. Fourth quarter GAAP net loss was $1.1 million. Fourth quarter non-GAAP net income was $15.6 million or $0.50 per share on a fully diluted basis. 2025 GAAP net loss was $10.8 million. 2025 non-GAAP net income was $64.2 million or $2.11 per share on a fully diluted basis. Turning to the balance sheet. We ended the fourth quarter with record cash, cash equivalents, and investments of $279.1 million compared with $265.1 million in third quarter 2025 and $239.6 million in fourth quarter 2024. Inventory totaled $85 million, down $7.7 million from the prior quarter. Fourth quarter capital expenditures totaled $1.5 million. Free cash flow was $13.6 million. 2025 capital expenditures totaled $12.9 million. Free cash flow was $45.9 million. Turning to our outlook. We expect first quarter revenue between $71 million and $74 million compared with $74.3 million in first quarter 2025, a year-over-year decrease of 2% at the midpoint. We expect adjusted EBITDA between $1.2 million and $2.7 million. On the bottom line, we expect non-GAAP net income between $2.5 million and $4 million reflecting non-GAAP fully diluted earnings per share between $0.08 and $0.13. In closing, I want to thank the Impinj, Inc. team, our customers, our suppliers, and you, our investors, for your ongoing support. I will now turn the call to the operator to open the question and answer session. Nick?"
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Thank you. We will now begin the question and answer session. To ask a question, you may press star then 1 on your touch-tone phone. If you are using a speakerphone, please pick up your handset before pressing the keys. If at any time your question has been addressed and you would like to withdraw your question, a courtesy to others, we ask that you limit yourself to one question and one follow-up. You have additional questions, please requeue, and we will take as many questions as time allows. At this time, we will pause momentarily to assemble our roster. And the first question will come from Harsh Kumar with Piper Sandler. Please go ahead."
+  },
+  {
+    "speaker": "Harsh Kumar",
+    "role": "",
+    "text": "I wanted to hit upon the first quarter guidance a little bit. I think you're off something like $17 million to $18 million relative to the expectation on the street. I know you've got a shift at EPA. I'm sorry. A shift at your second customer in logistics. And you've also got some sort of a custom chip that you're developing and also seems like some excess inventory. So I was hoping that you could break down for us this miss between the impact from orders from the custom ship and the timing associated with it. Versus how much excess you have. And I'll ask my second question at the same time. It seems like there's a lot of stuff moving around. You talked about food, sort of moving around, apparel moving around. But then you seem pretty confident that all of this will fix itself fairly fast, like in the second quarter. These are large end markets, and I'm curious what gives you the confidence that this will swing around in a better situation as quickly as the second quarter."
+  },
+  {
+    "speaker": "Chris Diorio",
+    "role": "",
+    "text": "Okay. Thank you, Harsh. This is Chris. There's a lot to unpack in this question. I think Cary and I will tag team it here. So I'm going to start by saying that despite the starting points looking the same, we see 2026 very differently from 2025. 2025, we took a competitive lead and held our own, in what was an otherwise pretty tough year. In 2026, we're gonna press that lead in what we believe is shaping up to be a growth year for the reasons that we cited in our prepared remarks. Relative to those prepared remarks, Cary and I will both go through some of the details on why we see things turning around and actually why I talked about exiting the quarter on an upward swing. Just before I hand over to Cary to add a few points, I will say that custom chip for our second large American supply chain and logistics end user is not just in design. We are currently shipping it. And so it is in production now. Cary, why don't I turn over to you for a bit, and then we can go back and forth?"
+  },
+  {
+    "speaker": "Cary Baker",
+    "role": "",
+    "text": "Thanks, Chris. First, let me break down the Q1 revenue guide and how we built it. So as I noted, we're expecting endpoint IC revenue to decline sequentially at a high teens percentage. That's primarily on lower volume as our inlay partners supporting our logistics customers burned down a few weeks of inventory. Think of each week of burn-down approximating about $5 million of impact. To a much lesser degree, yearly price reductions and product mix are also impacting our first quarter. We're modeling pricing at a couple million bucks, and the mix impact is smaller than that. There's also some retail weakness that we're factoring through our guide. Now as we built our guide we wanted to be prudent in doing so. So there's a couple of things to consider in our guidance. First, the January turn orders have been strong. They're already double what Q4 was at the same point in the quarter and they're up more than 50% than they were last January. The second piece I would highlight is that the elevated rescheduling behavior that we saw all of last year has significantly moderated and is approaching a return to normal levels right now. And then finally, I would add, our endpoint IC business is nearly 100% booked to the midpoint of the guide, despite there being a few weeks left to turn business in the quarter. So Harsh, we'll pause there. Why don't you follow on and we answer your question adequately, or did we leave parts of it open?"
+  },
+  {
+    "speaker": "Harsh Kumar",
+    "role": "",
+    "text": "No. No. Super helpful. I just wanted to follow-up on the second question that I asked, which was you've got a lot of end markets moving around food, apparel, all of which is getting hit seems like in 1Q, you mentioned. But then you're pretty confident that all of this will turn around. I was curious. Are you just looking at your orders and saying this will turn around for you, or is there something happening within the end markets that is causing the orders to have come in into the 1Q and you're expecting something to happen in the end market to drive that business up?"
+  },
+  {
+    "speaker": "Chris Diorio",
+    "role": "",
+    "text": "Yeah. So there's no easy answer to your question because the answer depends on the particular aspects of the end markets. In food, as I said in my prepared remarks, we see modest volumes but inexorable growth. And we remain incredibly excited about that food opportunity. We see the number of stores expanding, especially in bakery. And we see opportunities in the food space. In retail apparel, as we said, we see ongoing retailer inventory burn-down. We saw some of it in the latter part of the fourth quarter now that we finally have the data. And we see it continuing in the first quarter. We expect that inventory burn-down to normalize based on input from the retailers themselves as well as from our partners. And we've seen new accounts coming online. For example, Abercrombie and Fitch, Aritzia, Old Navy, Academy Sports, and others. We see new accounts coming online. And then in the supply chain and logistics space, of course, as Cary noted, we see the inventory burn-down correcting as well as the new IC added volumes to us. So overall, we think we've got good visibility into the end opportunities that you've been you just raised here. And the reasons we feel positive about the situation exiting the quarter is that we see positive news there."
+  },
+  {
+    "speaker": "Harsh Kumar",
+    "role": "",
+    "text": "Thank you, you guys."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "The next question will come from Blayne Curtis with Jefferies. Please go ahead."
+  },
+  {
+    "speaker": "Ezra Weener",
+    "role": "",
+    "text": "Guys. Ezra Weener on for Blayne. Thanks for taking my questions. Just first, wanna make sure I understand this correctly. You said apparel is gonna normalize in Q2. Do you also expect the logistics to normalize in Q2, or do you think that's take a little bit longer?"
+  },
+  {
+    "speaker": "Chris Diorio",
+    "role": "",
+    "text": "We said that we see apparel overall normalizing as early as the second quarter. We're not going to actually project the actual date. In the supply chain and logistics space, as Cary said just a minute ago and Cary, I'll have you ahead again. We see the inventory correction happening in the first quarter. Cary, anything you'd add there?"
+  },
+  {
+    "speaker": "Cary Baker",
+    "role": "",
+    "text": "Yeah. Ezra, I would say, you know, we're entering the quarter with a few extra weeks of channel inventory related to supply chain and logistics. We're gonna work very hard to burn that down in Q1. But we know from history that it's difficult to contain a correction to a single quarter, and it may spill over into the second quarter. You'll have to wait for us to give an update as we exit Q1 on how successful we are at burning that inventory down."
+  },
+  {
+    "speaker": "Ezra Weener",
+    "role": "",
+    "text": "Got it. And then my follow-up would be in terms of ASIC, talked a little bit about pricing and solutions. Can you talk a little bit about how you view that and that solution for the customer and how you think about kind of pricing and value? Going forward with that?"
+  },
+  {
+    "speaker": "Chris Diorio",
+    "role": "",
+    "text": "Yes. I'm this is Chris. I'm happy to. You know, we've been focused for a while on understanding end-user problems designing customizations through our platform, that address the customer needs. We did Protected Mode for a visionary European retailer and brought that broadly to market, and it's being used by them and many others. If you think overall of Gen2X, it's the same idea. Custom features that we're broadly to market, and both of them see market success. In this case, you can think of the custom IC as being tailored to the specific needs of that end user. And it is an IC customized for them. And we see it as not only meeting their critical needs and helping their business go forward, but also giving them the opportunity to drive operational efficiencies across their organization, and for them to expand their prowess in RAIN RFID to win new customer business, including with that IC. So we, as a company, are focused on working directly with those end users and truly enabling them to drive forward with their business and to expand it. And then for us to basically partner with them along the way. So expect us to do more of those kinds of opportunities. And as we build more and more whole solutions to tie that customized endpoint IC and a radio link that supports it features in our reader ICs into an overall solutions offering more and more and less just an IC offering. So we're early in that stage where we focus on a solution sale rather than an individual IC sale. But expect us to drive in that direction."
+  },
+  {
+    "speaker": "Cary Baker",
+    "role": "",
+    "text": "Ezra, this is Cary. The only other thing I would add is we'll price that IC to market."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "The next question will come from Jim Ricchiuti with Needham and Company. Please go ahead."
+  },
+  {
+    "speaker": "Jim Ricchiuti",
+    "role": "",
+    "text": "I just want to follow-up on this. This new chip. Is this for a subset of applications with this customer?"
+  },
+  {
+    "speaker": "Chris Diorio",
+    "role": "",
+    "text": "No, Jim. It's for all applications with the It's they're gonna switch to that chip. They plan to fully switch to that chip in 2026. Okay. Customized for them, for their needs."
+  },
+  {
+    "speaker": "Jim Ricchiuti",
+    "role": "",
+    "text": "Got it. Chris, will this, I don't recall you guys ever going down this path with a customer. What kind of concerns could this customer have about back-end sourcing being able to source the chip from someone other than you just to protect themselves. Wondering, does this have anything to do with the relationship perhaps with EM Microelectronics?"
+  },
+  {
+    "speaker": "Chris Diorio",
+    "role": "",
+    "text": "Good question and good connecting the dots, Jim. Not far enough along to speak to any possibilities along the about the relationship with EM, but you're thinking in the right direction. Right now, we're focused on delivering to the customer's needs, ensuring they have adequate supply and giving them commitments of supply so they have confidence in this chip and their ability to rely on it. As the future evolves and we do more of these things, and I wanna do more custom shifts because we've got other enterprise customers with key needs that aren't addressed without customizations. We will be looking to ensure for them that they have added support adequate supply of chips. Labels, reader ICs, and everything else so they can feel confident moving down this path."
+  },
+  {
+    "speaker": "Jim Ricchiuti",
+    "role": "",
+    "text": "Got it. One final question. I'll jump back in the queue. You suggested that Integu gain market share in endpoint ICUs. The major competitor has introduced a new chip. And I'm wondering how you're thinking about market share particularly with this new chip that you're introducing, and in a related question, it sounds like this competitor is still talking about a license payment in the June. So, Cary, maybe you could help me out. With is that something we should be thinking about as well for Q2?"
+  },
+  {
+    "speaker": "Cary Baker",
+    "role": "",
+    "text": "The way some Demotation you should expect the license payment in Q2, Jim. You should expect it."
+  },
+  {
+    "speaker": "Chris Diorio",
+    "role": "",
+    "text": "We do. So, yes, we'll get the license payment. To the other part of your question, Jim. You know, we're focused on enabling solutions for enterprise end users. Those solutions are just not a are not just a chip. It's not just a chip and an antenna. It's a chip and an antenna and the AirLink supporting it and the reader IC supporting that and the firmware on the reader IC supporting it, the readers and gateway supporting it and the partnership supporting it and then and then solution software. We're focused on driving the entirety of those pieces to create an enterprise solution. And we firm and you see Gen2X as a key part of that initiative. And we firmly believe that by delivering whole solutions, and optimizing so that the solution for the end user we can outperform mix and match efforts using competitor products. And that's our focus."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "The next question will come from Scott Searle with ROTH Capital. Please go ahead."
+  },
+  {
+    "speaker": "Scott Searle",
+    "role": "",
+    "text": "Maybe to start, I just wanted to get a couple of clarifications on some of your comments and some of the initial questions. For starters, on the logistics softness, I want to clarify, is the customer that you're designing a custom chip for, are they in then working down inventory to zero from legacy M700, M800 chips and that's part of the pressure as well. And then as it relates specifically to the custom ASIC, I think you got asked the market share question, but I'll ask it maybe a different way. Know, I would imagine if they're moving in this direction, it should deliver higher share as opposed to splitting the business historically with NXP. Should we be assuming though that you're going to be gaining 100% share with these types of customers? And it sounds like there's more custom opportunities in the pipeline. So how is this going to transition then over the course of 2026 and 2027? And then I had a follow-up."
+  },
+  {
+    "speaker": "Chris Diorio",
+    "role": "",
+    "text": "Yeah, Scott. I'll do my best to those questions. First, we're not just designing the chip. It's in production now. Second, it's dedicated to a single customer, which is our second large North American supply chain and logistics customer. It is targeted at addressing their specific needs, and it is a chip specific to them. We already have high share at that account. It will maintain that share. And we are exploring customizations for other enterprises, that aren't as far down the path as we are this particular instance where we actually have the IC or the chip in production. But more importantly, I view this chip as us engaging closely enough with the enterprise where they can share their needs we can share what we can do, and we can together build a chip. It's not just Impinj, Inc. chip, build a chip for them. It's we work together on it. They came forward with what they needed, and we built it for them. And they're gonna be using it and we intend to keep doing so. You know, I have a mantra in the company. And I push it at every meeting we have, which is we support our end customers. We never let an end customer down. And you should expect that us to do that here. Cary, what did NSC Scott, let me unpack the oh,"
+  },
+  {
+    "speaker": "Scott Searle",
+    "role": "",
+    "text": "well, just one clarification. Inventory bill is just oh, sorry. Before the inventory bill, just, Chris, to clarify then, do you retain the IP and the ability then to license it to additional customers within that same sub-vertical or no?"
+  },
+  {
+    "speaker": "Chris Diorio",
+    "role": "",
+    "text": "Yes. We do in this particular instance retain the IP. I can imagine other scenarios where there might be some shared IP in this instance, we retain the IP. But our focus first and foremost, is supporting that customer. They're a lighthouse customer to us. I consider them a close partner. You should expect us to focus first on them, with this particular chip, and we built it for them specific to them."
+  },
+  {
+    "speaker": "Cary Baker",
+    "role": "",
+    "text": "And, Scott, I'll just unpack the inventory build a little bit. Today, parcel tracking deployment uses the M800 exclusively. The M800 is our general-purpose SKU, meaning it can also support virtually any retail, apparel, or general merchandise application. And that application fungibility gave some of our partners the confidence to lean in build supply ahead of actually winning the award knowing that they can move those ICs through other applications if necessary. So when we were looking at our fourth quarter and we were building our fourth quarter, it came together as we expected. But when we unpacked it unpacked the quarter in mid-January we matched that with our channel inventory reports from our inlay partners, we realized that the logistics-related build had masked the weakness in retail. Now this will get better. With our logistics customer now ramping to the new custom IC that Chris just described, we will have better visibility into logistics-related inventory. We'll be able to match our shipments of that custom IC directly to that end customer's monthly consumption reports. We have to prove it to you, certainly, but we think this gets better going forward."
+  },
+  {
+    "speaker": "Scott Searle",
+    "role": "",
+    "text": "Okay. Very helpful. And if I could just as a follow-up, another market share question. Chris, you've referenced it a lot of times in your opening remarks. But Gen2X provides significant benefits and advantages. It only works with your endpoint IC. So I'm wondering as you look out over the next couple of quarters in '26 and '27, is this the primary driver, of incremental share out there? And will you start to run the table a little bit more in terms of meaningful market share within your existing accounts? Thanks."
+  },
+  {
+    "speaker": "Chris Diorio",
+    "role": "",
+    "text": "I'm gonna yes. I'm gonna answer the question yes. I believe that Gen2X will be the significant driver of our market share gains. But you should think of Gen2X as a toolbox that we can bring to bear, for enterprise customers who have an unmet need and allow us to solve their problem. So to the extent that we have significant enterprise accounts, which we do, we need a way to solve them. Consider Gen2X to be the way we're gonna be driving the solution and going forward, even adding more features and capabilities to Gen2X as we learn and do more. So, essentially, you should think of Gen2X as a way to improve the readability overall performance, and protection capabilities provided by RAIN RFID. To reduce labor cost to speed inventory, to provide readability work, you wouldn't have it otherwise, to localize where items are, to identify exits and theft. And many we have protect consumer privacy in many other areas where we put that whole toolbox together it's the driver of our differentiation in the market. It's kind of manifestation it, but it's also a manifestation of our overall solution strategy. For the two together, they're gonna be the drivers of our success."
+  },
+  {
+    "speaker": "Scott Searle",
+    "role": "",
+    "text": "Hey. Great. Thanks so much. I'll get back in the queue."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "The next question will come from Natalia Winkler with UBS. Please go ahead."
+  },
+  {
+    "speaker": "Natalia Winkler",
+    "role": "",
+    "text": "Hi. Thank you so much for taking my question. I just wanted to ask one more on the fourth quarter kind of outlook for you guys. So if I understood Cary correctly, Cary, you mentioned several weeks of inventory burn for retail. Right? And it sounds like each week is $5 million. So if I'm thinking, you know, even of a sequential, you know, reduction of $20 million, it sounds like you know, more than half of that is probably related to the retail inventory burn-down. Is that kind of a fair way to think about it? Or is it more nuanced?"
+  },
+  {
+    "speaker": "Cary Baker",
+    "role": "",
+    "text": "I think that's a fair way to think about it. It's a few weeks of inventory, not several. It's primarily related to supply chain logistics for the reasons I just described. You're correct in that the impact is about $5 million per week of burn-down. And then the other factors, are far less impactful, are pricing and mix, a sized pricing at a couple million dollars, and mix of less than that."
+  },
+  {
+    "speaker": "Natalia Winkler",
+    "role": "",
+    "text": "Awesome. Thank you so much. And then I guess a follow-up. Can you guys help us understand, you know, clearly, it's a highly complex supply chain for retail, right, with kind of multiple different steps and stages in it. Can you walk us through your, you know, forecasting process and maybe part of the reason, like, why we're seeing such a strong kind of corrections and burnout that may be a little bit less predictable than for some of the other end markets you guys cover?"
+  },
+  {
+    "speaker": "Cary Baker",
+    "role": "",
+    "text": "Yeah. So the inventory build was related to logistics. We had a similar logistics build last year at the same time, but for different reasons. It's nonetheless frustrating. This year's build is a result of our partners leaning in ahead of winning the supply rep supply or supply awards or label awards following the label reallocation process. They were comfortable leaning in because up until the custom IC ships, the M800 goes into the package the tracking deployment. The M800 is a fungible SKU across the industry in that its general purpose. It can support retail apparel. It can support general merchandise. It can support logistics. That fungibility gave our partners the confidence to lean in build extra inventory in hopes of winning an award. Because if they didn't win the award or didn't win as much of an award as they thought, they would be able to burn that inventory down through the rest of their market opportunities. We didn't realize that in the fourth quarter as it was happening. Because our fourth quarter from a unit volume perspective was coming in right as we expected. When we began unpacking the fourth quarter volumes in mid-January, and we matched that with the channel inventory reports we received around that same time, we realized that the logistics build had masked some weakness in retail apparel that we didn't anticipate and wasn't obvious to us until that point. Now I think next year, this gets better. And I know we have to prove that first given the last two years of channel inventory builds. But I think it gets better because we will only ship one SKU to that customer. It's only usable by that customer, and we will be able to match our shipments with their monthly consumption reports and the difference between the two is the inventory that will be in the channel. So again, we have to prove it to you. But I think we get better next year at that."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "The next question will come from Troy Jensen with Cantor Fitzgerald. Please go ahead."
+  },
+  {
+    "speaker": "Troy Jensen",
+    "role": "",
+    "text": "Hey, gentlemen. Thanks for taking my questions. Maybe for Chris, I guess either one of you guys, you know, these customers that were leaning in, right, in the hopes for the awards, sounds like they went to a competitor. So I'm just curious why do you think we had this share loss the quarter? Was running No. They didn't go to our competitors. Right. No. No. That wasn't part of it. There was no none of that moving to a competitor. So just a awards awarded They there's a new IC coming? They, anticipated some wins. They started building to the new IC, At the same time, they know their existing inventory is gonna it needs to get burned down. So they started buying ahead. The ones who as we said in our prepared remarks, the ones who didn't win as much now need to burn down their inventory in the first quarter."
+  },
+  {
+    "speaker": "Cary Baker",
+    "role": "",
+    "text": "So, Troy, the only thing I'd add to Chris is that our logistics customer rebids their label suppliers each year. It's still the M800, for all labels, but the mix of inlay partners that support them each year can change. Based on that rebidding process. And that rebidding process here this year coupled with the fungibility of the M800 that I just described, gave them the confidence to lean in and buy more supplies so they could be more responsive if they won the award or to win a greater share of the award."
+  },
+  {
+    "speaker": "Troy Jensen",
+    "role": "",
+    "text": "Gotcha. And they knew that if they didn't win as much, they would be able to take that inventory out through virtually any other retail apparel or general merchandise application."
+  },
+  {
+    "speaker": "Chris Diorio",
+    "role": "",
+    "text": "Yep. Okay. Understood. So several partners probably thought they're gonna win the award and went to one. Exactly. It was oversubscribed. The award was oversubscribed. Exactly. And the we compound it with a new chip entering the market, and there still needs to be a further burn down of the existing M800 product."
+  },
+  {
+    "speaker": "Troy Jensen",
+    "role": "",
+    "text": "Yep. Okay. Understood. And then, maybe just to follow-up with the, you talked about retail SKU growth you're seeing. I'm curious if that's broad-based or is that just limited to a couple of your bigger customers?"
+  },
+  {
+    "speaker": "Chris Diorio",
+    "role": "",
+    "text": "It was a SKU growth in general merchandise. You mean retail apparel? Growth?"
+  },
+  {
+    "speaker": "Troy Jensen",
+    "role": "",
+    "text": "I think it means SKU growth in general. On SKU Just the common SKU growth, was that just based on a few large customers, or is it more broad-based?"
+  },
+  {
+    "speaker": "Chris Diorio",
+    "role": "",
+    "text": "The comment on SKU growth in existing categories as well as the potential for new categories was related to a small number a pretty small number of customers in the general merchandise space."
+  },
+  {
+    "speaker": "Troy Jensen",
+    "role": "",
+    "text": "Gotcha. Okay. Good luck this year, guys."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "The next question will come from Guy Hardwick with Barclays. Please go ahead."
+  },
+  {
+    "speaker": "Guy Hardwick",
+    "role": "",
+    "text": "Hi, good evening. Hi, guys. Hi, guys. Just a couple of questions. So I think a year ago, when you had an inventory overhang in the T&L space, you said some similar comments that it could take more than a quarter to clear the inventory, but I think you actually cleared the inventory in just one quarter. What's different this time? And then as a follow-up, it looks like you have pretty good visibility on the endpoint IC business that you're pretty much already booked for Q1 within the midpoint of your guidance, looking at your comments. So what does that tell you or tell us in terms of what's the underlying growth in the endpoint IC market of 2025 levels?"
+  },
+  {
+    "speaker": "Cary Baker",
+    "role": "",
+    "text": "Guy, this is Cary. I'll try to take both of those questions. So, yes, it is the same in that it's the supply chain logistics space. There are a variety of different reasons, which I've already covered. We last year, we were successful in burning all that channel inventory out in the first quarter. We are attempting to do the exact same thing this year. However, we know that inventory corrections are seldom contained to one quarter and we just wanna be cautious with our guidance so that if it does spill into the second quarter, we have room to do that. As it relates to our guidance, we are seeing strong signals from our bookings and our turns order in quarter to date. So think of January through February. That is turns at a higher rate than it was at the same time in fourth quarter more than double, and 50% up from last year January. That has put us in a position where we are 100% booked to the midpoint of our guide for our endpoint IC business or nearly 100% booked. We're giving ourselves a little bit of room because we aren't done with the annual price negotiations. We still have a couple that are outstanding there. And also, the Chinese New Year occurs later this year than it did last year, and we typically see a low in bookings during those three weeks."
+  },
+  {
+    "speaker": "Guy Hardwick",
+    "role": "",
+    "text": "Thank you. Good day."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "The next question will come from Christopher Rolland with Susquehanna. Please go ahead."
+  },
+  {
+    "speaker": "Dylan Olivier",
+    "role": "",
+    "text": "Hi there. This is Dylan Olivier on for Chris. Thanks for taking my question. Maybe pivoting away a bit from this inventory situation and sort of bigger picture question. I wanted to ask about sort of the competitive landscape, particularly against non-RFID components. We've heard some news flow of some end users kind of pivoting away to some more BLE and, you know, other protocols. Is that something that you consider a risk? Or do you remain confident in RFID as a long-term solution?"
+  },
+  {
+    "speaker": "Chris Diorio",
+    "role": "",
+    "text": "Dylan, this is Chris. The simple answer is we remain confident to bring our RFID as a long-term solution. The just two different technologies. And active BLE with batteries has a particular use case. For tracking things like temperature and other kind of stuff against continuous data logging. That's complementary. Passive BLE for beaconing operates in a narrow window of use cases. And again, with some different features and capabilities that I also view as mostly complementary. The volume differences between the two are gigantic. I mean, you know, our industry delivered 52.8 billion ICs last in 2024. And volume differences are gigantic. The infrastructure is different. I view them as mostly complementary. Of course, with every complementary thing, there's a bit of overlap. But I don't really look at the competitiveness. I look at complementary things. And trying to enable the end customer with a solution that meets their needs."
+  },
+  {
+    "speaker": "Dylan Olivier",
+    "role": "",
+    "text": "Thanks. Appreciate the color here. And then maybe more of a housekeeping question for my second for my follow-up. But, yeah, you had that EM Microelectronics license announcement in the quarter. Just wondering if Yeah. How we think about that impacting the model, if there's gonna be a recurring revenue and if that's gonna be consistent through the year."
+  },
+  {
+    "speaker": "Chris Diorio",
+    "role": "",
+    "text": "Yeah. There's an immaterial impact to revenue in 2026. We're still working on what that first chip might be, likely a dual-frequency IC. Likely not available this year. It just view it as a strategic partnership. And then just think that it so the answers that we gave to Ed Jim's question, you know, view the strategic partnership as a way for us to deliver confidence to our end users."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "The next question is a follow-up from Harsh Kumar of Piper Sandler. Please go ahead."
+  },
+  {
+    "speaker": "Harsh Kumar",
+    "role": "",
+    "text": "Yeah. Hey, guys. So I was curious how long do you think it would take for you to be fully penetrated at your second largest logistics customer with the custom chip. And am I correct in assuming that custom chips typically mean better pricing than a normal chip?"
+  },
+  {
+    "speaker": "Chris Diorio",
+    "role": "",
+    "text": "So I'll take the first answer. So the customer plans to fully switch over to that ship this year. That's what I said in my prepared remarks. And as Cary said, are pricing the chip to market. Cary, anything you wanna add?"
+  },
+  {
+    "speaker": "Harsh Kumar",
+    "role": "",
+    "text": "Did I answer your question, Harsh?"
+  },
+  {
+    "speaker": "Harsh Kumar",
+    "role": "",
+    "text": "Well, I guess there is no market for a custom chip. Right? The standard in RFID, and you've got a custom product. I would suspect So are you saying that your pricing is similar to M800? Or more than that?"
+  },
+  {
+    "speaker": "Chris Diorio",
+    "role": "",
+    "text": "I'm gonna say that we're pricing it to as I also said in some of the prepared remarks, a little bit further down. To drive an ROI for the end customer and for us."
+  },
+  {
+    "speaker": "Harsh Kumar",
+    "role": "",
+    "text": "Okay. Fair enough. Fair enough. Thank you."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "This concludes our question and answer session. I would like to turn the conference back over to Chris Diorio, Co-Founder and CEO, for any closing remarks."
+  },
+  {
+    "speaker": "Chris Diorio",
+    "role": "",
+    "text": "Thank you, Nick. I'd like to thank you all for joining the call today. And thank you for your ongoing support. Bye-bye."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "The conference has now concluded. Thank you for attending today's presentation. You may now disconnect."
+  }
+]

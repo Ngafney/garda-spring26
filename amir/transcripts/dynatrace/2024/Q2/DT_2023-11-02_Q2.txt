@@ -1,0 +1,358 @@
+Operator
+Greetings. Welcome to Dynatrace's fiscal second quarter 2024 earnings call. At this time, all participants are in listen-only mode. The question-and-answer session will follow the formal presentation.
+[Operator instructions] Please note, this conference is being recorded. I'll now turn the conference over to Noelle Faris, vice president of investor relations. Ms. Faris, you may begin.
+Noelle Faris
+--
+Vice President, Investor Relations
+Good morning, and thank you for joining Dynatrace's second Quarter fiscal 2024 earnings conference call. Joining me today are Rick McConnell, chief executive officer; and Jim Benson, chief financial officer. Before we get started, please note that today's comments include forward-looking statements, such as statements regarding revenue, earnings guidance, and economic conditions. Actual results may differ materially from our expectations due to a number of risks and uncertainties discussed in Dynatrace's SEC filings, including our most recent quarterly report on Form 10-Q that we filed earlier today.
+The forward-looking statements contained in this call represent the company's views on November 2, 2023. We assume no obligation to update these statements as a result of new information, future events, or circumstances. Unless otherwise noted, the growth rates we discussed today are non-GAAP, reflecting constant currency growth and per share amounts are on a diluted basis. We will also discuss other non-GAAP financial measures on today's call.
+To see reconciliations between non-GAAP and GAAP measures, please refer to today's earnings press release and supplemental presentation, which are both posted in the financial results section of our IR website. And with that, let me turn the call over to our chief executive officer, Rick McConnell.
+Rick McConnell
+--
+Chief Executive Officer
+Thanks, Noelle, and good morning, everyone. Thank you for joining us for today's call. We had an outstanding quarter, exceeding the high end of our guidance across all metrics. ARR grew 24% year over year in constant currency.
+Subscription revenue increased 26% year over year in constant currency. Non-GAAP operating income increased to $106 million or 30% of revenue. And we delivered a 25% free cash flow margin on a trailing 12-month basis, including a 4-point impact for cash taxes. These results continue to highlight the increasing criticality of observability and application security and the significant value our platform provides to our customers.
+They also demonstrate the strength and resilience of our business model, resulting in a balanced combination of top-line growth and profitability, as well as our ability to execute consistently in a challenging macro environment. Jim will share more details about our Q2 performance and increased fiscal 2024 guidance in a moment. In the meantime, I'd like to review my perspective of the observability market, areas of strategic go-to-market investment, and our ongoing focus on innovation. Let me start with what I'm hearing from customers.
+We've just wrapped up our annual Dynatrace Innovate series. We welcome over 1,200 customers, prospects, and partners in person to our events in Sao Paulo, Sydney, and Barcelona. These events had tremendous value in terms of exchanging ideas, highlighting the value of our latest innovations, and building long-term relationships. They also provide me with the opportunity to have one-on-one conversations with key decision makers about the topics that are critical to their businesses.
+A few themes stood out across these events. First, observability and application security are critical, not only to customers digital transformation journeys but also a key element to business transformation and how they win in their respective markets. The CIO of a major Asia-Pacific bank told me that they expect to differentiate on the quality of their software and user experience and further that Dynatrace is a core part of their strategy to achieve this business outcome. Second, large enterprises continue to outgrow their DIY, open-source, and competitive dashboard and monitoring tools, seeking instead a much more dynamic, fully unified observability platform.
+They want a solution that leverages all data types, traces, metrics, logs, real user data, etc., with the analytics and context that come from a unified data store rather than a common user interface that requires a lot of extra effort to leverage. They come to Dynatrace to gain efficiencies through our AI and automation capabilities to proactively resolve issues before they result in costly outages. The CIO of a large Canadian financial customer told me that he wants to leverage Dynatrace to move to the next level of software reliability and performance. He believes that Dynatrace will enable better prediction of user impacting issues and, in so doing, improve business results.
+And, perhaps, an even more clear articulation of the value that Dynatrace provides our customers when it comes to identifying and resolving issues proactively is from the CTO of a major bank in India. What he told me was, "We sleep because you don't." And third, vendor consolidation and standardization across their organizations are key priorities. Observability decisions that have previously been made at the department or even application level, especially in large complex enterprises, are increasingly centralizing. Dynatrace helps eliminate siloed tools, radically improve software availability and performance, reduce cost, and increase organizational productivity.
+This enables our customers' teams to focus on innovation and growth rather than break, fix, and maintenance. I had a customer from a Global 50 technology company tell me, based on a very broad deployment of Dynatrace, that our platform is magic, providing insights into their software performance that they couldn't reproduce otherwise with multiple alternative tools. As a result of these market dynamics and the accelerated merging of business and technology objectives and strategies, customers are prioritizing observability spend. And our unified platform, AI leadership, and automation are the three principal differentiators enabling them to derive maximum value from these investments with Dynatrace.
+This leads me to three strategic areas of increased go-to-market investment for the second half of our fiscal year to promote future top-line growth. First, we continue to evolve and expand our partner focus, especially with the world's most preeminent global system integrators and hyperscalers. To start, our customer base aligns directly with that of the GSIs. Given the complexity of cloud deployments amid broad-based digital transformation projects, observability has moved from optional to mandatory.
+And our GSI partners have broadly selected Dynatrace as their observability platform of choice for such initiatives. In addition to our existing relationships with Deloitte and DXC, yesterday, Kyndryl and Dynatrace together announced a global strategic alliance which has already resulted in numerous six and seven figure wins. This agreement leverages Kyndryl's experience as the world's largest IT infrastructure services provider and, given our shared focus on AIOps, will enhance our joint cloud and application modernization offerings. We are additionally pleased to announce the evolution of our partnership with Accenture.
+This expanded engagement brings together the value of the Dynatrace platform with Accenture's global professional services capabilities and cloud modernization delivery experience. Together, we can enable customers to accelerate their digital transformation and modernization journeys with end-to-end observability and application security. With respect to hyperscalers, this past quarter, we extended our footprint with new cloud regions in Sao Paulo, Sydney, and Zurich. Additionally, we announced an expanded go-to-market partnership with Microsoft, as well as the planned availability of Grail natively on Azure for early deployments by the end of this calendar year.
+A second area of go-to-market expansion is our plan to accelerate the addition of sales capacity in the second half of our fiscal year. While we are not currently capacity-constrained, we believe incremental resources near term can contribute meaningfully to growth in fiscal 2025 and beyond. And third, we plan to add various targeted marketing investments to drive top-of-funnel pipeline. While we expect the current macro conditions to persist through the end of our fiscal year, we plan to increase spend levels prudently to enable incremental share gains in the future.
+Importantly, we plan to make these additional investments within the envelope of our guidance that Jim will cover in more detail. I'd like to share a few customer wins this past quarter that are illustrative of our go-to-market evolution. A major e-commerce company realized that some potential customers were unable to add products to their online shopping cart, resulting in millions of dollars of lost revenue. Dynatrace identified the root cause of the issue during a POC, leading to a seven-figure competitive win.
+A large government agency expanded their existing relationship with Dynatrace after realizing a unified analytics platform could save them more than $4 million over five years. The agency originally chose Dynatrace due to our highly automated approach and the maturity of our AI capabilities. Once Dynatrace was in place, they realized they could identify potential problems before they occur, allowing them to resolve issues before they result in costly outages. And a leading financial services company was struggling with tool sprawl, spiraling costs for logs, and unanticipated overages from other vendors.
+Benefiting from the predictability and flexibility of the new Dynatrace platform subscription, or DPS agreement, the customer signed a seven-figure multiyear deal. Within a day of instrumenting one of their key apps, Dynatrace identified the source of a problem they had been struggling with for months. I love these depictions of the value that we deliver, but we don't for one moment take these perspectives for granted, and we are committed to earning our customer support each day in a rapidly evolving technology landscape. Next, I'd like to turn to our relentless focus on market-leading innovation that drives our entire organization as one of our core values.
+This is especially evident in the continuous stream of new capabilities that enhance our platform. Beginning with AI, our customers have benefited from Davis for more than a decade. Last quarter, I shared AR plans to add a third critical element to our existing Davis AR architecture, a generative AI capability named Davis CoPilot. I'm happy to share that we are on track with our development efforts to deliver early previews by the end of the calendar year and general availability in early calendar 2024.
+Of course, many organizations have announced strategies around generative AI. Our approach, however, goes far beyond simply adding a natural language interface that relies on human intelligence to steer gen AI queries. Dynatrace Davis AI will combine predictive, causal, and generative AI techniques, with each one excelling in specific capabilities. For example, Davis predictive and causal AI will feed comprehensive and precise prompts to Davis CoPilot.
+Davis CoPilot will, in turn, create queries, dashboards, and suggested code for automation workflows. This enables customers to avoid outages or performance degradations before they happen and help remediate and resolve active incidents when they arise. We think of the convergence of these three AI techniques as hypermodal in that they will deliver incredible power individually and even more so together. Hypermodal AI enables customers to advance their visibility in their IT ecosystem from infrastructure and apps, all the way to end-user experience.
+Second, October marked the first anniversary of several of the most significant innovations in our platform to date, including Grail. As I've mentioned in the past, Grail is a massively parallel processing indexless data lakehouse or data store that provides near real-time analytics and insights into how an IT environment is working. Grail is available as a SaaS offering, which comprises the majority of our customer deployments. Essentially, all of our AWS SaaS customers are now running on Grail.
+And as I mentioned, our Grail deployment with Azure is slated to begin rollout by the end of this quarter. Log management is a monetizable use case that leverages the power of Grail. As of the second quarter, we had 300 customers leveraging logs powered by Grail to help eliminate manual correlations between multiple tools, alerts, and data silos, in addition to reducing cost. A major U.S.
+car rental company added Logs on Grail to their existing deployment to gain visibility into business events that were causing delayed API responses and revenue impact. They are using nearly 200 custom metrics across the enterprise with instant learning and auto remediation to proactively identify and resolve performance issues to grow their business. Third, we continue to innovate in application security. Public headlines of security breaches and stolen credentials, along with the new SEC reporting requirements for cybersecurity incident disclosures, are helping elevate awareness for additional security coverage.
+In August, we announced the expansion of our security capabilities to include security analytics. Now, customers can detect, prioritize, and investigate runtime vulnerabilities. Security analytics also integrates with automation engine which can create workflows to assess impact and trigger a response. A Texas government agency expanded their existing deployment with us to include security protection and analytics which accounted for more than 40% of the expansion deal.
+And finally, we are excited about the ongoing evolution of our platform in the area of developer observability. We believe development teams will continue to take on a larger role in the observability and security decision process, and we are developing tools to streamline their product development lifecycle. We recently closed the acquisition of Rookout, a highly differentiated technology that enables developers to debug live code in production. We believe that integrating Rookout's debugging technology seamlessly into the Dynatrace platform will be very powerful for development teams, enabling them to extend left the value of observability for their organizations.
+Before I turn the call over to Jim, I'd like to highlight our inaugural global impact report, which is available on the Dynatrace website. We believe advancing our ESG strategy is paramount to our success and our responsibility as a global company. The report details progress related to Dynatrace's three ESG pillars: sustaining the environment; people, culture, and community; and governance and ethics. As part of the report, we disclosed our baseline greenhouse gas emissions data for the first time and provided an expanded scope of data on diversity, equity, inclusion, and belonging.
+We will continue to develop and implement programs that drive progress on our ESG initiatives and engage with our stakeholders as we expand our ESG roadmap. In closing, I'm very pleased with our Q2 execution and believe we are well positioned to deliver strong results in the back half of FY '24. A market for observability and application security is extremely large and growing. Our unified platform, AI leadership, and automation differentiate us in the market and place us in a position of strength relative to our competition.
+And we plan to continue to manage our business prudently and invest strategically in those areas that we believe will enable us to extend our leadership position in the future. Jim, over to you.
+Jim Benson
+--
+Chief Financial Officer
+Thank you, Rick, and good morning, everyone. Q2 was another quarter of consistent execution by the Dynatrace team. We delivered strong results in a dynamic environment, beating the high end of our guidance across all of our top line and profitability metrics be strong. Results were driven by the combination of high-value new logo lands on the Dynatrace platform, the ongoing expansion of existing customers, and an inherently efficient business model, allowing us to deliver a continued balance of growth and profitability.
+Our ability to successfully navigate in a tight budgetary environment is a testament to the resilience of our value proposition, our commitment to customer success, and our incredible team. Now, let's dive into the second quarter results in more detail. And please note that the growth rates mentioned will be year over year and in constant currency, unless otherwise stated. Starting with annual recurring revenue, or ARR, total ARR for the second quarter was $1.34 billion, an increase of $279 million year over year, representing 24% year-over-year growth.
+Net new ARR on a constant currency basis was $59 million in the quarter and exceeded our expectations in what is normally one of our seasonally lightest bookings quarters of the year. This outperformance was driven by several notable seven-figure competitive winds and ongoing expansions in the customer base. We added 160 new logos to the Dynatrace platform in Q2, roughly consistent with the year-ago quarter. As we have shared in the past, we are very focused on the quality of new logo lands that have a greater propensity to expand.
+The average ARR per new logo land size continues to grow and was roughly $140,000 on a trailing 12-month basis, up 18% year over year. As Rick outlined, we continue to attract enterprise customers that are outgrowing their existing DIY or commercial tooling solutions and coming to Dynatrace for the depth, breadth, and automation of our unified observability platform. Our gross retention rate remained best in class in our industry in the mid-90s and contributed to a net retention rate of 114% in the second quarter, in line with our expectations. Observability remains a priority for our customers, and we continue to see them expand with us, albeit at a moderate pace, as they move more cautiously in an uncertain economy.
+Customer platform adoption remains strong with 64% of our customers using three or more modules, up from 55% of customers in the year-ago quarter and with an average ARR of over $500,000. As Rick mentioned, we see growing customer interest in newer product offerings including logs on Grail and application security. Our track record of groundbreaking innovation will support expansion opportunities in our installed base with more meaningful ARR contribution from our latest product introductions expected in fiscal '25. We also believe the new DPS pricing model is another area that will drive future expansion opportunities.
+We're seeing traction with both new customers joining the platform and existing customers like Duke Energy and an Australian government agency who prefer the flexibility and predictability of our DPS licensing model. We have closed over 100 DPS deals globally since it became generally available in April of this year, bringing total DPS customers to over 250. And while the rollout is still in the early stages, we believe DPS has the potential to drive meaningful accretion in net retention rate across most of our installed base in the future. Moving on to revenue, total revenue for the second quarter was $352 million, up 24% year over year.
+And subscription revenue for the second quarter was $334 million, up 26% year over year. Both exceeded the high end of our guidance by $6 million, driven by strong bookings linearity in the quarter. With respect to margins, non-GAAP gross margin for the second quarter was 85%, up a point from the prior quarter and up 2 points from Q2 of last year. Our non-GAAP operating income for the second quarter was $106 million.
+This is $13 million above the high end of our guidance range. Roughly half of the overachieving was driven by the revenue upside in the quarter. The other half was driven by gross margin improvements from ongoing cloud hosting efficiency efforts, prudent half-one hiring, and the timing of the Rookout acquisition closing. This resulted in a non-GAAP operating margin of 30%, exceeding the top end of the guidance range by 300 basis points.
+Non-GAAP net income was $93 million or $0.31 per diluted share. This was $0.04 above the high end of our guidance range, driven by the items I just highlighted. Our free cash flow was $34 million in the second quarter. As we've mentioned in the past, we believe it is best to view free cash flow over a trailing 12-month period due to the seasonality and variability in billings quarter to quarter.
+On a trailing 12-month basis, free cash flow was $330 million or 25% of revenue. As a reminder, this includes 400 basis points of impact related to cash taxes. Pre-tax free cash flow on a trailing 12-month basis was 29% of revenue and up 32% year over year. Finally, we ended the second quarter with a robust balance sheet, including $702 million of cash and zero debt.
+Moving on to guidance, we are raising our full year guidance across all top line and profitability metrics to reflect the strength of our second quarter performance, the health of our pipeline, and our visibility into the back half of the fiscal year. This increase in guidance includes incremental FX headwinds from a strengthening U.S. dollar. Before I jump into the details, there are a few items to keep in mind with respect to our guidance.
+First, the building blocks of growth for the business continue to be new logos and net retention rate. This guidance assumes new logo growth in the low single digits and a net retention rate of 112% to 113% for the second half of fiscal 2024. Second, our guidance assumes the net new contribution from new logos will approach 40% with roughly 60% of net new ARR from expansion activity. This mix differs from a historical mix of roughly one-third of ARR growth from new logos and two-thirds from expansion.
+But given the robust new logo pipeline health and growing deal sizes, we believe that net new ARR mix will be more weighted to new logos than in the past. Third, the strengthening of the U.S. dollar since our last call creates a headwind relative to our prior full year guidance. Incrementally, the foreign exchange headwind is roughly $16 million to ARR and approximately $8 million to revenue for the full year.
+And with that, let's start with our updated guidance for the full year with growth rates in constant currency. We are raising our ARR guidance by roughly $3 million at the midpoint to $1.48 billion to $1.49 billion, representing 19% to 20% growth year over year, up 100 basis points from our prior guidance. This guidance raise represents an increase of approximately $19 million on a constant currency basis. Given the strength of ARR in the second quarter, we now expect the seasonality of net new ARR to be similar to prior years with roughly 40% in the first half and 60% in the back half of fiscal '24.
+Also similar to last year, we expect Q4 net new ARR to be slightly higher than Q3 on a constant currency basis. We are raising our revenue guidance by approximately $7 million at the midpoint to $1.409 billion and $1.419 billion, representing 21% to 22% growth year over year, up 100 basis points from our prior guidance. This guidance raise represents an increase of roughly $15 million on a constant currency basis. We are raising our subscription revenue guidance by approximately $6 million at the midpoint to $1.334 billion to $1.344 billion, representing 22% to 23% growth year over year, up 100 basis points from our prior guidance.
+This guidance raise represents an increase of roughly $14 million on a constant currency basis. Turning to our bottom line, the strength and resilience of our financial model is evident in our ongoing margin performance. We are committed to maintaining a balanced approach that optimizes costs to drive profitability while also investing in future growth opportunities that we believe will drive long-term value. We will continue to invest heavily in R&D and innovation.
+And as Rick mentioned, we plan to step up go-to-market investments in several areas, GSI partnerships, sales capacity, and demand generation activities. With this in mind, we are still raising our full year non-GAAP operating margin guidance by 125 basis points to 27%, an increase of $20 million at the midpoint. We are raising non-GAAP EPS guidance, $1.09 to $1.12 per diluted share, representing an increase of $0.06 at the midpoint of the range. This non-GAAP EPS is based on a diluted share count of 300 million to 301 million shares and a non-GAAP effective cash tax rate of 19%, consistent with prior guidance.
+And finally, we are raising our free cash flow guidance to $313 million to $320 million, representing an increase of $9 million at the midpoint and a free cash flow margin of 22% to 23% of revenue. As a reminder, while we do not guide free cash flow quarterly due to the seasonality and variability in billings, as well as the timing of cash tax payments, we expect free cash flow to be higher in our first and fourth quarters and significantly lower in our second and third quarters. Looking at Q3, we expect total revenue to be between $356 million and $359 million or 19% to 20% growth. Subscription revenue is expected to be between $337 million and $340 million, up 20% to 21% year over year.
+From a profit standpoint, non-GAAP operating income is expected to be between $94 million and $97 million or 26.5 to 27% of revenue. And non-GAAP EPS is expected to be $0.27 to $0.28 per diluted share. In summary, we are very pleased with our second quarter fiscal '24 performance, and we have a strong pipeline and good visibility into the remainder of the fiscal year. We continue to take a prudent approach to our outlook given the ongoing volatility of the macro environment, but we remain optimistic about our long-term growth opportunities and our ability to deliver balanced growth and profitability.
+And with that, we will open the line for questions. Operator?
+Questions & Answers:
+Operator
+[Operator instructions] And our first question is from the line of Matt Hedberg with RBC Capital Markets. Please proceed with your question.
+Matt Hedberg
+--
+RBC Capital Markets -- Analyst
+Great, thanks. Thanks, team. Great quarter. And I think you did a good job outlining all the product advancements, certainly a lot to look forward to there.
+You know, what struck me in your comments you mentioned stepping up hiring in the second half. That sounded bullish to us, given sort of what you guys talked about on the call. With unchanged macros out there, I guess maybe just to double click on what gave you the confidence to reinvest in the business now?
+Rick McConnell
+--
+Chief Executive Officer
+Thanks, Matt. Appreciate the comment. What we're seeing is very good visibility and pipeline into the second half, which, obviously, has increased in visibility for the second half relative to where we were last quarter. So, that's point number one.
+And point number two is that at some stage, macro is going to improve. And obviously, in putting in place salespeople, it takes some time to really get them ramped to value. So, we wanted to start at this stage to be prepared for FY '25.
+Matt Hedberg
+--
+RBC Capital Markets -- Analyst
+That sounds good. Maybe just one other quick one. You know, in the spirit of unchanged macros, you know, curious -- you guys aren't necessarily tied to consumption as much as others. But curious what you saw on kind of the cloud optimization trends within your customer base.
+I know that's been an ongoing debate with hyperscaler, but curious what your customers are saying on the optimization side.
+Rick McConnell
+--
+Chief Executive Officer
+Our view is that the optimization cycle continues. The good news is with a subscription as opposed to directly consumption-oriented business model, we have an opportunity to really prevent the same degree of impact that others see in the optimization cycles. So, that's good. I'd say that's point one.
+Point two, from our perspective, as we maintain that over the last couple of calls, is that we really see observability as, in many ways, an antidote to cloud optimization cycles by making your cloud deployments actually more efficient. So, we continue to see that in our new logo lands which were very strong last quarter.
+Matt Hedberg
+--
+RBC Capital Markets -- Analyst
+Thanks a lot.
+Operator
+Our next question is from the line of Pinjalim Bora with JPMorgan. Please proceed with your question.
+Pinjalim Bora
+--
+JPMorgan Chase and Company -- Analyst
+Hey, thank you so much. I just wanted to double-click on the strength in ARR performance this quarter. Maybe talk about what drove that. Was there any push-outs from Q1 that helped -- you know, anything to call out in terms of federal budget flush that you saw? Anything that would help?
+Jim Benson
+--
+Chief Financial Officer
+Thank you, Pinjalim, I'll take that. So, we had a really strong Q2. And really, we continue to see -- and we've actually -- this has been probably three or four quarters now in a row where we continue to see growing interest in Dynatrace on the new logo front with really high-quality lands. And so, that trend is continued.
+Our pipeline, as I mentioned in our prepared remarks for new logos in the back half, is also quite strong. So, we had a really strong second quarter for new logo lands, which I think is a testament to the value proposition of the Dynatrace platform. Customers are outgrowing either DIY solutions or, in several cases, outgrowing competitive solutions that just couldn't scale. And so, that was largely the driver, Pinjalim.
+And as I mentioned before, we're still seeing healthy expansions. We're just seeing expansions at a more moderate pace as customers are more cautious, given the macro environment.
+Pinjalim Bora
+--
+JPMorgan Chase and Company -- Analyst
+Understood. One for Rick. On Logs on Grail, cost has been an issue in general in the industry around log analytics for customers. What has been the customer feedback on pricing for log analytics on Grail? And maybe touch on the pipeline for Logs on Grail for the second half, and if you are seeing any kind of an impact from the recent acquisitions in the industry kind of starting to help at least in the conversations, if not, the approaches?
+Rick McConnell
+--
+Chief Executive Officer
+Thanks, Pinjalim. On the pipeline, perhaps, I'll cover that one first. Last quarter, we reported on the order of about 300 POCs in Logs on Grail. And as we sit here, this quarter, we've got a few hundred or so paying logs on Grail customers, and the POC pipeline has increased by about 20% over where we were last year.
+So, we're seeing, I would say, very good penetration of Logs on Grail overall. On the pricing piece, our expectation is that while we do price more heavily in the analytics area than say in the ingest or storage area of logs, that on average, we're going to still provide a discount to current market pricing from most other vendors. So, we should be a good solution in the market from a pricing and cost endpoint as well.
+Pinjalim Bora
+--
+JPMorgan Chase and Company -- Analyst
+Understood. I'll cede this one. Thank you.
+Operator
+Our next question is from the line of Will Power with Baird. Please proceed with your question.
+Will Power
+--
+Robert W. Baird and Company -- Analyst
+OK, great. Thanks. Rick, maybe starting with you, just interested in some of your comments on your Innovate meetings, and in particular, kind of what you're hearing with respect to customer demand around some of the hypermodal, you know, AI capabilities that you're working on, expect to go GA next year. Just love to kind of hear your perspective as to, you know, what customers are looking for there, what demand indicators look like on that front, and then how you're thinking about the monetization there.
+Rick McConnell
+--
+Chief Executive Officer
+Thanks, Will. The short form is that as customers understand our story, they fully appreciate the notion that we deliver causal and predictive AI today and we have for over a decade. And these are highly deterministic AI techniques. So, they provide very precise answers and intelligent automation from data already.
+The generative piece through Davis CoPilot then is incremental to essentially provide, not only a natural language interface into causal and predictive AI but to do so in an iterative way to make the whole greater than the sum of the parts. So, from the feedback that I got from Sao Paulo, Sydney, Barcelona, the Innovate sessions we did, there is a lot of talk around how to leverage Dynatrace for all three AI techniques as we look to the future.
+Will Power
+--
+Robert W. Baird and Company -- Analyst
+OK. Any thoughts just with respect to kind of the monetization, you know, piece of that, how that kind of folds into the equation?
+Rick McConnell
+--
+Chief Executive Officer
+We haven't finalized the monetization piece, Will, but we will do so over the coming quarter or so to sort out how we're going to monetize generative AI and Davis CoPilot in particular. But nothing to report yet on that at this point.
+Will Power
+--
+Robert W. Baird and Company -- Analyst
+OK. And if I could just sneak in one, maybe for Jim, just thinking about, you know, net retention rates, I know, you know, down a bit, although I know, you know, expected. I just did -- would kind of love to try to get a little additional cover as to what's driving that. Is it, is it, you know, fewer new product expansions? Is it lighter usage? You know, weaker renewals? Just anything else you could, you know, the color there.
+Jim Benson
+--
+Chief Financial Officer
+Well, I'll start with -- I mean, our renewals remain really strong. I mean, we've talked about that that our gross retention rate remains in the mid-90s. So, the product is very, very sticky. So, it's certainly not a retention rate.
+It's -- as I outlined kind of in the prepared remarks, that we -- there are customers that continue to prioritize observability. But I would say, customers continue to remain cautious. And they're doing expansions and, you know, not every customer is the same. Some customers are prioritizing, "Hey, I'm seeing growth in new workloads and I'm going to moderate maybe newer workloads that have observability until I have better line of sight into my own kind of business." And then, there are cases where, you know, customers are adding new workloads.
+So, it kind of varies, it varies by customer, it varies by industry. But I would say, customers continue to prioritize observability. And, you know, until they get better visibility into their own environments, I think that kind of what we're seeing is probably going to remain consistent. I will say, as I said earlier, that we are quite optimistic that we continue to see growing pipeline, not just with new logos, also expansions.
+But new logos in particular, I think, suggest that customers are starting to make observability architecture decisions. And I think that's a net positive for Dynatrace. I think we're well positioned in that space.
+Will Power
+--
+Robert W. Baird and Company -- Analyst
+Thank you. Nice job on the results.
+Operator
+Our next question comes from the line of Raimo Lenschow with Barclays. Please proceed with your question.
+Raimo Lenschow
+--
+Barclays -- Analyst
+Thank you. Actually, can I stay on that topic and maybe kind of up-level it a little bit. I mean, like look, in tough times, usually it's -- you're leading in on the installed base and the new logos are coming in a bit slower, and it's tougher to sign them there. But with you, it seems almost the other way.
+How much of that is driven on the new logo side in terms of people understanding your broader message? There's a lot of competitors that got taken out, so there's a lot of disruption in the market. So, what's driving that? And you obviously did a lot more work on getting new logos, started to work with partners better, etc. Like, can you speak to that a little bit? Because that's kind of different than what you hear from anyone else.
+Jim Benson
+--
+Chief Financial Officer
+Yeah, I'll take that. So, I want to be clear. We're continuing to see healthy growth with installed base customers. So, I just want to make sure we're clear that we continue to see good growth with the installed base customers.
+And in particular, we see customers that -- where our value proposition is really, really strong, which is large complex environments. Those customers, their expansion rates are growing at an even more increased pace than kind of the average for the company. And on the new logo front, you know, it's more -- customers are seeing pain points. They're seeing pain points with their either existing solutions, which could be competitor solutions, or existing tooling.
+And it's cumbersome. When they're seeing outages, it's difficult to ascertain where it is. And there's people chasing alerts that -- so, I would say observability customers are making more and more architectural decisions. And when they're making architectural decisions and they're evaluating vendors, especially in large complex environments, we score very well.
+And so, I think we're seeing a pipeline relative to that with customers that are starting to make, I would say, platform decisions. They're making platform decisions in different areas, and they're making decisions on observability as kind of a platform observability and application security. So, I think we're well positioned. And I think the sales organization is appropriately going after that opportunity.
+And as I said for the last few quarters, we're focusing on the quality of the land, more so than the number of new logos because we find that the quality of land results in better expansion, you know, longer term.
+Raimo Lenschow
+--
+Barclays -- Analyst
+Yeah, that's perfect. Yeah, that's very clear. And I know it's tough with DPS to kind of go into different parts, but what are you seeing in terms of -- you know, we talked a little bit about Logs on Grail, etc. But in terms of you kind of being able to be broader than just APM in terms of getting infrastructure, more logs into this deal.
+Like when you talk about the big architecture decisions, is that people kind of understanding the full observability package that you guys are offering and kind of going that way? Or is it still -- what are you seeing there on the more than your errors for your like infrastructure logs? Thank you, and congrats from me as well.
+Rick McConnell
+--
+Chief Executive Officer
+Thanks, Raimo. What I would say on the DPS front and, in particular, on the penetration of multi-modules is that, a year or so ago, we were around 50% or so of customer lands. We're at three-plus modules. That's now two-thirds.
+So, we continue to see the broad platform play. We certainly expect DPS to be a key component of that by facilitating expansion across the portfolio of modules that we have for customers to utilize a broader array of the Dynatrace platform. So, DPS really does facilitate this multi-module deployment and use.
+Raimo Lenschow
+--
+Barclays -- Analyst
+OK, perfect. Makes sense. Thank you. Congrats.
+Rick McConnell
+--
+Chief Executive Officer
+Thanks, Raimo.
+Operator
+Our next question is from the line of Kash Rangan with Goldman Sachs. Please proceed with your question.
+Kash Rangan
+--
+Goldman Sachs -- Analyst
+Thank you very much. Congrats. I applaud you on stepping up the go-to-market investments. Really, really well timed.
+I've got one for you on a more financial question. When you look at the different initiatives to drive growth, you've got product initiatives, Grail, you've got app security, and then you've got the partnerships with the hyperscalers, SI. The growth through the company is very solid in whatever you printed, which means that the underlying core APM business is probably a little bit slower. Maybe that will pick up when the macro clears.
+So, any thoughts on how the company's exposure to growth opportunities looks like as you come out of this malaise? Could we see the underlying X growth acceleration initiatives really start to come back to the forefront? And a financial question is, how do you measure return on investment, whether it's investing a dollar in go-to-market or research and development? What are the ways in which you quantify the turn you're looking for? That's it for me. Thank you so much.
+Jim Benson
+--
+Chief Financial Officer
+Well, let me take a crack at it, and then Rick can kind of offer some comments. So, I think you, you said it well that we are -- there's multiple things we're doing one. We're continuing -- we continue to have probably the best portfolio of offerings in the observability application or application security space. You know, and we continue to make it better with Logs on Grail then you make it better with some of the enhancements that we're making on the application security side with one of the announcements that we made around security analytics within the quarter.
+So, we're making investments, unified platform. And within the unified platform, you can get a bunch of capabilities. And so, we're continuing to do that. And we're at different phases, Kash, of, you know, penetration, whether it be some of the newer areas of application security and logs.
+We're obviously doing well around full-stack monitoring. We're doing well around other areas. So, there's lots of product-related areas for us to continue to penetrate into the customer base, broaden, and introduce new logos. So, we're continuing to make those investments, and we'll continue to do so.
+And I think those will be a catalyst for growth, to your point, once kind of uneven macro conditions, you know, subside. And on the go-to-market front, it's multiple things. We continue to make investments in partnerships. Obviously, these are partnerships that we're talking to with GSIs.
+We mentioned that they take multiple years. But these are really critical GSIs. And, you know, the announcement of Kyndryl, another large one, we've already won business with Kyndryl even before they were strategic partners. So, that, plus adding additional sales capacity, is really, again, going to be the catalyst.
+You have more products, more offerings to sell. You need more capacity, including leveraging your channel to be able to do that. And then, relative to ROI, we definitely look at dollars. Depends upon R&D versus go-to-market R&D.
+You're kind of looking at investments you're making in different product areas and what you expect as far as incremental revenue over a period of time. And then, on the go-to-market side, we definitely look at the demand environment in particular, the pipeline, and where and when does it make sense to make investments in go-to-market based on certain productivity levels. So, there's multiple levers that we're looking at. And as Rick said, we think now is the time to maybe step up investments.
+And we had indicated that earlier, that we thought we'd be making a bit more go-to-market investments in the back half of the year. And we're doing that. And I think it's a signal that we're seeing some growth in the pipeline. We're having very good visibility.
+And as Rick said, you know, we're trying to make sure that when you make these investments, the return you get on these investments happen in the future. And we want to make sure that we're positioned for fiscal '25 and beyond to capitalize on that.
+Rick McConnell
+--
+Chief Executive Officer
+I would simply add, Kash, that we are extraordinarily disciplined as a company in ROI evaluation of incremental investments. So, when we look at Logs on Grail and the investments that we're making there, or app sec and the investments we're making there, and the acquisitions that we look at of tuck-ins and the like, all the way through the go-to-market investments. We suggested the GSI partnerships, hyperscaler engagements and partnerships, sales force expansion in the second half, marketing, targeted marketing investments, all within the guidance envelope we've provided are very disciplined in approach.
+Operator
+Thank you. Our next question comes from the line of Keith Bachman with BMO Capital Markets. Please proceed with your question.
+Keith Bachman
+--
+BMO Capital Markets -- Analyst
+Hi, many thanks. And I likewise had to -- but first, solid results. The first one is more of a macro question. And many of the infrastructure software companies and indeed the global SIs as well suggested that spending slowed during the course of September quarter.
+And I wanted to get your perspective on the observability space. Do you think that the spending within the context of the observability slowed and you guys outperformed? Or did you not see that slowing reflected in the pipe or close rates or things along those lines?
+Rick McConnell
+--
+Chief Executive Officer
+Yeah, I'll take that, Keith. I would say, we really didn't see any change throughout the quarter, to be honest. The quarter -- again, we had some strong new logo lands that I mentioned, but we didn't see anything toward the tail end of the quarter that suggested any change. One thing I did mention in the opening remarks, we had really good linearity this quarter.
+So, our monthly linearity was really strong, actually one of the strongest that we've seen. And so, it certainly didn't suggest that things kind of weakened in September.
+Keith Bachman
+--
+BMO Capital Markets -- Analyst
+OK. And then, the second question, on security and logs on analytics, you previously suggested that, you know, sort of 100 million run rate exiting on '25. Are you still on track for that? And, Rick, just to clarify, I think you said the pipe for logs was up 20% year over year, but did you mean sequentially?
+Rick McConnell
+--
+Chief Executive Officer
+Yes. Yes, I said year over year, Keith. I meant sequentially from last quarter. I was speaking compared to last quarter.
+So, 20% increase in POC is quarter over quarter for logs. And in addition to that, 300 now paying customers in Logs on Grail. And to answer the first question of, are we still on track for 100 million in apps sec by end of FY '25, the answer is yes, we're still tracking to that number. And we saw good penetration continue --
+Keith Bachman
+--
+BMO Capital Markets -- Analyst
+And how about for logs?
+Rick McConnell
+--
+Chief Executive Officer
+Same thing. Logs, we had said 100 million within eight quarters; app sec, 100 million within 12. Both would put us at the end of FY '25, and we continue to track to those numbers.
+Keith Bachman
+--
+BMO Capital Markets -- Analyst
+OK, perfect. Many thanks.
+Rick McConnell
+--
+Chief Executive Officer
+Thanks, Keith.
+Operator
+Our next question is from the line of Andrew Nowinski with Wells Fargo. Please proceed with your question.
+Andrew Nowinski
+--
+Wells Fargo Securities -- Analyst
+Great, thank you. Congrats on a great quarter. So, I wanted to start with a question on Microsoft. So, I know you're expanding your partnership with them, and you'll have Grail on -- at the end of the year on Azure.
+So, I'm wondering, you know, how are you thinking about the opportunity relative to some of your other go-to-market channels, particularly in FY '25, given that, you know, Microsoft is talking about seeing an increase in AI workloads, which I would think would benefit Dynatrace given how pervasively you have AI weaved into your platform and in Davis CoPilot.
+Rick McConnell
+--
+Chief Executive Officer
+Thanks, Andy. Absolutely agree on generative AI. It will be a tailwind for our business as we look to the future. And as more organizations deploy generative AI, it isn't just to think about Davis CoPilot, it is also to think about all the workloads that companies are going to be deploying in generative AI that will dramatically increase compute and, therefore, the need to provide observability.
+So, absolutely that's a tailwind. Microsoft obviously will be a core leader in that and us with them. On the Microsoft front, specifically, we're very excited to -- through the course of the quarter, begin early rollout, and then complete it at the beginning of next calendar year with Grail on Azure. So, that is a major step forward in advance.
+And in addition to that, we're very excited about the acceleration of the go-to-market partnership with Microsoft and particular with Azure as well, which increases joint selling. Overall, I would simply say that the hyperscaler channel for us is a very important one, which continues to grow nicely in terms of overall transaction volume simply because that is a preferred purchase method of choice from a large percentage of our customers.
+Andrew Nowinski
+--
+Wells Fargo Securities -- Analyst
+That's very helpful. Thanks, Rick. Maybe one last follow-up question. You raised your fiscal '24 free cash flow outlook.
+I'm just wondering if you could talk about your thoughts on maybe the long-term free cash flow margin and where you think it could go, given that we're seeing some nice expansion here already.
+Jim Benson
+--
+Chief Financial Officer
+Yeah, I'm not prepared to talk about long-term free cash flow margins. I will tell you that we are kind of a rare class, you know, that one, we're probably the -- one of the very few companies in the infrastructure software space that actually pays cash taxes because we're profitable. And so, our pre-tax pre-cash flow margins are in the high 20s. So, very, very healthy.
+And so, while I'm not prepared to tell you about what the long-term model is, I think where -- I would say we are in a really good place. And we will continue to make balanced investments that we think will kind of be focused on getting top-line growth reacceleration, while continuing to deliver really, really good operating margin and free cash flow margins.
+Andrew Nowinski
+--
+Wells Fargo Securities -- Analyst
+Wonderful. Thanks, guys. Keep up the good work.
+Rick McConnell
+--
+Chief Executive Officer
+Thanks, Andy.
+Operator
+Our next question is from the line of Mike Cikos with Needham and Company. Please proceed with your question.
+Mike Cikos
+--
+Needham and Company -- Analyst
+Hey, guys. Thanks for taking the questions here. I wanted to circle back on DPS for a second. It kind of follows on from some of the line of questioning that Raimo had.
+But if I'm just looking at the north of 250 DPS customers that you're citing today, I know that, obviously, that cohort of customers is growing versus the earlier adopters, who were really some of your largest-powered users. And I think in the prepared remarks, the management team also noted how DPS is expected to drive improved ARR over time. Given the growing size of this customer base, can you start providing us maybe a little bit color as far as what you're seeing with respect to those spending trends coming from those customers as they come into DPS? Like, do we have enough of a size or scale here when thinking about that customer cohort to get a better sense of how that is translating into ARR at this time?
+Jim Benson
+--
+Chief Financial Officer
+It's a great question. I would say that I think the cohort size is not big enough yet, you know, while we're really happy with the traction that we're getting on DPS. But to answer your question more directly about, will we provide you more color? The answer is yes, we will provide you more color. I just don't think -- you know, it's, it's difficult to make comments now.
+To your earlier point, a lot of the early adopters of DPS, when it was limited availability, were our largest customers so the sample size is a bit skewed. We want to make sure that we have a bit broader of a sample size. But just the general premise of DPS, one is good customer interest. And two, just having a model where you can do a kind of an annual or multiyear commit with a access to the platform with a consumption drawdown around all of our capabilities is just something that we think is just a much more frictionless way of customers adopting our technology, which is why we're bullish about it being, overall, kind of expansion rate accretive.
+But we'll provide you information on that as we think that there is kind of better information to make, you know, broader comments versus a sample size that's small.
+Rick McConnell
+--
+Chief Executive Officer
+Mike, I'd maybe just highlight some of the comments in the prepared remarks. So, number one, feedback on DPS from customers is extremely positive. It gives them much more flexibility over multiyear durations to use and consume the platform. The second piece is, as Jim had said earlier, the expectation over the next few years is that 80% to 90% of our customer base will be on DPS.
+This is definitely a preferred directional heading, both for customers and for us at Dynatrace.
+Mike Cikos
+--
+Needham and Company -- Analyst
+Got it. Thank you. Thank you for the color in that. And then, I guess, kind of flows into the next question here, but I know one of the things that the management team cited for the new ARR outperformance was competitive wins, as well as expansions, right? And so, I was hoping you could kind of unpack that.
+And I don't want to lead you to an answer here, but like if you could look at it in like three different categories. Like so the first is like, are you finding that your win rates are actually increasing? And then, the second is, do you feel like Dynatrace is actually getting more looks or bake-offs based on the expanded product announcements than maybe this more frictionless packaging with DPS? And then, the third, when you are replacing or displacing some of these other competitive solutions, who are you seeing more commonly? Is there any shift as far as that vendor consolidation that is coming toward DT? I know it's a lot to unpack, but just wanted to make sure I'm thinking about all these things appropriately.
+Jim Benson
+--
+Chief Financial Officer
+I would say, again, I'd start with, you've got to be -- you know, we're very optimistic and positive about what we've seen for kind of in particular new logo wins and competitive wins. It's been multiple quarters. You know, I would say for Q2, you had a lot in there. I would say one, the pipeline continues to grow for the reasons I outlined, which is customers are beginning to make observability architecture decisions.
+And I think when they do that, we certainly do get an at-bat because I think customers look at, well, who are the leaders in that space, and we come to mind. And so, we fare very well when we get to the point of a POC. So, yes, I think we're getting some good at-bats. And I think that there is growing pipeline in that space.
+And so it -- you know, and as I said before that even the existing customers that we have, they're continuing to expand. I just think that customers are being a bit cautious. But we're optimistic. It's reflected in our guide for the full year, which is why I provided a little bit of color that I thought that our weighting of net new era would maybe be a bit more weighted to new logos than we've seen historically, call it 40% roughly new logos, 60% expansion versus a one-third, two -thirds.
+And, you know, I think it's just continued good execution by the sales team. And I think it speaks to the importance of a unified platform for customers as they make these choices.
+Mike Cikos
+--
+Needham and Company -- Analyst
+Right. Thanks --
+Rick McConnell
+--
+Chief Executive Officer
+Mike, I would simply add that -- just to provide a piece of data for you. Last quarter, we had $10 million-plus TCB wins for new logos, and eight of those were competitive takeouts of our direct competitors. So, we track win rates very, very carefully. And in so doing, we feel very, very good about our win rates in competitive environments in our target market space.
+I think DPS is contributing there as well.
+Mike Cikos
+--
+Needham and Company -- Analyst
+Great to hear. Appreciate all the color, and congrats on the strong results here on uncertain macro. Really stand out. Thank you.
+Rick McConnell
+--
+Chief Executive Officer
+Thanks, Mike.
+Operator
+Thank you. Our final question will be from the line of Jake Roberge with William Blair. Please proceed with your question.
+Jake Roberge
+--
+William Blair and Company -- Analyst
+Hey, thanks for taking the questions, and congrats on the great results. Just want to follow up on the 300 customers that you referenced for Logs on Grail. What did initial landing sizes look like for those deals? And then, are those deals still largely on the expansion front, or have you actually started to see Grail drive any new logos to the platform?
+Jim Benson
+--
+Chief Financial Officer
+Yeah, I would say that -- again, I think we've said this before, but the way it's going to work with Logs on Grail, and we're starting to see this, is one, many of those customers will do a POC. As Rick said, you know, the good news is we talked about 300 kind of plus POCs in the last quarter. Now, we have 300 paying customers this quarter. So, it suggests to you that those POCs have been largely positive.
+But the way it's going to work is customers are going to try new workloads, and they're going to leverage the product with new workloads. And then, they'll add more new workloads. And then, we think it'll get to the point where, depending upon the value that they're getting from the offering, that they'll start to shift existing workloads. So, the way we view this is they're going to start small and then a ramp.
+And they're going to ramp over time. And our expectation is that the ramp we're going to see is -- you'll see some ramp in the back half of the year, but you'll see a much bigger ramp in fiscal '25 as they start doing more adoption.
+Jake Roberge
+--
+William Blair and Company -- Analyst
+OK, very helpful. And then, could you give some more color on the growth you're seeing in that GSI segment and how big those practices are today from a Dynatrace train headcount perspective just compared to where they were two or three years ago when you actually started that motion? And when we think about partners like Kyndryl, Accenture, Deloitte, and DXC, what are some tangible differences about those relationships versus some of the other GSIs you're working with?
+Rick McConnell
+--
+Chief Executive Officer
+Thanks, Jake. The GSI partnerships, succinctly, we're very, very excited about each of them. They each have substantial runway and opportunity. Most of them we've been working with, as we reported, I think last quarter, we have relationships now with really all 10 of the top 10 GSIs.
+But they keep escalating in import. So, as an example, the Kyndryl relationship has existed. We talked about a reasonable number of six to seven-digit wins that we've had previously. Those continue.
+We've escalated it to a strategic partnership. Same thing with Accenture with added and mutual go-to-market investment on both sides. So, very, very excited about that. The GSIs are going to evolve over a longer period of time because the sell cycles of digital transformation initiatives are long.
+So, it's going to take some time to gestate. But we believe that it is a very, very significant channel that could develop for us over time, and we're leaned into these partnerships in a meaningful way.
+Jake Roberge
+--
+William Blair and Company -- Analyst
+Great. Thanks for taking the questions, and congrats again on the great results.
+Jim Benson
+--
+Chief Financial Officer
+Thank you.
+Rick McConnell
+--
+Chief Executive Officer
+Thanks, Jake. Let me go ahead and wrap up at this point. Thank you all for your engaged questions, your ongoing support. We really do appreciate it.
+We're quite bullish about the opportunity that lies ahead. We look forward to connecting with you at upcoming IR events over the coming weeks, and we wish you all a very good day. Thanks for joining.
+Operator
+Thank you. This will conclude today's conference. [Operator signoff]
+Duration: 0 minutes

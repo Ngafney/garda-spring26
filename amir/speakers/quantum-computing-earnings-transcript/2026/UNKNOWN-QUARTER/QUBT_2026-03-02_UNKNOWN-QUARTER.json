@@ -1,0 +1,177 @@
+[
+  {
+    "speaker": "Unknown",
+    "role": "",
+    "text": "Full Conference Call Transcript"
+  },
+  {
+    "speaker": "Yuping Huang",
+    "role": "",
+    "text": "Good afternoon, and thank you for joining us for Quantum Computing, Inc. s fourth quarter and full year 2025 earnings call. 2025 was a transformational year for Quantum Computing, Inc. We made meaningful progress advancing our strategy to build a vertically integrated photonics and quantum optics platform capable of supporting scalable commercial applications across AI, high-performance computing, cybersecurity, and remote sensing. Over the course of the year, we achieved several key milestones. We completed and opened our thin-film lithium niobate photonic chip fabrication facility, marking an important step towards domestic, scalable production of high-performance, specialized photonic integrated circuits. We continued to expand our foundry services business, which has now begun to generate early revenue and customer engagement, and we are in planning phase for our second fabrication facility, which is what we call Fab 2. We strengthened our leadership team and the Board, adding experienced directors and executives with deep expertise in scaling advanced technology companies and driving both organic and inorganic growth. I was appointed CEO effective 01/01/2026 after serving as interim CEO since May 2025, and we welcomed Chris Roberts as our new Chief Financial Officer and Eric Schratz as a new independent Board member. Each brings deep expertise and executional focus as we scale the business. And importantly, we recently completed the acquisition of Lumina Semiconductor, Inc. (LSI), which enhances our design, fabrication, and packaging capabilities and accelerates our path to scalable manufacturing. LSI also contributes an established customer base and steady revenue to the combined organization. Those accomplishments reflect the steady execution of our long-term strategy and position us well as demand for energy-efficient, room-temperature photonic and quantum solutions continues to grow. Turning to the fourth quarter, revenue in the quarter reflects early contributions from our foundry service business and increasing customer engagement across our product portfolio. As many of you know, Quantum Computing, Inc. operates Fab 1 as a rapid prototyping facility dedicated to thin-film lithium niobate photonic integrated circuits in support of our quantum machine development roadmap. This facility is not intended to serve as a large-scale commercial production foundry, but it does generate revenue by providing foundry services to our customers and mainly functions as an internal innovation engine that feeds validated designs and process knowledge into downstream manufacturing partners as technologies mature. Fab 1 enables rapid design, fabrication, and test iteration cycles for advanced photonic devices central to Quantum Computing, Inc. s quantum architectures. It allows us to explore novel silicon-compatible components, validate system-level concepts, and de-risk emerging designs ahead of volume manufacturing. Fab 2 is intended to provide a domestic, vertically integrated processing capability to support Quantum Computing, Inc. s internal technology roadmap, particularly the development and scaling of our photonic quantum machines and quantum-enabled systems. It will focus on producing specialized quantum and nanophotonic chips and will complement, not compete with, the broader silicon photonics ecosystem. We expect to engage external foundries as partners as technologies scale. By combining internal vertical integration with external foundry partnerships, Quantum Computing, Inc. aims to strengthen supply chain resilience, accelerate innovation, and support the responsible scaling of advanced photonic and quantum technologies. In December 2025, we announced the acquisition of LSI, which closed in February 2026. This subsidiary brings an existing customer base and additional semiconductor capabilities that expand our addressable market and strengthen our ability to deliver integrated photonic solutions at scale. Integration efforts are underway, and we are focused on aligning teams, processes, and customer programs to accelerate growth in 2026 and beyond. From a product perspective, we continued advancing our quantum authentication and networking technologies as well as our DIRAC platform and remote sensing initiatives, which remain areas of strong interest across government and commercial customers. In the fourth quarter, we also unveiled our photonic-based reservoir computing system, NeuronWaves, at Supercomputing 2025. NeuronWaves represents a significant advancement, as it is designed to integrate with existing computing infrastructure and address emerging AI workloads with improved energy efficiency. We also announced a strategic collaboration with POET Technologies to develop next-generation high-speed lithium niobate modulator-based optical engines designed to support AI network infrastructure. Importantly, we continue to expand our global reach through continued industry engagement. We recently participated in many conferences, which in the fourth quarter included Optical Quantum Industry Summit, Supercomputing, and Q2B Silicon Valley. Finally, during the year, we formalized and communicated a focused multi-year technology roadmap, which is available on our website. This roadmap is centered on scalable, room-temperature photonic and quantum products, systems, and solutions. Our vision is to bring quantum technology into real-world applications. That means putting the power of quantum technology into the hands of people by moving it out of the laboratory and into enterprise, government, commercial, and consumer environments through chip-integrated, low-power, deployable systems. At the core of our roadmap are three capabilities that define our platform: capture, compute, and communicate. Capture information through quantum sensing and photonic data acquisition; compute through photonic and quantum processing systems including our DIRAC platform and photonic AI capabilities; communicate through quantum-secure networking, authentication, and encryption technologies. This framework aligns our product development, manufacturing strategy, and go-to-market efforts around delivering practical, scalable, quantum-enabled products and systems. Importantly, this roadmap represents our transition from a development-stage company to a commercial, manufacturing-driven platform business. We are evolving from a technology innovator into a company capable of delivering repeatable, high-performance photonic and quantum hardware at industrial scale. Our differentiation remains clear. Unlike cryogenic quantum systems, our platform is built on thin-film lithium niobate photonics, enabling room-temperature operation, lower power consumption, smaller form factors, and a lower total cost of ownership, which we believe are critical for broad adoption. As we progress our chip manufacturing capabilities over time, we expect to support global deployment of chip-integrated quantum systems across high-performance computing, telecom, defense, space, and enterprise markets. Our roadmap is designed to move Quantum Computing, Inc. from innovation to industrial-scale production, positioning us to deliver practical quantum technologies that are accessible, scalable, and commercially viable. Overall, we exited 2025 with a strong balance sheet supported by significant capital raised during the year, a growing commercial foundation through foundry services and product development, an expanded technology platform following the integration of LSI, and a clear path toward scaling revenue through a combination of semiconductor services and quantum-enabled products. Like many companies across the broader technology, AI, and quantum sectors, we have experienced recent volatility in our share price, which we believe reflects broader market conditions rather than any change in our underlying business performance or long-term outlook. Our focus remains squarely on executing our strategy, advancing our technology roadmap, and building a sustainable commercial business. We believe the long-term fundamentals for photonics, quantum technology, and AI infrastructure remain strong, and we are well positioned within these trends. With that, I will now turn the call over to our Chief Financial Officer, Chris Roberts. Thank you, Yuping."
+  },
+  {
+    "speaker": "Chris Roberts",
+    "role": "",
+    "text": "Revenue for the fourth quarter totaled approximately $190,000, compared to $62,000 in the prior-year quarter. The year-over-year increase was driven primarily by hardware sales and services associated with our Fab 1 facility, which began contributing revenue during the fourth quarter. As we previously mentioned, we completed the acquisition of Lumina Semiconductor, Inc. in February 2026. We expect this business to begin contributing revenue in 2026. Operating expenses for the fourth quarter totaled $22,100,000, compared to $8,900,000 in the same quarter last year. The increase in operating expenses is the result of substantial growth in personnel for research and development, engineering, manufacturing, and sales and marketing as we position the company for long-term growth. M&A expenses in the fourth quarter also contributed to the higher expenses. We are scaling our organization across the board to support this expansion, including all functional areas of the company. As a result, SG&A is expected to grow in the near term as we invest in the resources and personnel necessary to advance our technology and execution capabilities. The company reported a net loss of $1,600,000 for the fourth quarter, or $0.01 loss per share, compared to a net loss of $51,200,000 in 2024. The decrease in net loss this quarter was primarily due to a gain of $7,000,000 from the mark-to-market of a derivative liability plus interest income of $13,600,000. For the year ended 12/31/2025, the company reported a net loss of $18,700,000, or $0.11 per share, compared to a loss of $68,500,000, or $0.73 per share, in the year ended 12/31/2024. As Yuping mentioned earlier, we continued to strengthen our balance sheet during the fourth quarter. In October, we announced that Quantum Computing, Inc. entered into securities purchase agreements with a group of institutional investors for the purchase and sale of 37,000,000 shares of common stock in a private placement, resulting in gross proceeds of $750,000,000 before deducting offering expenses. That brings the total capital raised in 2025 to $1,550,000,000. As a result, we ended the year with cash and cash equivalents of $738,000,000 and investments of $783,000,000 on our balance sheet, roughly $1.52 billion in total. Our interest income for the 2025 year was $20,700,000, a substantial increase from $423,000 in 2024. As of 12/31/2025, total assets stood at $1,600,000,000, up from $154,000,000 at year-end 2024. Stockholders' equity rose to $1,600,000,000 at 2025 year-end, reflecting our strengthened financial position. I will now turn the call back over to Yuping. Thank you, Chris."
+  },
+  {
+    "speaker": "Yuping Huang",
+    "role": "",
+    "text": "As we look ahead to 2026, our priorities are clear: scaling our foundry services business and increasing customer engagements, advancing our product portfolio toward broader commercialization, successfully integrating LSI and capturing synergies across our platform, and continuing to execute with discipline while preserving capital. We are building a differentiated technology platform based on room-temperature, low-power photonic and quantum solutions, and we believe Quantum Computing, Inc. is uniquely positioned to address growing demand for energy-efficient computing, secure communications, and advanced sensing technologies. We appreciate the continued support of our shareholders, customers, and partners, and we look forward to updating you on our progress through 2026. Thank you. With that, we will now open the call for questions. Operator, please go ahead."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Thank you. At this time, we will be conducting a question and answer session. If you would like to ask a question, please press 1 on your telephone keypad. A confirmation tone will indicate your line is in the question queue. You may press 2 if you would like to remove your question from the queue. For participants using speaker equipment, it may be necessary to pick up your handset before pressing the star keys. One moment please while we poll for questions. Once again, please press 1 if you have a question or a comment. The first question comes from John McPeak with Rosenblatt Securities. Please proceed."
+  },
+  {
+    "speaker": "John McPeak",
+    "role": "",
+    "text": "Thank you. Thank you, Yuping and Chris. Congrats on closing the LSI acquisition. Okay. Just want to make sure you guys could hear me for a second."
+  },
+  {
+    "speaker": "John McPeak",
+    "role": "",
+    "text": "Great. So you have a step-function revenue change happening here. Could you just remind us of the LSI revenues, how we should think about that going forward, and also their expenses a little bit as we try to take a stab at updating our models here?"
+  },
+  {
+    "speaker": "Yuping Huang",
+    "role": "",
+    "text": "Chris, would you take this question?"
+  },
+  {
+    "speaker": "Chris Roberts",
+    "role": "",
+    "text": "Sure. I would be happy to. John, as you know, we are not in the habit of giving revenue guidance, so I want to make sure it is pretty clear that we are not doing that now. However, I understand the question, and there have been several analyst reports that have projected that revenue would be in the $20 million to $25 million per year range, and I think that is a reasonable estimate right now. In terms of costs, we have some work to do with LSI. This is a company we acquired out of the Illuminar Technology bankruptcy, and they had a different shared services model, so we are reconstructing some things. It is probably not going to be profitable at this scale, but we are working on realigning and integrating the businesses, so we really do not want to be too specific at this point because we are trying to grow both the core LSI business and the Quantum Computing, Inc. business and develop synergistic products. There is a lot of spending that is going on around there. I think it is safe to say that we will be investing a fair amount of money in growing the business. We are not going to be trying to squeeze every nickel out of profitability in the near term."
+  },
+  {
+    "speaker": "John McPeak",
+    "role": "",
+    "text": "Okay. I just have a follow-up on Fab number two. You got some fabs with LSI. Could you give us a sense do you think you are going to be able to co-locate with one of those fabs? And when should we think about the expenses, you know, the CapEx, etc., kicking in for Fab 2, and maybe, I do not know if you can gauge what that might be, like, typically of the size you are thinking about? And that is all I have got."
+  },
+  {
+    "speaker": "Chris Roberts",
+    "role": "",
+    "text": "That is a really good question, John. In terms of co-locating, let me take this in steps. The current facility we have for Fab 1 is about 18,600 square feet, and it is not possible to put Fab 2 in the same area. The space is not there. It is not really set up that way. So what we are looking for is a larger facility. Whether we end up doing a build-to-suit or acquire an existing facility and modify it, we are exploring multiple options. We are not likely to incur a large cost this year because we have a lot of design and evaluation work to do. So the larger cost would be two and three years out. The cost is really hard to estimate at this point in time. Obviously, it is going to be several hundred million dollars to build any kind of sizable fab, but it is too early right now to be able to give you a hard number. We are still in the design and development phase. We have engaged some experienced design firms, and we are just beginning the process. So I do not have a hard number for you at this point, but nothing substantial is likely to happen in terms of CapEx outlays this year."
+  },
+  {
+    "speaker": "John McPeak",
+    "role": "",
+    "text": "Well, that is helpful for us. Thank you. I will pass it along."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "The next question comes from Max Michaels with Lake Street. Please proceed."
+  },
+  {
+    "speaker": "Max Michaels",
+    "role": "",
+    "text": "Hey, guys. Thanks for taking my questions. I just want to go back to the Lumina acquisition that was made. So you mentioned $20 million to $25 million of revenue. I mean, can you help us out in terms of that 2026 revenue versus 2025? Is it at least growing? Or how should we think about that?"
+  },
+  {
+    "speaker": "Chris Roberts",
+    "role": "",
+    "text": "We are expecting some growth. It is a little early at this point to say how much, but we can say that the initial customer reaction to the acquisition has been positive. Quantum Computing, Inc. acquiring Lumina brings stability and financial resources to the business, which their existing customer base greatly appreciates. We have been working closely with the Lumina sales team to reassure their customers and drive some additional business. So we are hoping to at least stabilize and hopefully grow the business this year."
+  },
+  {
+    "speaker": "Yuping Huang",
+    "role": "",
+    "text": "Max, if I may, I wanted to add that. So right now, we are about four weeks into the acquisition, so we have already seen very good momentum."
+  },
+  {
+    "speaker": "Max Michaels",
+    "role": "",
+    "text": "Okay. That is good to hear. And it does not sound like there is anything really to do on Fab 2 in 2026. But if we look out this year, I mean, what are the critical or crucial milestones you guys are looking to hit? If you could help share sort of maybe from an internal perspective on you guys."
+  },
+  {
+    "speaker": "Yuping Huang",
+    "role": "",
+    "text": "Yep. So the first one is to successfully integrate Lumina Semi. I think we have made pretty good progress so far, so I am actually very pleased with where we are now. As you know, Max, we are a quantum company, but all of our products and technology are based on optics and photonics, and what is nice is that our team members across the U.S. already speak the same language, and the synergy is already high. In fact, these areas of synergy are higher than what I initially expected. So cross-site collaborations are already underway, and the combined larger team is pursuing large-scale opportunities that would have not been possible without us joining forces. So for 2026, the number one task is to successfully integrate the team now that our headcount has doubled and our product portfolio has largely expanded. The second is that we will continue to push our quantum product portfolio. As said over the call, we are really focused on transitioning from a technology innovator to a company capable of scalable manufacturing of quantum products based on photonics and our integrated circuits. And as we outlined in our roadmap that we have published online, we do have timing to roll out several products across computing, sensing, AI, and our sampling data network chips. And the third would be that we hope to continue to grow our team so that we can move up to the system-level engineering for quantum devices. We are very happy to have now lots of engineers and manufacturing technicians join us from the Lumina Semi acquisition. The next step is that now we have the expertise in many aspects in the same room, so how fast we can move to the manufacturing of quantum products above the subsystem level, above the component level."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Thank you. The next question comes from Anton Legault with Wedbush Securities. Please proceed."
+  },
+  {
+    "speaker": "Anton Legault",
+    "role": "",
+    "text": "Thank you for the question. And Yuping, as you mentioned the various potential addressable markets across, you mentioned quantum computing, sensing, AI, and telecom. Within that, where do you see the largest and maybe the most immediately addressable markets or use cases, and which market or submarket are you most excited about this year?"
+  },
+  {
+    "speaker": "Yuping Huang",
+    "role": "",
+    "text": "For this year, I think lithium niobate is an area that I feel particularly excited about. As you may recall, we constructed our fab last year, and then we commissioned all the tools in Q4, and since then, we have made prototype chips. We have also utilized our resources to develop and refine recipes and fabrication processes, and now we are really in the phase of locking down the processes and we are ready to ramp up the manufacturing. All of our current products now are designed to utilize this integrated photonic chip technology, which will make our products smaller, more powerful, and ready to be produced at scale. So I am very excited to see what could happen with the thin-film lithium niobate production line. In the meanwhile, now we are ramping up our quantum communications development and commercialization following on the sale of a system to a top-five U.S. bank last year. I believe that quantum communications, because this technology really addresses a network security issue that concerns almost everybody, if we can lower the entry point for this quantum technology, it could be one of the very first quantum technologies that can be adopted by a large population."
+  },
+  {
+    "speaker": "Anton Legault",
+    "role": "",
+    "text": "Thank you. That is very helpful. Last one for me, if I may. I know you recently completed the acquisition of LSI for just over $100,000,000. You clearly still have a lot of cash on the balance sheet and you have the ability to pursue strategic M&A. Are there any particular areas of interest or focus on the M&A front as you look ahead to 2026? Thank you."
+  },
+  {
+    "speaker": "Yuping Huang",
+    "role": "",
+    "text": "Yep. We have been following a very disciplined approach to M&A. Our strategy has been that acquisitions should accelerate our roadmap as we published on our website while being able to help build our customer base. So the Lumina Semi acquisition has been a move along this direction because it really helps fill some technology gaps that we had. I think the next move for us is to accelerate our roadmap on scalable manufacturing, so we hope to quickly establish mass production capabilities for some of our quantum machines."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Okay. The next question comes from Ed Woo with Ascendiant. Please proceed."
+  },
+  {
+    "speaker": "Ed Woo",
+    "role": "",
+    "text": "Yeah. Congratulations on the Lumina acquisition. My question is, is that going to make you guys much more exposed to international business?"
+  },
+  {
+    "speaker": "Chris Roberts",
+    "role": "",
+    "text": "Let me take this one. At the present time, the bulk of the customer base is domestic. There are a lot of U.S. government contracts and business in the aerospace and defense field. But I think your larger point is that photonic technology has a global market. We will look at opportunities overseas. We do source supplies and parts from overseas. But in terms of pursuing a large overseas market, that will come in time. In the near term, I would anticipate that the bulk of our revenue is going to be from domestic sources, certainly for the next few quarters."
+  },
+  {
+    "speaker": "Ed Woo",
+    "role": "",
+    "text": "Great. Well, thanks for answering my questions, and I wish you guys good luck. Thank you."
+  },
+  {
+    "speaker": "Chris Roberts",
+    "role": "",
+    "text": "Thank you, Ed. Appreciate your support."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Okay. The next question is from Troy Jensen with Cantor Fitzgerald. Please proceed."
+  },
+  {
+    "speaker": "Troy Jensen",
+    "role": "",
+    "text": "Hey, gentlemen. Congrats on the great 2025. Just maybe a question for you. You know, my belief is you guys are probably a couple of years away from commercializing a photonics-based quantum computer all-in. But near term, there are a lot of other cool applications in sensing. Can you talk to us a little bit about what you are doing there? Is this an area that can inflect quicker? And maybe, do you guys have exposure to security applications too with quantum?"
+  },
+  {
+    "speaker": "Yuping Huang",
+    "role": "",
+    "text": "Thank you, Troy. I believe that general-purpose quantum computing is still some time down the road, and this applies to all the approaches in terms of the practical utilities. On the other hand, I believe that there are some applications where specialized quantum computers can find significant utilities without having to construct a gate-based, larger-scale quantum computer. This is actually an area that we have been working on in our DIRAC series quantum optimization machine, where we have seen that in many use cases we already established appreciable quantum advantages there. In terms of remote sensing at Quantum Computing, Inc., we mainly commercialize our proprietary technology in single-photon detection aided by the noise rejection that we have developed over the past ten years using nonlinear optics and our way of using time-gated photon detection to reduce the background noise. So far, we have commercialized a photonic vibrometer which can measure very small-amplitude vibration remotely. In the meanwhile, we have worked with NASA, as we announced in the past, to explore some quantum sensing technology suitable for space deployment and in some cases for Earth science applications. We are continuing such research and development, and now with the addition of Lumina Semi, we are looking at other optical sensing and quantum sensing opportunities by utilizing their laser technology, their detector technology, and their very strong optical packaging capabilities. This is what we are working on the sensing side."
+  },
+  {
+    "speaker": "Troy Jensen",
+    "role": "",
+    "text": "Gotcha. Alright, guys. Good luck this year."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "I would now like to turn the floor back to management for any closing remarks."
+  },
+  {
+    "speaker": "Yuping Huang",
+    "role": "",
+    "text": "Thank you. Thank you, everyone, for joining and participating in today s call. I encourage you to follow us on our social media channels, where we regularly post updates and insights into our business and the technology. Should you have any questions, please reach out to the investor relations team. Have a good rest of your day. Thank you."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "This concludes today s conference, and you may disconnect your lines at this time. Thank you for your participation."
+  }
+]

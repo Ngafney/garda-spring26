@@ -1,0 +1,382 @@
+[
+  {
+    "speaker": "Unknown",
+    "role": "",
+    "text": "Full Conference Call Transcript"
+  },
+  {
+    "speaker": "Anirudh Devgan",
+    "role": "",
+    "text": "Thank you, Richard. Good afternoon, everyone, and thank you for joining us today. Cadence delivered exceptional results for the third quarter of 2024, with broad-based strength across our product portfolio. We are on track for a strong second half, and we are pleased to raise our full year EPS outlook. John will provide more details on our financials in a moment. Generational trends such as hyperscale computing, autonomous driving and 5G, all accelerated by the AI super cycle, continue to fuel strong design activity across multiple verticals, especially in data center and automotive. Our cutting-edge chip-to-system platforms empower customers to drive unprecedented innovation as the race to develop next-gen AI and agentic AI products while navigating escalating design complexities. We continue steadily executing to our intelligent system design (ISD) strategy that triples our TAM opportunity while significantly expanding our portfolio across core EDA, IP and system design and analysis."
+  },
+  {
+    "speaker": "Anirudh Devgan",
+    "role": "",
+    "text": "I'm excited about AI's incredible promise and how rapidly it is becoming an integral part of the design workflow with customers steadily increasing their investments in AI-driven automation. Our cadence.ai portfolio, powered by GenAI agents, AI-driven optimization and Big Data analytics JedAI platform saw sales nearly triple over the last year as it continued delivering unparalleled quality of results and productivity benefits. We continue partnering with NVIDIA to accelerate AI innovation and are using their latest NeMo and NIM microservices to build customized GenAI application, delivering enhanced optimization and productivity."
+  },
+  {
+    "speaker": "Anirudh Devgan",
+    "role": "",
+    "text": "In Q3, we deepened our partnership with Arm through a broad expansion of our IP, hardware and AI-driven design enablement solutions to help deliver Arm's next-generation AI technologies and advanced Arm compute subsystems across multiple markets. We expanded our long-standing partnership with TSMC with AI optimized design flows certified for TSMC's N3 and N2P Technologies. We are also collaborating on innovative solutions for next-generation technologies. like TSMC A16 and 3Dblox that are paving the way for the AI factories of tomorrow."
+  },
+  {
+    "speaker": "Anirudh Devgan",
+    "role": "",
+    "text": "Demand for our industry-leading integrity 3D-IC solution that enables system-level PPA optimization continues to grow with accelerating adoption by hyperscalers, OSAT and foundries. We introduced the industry's first autorouter for both die-to-die and die-to-substrate connectivity. And that was showcased at TSMC's 3DFabric Alliance workshop."
+  },
+  {
+    "speaker": "Anirudh Devgan",
+    "role": "",
+    "text": "High-speed multilayer PCB designs require increasing levels of miniaturization, advanced simulation and AI-driven automation. Allegro X, with this tight integration with our analysis technology and expanded collaboration platform, is ramping strongly and drove over 40% of our PCB sales this year. The transition to OrCAD X, our new mainstream PCB solution, accelerated in Q3, with 1/3 of our OrCAD customers converting to this new cloud-enabled solution. Cadence on Cloud is a key go-to-market platform to reach the long tail of smaller system customers and is seeing strong traction with over 400 customers, tens of thousands of online users and orders doubling over the past year. We recently launched the Cadence OnCloud Marketplace and announced Cadence online support through OnCloud, which uses GenAI technology to provide insightful contextual and accurate answers to customer queries."
+  },
+  {
+    "speaker": "Anirudh Devgan",
+    "role": "",
+    "text": "As the digital transformation in aerospace and defense accelerates, we saw continued strength in this vertical as the U.S. Air Force and Army expanded their commitment to Cadence's solutions spanning from chips to boards to systems. Our hardware accurate digital twins have been successfully used by Northrop Grumman in taping out several ASICs, helping accelerate schedule by over 2 years."
+  },
+  {
+    "speaker": "Anirudh Devgan",
+    "role": "",
+    "text": "In Q3, we substantially grew our footprint at several marquee hyperscalers through a broad proliferation of our best-in-class hardware systems, IP and software portfolio. Our system design and analysis (SDA) business continued to outpace the market, delivering impressive results with over 40% year-over-year revenue growth in Q3. We are pleased with the strong growth of our multiphysics portfolio, that couples our expertise in physics-based modeling with AI-driven optimization to deliver superior results to customers. Clarity and Celsius both grew strongly with competitive wins, while our newly acquired BETA CAE products that round out our system analysis portfolio outperformed our expectations as we signed large deals with major EV companies. Our AI-driven optimality solution was adopted by several leading customers and Voltus Insight AI, was used by a top hyperscaler to successfully achieve an 80% IR drop reduction in their designs."
+  },
+  {
+    "speaker": "Anirudh Devgan",
+    "role": "",
+    "text": "Our IP business continued its strong momentum in Q3, delivering over 50% year-over-year revenue growth. As we executed to our profitable and scalable growth strategy, increasing complexity of interconnect protocols, along with the growing outsourcing trend, and new foundry opportunities are providing strong tailwinds to our IP business. AI, HPC and chiplet use cases were the primary drivers for the adoption of our differentiated HBM, PCIe, UCIe, DDR and high-speed SerDes solutions in design ranging from 7-nanometer down to the most advanced gate-all-around nodes. Our AI-assisted Tensilica audio DSPs scored multiple design wins with marquee global customers across HPC, mobile and automotive use cases."
+  },
+  {
+    "speaker": "Anirudh Devgan",
+    "role": "",
+    "text": "Our core EDA business comprised of our custom, digital and functional verification businesses delivered 9% year-over-year revenue growth in Q3. Our new groundbreaking hardware systems offering industry leading performance, capacity and scalability experienced strong demand, especially at AI, hyperscale and automotive companies. Verisium, our AI-driven verification platform continued seeing rapid customer adoption with several leading customers successfully using Verisium SimAI for highly efficient coverage maximization. Proliferation of our digital full flow at the most advanced nodes accelerated with over 30 new full flow logos added over the past year. With nearly 450 tape-outs, customers are increasingly deploying Cadence Cerebrus AI solution as it continues to deliver unparalleled PPA and productivity benefits, on a broad spectrum of designs. Our AI-driven Virtuoso Studio leverages the capabilities of our flagship Virtuoso platform, while seamlessly integrating with other Cadence cutting-edge technologies to drive significant productivity benefits for analog, RF and mixed signal designers. With this Gen AI-driven automated design migration and new layout placement and routing technologies, customers are rapidly adopting Virtuoso Studio and it won 30 new logos in Q3."
+  },
+  {
+    "speaker": "Anirudh Devgan",
+    "role": "",
+    "text": "In summary, I'm pleased with our Q3 results and the continuing momentum of our business. The AI-driven automation era offers massive opportunities, and the co-optimization of our comprehensive EDA, SDA and IP portfolio with accelerated compute and AI orchestration uniquely positions us to provide disruptive solutions to multiple verticals. Now I will turn it over to John to provide more details on the Q3 results and our updated 2024 outlook."
+  },
+  {
+    "speaker": "John Wall",
+    "role": "",
+    "text": "Thanks, Anirudh, and good afternoon, everyone. I'm pleased to report that Cadence delivered strong Q3 results with total revenue of over $1.2 billion. We achieved 19% year-over-year growth. Our Q3 recurring revenue growth returned to low teens on a year-over-year basis. Our Intelligent System Design strategy is paying off, with our system design and analysis business delivering strong growth, and we continue to see robust demand for our emulation and prototyping systems. Here are some of the financial highlights from the third quarter, starting with the P&L: Total revenue was $1.215 billion; GAAP operating margin was 28.8%; and non-GAAP operating margin was 44.8%; and GAAP EPS was $0.87, with non-GAAP EPS of $1.64. Next, turning to the balance sheet and cash flow. We had a $2.5 billion senior notes offering in Q3 that was well received by the market. We have used the majority of the net proceeds to retire maturing notes and prepaid term loans as well as for other general corporate purposes. Cash balance at quarter end was $2.786 billion, while the principal value of debt outstanding was $2.850 billion. Operating cash flow was $410 million. DSOs were 44 days, and we used $150 million to repurchase Cadence shares. Before I provide our updated outlook I'd like to highlight that it contains the usual assumption that export control regulations that exist today remain substantially similar for the remainder of the year. Our updated outlook for 2024 is revenue in the range of $4.61 billion to $4.65 billion, GAAP operating margin in the range of 29% to 30%, non-GAAP operating margin in the range of 42% to 43%, GAAP EPS in the range of $3.70 to $3.76, non-GAAP EPS in the range of $5.87 to $5.93, operating cash flow in the range of $1 billion to $1.2 billion, and we expect to use approximately 50% of our annual free cash flow to repurchase Cadence shares. With that in mind, for Q4, we expect revenue in the range of $1.325 billion to $1.365 billion, GAAP operating margin in the range of 33.2% to 34.2%, non-GAAP operating margin in the range of 45.2% to 46.2%, GAAP EPS in the range of $1.09 to $1.15, and non-GAAP EPS in the range of $1.78 to $1.84. And as usual, we published a CFO commentary document on our Investor Relations website which includes our outlook for additional items as well as further analysis and GAAP to non-GAAP reconciliations. In conclusion, I'm pleased with our Q3 results. Our Q4 bookings pipeline looks exceptionally strong, and we are well-positioned to deliver a strong 2024. As always, I'd like to close by thanking our customers, partners and our employees for their continued support. And with that, operator, we will now take questions."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Your first question comes from Joe Vruwink with Baird."
+  },
+  {
+    "speaker": "Joseph Vruwink",
+    "role": "",
+    "text": "I appreciate the nature of your relationships with customers means you typically know well in advance what product roadmaps might be. You're typically not learning new information off of public calls. But just given the number of headlines off late around advanced foundry efforts or maybe demand from China, I wanted to ask, have you learned anything over the past 3 months or so that you would point out as maybe being something worth considering, either good or bad, as investors think about the 2025 opportunity for Cadence?"
+  },
+  {
+    "speaker": "Anirudh Devgan",
+    "role": "",
+    "text": "Joe, this is Anirudh. That's a good question. Well, I would say that -- I mean as you know already, that the importance of semiconductor to the overall global economy is increasing and is more well recognized now and I did visit several countries over the last quarter, and there is more and more kind of commitment to build that out, and you're seeing that in different countries. And also, like we highlighted even earlier in the year, the -- of course, TSMC is leading foundry, but our own relationship with Samsung and Intel in this area has improved, and global also, we have worked for several years. So I would like to say that in general, we do see this continued investment in newer foundries, whether it's Intel, Samsung and even like Rapidus in Japan and other countries. So -- and we continue to partner closely with the leading players like TSMC and Arm as we highlighted in this report. But it's good to see more investments we've made in other areas."
+  },
+  {
+    "speaker": "Joseph Vruwink",
+    "role": "",
+    "text": "Okay. And then, John, you don't normally give backlog guidance, but you did comment on bookings pipeline and 4Q and that stands out. Are you maybe able to go into a bit more color on what you might expect or what you would be looking for as kind of the forerunners of your 2025 performance?"
+  },
+  {
+    "speaker": "John Wall",
+    "role": "",
+    "text": "Yes. I mean, thanks for picking up on that, Joe. I mean, obviously, we're not giving any outlook on 2025 yet. But it's -- we have a very, very strong pipeline right now for Q4. I think it's the biggest I've ever seen for Q4 pipeline. It reminds me a little bit, it's kind of similar to how we finished 2021. If you recall, in 2021, we had a really strong pickup in bookings in Q4 in '21. About 40% of our annual bookings came in, in Q4 of '21. And this year, the second half seems to be setting up the same way, but it's an exceptionally strong pipeline, and we're seeing strong design activity everywhere."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Your next question comes from Jason Celino with KeyBanc Capital Markets."
+  },
+  {
+    "speaker": "Jason Celino",
+    "role": "",
+    "text": "Maybe just following up on Joe's backlog question. So understand that the pipeline looks quite large. Is it fair to say that the composition of that pipeline is mostly being hardware driven? I guess curious what you're seeing from a new order pipeline perspective on kind of the Z3, X3."
+  },
+  {
+    "speaker": "John Wall",
+    "role": "",
+    "text": "Jason, thanks for the opportunity to clarify. I mean it's broad-based right across the board, across all of our businesses. And all of the businesses are performing really, really well. I mean, when I look at our forecast for the remainder of the year, on a 3-year CAGR basis, I mean, all business groups are on track for strong growth from low double-digit growth on the core EDA software side, right through to kind of mid-teen growth right up to almost 30% growth for, like, IP, functional verification, which hardware is part of and system design analysis."
+  },
+  {
+    "speaker": "Jason Celino",
+    "role": "",
+    "text": "Okay. Perfect. And then just one really quick one on China. I think last quarter, I think you were trying to de-risk some of your assumptions. Obviously, this quarter, there were some incremental worries that the region might be taking another leg down. But obviously, Cadence and EDA can see very different purchasing habits and demand drivers from semi cap and some of the smaller point solution providers. But do you still expect to see 13% of your revenues come from China this year? I guess what else can you tell us about the overall demand environment there?"
+  },
+  {
+    "speaker": "John Wall",
+    "role": "",
+    "text": "Yes. Great question. Jason, I mean, you're reading my mind. I mean, myself and my team were looking through China. We went back -- we're data-driven. We went back 25 years to have a look at our China revenue. Because, I mean, we're expecting China revenue to be lower this year than last year. That's only happened 3 times in the last 25 years. First time was 2008. Obviously, there were macro things that gone on back in 2008, and it took until 2011 for us to reach a new high in China revenue. But it recovered immediately in 2009. It dipped in 2021, recovered immediately to a new high in 2022. And it looks like it's dipping in 2024. But I'm very, very pleased that Q2 was stronger than Q1 on a dollar basis. Q3 was stronger than Q2 and China seems to be recovering well with strong design activity."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Our next question comes from John Marco Conti with Deutsche Bank."
+  },
+  {
+    "speaker": "John Marco Conti",
+    "role": "",
+    "text": "Congrats again for a great quarter. Maybe perhaps if you could touch a little bit on the Cadence.AI suites, if you're seeing incremental appetite there. And is it going to be material for 2025 growth? If you could give us any data points or qualitative anecdotes, that'll be amazing."
+  },
+  {
+    "speaker": "Anirudh Devgan",
+    "role": "",
+    "text": "Yes, absolutely. I mean we are pretty pleased with how our Cadence.AI portfolio is doing. And like mentioned earlier, I mean, right now, I think it is used by all our top customers. So -- now some of them are -- the amount of proliferation is different at each customer. But right now, we are engaged in all of our top customers with our AI solution. And as you may know, we have 5 major AI platforms, all -- being analog, digital, verification, PCB and package and system analysis, so it's a pretty rich portfolio. And the customers are routinely seeing anywhere from 5% to 20% improvement in PPA, which is significant. I think the value of AI is not just productivity, which is huge. I mean, we have a history of productivity improvements in EDA, but the value of AI is when it can give a better result. So that's where, I think, the real value and monetization can happen if the result is better. And we also design our own chips as well. As you know, Palladium. We design our own chip, one of the most complicated chips that is made by TSMC. And we design our own IP, right, in our IP group. So we are also applying our own solutions internally as well. So give you -- these are, like, true comparisons of AI versus non-AI solutions. So even in the latest Palladium Z3 chip, we saw, like, 15% improvement in power using Cadence Cerebrus. And in the latest AI IP, we designed, we saw anywhere from 13% to 20% improvement in our IP group using our own Cadence.AI solutions, which is very consistent with what we see with top customers. So overall, we are pleased with the benefit we are getting, especially with the improvement in PPA. And productivity improvements can be anywhere between 5x to 10x, but the PPA benefits are truly remarkable and almost equivalent to 1 kind of node. One process node migration typically get 15% to 20% PPA improvement, and we can get that with AI. And then the last thing I would like to highlight with AI is our cadence on cloud offering. So we do have a Cadence customer support portal, and we are applying GenAI in there to give better in response to our customers. And this is another big trend of applying AI to give better customer support. So overall, applying Cadence.AI, of course, working with all our top customers across all 5 major platforms, applying AI internally to improve our own designs, whether it's in hardware group or IP and then applying AI for customer support can make us much more efficient."
+  },
+  {
+    "speaker": "John Marco Conti",
+    "role": "",
+    "text": "Amazing. If I could just ask a quick follow-up. Is it fair to say that in Q4, we should see the air pocket of hardware kind of closing out? And if you could share sort of any commentary around 2025 visibility, particularly from your overordering of the FPGAs and the raw materials. I'm just kind of curious how does that translate into backlog? I know you think -- don't specifically guide on backlog, but obviously, backlog was a little bit down sequentially, and so any commentary there, that'll be amazing."
+  },
+  {
+    "speaker": "John Wall",
+    "role": "",
+    "text": "Yes, John Marco, I certainly wouldn't categorize our ordering of FPGAs as overordering. We're ordering to fit the demand that we see. We're seeing very robust demand. The pipeline is super strong. But like I said, I haven't seen it as strong as this in any previous Q4 that I've been here. So we're set up for a tremendous Q4. At this time of the year, it's always difficult to give any indication as to what next year looks like and particularly in years like this when you expect such a strong bookings quarter in Q4, we kind of have to get that landed and look at the quality of that before we give any indication as to what next year looks like. But I'm very, very pleased with the hardware demand, with the performance of the business and they're ramping up production all the time to meet the demand."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Our next question comes from Lee Simpson with Morgan Stanley."
+  },
+  {
+    "speaker": "Lee Simpson",
+    "role": "",
+    "text": "So a couple of quick ones from me, actually. Just looking at the Millennium platform, following on from the last question there. Could you maybe characterize what is the interest beyond NVIDIA, when, who and how big do we think the demand will be for that platform? And maybe as a follow-on question, I'm just interested on the timing of the impact from new collaboration with Arm on CSS. Does that have any specific vertical to it? Is that autos? Or is it maybe the aerospace stuff that you were talking about there?"
+  },
+  {
+    "speaker": "Anirudh Devgan",
+    "role": "",
+    "text": "Yes. Good question, Lee. So first, in terms of Arm, I mean, we have a pretty broad partnership with Arm over the years. I mean, going back, like, 10 years, and especially in their IP development CPUs and GPUs. And this latest collaboration, which we highlighted, is also expanding to compute subsystems and total design, which is ARM doing more -- as you know, more chiplets and more droplets. And this is broad-based, but I think they are -- this is more a question for Arm, but they are seeing a lot of strength in multiple markets, including HPC and automotive. But this is expansion of as -- as Arm, kind of [ morphing ] their strategy, our relationship with Arm gets even stronger, not just in IP development, but also for total compute. And in terms of your other questions on Millennium, in general, I am optimistic. Like I've mentioned before that with these new systems, we can accelerate a lot of our software on combination of CPUs and GPUs, okay, and Millennium is a perfect example. And the reason for that is -- I mean, of course, we can accelerate EDA. We got like fabulous results in Spectre. We are the leading provider of circuit simulation, which Spectre is the leading platform. And with these latest systems, we are able to accelerate circuit simulation by 5x to 10x by these CPU-GPU acceleration platforms. But also on system design and analysis, which is Millennium is a perfect example for that. And the reason for that is that system design and analysis, by nature, the algorithms involved does a lot of matrix multiply. Like CFD is essentially a matrix multiply operation. And the other thing that is largely a matrix multiply is, of course, AI. So -- and these systems are well tuned for AI or matrix multiply operation. So they are very naturally tuned for SD&A kind of application. So I'm pretty optimistic that -- because we're getting tremendous results and we are seeing that CFD, and especially with the aerospace and automotive companies, okay, because this is -- typically, they have been limited by how much simulation they can provide. And I think we highlighted, like, for example, Honda is a great kind of early development partner for Millennium. And in general, as these platforms get more sophisticated, the CPU-GPU platforms, I think we can apply this acceleration to a broader portfolio, and you'll see that going forward."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Our next question comes from Charles Shi with Needham."
+  },
+  {
+    "speaker": "Yu Shi",
+    "role": "",
+    "text": "I want to ask another question about the Intel and Samsung. But from another perspective, I mean, despite all the headlines, which were not so positive. We know that those 2 customers, where your market share, historically, has been a little bit underrepresented, but largely because they are still using the internal EDA tools. So I mean, given all the challenges those 2 customers seems to be facing, although it doesn't sound like you're seeing any immediate changes. Is it possible that it can be a net positive for you guys? And if there is more dependence of those 2 customers on the commercial EDA tools, meaning more of the EDA development work being \"outsourced\" to the merchant EDA companies like Cadence, I want to get some thoughts and what could be, let's say, an inflection point for that to happen if it happens?"
+  },
+  {
+    "speaker": "Anirudh Devgan",
+    "role": "",
+    "text": "Yes. Charles, that's a great observation. I mean, as you know, we are very strong in the -- historically strong over the last 5, 10 years in the TSMC ecosystem with partnership with TSMC and Arm, and historically not as strong with Samsung and Intel. Though I think that is beginning to change, especially last year and this year. And to me, there's always -- every company goes through ups and downs, as you know. And whenever -- I mean, both Intel and Samsung are great companies. And when they're going through more challenges, there typically are more opportunities for us. We always lead with products. We believe we have the best solution. So -- and we are seeing that. We saw it with Intel. We mentioned our IP partnership. Also the strength of our new hardware platforms across -- we are working with both these companies on our new systems and then AI-enabled software. So typically, these things will take time. So -- but in general, whenever there is a competitive situation with some of these big customers, typically, we have done well historically in those situations."
+  },
+  {
+    "speaker": "Yu Shi",
+    "role": "",
+    "text": "Got it. Maybe the other question I want to ask is hopefully, you can clarify, because it has been in the news that Cadence maybe acquiring Altair or maybe looking to acquire Altair Engineering Systems. Mind if you provide some comments here?"
+  },
+  {
+    "speaker": "Anirudh Devgan",
+    "role": "",
+    "text": "Yes, I mean, as you know, we don't comment on specific rumors, but I mean, as we have said before, I mean, we are very pleased with our strategy. We are very pleased that most of our growth is organic and sometimes we do some small tuck-in M&A, and that strategy has not changed, okay? So that's our plan going forward, and we are pretty happy with how we are positioned. Yes."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Our next question comes from Jay Vleeschhouwer with Griffin Securities."
+  },
+  {
+    "speaker": "Jay Vleeschhouwer",
+    "role": "",
+    "text": "Anirudh, you may recall that on the conference call a quarter ago, you spoke about various AI ML use cases that you're beginning to see. And then separately, we also talked about how you might, over time, change your product packaging for different use cases or end markets. Maybe we can bring those 2 things together? And the question is do you see a likelihood of -- for AI ML applications, more and more vertical domain-specific packaging? I know you've got the branded apps right now. you're obviously selling into different verticals. But would you foresee taking any of those technologies and making them specifically packaged to specific end markets? And also before I get to my follow-up, could you also talk a little bit about your AI ML development roadmap? You've had customers speak at Cadence live about what they're looking for from you in that respect and maybe you could talk about improvements you're going to be making in things like capacity, memory footprint, scenario proliferation, and so on and so forth. Then I'll ask my follow-up."
+  },
+  {
+    "speaker": "Anirudh Devgan",
+    "role": "",
+    "text": "Yes. Jay, that's -- those [ are ]all great observations. I mean, we have, of course, one of the highest investments in R&D, and we are very pleased with our kind of roadmap for AI and AI products. But we will enroll that over time, right? As you know, it's kind of -- I don't want to preannounce anything here. But overall, I think we are investing heavily. And as AI itself gets more powerful, the 3-layered cake that I always talk about, the AI orchestration on the top, the middle layer of principal simulation and optimization and the bottom layer, like I mentioned earlier, with CPU-GPU and custom silicon. So we are investing in all these 3 areas. And it may make sense for some verticalization, like we did for Millennium, right? That is a vertical -- targeted at a particular vertical with aerospace and automotive. But overall, we are pretty pleased with that. And like we -- I also believe that -- I mean, AI itself is a very big topic, but there are 2 parts of it. The initial phase is horizontal. And we are also -- we have a lot of horizontal technologies. But over time, I think the AI monetization will have to be more and more vertical. And I've talked about this publicly, the 3 phases of AI. So we are, right now, in what I would call infrastructure AI, starting with data centers and then going into edge devices like laptops and phones. And even in data centers, we have more vertical solutions now with thermal management and things like that. But that's the Horizon 1, which is in infrastructure AI. Horizon 2, in my mind, is physical AI, things like self-driving, drones, robots. And even though the auto market is weak right now, but in terms of design, it's not weak, okay? As you see, a lot of the reporting on semiconductor, autos is weak. But in terms of design activity, there's a lot of design activity for what is there to come. And this is what I saw, like, a few years ago in data center as we are seeing in automotive. And a lot of the chips that are required for automotive are very similar to what are required for drones and robots, okay? So to me, that's like the second phase of AI, which is physical AI. And then the third phase of AI, which is Horizon 3, which is further out from the physical AI is what I would call sciences AI, and the biggest application will be life sciences, okay? And that's why the investment in OpenAI 2 years ago. So that's how we look at it. Infrastructure AI, followed by physical AI, followed by sciences AI. And we will have, of course, horizontal solutions, because our business is fundamentally horizontal for multiple end markets. But as these markets evolve, we will also have some vertical solutions that are tuned to, especially, these megatrends of infrastructure, physical AI and sciences AI, but exciting times and -- go ahead."
+  },
+  {
+    "speaker": "Jay Vleeschhouwer",
+    "role": "",
+    "text": "Okay. Sorry about that. So you noted the strength in SD&A generally included some upside for the first full quarter with BETA CAE. But from a larger perspective, the fact is since you did your first acquisition for the ISD strategy, you've done 7 or 8 acquisitions over $2.1 billion of cumulative value. But you're still very much the challenger in that market with a fraction of market share relative to the market leaders. So maybe you could talk about how you're thinking about more tightly coupling across the various applications you have in CFD and SD&A. And talk about how you're thinking about ramping up in go-to-market, especially, which is also something that, I think, you need to do to supplement what you've done on the \"acquisition\" side?"
+  },
+  {
+    "speaker": "Anirudh Devgan",
+    "role": "",
+    "text": "Yes, Jay, that's a great observation. So first of all, especially -- like we mentioned earlier, with the BETA acquisition, and which is doing pretty well, we feel that our portfolio is fairly complete, okay? So whether it is electromagnetics or thermal and now with CFD and then structural, so -- and the key thing that I watch and you can see in our results is the growth rate, okay, not just how complete the portfolio is, but how well it's performing in the market. And we are pretty pleased to see that the growth rate is good and I believe, much better than the overall market. And part of it is now that -- one part is, of course, the product have to be good, and I believe our products are best-in-class, whether it's Clarity for -- is routinely, like, 5x to 10x faster; Celsius, only unique solution that can do thermal both finite element and CFD for 3D IC and general applications with BETA or with Millennium, but also go-to-market. So I think we have highlighted before and especially this quarter, it really went into full effect is we want to go to market in 3 big ways. So one way is direct, right, which is Cadence trend, working with the top customers. Our history, especially in EDA is, of course, working directly with the world's best companies. So we are doing that in SD&A as well, and that's where we were focused. Last few years was -- and we still are with the top companies, but we need to augment that with 2 other parts of the strategy, which the other system design companies do anyway. So the second part, apart from direct channel, is what we would call indirect channel, through channel partners. And then the third part of go-to-market is e-commerce and cloud offerings, okay? So I think at this point, especially in Q3, I feel that we are hitting our stride in this go-to-market. And for example, this -- apart from the top customers where we go direct, with a channel partner or indirect channel, we have now more than 100 partners, okay, which is a significant increase from earlier. And also OnCloud itself, which is the e-commerce direct channel, we have tens of thousands of users. And what we are also doing is we are a -- we are -- all our channel partners are also going to market through OnCloud. So whether the customer directly buys through e-commerce, or buys in a traditional way, all the data is captured in this online platform, so which is great for cross-selling. It's great for lead generation. So I really feel that we'll see how it progresses in the future, but especially this year, we are -- go-to-market has improved now that our products are in good shape. We need to focus on go-to-market, especially in direct channel and direct customer sales."
+  },
+  {
+    "speaker": "John Wall",
+    "role": "",
+    "text": "And if I could add to that as well, Jay, it's way more than just BETA. I mean, BETA is fantastic in that we're getting more pull-through revenue, especially in automotive as a result of BETA rounding out our multiphysics platform. But we're also getting strong momentum in A&D. Do you want to talk more about the A&D?"
+  },
+  {
+    "speaker": "Anirudh Devgan",
+    "role": "",
+    "text": "Yes, absolutely. I mean A&D, like we highlighted this time -- I mean not just the traditional -- see, what is exciting about A&D to me is not just the traditional devs like Northrop Grumman, which we have a long history of working with, both on the silicon side and the system side. But also, we are now directly working with, like we highlighted, the U.S. Air Force and U.S. Army. So -- and in terms of SD&A, there are 3 big markets. There's the traditional markets of high-tech or electronics. Anyway, that's where we're traditionally strong in. And the 2 other markets are aerospace and automotive. So apart from BETA helping us in automotive, I think aerospace, our own history with Northrop and other and the strength of our portfolio, so we feel that we are well-positioned in these 3 big markets."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Our next question comes from Vivek Arya with Bank of America Securities."
+  },
+  {
+    "speaker": "Vivek Arya",
+    "role": "",
+    "text": "So Anil, despite all the secular drivers, the stock has underperformed this year because of revenue lumpiness and we have seen the core EDA growth slip below 10%. I know you're not guiding to '25, but do you think investors should be prepared for a smoother year? Or are there other lumpy effects in IT or hardware or anything else that we should keep in mind? And if I had to try to quantify it, if I look at this $1.3-ish billion kind of exiting run rate from Q4, is this sort of the trend line for next year? Just how would you suggest investors get a handle for 2025? Because I think this lumpiness has really impacted the stock this year."
+  },
+  {
+    "speaker": "Anirudh Devgan",
+    "role": "",
+    "text": "Yes, Vivek, all I would say is that, I mean, first 2 quarters were not -- were atypical for Cadence. We have highlighted before, like, Q1 and Q2 because of certain kind of onetime things. But I do believe Q3 is more back to normal. But John can comment more."
+  },
+  {
+    "speaker": "John Wall",
+    "role": "",
+    "text": "No, I agree. I certainly Q3 feels like our back to normal quarter. I think Q4 has a lot of upfront revenue. It is unusual, again, in terms of Q4. And we've got that massive pipeline that we have to convert. We have a lot of work to do there before we can talk about 2025. But when I look at 2025, I kind of view Q3 as a more normal quarter for Cadence."
+  },
+  {
+    "speaker": "Vivek Arya",
+    "role": "",
+    "text": "Okay. And for my follow-up, I saw in the CFO commentary that you have something now called core EDA, You've always given the different segment sales, but if I'm not mistaken, you took SDA out and you have something called core EDA. I'm curious why you chose to do that. And do you have system design and analysis kind of growth CAGR in mind beyond just a generic kind of double digit? What is the organic growth rate that you think your SDA business can achieve over the next number of years?"
+  },
+  {
+    "speaker": "John Wall",
+    "role": "",
+    "text": "And I'm not sure you're asking about '25 again, because, like, nice try. But look, when we talk about core EDA, we were talking about -- basically, you have core EDA software and you have the, like, functional verification group and hardware. We talk about core EDA, we talk about those 3 groups combined. The system design and analysis we typically talk about separately. And then, of course, we have the IP business. The IP business and systems in analysis business are growing really, really strongly right now. But the launch of the new hardware products has resulted in functional verification growing really strongly. But often, when hardware is bundled alongside core EDA software, that there's an allocation methodology to apply value between the software and the hardware. So often, internally, we look at core EDA, the 3 of them combined. If you look at core EDA software, by the end of the year, we're on track to achieve double-digit revenue growth on a 3-year CAGR basis, which is the way we track things. But on the functional verification side of things, it'll be -- it looks like it's on track for, like, high-teen growth on a 3-year CAGR basis, like mid- to high-teen growth. But IP, again, looks very, very strong and SD&A is the strongest of all. And I think it's all those things that Anirudh just spoke to."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Our next question comes from Clarke Jefferies with Piper Sandler."
+  },
+  {
+    "speaker": "Clarke Jeffries",
+    "role": "",
+    "text": "I wanted to more focus on fiscal '24 with my questioning around specifically what happened in the quarter versus the full year guide. I mean, there was great momentum in the IP business, 59% growth. I was wondering, like, if you could level set what you're expecting in terms of Q4 IP contribution. I know last quarter, we talked a lot about IP and systems leading upfront revenue in the second half and verification maybe being in the high single digits. Is that still fair or true? Just to the broader question of tightened full year range, but a beat on Q3, what was happening behind the scenes that revenue landed differently than expected? And then 1 follow-up."
+  },
+  {
+    "speaker": "John Wall",
+    "role": "",
+    "text": "Yes. Sure, Clarke. I don't think revenue landed differently to -- I mean basically, we were prudent with our guide in Q3, and it's -- we feel our team always does its best business when they're not chasing. And I think we were rewarded for that with Q3 business. But similarly, we're being prudent for Q4. IP has great momentum. I expect that momentum to carry on into the fourth quarter as well as SD&A. I think all businesses are performing really, really well now. Anything to add there, Anirudh?"
+  },
+  {
+    "speaker": "Anirudh Devgan",
+    "role": "",
+    "text": "Yes. Just some more comments on the IP business. I mean, of course, Q3 is strong, and we expect good growth in Q4. But like any business, we look at it over multiple quarters and multiple years, right? So if you look at IP on a 2-year CAGR, I think it's, I would say, in the 30%, which is still good. But Q3, I mean, there's a focus on, what, each quarter separately. But the key thing in IP growing at, let's say, 30% on a 2-year CAGR basis, I think we are doing -- finally, we are in a very good position in IP. This is the way I see it. I mean, EDA, we have done historically very well. We are well recognized as the leader in EDA. But if you look back, like, last 3 years, we have not done as well in IP as we could have. But I finally feel that now our IP business is in its strongest position it has been, okay? And there's multiple reasons for that. I mean 1 key reason is that we always focus on advanced node, especially with our leading kind of TSMC advanced node. And now at 3-nanometer, 5-nanometer, our PPA is finally industry-leading in the IPs we deliver. And they are for these kind of enterprise application. And that whole area is taking off. So I think that's the first main reason. The second reason is that we are now working with other foundries, like we have highlighted, and there is more and more IP development needed for kind of onshoring or trench-shoring activities throughout the world. And then the third reason is disaggregation. This 3D IC even -- not just in HPC, but now in laptops and automotive, this disaggregation trend and need for IP like UCIe and all the other memory interface IPs. So I do feel that we have a good portfolio and IP group is in a very good position, not just for Q3, but on a multiple year CAGR basis."
+  },
+  {
+    "speaker": "Clarke Jeffries",
+    "role": "",
+    "text": "Perfect. And just to clarify or follow-up on that. Just -- I think the #1 question we're going to get from investors are there going to be remaining execution thresholds with some of the IP business you had anticipated in the second half? Does more of that come in Q4? Or did some of it land in Q3? And then just final point around margin outperformance. How would you attribute the margin outperformance that happened in the quarter? Certainly, IP revenue may benefit in the sort of optics of incremental margin, but anything to call out in terms of maybe how OpEx discipline came in compared to your expectations?"
+  },
+  {
+    "speaker": "John Wall",
+    "role": "",
+    "text": "Yes. Sure, Clarke. Again, more great questions. The -- I mean on the IP side, I think we -- like I said, we've got great momentum there. You're probably referring to the -- we did a large contract at the start of the year with milestones that were in the second half of the year and some of those kicked in, of course, in Q3 and triggered revenue. There are more that will trigger revenue in Q4, but that's a multiyear contract that will -- that momentum should continue on into next year. And then on the margin side, I mean, Cadence is -- I mean it's a tremendous business. I mean, the core EDA business is a great foundation for margins and profitable sustainable revenue business that -- and growth is -- we scale really well. As we grow in these other areas, a lot of the growth just slows down. Nice to hear you talking about incremental margin. Typically, a lot of that revenue growth just flows into operating margin. And you can see when the growth comes through, the impact it has on operating margin is incredible."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Our next question comes from Harlan Sur with JPMorgan."
+  },
+  {
+    "speaker": "Harlan Sur",
+    "role": "",
+    "text": "Your inventories are up 70% sequentially. That's an all-time high. I think it's implying a very strong demand profile and backlog for your new Z3 and X3 hardware systems. Is demand exceeding your near-term supply and manufacturing capabilities? In other words, is the Q4 shipment profile for your hardware system supply or manufacturing constraint? I'm just trying to get a sense on how many quarters the strong upgrade cycle can extend into next year."
+  },
+  {
+    "speaker": "John Wall",
+    "role": "",
+    "text": "Yes. Harlan, demand is very strong for our hardware. But in terms of inventory growth, that's really come as a result of us buying -- doing a multiyear contract with a key supplier. We mentioned that on last quarter's call. That's also impacting our operating cash this year, but it was in and around the kind of low to mid-$100 million kind of level in terms of purchases for hardware inventory for the next 3 years."
+  },
+  {
+    "speaker": "Harlan Sur",
+    "role": "",
+    "text": "Perfect. Okay. And then back to the China business. So as you think about 2025 and anniversary in a more normalized business environment for your China business this year. There's a lot of puts and takes where you've got the hardware upgrade cycle, you've got the potential direct or indirect headwinds from maybe more U.S. regulatory actions. You've got the macro environment, which, in extreme cases, maybe does impact your [ WAN ] activity. So kind of a lot of moving pieces, right, but I think that the best leading indicator over the next few quarters on growth is design starts and planned design starts, right? So Anirudh you track design starts in China, you track some of the upcoming programs. How does the design activity funnel look? Is it increasing? Is it staying flat? And then when you overlay your hardware upgrade cycle on top of this, what's the early sort of qualitative view on China as you look into next year? Would you expect continued acceleration in year-over-year comps?"
+  },
+  {
+    "speaker": "Anirudh Devgan",
+    "role": "",
+    "text": "Harlan, that's a good question. First, overall, and then specifically on China. I mean, like we mentioned, China has improved last 2 quarters. I mean it's difficult to forecast that into next year. But I do think that there is improvement in China overall. And also, now with our more richer portfolio is also with -- especially with the auto sector. I mean what is interesting to me is, for China, we have luxury of, like, in China and other parts, work on multiple end markets and we participate in all the markets that the customers are designing chips for. But what is interesting to see -- for me to see in China is how well they're doing in automotive. And almost all of those major auto companies are also now designing chips. I mean this is well known now. And so we are glad to work with them, both on the SDA, but also the EDA side with the silicon part. So I think we just have to see how it progresses into '25. But overall, I think the design activity is strong in China and elsewhere, especially driven by this AI super cycle and amount of activity we are seeing with the hyperscalers, both in China and of course, in the U.S. and the demand of AI for next several years. So we'll see. We'll continue to monitor that."
+  },
+  {
+    "speaker": "John Wall",
+    "role": "",
+    "text": "Yes. And Harlan. Although, I mean, obviously, we can't predict what 2025 is going to bring, we did go back and back-test the last 25 years. It's only the third year that we've seen a down year in China revenue on a dollar basis. And we've never seen 2 down years in a row. And I'm pleased to see that Q2 was stronger than Q1 this year. Q3 is stronger than Q2 this year. Pipeline looks strong. Anecdotally, from the team out in China, they're seeing a lot of design activity strength out there."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Our next question comes from Ruben Roy with Stifel."
+  },
+  {
+    "speaker": "Ruben Roy",
+    "role": "",
+    "text": "John, I wanted to ask a quick question, returning to the bookings pipeline and the strength there, great to hear that. But I know you said it was broad-based. Just wondering if we could drill into the hardware part of it just a little bit more. I think historically, you've said that hardware visibility is a little limited relative to the rest of your business. I'm just wondering, given that you have this new ramp, has that changed at all? Is your visibility on kind of hardware bookings extending at this point? Or is it kind of similar to previous systems?"
+  },
+  {
+    "speaker": "John Wall",
+    "role": "",
+    "text": "Yes. Great question. I mean, typically, on the hardware side, you've kind of got a 2-quarter view of the pipeline. Opportunities tend to turn up in the pipeline, about 2 quarters at most in advance of when the customer plans to put the hardware into production. Because often it's based on design projects that customers are starting. And then they might need a hardware emulation system for that project. And they know the project will be, like, this quarter or next quarter. But -- so typically, we have kind of a 6-month view. Now at this time of the year, a 6-month view is tremendous because there's a lot that happens in Q4 every year. Q4 is always a strong bookings quarter for us. By the time -- obviously with a strong pipeline and everything, we've got to convert a bunch of that. But we have a great history of converting that. But we'd like you to just let us convert that now in Q4, and we'll come back to you as soon as we close Q4 and give you an outlook on '25."
+  },
+  {
+    "speaker": "Ruben Roy",
+    "role": "",
+    "text": "Understood. And then a quick one, I hope, for Anirudh. Just kind of thinking through what you said on some of the new AI kind of areas that you're working on. You mentioned NVIDIA and NIMs and NeMo. And I think your competitors talked a little bit about that. I imagine you would characterize that as a later phase AI revenue opportunity, but just wondering if you could maybe talk through how we should think about timing of when we might see some of those types of products at the market. And also, you said that you're building custom applications. Are you getting inbound requests from customers like hyperscalers or otherwise for that type of AI feature set?"
+  },
+  {
+    "speaker": "Anirudh Devgan",
+    "role": "",
+    "text": "Well, one thing I would like to highlight is that -- is our JedAI platform. So it's an enterprise data and AI platform. And the way we go to market with that -- and it supports, like, multiple GenAI solution. So we become almost, like, LLM agnostic. We can plug in different -- and different customers will want, like, different kind of engines in there. But it becomes like a main deployment vehicles and it works with all our tools and all our major 5 AI platform. So we -- it gives that flexibility to us, depending on which -- some customers may want different kind of AI solutions there. And then that platform can also be used to customize, not just our solutions, but any customer-specific solutions can be deployed through JedAI. And JedAI also works both on the cloud and on-prem because some customers, some really big customers don't want the AI to go to the cloud. So in that case, we have it on-prem. So I think JedAI -- and we have worked on this JedAI for several years. It gives a unique position to Cadence to deploy these AI solutions and multiple kind of LLMs and ways to go to market."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Our next question comes from Siti Panigrahi with Mizuho."
+  },
+  {
+    "speaker": "Sitikantha Panigrahi",
+    "role": "",
+    "text": "And Anirudh, it's good to be on the call. It's just initiated coverage, so I want to keep it at a high level and probably, just for the interest of time, 1 question here. When I look at your 3 years revenue CAGR trend, it has been accelerating from single digit to now mid-teens. And Anirudh, you talked about so many growth drivers and even products, new products coming to market. I'm wondering how would you rank order this growth opportunity and product when you think about the growth in the foreseeable future. And what gives you that confidence to sustain this kind of double-digit revenue growth?"
+  },
+  {
+    "speaker": "Anirudh Devgan",
+    "role": "",
+    "text": "Thank you for the question. And also thank you for initiating coverage. I mean, as we have said before, I think one thing I just want to highlight is we are always looking at revenue growth, which has improved, like you mentioned, through all of these systemic drivers, but always at the same time, profitability, which has also improved and continues to improve every year. So -- and put that together, that, of course, delivers results to our shareholders. And even in Q3, right, not only we did better on revenue, but also on profitability. So I think there are a lot of drivers, a lot of them driven by AI and then AI moving to the edge and our move into doing better in new areas like SD&A. But also IP, like I mentioned, I'm optimistic about our IP business going forward. But at the same time, we put a focus on profitability. So we'll continue to manage that going forward."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Our final question comes from Joshua Tilton with Wolfe Research."
+  },
+  {
+    "speaker": "Joshua Tilton",
+    "role": "",
+    "text": "I want to start with a bit of a nuanced question, although I think it is important. John, you talked to how previously you have seen down years in China, but you've never seen 2 down years in a row. And I guess you mentioned you're data driven, you looked at the historical numbers. But can you give us any sense of what helps to drive the recovery a year after you had a down year? And what I'm trying to get at is, do I have to believe in some type of bigger hardware demand or more upfront contribution or something along the lines of things that may not be recurring? Or is it just more a function of we had a weak year and there was a return-to-normal demand environment going forward? I guess I'm just trying to understand outside of history, what is similar this year versus the previous years where you've seen down years? And why you don't expect to, once again, not see 2 down years in a row?"
+  },
+  {
+    "speaker": "John Wall",
+    "role": "",
+    "text": "Yes. Okay, thanks for the opportunity to provide a little bit more color. Yes would -- we looked back over the last 25 years and we've seen like tremendous momentum in design activity amongst our customer base, a growing customer base across China. There were only 2 previous years before this year where we saw a downtick in China revenue on a year-over-year basis. 2008, I know 2008 has some idiosyncratic qualities to it, but 2008 was also a year that we changed from an upfront revenue model to a ratable revenue model. And I think that's why it took a couple of years to get back to a new high in China. But then -- since then, it's only 2021. 2021 dipped. China revenue dipped from 2020, but it recovered to a new high in 2022. And now incidentally, that was -- we launched new hardware systems. And we do find that there is a correlation between hardware revenue and China revenue. Hardware revenue tends to pull through more China revenue for us on the software side. And I think we're seeing a little bit of that this year in that the new hardware that's been launched is selling more and being delivered more outside of China. I would expect more of that to go to China next year, and it'll help improve our software revenue. Also, if you look at this year, China, it dipped in Q1, but it's been recovering since Q2 has been higher, Q3 has been higher. And like I said, as hardware recovers out there, I think it'll pull through more software revenue."
+  },
+  {
+    "speaker": "Joshua Tilton",
+    "role": "",
+    "text": "Super helpful. And then just maybe 1 very quick follow-up. Any updates on what you guys are -- or just in general, what the contribution from BETA was in the quarter and if you're still on track or expecting $40 million for the full year? Or if we should expect more from your original..."
+  },
+  {
+    "speaker": "John Wall",
+    "role": "",
+    "text": "The -- so we're seeing a big contribution with BETA when you include the pull-through revenue that we're getting across for all our automotive customers as a result of selling traditional Cadence technology alongside BETA. But we're -- but it's a small tuck-in. We're not guiding BETA separately."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "I will now turn it back to Anirudh Devgan for closing remarks."
+  },
+  {
+    "speaker": "Anirudh Devgan",
+    "role": "",
+    "text": "Thank you all for joining us this afternoon. It's an exciting time for Cadence with strong business momentum and growing opportunities with semiconductor and system customers. We launched the Fem.AI initiative and committed to an initial investment of $20 million to lead the gender equity revolution in the AI workspace. This is also led through our Cadence giving foundation. With a world-class employee base, we continue delivering to our innovative roadmap and working hard to delight our customers and partners. On behalf of our Board of Directors, we thank our customers, partners and investors for their continued trust and confidence in Cadence."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Thank you for participating in today's Cadence Third Quarter 2024 Earnings Conference Call. This concludes today's call. You may now disconnect."
+  }
+]

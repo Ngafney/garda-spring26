@@ -1,0 +1,312 @@
+[
+  {
+    "speaker": "Unknown",
+    "role": "",
+    "text": "Full Conference Call Transcript"
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Good morning. The Roper Technologies conference call will now begin. Today's call is being recorded. [Operator Instructions] I would now like to turn the call over to Zack Moxcey, Vice President of Investor Relations. Please go ahead."
+  },
+  {
+    "speaker": "Zack Moxcey",
+    "role": "",
+    "text": "Good morning, and thank you all for joining us as we discuss the third quarter 2025 financial results for Roper Technologies. Joining me on the call this morning are Neil Hunn, President and Chief Executive Officer; Jason Conley, Executive Vice President and Chief Financial Officer; Brandon Cross, Vice President and Principal Accounting Officer; and Shannon O'Callaghan, Senior Vice President of Finance. Earlier this morning, we issued a press release announcing our financial results. The press release also includes replay information for today's call. We have prepared slides to accompany today's call, which are available through the webcast and are also available on our website. Now if you please turn to Page 2. We begin with our safe harbor statement. During the course of today's call, we will make forward-looking statements, which are subject to risks and uncertainties as described on this page, in our press release and in our SEC filings. You should listen to today's call in the context of that information. And now if you please turn to Page 3. Today, we will discuss our results primarily on an adjusted non-GAAP and continuing operations basis. For the third quarter, the difference between our GAAP results and adjusted results consists of the following items: amortization of acquisition-related intangible assets, transaction-related expenses associated with completed acquisitions; and lastly, financial impacts associated with our minority investment in Indicor. Reconciliations can be found in our press release and in the appendix of this presentation on our website. And now if you please turn to Page 4, I'll hand the call over to Neil. After our prepared remarks, we will take questions from our telephone participants. Neil?"
+  },
+  {
+    "speaker": "Neil Hunn",
+    "role": "",
+    "text": "Thank you, Zack, and thanks to everyone for joining us and excited to be with you this morning. As we turn to Page 4, you'll see the topics we plan to cover today. We'll start with our third quarter highlights and financial results. Next, we'll review our segment performance, our AI progress and momentum and our most recent set of bolt-on acquisitions. Then I'll get into our guidance details and of course, wrap up with your questions. So with that, let's go ahead and get started. Next slide, please. Turning to Page 5. Let me run through the 4 key takeaways for today's call. First, we had a strong third quarter. Total revenue grew 14%, organic revenue grew 6%, software bookings grew in the high singles area, and we continue to deliver impressive free cash flow with free cash flow growing 17%. And of note, free cash flow margins posted at 32% for the TTM period, really impressive financial results. Second, we're super encouraged by the progress and momentum we're seeing across all of our businesses as it relates to our AI enablement and our product stacks and our internal operations and more on this in a moment. Third, we're announcing today our first share repurchase authorization, $3 billion in total. And lastly, we continue to execute on our M&A strategy of acquiring faster growth platforms and bolt-on or tuck-in acquisitions at a high fidelity rate. In the quarter, we deployed $1.3 billion, $800 million for Subsplash, which we detailed this time last quarter, and $500 million on a series of tuck-in acquisitions. Also more on this later, but worth highlighting here, we are very encouraged by this recent capital deployment execution and the future growth potential that's being layered into our enterprise. Importantly, we remain very well positioned for the continued execution of our M&A strategy and continue to have north of $5 billion of capital deployment capacity available over the next 12 months or so. As I turn the call over to Jason, reflecting on the quarter, I'm quite bullish on most of what we're seeing, a very strong 3Q, real demonstrable AI progress, which is a long-term growth driver for us, excellent execution of our higher growth, higher returning capital deployment strategy and the announcement of our first-ever buyback authorization. This all bodes very well for the future. That said, we'd like to see some of our markets start to cooperate a bit better, namely the government contracting and freight markets, and we have some delays in Neptune. Much more on this as we walk through today's call. So with that, let me turn the call over to Jason to talk through our P&L and our balance sheet."
+  },
+  {
+    "speaker": "Jason Conley",
+    "role": "",
+    "text": "Thanks, Neil. Good morning, everyone, and thanks for joining us today. I'm pleased to take you through our third quarter results and strong financial position. Turning to Page 6. Q3 and TTM results reflect the long-term financial profile of Roper, which is to compound cash flow in the mid-teens area. We'll start with revenue, which was 14% over prior year and surpassed the $2 billion mark. Acquisitions contributed 8%, led by the final quarter of Transact before it turns organic and CentralReach, which we acquired in April this year. Of note, these businesses are tracking very well against our acquisition expectations. We printed 6% organic growth, both for the consolidated enterprise and across each of our 3 segments. Our Application and Network Software segments were in line with expectations, while TEP was a bit below given near-term timing at Neptune, which Neil will discuss further. EBITDA of $810 million was 13% over prior year with EBITDA margin of 40.2%. Core margins expanded 10 basis points and segment core margins expanded 30 basis points, led by our software segments. DEPS of $5.14 was 11% over prior year and $0.02 above the high end of our guidance range despite absorbing $0.05 of dilution from Q3 acquisitions that were not reflected in previous guidance. Free cash flow was outstanding at $842 million, up 17% over prior year and representing 32% of revenue on a TTM basis. Our software businesses captured strong renewals, and we drove great working capital performance across the board. Broadening out a bit, TTM cash flow of over $2.4 billion is a 17% CAGR over a 3-year period. And for those looking at per share metrics, you'll note that our share count has compounded at about 0.5% over that same time period. At Roper, we have been and will continue to be relentlessly focused on cash flow and shareholder value creation. Now let's turn to Slide 7 and discuss our very strong financial position. Our net debt-to-EBITDA stands at 3x, which is up only modestly from Q2 at 2.9x despite deploying $1.3 billion towards acquisitions. This places us in a great position with over $5 billion in next 12-month capacity for capital deployment. Regarding M&A, you can see that we've been quite active this year in acquiring high-quality growth businesses and several strategic bolt-ons. This is against the backdrop of a muted PE deal environment. The pipeline of high-quality acquisitions continues to build as assets mature in PE portfolios and a return of capital to LPs becomes paramount. Additionally, as Neil mentioned, we're pleased to announce another capital deployment lever that was previously unavailable. Our Board has authorized a $3 billion share repurchase program with an open-ended time period to execute. While M&A will continue to be the majority of our capital deployment allocation, our share repurchase program will allow us to opportunistically complement our M&A program. Over the last year or 2, we have talked about the great business building taking place across the Roper portfolio from strategy to talent to execution, all now greatly turbocharged by AI. Our repurchase program reflects both confidence in our strategy and our commitment to delivering long-term shareholder value. So with that, I'll turn it back over to Neil to talk about our segment performance. Neil?"
+  },
+  {
+    "speaker": "Neil Hunn",
+    "role": "",
+    "text": "Thanks, Jason. Turning to Page 8. And before we get into our segment details, we want to discuss why AI is a powerful and durable growth driver for Roper. To start, AI represents a meaningful expansion of our TAM across the portfolio. We can now deliver transformational software solutions that automate labor-intensive work adjacent to our existing platforms. This creates substantial new value streams for our customers and correspondingly facilitates long-term growth for Roper and our businesses. Importantly, our businesses are uniquely positioned to win in AI, in fact, having a very high right to win in the AI world. Our software solutions are deeply embedded system of record applications with workflow-oriented domain-specific architectures. The decades of cumulative workflow knowledge built into our platforms, combined with the proprietary vertical market data, provide the precise context needed to develop Agentic AI solutions. Because of this, our businesses have an exceptionally high right to win as we deploy these capabilities across our VMS end markets. Internally, we're becoming AI native across all functions to drive productivity gains. We're excited to reinvest these gains to further accelerate our product development and go-to-market initiatives. It's important to note, we've always had more great ideas than resources needed to execute, and AI has the potential to attack this challenge. Finally, we have tangible proof points, though it's still early. Aderant has claimed a technology leadership position in legal tech, accelerating their bookings growth. CentralReach now has roughly 75% of their bookings attributed to AI-enabled products, which have automated 100 million reimbursement rule evaluations, over 3.5 million learner appointments and over 1 million clinical summaries being generated, great real-world examples of the power of AI. Deltek has released over 40 AI features into their cloud offerings, driving increased cloud conversion activity. And DAT has industry-leading AI/ML-enabled freight matching capabilities, which I'll detail shortly. These are but a few examples from across the portfolio. Very exciting times for sure. With that, let's now turn to our segment review, starting with Page 10 and our Application Software segment. Revenue for the quarter grew by 18% in total and organic revenue grew by 6%. EBITDA margins were 43.4% and core margins improved 40 basis points in the quarter. Starting with Deltek. Deltek delivered solid performance in the quarter with particularly strong results in their private sector end markets. Construction, architecture and engineering remained robust throughout. The GovCon business experienced softness in September as agencies paused activity ahead of the pending government shutdown. This timing is unfortunate. Pipeline activity and commercial momentum had been building nicely following the passage of the one big beautiful bill in July, and we are seeing increased engagement across our customer base heading into the new fiscal year. The fundamentals remain strong. The OB3 authorized significant increases in defense and infrastructure spending that will flow through to our customers once appropriations are finalized. This is simply the timing issue, not a demand issue. Finally, retention levels across the entire Deltek franchise remain very high. Aderant continues to be incredibly strong and continues to post impressive bookings and recurring revenue growth. The booking strength is broad-based, fueled by their AI-enabled solutions, especially as it relates to AI-enabled compliant time capture and billing and is a combination of market share gains, cloud migration and SaaS growth. Vertafore continues once again to be steady and solid for us. We continue to see consistent ARR growth and strong customer retention and strength across their agency, MGA and carrier solutions. This growth is enabled by their strong go-to-market capabilities and their long-term commitment to product strength. PowerPlan's performance has been terrific. Their success is a result of several years of business building in the product stack, the go-to-market capabilities, their service delivery really across all functions. In addition, to remind everyone, they serve power generation customers, which are adding capacity as quickly as possible to handle the AI workloads. The setup here should be quite good for a long time. Also in the quarter, we completed the acquisition of Orchard, a tuck-in acquisition for our Clinisys business. Orchard brings additional clinical laboratory capability to Clinisys with particular strength in reference, physician office and public health labs. Finally, the balance of our application software portfolio continues to execute very well. CentralReach was awesome again in the quarter, driving accelerating adoption of their AI tools and capturing ABA therapy capacity additions. Procare made a great installment of progress with new bookings continuing to be strong, posting low double-digit growth in payments with improved gross margins, though still work to do, in particular, with faster implementation time frames and share of wallet expansion, but meaningful progress for sure. Finally, Strata and Transact were steady and solid in the quarter. As we look to the final quarter of the year, we expect to deliver mid-single-digit organic revenue growth. This outlook reflects high single-digit growth in our recurring revenue base, offset by declines in nonrecurring revenue, primarily due to anticipated softness in our Deltek business stemming from the ongoing government shutdown. Given the uncertainty surrounding the duration and impact of the shutdown, we see potential outcomes across the full range of our MSD outlook from the lower to the higher end. That said, our businesses in this segment continue to compete and execute exceptionally well. The primary variable remains a higher level of market uncertainty than we typically experience for our Deltek business. Please turn with us to Page 11. Total revenue in our Network segment grew 13% and organic revenue 6% in the quarter. EBITDA margins remained strong at 53.7% with core margins improving 60 basis points. As we dig into the individual businesses, we'll start with DAT. DAT was solid in the quarter and had strong ARPU improvements. DAT continues to execute exceptionally well on their core strategy of driving enhanced network value for both brokers and carriers. This dual-sided approach positions DAT to better monetize their entire network ecosystem and more on this when we turn to the next page. ConstructConnect was solid again for us in the quarter. The growth was fueled by strong customer bookings activity and improved customer net retention. Of note, this business continues to make good progress with our emerging AI-enabled takeoff and estimating solution. Foundry is turning the corner on growth, posting continued sequential improvements in ARR, and we expect our Q4 exit ARR to grow year-over-year in the HSD area. Really happy for the team there as they've had to work through some tough market conditions. Next, our network health care businesses, MHA, SHP and SoftWriters were very good in the quarter. Of particular note, SoftWriters is executing at an exceptional level, winning a few very large pharmacy customers and making substantial progress on a high-impact AI solution, which is being beta tested in the market currently. Congrats to Scott and his entire team for their success. Finally, Subsplash, our most recent acquisition that closed on July 25, is off to a great start, delivering financial results in line with our deal model expectations. Of note, they saw very good market traction with their AI-driven [ sermon ] content offering, Pulpit AI, and they deepened its integration with their core engagement platform, driving strong product-led growth, exciting stuff. As we turn to the outlook for the final quarter of the year, we expect to see organic revenue growth at the higher end of the mid-singles area. As we turn to Page 12, we'd like to spend a few minutes describing the strategic evolution of our DAT business and why we're so excited about its future growth prospects. To start, our legacy DAT platform is the largest freight matching network across the U.S. and Canada. The scale is remarkable, over 1.2 million loads posted and 15 million rate views every single day. DAT is the clear market leader, delivering tremendous value to both freight brokers and carriers, both of whom pay to participate in this powerful network. As strong as the legacy business is, we're even more bullish about where DAT is headed. To bring this vision to life, DAT is building capabilities across the entire freight automation workflow from carrier vetting to broker carrier matching to AI-driven rate negotiation, load management tracking and finally, payment and settlement. Through deep customer partnering with the brokerage community, DAT is working to fully automate the freight matching process. As this happens, DAT will generate $100 to $200 per load in savings for brokers while giving carriers greater predictability and faster payments on their invoices. What sets DAT apart is this end-to-end product capability and its role as a neutral trusted partner, a Switzerland-like player that equally serves the entire freight brokerage market. This is a truly unique position in the market. This evolution also highlights the Roper DAT partnership at its best. We work closely with the DA team to craft this strategy, then we executed a focused M&A program to strengthen it through 3 strategic tuck-ins: Trucker Tools, Outdo and Convoy. With the deals complete, DAT is now fully focused on delivering against this strategic opportunity. Important to note, Convoy is an unusual transaction for us as it currently is not profitable, but we expect the financial returns over the next several years to be extremely attractive. The key to success is scaling efficiently, leveraging DAT's advantaged customer unit economics for both brokers and carriers to drive sustained growth and profitability. We are confident in this strategy, market position and DAT's ability to execute. I know this was a bit of a deep dive, but we wanted to share with you why we're so excited about the growth opportunity that sits in front of DAT, true AI-based freight automation. Now let's turn to Page 13 and review our TEP segment's quarterly results. Total revenue here grew 7% and organic revenue grew 6%. EBITDA margins came in at 35.2%. Let's start with Neptune. As we've said before, Neptune continues to execute really well, particularly around its ultrasonic meter strategy, and we're seeing strong traction in its data and software billing solutions. The new copper tariff that took effect on August 1 caused some short-term disruption. Neptune responded by implementing surcharges to offset the tariffs impact, which temporarily slowed order timing. These actions reflect the benefit of being part of Roper, doing the right long-term thing for customers and the business even when it creates near-term headwinds. Verathon continues to perform well. In particular, during the quarter, Verathon saw continued strength in its single-use recurring product lines, both BFlex and GlideScope, which remain key growth drivers. NDI also delivered an excellent quarter. As we discussed previously, NDI provides proprietary world-class precision measurement technologies to a range of health care OEMs. These technologies in turn enable guidance-enabled solutions across multiple clinical markets, including orthopedic surgery, interventional radiology and cardiac ablation. Finally, we saw strong execution and growth across CIVCO, FMI, Inovonics, IPA and rf IDEAS, rounding out a solid overall performance for this group of companies. Looking ahead to the fourth quarter, we expect organic growth in the low single-digit area given the very difficult prior year comp and the timing we discussed at Neptune. Now let's turn to Page 15 and review our Q4 and updated full year 2025 guidance. Starting with the full year outlook, we continue to expect total revenue to remain in the 13% area. Also, given the delays at Neptune and the temporary impact of the government shutdown, which is slowing year-end commercial activity at Deltek, we now expect organic revenue to land in the 6% area versus our previous 6% to 7% range. Relative to our full year DEPS outlook, we're tightening guidance to the high end of our prior range after adjusting for $0.10 of dilution from the $500 million of tuck-in acquisitions completed during the quarter. Specifically, we now expect adjusted DEPS to be in the range of $19.90 and $19.95. We expect to see our tax rate at the lower end of our 21% to 22% area for the full year. For the fourth quarter, we're establishing adjusted DEPS guidance to be between $5.11 and $5.16, which includes $0.05 of dilution for last quarter's tuck-in deals. Now please turn with us to Page 16, and we'll open it up to your questions. We'll conclude with the same key takeaways with which we started. First, we had a very good third quarter with exceptional free cash flow. Second, we're super excited about the pace of AI innovation and the growth potential in front of our enterprise. Third, we're announcing a $3 billion authorization for a share repurchase. And finally, we remain super well positioned for further M&A activity. Relative to our financial results, we grew total revenue 14% and organic revenue 6%, grew EBITDA 13% and delivered 17% free cash flow growth in the quarter. AI is a significant growth driver for Roper, expanding our TAMs by automating tasks and work across our vertical market offerings. With deep workflow integration, proprietary data and vertical market-specific architectures, our businesses are well positioned to succeed in AI, in fact, have a very high right to win and are already seeing measurable yet early product and commercial results. DAT exemplifies this strategy in action, evolving from a traditional freight matching network to a fully automated freight marketplace powered by AI. Through this transformation, DAT is unlocking significant efficiency and economic value for brokers and carriers alike, positioning itself for improved high-quality growth. As Jason mentioned earlier, we're excited to announce a $3 billion share repurchase authorization, which will deploy opportunistically, enabling us to take advantage of dislocations in the market. We're super confident with our talent advantage, our strategy and our execution capabilities, and this first-ever buyback is evidence of such. Importantly, we remain exceptionally well positioned to execute our M&A strategy. We have north of $5 billion of available firepower over the next 12 months and a very active, large and attractive pipeline of opportunities. Importantly, Roper continues to strengthen its position as an acquirer of choice for both target CEOs and their private equity owners. As always, we'll pursue these opportunities with our consistent, unbiased, patient and disciplined approach. Prior to turning to your questions and if you flip to the final slide, our strategic compounding flywheel, we'd like to remind everyone that what we do as Roper is simple. We compound cash flow over a long arc of time by executing a low-risk strategy and running our dual threat offense. First, we have a proven powerful business model that begins with operating a portfolio of market-leading application-specific and vertically oriented businesses. Once the company is part of Roper, we operate a decentralized environment so our businesses can compete and win based on customer intimacy. We coach our businesses on how to structurally improve their long-term and sustainable organic growth rates and underlying business quality. Second, we run a centralized process-driven capital deployment strategy that focuses in a deliberate and disciplined manner on cultivating, curating and acquiring the next great vertical market-leading business or tuck-in acquisition to add to our cash flow compounding flywheel. Taken together, we compound our cash flow over a long arc of time in the mid-teens area, meaning we double our cash flow every 5 years or so. So with that, we'd like to thank you for your continued interest and support and open the call to your questions."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "[Operator Instructions] Your first question comes from the line of George Kurosawa with Citi."
+  },
+  {
+    "speaker": "George Michael Kurosawa",
+    "role": "",
+    "text": "Great to be on the call here. Wanted to first touch on kind of the high-level organic growth picture. I think you can -- took a step back this quarter, but I think you can certainly argue there are some onetime or short-term dynamics at play here. Maybe just if you could frame your confidence in a reacceleration from here, particularly as we start to sharpen our pencils for '26."
+  },
+  {
+    "speaker": "Neil Hunn",
+    "role": "",
+    "text": "Yes. Appreciate it. Thanks for being on the call this morning. So the -- yes, I think you're right. I mean the reason that was a little rough this quarter were the 2 reasons we talked about, the commercial activity at Deltek with the government shutdown and then this tariff-related impact at Neptune. As we think about '26, I mean, it's a little early for us to get super detailed about '26. But if you sort of roll sort of segment by segment, it's been pretty -- in application, it's been pretty consistent trends there throughout '25. Deltek and government contracting should improve next year given the passage of OB3. I think the timing of when that improves is still up in the air a little bit. We'll see that as we get through our planning and roll into next year. But there's definitely sort of improvement happening in that market given the spending attached to OB3. In the Networks segment, it's been pretty consistent over the last 3 quarters. There is sort of a comp thing in the first quarter. So pretty consistent over the last 3 quarters despite the sort of the headwinds in the freight market. We'll have to see how the freight market evolves next year, but really like the business building we're doing at DAT, as I talked about. As I also mentioned, foundry is going to be better next year. And then on TEP, the Neptune order patterns likely continue normalizing the pre-COVID sort of lead time levels. Orders there have been pretty good. It's just the lead -- and the lead times are going to continue to shorten. NDI is poised for a couple of strong years, but we really need to get through our planning process to have more clarity on how TEP is going to play out next year. But all in all, we feel pretty good about the trends in GovCon, Foundry, CentralReach and Subsplash turning organic in the second half of next year and the general business building. But as usual, we go through a pretty exhaustive Q4 planning process, which we kick off in a couple of weeks."
+  },
+  {
+    "speaker": "George Michael Kurosawa",
+    "role": "",
+    "text": "Okay. That's super helpful color. And then maybe just one quick follow-up here on the AI strategy. I think you disclosed 25 products last quarter. I'm curious if you have an updated number just to give us a sense for the pace of innovation and just more generally, how you feel businesses are coming up the AI curve here."
+  },
+  {
+    "speaker": "Neil Hunn",
+    "role": "",
+    "text": "Yes. We feel very, very good. I won't rehash all the prepared comments about why we feel that way. But we're going from having a large number of products and key features. We talked about the 40 AI features in the Deltek core that's driving sort of the cloud migrations and SaaS. But increasingly, we're seeing sort of AI SKUs. So we feel real good about that. Now we've got to get through the commercial activities as we release these SKUs across essentially every one of our software businesses now and in the first half of next year that we got to go sell them and commercialize them and then the momentum will sort of pick up from there. But feel very good, very high right to win, a lot of compounding of knowledge about how to do all this stuff internally. This is -- you can hire some talent, you got to build it. So we feel real good about that. A lot of internal sharing that's going on, which is great to see, a lot of momentum. So we can certainly talk more about that, but feel great about where we are on the AI front."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "And the next question comes from the line of Brent Thill with Jefferies."
+  },
+  {
+    "speaker": "Brent Thill",
+    "role": "",
+    "text": "Just on the buyback, I guess, maybe walk through the strategy, why not leaning harder into M&A versus -- I believe this is your first buyback ever. What drove that decision?"
+  },
+  {
+    "speaker": "Neil Hunn",
+    "role": "",
+    "text": "Yes, I appreciate it. The -- so just to be clear on what it is. So it's $3 billion. It's open-ended timing. It's opportunistic and in no way, shape or form, a change in our strategy. Set this in the context of the amount of capital we have to deploy over the next 3 years is somewhere in the $15 billion to $20 billion range. So it's not a change in any way, shape or form. The rationale for it is pretty straightforward. We just have a ton of conviction in what we're doing. And in terms of the talent we have on the team and that lead our companies, the strategies, the AI execution, the general continuous improvement execution, the business building we're doing. And we think this buyback is just clear evidence and support for our conviction there. But we're going to maintain a strong bias towards M&A. The compounding nature of the numerator is better than the denominator. It's just straight math. We're super active on the M&A front. We cultivate every day. In fact, our Janet Glazer leads our capital deployment efforts had a fantastic meeting 3 or 4 weeks ago, I think, with 18 CEOs of companies that are in the pipeline, so a marketing event, and it was met with great reviews, and we're really becoming sort of a buyer of choice, both for the CEOs of companies and also the private equity sellers. So we feel real good about the execution of our M&A strategy, and this buyback is just a small complement to the overall strategy of Roper."
+  },
+  {
+    "speaker": "Brent Thill",
+    "role": "",
+    "text": "Okay. Neil, I know the last couple of years, we've had a couple of things that maybe haven't gone the way you wanted to. The question is just how do you derisk this out of the guide? And I think investors have looked at the portfolio and said that you get the diversification aspect, but why do we keep having kind of the setbacks if we're that diverse. So that's the question I'm getting."
+  },
+  {
+    "speaker": "Neil Hunn",
+    "role": "",
+    "text": "Yes. So you're right. I mean we've built this portfolio to essentially take as much cyclicality and cycle risk as you can take out of an enterprise. If you look back over our long history, before we sold and divested all the industrial businesses, we'd cycle up or down 5 to 10 points. Now we're cycling like a point here or there. So we've essentially beaten out ostensively all the cycle risk you can in an enterprise. In this case, it's just -- it's frustratingly bespoke situations. Government contracting, normally, you're in GovTech because of the stability of the end market here. It's been anything but that the last couple of years. Transportation, who would have predicted like a 3-year freight recession. And so it is frustrating these things are stacking on top of each other, but they're bespoke, and we like the construct of the portfolio for sure."
+  },
+  {
+    "speaker": "Jason Conley",
+    "role": "",
+    "text": "I think the cash flow generation continues to be strong and consistent with what we thought. Obviously, we've had some new deals come in that have been dilutive, but we have been able to sort of push through that. Our guidance is -- adjusted for dilution is pretty close to where we were before. So despite some of the softness we've seen, we've been able to sort of maintain the bottom."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "The next question comes from Brad Reback with Stifel."
+  },
+  {
+    "speaker": "Brad Reback",
+    "role": "",
+    "text": "Software bookings decelerated a little bit sequentially, I think from the mid-teens to the high singles. Was that predominantly Deltek? Or were there other drivers there?"
+  },
+  {
+    "speaker": "Jason Conley",
+    "role": "",
+    "text": "Yes. It was mainly Deltek, a little bit of frontline. We've talked about the -- some of the funding from the DOE. We don't get a ton of funding down to the states, but at the margin, it does slow down a little bit in K-12. But yes, it's Deltek Frontline. Outside of that, it's very strong. So if you look on a TTM, also a very lumpy dynamic, right? Software bookings are -- can be lumpy quarter-to-quarter. TTM is up low single digits -- sorry, low double digits. So I feel good about that trend. And I would also just call out that health care has been particularly strong this quarter. Our Strata business, we combined Strata and Syntellis a couple of years ago, and that's really starting to take hold in the market. So bookings are really strong there. And actually, our Clinisys business is doing quite well, too, in Europe and even in the U.S. with some of the bolt-ons we've done for them to get outside of the hospital, that's starting to gain traction as well. So just some color behind the bookings this quarter."
+  },
+  {
+    "speaker": "Brad Reback",
+    "role": "",
+    "text": "Great. And then, Neil, I think 2 questions ago, you talked about the rollout of the AI SKUs happening now through the first half of '26 and then needing to sell it. That all seems like we should be thinking about this more of a '27 and beyond organic driver as opposed to '26?"
+  },
+  {
+    "speaker": "Neil Hunn",
+    "role": "",
+    "text": "I think that's a fair -- we're certainly viewing it that way. I think it's a fair assumption. We'll certainly see progress in bookings throughout next year because again, this is across 20-plus software companies and multiple products across 20 software companies. And so we'll see building momentum. But before it has a meaningful impact, I think it's '27 because of the commercial activity that has to go along with the innovation."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "The next question comes from Ken Wong with Oppenheimer. Hoi-Fung Wong: Fantastic. I wanted to maybe drill in a little bit on just the organic growth. Any way for you guys to help kind of slice what you might have seen from maybe the same-store sales versus maybe the net new organic that's coming on to the P&L. Hopefully, that question makes sense."
+  },
+  {
+    "speaker": "Neil Hunn",
+    "role": "",
+    "text": "We want to make sure we're framing -- answering the right question. Essentially, what's the cross-sell versus sort of net new mix? Is that your question? Hoi-Fung Wong: No. I guess what was coming from, let's say, the portfolio, let's say, prior to, let's say, like a Procare, Transact versus the stuff that is now kind of flowing in as incremental organic. What was once inorganic coming in as organic? Does that make a little more sense?"
+  },
+  {
+    "speaker": "Jason Conley",
+    "role": "",
+    "text": "Yes, like what's the impact of Procare coming into organic. A little bit of accretion from Procare, not as we talked about, not as much as we had thought when we did the deal, but it's certainly accretive to the segment. Hoi-Fung Wong: Okay. Got it. And then on the TEP business, I think going into the quarter, I think the expectations were high single digit in the back half. I guess, yet only 6% in the quarter, low single in Q4. Was that isolated to any particular piece? Or was it a little more broad-based? Is it just Neptune? Or should we think about any other pieces that contributed to that slight weakness?"
+  },
+  {
+    "speaker": "Jason Conley",
+    "role": "",
+    "text": "Yes. It was Neptune predominantly. I mean you had -- it was an acute impact in Q3. We always had a little bit of a tougher setup in Q4, but even aside from that, it was definitely down in both quarters -- it's Neptune, sorry Neptune."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "The next question comes from Joshua Tilton with Wolfe Research."
+  },
+  {
+    "speaker": "Joshua Tilton",
+    "role": "",
+    "text": "Hey guys, can you hear me?"
+  },
+  {
+    "speaker": "Joshua Tilton",
+    "role": "",
+    "text": "I've been bounced around a few earnings this morning, so I apologize if it's already been asked. But I guess the #1 question for me is just, is there anything you can give us on the guidance front, specifically for organic revenue growth that could increase our confidence that like you derisked it enough. Maybe you could just like walk us through a little bit further on where the derisking is coming from Deltek versus Neptune and kind of what gives you the confidence that this is a good base to start for the rest of the year?"
+  },
+  {
+    "speaker": "Jason Conley",
+    "role": "",
+    "text": "Yes. I mean I think we've given the outline by segment. And so I think Neil had framed at AS, we've got it at mid-single-digit growth. There could be a range there, and it really depends on Deltek's perpetual license activity and a little bit to a lesser extent, there's a couple of projects at our Transact business that might hit this quarter or next quarter. So that's sort of the range there. And so I think we've given you that. Network is going to be sort of mid-single-digit plus. I think we've -- a lot of that's recurring revenue. And the only thing that can move around is Truckers, right? They can come in and out of the DAT on a monthly basis. So we think we've sort of -- we've got that sort of boxed. And then on low single digits for TEP, I think we've identified where the challenges are for Neptune's tariff activity. NDI works on mostly backlog for the quarter. The others are a little bit less backlog. But just based on the trends and the call downs we had with the business, we feel like that's an appropriate number for the quarter."
+  },
+  {
+    "speaker": "Joshua Tilton",
+    "role": "",
+    "text": "Really appreciate the color. And just maybe for a quick follow-up. I really appreciate all the color you guys gave on the AI positioning that you guys have and some of the examples. I guess what I'm trying to understand is it feels like every company that we talk to is trying to race to be a winner in this AI world at a pace that we've kind of never seen before. Is there a dynamic? Or do you feel that maybe you guys have this unique AI think tank going on inside of Roper because you have a group or a portfolio of companies that are all marching towards the same AI goal? And then if that's the case, maybe could you share with us how they're sharing knowledge and best practices and what they're seeing across some of the use cases that are already being successful to kind of set up the rest of the portfolio to be just as successful in their AI endeavor?"
+  },
+  {
+    "speaker": "Neil Hunn",
+    "role": "",
+    "text": "Yes, I appreciate that. So I don't know if I would go as far as say like there's some think tank sitting in Sarasota that's like crafting all this. What it is, is we have clarity of purpose, right? So when you're vertical market, system of record, you're going to evolve like system of work, it's everybody -- the portfolio construct is so similar that we're running basically the same play across the 20-plus software companies. There's common purpose and common understanding about that. Then there is a lot of information sharing. Every 3 weeks, there's an AI sort of showcase inside of Roper. We have a few hundred people in sort of talking about 1 company or 2 companies to highlight what they're doing internally or externally, architecture, commercial, whatever it may be. We send a weekly e-mail about sort of where the state of the technology is, the state of the evolution of AI to galvanize the leaders. There's telemetry we're putting into our planning process that we're looking for, for both the product road maps and internal productivity. The group executives who, as you know, coach 6 or 7 businesses each, those businesses are together all the time on all things related to business, AI being a big topic of it. And I could see us in the not-too-distant future, sort of adding some resources at the corporate office at the center that are an overlay to all of that, that are really sort of scanning the horizon for the -- enabling technologies are going and how to apply that technology. Because at the end of the day, this stuff is hard. I mean it's what we're trying to do to identify tasks and work where you have to be deterministic and not probabilistic. It's hard to do. It's good that it's hard because when you do something that's hard, you create this magical moment for your customer, and that's where you can sort of have this win-win relationship on value. And so we're super excited about all that, again, have this high right to win because of all the context and data and decades of sort of accumulated knowledge about how these verticals work. And the final thing I would say is the real unlock for really anything inside of Roper is our org structure, right? where this highly decentralized high-trust autonomous structure, taking an $8 billion P&L gets put into 29 units. You have super talented leadership teams that are highly motivated intrinsically and through our financial reward system to compete and win in the marketplace, and this is the new frontier on how to do that."
+  },
+  {
+    "speaker": "Joshua Tilton",
+    "role": "",
+    "text": "Sounds like a good setup for AI success."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "The next question comes from Terry Tillman with Truist Securities."
+  },
+  {
+    "speaker": "Terrell Tillman",
+    "role": "",
+    "text": "Two questions. The first question is on software bookings and specifically with Deltek. The second one is going to be DAT. So first, in terms of software bookings, I think you said high singles in 3Q. So what are you assuming in 4Q? And the second part of that first question is, and maybe this is wildly optimistic, but assuming at some point, the government shutdown thesis, could you actually get those licenses in still in November or December? Or are you just assuming that doesn't happen? And then I'll have that DAT follow-up."
+  },
+  {
+    "speaker": "Jason Conley",
+    "role": "",
+    "text": "So -- yes, so thanks for the question, Terry. So I think for the fourth quarter, we'll see how it plays out. We had a very strong Q4 last year. So the comps are a little tougher, but I think it's the end of the year. And obviously, the pipelines look very strong across our businesses. You're right about Deltek. We're not assuming that's going to hit this year, but we've also seen customers make very quick decisions in the last few days, especially if it's sort of -- they've got an internal budget dynamic that they can utilize. So we're not assuming that at this point, but I will say just for '26, we do feel really good about what [indiscernible] is going to mean for Deltek. Additionally, I mean, just Deltek's had -- the markets haven't been cooperative just in general for the last couple of years. So the demand is definitely there. Deltek has done a lot to their cloud product. They're incorporating a lot of the new AI features that are going to be cloud only. So that should help drive some higher conversion. That's one of our -- I think it's our biggest maintenance base at Roper. So excited about the future, just need to get past this quarter of sort of uncertainty."
+  },
+  {
+    "speaker": "Terrell Tillman",
+    "role": "",
+    "text": "Got it. And then, Neil, on Slide 12, I like that slide, shows kind of where you've delivered on the platform. I know with DAT, pricing and packaging was an important kind of growth unlock and improvement this year. But now you have this idea of one-click automation and then newer areas that seem like they've expanded the TAM around management and payments. Like is there any way you can frame like how much you can garner now per successful load or transaction going forward with some of this newer technology versus the past or the present as you laid out on that page?"
+  },
+  {
+    "speaker": "Neil Hunn",
+    "role": "",
+    "text": "Yes. I appreciate it. So yes, you're right. So the strategy at DAT, and I've called this out for a few quarters, if not longer, is we have this remarkable business that's a network between brokers and carriers, and we monetize both sides of the network on a subscription basis. And we have -- what we have is the market captured, and we have very favorable go-to-market unit economics, especially on the carrier side because the carrier, you get your authority first, then you probably subscribe to DAT second, so you can understand where you're going to grab your load from. So they -- it's a very efficient go-to-market motion on capture there, very unique go-to-market motion relative to the unit economics. So then the strategy is how do you just scaffold more value on both sides of that network. And then the ultimate value creation is the one you're talking about, which is how you sort of take the labor -- the task labor out of the matching of a broker transaction. As we mentioned today, we broker about -- there's about 1.2 million loads a day on DAT. There's about $100 to $200 in task labor savings for each one of those that's automated. So you can apply whatever percentage you think is fair. I'm going to leave that open at the moment. We have a good indication internally, but some small percentage of the total loads and then some small percentage, a fair percentage of the labor task savings, and you'll get a very large sort of opportunity. Now that's the opportunity. Now we have to go equip it. You've got to make -- we've got to integrate this capability into the TMS of every broker, so it's native. You got to onboard a large portion of the carrier base into this, which we're actively doing. So we're super excited. The early results were like sold out on the broker front. So the early results for integration is great. But there's a business we've got to go build here. And the reason that we're unique in this is that we're truly Switzerland. Like we don't -- we're not competing with the brokers. We're enabling the brokers, and it's a huge value savings for both the brokers and the carriers."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "The next question comes from Deane Dray with RBC Capital Markets."
+  },
+  {
+    "speaker": "Deane Dray",
+    "role": "",
+    "text": "Just want to get a clarification on the timing delays at Neptune. Our experience has been, especially recently going through COVID is once a utility is ready to place an order, they're unlikely to switch. It's already gone through the rate case. It's all a pilot study and so forth. So have they lost any of these orders? Or this is strictly delay at this point?"
+  },
+  {
+    "speaker": "Neil Hunn",
+    "role": "",
+    "text": "No, no, just to be super clear. This is pushed to the right. So what we've done, and I alluded to this in the prepared remarks, is we have this tariff coming through. We at Neptune decided we concurred fully that they're going to assess a surcharge, which then you've got to go essentially recontract or renegotiate with all the open orders about how to do that, and it just puts some gum into the system. It's a little bit easier when you're going through distribution to do that because you have a distribution partner, you can sort of share some of this surcharge with, but when you're doing the direct business, that's a little bit more difficult to do it and a little bit slower. So this is 100% pushed to the right. In fact, Neptune reports, I mean, there was a little market share gain in the quarter for Neptune, but these sort of market share quarter-to-quarter are sort of a point here, a point there, 0.5 point here, 0.5 point there, but the latest report is the share has actually improved a little bit with Neptune in the quarter."
+  },
+  {
+    "speaker": "Deane Dray",
+    "role": "",
+    "text": "That's really helpful. And then a follow-up, and I'll echo the -- how much we appreciate that spotlight on DAT. And just the idea, can you talk about the implications of making the investment in Convoy. You added that it's not profitable, but just the willingness to subsidize and make that investment so you have this end-to-end automation, but just the implications of a bolt-on that's not profitable."
+  },
+  {
+    "speaker": "Neil Hunn",
+    "role": "",
+    "text": "Yes. So I'll just -- I'll start and ask Jason to add a little bit of color. In our case, it was very -- it was a unique situation for us. It was very much a buy versus build. This is very complicated. It sounds very easy. It is very complicated, complex algorithms to do this. They have to be absolutely deterministic. It's more ML than AI. There's a very large group of talented engineers that came with the acquisition. They're now part of the DAT sort of franchise. And so it's unique in that it's money losing at the moment, but it's like the final piece to sort of manifest the strategy of DAT and because of what we talked about earlier, we have such high conviction of what's going to happen here."
+  },
+  {
+    "speaker": "Jason Conley",
+    "role": "",
+    "text": "Yes. I would just add that, I mean, most of our strategies call for tuck-ins that are adjacent and they sort of fold them in. It's like we just did Orchard for Clinisys. That's sort of the bread and butter that we would do for bolt-ons. This is really a technology acquisition that was -- it's really to create a new market. And so I would say that's very rare for us, but we think it's a great opportunity. And so we're willing to make that technology investment."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "The next question comes from Dylan Becker with William Blair."
+  },
+  {
+    "speaker": "Faith Brunner",
+    "role": "",
+    "text": "It's Faith on for Dylan. Maybe expanding on the DAT question. It seems like this end-to-end platform has been in the making for some time. So can you talk about where you see DAT growing as you continue to build out this network and the long-term potential there? And maybe even how this can drive durability despite some of the headwinds we're seeing in freight?"
+  },
+  {
+    "speaker": "Neil Hunn",
+    "role": "",
+    "text": "Yes. So we want to -- so the DAT core business is a low double-digit growth business when you get the benefit of some unit growth versus just packaging and price. So that's the long-term sort of organic growth rate of the core business. When you talk about this sort of this entire sort of tracking automated business, we're talking about adding a capability that doesn't exist in the industry that is multiples of the existing TAM. And so we want to see actual momentum in there before we quote sort of what the acceleration magnitude could be to DAT, but it's exciting for sure. So I know that's a little bit of a -- but not an answer you're not looking for at the moment, but we want to actually see the growth on the field before we call the how much accelerated growth rate that's going to be there."
+  },
+  {
+    "speaker": "Faith Brunner",
+    "role": "",
+    "text": "All right. No, that's helpful. And then maybe just double-clicking on Deltek. Can you maybe remind us what you guys saw during past government shutdowns and the impact to the business and any potential insulation there?"
+  },
+  {
+    "speaker": "Neil Hunn",
+    "role": "",
+    "text": "Yes, happy to do that. So just to remind everybody, Deltek is 60% GovCon, 40% non-GovCon. We're talking about the 60% of Deltek that's in GovCon. What we've seen is when you have the government shutdown, it's the pending -- it's the potential of the shutdown and the actual shutdown that it just pauses commercial activity. The activity is still there. The pipelines continue to build. There's still discussions because everybody knows the shutdown will end, the government will be operational again, and we have this OB3 spending where we have to -- all that will be awarded and has to be delivered. It's just -- in the height of the uncertainty, there's just not a lot of signing of the purchase orders or the contracts. If this were -- hypothetically, if this were happening in March, we would probably not be calling down the year because there'll be time left in the balance of the year to sort of for the commercial activity to sort of resolve itself. It's just we're sitting here in the last 2 or 3 months of the year, we're going to run the clock out on the year and roll into next year."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "The next question comes from Joe Giordano with TD Cowen."
+  },
+  {
+    "speaker": "Joseph Giordano",
+    "role": "",
+    "text": "Just looking at App Software, I mean, if we strip out the Deltek GovCon stuff for a second and just think about like the acceleration of organic here, what's the catalyst for this? I mean you look back, I mean, it's been small variance, but we're kind of like 3 years around 6%, give or take. So like what in your sense is like really the catalyst to bring this into like a high single to -- more of like a high single framework?"
+  },
+  {
+    "speaker": "Neil Hunn",
+    "role": "",
+    "text": "Yes. So it certainly will help when your largest business -- the largest segment of your largest business can sort of grow at its normalized growth rate. I mean we're a couple of years into sort of a slowdown with the uncertainties across all the government sort of spending so that helps quite a bit when you look at that. We've had -- just going through the businesses, Vertafore is steady for us, a lot of AI opportunity in front of that business, probably takes -- I mean, we'll see some early green shoots of that next year, but as we said earlier, probably more '27. Aderant has been just killing it. PowerPlan, doing a great job. CentralReach will turn organic, which will help. Frontline has been a little sluggish for the last couple of quarters, couple of years -- a couple of quarters, largely because of some uncertainty around the funding coming from what's happening in Department of Education. You've got this hangover from all the COVID spending and it's just now that's getting more normalized. So frontline reaccelerating, which is in the offing in the next couple of years will be super helpful to that regard. And then finally, our Clinisys business for the U.S. part of our laboratory business, the legacy Sunquest has just lagged for all the reasons that everybody knows for 8 years, and now that's turning or that's a mid-single-digit organic growth enterprise for us now. So that starts to help. So we like what's happening here in terms of the growth optionality and growth capability."
+  },
+  {
+    "speaker": "Joseph Giordano",
+    "role": "",
+    "text": "When you think about the buyback now and you think about the multiple of your stock, like what's the thought process when you're weighing like, okay, here's a $1 billion opportunity here or $1 billion of deploying capital. Like it used to kind of be pretty straightforward with where the multiple your stock was versus the multiple of what you're acquiring, and now it's kind of -- it slipped a little bit. So maybe talk us through how much that's informing your decisions on where to allocate at a given moment in time."
+  },
+  {
+    "speaker": "Neil Hunn",
+    "role": "",
+    "text": "Yes. For us, it's never been about the multiple of our stock. It's been what's in the compounding math for a cash flow acceleration, what's the best deployment of capital to optimize the long-term cash flow compounding of the enterprise. And now we just have another lever to buyback to put into that consideration set."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "The next question comes from Julian Mitchell with Barclays."
+  },
+  {
+    "speaker": "Julian Mitchell",
+    "role": "",
+    "text": "Just wanted to start off with the outlook for TEP and Neptune, in particular, on the top line. So you had the backlog declining there for sort of 2-plus years. The revenue growth is slowing a little bit. So I just wondered sort of what's the confidence that, that organic growth on revenue doesn't continue slowing into next year, just given those backlog dynamics?"
+  },
+  {
+    "speaker": "Neil Hunn",
+    "role": "",
+    "text": "Well, I think we got to -- so let's be clear about the backlog dynamic. This is about the buildup from the COVID period. I mean pre-COVID, this was -- you might have a couple of quarters of visibility to an order backlog. And it wasn't quite a book and ship business, but much more book and ship than it was when you ran up through COVID. And then all the customers gave us blanket orders that were a year plus out. Now we're -- when I spoke earlier, we're normalizing the order lead times slowly over time. So we -- the backlog grew and it's bleeding down based on this order timing dynamic. Set that apart from the demand environment, the market share environment. So that's point one. Point two, on the more normalizing piece at Neptune on the demand environment is we're just in a cycle now this year, probably next year, where we're just in normalized growth for that business, where the prior 2 or 3 years were accelerated growth because of the hangover from the COVID period."
+  },
+  {
+    "speaker": "Julian Mitchell",
+    "role": "",
+    "text": "That's very helpful. And then just my second one might be around sort of with all this effort around sort of AI, just wondered what the implication for that might be on your, let's say, core R&D. Is that -- could that be a bigger headwind to core margin expansion in future? And whether there's been any view to sort of looking to acquire more AI-intensive businesses within your overall capital deployment framework?"
+  },
+  {
+    "speaker": "Jason Conley",
+    "role": "",
+    "text": "Yes. So actually, this is Jason. I think the -- it's interesting. We're getting quite a bit of activity using some of the frontier models out there, CloudCode, Codex, Cursor. And so we're not really seeing now. Obviously, we're going through our planning this year, but it's creating a lot of opportunity to just do more with less. And so that's the -- that's our posture is that our R&D envelope will probably stay the same, and we'll just get more out of it. And when it comes to acquisitions, look, yes, we'll look for small tuck-ins that we can do. We just did a really small one for Aderant, and that's not necessarily buying AI talent, but it's providing an AI solution that gets us faster to market. So we'll do those occasionally, I think it's not going to be our primary way to get after AI faster, but certainly will be an option."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "And this concludes our question-and-answer session. We will now return back to Zack Moxcey for closing remarks."
+  },
+  {
+    "speaker": "Zack Moxcey",
+    "role": "",
+    "text": "Thank you, everyone, for joining us today. We look forward to speaking with you during our next earnings call."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "And this -- the conference has now concluded. Thank you for attending today's presentation. You may now disconnect."
+  }
+]

@@ -1,0 +1,225 @@
+Operator
+Good day, and thank you for standing by. Welcome to the SiTime second quarter 2024 earnings conference call. At this time, all participants are in a listen-only mode. After the speakers' presentation, there will be a question-and-answer session.
+[Operator instructions] Please be advised that today's conference is being recorded. I would now like to hand the conference over to your first speaker today, Leanne Sievers with Shelton Group investor relations. Please go ahead.
+Leanne Sievers
+--
+Investor Relations
+Thank you. Good afternoon, and welcome to SiTime's second quarter 2024 financial results conference call. Joining us on today's call from SiTime are Rajesh Vashist, chief executive officer; and Beth Howe, chief financial officer. Before we begin, I'd like to point out that during the course of this call, the company may make forward-looking statements regarding your expected future results, including financial position, strategy and plans, future operations, the timing market, and other areas of discussion.
+It's not possible for the company's management to predict all risks nor can the company assess the impact of all factors on its business or the extent to which any factor or combination of factors may cause actual results to differ materially from those contained in any forward-looking statements. In light of these risks, uncertainties, and assumptions, the forward-looking events discussed during this call may not occur, and actual results could differ materially and adversely from those anticipated or implied. Neither the company nor any person assumes responsibility for the accuracy and completeness of forward-looking statements. The company undertakes no obligation to publicly update forward-looking statements for any reason after the date of this call to conform statements to actual results or to changes in the company's expectations.
+For more detailed information on risks associated with the business, we refer you to the risk factors described in the 10-K filed on February 26th, 2024, as well as the company's subsequent filings with the SEC. During the call, we will refer to certain non-GAAP financial measures, which are considered to be an important measure of company performance. These non-GAAP financial measures are provided in addition to and not as a substitute for or superior to measures of financial performance prepared in accordance with U.S. GAAP.
+This GAAP to non-GAAP reconciliation includes stock-based compensation, as well as acquisition-related items related to amortization of intangible assets, one-time acquisition-related charges, and expense or income related to changes in the estimated fair value measurement of acquisition consideration payable and sales-based earnout liabilities. Please refer to the company's press release issued today for a detailed reconciliation between GAAP and non-GAAP financial results. With that, it's now my pleasure to turn the call over to SiTime's CEO. Rajesh, please go ahead.
+Rajesh Vashist
+--
+Chief Executive Officer
+Thank you, Leanne. Good afternoon. I'd like to welcome new, as well as existing investors to SiTime's Q2 2024 earnings call. For those of you that are not as familiar with SiTime, we are the leader in a dynamic new semiconductor category called precision timing.
+In electronics, timing is ubiquitous and ensures reliable functioning. SiTime's precision timing solutions serve the needs of AI, data center, automated driving, IoT, and 5G. We're in the early days of transforming the $10 billion timing market. Q2 results exceeded the high end of our outlook.
+Revenue for the quarter was $43.9 million which was well above our guidance of $40 million to $42 million. Operating profit and EPS were both higher than expected. Each of our reported end markets grew in Q2 at double-digit rates, both sequentially and year over year. The drag of excess inventory over the last few quarters has passed and we see that inventory is now at normal levels.
+Bookings for the second half of 2024 are strong, and we expect both Q3 and Q4 to grow sequentially as forecasted. From a geographic perspective, our 2024 revenue in every major region is expected to be strong. Revenue from each of Greater China, North America, and Europe, is expected to grow by double-digit percentages. What makes SiTime unique apart from our technology is the diversity that we have built-in applications, customers, and products.
+The growth across all of these occurs at different times as we have previously forecasted. For example, while all our end markets are expected to grow throughout the year, the CED or communications enterprise data center market will grow at the fastest rate, more than 50%. This is also a market segment with high ASPs or prices, margins, and significant architectural differentiation. Five years ago, SiTime laid out a CED strategy of investing significantly in R&D and customers, and we will continue to do so in the future.
+We are confident of reaching the $100 million mark in this CED market as previously forecasted. Within CED, we have made progress in our AI business over several quarters and I will spend time today to provide greater color on this. We have design wins with precision timing products in all key applications of the AI ecosystem including GPU and CPU boards, interconnect switches, optical modules, NIC cards, accelerator cards, active cables, and switches. To provide a sense of scale in 2024, we will ship 70 unique part numbers across 14 product families to 30 customers, 30 different customers who are all developing AI hardware.
+To provide greater specificity, we are focused on the revenue and growth from NIC or network interface cards, interconnected switches, and top-of-the-rack switches, where we deliver higher performance, smaller size, and higher reliability. The precision timing content in each of these systems can range from $8 to $25 and includes our highest-end products, such as Super TCXOs, OCXOs, as well as the network synchronizer clock from a recent acquisition of the Aura products. SiTime is a preferred supplier in these applications because of our capability to customize our devices to the application requirements and deliver performance benefits. Also, as the only company to focus solely on precision timing, we offer the broadest portfolio of oscillators, clocks, and synchronization software, simplifying the customers' design and purchase decisions.
+Cloud service providers have been in a race to invest, and we expect that trend to continue at a level that helps fuel SiTime's growth. In fact, we now see a greater trend toward improving system bandwidth and utilization, which will require high performance and therefore, more complex precision timing from SiTime. Obviously, this bodes well for us as we have all the key technologies to service this trend. For example, as optical module and active cable bandwidth increase from 800 gigabits per second to 1.6 terabits all the way to 3.2 terabits in the next few years, we expect a corresponding increase in several performance areas of timing, such as frequency, jitter, phase noise, stability, and environmental resilience.
+We are confident that SiTime has the products today and in our product road map to meet these needs. In data centers, we also see an increasing need for synchronization of which we also offer a complete solution. To summarize, we believe that SiTime strategy of increasing diversity across applications, customers, and products is paying off. By focusing on high-value applications, we're accelerating our customer acquisition.
+Our expanding portfolio is delivering superior benefits in new applications that need precision timing and as the only semiconductor company that's uniquely focused on timing, we're well-positioned to continue our success. I'll now turn the call over to Beth to discuss our financial results in more detail. Beth?
+Beth Howe
+--
+Chief Financial Officer
+Thanks, Rajesh, and good afternoon, everyone. Today, I'll discuss the details of our second quarter results and provide our outlook for the third quarter. I'll focus my discussion on non-GAAP financial results, which are reconciled to GAAP in our press release. In Q2, we delivered strong revenue and earnings growth that exceeded our outlook.
+Q2 revenue was $43.9 million, up 58% year on year and up 33% sequentially with growth in each of our end markets. Sales into the communications, enterprise, and data center market were $15.2 million, up 208% year on year and 55% sequentially. Sales into the automotive, industrial, and aerospace market were $14.8 million, increasing 20% year on year and 15% sequentially and sales into the mobile, IoT and consumer market were $13.8 million, up 33% year on year and 34% sequentially. With sales to our largest customer totaling $7.9 million or 18% of sales.
+Non-GAAP gross margins were 57.7%, down 20 basis points sequentially. The impact of improved manufacturing absorption with higher volumes was more than offset by the higher overhead and other manufacturing costs as we continue to support our growth plans. Total non-GAAP operating expenses for the quarter were $28.1 million, with R&D expense of $16.1 million and SG&A expense of $12 million. Total operating expenses were up $0.7 million sequentially due to higher commissions on increased revenue, as well as strategic hiring.
+The Q2 non-GAAP operating loss was $2.8 million, a significant improvement versus the prior quarter operating loss of $8.3 million. Interest and other income was $5.6 million, and Q2 non-GAAP net income was $2.8 million or $0.12 per share compared with a $1.9 million loss last quarter. Turning to the balance sheet. Accounts receivable was $21 million with DSOs of 43 days, down three days sequentially.
+Inventory at the end of the quarter was $70.8 million, down from $74.4 million last quarter. During the quarter, we consumed $0.2 million in cash from operations invested $2.6 million in capital purchases and paid $69 million to Aura as part of the transaction we announced last year. We ended the quarter with $453 million in cash, cash equivalents, and short-term investments. Let me now review our outlook for the September quarter.
+In Q3, we expect to continue to deliver strong revenue growth and to return to operating profitability. We also expect increased costs in both cost of goods and operating expenses as a result of higher costs associated with ramping our new products. Specifically, we expect revenue to increase 25% to 27% sequentially to about $55 million at the midpoint, gross margins to be stable to slightly improving, trending toward 58%, Operating expenses to be in the range of $30.5 million to $31 million and interest income of at least $5 million. As a result, we expect non-GAAP EPS to be in the range of $0.23 to $0.27 per share.
+In closing, we are executing on our strategy. Our product portfolio continues to expand with differentiated products that address large and growing markets, and our customers are clearly recognizing our value proposition. All in all, we are excited about our market position and our growth prospects ahead. With that, I'd like to hand the call back to the operator for questions and answers.
+Operator?
+Questions & Answers:
+Operator
+Thank you. At this time, we will conduct a question-and-answer session. [Operator instructions] Again, please stand by while we compile the Q&A roster. Our first question comes from the line of Tom O'Malley of Barclays.
+Your line is now open.
+Tom O'Malley
+--
+Analyst
+Hey, guys, thanks for taking my question. I just wanted to talk about the recovery into the second half. So, you talked on the last call about kind of expanding the opportunities that you were kind of chasing as revenue reaccelerated. Could you just talk about what you're seeing off the bottom here? Is it really just a return to accelerated demand in some end markets now that the inventory correction is kind of behind you or are you kind of seeing that traction and the additional kind of opportunities that you're chasing? I guess that's part one.
+And then part two is if you look at that guidance in the September quarter, you obviously kind of talked about EV being the growth engine for the remainder of the year. But could you just give us a little color on those end markets and what you would expect from each kind of trending into the September quarter?
+Rajesh Vashist
+--
+Chief Executive Officer
+Right. So, it's a bit of both, Tom. On the first question. In other words, inventory is down, as we said, it would be a couple of quarters ago and that happened.
+And demand is up. Now demand isn't up in a monolithic way. There are some places where demand is up a little bit less and others where demand is up a lot. So, the demand is up a lot is in the area, specifically of AI, specifically in the optical markets and the interconnects and some of the NIC card business.
+In general, all AI is up, and we continue to see it grow up. I know there's a lot of headlines around that, but we specifically believe that this growth continues over time as we progress. Now the nice part about SiTime, of course, is that everything else is also growing. Our automotive business along with the mil, aerospace, industrial, all of that whole category grows, as does our consumer, IoT, and mobile category.
+So, all of them are growing but some are growing faster than others, just as I said. As far as what is exactly happening, we certainly see that the drive toward higher-performance solutions in optical and active cables is very critical, very important, and we see a lot of active behavior in that, including interconnects and so on. So, just the general part of data center is all growing, and we anticipate that that whole category of communications, enterprise, and data center continues to grow as communications start to catch up along with enterprise in the coming quarters. In other words, we also expect that to grow in the coming quarters as some of the newer products from SiTime get adopted in those markets.
+Tom O'Malley
+--
+Analyst
+Yes. So, you're referencing the newer products. And I think in your prepared remarks, you talked about both the COGS and some of the spend being a little higher as it relates to those newer products. If you look at gross margin for the remainder of the year, you're kind of guiding to flattish into the September quarter kind of trending more toward 58%.
+How should we be thinking about the gross margin longer term, I'd assume that new product integration and launch kind of a one- to two-quarter event, and then you start to see growth after that. But could you help kind of give the cadence you've been helpful in the past kind of getting back to that 60% mark? Are we still thinking about the same time frame kind of early next year? Or are the new products kind of changed that outlook a bit?
+Beth Howe
+--
+Chief Financial Officer
+Sure, Tom. I'll take that one. Thanks for the question. So, we still expect gross margins to be above 60% over the longer term.
+So, no change there. And as you'd expect, we are seeing the benefit of the manufacturing absorption with the revenue growth. But as I said, over the next couple of quarters, we do expect that the gross margins will be, while maybe improving a little bit, not growing at that faster clip as we're supporting these growth plans and ramping these new products into mass production. So, it will take a couple of quarters.
+As you know, yields improve. And as we go through that, we expect improvement over time, but it will take a couple of quarters as we're ramping up these different products. You may recall as well that previously, we might have launched one product or one platform in a given year. In the last couple of years, when you think about we were able to invest and reinvest a lot of the profits from the last couple of years into R&D, and those product platforms are now coming into mass production.
+And so, we have several new products that are ramping here in the next couple of quarters. But over the long term, we do expect to still be able to get the margins back about 60%.
+Tom O'Malley
+--
+Analyst
+And then, Beth, just circling back on the first question, just the trajectory of those businesses into the September quarter. Any color on what's generating the uptick, the kind of growth among all of the different segments? Or any particular color there?
+Beth Howe
+--
+Chief Financial Officer
+So as we look at -- we expect all three segments to grow year on year. We would expect that the data center fueled by AI would be the fastest-growing next quarter as it was this quarter.
+Tom O'Malley
+--
+Analyst
+Thank you.
+Operator
+Please stand by for your next question. Our next question comes from the line of Chris Caso of Wolfe Research. Your line is now open.
+Chris Caso
+--
+Analyst
+Thank you. Good evening. I guess the first question would be prior call, you talked about 30% growth for the year, potentially being on the table given the guidance for September that certainly looks more achievable now. Could you give some -- so with that, some comments on what you might expect in December understanding that you probably don't want to provide guidance at this point? But any sort of color on that? Is there any seasonality in play? Or is there any lumpiness to perhaps some of these AI-driven drivers in the CED segment as you go into the December quarter?
+Rajesh Vashist
+--
+Chief Executive Officer
+Yeah. We still believe in that 30%. So, we do expect that growth for SiTime. The thing is that I don't see that there's a particular lumpiness to it other than SiTime's ability to deliver the product which we think is solid.
+And so, we don't expect any lumpiness per se in the December quarter or through the year because there's just a big pent-up demand for these end products in data centers. And I see that whether they are U.S.-based or whether they're China-based, as you know, many of the China-based people also deliver for the big data center companies I think we see a very solid performance in those markets.
+Chris Caso
+--
+Analyst
+Got it. Helpful. Thank you. I guess as a follow-on question, if perhaps you could provide some color on the impact of some of the new products on what's going on right now.
+And just using CED as an example, we obviously gone through an inventory correction. And we're kind of getting back to run rates that we're seeing kind of late '21, '22 before some of the shortages emerged. And I guess as we compare now to then, how much do some of these new products come into play in terms of driving the growth that was independent of some of the supply disruptions and inventory correction?
+Rajesh Vashist
+--
+Chief Executive Officer
+Yeah. They are significant. In fact, these new products are very much part of it, all across the board, whether it is the oscillators that are used in the optical products from customers. Those did not exist in '21 in volume and they exist now.
+So, we are good with that. There are the higher-end TCXOs, super TCXOs, OCXOs, and then not to mention our products from our Aura acquisition, I think those are all coming together to not only get us numerous design wins but also allow us, as I mentioned, to 13 to 14 product families. So, I think it's safe to say that at least half of these product families are new, maybe even more than half of these are new.
+Chris Caso
+--
+Analyst
+And just one more follow-up, if I could. With those new products, I understand what you're saying now that as you're ramping new products, there's a learning curve, the yield and such. But structurally, as you ramp some of these new products with higher precision, should we expect that structurally those represent higher margins than what you've seen in the past?
+Rajesh Vashist
+--
+Chief Executive Officer
+Right. I said in my prepared remarks as well that the CED business is important to us from a long time ago because we see higher ASPs, higher margins, greater stickiness, if you will, greater architectural differentiation, greater definition with customers jointly of performance. As such, it makes for -- and given the size of it, we have other higher ASPs in, for example, mil, aerospace, defense, but the size of that market isn't as big as this is. That is why we are putting the CED business front and center as we did several years ago and we'll continue to do in the future.
+Chris Caso
+--
+Analyst
+Got it, understood. Thank you.
+Operator
+One moment for our next question. Our next question comes from the line of Tore Svanberg of Stifel. Your line is now open.
+Tore Svanberg
+--
+Analyst
+Yes, thank you. And congratulations on the solid recovery here. Rajesh, I had a sort of a clarifying question on the communications, enterprise business. I think you said that you expected to grow 50% plus for the year.
+I mean, based on the current run rate, it's tracking significantly above that. So, I mean, are we talking about much more than 50%? Any color you can add there, please?
+Rajesh Vashist
+--
+Chief Executive Officer
+Yeah. Tore, your math is always right. It is significantly above 50%, might even be closer to 70% plus.
+Tore Svanberg
+--
+Analyst
+Perfect. And as my follow-up, you talked about how diversified the AI business or the AI data center businesses are. You mentioned the number of customers and so on and so forth. But can you also talk a little bit about how the design-in process works here? You mentioned that you are a preferred supplier in many platforms.
+I also believe you have some reference designs with the processor company. So, help us just understand a little bit how the design-in process works as you continue to ramp this business.
+Rajesh Vashist
+--
+Chief Executive Officer
+Yeah. So, the design-in process obviously can happen either with the semiconductor company that's a supplier of GPUs, CPUs or it can be directly with people who do accelerator cards, active cables, and so on. So, it is with those people. But then it's a complex supply chain, as you know.
+There are ODMs and then there are contract manufacturers. And then there are the consumers of the product itself, whether they are -- that's an AWS or whether that's a Google. So, for SiTime, even though the design win occurs at one place, we have to support everybody along the way. And that's what makes it particularly complex selling the value proposition of SiTime or articulating the value proposition of SiTime all through the supply chain.
+And it's gratifying to be able to see that, that value proposition is understood and accepted for SiTime. And the value proposition, of course, is around performance, around environmental resilience, but it's also around supply chain. One of the things that we see quite clearly is that quick ramp, as you have seen some of the providers like AMD and NVIDIA have mentioned that they have a particularly aggressive rate of new product introduction. If SiTime is to be a major supplier in this, we have to match that.
+That means we have to accelerate even further our product development in these markets. And so, that's exactly what we have decided to do, and that's exactly what we're doing.
+Tore Svanberg
+--
+Analyst
+That's great insight. Just one last one on Aura. So, it sounds like Aura is already starting to contribute to your revenue growth and so on and so forth. I was just wondering, does that change at all sort of the payment terms for the acquisition? Or should we still assume that the timing of the payments are still the same?
+Rajesh Vashist
+--
+Chief Executive Officer
+Yeah, I think the timing of the payments remains the same. I think what the Aura products do, for example, the network synchronizer that I mentioned in my prepared remarks, that is a very complex product, and it has a long design win, design-in cycle and it takes a while to ramp up. I mean, we're not in any volume with that of any particular note and will not be outside of the payment cycle. So, in other words, whatever we have indicated in the past, for payouts to Aura based on revenue will probably likely be still the case.
+Beth Howe
+--
+Chief Financial Officer
+And Tore, just to add to that. The $69 million I referenced this quarter is overwhelmingly the next payment for the assets. As you may recall, when we did the deal back in December, we said we would be acquiring the die over time in '24 and actually in '25 as well. So, many of the deliverables for '24 occurred in Q2, hence the cash payment.
+We've got one more small one in Q3 beyond just the earnout. So, the vast majority of that was part of the transaction that is expected to occur in '24.
+Rajesh Vashist
+--
+Chief Executive Officer
+And to just put in a plug for the Aura acquisition, all of it is integrated. All the products are coming over as we expected. And I really must commend the Aura team, I think they have shown exceptional professionalism and cooperation in transferring these products. And with the team integration, I think I honestly can't believe that it could have gone any better and the performance of their products is equal to or better than we expected.
+All of this, we understood when we did the acquisition, but now we see clear evidence that it was clearly the right thing to do with the right group of people.
+Tore Svanberg
+--
+Analyst
+That's all great color. Thank you so much.
+Operator
+[Operator instructions] Our next question comes from the line of Suji Desilva of ROTH Capital. Your line is now open.
+Suji Desilva
+--
+Analyst
+Hi, Rajesh. Hi, Beth. Congrats on the progress here. Just to follow up on Tore's last question somewhat.
+Just to clarify, these Aura wins that you have in CED. Were those secured post-acquisition? Or were those -- did those design wins pre-acquisition? And I'm just trying to understand pre-acquisition, any wins been secured post-acquisition. Or is it the combined product? But just any color there would be helpful.
+Rajesh Vashist
+--
+Chief Executive Officer
+Yeah. I think those are definitely post-acquisition because the network synchronization product, for example, was an important one that came across. There are some buffers in there that were pretty important as well into different markets, not the data center market necessarily. So, all of these have been very quick and very brief, but the revenue, of course, still takes a little bit of time, Suji.
+Suji Desilva
+--
+Analyst
+That's fair. Just wanted to clarify on that part. And then more broadly, I mean, I think you're gaining traction here in the data center. I'm presuming reliability, lifetime between failures is probably the main thing attracting these data centers.
+So, clarify if that's my assumption there is correct or so. Do you have any metrics around how much less frequently you fail in, say, quartz space solution?
+Rajesh Vashist
+--
+Chief Executive Officer
+Yeah, we do. In general, we have a fit rate, which is about 100 that of quartz in general. But in specific products, it may vary because, for example, OCXOs in the quartz world have a particularly tough time in performance across changes of environment. But to be very specific about your question, it's less the reliability, which always, of course, comes into play as does the supply chain, but it more has to do with performance.
+At the end of the day, everybody is performance-hungry. I threw out a certain number of performance areas, frequency, jitter, phase noise stability, and of course, environmental resilience, which doesn't sound like performance but it is the environment. It's the cloud under which all these products must work. So, you can always get a phase noise at a certain stability, but under a tough environmental condition of, say, temperature spiking or air flow that may degrade dramatically unlike SiTime's products.
+So, that's where we win. That's where our customers have agreed that we are superior and some of them have decided to exclusively deal with SiTime, and some of them have gone a step further and have decided to define products with us for coming generations. So, that, of course, gives us a significant viewpoint into the customer. And it was always us.
+This is what we always wanted. This is what all semiconductor companies do. This is what typical SoC companies do and that's all we're doing. We're connecting with our best customers and solving tough problems for them, which otherwise they would not solve.
+Suji Desilva
+--
+Analyst
+OK, thanks for the insight, Rajesh.
+Operator
+One moment for our next question. Our next question comes from the line of Quinn Bolton of Needham and Company. Your line is now open.
+Quinn Bolton
+--
+Analyst
+Hi, Rajesh. Hi, Beth. Just wanted to add my congratulations. I wanted to come back to the gross margin, just trying to get a better understanding of sort of the new product ramp issues.
+Are these new products as a kind of new analog die, new MEMS die that you just have to come up the yield curve? Are there new package types, sort of surprised given how much revenue is increasing quarter to quarter that you're not seeing a higher margin lift. And I guess a sort of follow-up to that is I just wanted to make sure you guys aren't seeing any changes in pricing at the customers. There's no particular mix shift to say, mobile IoT or no new product ramps from large consumer companies that may be skewing the mix here in the second half of the year.
+Beth Howe
+--
+Chief Financial Officer
+Hey, Quinn, this is Beth. So, as we look at it, you rattled off MEMS, CMOS packaging, it's really all of the above as we think about these new products into multiple markets. Rajesh has talked a bit about the AI markets. And so, we're clearly launching a lot of new products there.
+I expect over time, we'll see those yields improve. We also look at from time to time, the mix of equipment purchases, whether we purchase the equipment or whether the OSAT does, and again, you pay for it either way, but looking at that, as well as we think about the cost of bring up kind of every product we evaluate that mix of how much equipment we're investing versus the OSATs and typically we both invest there. But nothing unusual. It's just as we've got so many new products coming into mass production, that's really what's driving it.
+Quinn Bolton
+--
+Analyst
+So, it sounds like, given if you're purchasing some of that equipment, there may be a little bit higher fixed cost coming into the cost of goods line that as you grow from here, you'll get absorption on that, but it serves as a headwind in the near term, given the ramp of those new products?
+Beth Howe
+--
+Chief Financial Officer
+I think that's a fair assessment. And we look at that and evaluate the economics on a product-by-product basis where we think it makes more sense to make some investment or share the investment versus had it come through on a unit basis as the products are assembled by the OSATs.
+Quinn Bolton
+--
+Analyst
+Got it. Got it. And then a follow-up for Rajesh. You've talked for a couple of quarters now about strength in the CED and you gave us some color on content per application.
+But I guess I wanted to come back and see if you might be able to give us -- I think you had said dollar content, some of the CED applications could be $8 to $25. Is that what you might get in an AI server? Is that what you would get in a switch? You've talked about optical modules, you talked about AEC cables. I'm wondering if could you give us a sense is like an AEC cable or an optical module, is that like $1 to $5 of content for TCXO? Could you give us some sense of what you might get on a typical NIC card because it -- just trying to get a little bit more specificity on what the timing content is in some of these pretty high-volume applications. Thanks.
+Rajesh Vashist
+--
+Chief Executive Officer
+Yeah. So, typically, the optical products tend to be lower in pricing. So, they're closer to that $1 pricing rather than the $5 price. But when we, in an ethernet switch when we sell a clock, which is anywhere from $5 to $10, and OCXO, which is anywhere from $15 to $25, it kind of adds up pretty quickly.
+And then it depends upon the consumption amount of these. So, for example, some of the switches sell in tens of thousands, but we believe that the NIC cards, which may have a total content of $5 to $10 will probably increase at a faster rate in units over time. The GPU boards, of course, and the CPU boards, we do well at in the $10-plus range. But then those are relatively limited in units.
+So, where we flourish is when you get the sweet spot of highish ASPs and highest volumes rather than the lower volume and high number. Either way, when we look at the breadth of our design wins, CPU boards, GPU boards, switches, ethernet switches, NIC cards, accelerator cards, optical modules, CE cables, or active cables. I think it's astonishing that when AI sort of started to take up about a year ago, many of you asked us how we would perform in that. And if you recall, I said, these are early days.
+We're trying to see the market ourselves.And what I'm gratified to see is that exactly what we saw happening has happened, which is that our customers' customers make huge hundreds of billions of dollars, tens of billions of dollars of investment in the data centers but then they want to keep on extracting more bandwidth, more utilization, more uptime, more synchronization, and that's where timing comes in. And that's why I'm very confident that even when the overall market, there's been a lot of talk about commitment to dollars and capex by these large companies. I'm very confident that SiTime will continue to grow even if it slackens off a bit because this is a portion that will always get more money and we will benefit from that.
+Quinn Bolton
+--
+Analyst
+Got it. Thank you, Rajesh.
+Operator
+At this time, I'm showing no further questions. I would now like to turn it back to Rajesh Vashist, CEO, for closing remarks.
+Rajesh Vashist
+--
+Chief Executive Officer
+Well, thank you all very much for joining us. Very happy to see the upturn in SiTime as we promised it would happen in the second half, and we'll continue throughout the year and hopefully, in the coming years, that's certainly our design. Look forward to meeting you guys on the road. Talk to you soon.
+Thank you very much.
+Operator
+[Operator signoff]
+Duration: 0 minutes

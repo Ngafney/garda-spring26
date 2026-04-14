@@ -1,0 +1,287 @@
+[
+  {
+    "speaker": "Unknown",
+    "role": "",
+    "text": "Full Conference Call Transcript"
+  },
+  {
+    "speaker": "Tim Perz",
+    "role": "",
+    "text": "Thank you, operator. Good afternoon. Thank you for joining us today to review Varonis Systems' second quarter financial results. With me on the call today are Yaki Faitelson, Chief Executive Officer, and Guy Melamed, Chief Financial Officer and Chief Operating Officer of Varonis Systems. After preliminary remarks, we will open the call to a question and answer session. During this call, we may make statements related to our business that would be considered forward-looking statements under federal securities laws, including projections of future operating results for our third quarter and full year ending December 31, 2025. Due to a number of factors, actual results may differ materially from those set forth in such statements. These factors are set forth in the earnings press release that we issued today under the section captioned Forward-Looking Statements, and these and other important risk factors are described more fully in our reports filed with the Securities and Exchange Commission. We encourage all investors to read our SEC filings. These statements reflect our views only as of today and should not be relied upon as representing our views as of any subsequent date. Varonis Systems expressly disclaims any obligation or undertaking to release publicly any updates or revisions to any forward-looking statements made herein. Additionally, non-GAAP financial measures will be discussed on this conference call. A reconciliation to the most directly comparable GAAP financial measures is also available in our second quarter 2025 earnings press release and our investor presentation, which can be found at varonis.com in the Investor Relations section. Lastly, please note that a webcast of today's call is available on our website in the Investor Relations section. With that, I'd like to turn the call over to our Chief Executive Officer, Yaki Faitelson. Yaki?"
+  },
+  {
+    "speaker": "Yaki Faitelson",
+    "role": "",
+    "text": "Thanks, Tim, and good afternoon, everyone. We appreciate you joining us to review our second quarter results and the progress of our SaaS transition. Our Q2 performance reflects our continued strong ARR growth and cash flow generation as we accelerate towards the completion of our SaaS transition and make investments to capture our growing market opportunity. Today, I want to remind you of what sets Varonis Systems apart as the leader in data security. In today's ever-changing environment, one thing remains constant: data will continue to be created and shared, and the usage of AI has only accelerated this trend. At the same time, attackers do not break in; they log in. They need to secure data, and the challenges involved are greater than ever. Varonis Systems takes a data-first approach and helps companies locate their sensitive data, visualize who has access to it, automatically lock it down, and then automatically detect and respond to threats on it. Performing only one or two of these tasks is insufficient to protect data, and what sets Varonis Systems apart is our ability to successfully do all three of these tasks on data everywhere. In the second quarter, this approach contributed to an ARR growth of 19% to $693.2 million as we advance toward completing our SaaS transition, with SaaS ARR now representing about 69% of total ARR. Year to date, we generated $82.7 million of free cash flow, up from $67.3 million for the same point last year. I will review our results and our updated guidance in more detail shortly. We continue to experience strong demand for our SaaS platform from both new and existing customers, primarily due to the superior experience that Varonis Systems SaaS and MDDR offer by enabling automatic data security with minimal effort. Additionally, I'm also proud to announce that we achieved the federal FedRAMP authorization, enabling us to offer our entire SaaS platform to the federal sector. Demand from both new and existing customers looking to protect cloud environments with Varonis Systems continues to positively inflect and is becoming a material contributor to our business. This is driven by the investments we have made in our platform to expand our use cases, going wider and deeper and entering new markets, including DSPM. Our ability to protect cloud data represents a significant untapped growth opportunity for us, and transitioning our customers to our SaaS delivery model is helping us unlock this market's potential. The data security market is rapidly expanding because of many factors, including AI usage, the proliferation of data, and evolving compliance needs. As a result, data security markets like DSPM are receiving new investments and focus, which is creating more budgeted line items and increasing opportunity. Looking at the DSPM market, others we see usually focus on discovery and classification in cloud databases because it has the lowest barrier to entry, and they don't address more challenging problems like securing the data by automatically fixing risks and detecting threats or scaling to analyze large, unstructured data sets. With that as a backdrop, it is important to note that seeing a problem does not solve a problem. Discovery and classification may find sensitive data, but they do not secure it. This generates potential exposure without providing a solution. Varonis Systems has made significant investments to expand our coverage wider to both find and secure the data everywhere it lives, while providing more complete and up-to-date visibility than typical technologies. As a result, customers are consolidating their data security budgets with Varonis Systems. I would like to dive deeper into why we win in competitive deals within the DSPM space. Our edge lies in the breadth and depth of our platform, following a three-step approach called Find, Fix, Alert. All three critical components are needed to secure data. While DSPM point tools focus on discovering sensitive data, Varonis Systems is the only data security vendor that does more. Not just finding sensitive data, but also finding where it is unprotected, fixing the risks by locking down sensitive data automatically, and continuously monitoring and alerting on unusual data activity. I will talk about the first step, Find. Varonis Systems not only discovers and classifies all of our customers' data but also maps all the controls that lock it down, analyzing permissions, identities, entitlements, masks, and labeling, which creates a complete foreign inventory of trace. We know exactly where sensitive data lives, how it is exposed, who has access, and how that access was granted. We also watch data usage, tracking every time a user accesses, modifies, or deletes data. To use a simple example, Varonis Systems watches the bank vault, compiling an inventory of everything inside, every person that can access the vault, including everything they touch and can access inside, while logging all activity in and around the vault. And all this happens without impacting the customer's experience. Now I will talk about step two, Fix. The holy grail of security is ensuring identities have access to the right data, and this is very hard to do because you need all the right ingredients, which we provide. Varonis Systems understands how data is being used and where it is unnecessarily exposed because we watch all data activity and connect identities to data. Our policies, developed through extensive experience with thousands of large customers, are designed to intelligently and automatically mitigate risks, such as access to data that identities should not have or no longer need. To continue our example, because Varonis Systems knows who can access the vault, what their role is, and what they regularly access, we can remove unneeded access, like stale access from a former employee that works at a competitor or a bank employee that has moved to another branch but still has the keys to the vault. Finally, let's talk about step three, Alert. Since Varonis Systems sees every touch of data, we can baseline user behavior and detect threats or abnormal behavior in real time. Because we watch data directly, we generate alerts with very little noise. This enables our MDDR team, which is powered by AI, to efficiently watch customer data and investigate, validate, and prevent breaches with a 30-minute SLA on ransomware and without customer effort. To wrap up our example, Varonis Systems watches the vault and can sound an alarm when a receptionist tries to access it after hours or when a bank manager starts going in and out of the vault more often than normal and with more cash. I would like to contrast our approach to what we see from DSPM providers. Starting with step one, the first key difference is that most DSPM providers schedule scans and use sampling as opposed to viewing all the data to discover and classify sensitive data because they cannot do it any other way. They do not track data activity, so they don't know when data is added or changed, so their information is immediately stale, and they lack scalability. Viewing everything, sampling allows them to scan quickly, but this also means that a significant amount of potentially exposed data is never found, and they cannot deliver a full picture of risk or compliance. And because scans are scheduled, their picture is always out of date. As a result of these shortcomings, they try to avoid risk assessment. Would you be willing to store your money at a bank that does not have security cameras and tries to protect it using a list that only includes 10% of its inventory and is only received on Fridays at 5 PM? Moving to step two, because DSPM providers don't map or track access to sensitive data, there is no viable, safe way to fix risks that they find. As a result, these providers just generate service tickets, leaving overworked security teams to manually address them. We hear from prospects that this approach leads to time-consuming busy work and oftentimes followed by a data breach. Finishing with step three, DSPM point tools cannot detect threats or perform any meaningful forensics in the event of a suspected or actual breach because they don't track data usage. There is no activity monitoring and no user behavior analytics. Going back to our example, using DSPM point tools is like trying to understand how a bank was robbed and what was taken with no security cameras or footage, no record of who had access to the vault, and an outdated and incomplete record of what was in the vault. To wrap up, DSPM tools focus on discovery and classification, mostly in the cloud. They are compliance band-aids and not security solutions. Varonis Systems not only discovers and classifies data but also intelligently and automatically locks it down everywhere and watches it for threats. Our approach results in vastly reduced risk and a much lower likelihood of a data breach as compared to alternatives. Customers understand this, and our ability to showcase these outcomes automatically at scale is why we are winning. Another key driver of our recent success has been the secular trend of AI usage. This quarter, we expanded our coverage to protect OpenAI ChatGPT's enterprise. We are also excited to announce an update to our strategic partnership with Microsoft. This update is focused on joint feature development, which builds on our existing innovations to help organizations adapt Microsoft Copilot security while deepening our integration with them. Together, we are addressing one of the most critical challenges, which is ensuring AI tools and LLMs do not expose data. By aligning our engineering efforts, we are accelerating our ability to drive secure AI adoption. With that, I would like to briefly discuss a couple of key customer wins from Q2. The first one I would like to talk about is a large healthcare organization of over 20,000 employees that was concerned about their ability to respond to ransomware and comply with SEC disclosure requirements for their AWS environment. They were evaluating against the DSPM point tools, and it became clear that only Varonis Systems could meet their success criteria. Our ability to cover petabyte-scale cloud environments and provide customers with the tools to avoid breaches and fines without effort were capabilities this point solution could not match. In contrast, the DSPM tool scanned a small sample of data that quickly became stale and could not provide any meaningful outcomes. As a result, this decision was an easy one to choose Varonis Systems. We again saw strong demand from existing customers looking to convert to our SaaS platform. One example was a defense contractor with over 25,000 employees. The new CISO, who was undergoing a digital transformation project, needed to modernize the data security strategy. The CISO stated the future of cybersecurity is data security and was quickly on board with Varonis Systems SaaS, understanding the need for automated protection. This is also a key example of our Microsoft Better Together partnership since they will use Varonis Systems to automate the Purview labeling program and automatically reduce exposed data and proactively stop threats. They purchased Varonis Systems SaaS with MDDR for hybrid environments, Copilot, and Azure. In summary, we are excited by the many tailwinds we are seeing in our business. The simplicity and automated outcomes of our SaaS platform, the adoption of AI, and growing awareness of data-centric cloud security are driving increased momentum in our business. We remain focused on executing on these tailwinds as we capture our massive and growing market opportunity. With this, let me turn the call over to Guy. Guy?"
+  },
+  {
+    "speaker": "Guy Melamed",
+    "role": "",
+    "text": "Thanks, Yaki. Good afternoon, everyone. Thank you for joining us today. Our second quarter performance represents a continuation of our solid start to the year. We again saw strong ARR growth and free cash flow generation, as well as continued progress towards the completion of our SaaS transition. This performance allows us to again raise our full-year ARR guidance while we also continue to keep an eye on the uncertain macro backdrop. We remain confident in our outlook because of the underlying drivers of our business and are well-positioned to execute on the growing need to secure data everywhere. We continue to see broad-based strength from new and existing customers looking for Varonis Systems to secure their data. The simplicity and automated outcomes of our SaaS platform and MDDR offering, as well as customers looking to secure Copilot, continue to be a driver. As a result of this momentum, we ended Q2 with 69% of total company ARR coming from SaaS, or approximately $475 million. This represents an eight-point increase in our SaaS mix from the 61% we reported in Q1. We continue to see SaaS NRR trend at very healthy levels, which is being driven by our customers coming back and buying protection for additional cloud platforms. Once we complete the SaaS transition, we can allocate even more focus on this upselling motion. We believe that this additional time spent on upselling existing customers, combined with the healthy new customer momentum that we are continuing to see, will allow us to drive towards our goal of growing ARR more than 20%. Furthermore, we are prudently and thoughtfully increasing investments in our business because of the growing demand for our solution, and we see a clear path to drive durable growth post-transition. In the second quarter, ARR was $693.2 million, increasing 19% year over year. Year to date, we generated $82.7 million of free cash flow, up from $67.3 million in the same period last year. In the second quarter, total revenues were $152.2 million, up 17% year over year. During the quarter, as compared to the same quarter last year, we had approximately a 7% headwind to our year-over-year revenue growth rate as a result of having increased SaaS sales in our booking mix, which are recognized ratably versus the upfront recognition of our on-prem subscription product. SaaS revenues were $105.9 million. Term license subscription revenues were $32.4 million, and maintenance and services revenues were $13.9 million, as our renewal rates were again over 90%. As we are getting closer to the completion of our SaaS transition, we expect the positive trend of maintenance and services revenues to continue to decline. Moving down the income statement, I'll be discussing non-GAAP results going forward. Gross profit for the second quarter was $122.6 million, representing a gross margin of 80.6% compared to 84.1% in 2024. Our gross margin continues to track ahead of our expectations, and we feel very confident in our long-term target set at our Investor Day. Operating expenses in the second quarter totaled $124.5 million. As a result, second-quarter operating loss was negative $1.9 million, or an operating margin of negative 1.2%. This compares to an operating income of $2.1 million, or an operating margin of 1.6%, in the same period last year. During the quarter, as compared to the same quarter last year, we had approximately a 6% headwind to our operating margin as a result of having increased SaaS sales in our booking mix, which are recognized fully ratable versus the upfront recognition of our on-prem subscription product. Second-quarter ARR contribution margin was 16.5%, up from 14.9% last year. The significant leverage improvement reflects our ability to drive strong incremental margins while growing ARR, transitioning to SaaS, and investing in our business to capture our growing market opportunity. During the quarter, we had financial income of approximately $10 million, driven primarily by interest income on our cash, deposits, and investments in marketable securities. Net income for 2025 was $3.8 million, or net income of 3¢ per diluted share, compared to a net income of $6.8 million, or net income of 5¢ per diluted share, for 2024. This is based on 135.2 million diluted shares outstanding and 128 million diluted shares outstanding for Q2 2025 and Q2 2024, respectively. As of June 30, 2025, we had $1.2 billion in cash, cash equivalents, short-term deposits, and marketable securities. For the six months ended June 30, 2025, we generated $89.3 million of cash from operations, compared to $68.4 million generated in the same period last year. And CapEx was $5.7 million, compared to $1.1 million in the same period last year. During the second quarter, we repurchased 1 million shares at an average purchase price of $38.59 for a total consideration of $100 million. Turning now to our updated 2025 guidance in more detail. For 2025, we expect total revenues of $163 million to $168 million, representing growth of 10% to 13%. Non-GAAP operating income of $4 million to $7 million and non-GAAP net income per diluted share in the range of 7¢ to 8¢. This assumes 134 million diluted shares outstanding. For the full year 2025, we now expect ARR of $748 million to $754 million, representing growth of 17%. Free cash flow of $120 million to $125 million, total revenues of $616 million to $628 million, representing growth of 12% to 14%, non-GAAP operating income of breakeven to $6 million, non-GAAP net income per diluted share in the range of 16¢ to 18¢. This assumes 134.7 million diluted shares outstanding. In summary, our second-quarter performance demonstrates the growing demand for Varonis Systems, evidenced by the strong ARR growth and cash flow generation. This demand is driven by the simplicity and automated outcomes of Varonis Systems and MDDR, as well as the security challenges created by the usage of AI and the growing awareness for data security. We look forward to completing our SaaS transition, which will position us to even better execute on these tailwinds and drive additional value for our customers, company, and shareholders. With that, we would be happy to take questions. Operator?"
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Thank you. We will now be conducting a question and answer session. If you would like to ask a question, please press 1 on your telephone keypad. A confirmation tone will indicate your line is in the question queue. You may press 2 to remove your question from the queue. In the interest of time, we ask the participants to limit themselves to one question. One moment, please, while we poll for questions. Our first question is from Saket Kalia with Barclays."
+  },
+  {
+    "speaker": "Saket Kalia",
+    "role": "",
+    "text": "Okay, great. Hey, guys, thanks for my question here. How are you?"
+  },
+  {
+    "speaker": "Yaki Faitelson",
+    "role": "",
+    "text": "Good. How are you? Good. Good."
+  },
+  {
+    "speaker": "Saket Kalia",
+    "role": "",
+    "text": "Yaki, maybe for you, the numbers here are pretty straightforward. So I'd love to ask a market question here if I could. You know, we all saw one of your privately held competitors, Sierra, raised money recently. And I was wondering, since we're on the call, can you just talk about how you compete against them, how you win, and maybe how your move to SaaS is changing that competitive backdrop? Does that make sense?"
+  },
+  {
+    "speaker": "Yaki Faitelson",
+    "role": "",
+    "text": "Yes. Completely. Primarily, it's the same for all the DSPM vendors. What they are doing for us more than anything else is expanding our total available market and generating awareness that you need to protect data on these cloud repositories. Essentially, these are very small pieces of the data security platform; they don't provide outcomes. Like we just explained, you need to understand that the DSPM, what they are doing is data discovery, and very partially, a lot of it is based on sampling, but they don't do any remediation and any threat detection. Essentially, if someone is if you have a compromised account or an insider, they will not even see it. You're starting to have abnormal behavior to the data; they can't identify it. They can't remediate the excessive access control. And then after you notice that something happened, they can't even do forensic. Fundamentally, it's something that is completely different. Our SaaS is primarily about scalability and about automated outcomes. We are doing everything for the customer. The secure data is wrong. It's as easy as having a credit card from a top bank in terms of just all the automation and everything we do. The other thing, data is a massive problem at scale. And there is something that is common with all these DSPM vendors. They're avoiding POC like a plague. POCs on production data. And this is the cornerstone of our sales motion. We are coming to you, and we're starting to deploy very fast, taking all the data, finding it automatically, classifying it, labeling it, reducing excessive access control, making sure that your Copilot and AI can see only what it needs to see, looking at Active Directory, and with the MVDR, we save dozens of customers on a week-to-week basis. So primarily, what it does is just create awareness for data security with a very small part of data security from a data security platform. So by and large, this is something that is doing very well for us and for the awareness of the market."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Our next question is from Matt Hedberg with RBC Capital Markets."
+  },
+  {
+    "speaker": "Matt Hedberg",
+    "role": "",
+    "text": "Great. Thanks for taking my question, guys, and congrats on the results. Yaki, it's great to hear about the updates to your expanded Microsoft partnership. I'm wondering, is there a way that you can help us size the opportunity in terms of revenue contribution today? And additionally, how should we think about go-to-market initiatives to drive more success? Sounds like you talked about a lot of integration work, but curious about some of the go-to-market initiatives as well."
+  },
+  {
+    "speaker": "Yaki Faitelson",
+    "role": "",
+    "text": "Thanks for the question, Matt. You know, at the end of the day, AI security problems are data security problems. And what happened, we have a lot of synergies with Microsoft. But they just understood that one of the biggest gating factors to the deployment of Copilot, which is fundamental now for their strategy and success, is security. You know what happened when we started POC? It's the Copilot, which is a tremendous productivity tool. It's like an attachment from head. It just goes and inhales all permissions that they have, and then people stop it and say, okay. Okay. How are we going to deploy? And Varonis Systems does very well for you. The other thing, we have a lot of synergy with a lot of their security stuff. From, you know, Defender to MCAS to sending alerts to Sentinel, and it just, you know? And we saw with just our customers, you know, using Purview for labeling, there is just a lot of synergy. We find a lot of low-hanging fruit by doing the overall technical integration, and then, you know, we came together and decided that we need to take the partnership to the next level. It's still the early innings, but for them, Copilot is a lot of what they want to do in terms of productivity in the workforce, and we are securing it. And it just works very well together. So they are compensating the regular sellers. We're starting to have pipeline development efforts with them. But so far, it's working very well. And we are very excited about the partnership, and I believe that they are also excited."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Our next question is from Joseph Gallo with Jefferies."
+  },
+  {
+    "speaker": "Joseph Gallo",
+    "role": "",
+    "text": "Hey, guys. Thanks for the question. Are there any metrics or data you can share that just instills the confidence in over 20% ARR growth? I imagine that means SaaS ARR without conversion tailwinds is growing healthily above the current rate. But just anything on new logos or NRR that kind of, you know, helps us see what you guys see and are positive on? Thank you."
+  },
+  {
+    "speaker": "Guy Melamed",
+    "role": "",
+    "text": "So when you look at the Q2 results, they were driven by strong new customers again, and we talked a lot about how SaaS opens up the ability to sell to additional customers. We saw that continue in Q2. We also saw the conversions in existing customers contributing nicely. But what's actually more interesting is that the NRR for SaaS is higher than the reported NRR that we gave at the end of Q4. And when you look at our ARR number being 19%, if we can continue to sell to new customers the way we have done so far, and actually move away from the conversions and just focus on the upsell within the SaaS customers, then kind of the difference between 19% ARR and 20% is not that large. So there are a lot of moving parts that are working in our favor. And we feel very good about the opportunity of going back to that 20 plus percent. In addition, we feel very good about our investments in R&D. So we see very strong adoption of everything that is related to the other cloud platforms. And we believe that we have good visibility in the way that our investments in R&D and the new product will work. And we're just very excited about the opportunity. If you want to be serious about security, you need to protect the data. And your best bet to protect the data is ours."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Our next question is from Joshua Tilton with Wolfe Research."
+  },
+  {
+    "speaker": "Joshua Tilton",
+    "role": "",
+    "text": "Hey, guys. Thanks for sneaking me in here. I have a two-parter. I guess the first part is just in the prepared remarks, I think you mentioned that the macro environment is still kind of challenging. I don't think that's a surprise to anyone, but maybe could you just compare how the macro this quarter compared to last quarter? What direction is that macro trending? And then just maybe on the conversion piece specifically, you know, you guys said it contributed nicely to the quarter. But can you just maybe, you know, give us an update on how the accelerated conversion is going relative to your plan? Are you tracking in line, ahead, or maybe behind? Just an update on both those would be very helpful. Thanks."
+  },
+  {
+    "speaker": "Guy Melamed",
+    "role": "",
+    "text": "So I'll start with the second part. When we look at the conversions, the fact that we're increasing our SaaS mix from 80% to 82% and actually started the year with full-year guidance of 78% is an indication of things going very well. We knew that we could improve the conversion component in 2025, and there were a lot of lessons learned that we took from 2024 and implemented as part of our strategy for 2025. So I can say that we're very happy. We're not, I wouldn't say that we're shocked by how good it's going. We're very happy, and we knew that we could do better than 2024. When you look at the macro, I can say that Q2 was very much similar to what we saw in Q1. There's not much of a difference. There's more deal scrutiny, and we talked about the deal scrutiny for quite some time now. But at the same time, we can say that when you look at data security and when you look at the fact that Copilot is generating a lot of awareness to a problem that existed for a long time, but it's putting that spotlight on it, and we're there to try and capitalize on it."
+  },
+  {
+    "speaker": "Joshua Tilton",
+    "role": "",
+    "text": "Super helpful. Thank you, guys."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Our next question is from Jason Ader with William Blair."
+  },
+  {
+    "speaker": "Jason Ader",
+    "role": "",
+    "text": "Guys. Sorry. I have a two-parter as well. Just first on the comment that you guys have made historically, that you only see competition in one out of 20 deals. I was hoping you can update us on that. And then the second part is kind of related, but we've seen some of the backup vendors move into the DSPM market through acquisition, like Rubrik with Laminar and then Commvault most recently with Satori. I don't know. Maybe you can comment on convergence between traditional backup and, you know, data security, data governance? Do you feel like that's a long-term trend? I know just any interpretation of what's happening there with the backup vendors?"
+  },
+  {
+    "speaker": "Yaki Faitelson",
+    "role": "",
+    "text": "The infrastructure and backup vendors, we rarely see them in any of the POCs. Completely different sales motion. And in general, we can tell you that all the DSPM companies that got acquired by large companies, we don't see them a lot. It's just, it's data security can't be a side gig. What we see is that the companies, you know, we see the DSPM companies that got the funding. You know, here and there, the competition level for everything that is $3.65 and on-prem stays the same. We see around 10% in cloud, but you need to understand one thing. The cornerstone for everything that we do is POC. We come to you, and we deploy the problem at scale. There is much more data and critical data in the cloud than on-prem, and, you know, talk about these blogs and databases that we are in and Snowflake and Databricks. And what we see with our competitors is that they don't want to do POC. They are trying not to do a POC. So sometimes the initial conversation we hear about them, but usually, you know, when the rubber meets the road, they don't like to do these POCs. So when customers are doing this diligent process and in data security, the way that you sell is a POC. They don't like, they just usually, they don't do it. And if they try to do it, they try to do it in a lab. And a small set of data. Some of them have scalability challenges."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "As a reminder, we ask the participants to limit themselves to one question. Our next question is from Roger Boyd with UBS."
+  },
+  {
+    "speaker": "Roger Boyd",
+    "role": "",
+    "text": "Awesome. Thanks for taking the questions. Can you expand on the trend of customers consolidating their data security budgets to Varonis Systems? And when you look at the trends around consolidating around data stores like databases, around functional areas like DSPM and DLP, are there particular trends within those that are looking stronger than others? And is this something that you're seeing today, the general brownfield consolidation opportunity? Or is this more of a pipeline opportunity as you think out over the next year? Thanks."
+  },
+  {
+    "speaker": "Yaki Faitelson",
+    "role": "",
+    "text": "I think it's both. That's budget rolls. You know, you have budget for security, compliance, insider threat, everything that is related to labeling, the ability to understand abnormal behavior, part of it is DLP and all the prerequisites on the work that you made, and we are doing all of it. These customers understand that they need to do it. In terms of security, you need to understand that bad actors are not breaking in. They are logging in. If I'm not mistaken, Tim Wootman did a testimony to Congress and talked about the phishing that we can have with AI. This is something that we are starting to see. I can take your voice, and I can be you. And then if I have your information, many times, I can get your credentials. So what we see is that just the way that everything works is that once I get your credentials, we are what we call the only game in town. So a lot of these security that's related to insider threat, everything that is related to user behavior analytics is really consolidating around us. And these bad actors, what they are doing, in order to elevate credentials these days, but most of the time, they are not, you know, reading full memory and doing all this jazz. The way that they are doing it is going from one data repository to the other. So we want to cover everything in order to be secure, and this is also something that works very well for us. We start with something, and then people just naturally expand. And this is because of our SaaS platform that is scaling so easily and provides these automated outcomes. We just need to buy, and we will provide the security."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Our next question is from Brian Essex with Goldman Sachs."
+  },
+  {
+    "speaker": "Brian Essex",
+    "role": "",
+    "text": "Hey, guys. It's Brian from JPMorgan. Operator trying to demote me, but thank you for taking the question. Great to see the FedRAMP authorization. I would love to get your sense of how you feel positioned ahead of the stronger, you know, third quarter for Fed spending, how much visibility you might have into that Fed business, and what's your sense of the preparedness on the Fed side to adopt data security versus what you're seeing on the enterprise side? Thanks."
+  },
+  {
+    "speaker": "Guy Melamed",
+    "role": "",
+    "text": "So I'll start, and then Yaki can add some stuff. Obviously, we were very excited to receive the FedRAMP authorization this quarter. It really is a great milestone for us. We can now offer the SaaS platform to the federal sector, and that's really a good deal from our end. Our team put a lot of time, effort, and investment into this achievement. And we know there's a significant white space for us in the federal vertical. But I do want to remind everyone that federal is still about 5% of our total company ARR. It really is still too early to say if we can have any benefits from the FedRAMP in our Q3 results this year. But from a guidance perspective, we assumed a similar contribution to last year. On the longer-term side, we see a huge opportunity in this vertical."
+  },
+  {
+    "speaker": "Yaki Faitelson",
+    "role": "",
+    "text": "You know, it's very easy to have. A lot of critical information. I'm sure there's a lot of critical information about you as well. And the way that it works when you see a lot of bad actors and, you know, paid actors many times, so this is data that they need to protect. You just don't know what happened. You know, the SharePoint vulnerability and so forth. It's all about data. And I want to say another thing. FedRAMP is not only important for federal customers. When you are a data security company, even though we don't take critical data to our staff, but it was very important to demonstrate it for many customers on the commercial side. FedRAMP is critical. It's a certificate that detects security very seriously. That you are under the right audit, that you have the right controls. It was very important for us to do this exercise. We are taking the security of our platform extremely, extremely seriously. We want to make sure that once, you know, we are protecting your data, we are all the time secure. And, definitely, on the data security these days, from all these DSPM spaces, we are the only one who's FedRAMP."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Our next question is from Shaul Eyal with TD Cowen."
+  },
+  {
+    "speaker": "Shaul Eyal",
+    "role": "",
+    "text": "Thank you. Good afternoon, guys. Congrats on the beat and raise. Yaki, I was listening carefully to your market and products commentary. Specifically on that healthcare-related win with 25,000 seats, can you provide us with more color about how many subscription services or modules would such a customer be utilizing through Varonis Systems?"
+  },
+  {
+    "speaker": "Yaki Faitelson",
+    "role": "",
+    "text": "Yes. It was a big, you know, AWS win with everything that was there. Databases, you know, Azure Blob and other services, you know, 365 and the on-prem, you know, the Copilot. And this is something, Shaul, that we see now, like, a lot of Aviso just makes people understand where I have critical data. I want to start sometimes, you know, data that people are collaborating more with, they want to start first and almost always protect the identity side that we are doing extremely well."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Our next question is from Mike Cikos with Needham and Company."
+  },
+  {
+    "speaker": "Mike Cikos",
+    "role": "",
+    "text": "Hey, thanks for taking the question. And I just wanted to cycle back to Joe's question at the top of the Q&A. Just because that 20% plus ARR growth that you guys are citing is probably one of the most frequent inbounds we get from clients. So could you just provide some more commentary on those new logos that you guys are addressing? As far as the size of those initial lands and what you're seeing? Is there actually an acceleration taking place in new logo acquisition?"
+  },
+  {
+    "speaker": "Guy Melamed",
+    "role": "",
+    "text": "So we have seen the new logos actually accelerate in terms of the number and also in our ability to land at a larger number. The SaaS platform and the MVDR together with the Copilot is extremely appealing to many of our customers. The opportunity to sell to customers and actually go to them and the value proposition is that we would do everything for you. All you need to do is pay us. With this environment that is becoming so complex from a cybersecurity perspective and a risk perspective, it is extremely appealing for customers. And I think that's part of the reason we're seeing our new customers adopt so well. We've seen very healthy contributions from our new customers. We feel very good with the ASPs. Over time, they have increased significantly from the levels we saw in the past. But even with the higher land, there is so much more meat on the bone in terms of selling additional platforms. So we feel very good with the ability to show value to those customers and then go back to them and sell them additional platforms. What is very interesting is after we are able to start, and customers are realizing these automated values of find, fix, alert, they naturally expand to other platforms. So once we are moving there, it is much easier to do the upsell. And as we said before, it's a pair of two companies and just the SaaS company. It's tremendous. And as you can see, we're just moving very fast to the SaaS. And after that, definitely reducing friction."
+  },
+  {
+    "speaker": "Guy Melamed",
+    "role": "",
+    "text": "And just to add, that's part of the reason we talked about the SaaS NRR being significantly higher than the reported NRR. There's so much additional platforms to sell once you show that value in the automation and the MVDR."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Our next question is from Andy Nowinski with Wells Fargo."
+  },
+  {
+    "speaker": "Andy Nowinski",
+    "role": "",
+    "text": "Okay. Thank you for taking my question. So I wanted to ask about your SaaS revenue. So you've had two consecutive quarters of significantly outperforming the consensus estimate, you know, which suggests the street seems to be mismodeling that conversion. And I know you don't guide specifically to SaaS revenue, but if we just use your SaaS ARR of $478 million that you reported this quarter, you know, divide that by four and use that as a proxy, it certainly suggests that subscription or SaaS revenue should be about $120 million in Q3. I guess what my question is, is there anything, any reason that proxy or that calculation would not be correct? Is there anything that why we wouldn't want to use something like that? Thank you."
+  },
+  {
+    "speaker": "Guy Melamed",
+    "role": "",
+    "text": "I said really since the Investor Day in 2023 that there are three north stars that we're focusing on during the transition. There's a lot of noise during a transition, and the three north stars that we have talked about are ARR, ARR contribution margin, and the free cash flow. The one thing I really want to avoid is noise on the conversion on the revenue side and specifically on the SaaS revenue component. The right metric to focus on to identify the strength of the business is the ARR. When we look at revenue as a whole, we're thinking of 2025 as kind of a trough where the P&L is still kind of very noisy. From a numbers perspective, 2026 as we kind of complete the transition, the actual numbers should become more straightforward. The percentages will still kind of move around because on the comparable side, you'll have that noise from 2025. And then 2027 is really kind of the year where you can look at the P&L in a more straightforward way. So the focus right now on the conversion year, and I've I can't emphasize this enough, it's kind of focusing on the three North Stars. Where the top line number that should be focused is the ARR."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Our next question is from Shrenik Kothari with Robert W. Baird."
+  },
+  {
+    "speaker": "Shrenik Kothari",
+    "role": "",
+    "text": "Thanks for taking my question and echoing congrats on the quarter. So beyond the new logos, right, you reiterated strong SaaS conversion execution, of course, tracking ahead of plan. But specifically, Yaki and Guy, you just made comments that past these conversions and the tailwinds, the SaaS NRR, right, the customers realizing value faster post-transition, about the expansion, upsell, cross-sell. Just what specific new workloads, either ramping or multi-cloud expansion, signals are giving you the most confidence? And if you can just help unpack that SaaS NRR a little bit more among MDDR, Copilot, OpenAI, Greenfield SaaS, unstructured data, as you mentioned, Snowflake data. Just wanted to understand, like, if we can unpack that a little bit more."
+  },
+  {
+    "speaker": "Yaki Faitelson",
+    "role": "",
+    "text": "Actually, all of them are performing well. You know? Just data stored in Azure, AWS, GCP, Snowflake, Databricks, salesforce.com, GitHub, or wherever you have critical data. We just, we can say that as time goes by, more and more platforms are doing well, and the, you know, you have a lot of this critical data in the cloud, still another critical data on-prem. Customers are realizing that they need to protect all of it. And all of it is vulnerable. And thankfully, just we are doing well all over."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Our next question is from Rudy Kessinger with D.A. Davidson."
+  },
+  {
+    "speaker": "Rudy Kessinger",
+    "role": "",
+    "text": "Hey, great. Thanks, guys, for taking my question. Similar question actually to the last one. I am curious, you mentioned in the prepared remarks, the contribution mix of protecting cloud and SaaS environments continues to increase. Any data points you can share on, you know, what percent of SaaS net new ARR, you know, from new logos and expansions, not the conversions you're doing, but new logos and expansions, is coming from protecting cloud environments and SaaS applications?"
+  },
+  {
+    "speaker": "Guy Melamed",
+    "role": "",
+    "text": "So in Q2, we started to see some meaningful contribution from the additional cloud platforms. I can tell you that we were extremely happy with the performance coming from that spectrum. We don't really break it out in terms of dollar terms. We're trying to sell more and more of the platforms, and we're seeing very good adoption by our customers. And we're actually seeing the Salesforce focusing on that type of sale, understanding the benefits it can provide to our customers. So I can say that it's kind of improving from quarter to quarter, and this quarter, we really started to see some meaningful contribution. We expect that trend to continue."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Our next question is from Jonathan Ruykhaver with Cantor Fitzgerald."
+  },
+  {
+    "speaker": "Jonathan Ruykhaver",
+    "role": "",
+    "text": "Yeah. Good afternoon. So regarding the recent introduction of your NextGen DAM offering, database activity monitoring, I'm curious how should we view that in terms of just an enhancement over traditional DAMs to drive a replacement cycle versus, you know, positioning around, you know, a broader data security strategy. When you look at the, you know, the revenue opportunity, it would seem the replacement opportunity relative to some legacy vendors like Imperva Guardium would be quite compelling near term. So how are you positioning that in terms of the go-to-market?"
+  },
+  {
+    "speaker": "Yaki Faitelson",
+    "role": "",
+    "text": "You know what? We, with our cloud data repository, we started to do very well with databases. Primarily with admin activities and with the classification. And, really, so many customers came and told us, please come and replace the incumbent. Said, what's going on? And they said, we needed to get into the queries. You know, whatever we need for compliance, but we also need user behavior analytics. You know, the current solutions are not really security solutions. And many times, these, a lot of these companies didn't innovate. And haven't done it in the right way, and they want it part of one coherent data security platform. This is when we bought Cyril, and we just understood that this is a market that is time for disruption. And it's just part of our overall data security because a lot of the most critical data in the world resides within databases. We are very excited about the opportunity. This is very robust infrastructure. The way that we, this is really state-of-the-art cloud architecture that we are working in, can take a massive amount of growth. And we want to make sure that everything that is related to data, Varonis Systems will solve for you. Or for data security. And the database is part of it, and I definitely feel that we can go to new customers, but also we can benefit from big replacement cycles of the incumbents. So we are very bullish about the opportunity, and we believe we can execute very well against the potential of this opportunity."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Our next question is from Junaid Siddiqui with Truist Securities."
+  },
+  {
+    "speaker": "Junaid Siddiqui",
+    "role": "",
+    "text": "Great. Thank you for taking my question. Just wanted to ask about your identity protection suite that you launched last month. You know, we're seeing more and more convergence between data and identity security. Could you just talk a bit about, you know, some of the differentiating aspects, what this does compared to what some of the other identity vendors are able to offer their customers?"
+  },
+  {
+    "speaker": "Yaki Faitelson",
+    "role": "",
+    "text": "Yeah. It's not a new model. It's already built into our platform. It's very important to understand that Varonis Systems is not managing identity access. We understand identity from a threat perspective. So what are you doing? We identify, you know, who you are, what is your configuration, how you behave, and if you're doing anything that is abnormal and enrich the identity with a lot of data streams. As we said before, attackers are not breaking in; they log in, and the beginning is the identity. Once the identity is compromised, there is no perimeter, and it's a sophisticated data security platform like Varonis Systems to protect your data from."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Our next question is from Fatima Boolani with Citi."
+  },
+  {
+    "speaker": "Mark Zhang",
+    "role": "",
+    "text": "Hey, good afternoon, guys. Thanks for taking our questions. This is Mark Zhang for Fatima. Thanks for squeezing us in. Maybe just to dig a little bit more into the comment of, you know, SaaS continues to create options to sell to additional customers. Within this cohort, should we think about this as, you know, selling more into new industries or end markets that, you know, SaaS has allowed you to enter or your ability with SaaS to capture new budgets within IT environments? And, relatedly, are these, you know, greenfield opportunities, or are you displacing incumbents? Thanks."
+  },
+  {
+    "speaker": "Guy Melamed",
+    "role": "",
+    "text": "So we're definitely seeing SaaS open up additional opportunities. It's, in a way, increasing our TAM, increasing our ability to offer protection to customers that probably wouldn't have considered us if we didn't have the SaaS offering. And I can tell you that when we look at different verticals, different sizes of companies, we have absolutely seen our TAM increase three times from where it was pre the additional data, the cloud protection that we have introduced recently. So in analyzing our TAM and analyzing the opportunity, I can tell you that it's additional opportunity. And in a way, there are also opportunities to replace existing offerings. But for the most part, it's opening up new avenues, new verticals, and new customers that wouldn't consider us otherwise."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Thank you. There are no further questions at this time. I'd like to hand the floor back over to Tim Perz."
+  },
+  {
+    "speaker": "Tim Perz",
+    "role": "",
+    "text": "Thanks for the interest in Varonis Systems. We look forward to meeting everybody at conferences this quarter."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Goodbye. This concludes today's conference. You may disconnect your lines at this time. Thank you for your participation."
+  }
+]

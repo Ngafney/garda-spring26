@@ -1,0 +1,312 @@
+Operator
+Good day and welcome to the Upstart third-quarter 2024 earnings conference call. Today's conference is being recorded. At this time, I would like to turn the conference over to Alice Berry. Please go ahead.
+Alice Berry
+--
+Senior Director, Treasury
+Good afternoon and thank you for joining us on today's conference call to discuss Upstart's third-quarter 2024 financial results. With us on today's call are Dave Girouard, Upstart's chief executive officer; and Sanjay Datta, our chief financial officer. Before we begin, I want to remind you that shortly after the market closed today, Upstart issued a press release announcing its third-quarter 2024 financial results and published an Investor Relations presentation. Both are available on our Investor Relations website, ir.upstart.com.
+During the call, we will make forward-looking statements, such as guidance for the fourth quarter of 2024 relating to our business and our plans to expand our platform in the future. These statements are based on our current expectations and information available as of today and are subject to a variety of risks, uncertainties, and assumptions. Actual results may differ materially as a result of various risk factors that have been described in our filings with the SEC. As a result, we caution you against placing undue reliance on these forward-looking statements.
+We assume no obligation to update any forward-looking statements as a result of new information or future events, except as required by law. In addition, during today's call, unless otherwise stated, references to our results are provided as non-GAAP financial measures and are reconciled to our GAAP results which can be found in the earnings release and supplemental tables. To ensure that we can address as many analyst questions as possible during the call, we request that you limit yourself to one initial question and one follow-up. On November 22nd, Upstart will be participating at the Wedbush Disruptive Financial Virtual Conference.
+Now, we'd like to turn it over to Dave Girouard, CEO of Upstart.
+Dave Girouard
+--
+Chief Executive Officer
+Good afternoon, everyone. I'm Dave Girouard, co-founder and CEO of Upstart. Thanks for joining us on our earnings call, covering our third-quarter 2024 results. We know there's a lot going on this week, and we appreciate you making the time to be with us.
+I'm happy to report that we continue to strengthen Upstart's position as the FinTech leader in artificial intelligence. With our Q3 results, it's clear that our team's efforts are driving improved financial performance today, as well as a stronger foundation for the quarters and years to come. With 43% sequential growth in lending volume and a return to positive adjusted EBITDA, sooner than expected; we're pleased that Upstart's comeback story continues to play out as we anticipated. When I look across Upstart I see improvements in so many areas that are important to our future.
+Our core product is growing quickly, has exceptional economics, and is delivering increasingly competitive rates across the credit spectrum. Our newer products are gaining traction, with both our auto and home lending products expanding nicely quarter to quarter, and our funding supply has never been more durable with more committed capital than ever, powered by truly innovative partnership structures. Overall, credit performance continues to strengthen and gives us confidence that we're well-calibrated to the macro. And finally, our velocity at delivering AI wins has never been better.
+Consistent with last quarter, these improvements weren't primarily driven by improvements to the macro economy. While the 50 basis point reduction in the Fed rate provided a modest boost of platform volume at the end of September, rates overall continue to be quite elevated in the Upstart macro index, while stable, continues to be well above the historical average. This is all to say that we believe any substantial macroeconomic wins remain in our future. Today, I'd like to share some details about the third quarter and the progress that we made.
+In our core personal loan product, we continue to innovate on our ability to rapidly launch increasingly sophisticated models. Model 18, which I described in some depth last quarter, drove large conversion improvements in Q3, which translated to much of the growth we're reporting today. We also continue to solve ML infrastructure and scaling challenges related to training frequency, process automation, and inference speed. We've set aggressive goals regarding data freshness for our machine learning team, which is critical to proper calibration in a volatile macro environment.
+We're also working hard to reduce model latency, even in the face of deploying more technically sophisticated models. In Q3 alone, we reduced model inference latency by 13%. I believe that our model training and deployment represent the state-of-the-art in the new street app for the most part has yet to discover the power of predictive AI. Q3 was Upstart's largest quarter on personal loan origination volume in two years, despite the significantly elevated rates I mentioned earlier.
+Our goal is to offer the best rates and best process to all Americans, and we're making significant strides in this direction. This means not just having the best models and highest levels of automation, but feeding them with the most efficient fuel, the capital, so that the end product, the loan, is consistently the best available. While this is a goal we can never 100% achieve, a constant, urgent and determined effort to offer the best rate and the best process to everybody will make Upstart a formidable brand, and a sustainable leader in the industry. Our T-Prime program, which we announced just a couple of weeks ago, takes a giant leap toward this goal by expanding our reach to the super prying end of the credit spectrum.
+By working closely with our lending partners, we're creating offers of credit that shine in comparison to anything in the market, and bring us closer to our brand that can resonate with all Americans. Originations of Upstart auto loans increased 46% sequentially, to $26.5 million. On the retail side, we signed our 11th certified digital retailing OEM agreement in October. This agreement increases Upstart's franchise dealer market opportunity by 14%.
+In October, we also began the rollout of a complete redesign of Upstart's in-store software product that improves usability and information access as we continue to modernize the technology stack used by dealerships across the country. On the refinance side, we recently upgraded the loan application experience, reducing the average time to fund from 19 days to 9. Car owners who refinance with Upstart now save an average of $800 per year, and we're optimistic that we can increase the amount saved by our borrowers in the months ahead. Our home equity business continues to scale like you'd expect from a fast growing start-up, with originations more than doubling on a sequential basis.
+And I'm also happy to report that with more than 600 HELOC's originated to date, we still have zero defaults. Growth in the HELOC product was driven predominantly by conversion rate improvements, a common theme if you followed Upstart for long, better targeting and higher qualification rates, combined with a 50% increase in close rates of those offered loans led to be strong results. We exited Q3 with an instant approval rate for HELOC applicants of 49%, up from 42% in Q2. This means we're able to instantly verify applicants income and identity without the need for tedious document uploads.
+We're now live in 34 states in Washington DC, covering 55% of the U.S. population. We expect to expand to more states with our HELOC product this quarter. We continue to invest heavily in servicing and collections, and as I've said before, we're particularly focused on leveraging machine learning to customize the borrower experience and improve repayment rates; and this effort is beginning to pay off.
+I'm increasingly confident that loan servicing and collections will become another area where we have unique and sizable competitive advantage overtime. In Q3, we launched multiple personalization efforts, including optimizing the time of day to call and the time of day to send emails. We don't have concrete results for these initiatives yet, but they're part of our broader push to use machine learning and data to create a materially differentiated loan servicing experience. We also expanded support coverage to include Sundays without adding headcount to the team.
+And finally, we began exploring the use of large language models to reduce our spend even further. Our work to improve operational efficiency, combined with machine learning, means we believe we can continue to improve roll rates, even while reducing the cost of servicing each loan. Last quarter, we continue to see strong loan performance with roll rates from one day delinquent to charge-off, down 13% year-over-year. Even more compelling is that 30-day delinquency rates have trended down sequentially through Q3, despite the fact that the third quarter has traditionally been a seasonally worse quarter for loan servicing.
+We're confident that there are many more wins in this part of our business in the coming quarters. On the funding supply of our business, we continue to strengthen our position quarter-to-quarter. A few weeks back, we announced a partnership with Blue Owl whereby their Atalaya affiliate will purchase up to $2 billion in loans from the Upstart platform over 18 months. Similar to last quarter, I'm happy to report that in Q3 well over half of our loan funding was in the form of longer-term committed partnerships.
+Today, I want to call the incredible work done by our capital markets team who have risen to the challenge of developing important and innovative partnerships with several of the market leaders in private credit. Innovation on the funding side of our business is a trend I expect to continue throughout 2025. Banks and credit unions continue to increase their funding on the Upstart platform, as their liquidity improves, and they ramp up their lending. This year we signed 24 new lenders, which is already more new lenders and new capital than was added in all of 2023.
+In addition, more of our existing bank and credit union partners are expanding their lending programs with us, bringing more low cost capital with more attractive rates to Upstart borrowers. The T-Prime program I mentioned earlier is one important way they're doing this. I'm also pleased that loan funding has kept pace nicely with our regrowth of originations. The volume of loans on Upstart's balance sheet continues to trend down, even while loan originations have accelerated.
+We're also in a stronger cash position as a result, keeping supply and demand in balance while we regrow our core business will continue to be a challenge, but we're in a strong position to manage this important dynamic. Last quarter, I told you that Upstart was turning a corner. Now we can say that we're clearly gaining momentum, even without a significant boost from the macro economy, we're in growth mode, and our credit is performing well. Our core business is expanding again, and our newer businesses are making fast progress.
+We're hopeful that we'll see macroeconomic wins in the quarters to come, but we're not waiting around for them. Upstart's mission is simply to improve access to credit, and our strategies to accomplish this goal is to provide the best rates and best process to everybody. This isn't AI for AI's sake; it's because more than a decade ago we recognized that it's the right tool to accomplish this ambitious goal. We believe that success in this regard will result in a generational company with immeasurable impact on American families and the U.S.
+economy. We're making rapid progress against this goal, and as a brilliant leader in our industry once said, "It's day one here at Upstart". Thank you. And now, I'd like to turn it over to Sanjay, our chief financial officer, to walk through our Q3 2024 financial results and guidance.
+Sanjay?
+Sanjay Datta
+--
+Chief Financial Officer
+Thanks, Dave, and thanks to all of you who are joining us today on what I'm sure has been a distracting week for everyone here in the U.S. The macro environment continues to be an influential factor in our business, though with respect to consumer credit, it has, in our view, remained relatively stable since our last report a quarter ago. As anticipated, this has allowed our risk models the freedom to continue improving borrower selection and driving conversion gains. Our belief is that inflation is largely behind us, a remnant trace from an historically large increase in the money supply that occurred between 2020 and 2021.
+The enduring strength of our labor market also continues to astonish, and in our view, the U.S. economy now suffers from a structural shortage of workers, making the odds of significant near-term unemployment, in our estimation, remote in any scenario short of an economic meltdown. Consumers in the U.S. have continued their remarkable spending spree, perhaps even a little too remarkably for our taste, but Americans did enjoy a surge of disposable income entering 2024 that provided some support for the ongoing spend levels, as well as some welcome breathing room in savings rates.
+Consequently, consumer defaults on unsecured credit have stabilized over the course of the year, easing down from their peak to a lower, but still elevated level of stress, as reflected in our Upstart macro index. Taken as a whole, the macro currents around us have become much less choppy and in their current state, no longer appear to represent a direct headwind to our business. With all of this as context, here are some financial highlights from Q3 of 2024. Revenue from fees was $168 million in Q3, up 28% sequentially from the prior quarter, and 8% ahead of guidance, as various model accuracy enhancements continue to produce improved conversion.
+Net interest income was negative $5 million, less than half of the net interest income loss we experienced in the same quarter a year ago. Taken together, net revenue for Q3 came in at $162 million, $12 million above our guidance, and up 20% year-on-year. The volume of loan transactions across our platform in Q3 was approximately 188,000 loans, up 64% from the prior year, and up 31% sequentially, and representing over 118,000 new borrowers. Average loan size of $8,400 was up from $7,700 in the prior quarter, driven higher by the model wins which allowed more borrowers to qualify for full personal loans at the expense of the smaller relief loans that they otherwise would have been presented with.
+Our contribution margin, a non-GAAP metric, which we define as revenue from fees minus variable costs per borrower, acquisition, verification and servicing as a percentage of revenue from fees came in at 61% in Q3, up 3 percentage points sequentially and 4 percentage points above our guidance for the quarter. Our margins benefited from higher conversion rates on personal loans, as well as improved automation and efficiency in the borrower onboarding process. Operating expenses were $207 million in Q3, up 13% sequentially from Q2. Expenses that are considered variable relating to borrower acquisition, verification and servicing, were up 20% sequentially, less than the growth of the corresponding fee revenue base.
+Fixed expenses were up 12% as the improved trajectory of the business triggered some catch-up accruals for expenses that were not being incurred earlier in the year at our lower volumes, some of which will be temporary in nature. We continue to pursue tight expense management as a core principle, and have implemented some further streamlining of operational headcount since the end of the quarter. Altogether, Q3 GAAP net loss was $7 million, significantly ahead of guidance, and due in large part to gains made on the refinancing of some of our outstanding convertible debt. Adjusted EBITDA was positive $1 million, also comfortably ahead of guidance, and accomplishing our goal of breaking through the positive adjusted EBITDA one quarter ahead of schedule.
+Adjusted earnings per share was negative $0.06 based on a diluted weighted average share count of $90.1 million. We ended the third quarter with loans on our balance sheet of $537 million before the consolidation of securitized loans, down from $686 million in the prior quarter, continuing the progress we've made over the past year in reducing the size of the balance sheet and establishing strong relationships with a handful of strategic capital partners. Of that loan balance, loans made for the purposes of R&D, principally auto loans, stood at $399 million. In addition to loans held directly, we continue to consolidate $119 million of loans from an ABS transaction completed in 2023 from which we retained a total net equity exposure of $18 million.
+We ended the quarter with $445 million of unrestricted cash on the balance sheet, up almost $70 million from the prior quarter. In Q3, we also completed the refinancing of roughly half of our outstanding convertible debt with a new issuance that pushes the maturities on this tranche out to 2029. On the funding side of our platform, we see encouraging signs that the markets are becoming increasingly constructive. Liquidity in the banking and credit union sectors continues to improve, and increasing numbers of lenders are dropping their required rates of return on our platform.
+On the institutional side, the large amounts of money that have been raised under the banner of private credit, initially earmarked mainly for corporate lending, are now increasingly finding their way over to consumer assets. In our return to the ABS markets this past month, we saw high levels of over subscription and significant tightening of spreads for each class of bonds. These are the signs that the capital markets are returning to their core function, and once again embracing risk in the pursuit of yield. As we look ahead to Q4, we continue to presume a roughly stable macro environment with minimal change to credit trends in either direction.
+We expect the September 50 basis point rate cut from the Fed to work it's way into our marketplace pricing over the course of this quarter, providing some modest lift to volumes. Beyond that, much of the growth we are anticipating this quarter will be driven by continuing improvements to our models and marketing campaigns, which we expect will generate higher application volumes and borrower approval rates. Expanded availability of funding is not perceived to be a driver of growth in this quarter, but we are assuming that it will also not constrain it. On the expense side, we will continue to pursue optimized margins and frugal fixed expense management.
+With this as context, our guidance for Q4 is total revenues of approximately $180 million, consisting of revenue from fees of $185 million, and net interest income of approximately negative $5 million, contribution margin of approximately 59%, net income of approximately negative $35 million, adjusted net income of approximately negative $5 million, adjusted EBITDA of approximately positive $5 million, and a diluted weighted average share count of approximately 91.7 million shares. Thanks to all once again for joining us on this call. And now, Dave and I will be happy to open up the lines for any questions. Operator?
+Questions & Answers:
+Operator
+[Operator instructions] Our first question is coming from the line of Peter Christensen with Citi.
+Peter Christiansen
+--
+Analyst
+Good evening. Thanks for the question here. Dave, Sanjay, I'm just curious if you could talk about underlying use cases on the personal loan side, if you've seen any changes there, there's this notion that the debt consolidation wave could help you on the volume side, quite a bit, certainly on the demand side. Just curious if you're seeing any mixed changes in use cases for personal loans? Thank you.
+Dave Girouard
+--
+Chief Executive Officer
+Pete, this is Dave. I don't think there's any radical change. Personal loans have always been a fairly generic tool that consumers can use them in a lot of different ways; paying for weddings, paying off debt, paying for a large purchase, etc. And I think that utility is -- it continues to be there, but I don't think we've observed any dramatic change in the use cases.
+Peter Christiansen
+--
+Analyst
+Appreciate that. Thank you.
+Operator
+Our next question is coming from Ramsey El-Assal with Barclays.
+John Coffey
+--
+Analyst
+Hi. Great. Thank you very much. This is John Coffey on the call for Ramsey.
+I just had two questions for you. I think Sanjay, in the past couple of earnings calls, you spoke quite a bit about some of the slower recovery in your Prime customers. So I was wondering if you could tell me what that recovery looks like again, your prime base. Are we close to the middle, the beginning or the end? And then, I guess my second question is just on the trajectory of EBITDA.
+I know we have a positive number this quarter where you're expecting another one next quarter. Should that be a pretty smooth runway in future years, just generally speaking, or are there any one-offs we should keep in mind?
+Sanjay Datta
+--
+Chief Financial Officer
+On the second question, with respect to EBITDA; as you've seen, we've broke through the breakeven slash positive EBITDA this quarter, we're guiding up next quarter. And -- as long as we are successful in continuing to improve our models, improve conversion and grow, we would expect that EBITDA would follow suit. And sorry, John, can you remind me of your first question?
+John Coffey
+--
+Analyst
+Yes. The status of the Prime customer. I know you said they were sort of later to weekend, but they're also coming back. But you said some of that -- that return of the Prime customer, I suppose, subprime was a little delayed.
+I think you spoke about it quite a bit, I think the last call or two.
+Sanjay Datta
+--
+Chief Financial Officer
+Yes. Thanks for refreshing. On the -- so the sort of -- the trend of consumer repayments and defaults and the various segments within that, we did call out the fact that there was a bit of a phasing difference between lower prime and higher prime consumers. In that the lower prime consumers were impacted sooner than the primer consumers, maybe back in late 2021.
+And by the time they had stabilized and started improving again, even as of a quarter or two ago, the prime borrowers still had not quite stabilized. I think we see that all sort of reconverging to a place of stability across the spectrum right now. And so, if you take our macro index as a high level indicator of where -- where the aggregate numbers are on consumer repayments, we don't perceive there to be any real remaining segment differences. And that's why you may have heard in another announcement, we sort of announced that we're leaning in more confidently into the prime segment with that -- with the T-Prime program.
+John Coffey
+--
+Analyst
+Great. Thank you very much.
+Sanjay Datta
+--
+Chief Financial Officer
+Thank you, John.
+Operator
+Our next question is coming from Arvind Ramnani with Piper Sandler.
+Arvind Ramnani
+--
+Analyst
+Hi. Thanks for taking my question. I just kind of -- Dave, I just want to go back to some of the comments you made on the -- kind of the opening remarks. Like, you know, some of your performance you said, or a lot of this performance is, kind of driven by inherent improvements in your own kind of model and not as much with kind of these lower interest rate cuts.
+I'd love to see you can kind of expand on that a little bit more and provide some metrics. And also, if you can kind of give us an idea of like, you know, how these lower interest rate rates will sort of add to some of the tailwinds that you're seeing?
+Dave Girouard
+--
+Chief Executive Officer
+Sure, Arvind. We got a little bit of help from interest rates, let's say, you know, the Fed rates changed, and maybe, a modest amount of support from that in September; so not all that meaningful over the course of the quarter. Going forward, we certainly hope we'll get more boost. But really the growth in the third quarter was really due to model upgrades that -- we're upgrading our AI models constantly, but sometimes we get just small, modest wins, and other times we get very large wins.
+And Model 18, which I first mentioned in the call three months ago, was probably one of the bigger launches and upgrades to the system than we've had in quite some time. And what that really means is much more increased separation of risk, and that very commonly leads to higher conversion. You can think of it as basically, it's identifying riskier people and eliminating them from the borrower pool and the net-net, as you can lower the rates and approve more other people. And also, the level of automation is at our all time high; over 90% of the loans are fully automated.
+Both of those contribute to growth and to just getting more people through the funnel which is very fundamental to those numbers that we put up there.
+Arvind Ramnani
+--
+Analyst
+Terrific. And then -- you know, I think that if I heard you right, you said, roughly kind of half of your loan volume now is through committed capital. And if that's the case, as we look for the next couple of years, we get into like a more like normalized rate environment. When you think of committed capital versus like opportunistic capital, how do you think that thing will balance? I know kind of -- you know, before we went into this, like, tough environment, you almost did not have, like, a lot of committed capital, but now you're at about like half of that.
+How do you think that will trend over the next couple of years?
+Dave Girouard
+--
+Chief Executive Officer
+Sure, Arvind. Well, we'll say this, we certainly love having a significant portion of the capital being committed today, and it may even be more than we would like, historically, to win back of a couple of years. The funding on the platform was entirely at will, month to month, by design. And then, as -- you know, we decided a couple years ago we wanted to start to have much more committed capital.
+Think of it more like a supply chain of capital than a little less like just a pure marketplace. And that's really helped, and that's what's really supplying a lot of the fuel for growth today, is that well over half of it is committed capital. Having said that, I think there is a place for kind of a spot mark -- spot market, if you will, where capital can come and go. There are -- there's capital that will come in and will ultimately take loans to securitization when the ABS markets are functioning.
+So I don't think we ever want 100% committed capital because there's this kind of market creation, it happens with at will capital as well. So a healthy balance will be good, but certainly, we like today, having a lot of committed capital, a lot of long-term partners that we can create a lot of value for and they can create value for us as well.
+Arvind Ramnani
+--
+Analyst
+Terrific, that's really helpful. Thank you very much. I'll hop back in the queue.
+Operator
+Our next question is coming from James Faucette with Morgan Stanley.
+Unknown speaker
+--
+Morgan Stanley -- Analyst
+Hi, everyone. It's Michael for James. Thanks for taking our question. I just wanted to ask on the small-dollar loans, obviously reaching breakeven economics here.
+Like, how should we be thinking about incremental variable cost reduction there? And sort of the impact on approval rates broadly?
+Dave Girouard
+--
+Chief Executive Officer
+Sure, Michael. This is Dave. The small-dollar product essentially, is really kind of a way to get somebody into the system who wouldn't be approved for a larger loan. Generally speaking, and it is generating positive economics, it's actually not a drain in U.S.
+whatsoever. They're very short-term loans, they turn over. Capital turns over super quickly, so I don't think we see that as any kind of drain on the system. They are, you know, as I said positive economics; it's really expanding the boundary of who we can improve.
+A lot of those small dollar borrowers will come back later and get personal loans or maybe refinance an auto loan, etc. So for us, it's really helpful. It's also helping train our AI models on a lot of borrowers that it would not have otherwise seen. So it kind of keeps pushing the boundaries of what we can improve.
+I don't know, Sanjay, if you want to add anything to that?
+Sanjay Datta
+--
+Chief Financial Officer
+No, I think that's -- that's a pretty good description.
+Unknown speaker
+--
+Morgan Stanley -- Analyst
+OK, great. And maybe just one sort of question on impact of a change in administration broadly. I know it's obviously tough to prognosticate about direction of the overall unemployment rate. But if we are in this, this world in which unemployment rate is lower, credit is generally better, like -- how are you thinking about, sort of like, run rate, origination trajectory that we should be cognizant over for the next call it 12 to 18 months?
+Dave Girouard
+--
+Chief Executive Officer
+Well, with respect to the administration, I mean, I think the market, as you can see in the last day or so, kind of likes a business friendly Republican administration, historically. So that's maybe not a surprise. But having said that, our business has grown up through four different administrations and had very engaged relationships with regulators under each of them, so we don't really see which parties in power in DC as a central factor in our business. So very happy, and we've made a ton of progress working with regulators, particularly around the use of AI and fairness and lending and those kind of issues.
+So we feel very good about that. Generally speaking, our growth as a company has almost always come internally, not externally; meaning improvements in the models, and getting more and more funding -- improving models being able to prove more people, these new products that are coming out appealing to a different set of people, the T-Prime program is now -- has more competitive offers for much more prime borrowers. So all these are the kind of things that we just keep -- I think we can grow on. And certainly, as the consumer risk drops, this -- the Upstart macro index, as that goes down, that is certainly a tailwind to us, as is fed rates, the benchmark rates going down.
+So those are all good things. But as I kind of said in the remarks, we aren't waiting around for fed rates to drop or for UMI itself to drop. We really believe we can drive consistent growth really through just the kind of improvements we make through our models, quarter-in and quarter-out.
+Unknown speaker
+--
+Morgan Stanley -- Analyst
+That's great color. Appreciate it. Thank you.
+Operator
+Our next question is coming from Rob Wildhack with Autonomous Research.
+Rob Wildhack
+--
+Analyst
+Hi, guys. I wanted to ask about T-Prime and your expansion into super prime. Can you just fill us in on how you get paid in that business; is it any different? And then, how do the take rates and contribution margins compare to the core business?
+Dave Girouard
+--
+Chief Executive Officer
+Sure, Rob. That's a good question. We -- essentially, we don't like do any loans that there aren't positive unit economics on, so we aren't we would never do this in a way that we would intentionally lose money on the loan, so they are positive. But certainly across the spectrum, the more prime you are, the more you're at that end of the spectrum, the thinner margins are, because you have just a more heavily competed consumer.
+And what we were really able to do with our lending partners is find something that works for them in terms of very -- relatively low loss rate product, which is very good for our credit union and bank partners. It has a nice yield, and we make less on it though, we have a very positive contribution margin. If you look at our business today, contribution margins are super high compared to where they were historically, in the like, in the range of 60% whereas, when in the middle of 2021, they were in the mid-40s, I believe. So we expect our contribution margins to come back down to earth as our volumes expand.
+And we don't think T-Prime is going to upset that in any dramatic way. But this is essentially also important to say these are, this is sort of a part of the market we have just not participated in historically. So regardless of the percent contribution margin, these are contribution dollars that we would not otherwise have, and that's how we would think about it.
+Rob Wildhack
+--
+Analyst
+OK. Thanks. And then, somewhat relatedly, just wanted to get your thoughts on the broader competitive landscape. You're going into super prime with T-Prime, you have someone like SoFi, who's doing their own loan platform business, that seems to be targeted more toward your main demographic.
+What do you guys think about all of that? How do you -- how intense do you feel the competition is today? And then, how do you manage around that competition to make sure you're protecting or protecting your targeted cash flows going forward?
+Dave Girouard
+--
+Chief Executive Officer
+Yes. I mean, we've always operated in a very competitive environment. In some sense, from a consumer perspective, alone is alone. And for us, having proprietary underwriting that we think is creating separation has always been the center of our thesis.
+We can improve more people at lower rates, we can avoid the people you don't want to. And increasingly, with what we're talking about with T-Prime is we can compete across the credit spectrum. So certainly there'll always be a lot of competition, but we like our model. It can be -- you know, a loan can be originated and held by a credit union or a bank at a very modest yield and a very low risk.
+We also have relationships with the private credit market, very successful in ABS. So there's just -- I think a platform that can move really quickly. And I think controlling all parts of this from the data that's collected, that the model is trained on, servicing these loans, etc., means it's a very healthy approach we have. A lot of competition has very different models out there, whether they be banks or other types of fintechs, but we like our play in it; but it's a vast market, and there's room for multiple players, for sure.
+Rob Wildhack
+--
+Analyst
+Very helpful. Thank you.
+Operator
+Our next question is coming from Kyle Peterson with Needham.
+Kyle Peterson
+--
+Analyst
+Hey. Good afternoon, guys. Thanks for taking the questions. I'm going to start off on the rate cut commentary.
+You guys mentioned in your prepared remarks that the September cut is expected to work its way through into the fourth quarter. If there's further easing and we had to cut today, should we think about these as being potential tailwinds, like a one- to two-quarter lag or is there another way to kind of incorporate that into our own assumptions?
+Sanjay Datta
+--
+Chief Financial Officer
+It's Sanjay, I'll take that one. Yes, the -- I think that's roughly right. A rate cut by the Fed first requires warehouses and other financing mechanisms to adjust. And then, you know, thereafter, we'll begin to sort of reflect that in our core pricing.
+And so, I think a lag of one to three months is probably reasonable.
+Kyle Peterson
+--
+Analyst
+OK. That's helpful. And then maybe switching gears. I know you guys mentioned, the average loan size was a little bigger, and part of that stood a model improvements.
+Maybe any thoughts about -- does that impact some of the progress, were initiatives you guys had been making on the small-dollar product or does that now get shifted to a different type of consumer, if some of those guys that were taking smaller loans can now qualify for longer ones? Just how that fits into the near term growth algorithm would be very helpful.
+Sanjay Datta
+--
+Chief Financial Officer
+Yes. I guess in the grand scheme of things, when either risk is lower or required returns are lower, and more people can qualify for larger loans, it does mean that less of them are taking what they otherwise would have been offered, which is maybe a smaller dollar loan. I think that overall is good for the ecosystem and for the borrowers. It may have -- obviously, impacts on average metrics like loan size, etc.
+But I think overall, we would view that as a positive on the environment.
+Kyle Peterson
+--
+Analyst
+Got it. That's helpful. Thank you.
+Operator
+Our next question is coming from David Scharf with JMP.
+David Scharf
+--
+Analyst
+Hey. Good afternoon. Thanks for taking my questions. Most have been answered, but just two quick follow-ups.
+First on the expense side; Sanjay, I think you said there was some catch-up accruals in the third quarter. And I'm wondering if you could quantify how much of Q3 expense levels might be non-recurring? And how much specifically in the fourth quarter we should think of for marketing?
+Sanjay Datta
+--
+Chief Financial Officer
+Yes. I think they -- let me just -- on the background of cocktail napkin, I think you could think of that as sort of like $5 million-ish in excess expense that maybe was otherwise would have been sort of captured earlier in the year, and was sort of captured as a one-time catch-up this quarter.
+David Scharf
+--
+Analyst
+OK. In a Q4 marketing spend, just given the -- as we think about CAC similar -- is it similar to third-quarter levels?
+Sanjay Datta
+--
+Chief Financial Officer
+Yes. I don't perceive there to be any large changes coming.
+David Scharf
+--
+Analyst
+OK. And then, just lastly, on the funding side, I think earlier in the year -- correct me if I'm wrong. I think the Castlelake arrangement included some form of risk sharing or mandated risk retention. Is that the case with Atalaya recent deals or are these just kind of strict flow arrangements?
+Sanjay Datta
+--
+Chief Financial Officer
+Yes. The Atalaya deal has a version of co-investment where we are investing alongside them.
+David Scharf
+--
+Analyst
+OK. Got it. Great. Thank you.
+Operator
+Our next question is coming from Simon Clinch with Redburn Atlantic.
+Simon Clinch
+--
+Analyst
+Hi, everyone. Hi. Thanks for taking my question. I was wondering, Dave or Sanjay, could you talk a bit about the conversion rates and how we should think about that progressing as Model 18 really starts to drive through? And I asked this because while you delivered some great upside to numbers this quarter, I thought the conversion rate would have been higher to deliver that, and it only went up 100 basis points.
+So just curious as to how to think about that going forward?
+Dave Girouard
+--
+Chief Executive Officer
+Sure. I mean, conversion rate getting higher is a good thing. It's sort of multiple -- you know, sort of contributes directly to growth. It's not the only thing that does -- that contributes to growth, so depending on how acquisition is working, etc.
+But you know, you should expect -- when we make model improvements, when we increase automation, things of that nature, it will drive conversion rate up. But there's always this, like sort of trade-off, where that where suddenly it makes sense to spend more on marketing or some other type of expense, and it can drive it back down. So conversion rate doesn't grow to the sky, if you will, because there will always be an interest from our side. In effect, investing more once it reaches, once conversion rate reaches a certain point.
+Simon Clinch
+--
+Analyst
+Right. And if I go back in time, I remember in the earlier days, I think we used to talk about a conversion rate of 22% being sort of optimal. So has that changed?
+Sanjay Datta
+--
+Chief Financial Officer
+Hey, Simon, this is Sanjay. So maybe one additional consideration that's ignore in this multi-product world than you know, in the in the old days when we were really largely a single product, is that, for example, we were converting some people into small dollar loans, and as the model accuracy improves, more of those are being converted into full personal loans. And so that's not an improvement to conversion, per se, because each one of those is counted as a convert, it's just a much more lucrative conversion. So I think maybe what, what we can try to do over the next couple of quarters is give you guys more insight into product-level conversion, where it'll be more meaningful to the economics.
+Simon Clinch
+--
+Analyst
+That'd be great. Appreciate it. Thank you so much.
+Sanjay Datta
+--
+Chief Financial Officer
+Thank you, Simon.
+Operator
+And it looks like our last question is coming from Giuliano Bologna with Compass Point.
+Giuliano Bologna
+--
+Analyst
+Well, congratulations. Great to see the continued progress securing committed funding arrangements. I guess on that topic, it looks like the co-invest capital, or the assessed value, is up about $100 million linked quarter. I'm curious about -- when you think about go forward basis, is there a rough sense of how fast that should be growing quarter-over-quarter, especially as volumes continue to improve from here? And also, is there an upper bound to where you'd want that to be relative to capital or cash? And, hopefully not -- not too compounded in question.
+But then, I'd be curious roughly where the percentages are, the what kind of car is outstanding relative to that co-invest as of the third quarter?
+Sanjay Datta
+--
+Chief Financial Officer
+Hey, Giuliano, this is Sanjay. I hope you're well. So I think the rough framework, or the rough model you can use to think about this, and we've sort of signaled this in the past, is that in these particular deals, we expect to be somewhere in the mid to high single digits as a co-investment. And I think that's generally true, and it continues to be true now.
+I think in quarters where we sign big deals, such as the Atalaya deal, and very often those deals are accompanied by large back book transactions as well in order to seed the relationship, and sort of seed the utilization of the financing facilities. Then there can be a bigger one-time sort of jump in the committed capital dollars level, and that's true of this quarter as a result of the Blue Owl deal. Those are more a function of deal signings than ongoing forward flow investment. But I think writ large, I think a mid to high single-digit percentage of the flow, which is committed, and as Dave said, that's sort of somewhere over half of our total volume right now is, is the right amount for us to scale on.
+And you know, the total amount that we're comfortable with -- I think, is really a function of the size and scale of our platform. Because obviously, as it gets bigger and as our business is throwing off more money, we're able to put more of it in dollar terms, into these arrangements. But I think that overall, as a percentage of the total volume we're doing, it should be some single-digit percentage.
+Giuliano Bologna
+--
+Analyst
+And from an exposure perspective, should we just think about -- you know, somewhere in the mid to high single digits, you know, is what that $334 million represents? Or is there any kind of like ballpark of what the principal exposure looks like at this point?
+Sanjay Datta
+--
+Chief Financial Officer
+Yes, that $334 million is a mid-single-digit percentage of the total amount of origination dollars that -- that it was used to generate.
+Giuliano Bologna
+--
+Analyst
+Very helpful. And then, I'd be curious is, do you have any sense of where the take rate move this quarter? Will get the data from the 10-Q but I'm curious we think about kind of the growth take race movement by shifting a little bit lower as you add a little more prime. Hopefully, that's a good way of thinking of it. And I'm curious, if you can give a rough sense of -- are some of the higher prime ones coming on with a low single digit take rate or a mid-single does it take rate or a rough sense of where that -- some of the high front loans might be coming on?
+Sanjay Datta
+--
+Chief Financial Officer
+Yes. Sure, Giuliano. I think that the take rate is in roughly the same ballpark as in prior quarters. I think in this particular quarter it may be very slightly down.
+Some of it has to do with the mix between, you know, institutional funding and LP funding. Some of it is maybe a function of this T-Prime program that we're scaling, which, as Dave said, has, you know, smaller but still positive margins. And some of it is, frankly, experimentation. As we scale, we're always trying to find the, you know, the optimum elasticity or the optimum price given elasticity in different segments, since that, you know, allows us to experiment a little bit with some percentage of our traffic.
+And I think the combination of those three create a bit of push and pull with take rates, but net, net, I think they're, they're in the same ballpark, maybe, maybe marginally lower than last quarter.
+Giuliano Bologna
+--
+Analyst
+That's very helpful. I appreciate the time, and I'll jump back in the queue.
+Sanjay Datta
+--
+Chief Financial Officer
+Thanks, Giuliano.
+Operator
+And there are no further questions at this time. I will now turn the conference back to Dave Girouard for any additional or closing remarks.
+Dave Girouard
+--
+Chief Executive Officer
+Just want to say thanks to all for joining us today. We're excited about our position and our velocity toward the future. We think our business is really beginning to hit on all cylinders again. We appreciate you joining us, especially during this super busy week, and we look forward to talking to you again in the new year.
+Thanks.
+Operator
+[Operator signoff]
+Duration: 0 minutes

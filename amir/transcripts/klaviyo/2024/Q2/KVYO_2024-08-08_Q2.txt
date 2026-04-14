@@ -1,0 +1,329 @@
+Operator
+Good afternoon, and welcome to Klaviyo's second quarter fiscal 2024 earnings conference call. Please note that this call is being recorded. [Operator instructions] Thank you. With that, I would like to turn the call over to Andrew Zilli, vice president of investor relations.
+Please go ahead.
+Andrew Zilli
+--
+Vice President, Investor Relations
+Thanks. Good afternoon, and thanks for joining Klaviyo's second quarter 2024 earnings call. Our earnings press release, investor presentation, SEC filings, and a replay of today's call can be found on our IR website at investors.klaviyo.com. With me on the call today are Andrew Bialecki, co-founder and CEO; and Amanda Whalen, CFO.
+As a reminder, our commentary today will include non-GAAP measures. Reconciliations to the most directly comparable GAAP measures can be found in today's earnings press release or earnings release supplemental materials, which can be found on our investor relations website. Additionally, some of our comments today may contain forward-looking statements that are subject to risks, uncertainties, and assumptions which could change. Should any of these risks materialize or should our assumptions prove to be incorrect, actual company results could differ materially from these forward-looking statements.
+A description of these risks, uncertainties and assumptions, and other factors that could affect our financial results are included in our SEC filings, including our most recent report on Form 10-K and subsequent reports on Form 10-Q. Except as required by law, we do not undertake any responsibility to update these forward-looking statements. With that, I'll now turn it over to Andrew.
+Andrew Bialecki
+--
+Co-Founder and Chief Executive Officer
+Thanks, Zilli, and thanks to everyone for joining us today. Klaviyo delivered very strong results in the second quarter with revenue of $222 million, growing 35% year over year. We believe we are a must-have platform for more than 151,000 customers around the world as we help them easily and quickly transform their data into more valuable connections across every touchpoint. Our customers are at the heart of everything we do.
+We work to earn their trust every day, and our model is built for joint success. So as our customers grow, Klaviyo grows. We power smarter digital relationships. Our vertically integrated platform enables customers to use real-time, first-party data to create segments, orchestrate personalized omnichannel campaigns, and measure every interaction.
+Most importantly, we've made it incredibly easy. Marketers no longer have to hire a developer to build and manage an API to connect to a new data source or write code to create a consumer segment. With Klaviyo, complex tasks are made simple, allowing marketers to be more efficient and focus more time on their consumer engagement. For entrepreneurs just starting their businesses to established, internationally known brands, Klaviyo is a revenue engine for our customers.
+Our unified platform across the data and marketing layer; our omnichannel orchestration; our fast, flexible functionality; and our more than 350 integrations drive companies to choose Klaviyo. Then they stay and grow with us, adding products like SMS, CDP, and reviews, and take advantage of our new AI features and advanced analytics across their entire consumer data set. As customers leverage all of these tools, we can show the actual value of our platform is driving with Klaviyo Attributed Value, or KAV, which measures the revenue generated through consumer transactions after engagement with any of our channels. When customers sign in to Klaviyo, KAV is one of the first things they see, so they know how much revenue our platform is driving for them.
+Our ease of use and the direct correlation to revenue is a key reason why companies choose Klaviyo. A great example is our new relationship with a Fortune 1000 global company. They wanted to build out their direct-to-consumer offering, engaging consumers with new content. They were previously using a legacy platform but selected Klaviyo for our ease of use and the ability to integrate their data across all their core marketing channels.
+They also selected our SMS solution, a channel they'll be using for the very first time to execute their omnichannel strategy to fuel additional revenue growth. We also closed a deal with a multibillion-dollar revenue national chain of grocery stores. They were using a homegrown solution to batch and blast communications. Each email had to be created from scratch, and they couldn't do any segmentation.
+The CIO demo-ed Klaviyo and quickly realized the team would see big productivity gains from our out-of-the-box segmentation, data orchestration, and the flexibility of our campaign and flow creation. Companies of all sizes are building omnichannel marketing strategies using email, SMS, and push notification to build personalized consumer relationships. But many use multiple-point solutions leaving them with disjointed super data, an incomplete view of their consumers in a fragmented communication experience. If you've ever receive an email from a brand asking you to review a product that you returned weeks ago, and you've seen this breakdown in action.
+That's why we've integrated all of those channels on one platform, ingesting data from every touch point and giving our customers powerful insights that enable them to execute a differentiated omnichannel strategy. Samsonite, the world's largest travel luggage company chose Klaviyo this quarter because we could bring all of their data into one place. Samsonite was using multiple-point solutions for email and SMS. They had fragmented data and after eight years of their email provider that had only built four automated workflows due to the difficulty of customizing the solution.
+They were impressed with the number of easy-to-build options that Klaviyo provides across our templates, forms, and flows. Samsonite selected Klaviyo over a large legacy provider to unify all seven of their North American brands bringing email and SMS together onto our platform. SMS continues to be a key driver of growth for us as companies look to consolidate SMS capabilities with Klaviyo to better leverage our data platform for multichannel flows and campaigns. This quarter, we expanded our relationship with Arsenal Sports, the sports digital media company with over 65 content franchises and 198 million social followers.
+They have been a Klaviyo email customer for eight years and have seen tremendous success selling their merchandise and expanding their influence in the sports and entertainment communities. As their contract with a point solution SMS provider came to an end, they opted to consolidate with Klaviyo that all of their consumer data will be housed on our platform, allowing them to better segment and orchestrate the data for more personalized communications across channels. We also started a new relationship with Boston Proper, a legacy fashion and apparel brand that historically has relied on selling via catalogs. The company's technology infrastructure was fragmented, hindering its ability to provide a seamless and personalized shopping experience for its consumers.
+They chose to consolidate from multiple point solutions to Klaviyo, centralizing all online and online consumer data into our data platform. Boston Proper is leveraging our email, SMS, and CDP solutions to build stronger relationships and to help grow their top line. The more first-party consumer data you have on one platform, the stronger your campaigns will be. With help from our growing ecosystem, we built out an incredible third-party integration library, so our customers can pull in their data from anywhere.
+These integrations are both inbound and outbound, allowing customers to bring all of their data onto our platform, as well as leverage Klaviyo data on other platforms like Google and Meta. This quarter, we added Toast and Bazaarvoice new inbound integrations and TikTok and Pinterest outbound integrations, which allow customers to connect their Klaviyo profiles to the ad audiences improving return on ad spend. We also announced a new integration framework that significantly reduces time to build on Klaviyo by up to 43%. And -- we plan to open up this framework to third-party developers in the future, enable them to create both inbound and outbound integrations with Klaviyo more efficiently.
+Herschel Supply Company, a global travel lifestyle brand chose Klaviyo in Q2, in part, because of our third-party integration. They were frustrated with their prior point solution due to lack of innovation for integrations and reporting challenges. Following a competitive RFP process across point solutions and legacy providers, they chose Klaviyo because they felt that our massive integration library and functionality and AI features would give them the right edge for growth. Speaking to AI, we continue to enhance our AI suite.
+As I've mentioned previously, we think about AI three ways, productivity, optimization, and creation of new marketing strategies. Marketers need artificial intelligence to be practical, effective, and easy to use, but AI is only as good as the underlying data because our platform can ingest up to the second first-party consumer data Klaviyo can provide more accurate benchmarks and drive actionable insights through our artificial intelligence tools. A few weeks ago, we announced several new features. Flows AI allows marketers to build a flow in seconds with a simple prompt that ultimately drive more revenue.
+Personalized campaigns take AB testing to the next level by determining the winning version of the campaign for each individual subscriber based on their likelihood to engage and review sentiment AI quickly analyzes product reviews at scale, so brands can get insights and take action faster than ever. We also want our AI features to easily provide guidance. So we recently introduced a feature that gives recommended actions and tailored next steps, powered by artificial intelligence as soon as customers log into their Klaviyo homepage. Our customers are increasingly adopting our AI products as we've seen a 61% increase in accounts using one of our generative AI features.
+We're excited by Klaviyo AI's ability to help marketers move beyond what was previously possible, unlocking new growth strategies. As a customer-first organization, we are focused on investing in areas that will help us support our customers and make them more successful across sales, product, and support. We have been investing in our go-to-market efforts over the last few quarters with a focus on growing our sales capacity to address mid-market and international opportunities. Additionally, we continue to invest in training for new sales hires and expanding our partner ecosystem to ensure we have the right agencies, system integrators and technology partners to help our customers succeed.
+Internationally, we are investing to expand our presence and platform offering. During the quarter, we continued to enhance our localization and internationalization with the expansion of our SMS capabilities into Austria, Switzerland, and Spain, as well as adding MMS in Australia. We now provide SMS coverage in 12 countries, more than double the five countries we had coverage for this time last year, and we plan to continue to expand our international footprint going forward. This quarter, we launched our product in French, and we saw a large increase in new customers and usage as a result.
+For example, we signed a new deal with Le Petit Ballon, a French wine subscription company. And we're looking for a new solution to help them generate more revenue through email and to improve overall consumer retention. It chose Klaviyo because of our data platform and plan to start testing SMS in addition to their use in email. We are dedicated to continually improving our platform and product offering for our customers.
+Customers tell us that our product road map is a key differentiator. In Q2, we released a number of new features, including a bulk profile suppression tool, which helps our customers keep their active profiles clean by suppressing profiles and may have stopped engaging with their brands. Companies can now suppress those profiles with one click, so they can market to the right consumer and ensure the deliverability. Today, we also released reputation repair AI, which will determine when an account has poor deliverability, identify and segment out those accounts to create a clean list, and ensure brands are setting to the highest quality profiles, leading to stronger deliverability and email performance.
+Deliverability is hugely important. You may have the best content in the world, but it only works if it gets delivered. We've been investing heavily in our deliverability infrastructure and systems, and I want to thank our team who is focused day and night on ensuring the highest quality deliverability and center reputations. Equally important is compliance, and our team is focused on preventing abuse of these channels, whether malicious or accidental.
+We're able to maintain strong compliance because we have insight into an enormous amount of data that allows us to see what's going on and how to stop it. As a result of these efforts, we've navigated the changes from the email service providers extremely well, and we're seeing the benefits from those efforts as companies turn to Klaviyo after negative experiences with other providers. A great example of this is Olive and June, a leading provider of at-home manicure and pedicure products. They were using a lower cost provider but we're facing severe deliverability issues.
+They came to Klaviyo because of our strong reputation in the market, the power of our platform, our deliverability strength, and our integrations with their other systems that will help them build better relationships with their end consumers. As we continue to add more features and functionality to the platform, we are committed to empowering our customers to get the most out of Klaviyo by taking it easy to find answers about best practices, partners to work with, and a community to engage with. To provide excellent customer support across all segments, we recently launched Klaviyo Power Up, our new centralized customer resource center designs bring all of these assets together in one place. Power Up will help customers easily discover self-service resources and deliver curated content throughout their journey with Klaviyo.
+We will continue to enhance Power Up as part of our dedication to support our customers' long-term success. I'm extremely happy with our second quarter results and the strong first half of the year. We have a tremendous long-term opportunity ahead of us as we help our customers power smarter digital relationships around the world, and we have even bigger plans for the future to unlock use cases beyond marketing for our customers. Before I hand it over to Amanda, I'm very proud to announce that Klaviyo was named an Inc.
+Best Workplace for the sixth year in a row and Newsweek listed us as one of America's greatest workplaces for 2024. We -- thanks to all the Klaviyos for keeping up the energy of our culture. And with that, I'll turn it over to Amanda.
+Amanda Whalen
+--
+Chief Financial Officer
+Thanks, Andrew. Klaviyo delivered another quarter of strong financial performance in Q2 as we continue to drive efficient growth at scale. Revenue grew 35% year over year to $222 million and we reported a 15% non-GAAP operating margin, both exceeding our expectations. We're very pleased to deliver well above the Rule of 40 with this performance.
+We continue to deliver across our four primary growth vectors, adding new customers, expanding with those customers, expanding internationally, and growing in the mid-market. In Q2, we added over 5,000 new customers and now have more than 151,000 customers, up 16% year over year. We saw strength in entrepreneurs and in the high end of the market. However, we are seeing some of the softness in the SMB market that has been widely discussed across the industry over the last several months.
+Despite this, we delivered a strong quarter due to the diversity of our customer base, across customer size and geography. Existing customers continue to expand with us by growing their existing usage and adding new products, as can be seen in our dollar-based net revenue retention rate, or NRR, which was 112% for the quarter, an expected decline due to the lapping of our September 2022 price increase, as well as the customer trends we spoke about earlier this year. We continue hearing from customers about macro pressures, and they remain focused on the value they're driving from their software. As a result, our expectations for a continued decline in NRR in the near term haven't changed.
+It's important to note that despite this, we continue to see strength and stability in our gross retention rates, which confirms our belief that Klaviyo is a must-have platform for our customers. Internationally, we continue to grow our global business. You'll recall that we announced the launch of our French language product in Q2, and we have seen extremely strong trends there as a result. France was our fastest-growing country in new business in the quarter, up more than 65% Q1.
+We also saw strength in the U.K., Ireland, Italy and Germany. In fact, our year-over-year revenue growth in EMEA accelerated to 45% in Q2 from 43% in Q1. We -- in aggregate, our international revenue grew 41% year over year. Finally, the go-to-market initiatives we implemented last year are delivering great results.
+At the end of Q2, we had 2,386 customers generating over $50,000 in ARR, which was up 64% year over year. We're also seeing a healthy trend of landing new customers in this cohort from the start, adding the largest quarterly number in our history, evidence that our strategy is working and of the growing importance of our platform to our customers. Non-GAAP gross profit for the quarter was $175 million, representing a non-GAAP gross margin of 79%, up 140 basis points year over year. This came in slightly better than expected as we continue to absorb mix shift pressure from our growing SMS business through operational efficiencies across our infrastructure and support organizations.
+For the full year, we expect non-GAAP gross margin to be down slightly from last year. Turning to non-GAAP operating expenses. Sales and marketing expense was 32% of revenue for the quarter, up 140 basis points over last year as a result of our investments in sales headcount and marketing programs that we've discussed the last few quarters. R&D expense was 19% of revenue, down 100 basis points year over year, primarily driven by an increase in capitalized software as a result of more development work on customer-facing features that we'll be rolling out.
+Finally, G&A expense was 13% of revenue, down 170 basis points year over year, primarily as the result of the release of some international tax-related reserves. We do expect more of these releases over the next few quarters, which may drive some fluctuations in G&A expenses. For the second quarter, our non-GAAP operating income was $34 million, representing a non-GAAP operating margin of 15%. This was stronger than our guidance as a result of the revenue strength, the items I discussed earlier, as well as headcount coming in a bit lighter than expected for the quarter.
+We generated free cash flow of $37 million during the quarter, down slightly from the prior year due to payroll and other operational expenses, as well as the timing of collections. Moving to guidance. For the third quarter, we expect revenue to be $225 million to $227 million, representing growth of 28% to 29% year over year. We expect non-GAAP operating income to be $21.5 million to $24.5 million, representing non-GAAP operating margin of 10% to 11%.
+The -- this is a bit better than we had suggested last quarter due to a shift in the timing of some investments, as well as the lower opex related to slower-than-anticipated headcount growth in Q2. For the third quarter, we expect fully diluted shares outstanding to be approximately 300 million. For the full year, we are increasing our revenue guidance by $11 million to $910 million to $918 million, representing growth of 30% to 31% year over year. We are also raising our non-GAAP operating income guidance by $6 million to $103 million to $111 million, representing a non-GAAP operating margin of 11% to 12%.
+We continue to make incremental investments across go-to-market and product opportunistically and expect those investments to be spread across Q3 and Q4 as we set Klaviyo up for long-term growth. Finally, for the full year, we expect fully diluted share count to be approximately $301 million. In closing, these strong results are a clear indication that Klaviyo's platform is driving success for our customers. We are excited about the remainder of 2024 and the coming years as we continue to build the foundation for durable and efficient growth going forward.
+And with that, we'll open up the call for Q&A. Operator?
+Questions & Answers:
+Operator
+[Operator instructions] Our first question comes from Brent Bracelin from Piper Sandler. Your line is now open.
+Brent Bracelin
+--
+Analyst
+Thank you. Good afternoon. I guess I wanted to start out here with the durability of growth. Clearly, the macro is pretty challenged out there, it remains challenging for many.
+But looks like growth for you was actually stronger this June quarter than it was a year ago. Growth accelerated a little bit on top line. you're guiding up for the year. Can you just double-click into the demand drivers that's giving you optimism and underpinning the strength here? It is surprising and just love to hear a little bit more around what's driving the optimism in the business and momentum.
+Thanks.
+Amanda Whalen
+--
+Chief Financial Officer
+Yeah. Thanks, Brent. It's Amanda. Appreciate the question, and we're very pleased with the results from the quarter.
+It was a really strong revenue quarter in Q2. As we talked about on the call, we saw strength in the entrepreneur side of the market, driven by efficiency from our marketing investments, as well as some investments we made in product to increase our free-to-paid conversion. We saw strength in the upper end of the market. And we added this quarter, as we said, our highest number of greater than 50,000 ARR customers that we have in our company's history.
+And then we also continue to see strength in SMS. We're expanding our penetration and our usage with customers and we're seeing strong growth internationally. International had a to quarter, growing 41% year over year. So really multiple drivers of the strength in the quarter.
+And I think what it is a testament to is the diversity of our customer base, across customer size, across geography that shows that we can be durable and resilient of multiple operating environments.
+Brent Bracelin
+--
+Analyst
+Helpful color. Thank you.
+Operator
+Our next question comes from Keith Weiss from Morgan Stanley. Your line is now open.
+Keith Weiss
+--
+Analyst
+Excellent. Thank you, guys, for taking the question, and congratulations on a really solid quarter and uneven macro backdrop, if you will. I wanted to focus -- maybe one question on the top line, one question on the bottom line. On the top line, new customer adds were definitely highlighted.
+It picked up a lot from last quarter. What's enabling that? Is it some of the like partner initiatives? Is it the expansion of products into international companies? Can you give us a little bit of color on what's enabling you to sort of pick up that customer adds, even with the weaker SMBs and the weaker backdrop? And then on the -- like the bottom-line side of the equation, really good operating margin performance this quarter, but it does seem like our Q4 numbers are coming down a lot if we take the Q3 guide and the full-year guide. Anything in particular that's going to be pulling down that Q4? Or any like the different timing in investments or a ramp-up in investments that explains that? Thank you.
+Amanda Whalen
+--
+Chief Financial Officer
+Great. Thanks so much, Keith, and I appreciate your kind words. It was a strong quarter for net adds. We added 5,000 net new customers in Q2, and now we've got over 151,000 customers.
+As we talked about last quarter, increasingly, we are shifting our go-to-market resources toward SMB and mid-market. And in the entrepreneur group, we're putting more into product-like growth. And this quarter, we saw the benefit of those efforts. We saw strength in that entrepreneur customer group that was really driven by efficiency from our direct marketing spend, as well as improvements in free-to-paid conversion, coming from our product-led growth efforts.
+We talked a little bit just a minute ago about the strength that we saw at the upper end of the market as well, and that is as a result of the go-to-market investments that we've been making to really drive that strength in those larger customer lands as well. Now I will say on the net adds, keep in mind, that is a number that might move around a bit over time. We're OK with that because our focus is really on adding high-quality customers. We're really pleased this quarter that we added customers like Samsonite, Boston Proper, the Fortune 1000 company Andrew spoke about, and the national grocery retailer, and we're looking forward over time to helping even more customers grow.
+And then regarding your question on investments and the timing of investments and how those may unfold during the year. As we spoke about at the beginning of the year, as we are going through the year and see outperformance in the business, we're going to be reinvesting that back to continue to drive durable growth. We're reinvesting it incrementally across go-to-market and product. And two of the areas that focus for investment for us are mid-market and international.
+Those investments are ongoing. We're continuing to build out the right team, the right infrastructure to capture those markets. And importantly, we're seeing strong returns. As we talked about on the call, international investments are leading to really strong growth in EMEA and APAC.
+As we look toward the back half of the year, we're going to be increasing our marketing efforts in the run-up to Black Friday, Cyber Monday, and we're continuing to invest in our product team to enhance existing features, to launch new features. Some great examples of that this quarter were the new features that we launched AI that we announced recently. So as always, as we make those investments, we're doing it with a really clear eye and a focus on unit economics to make sure that we're getting good returns to continue to drive that efficient growth in the future.
+Keith Weiss
+--
+Analyst
+Outstanding. Super helpful. Thank you, guys.
+Operator
+Our next question comes from Siti Panigrahi from Mizuho. Your line is now open.
+Siti Panigrahi
+--
+Analyst
+Thanks for taking my question, and congratulations on a strong quarter. And just my question about your new products. You guys talked about AI, even some of the integration as well and review some that don't have the direct pricing. How do you monetize that to your base? And then as you're seeing large customers using your product, how does that influence your product strategy? How should we think about the upcoming products in the next few years?
+Andrew Bialecki
+--
+Co-Founder and Chief Executive Officer
+Sure. Happy to answer that. So if you think about the products that we've released, we started out with our core database and email products. We added on SMS and in the last year, we've added both Reviews and CDP, and those are both products that we're monetizing directly.
+And we're seeing good adoption there. Very excited about the progress we're making with both of those. And then on the artificial intelligence, the AI side, one of the things we think about is AI in these three different use cases: productivity, optimization, and expanding your marketing strategy. So for artificial intelligence, the productivity tools we're building, we expect that those will -- we're not monetizing that directly, but those do drive incremental usage.
+So there's an indirect mechanism there. And then for a lot of the stuff we're doing around helping you optimize marketing campaigns, you have the right content, the right timing, tuning to who receives which message, as well as generating net new strategies. What products that customers often buy together, helping you come up with new marketing ideas, those we think are going to be incremental to Klaviyo Attributed Value or the revenue that we help our customers create and while we're not monetizing those today, we do think that there's an opportunity to monetize it over time. And what's great about them is they're not just for productivity.
+They really are -- they're directly revenue driving. So our customers really understand the value of this. So we're working with a lot of customers on building that optionality out. We don't have any timelines right now to monetize those, but we know there's an opportunity.
+And lastly, you talked about product strategy, how -- as we drive more adoption, we have more customers that are multiproduct. How do we think about that? The core of Klaviyo is the data platform that we've built, the single source of truth for everything you need to know about your consumers. We want to help every business take advantage of that and use it so that for every interaction that the consumers have with that business, that's personalized, that they can measure how much customers like it, and then they can use artificial intelligence to optimize it. And we think we can take that well beyond just marketing and channels, but we can take that to other customer services.
+When you think about things like what it means to -- when somebody is trying to get educated or they have a question or so digital properties like people's websites and mobile apps. So I think you'll see from us the use cases, and therefore, the products that can expand often on top of this data platform we've built, there's a lot of those, and I'm very excited about the building we're going to do on that over the coming months and over the coming years.
+Siti Panigrahi
+--
+Analyst
+Thanks for the color.
+Operator
+Our next question comes from DJ Hynes from Canaccord. Your line is now open.
+DJ Hynes
+--
+Canaccord Genuity -- Analyst
+Hey, guys. Congrats on a really nice quarter. So Shopify obviously reported this morning, I'm sure you saw that really strong merchant adds. Interestingly, they said about half of their new merchant adds in Q2 came from outside of core English-speaking markets.
+So two questions there. A, do you see the same demand characteristics in those markets? And then b, how quickly can you guys move to localize the platform for those merchants?
+Andrew Bialecki
+--
+Co-Founder and Chief Executive Officer
+Yeah. I'll start and give a little color on international. Amanda can follow on. So I think we're seeing strong international growth as well.
+So we mentioned earlier this year, in the last few months, we launched our product in French, along with local language marketing, and that's gone very well. And I think that there's -- we can take that playbook that we've run into France and take that to other languages and then other markets. We've had some great wins there like with companies like Le Petit Ballon. And more broadly internationally, I think we're starting to invest in place to look like the documentation, the customer stories.
+Also, we're localizing out some of the digital marketing ad campaigns we're running. So I think you'll see those play out over the coming months.
+Operator
+Our next question comes from Arjun Bhatia from William Blair. Your line is now open.
+Arjun Bhatia
+--
+William Blair and Company -- Analyst
+Perfect. Thank you, and I'll have my congrats on a nice quarter here. Andrew, maybe one for you. Just one of the things that we didn't touch on thus far is your push -- mobile push capabilities.
+And I'm curious how progress is going there. And when you think about some of these upmarket, some of the upmarket momentum that we're seeing, especially with new customers landing in that 50,000 cohort. How much is that the mobile capabilities contributing to it where customers might be buying all of your channels upfront as they look for a platform that they can scale on?
+Andrew Bialecki
+--
+Co-Founder and Chief Executive Officer
+Yes, absolutely. So I think when we -- as we start to reach into the mid-market and the enterprise, I think folks, again, are coming to us primarily for our data platform and then all of the marketing channels in one place, and it's that tight integration. So specifically on mobile, I think we talked about on the last call, we now have several customers that are sending high-volume number of push locations and using other mobile functionality. We obviously have a good chunk of our product team that's working on building out those capabilities, and what we're finding is, similar with email and SMS, folks are interested in how the interplay between those channels, and they want all of them in one place.
+They want great content-creating tools. They want to use the data that Klaviyo provides to help personalize and measure the performance of each of those campaigns. So I think it's early for us. We're finding customers where that was a requirement for them.
+Now we're able to address that. And I expect, over time, the enterprise, there's a mix of folks that either have mobile properties where they need that functionality and then those that don't. I think we're finding that we can now address those. And within retail and e-commerce, there's obviously folks that have not lapped.
+But then even outside of that, that's opening up new use cases for us that we can start to address. So I think over the coming couple of quarters, we're going to make -- we're making more investments there. All this idea of any way you want to communicate with your customers, with your end consumers, you can do that with our products.
+Arjun Bhatia
+--
+William Blair and Company -- Analyst
+All right. Perfect. Thank you.
+Operator
+Our next question comes from Derrick Wood from TD Cowen. Your line is now open.
+Derrick Wood
+--
+Analyst
+Oh, great. Thanks. Congrats on a great quarter. Andrew, there seems to be top that the AI wave is starting to drive more companies to invest in personalization and the marketing and customer engagement space.
+And certainly, that sounds like what you're seeing with -- talking about AI, driving new marketing strategies. But given that you've got this vertically oriented stack with a rich data layer to really help with personalization, how are you seeing -- how would you characterize demand and competitive positioning for Klaviyo today versus a few quarters ago now that there's been a lot more focus on AI-related initiatives?
+Andrew Bialecki
+--
+Co-Founder and Chief Executive Officer
+Yeah. So I'll say two things. I mean, the first is the importance of having -- allowing businesses to take -- use the data asset, the consumer data they have, the things they know about their end consumers and put that to work and have that so tightly coupled with applications where you actually take action on it. So marketing is one.
+That integration between database and system of action is really important. So I think we're actually -- we've got a big like heads up a bit of a lead on that. And then you can start to see now with some of the features that we're building. So we talked about productivity as a use case.
+We've now released email AI and segment AI this past quarter, we launched Flows AI. All of these are tools so that whether you're a small business and entrepreneur just starting out or a large enterprise, you can build more marketing campaigns faster. And actually, those prompts can look into your data set and understand the kind of data you have to automatically create different segmentations or workflows for you. So on the productivity front, we're making a lot of progress.
+We're also able to -- also release personalized campaigns. So if you think about what that future is all about, it's this idea if you have multiple variations of the campaign for some businesses, it could be dozens. Historically, what that meant was you just picked the best variance, the best version for everybody. What we're actually able to do because we have all the data inside of our data platform, we can actually figure out on a consumer level basis for each person, what's the right content for them.
+And there's incremental lift on that. So I think all this is -- the thesis that we've had to help people pull all their data together, that allow them to action it. I think with artificial intelligence and machine learning, we're not only able to help them accelerate actually doing that. And what I'm excited about is our ability to now suggest strategies, more optimization, and folks to allow business to do that more autonomously.
+So we feel really good about where we are, and we are very much full speed ahead on brands to life. Because I think, again, it's not just product for us. This is now driving incremental revenue, and that's even more important for these businesses.
+Amanda Whalen
+--
+Chief Financial Officer
+And that really is building -- it's important for customers of all sizes, and we're absolutely seeing it come through in why customers are coming to us. We had a win this quarter with a provider of spa-inspired hair products, and they were working with a legacy cloud provider. They wanted to be able to have really strong customer engagement, but what they were seeing was poor open rates ineffective segmentation, lack of insights, all of those brought into Klaviyo. And they consolidated their email, their SMS, through CDP, and reviews with us.
+And now we're excited to work together so that they can use our platform and their customer data to really help drive that personalization and revenue growth.
+Derrick Wood
+--
+Analyst
+Awesome. Thank you.
+Operator
+Our next question comes from Terry Tillman from Truist. Your line is now open.
+Terry Tillman
+--
+Analyst
+Yeah. Thanks for taking my question. I guess I should say bonjour. With the ramp you're seeing in the French market -- it's a single question.
+It's got two parts, though. First, I know you all have been evolving and kind of testing and learning with CDP, but what are you seeing after you've done some kind of packaging updates? Is that helping incrementally with adoption? And then the second part of this question is, I heard a lot in your prepared remarks around deliverability as you're getting more of these kind of bigger customers than initially and kind of this world around TCO and maybe with bulk tender changes is deliverability creating kind of a new almost replacement cycle? Thank you.
+Andrew Bialecki
+--
+Co-Founder and Chief Executive Officer
+Thanks, Terry. So first, I'll talk about CDP. So what we found with our customer data platform, our CDP product, there's really two core use cases. The first is storing all that data, creating a system of record, governing it, data hygiene, that's part one.
+And then part two is allowing folks to do analytics on top of it, to figure out which customer segments they should be marketing to. So what we actually started to experiment a little bit with is different ways to think about packing that. Do you put both of those together, do you separate those out? And I'm really excited about both the products we're making on the product side. On the data tooling side, we've done a lot of work to improve both the speed of digesting data, as well as getting it out to other systems.
+We talked about at the top of the call about how outbound connectors are a big part of the integrations to Klaviyo and speeding that up as well. And then on the analytics side, as an example, we launched a new feature within the CDP around product analytics. So we can actually help brands with lots of SKUs, figure out where there's affinities between products, and they can instantly turn that into marketing campaigns that drive incremental revenue. So we're excited about the progress there.
+And then on deliverability, what I'd say is that's been at the core of -- it's been one of the things we focus on since we started. It's obviously what Klaviyo stands for personalization and getting the right person, the right content. As we saw some of the changes roll through email service providers, those haven't had a material impact on us. In fact, we've seen some customers come to Klaviyo, they know the revenue engine, they know how important deliverability is, and they've chosen us because of our dedication to email and SMS level.
+So both our customer teams and our engineering teams have done a great job to ensure that deliverability is working for folks. So I think both the delivery front has become a big differentiator. And on the CDP front, we're very excited about the progress that's there. I think there's -- we're starting to learn a lot about the use cases and potentially think about some packaging changes.
+Operator
+Our next question comes from Raimo Lenschow from Barclays. Your line is now open.
+Raimo Lenschow
+--
+Analyst
+Thank you. Could we -- I tried to go -- I'm trying to go back to the health of the SMB under your comments as well. Question is, if you think about the behavior of an SMB, like clearly, you guys seem to be seen as more strategic for them because if you don't market, you can't sell, it basically means you can't survive. But like how do you see the customers stacking up in terms of like fitting you in and seeing you as something that kind of helps them versus something that is nice to be like we see at other solutions? Just help us understand as well, like how that kind of slightly more uncertain SMB market is playing into your thinking.
+Thank you.
+Andrew Bialecki
+--
+Co-Founder and Chief Executive Officer
+Yeah. I'll add on top with what Amanda said a few minutes ago. So the first is we're a must-have revenue engine for this business. That's what makes us so essential.
+And that's what we love helping our customers to grow their businesses. I think within the SME is a little nuanced, we actually divide SMB into two groupings. The first is entrepreneurs, think about business, they're really just starting out very small teams. And then we also think about like larger SMBs.
+So to speak to each of those two categories, when we talked about some of the softness, as Amanda mentioned, we've seen relatively fewer ads in that larger SMB space. And we think part of that is attributed to slightly longer sales cycles. Now we still find folks are moving to those sales cycles are a little bit longer. And just as a reminder, we measure our sales cycles with those larger SMBs, I mean, it's still in days and weeks, not months.
+Now to the smaller segment there for the folks that are just more starting out, that's where we did see a lot of strength broadly across that customer group for net new logos and new -- folks that are new to Klaviyo. So I think that's -- we take that as a really good sign that when businesses are starting out and they're looking to grow their business, they're still choosing us in defaulting to Klaviyo as a place to store customer data and then message those customers and ultimately grow their business.
+Raimo Lenschow
+--
+Analyst
+OK. Perfect. Thank you.
+Operator
+Our next question comes from Scott Berg from Needham. Your line is now open.
+Scott Berg
+--
+Analyst
+Hi, everyone. Really nice quarter here. I guess one question for me is on your go-to-market investments here kind of mid-year. SMB, as Amanda pointed out, still a little on the softer side at the moment, but you both called out a really good strength upmarket.
+Have you made any tweaks or changes to the investments that you're making across those different segments that might maybe favor some of those areas of strength up market that you're seeing today?
+Andrew Bialecki
+--
+Co-Founder and Chief Executive Officer
+Yeah. So we're very intentional about looking for where there's opportunities where we're seeing market pull and investing behind those. Maybe a little bit of color. On the sales side, we've been increasing capacity in the areas where we're seeing growth.
+Amanda mentioned international, as well as mid-market. And then on the marketing side, we've seen -- like the results we're seeing from some of the marketing programs, digital programs we're running to try to drive growth. And we're also investing in building more awareness for Klaviyo in various markets. We're finding in some patients, folks don't know about either Klaviyo with large or our entire portfolio of products.
+So as Amanda said, we're very intentional about like investing behind things where we see great unit economics, but we do see a number of opportunities to invest.
+Scott Berg
+--
+Analyst
+Excellent. Thanks. Congrats again.
+Operator
+Our next question comes from Rob Oliver from Baird. Your line is now open.
+Robert Oliver
+--
+Analyst
+Great. Thanks. Good afternoon, guys. I guess it's kind of a two-part question about SMS traction.
+Maybe you talked about some of the consolidation wins you guys have seen and I know that it sounds as if you're getting pretty solid traction quickly in some of your rollouts internationally with SMS. Just would love to hear, I know you don't break out on a quarterly basis, what percentage of your customers are on SMS. But would love to get a flavor for how that's progressing broadly for you relative to your expectations? And then I guess, Amanda, a side part of that would be, we haven't seen the impact on gross margins that we might have expected with a commensurate ramp in SMS. I know there's other things driving that, but I just wanted to reconcile those two things.
+Thank you very much.
+Andrew Bialecki
+--
+Co-Founder and Chief Executive Officer
+Yeah. Great. I'll speak to as far as -- Amanda can talk about gross margin. Yes.
+So while we're not disclosing like penetration, we'll continue -- we're seeing good adoption, and we'll share some milestones as we hit those. We are seeing good traction, like you mentioned. I think the international expansion, adding Spain, Austria, Switzerland for SMS, as well as adding multimedia messaging in Australia, we have -- as we think about our international strategy, a big part of it is making sure that SMS is available in those regions as well, and we are seeing good adoption there. A quick example of that is there's a mattress manufacturer who was using our -- started using us for SMS adopted -- or start using us for email, adopted us for SMS and then because of some of the things, not just the international features, but also some of the SMS specific functionality we're building.
+We built a feature on SMS Smart Opt-in that makes it easier to gain consent so that customers and consumers have to do less clicking to subscribe CSMS list, that has dramatically increased our ability to grow their SMS program, and that's a feature that we launched in the last few months that's now available to it. So very excited about the progress we're seeing in SMS. I think there's still a long way to go in terms of penetration.
+Amanda Whalen
+--
+Chief Financial Officer
+Yeah. And to your question on the gross margin front. On gross margin, it did come in slightly better than what we had expected, and that was primarily because we continue to see the benefits of the progress that we're making in infrastructure and support efficiencies. And those are offsetting the continued progress that we're seeing and the growth that we're seeing in the SMS business.
+So one of those infrastructure efficiencies that I would love to highlight is our KMTA, Klaviyo Mail Transfer Agent. We expect to continue to get further leverage in comps over the coming quarters as we transfer more of our mail volume onto our own mail transfer agent. SMS, as Andrew said, continues to grow very well. And so we do expect that as it continues to grow, it's going to become a bigger portion of our business.
+That will create some pressure on our gross margins. We're proud of the fact that we've been able to largely offset that to this point and deliver what we see as some pretty best-in-class gross margins given our product and customer mix.
+Robert Oliver
+--
+Analyst
+Indeed great. Thanks, Amanda. Andrew, thank you.
+Operator
+Our next question comes from Tyler Radke from Citi. Your line is now open.
+Tyler Radke
+--
+Citi -- Analyst
+Thank you for taking the question. A follow-up question just on the SMB side. I wanted to ask it more just as we think about behavioral habits of some of your SMB customers, I'm curious what you observed in the quarter as it relates to utilization rates of email volumes, message volumes, and contract list? Did that -- did that go up or down in relation to the SMB environment? Secondly, as it relates to -- if those SMB customers are seeing weakness in their consumer purchasing, do you find that that translates to higher email and message volumes in order to backfill that demand? If you could just kind of help us understand behaviorally what you're seeing on the SMB side? Thank you.
+Amanda Whalen
+--
+Chief Financial Officer
+Sure, Tyler. Thanks so much for the question. And overall, I would say that what we saw in terms of behavior in the quarter was pretty consistent with what we've spoken about on our prior earnings calls. We continue hearing from customers about macro pressures.
+They remain very focused on the value that they're getting from their software. In general, in terms of the macro and the changes in the behavior, we are not seeing it get materially better. We are also not seeing it get materially worse. And we think that we're continuing to perform strong through this environment because, as Andrew mentioned earlier, we are a must-have for these customers.
+We are a core part of how they drive revenue. We're a revenue engine for them and being a revenue engine means that when they're thinking about their business, and thinking about the pressures that they're facing, they're thinking about how do I efficiently drive that growth and Klaviyo is a really important part of that.
+Andrew Bialecki
+--
+Co-Founder and Chief Executive Officer
+Maybe I'll have one more comment on top of Amanda. The other thing that we watch is the percentage of revenue that comes from Klaviyo. And we've seen a -- talked to a number of customers where that percentage is increasing and so they look it kind of doubled down on meat. We're a revenue engine, and I think folks are looking at, hey, existing customers are great.
+They've already got into some it's a great source of demand when there's more uncertainty.
+Operator
+Thank you. Our next question comes from Nick Altmann from Scotia Bank. Your line is now open.
+Nick Altmann
+--
+Analyst
+Awesome. Thanks, guys. I wanted to ask another question on the international side of the equation, just given the strength there. But you guys added three new countries on the SMS side.
+You spoke to the growth acceleration in EMEA and kind of building off of Rob's question earlier, but can you just talk about how much of an unlock some of these international additions have been on the SMS side? And how much pent-up demand you're seeing from some of these geos as you look to add SMS in new countries? And then, just as a follow-up, just given the outside strength on the international side, how do you think about potentially accelerating those international efforts and investments, just given the strength you're seeing? Thanks.
+Andrew Bialecki
+--
+Co-Founder and Chief Executive Officer
+Yeah. So when we talk about international, we mentioned a couple of things that we're doing, both from a product and a go-to-market side. So we talked about localizing in terms of language. We also talked about localizing some of the marketing and content we're putting in region.
+And as we build up a larger customer base, more partners, that's becoming a bit of a flywheel. In addition to that, it's making sure all of our products are available. So obviously, with SMS, that's very important. And so we're going to continue to invest on both of those fronts, both languages, as well as SMS and channel availability.
+That's why we're also investing thinking about what's app and the role that plays in some markets outside of the Americas. But the other thing I'll say -- the last thing I'll say too is, I think when we think about going to market with partners, we really like to make sure that we're tightly integrated with them and folks that really serve in the national market as well. So for example, Shopify talked about their markets products, that's something that we've built out a really tight integration with. So we work really well together.
+And so we've worked with a lot of other tech platforms, software platforms that are more prevalent in Europe and Asia. That's drive -- that's driving a lot of demand and good product market fit. And in terms of investment, we continue to invest in like in countries and regions where we're seeing good growth I think what we're finding with France and what we have the progress we've been able to run there through digital demand gen and through our go-to-market teams, I think that's going to become a bit of a template for us in how we approach other markets. And so where we're seeing strength there, we're going to invest behind that.
+And I expect a lot of our customers, they'll increasingly -- they may adopt us for email first, but then we'll be able to address them add-on SMS, CDP, and reviews.
+Nick Altmann
+--
+Analyst
+Great. Thank you.
+Operator
+Our next question comes from Jackson Ader from KeyBanc Capital Markets. Your line is now open.
+Kyle Diehl
+--
+KeyBanc Capital Markets -- Analyst
+Great. Thanks. This is Kyle Diehl on for Jackson Ader. Maybe just squaring some of the headcount commentary, I think, Amanda, you might have alluded to some of the increased margin this period just coming from a little bit lower headcount.
+Can you kind of help us think about that in terms of sales capacity and where you guys currently are in terms of your plans for the year? And then also on that same note, how quickly you can ramp some of the new folks given the quickly approaching holiday season here?
+Andrew Bialecki
+--
+Co-Founder and Chief Executive Officer
+Yes, I'll take that. And so on the hiring front, I'll say a couple of things. One, we've always been very intentional since we started now to the business about hiring and making sure that headcount was proportionate to the demand and the products that we want to build. So headcount grew slightly from the end of Q1 to the end of Q2.
+Specifically on the sales side, we think we've got the right amount of capacity, and we're also prepared to scale that as we see more demand. And then to the last comment on the holiday season, one of the great things is we do actually see an uptick in customers that come to us that want to use Klaviyo over the holiday season. But actually, a lot of that growth is coming from our existing customers using more Klaviyo over the holiday season. So in that case, we think we're very well-staffed across all of our customer teams to meet that demand when folks say, want to increase their usage.
+One of our core products, email or SMS, we think we're well staffed to cover that demand.
+Operator
+Our next question comes from Gabriela Borges from Goldman Sachs. Your line is now open.
+Carolyn Valenti
+--
+Goldman Sachs -- Analyst
+Hi. This is Callie Valenti on for Gabriela. Congrats on the quarter. Wanted to ask on the mid-market.
+How much of the momentum that you're seeing do you think is attributable to the broadening of your product set with CDP reviews and any incremental AI functionality? And then also to what extent are you seeing customer lands today that probably would not have closed without these new features? Thank you.
+Andrew Bialecki
+--
+Co-Founder and Chief Executive Officer
+Yeah. Thanks for the question. I think it's a -- it's an issue of both. I think it's a testament to the product that we built, the fact that Klaviyo is a data platform.
+and that we can store all that data and help you put it to work. I think we talked about artificial intelligence and its ability to allow you to do more personalization to better attribute that and then automatically optimize. One area that we talked about was related to SMS availability and mobile is as we have more of these channels all in one place with our CDP and some of its analytic capabilities, I think what we're finding really resonates with larger customers is this idea that all of those features, all those applications all work together. So as we continue to invest in that product road map and build out those capabilities, I think we're finding the best, I think, is an even better fit for larger enterprises.
+Amanda Whalen
+--
+Chief Financial Officer
+One example that we had in the quarter, I think, of some of the questions that you're asking, was it an organic food and home goods company who came to us this quarter. They wanted to consolidate their multiple brands onto one single platform so that they can optimize their strategy and have a unified multichannel reporting. And they chose Klaviyo in part because of our portfolio offering. So that portfolio feature that we recently launched allowed them to easily do high-level reporting across accounts to drive better insights, and they are really excited to get launched with Klaviyo.
+Carolyn Valenti
+--
+Goldman Sachs -- Analyst
+Great. Thank you.
+Operator
+[Operator instructions] Our next question comes from Yun Kim from Loop Capital. Your line is now open.
+Yun Kim
+--
+Loop Capital Markets -- Analyst
+All right. Congrats on the strong quarter. Question around go-to-market motion around new customer acquisitions for mid-market and enterprise customers. which I think you mentioned was a record quarter.
+So just curious on where is the biggest source of these new 50,000-plus customers. Is this still Shopify Plus merchants? Or are you specifically going after legacy displacement opportunities outside of the Shopify platform? And also, how much of your incremental sales and marketing investments are focused on going after these large customers outside of the Shopify platform? Thanks.
+Andrew Bialecki
+--
+Co-Founder and Chief Executive Officer
+Happy to answer that. So it's -- again, there's a distribution. We've got a great partnership with Shopify. We have a lot of mutual customers, especially into that mid-market and enterprise, and we have a number of customers that have grown up on other tech stacks.
+So we don't break out the distribution, but like I think it's fairly varied at those -- in the higher -- the larger customer sizes. And I think the reason we're winning across all of them is because of our tight integration with their commerce stacks and then the ability to store all that data and then put it to work. So our partnership with Shopify is excellent. And then we're looking for ways that we can -- both help folks that are using other software platforms, as well as those that have maybe homegrown solutions, how do we make sure that we can help them and their development teams integrate easily.
+So when we talk about the ease of use of Klaviyo, sometimes that means the ability for these larger enterprises to plug all their systems in. But inevitably, we know that there's going to be some data sources that they need to use our developer API for, and we think we have a really, really strong product offering, a really strong functionality there as well.
+Yun Kim
+--
+Loop Capital Markets -- Analyst
+OK, great. Thank you so much.
+Operator
+[Operator signoff]
+Duration: 0 minutes

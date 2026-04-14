@@ -1,0 +1,227 @@
+[
+  {
+    "speaker": "Unknown",
+    "role": "",
+    "text": "Full Conference Call Transcript"
+  },
+  {
+    "speaker": "Kimberly Pinson",
+    "role": "",
+    "text": "Third quarter 2025 revenue was $2,000,000, up 5% sequentially and 31% year over year. Growth was driven by expansion of work performed under the contract with the U.S. Department of Defense, which utilizes both shield technology and consulting services. Consulting revenue of $1,500,000 is up $100,000 sequentially and $400,000 year over year. Shield revenues in the third quarter totaled $500,000, which was relatively flat sequentially but up approximately $100,000 year over year. The increase in Shield revenue primarily reflects the work performed under the previously noted DoD contract award. As Tony Scott mentioned, we are continuing to see strong demand for our services with both governmental and commercial customers. Anticipated deeper penetration in both sectors will result in further changes to our customer mix. Third quarter gross profit margin was 77%, down 58 basis points year over year, which is consistent with expected variability based on product and service mix. Operating expenses in 2025 totaled $3,600,000, an increase of $100,000 sequentially and $400,000 year over year. The increase sequentially was largely driven by an increase in sales and marketing expense related to increased participation in trade shows and programs to generate brand awareness and concise product marketing messaging. We may continue to further increase our investment in both product development and sales and marketing to accelerate the growth of our customer base, which will result in higher operating expenses. The increase over the prior year period of $400,000 is primarily due to higher share-based compensation from equity grants made in the first quarter, timing of merit increases, and minor changes to staffing. Net loss for 2025 was $2,100,000 or $0.10 per share compared to a net loss of $2,100,000 for 2024. Turning to the balance sheet from a liquidity perspective, on 09/30/2025, we had cash and cash equivalents of $2,500,000 and short-term investments in U.S. Treasuries of $2,000,000. Subsequent to quarter end, we received $3,000,000 in cash related to the DoD contract extension, which increased our cash position, inclusive of short-term investments, to $7,500,000, which we believe is sufficient to fund operations through the remainder of 2025 and into early 2026. With that, I'd now like to turn the call back over to Tony Scott for a few closing comments. Tony?"
+  },
+  {
+    "speaker": "Tony Scott",
+    "role": "",
+    "text": "Thank you, Kim, and I think the third quarter was another step in the right direction for Intrusion Inc. as we are continuing to make great progress towards achieving our goal of generating sustainable growth and long-term profitability. And while we are proud of the progress we have made, we are not satisfied with our overall financial results. We know there is still more work to do, and we are confident that we can and will deliver stronger performance over time. Achieving this will require continued discipline and time, but we believe our ongoing investments in the business, the strength of our expanding pipeline, and the improved engagement we are seeing with both customers and partners have positioned us well to drive enhanced financial results. Now this concludes our prepared remarks. And I'll now turn the call over to the operator for Q&A."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Thank you. At this time, we will be conducting a question and answer session. If you would like to ask a question, please press 1 on your telephone keypad. A confirmation tone will indicate your line is in the question queue. You may press 2 if you would like to remove your question from the queue. For participants using speaker equipment, it may be necessary to pick up your handset before pressing the star keys. One moment, while we poll for questions. Once again, please press 1 if you have a question or a comment. The first question comes from Scott Buck with H.C. Wainwright. Please proceed. Hi. Good afternoon, guys. Thanks for taking my questions. Tony, I think you touched on it a little bit in the prepared remarks, but wanted to kind of dig in a little bit deeper on the infrastructure work with the DoD. When do you get far enough along the process or prove yourself enough that maybe you open the door to some additional work of a similar nature with them?"
+  },
+  {
+    "speaker": "Tony Scott",
+    "role": "",
+    "text": "Already in progress. So with this first project, it has opened the doors for us to have conversations about deployment in other locations. Right now, we are in one island location in the Pacific, but there are lots of islands there. There are also domestic opportunities for this from a government perspective. And then there are, we think, even more opportunities from a private sector or commercial perspective. So I am particularly excited about this product. You know, these are like we have seen in this particular case, it's a big dollar sale when it happens. And we think we have an opportunity for many more of these during not only the next quarter but next year or so. It's a big area, a big opportunity for us. Now we have to close them. We have to get government funding squared away, which, as we have all experienced, is a daily up and down sort of situation. But I think the potential is big for this product. It is our most successful product at this particular point. So we are going to bet on it and get all we can."
+  },
+  {
+    "speaker": "Scott Buck",
+    "role": "",
+    "text": "No. That's great to hear. Now, Kim, do you need to add heads or any kind of other support to press on those opportunities?"
+  },
+  {
+    "speaker": "Kimberly Pinson",
+    "role": "",
+    "text": "No. There's a fairly small capital investment because there is a device that goes with this infrastructure monitoring. But otherwise, we do not expect or anticipate having to add heads or increase our operating expenses to any large degree."
+  },
+  {
+    "speaker": "Scott Buck",
+    "role": "",
+    "text": "Alright. Perfect. And then, Tony, I want to ask, I know it hasn't been very long. Right? But I'm curious what the experience has been like so far on AWS. Where, you know, you maybe think some interest in any kind of initial feedback you guys are getting, I think, would be helpful."
+  },
+  {
+    "speaker": "Tony Scott",
+    "role": "",
+    "text": "Yeah. It's, you know, we've gone through, we've actually been in AWS for the bulk of the third quarter. And now into the fourth quarter. And we've already done a couple of updates to make it easier to configure and install. And we have one more big update coming shortly that I think will make it even easier. And this is all based on feedback we have gotten from our initial beta customers and so on. And I think with these changes, it will significantly make it easier for people to adopt. So a lot of excitement around it. You know, the numbers aren't huge at the moment, but we're on our plan. We're starting to do the marketing and advertising work that I think we've talked about on prior calls. And our expectation is that's going to pay off. And the lessons we've learned from this will also apply as we get into the Azure marketplace on the Microsoft platform."
+  },
+  {
+    "speaker": "Scott Buck",
+    "role": "",
+    "text": "And so I'm expecting that, you know, the acceleration there can go even quicker than what we've experienced in the AWS environment."
+  },
+  {
+    "speaker": "Tony Scott",
+    "role": "",
+    "text": "But yeah. I'm very positive about it."
+  },
+  {
+    "speaker": "Scott Buck",
+    "role": "",
+    "text": "Good. No. That makes sense. And on Azure, sounds like it could be the end of this quarter, could be getting into 2026. What steps do you have left there to get up and active?"
+  },
+  {
+    "speaker": "Tony Scott",
+    "role": "",
+    "text": "Well, we created a new kind of built-from-scratch variant of Shield for the cloud that makes it much easier to deploy in these virtual environments. And that's the one that we're going to target for Azure as well. So easier for a better build for us, easier for the customer to adopt. The current AWS one is coupled with pfSense, the open-source firewall. And the new versions that will go into AWS shortly and also Azure are just Shield and not coupled to pfSense. And we think that's going to attract a broader set of customers. We'll still offer the pfSense version in AWS, so we'll actually have two properties in AWS. One with pfSense and one standalone. And probably in Azure where you price it, Tony?"
+  },
+  {
+    "speaker": "Scott Buck",
+    "role": "",
+    "text": "It changes the price? The way you price it."
+  },
+  {
+    "speaker": "Tony Scott",
+    "role": "",
+    "text": "Yeah. Not a whole lot because the pfSense is open source. So there's no royalties or anything like that associated with it. But what we heard from customers is some of them want choice around which firewall they use. And while we like our technology, they had a different choice for firewall than what we chose, which was pfSense. So this will give customers broader choice. If they don't have a firewall and want one, and like open source, they can use that. If they want to choose something else but still want our technology, they can have that choice as well."
+  },
+  {
+    "speaker": "Scott Buck",
+    "role": "",
+    "text": "Perfect. Well, that's all I had, guys. I appreciate the time. Thank you very much, and congrats on the progress this quarter."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "The next question comes from Ed Woo with Ascendiant Capital. Please proceed."
+  },
+  {
+    "speaker": "Ed Woo",
+    "role": "",
+    "text": "Yeah. Congratulations on the progress. My question is on your channel partner, PortNexus. What are you able to do there that is, you know, able to give you the successes? And is this able to be translated to other channel partners?"
+  },
+  {
+    "speaker": "Tony Scott",
+    "role": "",
+    "text": "Yeah. So what we're providing to PortNexus is endpoint security for their solution that's deployed in classrooms and other public sort of places. And that endpoint security is important so that the devices are effectively tamper-proof and safe from hacking and so on. I'm excited about it because as we've done trade shows with PortNexus and school administrators come by and see the demo and understand the capability, they get pretty excited. And as I kind of hinted, the sales cycle looks like it's pretty short. The feedback is, I want this now. Kind of thing, which with other solutions, you know, there's a much longer conversation that ordinarily takes place. So we're in a couple of school districts already. And I think as experience with this product grows, you know, the excitement's going to only accelerate. We're attending all the right trade shows with PortNexus. But also word-of-mouth is beginning to get out that this is a pretty cool solution. So at the end of the day, we've got great expectations for this."
+  },
+  {
+    "speaker": "Ed Woo",
+    "role": "",
+    "text": "Can you translate these opportunities to other channel partners, or is this very specific just to PortNexus?"
+  },
+  {
+    "speaker": "Tony Scott",
+    "role": "",
+    "text": "Well, we can certainly port it to or extend it to other endpoint kinds of solutions where network security is of paramount importance, and we are looking for those opportunities. I'd say the success with PortNexus will certainly be a good indicator for other potential partners as well. And so yes, I think it can extend, we are looking for those kinds of opportunities."
+  },
+  {
+    "speaker": "Ed Woo",
+    "role": "",
+    "text": "Great. And my last question is, you know, as you rolled out in, you know, AWS, and then also on the Azure platform soon, do you care where your customer buys it? Is there any difference in profitability and R&D cost?"
+  },
+  {
+    "speaker": "Tony Scott",
+    "role": "",
+    "text": "No impact on R&D cost. We are only, at this point, extending it to U.S. customers. We're not in the global marketplaces. So that kind of by definition restricts where it's for sale. But it doesn't really impact our costs one way or the other."
+  },
+  {
+    "speaker": "Ed Woo",
+    "role": "",
+    "text": "And you don't really care where your customer gets it, the profitability margins are about the same?"
+  },
+  {
+    "speaker": "Ed Woo",
+    "role": "",
+    "text": "Great. Well, thanks for answering my questions, and I wish you guys good luck."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Once again, if you have a question or a comment, please indicate so by pressing star one. The next question comes from Howard Brous with Wellington Shields. Please proceed."
+  },
+  {
+    "speaker": "Howard Brous",
+    "role": "",
+    "text": "Thank you. Tony, congratulations on the increased quarter over quarter. I have a couple of questions. Can you discuss the revenue opportunity with OT Defender?"
+  },
+  {
+    "speaker": "Tony Scott",
+    "role": "",
+    "text": "I can talk about it generally. I mean, I think the nice thing about these is as compared to our Shield or PortNexus deals that tend to be smaller, these tend to be bigger sales. You know, $100,000, $200,000, you know, above, you know, kind of opportunities. And so as you get one of these, there's a more meaningful impact in terms of revenue and overall sales. So obviously that's important in terms of the revenue opportunity. The second thing is it's pretty widely recognized at this point that the OT environment is probably the biggest area of underinvestment from a cybersecurity perspective. And it also happens to be one of the biggest targets for nation-state actors who, in anticipation of some sort of aggressive activity, would love to take out water systems and the electrical grid and communication systems and the things that are necessary to sustain life in most places around the world. A lot of the environment in these OT spaces is old gear that over time got hooked up to networks but were never ever designed to fend off the kinds of attacks and threats that are just a part of our modern-day world. And, you know, the reality is we've, as a nation and even internationally, we've been a little slow to wake up to this aspect of cybersecurity, this particular kind of threat. So we think the market opportunities are really big. And we think we have a very cost-effective and now proven solution to this particular problem. We're going to do everything we can to let everybody know what we've got and what its capabilities are. So I think, you know, I'm pretty bullish on this. It's going to take work. But I'm excited not just from a revenue perspective for Intrusion Inc., but I'm excited for the protection I think this can bring to some very vulnerable environments in our cities and states and critical infrastructure generally. And then as I mentioned on the call, it also applies to commercial environments, shop floors, and other manufacturing environments and so on. And all of those are pretty vulnerable at this particular point. You can disrupt manufacturing or disrupt the production of goods. That's got a pretty serious economic impact. And I think our technology is good to help protect those environments as well. Pretty broad-based market or surface for us to go after."
+  },
+  {
+    "speaker": "Howard Brous",
+    "role": "",
+    "text": "So the second question is the same. Question with revenue opportunity on PortNexus School Safety offering, which I, you know, from my understanding, should be critical with every school in the country."
+  },
+  {
+    "speaker": "Tony Scott",
+    "role": "",
+    "text": "The critical infrastructure stuff. Yeah. That one is probably not as big as the critical infrastructure stuff. But you know, this is one of those things where once you see it, you can't unsee it. And as we have experienced at trade shows, the school administrators love the simplicity of it. And also the sort of capability that the PortNexus solution provides. And the critical thing there is visibility in that first one to five minutes of an incident where you have really good and better situational awareness than you do with any other solution that's out there. And the first responders call that the critical first few minutes. If you can understand what's going on and have situational awareness, you can have a much better response. And that's what the PortNexus solution provides. So we're happy to be a part of that, clearly. And I think just like you've seen police departments all over have body-worn cameras, I think ultimately this is going to be a required thing in every school classroom or at least public school classroom in the country because it's just such a good solution. So happy to partner with PortNexus on that journey."
+  },
+  {
+    "speaker": "Howard Brous",
+    "role": "",
+    "text": "So my last question, well, let me come back to the PortNexus. Any sense for 2026 of a revenue opportunity?"
+  },
+  {
+    "speaker": "Tony Scott",
+    "role": "",
+    "text": "I'd be wildly guessing at this point, Howard. But, you know, our eyes are towards up and onward from a revenue perspective. So we're, I think, genuinely excited about the opportunity. Clearly, we've got to execute. Clearly, you know, we've got to get in front of customers, make the case, and go forward. But I think we have all the right things in our briefcase to go sell, and we're as excited as I've ever been about it."
+  },
+  {
+    "speaker": "Howard Brous",
+    "role": "",
+    "text": "My last question then one comment afterwards. Shield cloud revenue opportunity?"
+  },
+  {
+    "speaker": "Tony Scott",
+    "role": "",
+    "text": "Again, as I said on the call, that's the place where innovation is happening. And so, you know, the growth in a small-medium business, they've moved to the cloud and are moving to the cloud. And that's where the economy is growing the fastest. It's probably the biggest opportunity, you know, from a tech standpoint for that part of the market. And we'll see. Again, we've got to execute. We've got to continue to work our marketing plan and demand gen plan. But we've seen a lot of other companies do it. And we're going to be a fast follower in terms of all of the things that we've seen work that journey. So hard to exactly predict, but I would say we have great expectations."
+  },
+  {
+    "speaker": "Howard Brous",
+    "role": "",
+    "text": "What level, last question. What level of revenue per contract would you make a public announcement?"
+  },
+  {
+    "speaker": "Tony Scott",
+    "role": "",
+    "text": "It's not so much like, okay. It's not so much in some cases, Howard, it's not the level of the dollar amount that would determine whether we can make an announcement. We actually signed some deals in Q3 that didn't produce revenue in Q3, but it'll produce revenue in Q4. That by contract, we were prohibited from announcing. So the only way you'll see them is when revenue shows up, you know, after the end of a quarter. And that's not uncommon in the cybersecurity space. We'll announce whatever we can when we can. If it's significant. I'm not going to announce, you know, a $5,000 deal or a $10,000 deal or something like that. But if it's, you know, a 100k or 400k or a million, I'll certainly announce it if I'm allowed to."
+  },
+  {
+    "speaker": "Howard Brous",
+    "role": "",
+    "text": "Tony, best of luck. Thank you."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "The next question comes from Jerry Janowitz, who is a private investor. Jerry, please proceed."
+  },
+  {
+    "speaker": "Jerry Janowitz",
+    "role": "",
+    "text": "Tony, do you believe your intellectual property alone could be worth multiples of your current stock price? And I'm just looking for a simple yes or no answer."
+  },
+  {
+    "speaker": "Jerry Janowitz",
+    "role": "",
+    "text": "And thank you. And based on your knowledge in the cybersecurity market, do you believe your products could integrate well with a larger cybersecurity company's suite of products? Yes or no?"
+  },
+  {
+    "speaker": "Tony Scott",
+    "role": "",
+    "text": "Yes. Actually, we, yeah. I do. It may not always be the obvious, you know, first names that come to mind. But the answer is yes. You know, I think obvious that could be very interesting and exciting for us."
+  },
+  {
+    "speaker": "Jerry Janowitz",
+    "role": "",
+    "text": "Great. Thank you. That's all I have."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Thank you. At this time, there are no other questions in the queue. I'll turn the call back over to our host, Mr. Tony Scott, for any closing remarks."
+  },
+  {
+    "speaker": "Tony Scott",
+    "role": "",
+    "text": "Well, thankfully, it looks like the government shutdown is close to coming to an end, and I think we all breathe a sigh of relief in that regard. We are looking forward to, you know, working with our government partners as we have talked about at some length already today. Now, this is the opportunity that is in front of us right now, is doing better protection for critical infrastructure, whether it is public sector or private sector. It is the biggest cybersecurity opportunity I think there is out there. And so with the shutdown behind us, I think it opens the door for us to move ahead. We'll let you know when we can, and as soon as we can when anything has developed. But as I said earlier, I'm pretty excited about the opportunity. Look forward to having this call with you for the next quarter in our annual results. So thanks, everybody, for your patience. We're working hard. We got a great team on this. And I think we're making great progress. So talk to you all soon. Thanks."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "This concludes today's conference, and you may disconnect your lines at this time. Thank you for your participation."
+  }
+]

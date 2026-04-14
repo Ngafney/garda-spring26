@@ -1,0 +1,302 @@
+[
+  {
+    "speaker": "Unknown",
+    "role": "",
+    "text": "Full Conference Call Transcript"
+  },
+  {
+    "speaker": "Louis Gerhardy",
+    "role": "",
+    "text": "Thank you, Towanda. And good afternoon. Thank you for joining our second quarter fiscal year 2026 financial results conference call. On the call with me today is Dr. Fermi Wang, President and CEO, and John Young, CFO. The primary purpose of today's call is to provide you with information regarding the results for our second quarter fiscal year 2026. The discussion today and the responses to your questions will contain forward-looking statements regarding our projected financial results, financial prospects, market growth, and demand for our solutions, among other things. These statements are based on currently available information and subject to risks, uncertainties, and assumptions. Should any of these risks or uncertainties materialize, or should our assumptions prove to be incorrect, our actual results could differ materially from these forward-looking statements. And we are under no obligation to update these statements. These risks, uncertainties, and assumptions, as well as other information on potential risk factors that could affect our financial results, are more fully described in the documents we file with the SEC. Before starting the call, I'd like to summarize our planned investor events for our third fiscal quarter. On September 3, we'll participate in Citi's Global TMT Conference in New York City. September 4, we'll host KGI Securities Bus Tour in Santa Clara. On September 16, we'll host Bernstein's Seventh Annual West Coast Semiconductor Bus Tour at our office in Santa Clara. And on September, Craig Hallum will host us on a Midwestern NDR. Access to our second quarter fiscal year 2026 results press release, transcripts, historical results, SEC filings, and a replay of today's call can be found on the Investor Relations page of our website. The content of today's call, as well as the materials posted on our website, are Ambarella, Inc.'s property and cannot be reproduced or transcribed without our prior written consent. Fermi will now provide a business update for the quarter. John will review the financial results and outlook and will be available for your questions after that. Fermi?"
+  },
+  {
+    "speaker": "Fermi Wang",
+    "role": "",
+    "text": "Thank you, Louis, and good afternoon. Thank you for joining our call today. Our strong momentum continued in our second quarter with revenue over $95.5 million, increasing 11% sequentially above the high end of our prior guidance range of $86 million to $94 million. The second quarter results represent a fifth consecutive quarter of record HAI revenue. Furthermore, I am proud to say the midpoint of our new third quarter and the full fiscal year 2026 revenue guidance range represents all-time record quarterly and fiscal year total revenue for Ambarella, Inc. In our May 29 earnings call, we increased our fiscal 2026 revenue growth estimate to a range of 19% to 25% or approximately $348 million at the midpoint. With a strong order book as well as our expectation for both our total unit ship and our average selling price to increase in fiscal 2026, we are increasing our fiscal 2026 revenue growth estimate to a range of 31% to 35%, or approximately $379 million at the midpoint. Needless to say, it is a very exciting time for Ambarella, Inc. Fundamentally, a multiyear period of significant AGI R&D investment, our broad product portfolio enables us to address a rising breadth of edge AI applications. This increased breadth not only drives our overall unit demand, but we continue to see very strong demand for our new five-nanometer AI SoCs in both our existing and emerging AGI markets, which is driving our firm-wide average ASP higher. I would like to double-click on the rising breadth of AGI applications I mentioned and focus on three applications we see as rapidly emerging for us: portable video, robotic aerial drones, and edge infrastructure. Our edge AI revenue began in the enterprise security market more than five years ago, and it was followed by incremental edge AI applications in the smart home, automotive safety, and telematics markets, all of which are continuing their unique growth trajectories. Now this year, on top is the rising demand for our edge AI SoCs from the portable video market, including action cameras, panorama cameras, and body-worn cameras. In addition to the portable video market, we expect to commence high-volume shipment into the robotics market by the end of this fiscal year. The unit volume in the robotics market is highly fragmented by application, form factors, and customers, but our technology products and roadmap have enabled us to win one of the early high-volume robotic applications, partially autonomous aerial drones. Portable video and robotics both represent new emerging edge AI applications in Ambarella, Inc.'s traditional market for IoT endpoints. Today, we are also announcing our first win in the HAI infrastructure with our N1655 SoC. This win is yet another example of the expanding breadth of our HAI business, and I am encouraged by the interest in our N1 Edge AI infrastructure roadmap from both new and existing customers. In the automotive economy market, the largest subset of the robotics market, we are actively bidding on OEM projects with our CV380 family over a vest nanometer central domain controller for L2+ to L4 applications. While offering significant lifetime revenue opportunities, the lower frequency of our decision, OEM program device, and a longer time to revenue are causing our other edge AI applications to emerge more rapidly. Nevertheless, we remain highly focused on developing this business, and we will provide updates on our progress as wins occur. I will now describe some representative customer engagement during the quarter, beginning with the two key customer design wins that validate our future vision and strategy. In the rapidly growing robotic drone market, Arashi Vision, also known as Insta360, launched the world's first 8K 360-degree drone on this new anti-gravity brand. Powered by our CV5 AI SoC, this drone features dual lenses on both the top and the bottom, enabling 8K 360-degree video recording. The AI capacity in CV5 is fully utilized in this partially autonomous drone, and our product portfolio will enable the drone market to evolve rapidly to high levels of autonomy. The anti-gravity A1 is set to launch globally in January 2026. We are proud to see Arashi successfully differentiate their diverse portable video and now robotic aerial drone portfolio with AI features such as neural network image signal processing, AI editing, and gesture control leveraging our AI SoCs. A majority of Arashi's products are based on Ambarella, Inc.'s SoCs, and approximately 70% of our shipments are exported. In the emerging HAI infrastructure market, a global networking customer is rolling out a compact on-premises network AI appliance with multimodal intelligence at the event level built on our N1655 AI SoC. This appliance will add large language model-powered natural language search, and we were selected because of our power efficiency, network bandwidth saving, and low build of material cost. This is a great example of one of the green shoots I mentioned earlier. There are several other use cases being evaluated on our N1655 SoC. Now, in the automotive safety, ADAS, and telematics business, I would like to share some key customer wins during the quarter. Sensera, a leading provider of commercial fleet telematics solutions, has introduced its AI MultiCam platform based on Ambarella, Inc.'s CV72 AI SoC. Sensara's AI MultiCam delivers live 360-degree visibility and real-time risk detection alerts on an in-cab monitor with up to four times auxiliary HD camera fit. It is a great design win for CV72 that demonstrates more camera inputs and advanced AI features on a single SoC. Audi is utilizing CV22FS for their life-right immune functions in the EFI model initially in the China market. It enables them to provide intelligent context-adaptive viewing mode on highways, parking, turning, and lane changes with dynamic image processing and display enhancement functions. Also, in the newer market, BAIC's skeletal H9 is utilizing CV22FS for their rear-view electronic mirror. They note that AI-aided detection via camera input helps them cut down blind spots by up to 60%. And a leading Chinese OEM will utilize our CV22 SoC for their 8-megapixel sensor designed specifically for Level 2 ADAS functionality. The key capability they are enabling is small target detection at long range. In the enterprise security segment, Honeywell in India has launched its 50 series enterprise security cameras in 3-megapixel and 5-megapixel resolutions based on our CV25 SoCs. India is a fast-growing market with a drive for made-in-India products, creating new customer opportunities for us. In the smart home market, one of our long-term customers in the US has leveraged our H32 SoC to build multi-sensory, multi-modal AI products available in retail outlets today. They have built a nursery device integrating video monitoring, two-way intercom, high noise generator, and air quality sensor. They have also built a garage device that features carbon monoxide and heat detection, security camera, and intercom functionality. Also, in the smart home market, NetMol launched their indoor camera of advanced products that is built on H6 SoC for the European market. You can see from these representative customer engagements, we continue to build design wins momentum in our existing edge AI endpoints of application, and we continue to successfully address incremental AGI applications such as robotic aerial drones and edge infrastructure as the HAI market breadth expands. I think having shipped more than 36 million HAI processors to hundreds of customers who have successfully ported hundreds of advanced customer AI models to our SoCs, there should be no doubt that Ambarella, Inc. is a leader in HAI. HAI is expected to represent about 80% of our total revenue this year. We are focused exclusively on the unique needs of the HAI market, and we continue a rapid pace of innovation. In conclusion, I would like to summarize the key points covered today. First, we delivered Q2 results above the high end of our prior guidance and we increased the midpoint of full-year fiscal 2026 revenue guidance by 9%. Second, the breadth of our edge AI applications we are successfully addressing is expanding, as seen with our ongoing ramp in a variety of portable video applications into the anticipated product production ramp for robotic aerial drones and edge infrastructure. Third, the growth of our HAI business is occurring with our higher-priced HAI SoCs, supporting the anticipated growth in our ASP. Last, we are exclusively focused on the unique requirements of the AGI market, and we remain an established AGI market leader who continues to innovate at a rapid pace. Now John will now discuss the Q2 results and the Q3 outlook in more detail."
+  },
+  {
+    "speaker": "John Young",
+    "role": "",
+    "text": "Thank you, Fermi. I'll now review the financial highlights for the second quarter fiscal year 2026 ending July 31, 2025. I will also provide a financial outlook for our 2026 ending October 31, 2025. I'll be discussing non-GAAP results and ask that you refer to today's press release for a detailed reconciliation of GAAP to non-GAAP results. For non-GAAP reporting, we have eliminated stock-based compensation and acquisition-related expenses adjusted for the impact of taxes. For fiscal Q2, revenue was $95.5 million, above the high end of our prior guidance range of $86 million to $94 million, up 11.2% from the prior quarter and up 49.9% year over year. Sequentially, automotive revenue increased in the mid-single digits and IoT increased in the low teens, with IoT growth led by the adoption of edge AI in portable video applications. IoT in fiscal Q2 represented slightly more than 75% of our revenue and is spread across an increasing number of edge AI applications. Non-GAAP gross margin for fiscal Q2 was 60.5%, at the low end of our prior guidance range of 60.5% to 63% due to product mix. Non-GAAP operating expense in Q2 was $53.4 million, below the midpoint of our prior guidance range of $52.5 million to $55.5 million, primarily due to lower engineering-related costs associated with the timing of product development. Q2 net interest and other income was $2.2 million, compared to our prior guidance of $1.8 million. The increase was primarily from higher interest income. Q2 non-GAAP tax provision was approximately $200,000. We reported a non-GAAP net profit of $6.4 million or 15¢ per diluted share in Q2. Now I'll turn to our balance sheet and cash flow. Fiscal Q2 cash and marketable securities reached $261.2 million, increasing $1.8 million from the prior quarter and $41.4 million from the same quarter a year ago. Increased cash and marketable securities benefited primarily from operating cash flow associated with increased revenue, partially offset by increased expenditure on capital investments during the quarter. Receivables days sales outstanding increased from thirty-one days in the prior quarter to forty days, while days of inventory decreased from ninety-eight days to eighty-five days. Operating cash inflow was $5.5 million for the quarter. Capital expenditures for tangible and intangible assets were $4.1 million for the quarter. Free cash flow was $1.4 million. We had one logistics company representing 10% or more of our revenue, WT Microelectronics, a fulfillment partner in Taiwan, that ships to multiple customers in Asia, came in at 71% of revenue for the second quarter. I'll now discuss the outlook for 2026. The breadth of our Edge AI business is expanding with a strong unit and average selling price outlook. As a result, in Q3, we forecast revenue in the range of $100 million to $108 million, or $104 million at the midpoint. Sequentially, we expect mid to high single-digit percent growth in our automotive business, with our IoT business up in the mid-teens. For fiscal 2026, we anticipate a revenue growth range of 31% to 35%. We expect fiscal Q3 non-GAAP gross margin to be in the range of 60% to 61.5%. We expect non-GAAP OpEx in the third quarter to be in the range of $54 million to $57 million, with the increase compared to Q2 driven by new product development costs. We estimate net interest and other income to be approximately $2 million, our non-GAAP tax expense to be approximately $800,000, and our diluted share count to be approximately 43.7 million shares. Thank you for joining our call today. And with that, I will turn the call over to the operator for questions."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Thank you. Ladies and gentlemen, as a reminder to ask a question, please press star 11 on your telephone. To withdraw your question, please press star 11 again. We ask that you limit yourself to one question and one follow-up. Our first question comes from the line of Christopher Rolland with Susquehanna. Your line is open."
+  },
+  {
+    "speaker": "Christopher Rolland",
+    "role": "",
+    "text": "Hey, thanks so much for the question and congrats on a great quarter. So for my first question, I think for years, you guys pitched yourself kind of as the future of the company being automotive first. But IoT at this point has just been an incredible outperformer. I think it outperformed auto by four times this year. So I guess my question is, are you thinking about IoT differently now? Could there be a pivot in your business where you just double down spending around IoT versus auto, lean into the development of IoT versus auto? And when might we get to a point where auto outperforms IoT, or is this not the case just given, you know, the great interest in IoT? Thank you."
+  },
+  {
+    "speaker": "Fermi Wang",
+    "role": "",
+    "text": "Right. Thank you for the question. I think the first part to answer is, like I said in our script, that we are continuing to focus on our level two plus, level four time, and we are working hard to continue to win design wins there. But also, I pointed out that because our other HAI business, because of shorter design cycles and more available opportunities for us, we are making significant progress there. We are going to continue to focus on the HAI market, including both autonomous driving as well as IoT. But I want to point out that the fundamental hardware architecture between the HAI for the IoT side and the autonomous driving side are identical. Our CPU architecture, our image processing pipeline, our CPU investment, even the online OS side, they are huge in average between each two. So in terms of OpEx expense side, the leverage is very strong. Obviously, the go-to-market strategy from the marketing side is almost sales side. Are different. But we are going to continue to focus on those two areas because I still believe, you know, long term, the time driving continues to drive our strength. But as you can see from our announcement, we made significant progress on the HAI in the IoT side. Where that means we are going to put also more resources on this than before to continue to make progress. And try to collect more market share in this particular market."
+  },
+  {
+    "speaker": "Christopher Rolland",
+    "role": "",
+    "text": "Thank you for that, Fermi. And, yeah, just maybe back to the growth rates. Just a couple of things. First of all, would you expect auto to outgrow IoT next year, or is this really gonna be you've talked about high auto and your CV3 wins. I think ramping in 2027. Would we have to wait for auto to outperform at that point in time? Thank you."
+  },
+  {
+    "speaker": "Fermi Wang",
+    "role": "",
+    "text": "Right. So I think the auto will outperform IoT, but we have a major design wins with OEMs. Like, the one that we talk about in the back kit, the VW case two dot o. Do we want the design? Yes. I think, you know, 2027, 2028 time frame, we can see that. That auto growth will be will offer from IoT. Right now, think in the foreseeable future, that before we get any major design win from the automotive side, IoT will continue to have a very strong compute contribution. To our income. In fact, that you know, our current growth you can see that the growth rate that we got from the just IoT side is significantly improved over the last few years."
+  },
+  {
+    "speaker": "Christopher Rolland",
+    "role": "",
+    "text": "Yep. Thanks, and congrats."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Next question comes from the line of Kevin Cassidy with Rosenblatt Securities. Your line is open."
+  },
+  {
+    "speaker": "Kevin Cassidy",
+    "role": "",
+    "text": "Yes. Thanks for taking my question, and congratulations on the great results and outlook. You know, they you've my interest with the air the robotic aerial drones. It You mentioned Insta360. Is there this another trend of, will there be multiple companies coming out with these solutions? And are there commercial applications like for deliveries?"
+  },
+  {
+    "speaker": "Fermi Wang",
+    "role": "",
+    "text": "Yeah. So first of all, I think for Insta360, they are target market is commercial and the consumer, and the volume is significant compared to what we have seen in the market outside DGI. And then also that we are seeing definitely, there's a market trend A lot of different companies in different countries are focusing on this drone particular drone application. Now that autonomous driving on this car side become more popular technology, widely available. You can imagine that the pump drive autonomous drones will become popular. And with that, that will enable many different possible applications in the near future. I think that potential trend is driving this is really consistent with the robotic trend that we are seeing in other applications. When the autonomy become popular and become possible then the possible applications with those robots or drones become, you know, in the in the past was impossible, now definitely thinkable. So I think that, we compute to engage multiple drone design wins activities, and we think that you're gonna continue to see us to report our success in this market."
+  },
+  {
+    "speaker": "Louis Gerhardy",
+    "role": "",
+    "text": "Great. It's Louis. Just to kinda add on. To that and maybe tie it into Chris' question. This is just a great example of you've got multiple high bandwidth sensors in a real-time application. You know, collecting data and driving you know, a higher level of autonomy higher and higher levels of autonomy just like you know, in a vehicle. You know, moving from L1 to L4. You see the same sort of trend beginning in the aerial drone market and, of course, other robotic spaces. And it's all happening with the same underlying AI inference accelerator. That's that's in common across all these markets, whether it's auto autonomy, auto safety and telematics, or any of these IoT markets, So we leverage the technology across a lot of different applications."
+  },
+  {
+    "speaker": "Kevin Cassidy",
+    "role": "",
+    "text": "Right. Thanks. And, yeah, I guess your energy efficiency also is very useful if you're gonna be flying something at has to have a battery and energy efficiencies. Really important. And, you know, just you have so many exciting things happening with your new designs. I didn't hear much, about your process technology or moving on to the next, generation. Is that still on track of moving to two nanometer?"
+  },
+  {
+    "speaker": "Fermi Wang",
+    "role": "",
+    "text": "Absolutely. In fact, that now we are you know, our foundry con our foundry partner continue to announce design wins not only give us a lot more confidence, but also our potential customers I think that, we will continue to work on two nanometer projects and still remain target to take our customer to production in early 2027."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Our next question comes from the line of Quinn Bolton with Needham and Company. Your line is open."
+  },
+  {
+    "speaker": "Shadi Mitwalli",
+    "role": "",
+    "text": "Hey, guys. This is Shadi on for Quinn Bolton. Congrats on the strong results. My first question is on the guidance. Your Q3 guide implies a seasonally down Q4. Given all the progress you guys have been making and the Edge AI tailwind, this feels somewhat conservative. So this"
+  },
+  {
+    "speaker": "Shadi Mitwalli",
+    "role": "",
+    "text": "Get your thoughts and maybe the puts and takes as we think about Q4."
+  },
+  {
+    "speaker": "Fermi Wang",
+    "role": "",
+    "text": "So first of all, I think that the seasonality that we are guiding for the for this Q3 and Q4 is increasing the range compared to our previous year. So I don't think that should be a surprise. But if you look at that you know, a lot of the products, you sell the product become driven by consumer cycles. That will definitely explain to you that why we are seeing the seasonality based on our guidance."
+  },
+  {
+    "speaker": "Shadi Mitwalli",
+    "role": "",
+    "text": "Got it. That makes sense. And then my follow-up is on the non-security camera. Portion of the IoT business. How does Ambarella, Inc. view this segment growing over the next few years? And at what point might the non-security segment surpass the security camera? Segment of the IoT business? Yeah."
+  },
+  {
+    "speaker": "Fermi Wang",
+    "role": "",
+    "text": "First of all, thank you for that question. I think that's important. We're internally, we're looking at that also. Because, you know, all of the new application we announced today, none of that is really on the traditional security camera business. In fact, that from the drone robots, to the, you know, portable video to the edge infrastructure, they are those are the really the new market we have been talking about that we haven't shown much result until this quarter. And I think that, I think enterprise or the enterprise security and home security continue to be the combination continue to be a large portion of compared to others, but I think that, we do see that the growth rate on the non-inter on non-security portion of business will continue to outpace the other side."
+  },
+  {
+    "speaker": "Louis Gerhardy",
+    "role": "",
+    "text": "Yeah. Just to be clear, Shadi, our, security business we expect to continue to deliver very good growth But now you have these portable video and some of the robotics markets and other things kicking in that's as you observed, causing our other IoT business outside of security to contribute very nice growth for us."
+  },
+  {
+    "speaker": "Shadi Mitwalli",
+    "role": "",
+    "text": "Got it. For the color, and congrats on the progress. Thank you."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Please stand by for our next question. Our next question comes from the line of Liam Farr with Bank of America. Your line is open."
+  },
+  {
+    "speaker": "Liam Farr",
+    "role": "",
+    "text": "Hi. This is Liam on behalf of Vivek. Thank you very much for taking our question. There's been a lot of media reports recently about M&A and industry consolidation. And I was wondering if you're able to address kind of what role you expect industry consolidation to play and what your strategy looks like if you remain independent."
+  },
+  {
+    "speaker": "Fermi Wang",
+    "role": "",
+    "text": "Right. So, obviously, we cannot address that the rumors. I think we just have no comment on that. But, however, I want to point out that with today's earning call, you can see that the AGAI, the importance on the strategy side of AGAI becomes so obvious in the market space. And with that, we are the probably one or few, maybe only one shipping 36 million units of AGAI SoC so far. Put us as a leader of in that market. So with the combination, I really think that the rumor base is that our strength our focus on AGAI, and I think that we're gonna continue to pay play very well for us."
+  },
+  {
+    "speaker": "Liam Farr",
+    "role": "",
+    "text": "Thank you. And then just as a follow-up. In terms of going back to the IoT and auto side, clearly a strong quarter. What does the sustainability look like of these growth drivers through 2026? And where should we kind of expect more of a upside trajectory on the IoT and on the auto side? Thank you."
+  },
+  {
+    "speaker": "Fermi Wang",
+    "role": "",
+    "text": "Right. So on the auto side, I think we definitely continue to work hard to get secured first design win on the level two plus level three. That is really what push our growth trajectory beyond the what we have with automotive. And with IoT, we are really growing significantly this year. Over last year. And thank because look. Thanks for your contribution. Of a few products ramping up by our customers. So we believe that growth will maintain, and we're going to provide the guidance for next year. And we will definitely believe that automotive and both IoT and automotive will continue their growth trend."
+  },
+  {
+    "speaker": "Louis Gerhardy",
+    "role": "",
+    "text": "Yeah. Just to put a little more color on it. Hi. It's Louis. It's not like there's just a couple markets that are you know, contributing to the growth. You know, five, six years ago, it started for us in enterprise security. And it was public. And smart home. Then AI video telematics and commercial fleets. You know, certain in-cabin you know, e-mirrors or driver monitoring. But now more recently, in IoT, you've had portable video, which is not just one thing, but it's you know, body-worn cameras. It's panorama cameras. It's action cameras. And now we're moving into robotics initially with aerial drones. Expected to become significant. So it's not really, like, are those are you in a couple markets, and are they gonna, you know, static and how are they gonna do? It's more about edge AI touching more and more different vertical applications. And that's what's been happening to the business."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Please standby for our next question. Next question comes from the line of Kyle Smith with Stifel. Line is open."
+  },
+  {
+    "speaker": "Kyle Smith",
+    "role": "",
+    "text": "Hey, guys. This is Kyle Smith on for Tory Sponberg at Stifel. Congratulations on the strong quarter. So I think it's pretty clear that the strong revenue beat in Guide is stemming from tangible design wins and product momentum. But that being said, could you provide more commentary on the process that management uses to check for any potential demand pull-ins related to the tariff environment? Are you speaking directly with customers or distributors, monitoring yourself for any irregularities, is it kind of a mix of multiple factors?"
+  },
+  {
+    "speaker": "Fermi Wang",
+    "role": "",
+    "text": "Yeah. So I think that's a very important topic in internally because you know, we all going through this industrial-wide inventory correction for the last three years. And every time we seen some high growth of area, the first reaction is with that total cost. So in the past few years, we build a relationship with older customer. And also our distributor. To make sure that we review inventory every month. And then based on that, we try to decide whether that we think any inventory build. So far, I think throughout the process with this internal check, we haven't seen any inventory build that beyond the normal practice. And also, we have personally, every time I have a meeting with, you know, my peers in our customer base, one would probably always about supply chain and about the supply end. I got no feeling that nobody telling us that they are building excessive inventory worrying about geopolitical situation. So with that, that's just from the feedback from customer. But more internally, inside, we build some kind of a check checkpoint to understand you know, look at the customers the older patterns and their then whether that's associated with any product ramping up So if there's any indication of extra inventory build, internally, we have some well, have some read along. So far, based on the all of this internal and external discussion, I think that we feel quite confident that we haven't seen any meaningful inventory buildup in our customers."
+  },
+  {
+    "speaker": "Kyle Smith",
+    "role": "",
+    "text": "Perfect. Thank you. And you mentioned a lot of really exciting design wins in the prepared remarks. I'm curious what the customer response has been to the Cooper development platform, particularly within these new and emerging markets? And are there any specific components of the platform showing outsized positive feedback?"
+  },
+  {
+    "speaker": "Fermi Wang",
+    "role": "",
+    "text": "I think, first of all, the coop the feedback from our Coupa development platform is very positive. Not only the help our customer to eat to move from one of the chip to another chip easily because Coupa platform cover all of all the chips that we develop And so that for our customer, it's really become powerful tool for them develop what the product ones and they can put know, use the same product to many different chips. Of on the umbrella. So that's one most important thing. But because with the investment now, we can easily enable our customer to play with our play out play with our SDK and also play with all the neural network we put in into our model garden and also enabling them to learn how to use our compiler to compile the neural network to our hardware. All of those feature, all integrate into this Cooper platform. So I of course, I'm not saying that's perfect, but definitely, with the benefit to customer, they all continue to give us great feedback about how we can continue to improve it so that they can enjoy the platform more."
+  },
+  {
+    "speaker": "Kyle Smith",
+    "role": "",
+    "text": "Perfect. And if I could just sneak one more in. You know, contemplating this really outsized revenue growth you continue to expect, non-GAAP OpEx to grow at around 10% annually? Or should we maybe bake in a little bit higher OpEx going forward? Yes. Thanks, Kyle, for the question. I think it's reasonable if you take this you know, little bit higher than 10% is probably reasonable. I think quarter over quarter, I think year to date, we're at about 12 or year to date, we're at about 12% growth. I think we'll probably stay in that range for the full year. Perfect. Congratulations again, guys."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Please stand by for our next question. Our next question comes from the line of David O'Connor with BNP Paribas. Your line is open."
+  },
+  {
+    "speaker": "David O'Connor",
+    "role": "",
+    "text": "Yeah. Good afternoon, guys. Thanks for taking my question. Maybe for me, just going back on the automotive side. Things again and ADAS. You know, through this year, you know, the L2 plus adoption rates, you know, have slowed the software not ready. OEMs optimizing for price. I mean, you guys have talked about this through the year. As we sit here in August and from your recent conversations with customers, can you talk about any changes there on how they're viewing that kind of adoption on their next model? Any sign that they may be pulling it in? Or just any kind of changes that you're seeing there across the kind of, that would help kind of frame the backdrop for potential Right. CV3 wins."
+  },
+  {
+    "speaker": "Fermi Wang",
+    "role": "",
+    "text": "I think the scenario you described continues, and we continue to see OEM coming up bidding on the I would say, more low end of Level two plus than, you know, higher end than that. Because people like you said, OEM really focus on getting a proper cost than function features. In fact, even in China, recently, we start seeing a similar trend because Chinese government definitely trying to make sure that the home driving becomes safe and become the safety become the most important feature. So I really think that the total trend of auto autonomous driving is focusing on safety and also low end of the function performance. For example, the part that we announced a design win on a eight megapixel ADAS in China. Just give you an indication that while we continue to build on all kinds of different features, and that we see more opportunity on the low end with level two plus and also ADAS opportunity."
+  },
+  {
+    "speaker": "Louis Gerhardy",
+    "role": "",
+    "text": "Yeah, David. I mean, we still see very significant lifetime revenue opportunities in the auto autonomy market for sure. But there's this you know, as Fermi mentioned earlier, there's a lower frequency of decisions You know, the market can be subject to delays like you referenced, and there's a longer time to revenue. So what's been happening is all of these other edge AI markets have more than caught up and you know, are growing very rapidly for us now. But we still have these products and very much focused on landing these wins. It's just the frequency of them isn't as high."
+  },
+  {
+    "speaker": "David O'Connor",
+    "role": "",
+    "text": "That's very helpful. Thanks. Thanks, guys. Maybe one for John. Just on the incremental kind of growth year over year, you know, with the with the new guide, you're kind of up maybe know, 95, a 100,000,000, somewhere like that. For the year. Is there any way you can kind of split that out, in terms of units versus ASP or contents, just kind of how you would break that down as kind of a percentage? Is half of it unit growth, half ASP? Any kind of steer that would help us there at size that kind of difference between those two drivers. Thanks, guys. Yeah. Thanks, David. I think"
+  },
+  {
+    "speaker": "John Young",
+    "role": "",
+    "text": "you know, what we've been seeing through the throughout this year as it's pulled together know, our estimate is that growth is roughly fifty between ASP and unit growth."
+  },
+  {
+    "speaker": "David O'Connor",
+    "role": "",
+    "text": "Very helpful. Thanks so much, guys."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Please stand by for our next question. Our next question comes from the line of Gus Richard with Northland Capital Markets."
+  },
+  {
+    "speaker": "Gus Richard",
+    "role": "",
+    "text": "Yes. Thanks for taking my questions, and my congratulations for the strong results. Just in the IoT market, could you give us a split between the security applications and nonsecurity applications, and which of the nonsecurity applications are growing the most rapidly? So in a nonsecurity application, I think that portable video definitely grow the fastest. And in fact, that Insta360 using a CV file to build a clear next generation sports camera as well as the panorama three sixty degree camera and the ASP is high and the unit number continue to grow. So that definitely is a faster growing market. I won't be surprised we see a lot of growth of in the future, see some growth on the drones drone side too because the ASP and unit number growth can be significant too."
+  },
+  {
+    "speaker": "Louis Gerhardy",
+    "role": "",
+    "text": "I guess the auto business in Q2, I think John mentioned, grew in the mid single digits and IoT grew you know, in the mid teens. And that would put, you know, auto in the low 20% range as a percent of revenue. And IoT the balance."
+  },
+  {
+    "speaker": "Gus Richard",
+    "role": "",
+    "text": "Got it. And then just in terms of the IoT business you know, you've got a wide diversity of applications, and I would imagine that your customers need you know, support from field application engineers. And I'm just wondering is that a limitation? Is that something that you need to bolster to help accelerate growth? You know, how are you about customer support in that regard?"
+  },
+  {
+    "speaker": "Fermi Wang",
+    "role": "",
+    "text": "Right. So first of all, that unified hardware and software platform we just mentioned, is really helpful because that means our field engineering can easily switch you from one customer to another customer Although maybe a different application, different products, but the fundamental how and so forth are almost the same. So from that point of view, we definitely can leverage our field engineers in different application. But you are right that our revenue grow and when we're looking at a different customer base, we continue to add to our field engineering, which is part of our growth plan that John highlighted just a few minutes ago."
+  },
+  {
+    "speaker": "Gus Richard",
+    "role": "",
+    "text": "Got it. Thanks so much."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Please standby for our next question. Our next question comes from the line of Martin Yang with COBCO. Hi. Thank you for taking my question. On the strength you called out on portable video products, can you tell us if the strength is driven by a single key customer, or have you expanded your customer base with new design wins with new OEMs? In the past quarter."
+  },
+  {
+    "speaker": "Fermi Wang",
+    "role": "",
+    "text": "Well, we in fact, we continue to have a multiple customer base. In this space. But however, Insta360 definitely is the largest one. That we mentioned because they, you know, they switch from H22 base video processor only solution last year to this year's CV5 based solution, That ASP growth definitely is one of the main reason we're confused. The growth on the from them. But I we continue to engage multiple you know, portable video players throughout our careers."
+  },
+  {
+    "speaker": "Louis Gerhardy",
+    "role": "",
+    "text": "Hey, Martin. I think you're familiar with the company, but you know, we're selling into, like, seven different portable video product lines there. That would include you know, action, camera, sports, panorama, but know, also body worn. Webcam, video conferencing. And now you know, aerial drones. So it's a lot of different, product categories. It's not just a few. Right."
+  },
+  {
+    "speaker": "Martin Yang",
+    "role": "",
+    "text": "Got it. Thank you. A follow-up question on InstaFix So in your guidance, do you assume business as usual with them without any potential impact from their ongoing lawsuit in The US? Well, first of all,"
+  },
+  {
+    "speaker": "Fermi Wang",
+    "role": "",
+    "text": "yeah, we look at it. And, you know, it's it's not out in our position to make a judgment on the outcome of lawsuit. I will leave that to the two parties. Our assumption is based on the, the POs we receive from our customer. And that's the only thing we're counting on to forecast our business."
+  },
+  {
+    "speaker": "Martin Yang",
+    "role": "",
+    "text": "Got it. Thank you for that's it."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "As a reminder, ladies and gentlemen, that's star one to ask a question. Please stand by for our next question. Our next question comes from the line of Richard Shannon with Craig Hallum. Your line is open."
+  },
+  {
+    "speaker": "Richard Shannon",
+    "role": "",
+    "text": "Open. Great. Thanks, guys. Let me ask you a question. First one is on the broader edge AI opportunity. Talked about your first design when hoping to ship near the end of this fiscal year. Maybe you can describe what the, you know, the pipeline looks like, maybe describe it, even quantify it, number of designs, opportunities, and kind of the any maybe new applications you're seeing here versus what you described in the past? It's infrastructure. Right? I think"
+  },
+  {
+    "speaker": "Louis Gerhardy",
+    "role": "",
+    "text": "Richard, was your question about just edge IoT overall or just the infrastructure? Edge in"
+  },
+  {
+    "speaker": "Richard Shannon",
+    "role": "",
+    "text": "I'm sorry. I misspoke. Edge infrastructure. Sorry about that."
+  },
+  {
+    "speaker": "Fermi Wang",
+    "role": "",
+    "text": "Right. Exactly. So first of all, you know that we have been working on the N1 N1655 product and for a while talking to many customer. And this particular design win is our first design win that we can talk about. You can imagine that we're definitely engaging with multiple customer, new and old or existing customer. With potential design wins. And you should expect we'll continue to talk about our progress in this particular market. And the particular I think the there are so many different type of potential appliance that people can build. But in general, you can imagine that this kind of appliance is really trying to aggregate multiple H endpoints and apply most advanced AI models on that and to provide different services. That's just in general terms to describe opportunity out there definitely, this kind of appliance need to run not traditional computer vision plots."
+  }
+]

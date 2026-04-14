@@ -1,0 +1,317 @@
+[
+  {
+    "speaker": "Unknown",
+    "role": "",
+    "text": "Full Conference Call Transcript"
+  },
+  {
+    "speaker": "Allise Furlani",
+    "role": "",
+    "text": "Good afternoon, and thank you for joining us today to review UIPath's fourth quarter and full year fiscal 2026 financial results which we announced in our earnings press release issued after the market closed today. On the call with me are Daniel Dines, Founder and Chief Executive Officer; and Ashim Gupta, Chief Operating and Financial Officer, to deliver our prepared comments and answer questions. Our earnings press release and financial supplemental materials are posted on the UiPath Investor Relations website. These materials include GAAP to non-GAAP reconciliations. We will be discussing non-GAAP metrics on today's call. This afternoon's call includes forward-looking statements regarding our financial guidance for the first quarter and full year fiscal 2027 and our ability to drive and accelerate future growth and operational efficiency and grow our platform, product offerings and market opportunity. Actual results may differ materially from those expressed in the forward-looking statements due to many factors, and therefore, investors should not place undue reliance on these statements. For a discussion of the material risks and uncertainties that could affect actual results, please refer to our annual report on Form 10-K for the year ended January 31, 2025 and our subsequent reports filed with the SEC, including our annual report on Form 10-K for the year ended January 31, 2026, to be filed with the SEC. Forward-looking statements made on this call reflect our views as of today. We undertake no obligation to update them. I would like to highlight that this webcast is being accompanied by slides. We will post the slides and a copy of our prepared remarks to our Investor Relations website immediately following the conclusion of this call. In addition, please note that all comparisons are year-over-year unless otherwise indicated. Now I would like to hand the call over to Daniel."
+  },
+  {
+    "speaker": "Daniel Dines",
+    "role": "",
+    "text": "Thank you, Allise. Good afternoon, everyone, and thanks for joining us. I want to start by thanking the people who made this year possible. Our employees, we executed with discipline and purpose. Our customers who trust us with their most critical workflows and our partners who have made a genuine bet on our platform. This is a team effort, and I feel that every day. We delivered another strong quarter, beating the high end of our guidance across all metrics and closing out a year of disciplined execution. Fourth quarter ARR reached $1.853 billion, up 11% year-over-year, driven by $70 million of net new ARR and the revenue of $481 million, up 14% year-over-year. Alongside that growth, we've achieved full year GAAP profitability for the first time in our company's history. We grew fourth quarter non-GAAP operating income to $150 million, a 31% margin, a reflection of the operational progress we made throughout the year driving meaningful efficiency while continuing to invest in growth. And in Q4, we posted our strongest sequential net additions of customers with $1 million or more in ARR in 2 years with deals over $1 million, up over 50% year-over-year, a reflection of both improved sales execution and deepening enterprise platform adoption. I have never been more energized. What we are seeing now goes beyond a single quarter, we are at an inflection point in how software is built. Advances in AI are dramatically reducing the time and cost required to create software. And that has led to understandable questions in the market about how value will be created going forward. Historically, moments like this don't eliminate software, they shift where value is captured. Enterprises don't simply pay for code they pay for trust, for operability and for government, the ability to run complex systems reliably, securely and with full accountability. As the cost of building software falls, the value of platform that can safely govern, orchestrate and scale that software rises. And there is a second dynamic that I find even more exciting. When building becomes cheaper, more gets built, more processes get automated, more edge cases get addressed and more systems become autonomous. That expansion does not shrink the need for enterprise orchestration, it increases it. And this is precisely the environment UiPath is designed to operate in. , We entered this new agentic era with 4 advantages. First, a unified platform combining deterministic automation, agentic automation and enterprise-grade orchestration with governance, security and scalability built in. This is the full stack, it is what wins new logos and drives expansion across our base; second, a powerful installed-based flywheel, thousands of enterprises run mission-critical workflows on UiPath today. And within those workflows, there are opportunities for agents to be deployed and the overall process to be orchestrated. Third, 2 decades of enterprise trust and governance, deployment experience that AI plus automation is expected to deliver accountability, auditability, observability and reliability at scale; and fourth, deep vertical expertise with enterprise-wide reach, regulatory depth in the industries where the stakes are highest paired with the horizontal ability to orchestrate across the entire enterprise. Let me spend a few minutes on each. Driver one. Our agentic -- our unified Agentic automation platform. As AI makes intelligence more accessible, what matters is execution. Enterprises are getting answers to complex questions faster than ever before, and yet they still struggle to reliably execute complex cross-system processes with accountability and compliance built in. The goal now is to pair the insight they are getting with the actions and execution that our platform enables, financial reporting, claims processing, regulatory compliance. This cannot be improvised. They must be institutionalized. Enterprise automation requires 2 modes, deterministic for precision audibility and agentic for reasoning and adaptability. Most vendors offer 1 or the other, UiPath id purpose-built to integrate both under a single control play, allowing enterprises to move from experimentation to scale production grade deployment. Most people think orchestration means agent to agent coordination. Real enterprise orchestration brings together agentic automation, deterministic automation and humans because that is how work actually gets done. We offer that and the full execution layer underneath it, governing how our transaction moves from start to finish and ensuring that it completes reliably every single time. This is what Maestro is built to do at enterprise scale. What makes Maestro uniquely powerful is its architecture. It is built on Temporal, the most modern workflow technology featuring durable execution and trusted by the most demanding technology companies in the world. Workflows are defined in a way, AI agents can generate and modify it directly while remaining fully transparent to business stakeholders and auditors in a world where AI agents are increasingly the ones creating and maintaining workflows that distinction matters enormously. The customer results make this concrete, a U.S.-based semiconductor company fail to deploy an agentic workflow with another vendor after more than a year of trying with UiPath, they were successful in under 2 weeks leading to a 7-figure expansion across Agent Builder, Maestro and Test Cloud. Today, they run over 3,000 automations and have sales more than 2 million hours and, One New Zealand who went from proof of concept to production grade pilot in 5 weeks reduce 4- to 5-day order-to-cash process to 10 minutes, and they are now scaling this across their B2B sales operations. With UiPath, they expect roughly $20 million in cost savings this year as they plan to further leverage the platform to support their broader transformation programs. Driver two: the flywheel inside our installed base. The most important story this quarter is the economic shift underway inside our installed base. Customers are not experimenting with AI, they are expanding their operating model on our platform. AI product ARR, which includes agentic, IDP and Maestro, reached nearly $200 million this quarter, with strong growth fueled by agentic. But the number I keep coming back to is this, the number of customers above $100,000 in ARR who have bought AI products grew 25% year-over-year and they spend nearly 3x as much as those who have not. Additionally, 16 of our top 20 deals this quarter included AI products. All of this is clear evidence that agentic automation is becoming central to our largest customers' roadmaps. Importantly, this AI growth is layering on top of a core unattended automation business that continues to grow. We are not seeing AI agents replacing deterministic unattended automation in production we are seeing customers extending their processes with AI. A major U.S. airline illustrates this well. Building on their deterministic foundation, they are now deploying Agent Builder, Communications Mining, and Maestro to automate Procure-to-Pay and Supplier workflows, a blueprint for how customers move from task automation to end-to-end process orchestration, and how that journey drives platform-wide expansion. This is the flywheel. Every workflow automated creates new surface area for agents. Every agent deployed drives more automation, deeper integration, and broader platform adoption. Testing is another area where we see a significant and underappreciated expansion opportunity. As agentic workflows and applications sprawl, traditional QA simply cannot keep up. Forrester named UiPath a Leader in The Forrester Wave for Autonomous Testing Platforms in Q4 2025 with Test Cloud receiving the highest possible scores in 7 criteria including vision, roadmap, and automation creation, orchestration, and execution. A global technology company is a strong example, standardizing their entire automation program on UiPath, expanding into Test Cloud, and planning to implement UiPath Agents and Maestro to automate supply chain workflows. Turning to driver 3, Governance. Building an agent is becoming easier. Making it enterprise-grade is not. Enterprise-grade agents require deterministic execution with traceability, exception handling, and audit trails that satisfy external regulators. We see this play out in how customers choose us. An American credit union selected UiPath as we were one of the only solutions to meet their strict banking security and governance requirements. And a European automobile manufacturer chose UiPath as the foundation of their agentic AI strategy, selecting Maestro because we could deliver Enterprise-grade governance, error handling, and human-in-the-loop safeguards at the level their compliance standards demand. In both cases, governance was not a consideration, it was the deciding factor. And that brings us to driver 4, vertical depth. It's not just about governance, it's about knowing the domain deeply enough to manage and operate it at scale for real Impact. That is why vertical depth matters more in the agentic era, not less. As building becomes easier, differentiation shifts to domain-specific workflow intelligence, especially in industries where the cost of getting it wrong is existential. At Vive in February, we launched agentic AI solutions purpose-built for healthcare, targeting revenue cycle management, medical records summarization, claim denial resolution, and prior authorization. In line with that strategy, we acquired WorkFusion in February. Bringing purpose-built agents for financial crime compliance, with deep anti-money laundering and know-your-customer expertise directly into our platform, extending our reach into the highest stakes compliance workflows inside global banks. Healthcare and financial services are 2 examples of a broader strategy. We pair vertical depth with the horizontal reach to orchestrate across every function of a global enterprise, a combination that neither horizontal or vertical platforms alone can match. And great platforms don't scale alone. Our partners are building practices, joint solutions, and go-to-market motions around our platform. Our expanded partnership with Deloitte is a strong example. Together, we launched Agentic ERP, embedding AI agents into mission-critical finance and operations workflows. A Fortune 20 oil and gas company that is migrating to SAP S/4HANA is already scaling through the partnership, expanding Test Cloud coverage from 10% to roughly 50% of their SAP environment while building new agentic use cases across the migration. Accenture tells a similar story. Together we deployed a global agentic sales order entry solution for a strategic life sciences customer, reducing processing time by 1/3 unlocking automation for orders previously too complex to handle, and orchestrating autonomous agents transforming the orders while navigating 150,000 exceptions. Before I close, I want to give you a preview of what's coming next on our product roadmap. Over the last few months, the world has changed. The boundaries of what is possible have shifted faster than most people expected. We have spent years building a unified platform for exactly this moment. And what it can now unlock with the next generation of coding agents, it's something I'm genuinely excited about. Our platform is evolving into 1 where coding agents can participate across the entire automation life cycle. Agents will work with subject matter experts to discover processes and identify exceptions. They will work with business analysts to generate process definitions. Since developers in building automation, deploy those automations into production and help manage them at runtime. The first capability of that vision ships in the next couple of months and it targets a problem I hear in nearly every customer conversation. Their automation backlog is growing faster than their ability to build. The ROI exists. The executive sponsorship exists. The constraints have been the time, cost and specialized skills required to build and maintain production-grade automations. AI coding agents will generate and maintain production-grade unattended UiPath automations in hours instead of weeks. AI accelerates how automations are built. It does not change the platform they need to run on. For example, every one of those automations still needs our platform, Maestro for orchestration, process intelligence and observability, governance for control and auditability, granular access control and credential vaults for security. As we look ahead, we expect to cross $2 billion in ARR this fiscal year, a milestone that reflects the durability of what we have built and the expanding role we play in how enterprises operate. Finally, we invite you to join our annual Agentic AI Summit on March 25, which will be live streamed on our website. Please reach out to our Investor Relations team for details. With that, I'll turn the call over to Ashim."
+  },
+  {
+    "speaker": "Ashim Gupta",
+    "role": "",
+    "text": "Thank you, Daniel, and good afternoon, everyone. Before turning to the financials, I'd like to provide a quick operational update. Over the past year, we strengthened our operating model, tightening coordination across teams and driving greater consistency and efficiency in how we go to market and serve customers. The result is more predictable execution, tighter alignment across sales, customer success and product and greater operating rigor across the business. We've built a more disciplined and scalable global sales cadence. The entire company has been enabled and is focused on pushing our AI capabilities into every deal, customer conversation and across our internal operations. As we move to fiscal 2027, our priorities are focused on translating these structural advantages into durable growth. First, accelerating growth across our customer base, expanding penetration inside our installed base, scaling AI adoption on top of deterministic automation and deepening our vertical solution strategy in regulated and mission-critical industries where our platform is most differentiated. Second, driving faster time to value. Selling software is only part of the journey. Our forward-deployed engineers, services organization, post-sales team and partner ecosystem continue to improve their coordination to ensure customers realize value quickly and at scale. Third, scaling operating leverage, including internal adoption of our own agentic capabilities and continued focus on cost discipline. Across engineering, support and internal operations, we are deploying UiPath agents to streamline workflows, reduce manual work and accelerate execution, and we are already seeing productivity gains from these deployments. We expect this to become an additional source of operating leverage as adoption deepens. These initiatives reinforce the scalability of our model and give us confidence in the next phase of margin expansion. We reached an important milestone on profitability this year. When we first introduced our long-term model, we targeted non-GAAP operating margins of approximately 20%. In fiscal 2026, we surpassed that, delivering a 23% non-GAAP operating margin while continuing to invest for growth. Given the strength and scalability of our model, we are updating our long-term non-GAAP operating margin target to 30%. We are equally focused on GAAP profitability. Over the past several years, we have driven meaningful improvement in GAAP expenses as a percentage of revenue, including stock-based compensation, which declined to 18% of revenue from 25% last year, and we expect that trend to continue. We expect to be meaningfully GAAP profitable in fiscal 2027 and are committed to expanding GAAP profitability over time. Turning to the quarter. Unless otherwise indicated, I will be discussing results on a non-GAAP basis, and all growth rates are year-over-year. I also want to note that since we price and sell in local currency, fluctuations in FX rates impact results. Fourth quarter revenue grew to $481 million, an increase of 14%. Normalizing for the year-over-year FX tailwind of approximately $16 million, revenue grew 10%. Total revenue for fiscal year 2026 was $1.611 billion, an increase of 13% year-over-year. Normalizing for the year-over-year FX tailwind of approximately $30 million, revenue grew 11%. ARR totaled $1.853 billion, an increase of 11%. Net new ARR was $70 million. This included a $14 million year-over-year FX tailwind. As organizations adopt an AI-first operating model, they are accelerating cloud migration to deploy, orchestrate and scale automation seamlessly. We ended the year with over $1.2 billion in cloud ARR, which includes both hybrid and SaaS, up over 20% year-over-year. I want to highlight one data point that speaks directly to where the platform is headed. Among customers with more than $1 million in ARR, 90% are using our AI products. When we look at customers with more than $100,000 in ARR, approximately 60% are using our AI products. That level of attachment is a retention and expansion flywheel, and it gives us high confidence in the durability of the customers we are focused on the most. Across our broader base, 42% of customers with over $30,000 in ARR use our AI products, which provides a significant runway for expansion. We ended the quarter with approximately 10,750 customers. We continue to be successful in signing new enterprise logos that align with our strategy of targeting long-term customers with a propensity to invest, including new logos like Enterprise Products Partners, Helix Electric, [ Veonet ] Vision and a U.S. construction company consolidating on UiPath. They chose us to replace multiple point solutions with a single platform and plan to expand beyond deterministic automation, deploying agentic capabilities across loan originations and mortgage operations. As with prior quarters, the vast majority of customer attrition continues to be at the lower end. To provide a bit more color, when we take a closer look into our total logo count, for full year 2026, customers that spent over $30,000 in ARR increased 7% year-over-year. Customers with $100,000 or more in ARR increased to 2,565, while customers in $1 million or more in ARR increased to 357. Dollar-based gross retention was best-in-class at 97%, and our dollar-based net retention rate remained at 107%. Adjusting for FX, dollar-based net retention was 106%. Remaining performance obligations increased to $1.475 billion, up 19%. Normalizing for the FX tailwind, which was approximately $64 million, RPO grew 14%. Current RPO increased to $913 million, up 13%. Turning to expenses. We delivered fourth quarter overall gross margin of 86% and software gross margin was 92%. Fourth quarter operating expenses were $263 million. We ended the year with 3,981 total employees. I want to reiterate a significant milestone. For the first time in company history, UiPath delivered a full year of GAAP profitability. For the full year, GAAP operating income was $57 million, and we delivered our second consecutive quarter of GAAP operating income at $80 million in the fourth quarter. Fourth quarter non-GAAP operating income was $150 million, representing a 31% margin. Full year non-GAAP operating income was $370 million, a 23% margin and over 600 basis points of margin expansion year-over-year. Fourth quarter GAAP net income was $104 million. Full year GAAP net income was $282 million. Fourth quarter adjusted free cash flow was $182 million, bringing full year adjusted free cash flow to $372 million. We ended the quarter with $1.7 billion in cash, cash equivalents and marketable securities and no debt. During the fourth quarter, we repurchased 780,000 shares at an average price of $12.83. For the full fiscal year, we returned approximately $337 million to stockholders, repurchasing 30.9 million shares at an average price of $10.92. Since January 31, under our 10b5-1 plan, we have repurchased an additional 14 million shares at an average price of $12.11 through March 10, 2026, completing our $1 billion stock repurchase program. Following the completion of the program, our Board has authorized an additional $500 million in repurchase capacity. This reflects our confidence in the durability of our cash flows and our commitment to disciplined capital allocation. Now turning to guidance. Our guidance philosophy remains unchanged. We base our guidance on what we see in the pipeline and apply prudent assumptions, particularly as the federal and macroeconomic environment remains variable. Our guidance reflects continued momentum across the business and includes WorkFusion's contribution aligned to our ARR definition. WorkFusion strengthens our position in financial services automation through its advanced agentic technology, an area where the demand for compliant auditable agentic workflows is accelerating. Also included our current foreign exchange rates, including a modest headwind from the yen and a modest tailwind from the euro, which in aggregate have an immaterial impact. Turning to the specifics of our guide. For the first fiscal quarter 2027, we expect revenue in the range of $395 million to $400 million, ARR in the range of $1.894 billion to $1.899 billion, non-GAAP operating income of approximately $80 million. And we expect first quarter basic share count to be approximately 525 million shares. For the full fiscal year 2027, we expect revenue in the range of $1.754 billion to $1.759 billion, ARR in the range of $2.051 billion to $2.056 billion, non-GAAP operating income of approximately $415 million. Before I close, I want to leave you with a few final modeling points, including the following: first half revenue to be approximately $795 million, second half revenue to reflect similar seasonal patterns as fiscal 2026, with approximately 30% of total revenue in the fourth quarter. First half net new ARR to be approximately $73 million and second half net new ARR to reflect similar seasonality as fiscal year 2026 with the fourth quarter being our strongest quarter. We are encouraged by the momentum we're seeing as customers accelerate their shift of workloads to the cloud. While this is an overall positive, we anticipate that growth in our SaaS offerings will create approximately a 1% headwind to total revenue growth for the full year. Fiscal year non-GAAP gross margin to be approximately 84% as we scale our cloud offerings; non-GAAP operating income to reflect similar seasonality to our top line metrics. Fiscal year 2027 non-GAAP adjusted free cash flow of approximately $425 million, also to follow normal seasonal patterns. Lastly, we are committed to managing stock-based compensation and for full fiscal year 2027, we expect dilution to be between 2% to 3% year-over-year, excluding any buyback. Thank you for joining us today, and we look forward to speaking with many of you during the quarter. With that, I will now turn the call over to the operator. Operator, please poll for questions."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Hello, and thank you for your patience. I will now hand the call over to Daniel Dines."
+  },
+  {
+    "speaker": "Daniel Dines",
+    "role": "",
+    "text": "Hello, everyone. Thank you for coming back after our outage with the service provider for our Investor Relations conference calls. We are ready to take questions. I hope that you guys get the chance to listen to the end of our reading. And also, we have published online the entire transcript of the -- of our earnings calls. So thank you again and apologize for the delay. We are ready to take questions."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "[Operator Instructions] And our first question comes from the line of Bryan Bergin with TD Cowen."
+  },
+  {
+    "speaker": "Bryan Bergin",
+    "role": "",
+    "text": "First one I have is just as it relates to net new ARR. And as you build the 2027 outlook, just how are you thinking about net new ARR expansion potential here on an FX-neutral basis? Sorry if I missed what you said on FX contribution assumptions as it relates to 1Q and the full year. But just trying to unpack that looking ahead. And then my follow-up is going to be on margins. So on op income margin, I appreciate the update on the 30% target. Just want to dig in on how you're thinking about the potential kind of the moving parts of that as it relates to gross margin and OpEx components moving forward?"
+  },
+  {
+    "speaker": "Ashim Gupta",
+    "role": "",
+    "text": "Yes. So Brian, great to hear from you. When you think about the IRR contribution, I think our guidance kind of says that, there's really no significant or material FX contribution from that versus our prior guidance. So as you look at it, really, FX is a minimal impact from where our previous estimates were. The second piece of it is, from a margin standpoint, you look at the moving pieces and definitely across the board, there is opportunity to agentify and to use the technology advances across every function. That includes engineering, G&A as well as sales and marketing, which gives us really the ability to continue to reinvest in growth as needed. But we're going to look at it in a balanced way in terms of what makes sense for the company. And you can see our commitment to operating margin expansion over the last 2 years. And then just back to the IRR, I want to just give a little bit of color. When you look at our base, we have a sizable Japan business. So we have headwind from the yen, and tailwind to the euro, and they basically net out to be an immaterial impact for the full year. So we're really pleased with the progress. As Daniel commented and I did in the script, we really feel positive about the expansion that we're seeing within our customers and our ability to stabilize our net new ARR, and that's kind of reflected in both our performance as well as our guidance."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "And our next question comes from the line of Sanjit Singh with Morgan Stanley."
+  },
+  {
+    "speaker": "Sanjit Singh",
+    "role": "",
+    "text": "Daniel, thank you for the disclosure on the ARR traction -- I'm sorry, the AI traction with respect to ARR, of the $200 million, that was great to see. In terms of the composition of that, could you give us any details on sort of the split between IDP and what you're seeing on the agent side. And to the extent you can sort of disclose that, I'd just love to hear about the underlying momentum with the agentic side of the house, including Maestro as you go into next year?"
+  },
+  {
+    "speaker": "Daniel Dines",
+    "role": "",
+    "text": "Sanjit, we have really a great momentum on diffusion of the AI within our platform. We have not provided clear ratios between different components of what we put into the AI. And I will let Ashim to comment further."
+  },
+  {
+    "speaker": "Ashim Gupta",
+    "role": "",
+    "text": "Yes, so like when you look at the way we price, we actually allow pretty good fungibility between our AI and Agentic products actually, both in some of our old pricing as well as our new pricing. So we don't really materially split it out. Of course, IDP hasn't been in the market for a longer period of time, for like the last 2.5 to 3 years. So IDP definitely has a good portion of the IRR. But agentic is a significant portion, and we see that in the platform. If you can see that in the deals and the commentary that we're giving and selling as a part -- that we talk about in our script. So from that standpoint, we can't really split it apart but we also see them as complementary because remember, IDP also includes IXP, which is not like simple document processing. It really uses advanced technology to be able to parse different documents using different models and that is part and parcel of the way we price."
+  },
+  {
+    "speaker": "Sanjit Singh",
+    "role": "",
+    "text": "Yes, that's great. That's great context. And then just a follow-up on the guide, Ashim, on 2 aspects. One, in terms of WorkFusion, how should I think about that contribution when I sort of calculate what the guidance implies from a net new ARR basis? I think there are some reports out there that they are around $25 million ARR toward the end of last year. So I just want to sort of stand to check that. And then from this time last year, there was some concerns around build as you guys are pretty cautious on the federal business. Just your sort of underlying assumptions about Fed going into next year, maybe the first half of this year given some of the headwinds you saw this time last year?"
+  },
+  {
+    "speaker": "Ashim Gupta",
+    "role": "",
+    "text": "Yes. So the first thing is the $25 million is not accurate. That's the first thing I can say categorically. The second piece is, they also had a different method of ARR -- of accounting. So when we brought it back, even the numbers that have been out there also do not account for it. We -- It is actually below our materiality threshold, Sanjit. So that gives you an indication. We really look at this like a tuck-in acquisition in terms of where it is. And from that standpoint, you can also just see kind of the strength overall within our guidance, and we've been transparent that, that includes the WorkFusion contribution, but it is immaterial, and we don't break it out."
+  },
+  {
+    "speaker": "Sanjit Singh",
+    "role": "",
+    "text": "And then just on the Fed piece?"
+  },
+  {
+    "speaker": "Ashim Gupta",
+    "role": "",
+    "text": "Yes, sorry. On the federal government, we're actually seeing a really good traction there. I would say just like the environment, I would say the federal government is a dynamic economy. But I would say our team has done an incredible job connected at really high levels within the organization. And I'll let Daniel comment on some of his discussions and his views of it. But within certain agencies, we feel very well strong position. And then there are some agencies, of course, that are going through their changes. But overall, we're actually very bullish about the way our teams are executing and the opportunity that exists there."
+  },
+  {
+    "speaker": "Daniel Dines",
+    "role": "",
+    "text": "Yes. And we are seeing an increased appetite for more long-term projects, strategic projects, especially in the department of war."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "And our next question comes from the line of Michael Turrin with Wells Fargo Securities."
+  },
+  {
+    "speaker": "Michael Turrin",
+    "role": "",
+    "text": "Just to start, maybe a higher level one. You had some commentary, but just in terms of budgets and what you're seeing around categories like automation and AI, it would be great to get just a top-down view there and also how you're positioned to capture that in the market where there's just an increasing number of vendors also positioning agentic solutions, which may be newer to market, but might also insert some noise into those conversations."
+  },
+  {
+    "speaker": "Daniel Dines",
+    "role": "",
+    "text": "Look, I think we are really well positioned to help customers with the diffusions of AI within their enterprise workflows. We are -- we have -- we built Maestro, which is essentially a process orchestration technologies that -- and at its core, is a new powerful workflow engines. That's -- that gives us a very interesting advantage in the market right now. So we all know about the impact of the coding agents. I would say that this will translate for us. And I'm extremely bullish about it into a much faster adoption curve for our customers. We aim to use coding agents to enable our platform for coding agents that will accelerate dramatically the time to value for our customers. And that, of course, includes creation of AI agents, deployment of agents in the context of enterprise workflows. I would like also to stress how important is the combination between deterministic automation and agentic automation into the context of the same platform that can orchestrate both what I would say, humans, agentic, and deterministic automation."
+  },
+  {
+    "speaker": "Michael Turrin",
+    "role": "",
+    "text": "Ashim, just you gave some texture. I know the commentary and the guidance on the call was pretty similar to entering fiscal '27 as '26, but it sounded like in some of the prior answer that maybe public sector is trending a bit better. So just any more context you'd give us around how you're characterizing the current environment, the visibility you have into the model for the forward year at this point and just how you're thinking about the contribution from the AI product portfolio as that scales in fiscal '27?"
+  },
+  {
+    "speaker": "Ashim Gupta",
+    "role": "",
+    "text": "Yes. I mean we really continue to characterize it as variable. And I'll double-click just again for anybody who's new in terms of what we mean by that. I think we do see pockets of strength and we see pockets of pressure or fluctuations that happen from a macroeconomic standpoint. And at the same time, those tend to move around quite a bit. Like right now, our bullishness in terms of public sector feels really good. Last time on this year, if you remember, we kind of awful -- felt a lot of uncertainty in that area. We're seeing strength in areas like financial services and health care, international markets like Australia. And then there's -- obviously, the Middle East conflict is there, so there's uncertainty there. So we really characterize it as variable. As I commented in the script, we continue to kind of maintain a very consistent guidance philosophy. We look at our pipeline. We have really deep inspection. We get a lot of signal from the field. Daniel has spent a lot of time with customers over the last 3 months, 4 months. We have -- we've been very in touch with kind of the field in terms of hearing. And then the other piece is, we obviously have a very strong now statistical and forecasting models between our finance and our ops team, and we triangulate the 3 of them. So we talked about kind of putting the appropriate prudence in the -- in for guidance, accounting for the variability in macroeconomic environment, and we've done so. And at the same time, when you look at our guidance, I do think it also reflects kind of stabilization of net new ARR and what the potential is yielding in terms of the traction our teams are making in the agentic market and how we're positioned. So that's how I would characterize our guidance."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "And our next question comes from the line of Kirk Materne with Evercore ISI."
+  },
+  {
+    "speaker": "Chirag Ved",
+    "role": "",
+    "text": "This is Chirag on for Kirk. You highlighted multiple industry partnerships, right, Veeva -- like with Veeva and certain vertical solutions like health care and financial crime, would you highlight health care and finance as the 2 verticals that are showing the strongest willingness to spend right now on agentic AI initiatives? Or are there others that you would flag? And when you think about agentic automation at scale, what does success look like in terms of repeatable playbook and sales cycle impact here?"
+  },
+  {
+    "speaker": "Daniel Dines",
+    "role": "",
+    "text": "I think you got it very right. It's the health care. And I think we nominate it within the health care in particularly, I would say, parts of revenue cycle management, denials, prior authorization. It's a very important type of processes for us. Financial industry has been since the beginning of the company, our stronghold, and we strengthened it with the acquisition of WorkFusion with our big foray into financial crimes. And I would add also the public sector as an important vertical for us that we are eyeing."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "And our next question comes from the line of Terry Tillman with Truth Securities."
+  },
+  {
+    "speaker": "Terrell Tillman",
+    "role": "",
+    "text": "I have two. So first on Maestro, it is my impression, it's vendor agnostic from an agentic standpoint. Are you all seeing situations where it's involved in managing agents from system of record companies or AI-native businesses? Or is it mostly like a control plane for your own agents? And then I have a follow-up."
+  },
+  {
+    "speaker": "Daniel Dines",
+    "role": "",
+    "text": "Yes. I think Maestro, it's kind of agnostic in terms of what kind of agents it can manage. Of course, for our own agents, that are built with Agent Builder, we have very tight integrations. But we have also brought agents built with open source frameworks like the LangGraph type of agencies, first-class citizens in our platforms. And in terms of using -- utilizing agents built on system of record applications. Of course, we are -- we facilitate using them in our platform. I would not say we manage them. It's more or less like you can call an API that is provided by that platform. But I want to be specific, the all agents that are built with open source framework can be deployed and executed in the context of the security and governance that our platform provides."
+  },
+  {
+    "speaker": "Terrell Tillman",
+    "role": "",
+    "text": "Yes. That's a good clarification on the API side. Thank you, Daniel. And I guess, Ashim, the SaaS shift, that was an important call-out, 1% impact to growth as we look into FY '27. I'm also curious though, is there also starting to be this impact of timing dynamic or around consumption or scaling volumes related to the actual agentic solutions that we need to kind of appreciate that's not going to show up in revenue yet."
+  },
+  {
+    "speaker": "Ashim Gupta",
+    "role": "",
+    "text": "No. I mean, remember, we do -- we still price on kind of a bundle, meaning on a subscription, consumable-type hybrid model, meaning we sell kind of use it or lose it units that are there. So we're not on a consumption basis of accounting, so to speak. We're still on an ARR basis of accounting. So I would say there's -- it's not about any trailing or any delayed impact that you would see there. At the same time, I think our agentic solutions are scaling and our customers are adopting more and more as we talked about in the script and sales are moving very well for us. And that obviously is what's contributing a little bit to our SaaS side of it."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "And our next question comes from the line of Radi Sultan with UBS."
+  },
+  {
+    "speaker": "Radi Sultan",
+    "role": "",
+    "text": "Daniel, in your prepared remarks, you mentioned this growing backlog of automations you're seeing at customers. I just wanted to double click on that, like how big is that tailwind of AI unlocking more automatable workflows. And you mentioned the AI product ARRl, but just how material is that sort of pull through to the core automation business as well? I just love to get your thoughts there."
+  },
+  {
+    "speaker": "Daniel Dines",
+    "role": "",
+    "text": "Yes, that's an acute observation. Because of the huge interest in AI, it's actually driving renewed interest in automation. I think in most cases that we are seeing, people expect that the use of AI will result in some sort of automation. And it's becoming more clear that AI and Agentic AI and deterministic automation are very complementary. So basically, any AI initiatives surfaces more opportunities for deterministic automation, especially in our case for unattended deterministic automations."
+  },
+  {
+    "speaker": "Radi Sultan",
+    "role": "",
+    "text": "Got it. And then just a follow-up for Ashim. Just as you think about the ARR and revenue guide for the year and we think about sort of what the biggest drivers are, you guys really extended the product portfolio over the past 12 to 18 months. And just as we think about AI product, test cloud vertical solutions, sort of core RPA. Like how should we think about sort of what the biggest drivers are of that sort of growth next year as you kind of think about the guide?"
+  },
+  {
+    "speaker": "Ashim Gupta",
+    "role": "",
+    "text": "Yes. I think if you just look at some of the metrics that we disclosed, right, 90% of our $1 million-plus customers haven't incorporated AI products, right? I think that is a great -- to me, kind of a great tell of the success of the AI products and the ability for us to expand. And we've also talked about the number of customers that still have room to adopt those AI products that are there. So from our standpoint, AI and agentic is going to lead the way. But at the same time, as Daniel talks about, they're not a separate stream. They actually are very synergistic. As people pull forward AI and agentic products from us, it actually also pulls through the rest of the platform, whether that is IDP, IXP, unattended robots, et cetera. And we see that. We are very purposeful in discussing that we are seeing growth rate within kind of the core RPA business and we look at that as very synergistic as we go forward. The other thing to highlight is we're super excited about our test automation business. And that is still in its infancy, but we really see that having good traction in the market, and that can also be -- that is also a growth driver for us as we enter this year."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Our next question comes from the line of Scott Berg with Needham & Company."
+  },
+  {
+    "speaker": "Scott Berg",
+    "role": "",
+    "text": "I've got 2. Daniel, we've been doing some work with partners here. It's become very evident and clear that your partner strategy seems to be resonating really well right now across several different -- or your vertical strategy, excuse me, is working well across several verticals. But my question is, as you look into '27, are you able to lean into that strategy even more so given the success you're having there lately? Or do you feel like you're already at kind of a maximum effort."
+  },
+  {
+    "speaker": "Daniel Dines",
+    "role": "",
+    "text": "On the contrary, I think we are at the beginning of our vertical strategy. We are doubling down our focus on investments into this year. So if I can summarize our product strategy, I think there are 3 major pillars that we are seeing right now. So we focus on adopting coding agents all across our platform. So every single artifact is building on our platform will be built primarily by coding agents. Second its process orchestration that really drives everything Agentic AI and deterministic workflows. And third, it's vertical solutions. And we have seen clearly more of a move into customers that have a higher demand of kind of an outcome-based vision by use case-based type of solutions that they want to adopt."
+  },
+  {
+    "speaker": "Scott Berg",
+    "role": "",
+    "text": "Got it. Very helpful there. And then Ashim, I was hoping you can drill down in the quarter a little bit I know there's a $14 million tailwind around FX for ARR. But what was your assumption of that number going in the quarter? I get a lot of questions, to try to kind of back into the math in terms of how much incremental impact it might have been versus your expectations 90 days ago?"
+  },
+  {
+    "speaker": "Ashim Gupta",
+    "role": "",
+    "text": "Yes, it was honestly right. It was just right in line with that. As I talked about, like I think the yen you could see has an inverse correlation to the euro and the net for both of those tended to be 0. We see that both as we look into the current year as we've seen FX rates move as well as the current assumption that we see there. So from both our guidance standpoint and our results, we really see an immaterial impact to that. The driver for our beat in the quarter was really just sales execution. And we're -- we feel very strong about the customer response as we've seen about the traction that we're getting within our AI products. FX did not have a material impact versus our guidance."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "And our next question comes from Kingsley Crane with Canaccord Genuity."
+  },
+  {
+    "speaker": "William Kingsley Crane",
+    "role": "",
+    "text": "I think the idea of AI on top of deterministic automations, is really resonating. Just on this idea of Agentic really being about pulling through to the whole platform. Just trying to get a sense of how that ends up playing out from a deal timing perspective? Like -- is the customer typically renewing at a much higher rate? Is it happening where they'll adopt AI and then through the life cycle of their contract, they'll realize that they need more automation? Just trying to get more color on that."
+  },
+  {
+    "speaker": "Ashim Gupta",
+    "role": "",
+    "text": "I think it's all of the above. Honestly, like we've seen the customers renew just at renewal, expand into AI products. We have very good examples of that, both within -- across every vertical and every geography. There's also areas that they're still working through their POCs, but it's bolstered their renewal and their confidence given our road map. And the POCs are moving well, so they would expand just a little bit as they continue to kind of dip their toe in the water. So from our standpoint, it's not one single motion. It really depends on the customer or the circumstance. But what is encouraging to us is the success that our proof of concepts the feedback that we're getting from customers that as Daniel talked about governance matters and the full extent of our platform is a difference maker for us."
+  },
+  {
+    "speaker": "William Kingsley Crane",
+    "role": "",
+    "text": "Great. And then just a quick follow-up. That #1 OSWorld ranking for Screen Agent definitely impressive, and that's still holding up. Just curious like how specifically Screen Agent is driving more automation growth within customers. And just a reminder on the unit economics that's affected by running Opus versus running high-q, things like that."
+  },
+  {
+    "speaker": "Daniel Dines",
+    "role": "",
+    "text": "Yes. I think we are still in the early innings of deployment of the screenplay agent. We are seeing really good use cases from our customers. They -- the powerful use of this screenplay agent is that it is used in the context of autonomous workflows. So basically, the best we combine like using deterministic UI automation technologies. And in the places where it's extremely difficult to define in rules how to use the screen when the screens are -- have a high degree of variability. Our customers are using the screenplay agent. So that basically extended our platform in a few use cases that we couldn't basically touch before. But again, I think it's still early to comment on how does it help with the platform adoption."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "And our next question comes from the line of Arsenije Matovic with Wolfe Research."
+  },
+  {
+    "speaker": "Arsenije Matovic",
+    "role": "",
+    "text": "I just kind of wanted to go back and expand kind of on the ARR guidance methodology in terms of that conservatism. Like what does that mean? And I understand we're not going to be talking about inorganic from WorkFusion, $20 million, whatever it is. Even if you strip out that number growing at the 65% rate the CEO talked about. Is there a way that it still looks a little bit less conservative in that guide? And if there is a little bit less conservative [indiscernible] dynamic where it's just, hey, larger renewal cohorts and also more confidence in that execution tailwind that you started to see exiting the year?"
+  },
+  {
+    "speaker": "Ashim Gupta",
+    "role": "",
+    "text": "Yes. So one is I just want to correct, Like, I don't think we should -- the metrics that we talked about, as I said, we bring it on at a different ARR methodology. So I really want to caution everybody to use kind of those -- those assumptions. It's immaterial for a reason as we've done that test. The second piece is, while the business was growing at 65%, remember, we also have overlapping customers, et cetera. We really view this as a technology tuck-in that can drive utilization and stickiness across our Agentic and AI platform. And of course, we do see potential there for the upsell, but we also have to go through an integration period with the company. And that is all baked into our guidance from that standpoint. We look at it as our core business continues to be very strong, and we are stabilizing net new ARR. And with AI and Agentic, we do feel bullishness about the overall business. But given the macroeconomic environment continuing to be variable, we do layer the appropriate prudence that is there."
+  },
+  {
+    "speaker": "Arsenije Matovic",
+    "role": "",
+    "text": "Got it. And then just in response to an earlier question, I didn't really kind of get the in line with the constant currency guide. Can we just clarify what was the constant currency ARR growth rate implied in the guide for revenue and for ARR growth because the communications throughout the year on tailwinds and incremental headwinds has kind of laid up a weird kind of analysis to figure out what the actual core constant currency growth was?"
+  },
+  {
+    "speaker": "Ashim Gupta",
+    "role": "",
+    "text": "Yes. From our standpoint, we gave the $14 million, which we assumed -- which we -- for the guidance that was there, but the growth rate remains 11% for us. It is largely a material year-over-year."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "And our next question comes from the line of Siti Panigrahi with Mizuho Securities."
+  },
+  {
+    "speaker": "Phil Winslow",
+    "role": "",
+    "text": "This is Phil on for Siti. So you guys raised the long-term non-GAAP operating margin target to 30%, which is a meaningful step up. Can you walk us through what gives you confidence in that number? And what is the time frame of achieving that target?"
+  },
+  {
+    "speaker": "Ashim Gupta",
+    "role": "",
+    "text": "Yes. So right now, we're in and around 23% north of that. We've shown really good progress and scalability over the last couple of years, in particular. The first thing is we just continue to operate with really good discipline. And so we constantly are moving investments to higher return areas. And so when you're able to do that, it obviously creates a scalability of expansion. The second is we believe in the productivity that is being unlocked right now with agentic and that agentification within our own business is something that is very exciting for us and our teams to unlock further steps of productivity. And that includes all areas within the company. We can be more productive, expand and support our broader road map, really with similar technology spend just because of the advances that are there or R&D spend. The same goes with our G&A function as well as our sales and marketing function. So we're really seeing that scalability just even with the technology advances as well. In terms of time frame, it's a long-term margin target. We -- as it implies, that's kind of within a 3-year time frame from our standpoint in and around it. And at the same time, like we don't take -- we're not waiting for 3 years. We're going to continue to execute and drive productivity as we see fit."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "And our next question comes from the line of Koji Ikeda with Bank of America."
+  },
+  {
+    "speaker": "Koji Ikeda",
+    "role": "",
+    "text": "I'm going to ask one on dollar-based net revenue retention. So it's down 1 point to 106% when adjusting for FX. And so looking into fiscal '27, what are the main drivers we should be thinking about, whether that's product, geography, vertical or maybe something else in there that can drive expansion in that metric? And how should we be thinking about the dollar-based net revenue retention assumptions that are embedded in the guide? Is that flat, up or down from the 106%?"
+  },
+  {
+    "speaker": "Ashim Gupta",
+    "role": "",
+    "text": "Yes. I think when you look at overall net new ARR stabilizing, like we don't really see a difference in the mix shift between net new logos as well as expansion. We see them both as areas that will continue. We've kind of operated in this 80-20, 70-30 split. So that gives you, I think, enough data to be able to see that net new ARR stabilizes over this period of time from where we are. In terms of what gives us confidence or kind of how we see that expansion, again, as we spoke about earlier, it is really around our AI and Agentic products. And then with that, really pulling through the overall platform, including deterministic automation, continuing to expand across our customer base."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Our next question comes from the line of James Kisner with Water Tower Research."
+  },
+  {
+    "speaker": "James Kisner",
+    "role": "",
+    "text": "I guess first, just -- from the foundational model perspective, I mean has the Anthropic supply chain risk designation, have you seen any kind of ripples from that at all? Is there any kind of exposure at all any change in behaviors out there? And then just on the WorkFusion acquisition, does that portend potentially future acquisitions and other verticals for agentic capabilities?"
+  },
+  {
+    "speaker": "Daniel Dines",
+    "role": "",
+    "text": "Yes. In relation to Anthropic, our strategy was from the beginning to be model agnostic. And we -- 1 of the features that many of our customers have requested this to give them the capabilities of choosing what model and even bring their own model to be used by our platform. So we do offer Anthropic models but they are optional and not mandatory. And from this perspective, there is zero impact on our working relationship with public agencies in the U.S. About WorkFusion, Yes, it's -- we are always looking into the market, especially for tuck-in acquisition that gives us the talent, technology, and expertise in a particular vertical."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "And with that, ladies and gentlemen, that does conclude the question-and-answer session. I would now like to turn the floor back to management for any closing remarks."
+  },
+  {
+    "speaker": "Daniel Dines",
+    "role": "",
+    "text": "Well, thank you so much for listening to this call. And once again, I would like to apologize for the outage that we experienced, and I'm looking forward to meeting many of you in the coming days. Thank you."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Thank you. And with that, ladies and gentlemen, this does conclude today's teleconference. We thank you for your participation, and you may now disconnect at this time, and have a wonderful rest of your day."
+  }
+]

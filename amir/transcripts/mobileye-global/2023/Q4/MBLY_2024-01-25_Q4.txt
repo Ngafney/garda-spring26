@@ -1,0 +1,361 @@
+Operator
+Greetings, and welcome to the Mobileye Q4 '23 earnings call. At this time, all participants are in a listen-only mode. A brief question-and-answer session will follow the formal presentation. [Operator instructions] As a reminder, this conference is being recorded.
+It is now my pleasure to introduce your host, Dan Galves. Thank you, Mr. Galves. You may begin.
+Dan Galves
+--
+Chief Communications Officer
+Thanks, Kat. Hello, everyone, and welcome to Mobileye's fourth quarter 2023 earnings conference call for the period ending December 30, 2023. Please note that today's discussion contains forward-looking statements based on the business environment as we currently see it. Such statements involve risks and uncertainties.
+Please refer to the accompanying press release which includes additional information on the specific factors that could cause actual results to differ materially. Additionally, on this call, we will refer to both GAAP and non-GAAP figures. A reconciliation of GAAP to non-GAAP financial measures is provided in our posted earnings release. Joining us on the call today are Professor Amnon Shashua, Mobileye's CEO and president, and Moran Shemesh, Mobileye's CFO.
+Also, joining today for the Q&A session is Nimrod Nehushtan, Mobileye's executive vice president of strategy and business development. Thanks, and now I'll turn the call over to Amnon.
+Amnon Shashua
+--
+Founder and Chief Executive Officer
+Thanks, Dan. Hello, everyone, and thanks for joining our earnings call. Starting with our results in Q4, they were in line with the press release we provided on January 4th and with the prior guide, so no surprises here. At a high level, Q4 was a strong quarter in terms of revenue growth of 13% and adjusted operating income growth of 14%.
+We are pleased with the sequential growth and SuperVision volumes and we expect to see continued excellent growth in that product in 2024. I'd also call attention to our operating expenses, which were significantly lower than what we expected in 2023, much of which relates to transitory issues, but also some of which captures efficiencies that should benefit our cost structure over the long term. Looking ahead, the guidance we provided today is unchanged from the outlook we provided in early January. The inventory correction that is impacting the first half of the year has been well publicized.
+While we did not learn of this build up until late in the year, we believe we have our arms around this issue and the clear out plan. We have implemented additional processes to more closely monitor shipments versus demand. And we believe we have good visibility into how to put this behind us and get back to normalized revenue in the back half of 2024. Moran will provide some additional cover.
+Switching gears, as we close out 2023 and come out of CES, it's a good time to remind you of our high level strategy and assess the progress made. Our strategy is very simple. Our products were in about 40% of auto production in 2023 and the higher percentage of vehicles would aid us. We can continue to grow that in the coming years as a bigger and bigger percentage of cars are equipped with some level of driving assist technology.
+But the more important growth driver is average revenue per vehicle, driven by our advanced portfolio products. SuperVision, Chauffeur and Drive would generate much higher average system prices than our core ADAS products. Events and progress in 2023 gave us more confidence than ever that a very large market for these advanced products is developing, and that our technology and business model makes us best positioned to enable and win in that market. On the industry segment itself, we see three clear distinct value propositions that we expect will drive consumer demand and turn into a very -- into a new, very large automotive TAM.
+No. 1 is a meaningful improvement in safety, related to the surround cameras that are a must on the next generation of eyes-on, hands-free, Level 2 plus systems like our SuperVision platform. It is underappreciated that in addition to the convenience of hands-free driving, the 360 degree perception can support a step change in safety. Current single camera systems don't support the many evasive maneuvers that can limit accidents, like merging into an open lane to avoid a rear-end collision or avoid vehicles running red lights.
+No. 2 is the higher productivity for the car owner. Eyes-off systems like Chauffeur can offer valuable time back to the car owner. If the operational design domain is only 80% to 90% of the time, this is seen as very high value by automakers.
+No. 3 is turning vehicles into highly utilized resources. This corresponds to our fully autonomous Drive product. We'll be able to offer self-driving systems for lower than the annual cost of a driver.
+This unlocks an ability for our customers to generate revenue at a much lower operating cost per mile and with no need to pay or find drivers. We believe these value propositions align perfectly with our advanced product portfolio. And there was much evidence in 2023 to support our view that those products are the highest performing, most scalable and lowest cost available options in the market. At a high level, all the industry trends were in our direction.
+The pace of innovation really picked up in China and the pressure on OEM capital efficiency rose. These both are pushing global OEMs to focus more on programmatic issues like time to market, cost and performance, exactly where Mobileye has advantages. At the same time, we launched the ZEEKR SuperVision software to high praise which was significant proof point. Finally we recently brought to our customers a collaboration framework called DXP that enables the automaker to control the driving experience of a SuperVision or Chauffeur based system.
+Finding sweet spot that enables the OEMs to control the look and feel of the system but rely on our core technologies for all the objective and safety critical aspects is already paying dividends with customers. On a more specific basis, we announced the value of our 2023 design wins at CES two weeks ago. Future projected revenue was $7 billion for the second year in a row. This compares to our 2023 revenue of $2 billion.
+Implied ASP of these agreements was $122 in 2023, $105 in 2022. This compares to ASP for 2021 design wins of $65 and ASP of our actual revenue in 2023 of $53. The volume associated with the design wins the last two years is $60 million plus compared to mid-$30 million today. Beyond the design wins, 2023 was an important year for execution, customer acquisition and expansion of OEMs in the opportunity set.
+Our SuperVision system is now on more than 190,000 vehicles. We delivered the full highway software in August and it's providing to be a highly capable system -- it's proving to be a highly capable system and we have expanded design domain to 22 cities from only two back in September. We believe that proving ourselves in what is the most challenging environment for Mobileye, given data restrictions, proves our global scale and that's unique selling point that is underappreciated. We were awarded SuperVision design wins with Porsche, FAW, Mahindra and a major western OEM over the course of 2023.
+The number of models included in all our design wins are now projected at 30 models as compared to nine models at the beginning of 2023. Our portfolio strategy where SuperVision serves as a bridge to Chauffeur is being proven out as Polestar, FAW and a multi-brand major western OEM, all awarded production programs on the Chauffeur platform during 2023. We diversified the business significantly during 2023 from mostly Chinese OEMs and mostly electric vehicles to a diverse set of OEMs, price points, and powertrain types. The most important catalyst was the landmark design win to bring our entire product set to a major western OEM.
+It's the first global OEM to align behind our complete portfolio, especially mirroring their future intelligent driving product development plan to our portfolio. It more than doubles the number of vehicle models in the pipeline and spans across all markets and powertrain types. And the endorsement of this automaker will be high value in terms of closing additional deals. We were successful in moving many OEMs into our business development funnel as the high-level trends I described earlier increased the sense of urgency in the marketplace and the confidence in our solutions.
+We now have design wins or are in advanced discussions with 11 OEMs representing 37% of industry production as compared to three OEMs representing 9% of industry production as of the start of 2023. In summary, we know of no other competitor in the ADAS-AV space with a similar breadth of design wins that has actual navigate on-pilot systems in production and has production programs for eyes-off systems with multiple automakers. Overall, as we have shared previously, we do not expect 2024 financial results to be where we want them to be, given the inventory correction. But we expect to leverage all the groundwork laid in 2022 and 2023 to take a leap forward in terms of visibility toward the next leg of our growth story.
+I'll now turn the call over to Moran.
+Moran Shemesh
+--
+Chief Financial Officer
+Thank you, Amnon, and thanks for joining the call, everyone. Before I begin, please be aware that all my comments on profitability will refer to non-GAAP measurements. The primary exclusion in Mobileye's non-GAAP numbers is amortization of intangible assets, which is mainly related to Intel's acquisition of Mobileye in 2017. We also exclude stock-based compensation.
+Starting with Q4 results, we had another very good quarter with revenue up 13% year over year, adjusted operating income up 14%, and adjusted operating margin at 39%. SuperVision volumes were 38,000 units in Q4, up from 29,000 in Q3. The 67,000 units we did in the second half was significantly higher than 35,000 in the first half. Operating expenses were again meaningfully below expectations, about $30 million this quarter.
+There were two main areas, each about the same magnitude. Favorable expenses were lower due to favorable ethics and due to some reimbursement for employees on military reserve duty. The other factor was higher than expected engineering reimbursement for pre-designed win activities with certain OEMs. Over the course of 2023, our operating margin rose from 27% to 39% on sequentially higher revenue and consistent operating expenses.
+Obviously, this is a backward-looking, but it should give investors some sense of the operating leverage possible once more meaningful SuperVision and Chauffeur volumes start to drive revenue significantly higher. On a cashflow basis, we generated almost $400 million of operating cashflow in fiscal year 2023. And it's important to note that we invested around $200 million in rebuilding the safety buffer of EyeQ chips on our own balance sheet. We expect to maintain a consistent level of balance sheet inventory in 2024.
+Capital expenditure were just below $100 million for the year, in line with our prior comments. Looking ahead, you are all aware that as part of the process of setting order schedules for Q1 and the remainder of 2024, we learned that there is 6 million to 7 million units of excess inventory of EyeQ chips at our customers. We understand that much of this excess inventory reflects decisions by Tier 1 customers to build inventory in the basic ADAS category due to supply chain constraints and a desire to avoid part shortages in 2021 and 2022, as well as lower than expected production in certain OEMs during 2023. The inventory situation is related to the base ADAS business only, as SuperVision inventory is at normal level.
+As we noted in our January 4th press release and 8-K, we expect Q1 revenue to be down approximately 50% to around $230 million. We expect EyeQ volume to be around $3.4 million units in Q1. We expect SuperVision in the low 30,000 unit range, reflecting normal seasonality in China. Given the unusually low EyeQ volume, SuperVision will be a larger portion of revenues in Q1, which will result in gross margin in the mid-60 range.
+Extracting our operating expenses, which will likely be a bit higher than the recent $200 million run rate, the outlook for Q1 adjusted operating income is for a loss of $65 million to $80 million. But we see revenue and volume snapping back fairly quickly and believe we have very good visibility on this. Due to the nature of our business, all of this inventory is for specific OEMs and production of specific vehicle platforms. The process to clear the inventory is simply to stop shipping chips for specific vehicles and have our customer use the existing inventory to satisfy demand.
+There is no uncertainty regarding who the customers are, there is no alternative product that can be used, and there is no discounting or other economic action needed to clear the inventory. As we compare our prospective shipment with vehicle production schedule, we believe approximately 5 million units can be cleared in Q1 and the vast majority of the remainder in Q2. In terms of our full year guidance, it is unchanged from the preliminary outlook we provided in January 4th, and our visibility has improved over the last several weeks. From a volume perspective, we are assuming 31 million to 32 million EyeQ shipments and 175,000 to 195,000 SuperVision shipments in 2024.
+We expect the cadence of EyeQs assuming the midpoint of the guidance to be around $3.4 million in Q1, an increase of at least 100% in Q2 versus Q1, and then the balance of unit shipments in the second half of the year. We believe that this cadence, based on our analysis and discussions with customers, should result in a vast majority of excess on the inventory to be cleared by the middle of 2024. We expect average system price to increase in 2024 as compared to 2023 due to an increase of SuperVision as a percentage of total revenue. In terms of gross margin, we look at it on a product by product basis.
+On the ADAS side, we expect a slight down tick in growth margin this year for two reasons. One, as you know, the cost of EyeQ chips from our supplier went up at the beginning of 2023. We passed that along to our customers. However, there were a decent number of units in 2023 where we generated revenue at 2023 prices, but used cheaper chips in 2022 costs.
+That's a minor headwind this year. We are also assuming some continued normalization of production mix after a very rich mix during the supply chain crisis. We expect these two headwinds to be partially offset by higher cloud-enhanced ADAS volume and REM recurring revenue. Regarding SuperVision, the optimized domain controller is now in production.
+This comes at a meaningfully lower cost and we are sharing a portion of that with our customers. ASP will be down a bit compared to last year but we expect gross margin to be up meaningfully to low 40% as of Q2 2024 as compared to low to mid 30% in 2023. In addition, we would expect some level of software licensing revenue to begin making an impact in Q4 of this year once the ZEEKR free trials are over. Any consumer that chooses to pay for the SuperVision-based feature after the free trial will drive incremental revenue and profit for Mobileye.
+With respect to operating expenses, we are assuming 20% increase over the final 2023 number on an adjusted basis, excluding amortization of intangible asset and stock-based compensation. The opex bears a bit more discussion. Our forecast for 2024 is unchanged from what we projected several months ago and not too far above our original forecast for 2023. Much of the lower cost in 2023 related to more transitory things like foreign exchange and delayed moving to our new campus, good news on some engineering reimbursement and reimbursement of certain payroll costs for employees on military reserves.
+But some of it is structural. Certain adjustment to the way we collaborate with OEMs, including ASP, means that SuperVision and Chauffeur programs can scale more efficiently than we originally envisioned. The refinement of our mobility-as-a-service strategy to focus on supplying the self-driving system leads to structurally lower costs, but we don't believe a reduction in the opportunity. Bottom line is that we do believe our operating expenses in the near and long term should be structurally lower than we expected as of a year ago.
+We continue to believe that opex percentage growth in 2025 and beyond should be significantly lower than in 2024. Lastly, in terms of tax rates, we are assuming a non-GAAP effective tax rate of between 15% and 17% for 2024 in comparison to 11% in 2023. Thank you and we will now take your questions.
+Dan Galves
+--
+Chief Communications Officer
+Thank you, Moran. Kat, if you could compile the Q&A queue, please analysts if you could limit your questions to one main question and one follow-up. Thank you.
+Questions & Answers:
+Operator
+Thank you. We will now be conducting a question-and-answer session. [Operator instructions] Our first question comes from Mark Delaney from Goldman Sachs. Please proceed.
+Mark Delaney
+--
+Goldman Sachs -- Analyst
+Yes. Good morning and thanks very much for taking the question. I was hoping to start with an update on the engagements with the OEMs with some of your more advanced solutions like SuperVision and Chauffeur. I think as of the 3Q call, you said you were either booked or in advanced discussions with 10 OEMs.
+I think, Amnon, you said today that's now at 11, and then I believe there's another four OEMs where there was more preliminary discussions underway. Can you give any more color on how those discussions are going, your general sense of progress? And were any OEMs maybe deciding to go another direction, or do you still feel like you're well positioned with that set of customers?
+Amnon Shashua
+--
+Founder and Chief Executive Officer
+Well, SV and Chauffeur are complex systems. So early adopters, they need a lengthy due diligence process. For example, before winning SuperVision on Porsche, we underwent thousands of miles of public road rides in Europe and in the US with a due diligence that took almost a year. But now we are facing the effects of, I would call this the law of innovation of diffusion, which means that more OEMs buy into SuperVision and Chauffeur, the shorter their due diligence phase.
+So after winning the big western OEM, I believe that due diligence phase is getting much shorter. And we foresee a number of design wins, both in western and in China during 2024. And I believe that the announcement of those design wins would be in the second half of the year.
+Mark Delaney
+--
+Goldman Sachs -- Analyst
+That's helpful. One of the things I was hoping for an update on was the DXP platform. It was a big part of your speech and presentation at CES this year. I imagine you met with a number of current and potential customers at CES.
+Maybe you can share more around how impactful DXP is and the receptivity of auto OEMs to DXP? And maybe touch a little bit on how DXP is different from EyeQ Kit? Thank you.
+Amnon Shashua
+--
+Founder and Chief Executive Officer
+I think that the DXP really solves the problem of how the OEM can own the driving experience in a very efficient manner. So previously before DXP, OEMs would come to us and say, look, we want to take your two EyeQ 6 chips, add another microprocessor, a strong microprocessor that would cost hundreds of dollars and will write our driving policy code on that microprocessor. Or they would come and say that writing our code on your EyeQ 6 chip would create all sorts of clashes because our code and your code, fighting on resources, so we prefer to put it on a separate chip. Now, this means that the cost of the system is higher and the economical scalability is very, very important.
+With DXP, they do not need to add any additional microprocessor. They do not need to write code on our EyeQ 6 chip. They write code on the MCU, and they write high-level code, and they use our infrastructure for writing their driving policy. So it reduces -- it does two things, it reduces the bill of materials of the system because you don't need to add another chip and it allows Mobileye to scale much faster because all the code written on the EyeQ 6 chip is more or less the same for all the platforms.
+All the differences are in the MCU. Maybe Nimrod wants to add something.
+Nimrod Nehushtan
+--
+Executive Vice President, Strategy and Business Development
+If I may add, we had the opportunity during CES to present this concept to multiple OEMs in dozens of meetings and the reception was very compelling in the sense that although OEMs now have more focus on pragmatic considerations like cost, performance, and time to market, this does not come at the expense of owning the user experience and being able to influence and craft their own kind of user experience for their customer base. And what's really missing in industry to find the sweet spot in between the best performance cost in time to market solution and full flexibility in crafting a unique user experience. And this is where DXP comes in and it is really perceived as a driving operating system by OEMs, which is kind of simplifying the task for OEMs who are now interested in offering new driving experiences in this new generation of driver assist and autonomous driving products.
+Dan Galves
+--
+Chief Communications Officer
+Thank you. Next question, please.
+Operator
+Our next question comes from Emmanuel Rosner from Deutsche Bank. Please proceed.
+Emmanuel Rosner
+--
+Deutsche Bank -- Analyst
+Thank you very much. My first question is around the chip destocking situation that you flagged a few weeks or so ago. Can you maybe just go back over how you became aware of it? How do you get confidence around the magnitude of the issue and the timing of it being resolved in line with what you reiterated today, please?
+Amnon Shashua
+--
+Founder and Chief Executive Officer
+I think, Moran?
+Moran Shemesh
+--
+Chief Financial Officer
+Yeah, so as I mentioned in the script, so the inventory buildup issue started actually three years ago, in mid-COVID period when global production went down dramatically and the industry was all about the desire to secure production and to go after every chip. That was also the atmosphere for us with the suppliers and also from the sense of urgency that we got from our customers. That of course, we believe, led to some stocking, billing activity. In addition, with related to your question, in 2022 and 2023, actually the ordering process changed.
+So we needed to make full year commitment to our chief supplier. So we asked our customers to do the same and make full year commitment for this year in both 2022 and 2023, which led to less ability from their side to adjust purchases to demand as they did it pre-COVID period. So adjusting again the quantities was impossible actually in 2023. In 2023, we know the supply chain crisis largely was over but it was still unclear when will global production get back to normal to pre-COVID levels, which might be the reason that the Tier 1s kept holding this inventory through the year.
+They were also, again, obligated with commitments, but they held it through the year and we weren't informed of such quantity. Over the course of 2023, we believe that our core customers underperformed in terms of production for our top customers, which make the majority of our ADAS customers, they grew 4% versus the overall market growing of 9%. And then, toward the end of the year, when the commitments were ending, and now in 2024 we got back to normal in terms of orders, so we have quarterly orders and customers can adjust to the quarterly, we think that's the reason it came up toward the end of 2023 and not at the beginning of the year or some other time during this period.
+Emmanuel Rosner
+--
+Deutsche Bank -- Analyst
+Understood. That is helpful. And then, just a quick one on SuperVision. I guess as part of this update a few weeks or so ago, you also sort of tweaked down expectations for SuperVision units in 2024.
+I think part of it was maybe an exercise in de-risking around like timing launches. Could you provide us sort of similar type of de-risking around what the trajectory looks like beyond 2024? Obviously, launches have generally sort of happened a little bit later than expected, at CES about a year or so ago. So just want to make sure that investor expectations are properly calibrated for what's beyond 2024 in the ramp-up initially when you only have sort of a few initial customers.
+Amnon Shashua
+--
+Founder and Chief Executive Officer
+Yeah, At the beginning of 2023, we had a small number of car models and it's difficult to make accurate forecasts. Today, we have 30 car models and we can improve our forecasts. For 2023, in production we had two car models in China to base our forecast and all what we had to rely on was OEM numbers which turned out to be optimistic. Now, we know that most of the production of SuperVision is coming out in 2026.
+By 2025, we'll have between nine to 11 models of SuperVision. Now, the five models from the Geely Group, two from ZEEKR, one from Smart, one from Polestar, one from Volvo, and then between four to six car models from the FAW. So that's the production in 2024 and 2025. And then, in 2026, we have Porsche and we have the big western OEM with 17 car models and we have Mahindra.
+Dan Galves
+--
+Chief Communications Officer
+And just one follow up from me, this is Dan. In terms of calibration, for the leading edge analysts that have calibrated their models and estimates to the tracking document that we provided at CES, as well as their own updated analysis, these estimates look reasonable and achievable to us. Thank you. Next question.
+Operator
+Our next question comes from Dan Levy from Barclays. Please proceed.
+Dan Levy
+--
+Barclays -- Analyst
+Hi. Good afternoon to you. Thank you for taking questions. I wanted to start with just tying to your comments about the engagements with 11 OEMs, I think broadly there is this narrative out there that, like you said, automakers do want to own technology, but the challenge is it's been very difficult to scale and there's a notable example of a North American automaker that is pulling back on some of their more advanced ADAS plans given some struggles there.
+So to what extent are you seeing more engagement with automakers that despite the desire to own the technology really are coming to the realization that they have no choice but to come to you because you are the easiest and fastest way to scale? To what extent are you seeing automakers come around to you?
+Nimrod Nehushtan
+--
+Executive Vice President, Strategy and Business Development
+Yeah, I'll take it. So I think what we are seeing is this domino effect that in one sense it is becoming a realization in the industry that the next few years are going to be very heavily influenced by OEM's ability to offer these products that offer hands-free driving, eyes-off driving, and it is going to become a more -- a growingly more important feature for consumers. And this is what gives rise to the sense of urgency among OEMs to create the shortest path they can for a high quality product. And maybe a few years ago, it was still -- OEMs had the perception that they have some time to invest and they can take the longer path to get there while still owning the technology stack.
+Now, the clock is ticking for them and they are looking for the kind of the best performance at the shortest time to market so that they can compete. And we already see this dynamic happening in China and it's growing outside of China already today. So we do see more and more traction from OEMs who were maybe in the past more bullish on owning the technology stack who have come to a realization that they need to at least find a parallel path inside their company to de-risk the activity toward the next generation of ADAS products. So a certain portion of our engagements are with OEMs who have invested significantly in the past in in-house activities.
+Can say that.
+Amnon Shashua
+--
+Founder and Chief Executive Officer
+I can say a lot of it that it's really a flywheel effect. A few years ago, the only reference to such a system was the Tesla Autopilot and FSD. Now, you have Chinese automakers with systems of a similar setup and those Chinese automakers are also -- some of the models are being exported to the West and those are mobilized systems. Now, they know that Porsche and the big western OEM are also going to introduce these systems.
+So it creates a flywheel effect. And as an OEM, you need to cater to the rising competition in terms of intelligent driving. So this creates more and more incentive to start working with Mobileye on these advanced products, whether instead of their in-house development or in parallel to their in-house development.
+Dan Levy
+--
+Barclays -- Analyst
+Great. Thank you. As a follow-up, somewhat related, maybe you could just provide us with an update on the competitive landscape in China and appreciate that some of the earlier engagements you've had with SuperVision are based on China but we also know that China is the market where there is right now the most rapid development cycle. There are also data barriers within China.
+So to what extent are you -- maybe you could talk about share trends or win rates in China. And to what extent are you as competitive in China as you are in the West?
+Amnon Shashua
+--
+Founder and Chief Executive Officer
+OK. So actually it's going to be a lengthy answer, so bear with me. It's really a complicated landscape. So I'll start with West.
+With the western OEMs, we have about 90% share in eight out of the 10 biggest OEMs. This is true not only today, but given all the design wins to date, this is true for the foreseeable future. Actually, given all the current design wins, our market share is growing. Now, in China, there are a number of OEMs where we have above 90% market share, including some local OEMs like Chery.
+There are also some local OEMs where we have around 30%, and some which we do not have a relationship yet. So for example, at BYD, we have 30% market share, and with Changan, we have zero. So Chinese OEMs growth is faster than our market share growth. BYD and Changan are growing fast.
+Now, in terms of competition, there's the low-end and high-end. At the low-end ADAS, we have some supplier competing at the very low-end solutions, very low cost, very low-end solutions. And at the high-end, we have the in-house development of OEMs. So at the low end, competing systems suffer from a large performance gap on the very basic features like autonomous emergency braking, for example.
+The performance will never pass any Western regulator. For them to catch up, they'll need to have more expensive system which will reduce their competitive offering. Moreover, we are adding REM to the low-end ADAS to provide a cloud-enhanced system and Chery just announced that in two months, car models with Mobileye Cloud Enhanced solution will be launched. This will add more pressure on our competitors by creating a moving target for single camera ADAS.
+For the high-end systems, those are developed in-house by some OEMs, there are still significant proof points to pass, I'll say along three axis. There's geographic scalability, performance scalability, and economic scalability. So geographic-wise, there is this move from highway to urban. This is a big challenge because high definition maps provided by map makers are done manually, do not scale to urban.
+Mobileye has REM. This is a big advantage. Also, geographic-wise, OEMs want to export systems outside of China and meet regulation. Mobileye has an advantage there.
+Performance wise, the goal is to move from eyes on to eyes off. This is a significant step-up in performance and focus on safety. Mobileye has an advantage there. Economical wise, in-house systems are more expensive and require more sensors to reach a reasonable performance level.
+Mobileye has an advantage there. So, Chinese, I think the Chinese market is the most interesting and dynamic market to date. And I think we're doing well there and our market share will grow but the growth of the market is faster than our growth of the market share and I hope we'll catch up soon.
+Dan Levy
+--
+Barclays -- Analyst
+Thank you.
+Dan Galves
+--
+Chief Communications Officer
+Thank you, Dan. Next question, please.
+Operator
+Our next question comes from Itay Michaeli from Citi. Please proceed.
+Itay Michaeli
+--
+Citi -- Analyst
+Great. Thanks, everybody. Good afternoon. Just two quick questions for me on the pipeline.
+First, hoping you can kind of dimension what portion of the pipeline is both looking at SuperVision and Chauffeur combined, just given the momentum you've seen with Chauffeur recently? And second question, since the big announcement at CES, have you seen an increase in activity and conversations, including maybe with the second wave OEMs you described in the last earnings call?
+Amnon Shashua
+--
+Founder and Chief Executive Officer
+Yes, Nimrod will take it.
+Nimrod Nehushtan
+--
+Executive Vice President, Strategy and Business Development
+Yeah, so regarding the first question, it depends. In some of the engagements we have, we have parallel engagements for both SuperVision and Chauffeur with the same OEM. This is in the case where the OEMs are interested in a few car models with which maybe they want to have different offerings for different segments in the market, different price levels of cars. On the other hand, there are some OEMs who might be more interested in specific product offering and maybe to start from Chauffeur or to focus on hands-off for their cars because of whatever considerations they have.
+So we can say we have a mixed bag of engagements in general. We see a good mixture of both Chauffeur and SuperVision in our pipeline engagement. And I think regarding -- what was your second question, please? You can just repeat?
+Itay Michaeli
+--
+Citi -- Analyst
+Just since CES, any increase in activity and engagement with the second wave?
+Nimrod Nehushtan
+--
+Executive Vice President, Strategy and Business Development
+Yeah, so I think one of the interesting outcomes of CES is that we have had just over a couple of weeks after CES, we already have, I think, three engagements within our pipeline that specifically want to focus on evaluating DXP hands on, to actually start working technically on DXP, to start experimenting with it, to start feeling the tools, seeing how they can influence the driving experience. And this is just after a couple of weeks since we have announced it for the first time. So it is a very promising start to this promotion process that we are executing.
+Itay Michaeli
+--
+Citi -- Analyst
+Perfect. That's very helpful. Thank you.
+Dan Galves
+--
+Chief Communications Officer
+Thanks, Itay. Next question, please.
+Operator
+Our next question comes from Joe Spak from UBS. Please proceed.
+Joe Spak
+--
+UBS -- Analyst
+Thanks everyone. You talked a lot about the progress on the SuperVision program wins. I was wondering if you could shed a little bit of light on how -- when you have those conversations with customers, how they think about implementation on those programs or take rates? Like, are they convinced they can charge for these features or, Amnon, you mentioned that as you sort of get to more higher end features like Chauffeur where you get time back, maybe do we need features like that to see -- to really see significantly higher levels of adoption and willingness to pay?
+Amnon Shashua
+--
+Founder and Chief Executive Officer
+Well we have -- in the West we have a reference and that's the cost of Tesla FSD. This is why it's so important to have a very economical, very low cost system to allow the car maker flexibility in pricing. Now, Mobileye system with the sensors is less than $2,000. So, this gives the OEM lots of flexibility in pricing considering that the Tesla FSD is $12,000 to the end customers.
+So, most of our engagements, the system is a standard fit. So it's not with a take rate calculation, but it comes on every and every car. So this is the situation right now.
+Joe Spak
+--
+UBS -- Analyst
+Thank you. And then, just the second one, you mentioned, just with respect to the inventory bill that occurred, you mentioned that you're implementing some procedures to put in place to make sure you keep better track of sell-through. Can you talk a little bit more about what you're doing there, or is this really just -- you mentioned also that over the past couple years you went to full year commitment. So have you sort of pulled back on full year commitments? Is that part of that procedure?
+Moran Shemesh
+--
+Chief Financial Officer
+Yeah. So I'll take it. So first of all, of course, I must say that we never experienced the situation before as our customers have done all through the 10 plus years period a very good job in ordering the demand. Given the recent history and the inventory issue, of course we are taking action in several fronts to add capabilities to monitoring of shipment versus demand.
+So the first thing that you mentioned, yeah, the order process is now back to normal. So commitment for 12 months is no longer relevant. So the commitment is only a quarter ahead. So we do get forecast, 12 month forecast, but that's just a forecast.
+It's not a commitment. So the same thing with our suppliers. So again, the industry and it's what we've been saying, that the 12 month commitment is no longer relevant in 2024 and we don't expect it to be relevant also in the future as it was specific to COVID. We will also try to receive some input from our customers on inventory level, but it's not that something that we have visibility to, it's important to mention.
+In terms of actions, we're taking internally. So we have established a regular process to match shipments to detailed vehicle production, both looking backwards and forward. We are putting more focus on market-based forecast that incorporate the adoption rate and OEM share trends. We always have used and updated the forecast and compared to the market, but we will now put more weight on this as another input of the customer provided forecast.
+We will also consider working with external vendors to build some statistical model forecast to incorporate macro level data and additional headcount to support this. But that's what we -- that's the steps that we are taking.
+Joe Spak
+--
+UBS -- Analyst
+OK. Thank you very much.
+Moran Shemesh
+--
+Chief Financial Officer
+Another clarification that Dan mentioned, it wasn't clear in my script. So the full guidance for 2024 hasn't changed from January 4th. So for EyeQ we are anticipating 31 million to 33 million units of EyeQ shipment. A clarification since the line was down a bit.
+Thanks.
+Dan Galves
+--
+Chief Communications Officer
+Thank you, Moran. Next question, please.
+Operator
+Our next question comes from Vijay Rakesh from Mizuho Securities. Please proceed.
+Vijay Rakesh
+--
+Mizuho Securities -- Analyst
+Just a quick question on the company landscape again. I think -- and obviously Mobileye is doing very well in the Western hemisphere, I think, especially with CARIAD gone and GM Cruise having problems as well. But in China, are you seeing -- there's been some concerns on potentially NVIDIA gaining share. Any thoughts on that? What's driving that? Is that any price performance or just OEMs trying to diversify? Can you talk to what you're seeing there?
+Amnon Shashua
+--
+Founder and Chief Executive Officer
+I think in China, I mentioned the in-house development in China. Those systems, they have significant proof points to still undergo. And I said about geographic scalability, economic scalability, performance scalability. On the economical side these systems are way more expensive than our system.
+For example, on NIO they have four Orin chips. Orin is NVIDIA owned and is a very expensive chip and they have four of them and they have ladders for reaching and the performance level is not even reaching the performance level of SuperVision. This is on the economical side. On the geographical side, the big game now is going from highway to urban.
+HD maps are not scaling to Urban. It's not economically scalable. None of those in-house developments claim that they'll be using high definition maps in Urban. Some of them are claiming they'll go mapless.
+Good luck for them. Some of them say they'll only provide the commute feature where you record your normal commute and you'll get performance only on that route. Mobileye has REMs. And also they want to export outside of China.
+There's all sorts of regulations that Mobileye is very good at. So that's also an advantage. So geographic performance, you want to go to eyes-off. This is the -- the holy grail of all of this is an eyes-off system.
+Their safety is paramount. You cannot just provide a system that you feel comfortable, but you can have all sorts of safety issues there because the driver is responsible. In an eyes-off system, there are no discounts. You have to be perfect.
+This also adds an advantage to Mobileye. So I think China is very dynamic which I think is a very good thing, competitive-wise and moving forward very fast with the technology. We like that very much. And I think the OEMs that are doing in-house development now are keeping all their options open.
+So for example, ZEEKR, they have an in-house development and they're working also with Mobileye. We have long visibility to the continuation of work with ZEEKR.
+Vijay Rakesh
+--
+Mizuho Securities -- Analyst
+Got it. And just another question on SuperVision. Obviously, there is good ramp there, but as you look out through '25, '26, can you talk to what kind of conservatism you're embedding either on the OEM unit side or on the number of OEMs, I guess, as you build that outlook on the SuperVision side?
+Amnon Shashua
+--
+Founder and Chief Executive Officer
+Yeah, so I mentioned that previously. So, in 2024, there are going to be five car models all from the Geely Group. Two of ZEEKR, Smart, Volvo, and Polestar, four. And then, starting end of 2024, beginning of 2025, four to six FAW car models would be added.
+And then, the big jump is in 2026, where we have Porsche, we have the 17 models of -- car models of the western -- big western OEM, and we have Mahindra in China. And in all cases 
+Nimrod Nehushtan
+--
+Executive Vice President, Strategy and Business Development
+India.
+Amnon Shashua
+--
+Founder and Chief Executive Officer
+Mahindra in India. And in all cases, we're talking about the standard fit.
+Vijay Rakesh
+--
+Mizuho Securities -- Analyst
+Got it. Great, thank you so much.
+Dan Galves
+--
+Chief Communications Officer
+Just to follow up, Vijay, yeah, we want to be more conservative, right? And this is why we provided more of a tracking document with the number of models, the OEMs, the launch dates for analysts to make their own estimates for these years. And like we said before, kind of the analysts that have calibrated to this and adjusted their forecasts, we see those as reasonable and achievable. So thank you. Next question, please.
+Kat, are there additional questions?
+Operator
+Our next question comes from Luke Junk from Baird. Please proceed.
+Luke Junk
+--
+Robert W. Baird and Company -- Analyst
+Good afternoon. Thanks for taking the question. First question, you stated in the prepared remarks that EyeQ visibility has improved in recent weeks. Just hoping you can expand on what is better understood sitting here in late January.
+Amnon Shashua
+--
+Founder and Chief Executive Officer
+I think the visibility is better understood.
+Moran Shemesh
+--
+Chief Financial Officer
+Yeah. OK. Yeah. So first of all, I mean, based on the shipment schedule for 2024 and the information that we have on specific inventory levels from our own research and based on also on customers' input.
+So we of course reviewed the detailed production forecast and as we mentioned we expect the majority of the excess inventory should be cleared by the end of Q1 with most of the rest clearing in Q2. Of course, actual production levels of per OEM customers will play a role. But based on our projection, again we believe the excess inventory will be fully cleared by year end. At the end of the day, we had a very true analysis of again, ADAS self-treatment rate and lower production per OEM to understand that in order to meet the production of this year, that's what we need to provide, of course, taking into account the inventory issue.
+So we have better visibility. We also, of course, we've mentioned Q1, we have also some visibility to Q2 that we said will be at least 100% higher than Q1. So yeah, and for the rest of the year, again, in line with production expectation and the analysis and what we got from our customers, that's where we think we're going to land.
+Dan Galves
+--
+Chief Communications Officer
+Thanks, Moran. I'll just follow up with a couple of things because we've been obviously looking very closely. So the visibility since January 4th has improved because we have commitments for Q1. We know what the -- generally what the volume is going to be in Q1.
+We have more visibility in terms of Q2 starting to adjust into commitment. So that's why we have the confidence to say that Q2 will be at least 100% higher than Q1. And then, in terms of the back half, we have the indications from the Tier 1s and these kind of match up with kind of the market-based forecast that we're looking at as well. So overall, we feel good about kind of the visibility toward the 31 million to 33 million units of EyeQ volume in 2024 and that that level of production will or that level of shipments will result in the elimination of the excess inventory almost completely by the middle of the year and then potentially with a little bit left in the back half.
+Luke Junk
+--
+Robert W. Baird and Company -- Analyst
+Understood. Thanks for that, Dan. And then, my follow-up question, hoping you could comment on some of the key facets of the anticipated expense growth in 2024. In particular, there's been certainly an increasing focus on the AI-related facets of driving policy development.
+I think it would just be clarifying to understand how Mobileye is investing incrementally in Generative AI tools this year? Thank you.
+Amnon Shashua
+--
+Founder and Chief Executive Officer
+Our opex growth is mostly devoted on our desire to execute all these programs in SuperVision. The Porsche, the western OEM, all of those are converging to 2026 to continue supporting ZEEKR, of course with the many OTAs that are going forward. Our move from a Tier 2 to Tier 1 with Porsche and the western OEM, we're acting as a Tier 1 supplier. In some other cases, we're acting as a Tier 1.5, but all of this requires more resources to support this in a very good way.
+As of using AI, this does not need growth. This is our normal activity with the existing manpower that we have. It is more moving from a Tier 2 to Tier 1 and supporting so many car models that are coming out in production in the next few years that requires some growth.
+Moran Shemesh
+--
+Chief Financial Officer
+Yeah. Of course, the headcount cost increases, again, a few tens of millions relates to the higher number of employees and maybe more enhanced salary raises and also the savings that we had in 2023. We need to recall in Q4 we had some reimbursement for military service. These are not things that necessarily will happen in 2024.
+Also, the ILS effect, Israeli Shekel effect in 2023. Besides that, we have also significant facilities growth of a few tens of millions. We're moving to the new campus. The appreciation there is approximately $20 million higher, so also in terms of facilities.
+And besides that also our EyeQ platform, EyeQ 6 and EyeQ 7, our Radar product as we approach 2025. Also in the Lidar domain, we have some growth in 2024.
+Luke Junk
+--
+Robert W. Baird and Company -- Analyst
+Thank you.
+Dan Galves
+--
+Chief Communications Officer
+Thank you. Thanks, Luke. Next question please.
+Operator
+Our next question comes from Chris McNally from Evercore. Please proceed.
+Chris McNally
+--
+Evercore ISI -- Analyst
+Thanks so much, Amnon. Thanks team. So maybe just some quick math batting cleanup here on the ADAS hand. So I think previously, Mobileye has discussed 50%, '21 penetration for the industry moving to about 75%, '25, '26.
+This seems slightly pushed out now looking at '25 or '26, something like in the low or mid 60% penetration. So first, can we talk about industry adoption on base ADAS? And then, second, around global market share, Amnon, you discussed lower share on maybe some of the domestics of China share maybe 50% or below. Is it fair to see your 65% to 70% historical share maybe move to this kind of, I don't know, 64%, 65% on that mix effect over the next couple of years? So any new high level math that you could provide us on industry trip chips sort of later in the decade would be really helpful.
+Amnon Shashua
+--
+Founder and Chief Executive Officer
+I think on the western OEMs, our market share is continuing to grow. Just based on all the design wins that we had in 2023 and 2022, we are growing our market share. As I said before, eight of the 10 biggest OEMs, we have more than 90% market share. With China, the growth of the Chinese OEMs is faster than the growth of our market share.
+So our market share there is reducing naturally. As I mentioned before, Changan is growing very, very fast and we have zero -- we have no relationship with Changan. BYD is growing very fast. We have only 30% market share with BYD.
+But we are continuing to win, to get design wins, and both the low end ADAS and the high end ADAS like SuperVision. So we will see how the market share in China will play out in the next few years, but now it's really an unstable position because the market is going very, very fast.
+Nimrod Nehushtan
+--
+Executive Vice President, Strategy and Business Development
+If I may add, I think that if you refer to a correction to the market share calculation based on the inventory levels, we really think that the inventory levels that we've disclosed were accumulated over a period of time that is longer than a year, likely closer to three years. So if you kind of try to compound what will be the effect for the annual volumes that we have disclosed, it's more about a $2 million reduction per year on average, which accounts for maybe 1%, 2% of the market share calculation that we've had in the past. So we don't think that this indicates for a significant change in our market share forecast on a global level.
+Chris McNally
+--
+Evercore ISI -- Analyst
+All makes sense on the explanation on market share. Maybe if we can go back to that industry adoption, sort of when will we hit on a global basis, 75% penetration? Obviously some of those western players, Amnon, have been pretty slow to make standard fit, obviously outside of Toyota. But any view on what is sort of a ballpark year we can think about industry ADAS penetration being around 75%?
+Amnon Shashua
+--
+Founder and Chief Executive Officer
+From external sources, this is the number that is being projected till the end of the decade, 75% market share of ADAS. We have no reason to believe this is going to change.
+Dan Galves
+--
+Chief Communications Officer
+Even possibly higher. And I think that India is an area where we see a lot of growth. So the western markets are fairly well penetrated, probably above 70%. But there's still some growth there.
+But I think a market like India, which is maybe single digit ADAS penetration, but the systems that have been on the road in production the last couple of years have been extremely successful. So now everybody's trying to kind of catch up and we have a very good position there. So I think that that's going to be a good market for ADAS adoption, as well as our share over the next couple of years.
+Nimrod Nehushtan
+--
+Executive Vice President, Strategy and Business Development
+If I may add, we do see also -- we do see in the last year, we did start to see a growing pull from regulatory bodies in emerging markets in order to kind of start promoting the adoption ADAS systems in new markets like South America, India as Dan mentioned. In addition, in Europe and the United States, there is a move toward mandating safety systems for vehicle production. This started just recently in Europe with GSR, which is not just a kind of a bonus feature, it's a mandate in order to sell cars. So these two driving forces are what we think will push the industry toward higher adoption rates within the next few years.
+Chris McNally
+--
+Evercore ISI -- Analyst
+Thank you.
+Dan Galves
+--
+Chief Communications Officer
+Thanks, Chris.
+Operator
+This concludes our question-and-answer session. I would like to turn the floor back over to Dan Galves for closing comments.
+Dan Galves
+--
+Chief Communications Officer
+Thank you, Kat, for managing the call. Thanks to the management team of Mobileye and thanks to everyone for joining. We'll talk to you next quarter. Thank you.
+Duration: 0 minutes

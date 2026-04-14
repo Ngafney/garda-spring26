@@ -1,0 +1,237 @@
+[
+  {
+    "speaker": "Unknown",
+    "role": "",
+    "text": "Full Conference Call Transcript John Cotterell, Endava plc's Chief Executive Officer, and Mark Thurston, Endava plc's Chief Financial Officer. Before we begin, a quick reminder to our listeners. Our presentation and our accompanying remarks today include forward-looking statements, including, but not limited to statements regarding our guidance for Q3 fiscal year 2026 and for the full fiscal year 2026, the impact of headwinds facing our industry and business, trends in our industry, including with respect to development with AI, enhancements to our technology and offerings, the benefits of our partnerships, demand from clients for our technology services, our ability to create long-term value for our clients, our people, and our shareholders, and our business strategies, plans, operations, and growth opportunities. These statements are subject to risks and uncertainties that could cause actual results to differ materially from those contained in the forward-looking statements. Actual results and the timing of certain events may differ materially from the results or timing predicted or implied by such forward-looking statements and reported results should not be considered as an indication of future performance. Please note that these forward-looking statements made during this conference call speak only as of today's date, and we undertake no obligation to update them to reflect subsequent events or circumstances other than to the extent required by law. For more information, please refer to the Risk Factors section of our annual report filed with the Securities and Exchange Commission on 09/04/2025, and in other filings that Endava plc makes from time to time with the SEC. Also, during the call, we will present both IFRS and non-IFRS financial measures. While we believe the non-IFRS financial measures provide useful information for investors, the presentation of this information is not intended to be considered in isolation or as a substitute for the financial information presented in accordance with IFRS. Reconciliations of such non-IFRS measures to the most directly comparable IFRS measures are included in today's earnings press release as well as the investor presentation, both of which you can find on our Investor Relations site or on the SEC website. The link to the replay of this call will also be available on our website. With that, I will turn the call over to John."
+  },
+  {
+    "speaker": "John Cotterell",
+    "role": "",
+    "text": "Thank you, Laurence, and welcome everyone."
+  },
+  {
+    "speaker": "Mark Thurston",
+    "role": "",
+    "text": "We appreciate you joining us for our second quarter fiscal year 2026 earnings call. Twenty-six years since its founding, earlier this month, Endava plc passed. During these years, we have been through significant technology shifts, each time with a founder mindset intent on driving transformation as fast as possible in order to emerge as a leader. Today, my mindset is no different, as the AI shift is underway. Over the past several quarters, we have been investing heavily in our pivot towards AI to establish Endava plc as an AI leader. These investments have encompassed recruitment and training of next-gen talent, introducing a shift towards becoming AI-native, building our partner ecosystem, and evolving our engagement strategy. I would like to flag some highlights of the quarter. Revenue totaled £184,100,000, representing a 5.9% decrease year on year and up 3.3% from Q1 FY 2026. We are seeing strong initial interest with clients on Dava Flow, our AI-native engagement life cycle. We continue to expand our network of strategic partners and broadened several existing relationships, further expanding our reach. A PayNetNets joint venture, recently appointed as NexSys technical operator by NexSys Global Payments, has selected Endava plc to design and build its cloud-native cross-border payment switch on AWS, underscoring our depth in the payment vertical. We believe we are building the operational agility required to achieve long-term growth. Over the quarter, we advanced several enterprise-scale AI projects that illustrate both the breadth of client demand and the speed at which AI-native delivery models can create measurable impact. We are helping a leading global payments network modernize a critical driver of revenue."
+  },
+  {
+    "speaker": "John Cotterell",
+    "role": "",
+    "text": "The chargeback dispute system."
+  },
+  {
+    "speaker": "Mark Thurston",
+    "role": "",
+    "text": "That currently needs more than a thousand people to run. The challenge is a rule book that amounts to thousands of pages and is hard for anyone to follow. Our system uses AI to read those rules, turn them into clear, checkable logic, and link each one to the right data so cases can be routed and analyzed automatically. Halfway through the six-month projects, early results are promising. The new system is easy to use, fully auditable, and will sharply cut manual effort while making decisions more consistent when it goes live. Over several years, we have helped a leading global specialty insurer use AI and data science to streamline pricing, insight generation, and automated data ingestion. Traditional operating models limited impact, so facing increasing competitive pressure and new entrants, the insurer committed to a faster AI-native approach. Working with the client, we set up a ring-fenced incubator inside the organization that can build an end-to-end AI-native insurer while keeping clear governance and visibility for leadership and underwriting teams. The program has three linked work streams: digitization, the automation of submission data enrichment, pricing and quoting; hypothesis-driven change, which tests value-add ideas such as new data sources and new revenue models; and tactical value creation, which feeds proven ideas back into business-as-usual in partnership with stakeholders. To date, the digitization work stream has been rolled out across two business lines. Using agent-based delivery, we stood up a fully operational AI-native workflow in roughly three weeks and built a backlog of more than 50 improvement hypotheses. Though still early, the results underline how rapidly AI-native capabilities can scale when governance and execution are explicitly tuned for speed. These milestones show that the initiative has moved beyond experimentation and is now entering a more mature, scaled phase of AI implementation across the organization. Let me now turn to Dava Flow. Client interest continues to build. Clients report faster delivery, tighter control, and full traceability versus legacy models. In a recent project, we opened with a signal session, the first step in an engagement, where agents and teams capture, enrich, and interrogate market, client, and operational signals to test assumptions and define a clear value hypothesis. In just 90 minutes, the session gathered live inputs, ran synthetic workshops, and produced an opportunity assessment, market and strategic insights, product requirement documents, and an agent-ready backlog work that would normally take several weeks. Two live Dava Flow engagements now sit at different delivery stages. Early results show higher productivity, better quality, and strict policy adherence. Autonomous agents manage routine tasks under policy-as-code governance, freeing engineers for orchestration and critical decisions. Over the coming quarter, we expect to broaden the delivery portfolio, convert growing interest into larger outcome-driven programs, and further refine the model using feedback from live engagements. I will now turn to recent developments in our strategic partnerships. January marked the completion of our first year as an official services partner of OpenAI, and we are seeing growth in demand as clients scale proofs of concepts into enterprise-wide deployment of Enterprise ChatGPT. Our partnership with OpenAI's go-to-market team is resulting in a pipeline of potential opportunities across industries such as insurance, healthcare and life sciences, and public sector. In collaboration with OpenAI, we have been engaged by Entain, one of the world's leading betting and gaming operators, to roll out enterprise-wide ChatGPT enablement and role-specific AI training that supports responsible generative AI adoption and measurable productivity gains. Additionally, last quarter, we broadened our expertise across OpenAI's product suite, continuing to graduate additional sales and technical specialists from our intensive training programs across APAC and EMEA. Demand for our services across all three of our major hyperscale partners AWS, Google Cloud, and Microsoft Azure is accelerating, primarily fueled by clients' core modernization initiatives to retire costly legacy systems and by their accelerating adoption of AI solutions. With AWS in particular, we secured several notable wins and renewals, particularly in the financial services sector in the UK, USA, and Asia Pacific. Clients are asking for repeatable, proven solutions that de-risk technology change. In response, we released two new AWS Marketplace offerings: an accelerator for cloud application engineering and an AWS Landing Zone. Our multiyear strategic partnership with Paysafe, a leading payments platform, aims at enhancing innovation in payments and digital community engagement, notably fan engagement. As part of accelerating Dava Flow, we have forged two complementary partnerships. First, with Miro, by embedding their AI innovation workspace across our global delivery network. Through this process, we increased the speed of decision-making, improved team alignment, and enabled scalable AI-driven workflows, providing clients with greater speed and confidence in their AI transformation journey. Second, our partnership with Cognition broadens the reach of our agentic coding, giving thousands of AI-native engineers access to Devin and strengthening our joint go-to-market for enterprise-grade outcomes. Together, these partnerships deepen the capabilities of Dava Flow, from collaborative ideation through automated code delivery, creating an end-to-end AI-powered change delivery engine. We believe our partner ecosystem, ranging from global hyperscalers and sector leaders to emerging scale-ups, is essential to both client outcomes and our profitable growth. To support this initiative, in November, we launched Dava Rise, a venture acceleration program that converts start-up innovation into solutions deployable at enterprise scale. By connecting high-potential ventures with Endava plc's AI-native global delivery capabilities and established client relationships, Dava Rise accelerates the path from concept to enterprise-ready solutions. This collaborative model gives clients access to emerging technologies that address specific business challenges and deliver measurable impact across industries. We launched the inaugural Dava Rise cohorts in partnership with Octopus Ventures, selecting ventures in their portfolio whose offerings align with identified client needs. I would like to highlight several client wins that demonstrate the tangible value we are delivering. As mentioned earlier, a PayNetNets joint venture, recently appointed as NexSys technical operator by NexSys Global Payments, has selected Endava plc to design and build its cloud-native cross-border payment switch on AWS. The platform is intended to interconnect national instant payment systems into a single real-time network, advancing global interoperability. The appointment of the PayNetNets joint venture follows a competitive multivendor tender and underscores Endava plc's expertise in real-time payments architecture and delivery. We extended our strategic delivery commitments with two of our largest payments customers, reinforcing the strength of retained trust and delivery assurance we continue to enjoy with these major industry names. We worked with Accor Plus, a leading lifestyle loyalty subscription program in the hospitality sector, to successfully overhaul their payments infrastructure and loyalty program across Asia Pacific. In the first phase of the project, we replaced their legacy processor with a scalable plug-and-play solution, simplifying the loyalty architecture to support rapid membership growth and deploying the solution across 10 markets. In the first 30 days following launch, product page conversion increased by 39%, providing Accor Plus with a more reliable, scalable foundation for future expansion. At December, we expanded a strategic partnership with a manufacturer of vehicles, replacing a leading global technology services competitor in this arena. The new workstream adds an AI-enabled digital CRM to raise delivery efficiency and elevate customer and digital experience. Endava plc has entered into a three-year strategic partnership with Bolero International. A banking-grade software company that simplifies the B2B trade of goods and enables the secure, compliant digitization of international trade processes. Our partnership supports the development and expansion of Bolero International's product portfolio, giving organizations the confidence to operate at a scale that was previously too complex and costly for most. Additionally, through Endava plc's Dava Rise program, Endava plc is working closely with Bolero International to accelerate product buildouts and take advantage of mutual partnership opportunities. Endava plc is partnering with a global life sciences company to turn its agentic AI prototypes into governed, platform-supported products that can be measured and replicated across the business. The program accelerates delivery of safe, repeatable AI at scale, while defining and helping implement the organizational changes needed across talent, operating model, and culture for the company to become an AI-first enterprise. To drive adoption and demonstrable results, Endava plc has also introduced dynamic solution squads that co-create with domain owners through an outcomes-focused approach. We ended the quarter with 11,385 Endavans, representing a 2.4% decrease from the same period last year. We continue to streamline roles in areas of softer demand while broadening and upskilling our AI talent base, embedding new capabilities across the business to help clients integrate new technologies into their workflows. Before we close, I want to thank every Endavan. Your dedication and professionalism continue to steer us through a fast-moving technology landscape and convert change into tangible results for our clients. I will now hand over to Mark for a closer look at our quarterly financial results and guidance for the upcoming quarter and the remainder of the fiscal year. Thanks, John. Our revenue exceeded the upper end of the guidance issued for the quarter ended 12/31/2025. Revenue totaled £184,100,000 for the quarter, as compared to £195,600,000 in the same period in the prior year, representing a 5.9% decrease. On a constant currency basis, our revenue decreased 5.1% from the same period in the prior year. On a sequential basis, revenue increased by 3.3% compared to Q1. Loss before tax for the three months ended 12/31/2025 was £7,200,000, compared to a profit of £2,500,000 in the same period in the prior year. Our adjusted PBT for the three months ended 12/31/2025 was £10,700,000, compared to £21,800,000 for the same period in the prior year. Our adjusted PBT margin was 5.8% for the three months ended 12/31/2025, compared to 11.2% for the same period in the prior year. Our investment in our AI-native delivery model and in next-gen talent has impacted our adjusted PBT margin and will continue to do so as we continue our shift towards becoming AI-native. We estimate it has reduced the adjusted PBT margin by approximately 3% through Q2 FY 2026. Our adjusted diluted earnings per share, which fell within our guided range, was 16p for the three months ended 12/31/2025, calculated on 52,900,000 diluted shares, as compared to 30p for the same period in the prior year calculated on 59,600,000 diluted shares. Revenue from our 10 largest clients accounted for 35% of revenue for the three months ended 12/31/2025, compared to 36% in the same period last fiscal year. The average spend per client from our 10 largest clients decreased from £7,100,000 to £6,500,000 for the three months ended 12/31/2025, as compared to the three months ended 12/31/2024, representing a 7.9% year-over-year decrease. Of this,"
+  },
+  {
+    "speaker": "John Cotterell",
+    "role": "",
+    "text": "FX movements contributed to a 2% year-over-year decrease."
+  },
+  {
+    "speaker": "Mark Thurston",
+    "role": "",
+    "text": "In the three months ended 12/31/2025, North America accounted for 40% of revenue, Europe for 23%, the UK for 31%, while the rest of the world accounted for 6%. Revenue from North America decreased by 5.1% for the three months ended 12/31/2025 over the same period last fiscal year. The decrease was driven mainly by an FX headwind of 3.3% and the lack of contribution in the current quarter from the significant media client whose loss we reported last fiscal year. Comparing the same periods, revenue from Europe declined 8.5% due mainly to weakness in payments and mobility. The UK decreased 9.1% due mainly to the reclassification of a large payments client from the UK to North America as the relationship with that client is now based there, which was mentioned last quarter. We also experienced weakness in TMT in the UK this quarter. The rest of world increased 21.8%, driven mainly by the payments and TMT verticals. Our adjusted free cash flow was £20,100,000 for the three months ended 12/31/2025, down from £31,600,000 during the same period last fiscal year. Our cash and cash equivalents at the end of the period totaled £68,500,000 at 12/31/2025, compared to £59,300,000 at 06/30/2025, and £60,100,000 at 12/31/2024. Our borrowings increased to £202,700,000 at 12/31/2025, from £180,900,000 at 06/30/2025, and £123,700,000 at 12/31/2024, in support of the funding requirements of our share repurchase program."
+  },
+  {
+    "speaker": "Tyler DuPont",
+    "role": "",
+    "text": "for the three months ended 12/31/2025, as a percentage of revenue were 4.4% compared to 0.2% in the same period last fiscal year. The increase is mainly related to a onetime spend on Payments Accelerator, our internally developed payments gateway accelerator, which broadens our ability to secure a wider range of commercial engagements. Payments operators. The development of this solution leverages our Dava Flow ways of working. As of 01/31/2026, we purchased approximately 8,000,000 ADSs for $121,900,000 under the share repurchase program, and we had $28,100,000 remaining for the repurchase under our Board's share repurchase authorization. Before moving on to the guide, I would like to provide some context. The U.S. Dollar's ongoing weakening against our reporting currency, GBP, continues to create revenue headwinds. Revenue guide is being largely maintained in absolute terms, but the growth is stronger in constant currency terms by 1% for the full year. In addition, as I mentioned previously, we continue our investment in AI-native delivery and next-gen talent, which also continues to impact the adjusted PBT margin in the guide. Now moving on to the guide. Our guidance for Q3 fiscal year 2026 is as follows: We expect revenue to be in the range of £182,000,000 to £185,000,000, representing constant currency revenue decrease between 4% 2.5% on a year-over-year basis. We expect adjusted diluted EPS to be in the range of 18p 21p per share. Our guidance for full year fiscal 2026 is as follows: We expect revenue to be in the range of £736,000,000 to £750,000,000, representing constant currency revenue decrease of between 3.5% 1.5% on a year-over-year basis. We expect adjusted diluted EPS to be in the range of £0.80 to £0.86 per share."
+  },
+  {
+    "speaker": "Spencer Anson",
+    "role": "",
+    "text": "It is above guidance for Q3 fiscal year 2026."
+  },
+  {
+    "speaker": "Tyler DuPont",
+    "role": "",
+    "text": "And the full fiscal year 2026 assumes the exchange rates on 01/31/2026. And the exchange rate was £1 to $1.37 and £1 to 1.15. This concludes our prepared comments. Operator, we are now ready to open the line for Q&A."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "We will now begin the question and answer session. Our first question comes from Puneet Jain with JPMorgan. Please go ahead."
+  },
+  {
+    "speaker": "Puneet Jain",
+    "role": "",
+    "text": "Hey, thanks for taking my question."
+  },
+  {
+    "speaker": "Bryan Bergin",
+    "role": "",
+    "text": "So I wanted to ask about the fiscal year guidance, which implies nice sequential growth in Q4 after flattish third quarter on FX-neutral basis. So can you talk about what drives that growth in fourth quarter? Is it the large deal ramps, billing days? If you can double-click on drivers for growth in fourth quarter."
+  },
+  {
+    "speaker": "Tyler DuPont",
+    "role": "",
+    "text": "Thanks for the question, Puneet. I think stepping back to Q3, it looks flattish when you look at it, but as I said in the opening comments on the guide, due to the weakness of the U.S. Dollar, there is FX headwind quarter on quarter about 1.5%. I think the other thing that needs recognition in our Q3, which is a quarter to March, is we have lower working days than we had in the previous quarter, which is a further headwind of minus 3%. So the underlying growth in Q3 quarter on quarter is about 4% at the midpoint of the guide. Now going to Q4, we actually have an increase in working days when compared to the quarter to March, which had about sort of 2% growth. So the midpoint, it looks like a sequential growth of about 8%. It is actually about 6%. That compares against an underlying growth that we saw in Q3 of about 4%. Now in terms of what underpins that Q4 pickup, it is basically some of the deals that we have highlighted that we have won that have been secured that provide the underpinning for growth. Got it. Got it."
+  },
+  {
+    "speaker": "Bryan Bergin",
+    "role": "",
+    "text": "And then I think you also mentioned extending commitments with two largest payment clients. Can you share more details around the scope, type of work? And if we should expect continued sequential growth beyond this year, given the pipeline and overall opportunities you see?"
+  },
+  {
+    "speaker": "Mark Thurston",
+    "role": "",
+    "text": "Yes. So that was extensions of work with a couple of our larger payments clients, in fact the two largest. There has been quite a stream of that coming through as we went through the new calendar year coming into play. And most of it is extensions. There is a little bit of incremental in it, but most of it is extensions on the run-rate level that we had in Q1 and Q2. The relationships remain good. The sort of work is in the switch or gateway type space and continuing to help our clients rationalize the costs of those estates, but then also enhance the value propositions for customers coming out of their capabilities in that space."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "And the next question comes from Kate Kronstein with TD Cowen. Please go ahead. Hey, thank you for taking my questions. Wanted to follow up on some of the guidance assumptions here. Wanted to ask, particularly on the margin front, you guys talked a little bit about the increased investments here that are going to drive some of that adjusted PBT to be a little bit lower. Are those investments coming in higher than expected now in the second half because the EPS guide is a little bit lower? Just trying to think"
+  },
+  {
+    "speaker": "Maggie Nolan",
+    "role": "",
+    "text": "better revenue view with the lighter EPS view. Is that largely investments coming in higher than expected, or is there any sort of FX impact there in terms of the guidance? And if possible, can you break out the FX impact on the margin front?"
+  },
+  {
+    "speaker": "Tyler DuPont",
+    "role": "",
+    "text": "Right. Thanks for the question. I would say that it is slightly heavier investment in the second half. I mean, John referenced partnerships with Miro and Cognition, which are key components for Dava Flow. So we have entered into licensing the software with those providers. And it is a wider partnership than just a supplier-vendor relationship. So they weigh a little bit more on margin. So that sort of 3% is continuing investment I see being about that level as we go forward into the second half. In terms of FX, I think it does weigh on us in terms of the gross margin certainly. The weakness of the dollar certainly at 1.37 and, you know, even a quarter ago when we were guiding for this quarter it was 1.32. It impacts gross margin. It is a little bit at the edges. It is like about 0.5% or so as we have a balanced global workforce, but it is a headwind. And it does mainly impact revenue growth rather than margin for us."
+  },
+  {
+    "speaker": "Maggie Nolan",
+    "role": "",
+    "text": "Gotcha. And I know that you guys have been a strategic partner for OpenAI, one of the early actual deployment partners there. So curious if you could touch up a little bit on the OpenAI GPT Enterprise adoption trends that you guys are seeing in the market? Then additionally, we have heard some comments in the past few weeks. There has been a little bit of a narrative around services and software displacement as a result from some of the offerings coming from these foundational model providers. Do you guys have a view there? Just curious if there is any sort of way to dispel some of those fears."
+  },
+  {
+    "speaker": "Mark Thurston",
+    "role": "",
+    "text": "I mean, OpenAI, our relationship with them is very strong. We have adopted Enterprise ChatGPT across the business. And so it underpins a lot of our AI approaches. We are also in the market jointly selling with them. And that is leading to some success. I covered one or two of those in my opening remarks. I mean, with OpenAI, the opportunity is opening up the enterprise market for them. They have had a lot of success from a consumer market point of view. And we are one of the people who are going down the learning curve with them on how to really make their platforms work in an enterprise context. And those approaches and what we are doing with them there is what is leading to success in the market and some of the opportunities that are coming through. So we remain very excited about that relationship with them. You all have picked up we also have relationships with the other hyperscalers and large language model providers in the market. And we are seeing equally exciting opportunities with those guys. On the services and software displacement question, I think"
+  },
+  {
+    "speaker": "Mark Thurston",
+    "role": "",
+    "text": "a lot of the reaction is looking at some of these things at a very simplistic level, i.e., almost a consumer market level. Or you can create code much more quickly using agentic AI solutions and so on. Actually, when you project that into the enterprise market, the adoption challenge is different. It is much higher, requires a different delivery model that is going to handle the governance, the regulatory framework, and the value realization, and the access to data, the modernization of legacy systems all come into play. And the out-of-the-box consumer-level, small project-level solutions do not address all of those things. It is one of the reasons why we have created Dava Flow as a replacement to Agile as a delivery method. Because Dava Flow addresses the governance and the regulatory, the consistency"
+  },
+  {
+    "speaker": "Mark Thurston",
+    "role": "",
+    "text": "enterprise environments that you are plugging into in a way that Agile does not. Agile was a methodology that was set up to enable interactions between people in the creation of software. When you start moving into an agentic type situation,"
+  },
+  {
+    "speaker": "Mark Thurston",
+    "role": "",
+    "text": "people interactions person-to-person are less important than the interactions people-to-machine. And that requires a different development methodology, which is what we have built to work in these complex enterprise environments. So we actually see a lot of opportunity as enterprises start to address all of these complex issues around the implementation of AI and a growth in demand because there are many things that enterprises have not been able to do in the last 20 or 30 years, like address their legacy systems. The AI actually enables a cost-effective route to addressing as well as then delivering business benefits that were not possible without AI. So actually, we see the uplift in market opportunity, certainly for the next five to ten years, outweighing, as enterprises start to adopt at scale, outweighing the productivity headwinds that people are concerned about. Thank you."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Our next question comes from Antonio Jaramillo with Morgan Stanley. Please go ahead. Hey, guys. Thank you for the question. I wanted to go back"
+  },
+  {
+    "speaker": "Maggie Nolan",
+    "role": "",
+    "text": "to your guys' top line guidance here and kind of go back to the"
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "assumptions baked in there. Could you walk through how your spend around your top customers are baked into that? And then also, could you remind us what your pipeline and your booking assumptions are as well? That would be helpful."
+  },
+  {
+    "speaker": "Tyler DuPont",
+    "role": "",
+    "text": "I am not quite sure what you mean by the top spend clients. Do you mean the sort of profile of our top 10 clients and"
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "the profile quarter on quarter? Yep. So okay. So"
+  },
+  {
+    "speaker": "Tyler DuPont",
+    "role": "",
+    "text": "I think broadly, we see a lot of stability in that top 10. It is dominated by our payments clients. We expect a little bit of a slowdown in our large healthcare client in Q3, but then for that to resume as we go into Q4. But that is the only change in the profile. So we do expect sequential growth quarter on quarter. In terms of pipeline assumptions, we usually quote this split of contracted and committed to pipeline. So certainly for Q3, which we are guiding at, it is around 95% and slightly lower at the top of the guide. And then as we look into Q4, we are at a 70% 75% contracted and committed, which is typically what we have seen in recent history. I think there is a high degree of confidence around pipeline conversion. And that is based on deals that we have secured throughout the course of the year and also the strength of the order book, including the ones secured in January. So it may look as though, as I said, the caller that we have this step up from Q3 to Q4, but actually it may look like that. But it is actually an underlying 6% compared to a 4% sequential growth in Q3. So it is a relatively modest underlying quarter-on-quarter growth expectation from Q3 to Q4."
+  },
+  {
+    "speaker": "Mark Thurston",
+    "role": "",
+    "text": "I think the only thing that I would add to that is the market continues to have a level of uncertainty to it that we did not see three or four years ago. And that is reflected in the breadth of the guide that we have put forward. The top to bottom is very wide for Q4 given it is only six weeks away. And I think that is how we have tried to capture the market dynamics in the way in which we have guided."
+  },
+  {
+    "speaker": "Mark Thurston",
+    "role": "",
+    "text": "and Tyler covered all the details that have gone into it."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Great. That is helpful."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "just on the broader pricing environment, could you maybe walk through how GenAI engagement pricing is versus core work, and are you seeing transitions from proof of concept into production for those GenAI projects? And does that vary by industry segment, by customer? Any trend there would be helpful to call out."
+  },
+  {
+    "speaker": "Mark Thurston",
+    "role": "",
+    "text": "So I think, and this will take a while to get through into the overall stats. But if you look at the new business that is coming through, it is shifting quite strongly to outcome-based solutions with our AI approach supporting how we are going to drive the outcomes. And the Dava Flow model that we have really helps to early on get a grip on what the benefits are that are going to be delivered, the appropriate levels of functionality, and so on. So the new business stream that is coming in is much more outcome-based. That does offer a wider range of margin outcomes depending on how we perform and the benefits that we deliver to the clients, which at the top end are strong and, at the bottom end, they are reasonably well protected. I think would be a good way of describing it."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Great. Thank you both for the time."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "And the next question comes from Jonathan Lee with Guggenheim Securities. Please go ahead."
+  },
+  {
+    "speaker": "Maggie Nolan",
+    "role": "",
+    "text": "Great. Thanks for taking my questions. I wanted to dig into Dava Flow a little bit more. It is good to hear about traction with clients there. But can you provide more detail on adoption, approximate number of clients or percentage of revenue touched by Dava Flow today? And whether there is any impact on pricing or margin versus your traditional engagements because of that shift to more outcomes-based pricing or fixed price?"
+  },
+  {
+    "speaker": "Mark Thurston",
+    "role": "",
+    "text": "So the focus that we have got for Dava Flow is not to roll it right across our estate, but to focus it on the outcome-based deals that we are signing. Because our expectation is that with Dava Flow, and actually we are seeing this in the places where we are using it, we can get a much, much higher level of velocity. And so applying it in the space where we are writing outcome-based deals with clients gives us a lot more opportunity to participate in the upside as we deliver using the Dava Flow method. And so that is where we are applying it. So it is in larger, outcome-based projects. We are seeing a good pickup and enough to actually see the metrics across a number of clients as to how it performs, but we are not going to start giving actual numbers of clients because I think that would be misleading, as in the numbers will be low, but the scale of the project that it is applied to would be higher."
+  },
+  {
+    "speaker": "Maggie Nolan",
+    "role": "",
+    "text": "Appreciate that color there. And just as a follow-up, help us understand trends in signings, including trends across large and small deals, and whether there have been any surprises such as delays or cancellations that you have seen across the quarter into this quarter?"
+  },
+  {
+    "speaker": "Mark Thurston",
+    "role": "",
+    "text": "No. I think the loss"
+  },
+  {
+    "speaker": "Tyler DuPont",
+    "role": "",
+    "text": "velocity has been the normal level of what is now this environment we are in. So we have had no surprises from that score. Obviously, we would like things to progress more quickly than they do. But increasingly, the larger deals, one of the differences is there is a lot more due diligence that goes into it because of the scale and the engagement, which is multiyear on both sides, the client and us. I think the velocity of opportunities has stabilized, albeit at this lower level. Are we seeing any uptick in it? I would not say so. I think we are seeing particular strength maybe in the payments and banking, capital markets space, so financial services more broadly."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Got it. Helpful color. Thank you."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "This concludes our question and answer session. I would like to turn the conference back over to John Cotterell, CEO, for any closing remarks."
+  },
+  {
+    "speaker": "Mark Thurston",
+    "role": "",
+    "text": "Thank you, and thank you all for joining us today."
+  },
+  {
+    "speaker": "Mark Thurston",
+    "role": "",
+    "text": "we continue with our sustained investment in AI spanning talent development, the rollout of Dava Flow, deeper partner alliances, and an evolved engagement model. And this quarter's momentum underscores that clients view Endava plc as a trusted partner for AI-enabled change. I look forward to seeing you in our next quarterly earnings in May."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "The conference has now concluded. Thank you for attending today's presentation. You may now disconnect."
+  }
+]

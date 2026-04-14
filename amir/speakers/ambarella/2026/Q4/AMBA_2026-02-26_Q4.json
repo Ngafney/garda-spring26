@@ -1,0 +1,222 @@
+[
+  {
+    "speaker": "Unknown",
+    "role": "",
+    "text": "Full Conference Call Transcript Dr. Fermi Wang, President and CEO, and John Young, CFO. The primary purpose of today's call is to provide you with information regarding the results for our 2026. The discussion today and the responses to your questions will contain forward-looking statements regarding our projected financial results, financial prospects, market growth, and demand for our solutions, among other things. These statements are based on currently available information and subject to risks, uncertainties, and assumptions. Should any of these risks or uncertainties materialize, or should our assumptions prove to be incorrect, our actual results could differ materially from these forward-looking statements. We are under no obligation to update these statements. These risks, uncertainties, and assumptions, as well as other information on potential risk factors that could affect our financial results, are more fully described in the documents we file with the SEC. Access to our fourth quarter fiscal year 2026 results press release, transcripts, historical results, SEC filings, and a replay of today's call can be found on the Investor Relations page of our website. The content of today's call, as well as the materials posted on our website, are Ambarella, Inc.'s property and cannot be reproduced or transcribed without our prior written consent. Before starting the call, we hope to see you at one of the following investor events scheduled for 2027. March 3 will be at Morgan Stanley TMT Conference in San Francisco; March 10 at Loop Capital's Seventh Annual Investor Conference in New York; March 10 to 12 we will be at Embedded World in Nuremberg, Germany, and we are offering a limited number of investor meetings; March 11 at Cantor's Global Technology and Industrial Conference in New York; we will be hosting bus tours at our Santa Clara headquarters with Instinet Nomura, Wate, CLSA on March 12, 18, and 20, respectively; March 16 at Bank of America's 2026 Asia Tech Conference; and March 24 at the ROTH Conference in Dana Point. As a reminder, we will enter our first quarter quiet period on April 16, 2026. Fermi will now provide a business update for the quarter. John will review the financial results and outlook, and then we will be available for your questions. Fermi?"
+  },
+  {
+    "speaker": "Fermi Wang",
+    "role": "",
+    "text": "Thank you, Louis. And good afternoon. Thank you for joining our call today. Fiscal 2026 established a new revenue record for Ambarella, Inc. Revenue increased 37% year over year, well above the growth in the overall semiconductor industry and most of our semiconductor company peers. Our five-nanometer new product cycles, together with our customers' new product launches, combined to drive 50% year-over-year growth in our HAI revenue. About 80% of our full year fiscal 2026 revenue is HAI, all of which is also defined as physical AI. Overall, auto and IoT revenue both grew, with company-wide growth in both units shipped and the average selling price. Our fourth quarter revenue results follow a seasonal pattern, with revenue down 7% sequentially, slightly above the midpoint of our original guidance. Our new third-generation five-nanometer CV75 and the CV72 AI SoCs are rapidly growing, reaching a high single-digit percent of total revenue in Q4, and these new products are poised to be an important source of incremental revenue in the new year. Looking further into fiscal 2027, we anticipate total revenue growth in the 10% to 15% range with non-GAAP gross margin within our long-term model of 59% to 62%. For the year, we expect our new product cycle to continue to drive both unit and average selling price increases, with revenue growth in both auto and IoT. In addition to the anticipated revenue ramp from CV75 and the CV72, the recently announced CV7, our first four-nanometer chip, is expected to begin to generate revenue in the fourth quarter of this year. By a variety of measures, our team's achievements in the last year have strengthened our HAI leadership, and we continue to enhance our market position. Financially, in fiscal year 2026, we continued to commercialize our AI investment and deliver premium revenue growth, returning to full-year non-GAAP profitability. Fiscal 2026 was our seventeenth consecutive year of positive free cash flow, with free cash flow for the year over $58 million, or 15% of revenue. We executed on both our operational and R&D parts. While facing a variety of industry-wide supply chain constraints, we shipped more than 25 million units across more than 15 SoCs with many variants, and we taped out our first four-nanometer chip and our first two-nanometer gate-all-around AI SoCs while successfully bringing CV75 and the CV72 to mass commercialization. Our Cooper development platform, while already powerful and well established, is in a constant state of enhancement, including new agentic capabilities. Strategically, we announced during our CES 2026 product and technology briefing we are augmenting our direct-to-customer go-to-market with incremental initiatives we expect to materially contribute to our long-term revenue growth. First, we are incrementally building an indirect sales channel, including independent software developers, distributors, and system integrators. We expect this to improve our ability to address the edge infrastructure market as well as the highly fragmented robotics market. Furthermore, in the long run, our existing portfolio should benefit with long-tailed revenue from small to mid-sized customers we have not directly supported in the past. The second strategic development is the establishment of a semi-custom/custom ASIC business, where we have strong interest from a variety of companies. Our deep intellectual property, perception engines, AI accelerators, software development platform, advanced VLSI capabilities, and established position in the edge AI market are increasingly valued by companies considering semi-custom or custom ASIC projects. Stepping back for a minute, there continue to be significant industry developments with AI agents, applications, content models, and services that, when combined with our enabling AI SoCs, create the environment where more edge and physical AI use cases can practically emerge. Techniques evolved in the industry, such as distillation and mixture of experts, are enabling edge models to become smaller yet smarter, which we expect will enable applications to evolve from early adopters to the mainstream. Altogether, we see a variety of enterprise and consumer edge AI systems become real time, proactive, and able to make closed-loop decisions autonomously for end users through agentics. Of course, with all the breakthroughs, our customers have a lot to learn and evaluate as they consider new AI business cases. The various components of our comprehensive Cooper development platform, together with our engineering support, are enabling customers to implement new technologies. For example, a power-constrained application may need a hybrid AI workload split between cloud and edge, but in other cases where no latency is applicable, we need to support a vast majority of AI processing on our silicon. Overall, you can see there are many different applications, use cases, and trade-offs we must support. Our broad HAI product portfolios and established powerful development platforms are must-haves to drive the portfolio proliferation and diversification of the edge and physical AI market. I will now discuss some representative customer engagements during the quarter. I want to start by highlighting our industrial automation robotic design win at the warehouses of a large U.S.-based e-commerce provider. They leverage our N1655 AI SoC to develop a perception hub for the warehouse floor. A fleet of this system is being deployed to enable a high-speed, accurate, and efficient storage and retrieval system at their large-scale warehouses across the country. We are seeing several such physical AI designs starting to emerge on our SoCs. In other IoT applications, we were awarded several projects in the video conference market this quarter. Insta360 launched their Link 2 Pro and Link 2 2C Pro high-end web camera based on our H22 SoC, and QSC, a cloud-native audio, video, and control ecosystem company based in California, announced their Q-SYS high-definition video conferencing PTZ camera designed on our CV72 SoC. They are leveraging our AI-ISP for enhanced video quality and use AI for face detection and intelligent presenter tracking. In enterprise security, IDIS, a leading security camera technology customer, announced their DCD-3168 security camera based on our CV72 SoC, and our customer Dallmeier, based in Germany, launched their Dallmeier RDF6140 dome camera based on CV25 this quarter. They leverage our AI accelerator to offer several AI features like motion detection, tamper detection, intrusion detection, and line crossing. Finally, one of our leading customers, i-PRO (previously known as Bosch), announced two new AI products, both based on CV72. The Flexidome 7100i anonymizes the image inside the camera for enhanced privacy and compliance, and the DeepDevian 7100i detects people and vehicles accurately with maximum detail in dark, low-light conditions. In our automotive ADAS and telematics business, I would like to share some key customer wins during the quarter. Ford recently launched the dealer-fit truck bed camera last quarter. It is a smart security camera for the truck bed built on our CV25. It provides real-time truck bed monitoring, leveraging AI-powered intrusion monitoring and threat detection. Thinkware System in South Korea launched their QXD2 in-car digital video recorder system, which is the first of its kind to leverage our AI-ISP neural network on our CV25 SoC. Thinkware also uses Ambarella, Inc.'s ADAS software stack to enhance perception capability for their forward-facing ADAS. Garmin announced their innovative Dual-View based on CV25. It is a rugged two-camera system that enables professional truck drivers an edge in situational awareness. In summary, these representative customer engagements represent the implementation of a wide variety of applications and AI workloads. Inherent in these wins is the high degree of programmability and flexibility in our SoC and software platform, enabling us to serve a wide variety of applications with minimal incremental investment, while the customers benefit by having the ability to reuse their software and scale. While we are seeing edge AI green shoots emerging across a very diverse range of edge applications, we currently see the largest long-term growth opportunities in the robotics, automotive, and edge infrastructure markets. The robotics market is a diverse market in a variety of applications: fixed factory automation, humanoid, mobile terrestrial, aerial drones, and more. We are already shipping into the fixed factory automation market and Q4 was our first full quarter of production revenue from the aerial drone market, which we believe is one of the highest-volume mobile robotics markets today. With our industrial automation robotic engagement announced today, we are establishing ourselves in yet another form factor in the diverse and nascent robotics market. In the automotive market, we have two businesses. One is safety telematics/ADAS business, which represents most of our revenue and a majority of our near-term growth opportunity in autos, and also our auto autonomy business, starting at the Level 2+, which offers long-term growth opportunity. At this time, the auto opportunities we have either won or are being invited to bid upon in the next six years, from fiscal year 2027 to fiscal year 2032, is approximately $13,000,000,000, with the won proportion similar to last year. In the edge infrastructure market, we are observing early customer opportunity with two different design architectures. First, enterprise buyers want to run physical AI inference on a local edge gateway to aggregate multimodal data, multiple sensors, pre-processing it in real time for use cases such as fleet management, physical security, and industrial robots. They typically design fully self-efficient agent solutions to process data locally on devices for real-time, low-latency, and secure decision-making that can be summarized and sent to data centers for training and analytics. Second, we see early customer opportunities from enterprise IT buyers for digital AI applications that push centrally trained and high-capacity models to be distilled, quantized, and deployed in edge nodes to enable low-latency, closed-loop automation for secure digital applications while still maintaining centralized control in the cloud. In summary, we are an HAI market leader across a broad set of criteria. First is our credibility. We have an installed base of 42,000,000 HAI SoCs with more than 370 unique customers AI products reaching production, and approximately $1,000,000,000 in cumulative HAI revenue, primarily from our second-generation CV2 family. Next is our portfolio breadth. We have 12 HAI SoCs supporting models ranging up to 34,000,000,000 parameters. We support up to 100,000,000,000 parameters in the future, covering the full breadth of applications. Finally, our development platform is established as a critical enablement tool. The Cooper development platform scales across our HAI portfolio and multiple applications, with customers implementing and reaching production with more than 200 different model architectures. In conclusion, I am very proud of the resilience, commitment, and execution of our team in the last year. I am very excited about our prospects in fiscal 2027 and the years ahead. We are committed to our HAI strategy and driving earnings growth. With that, John will now discuss the Q4 and fiscal year 2026 results as well as the first quarter outlook in more detail. John?"
+  },
+  {
+    "speaker": "John Young",
+    "role": "",
+    "text": "Thanks, Fermi. I will now review the financial highlights for the fourth quarter fiscal year 2026 ending 01/31/2026. I will also provide a financial outlook for our 2027 ending 04/30/2026. I will be discussing non-GAAP results and ask that you refer to today's press release for a detailed reconciliation of GAAP to non-GAAP results. For non-GAAP reporting, we have eliminated stock-based compensation and acquisition-related expenses, adjusted for the impact of taxes. Fiscal year 2026 revenue increased 37.2% to $390,700,000. Automotive revenue, led by telematics, increased in the high single digits, and IoT increased almost 50% year over year, led by portable video and a continuation of strong growth in physical security. For fiscal year 2026, non-GAAP gross margin was 60.7% versus 62.7% in fiscal 2025. Non-GAAP operating expense increased 12.9% for the year versus 6.5% in the prior year, driven by higher costs related to employees and SoC development projects. Ending cash and marketable securities totaled $312,600,000, up from $250,300,000 at the end of the prior year, driven by free cash flow of $58,000,000 for the year or 14.8% of revenue. For fiscal Q4, revenue was $100,900,000, slightly above the midpoint of our prior guidance range of $97 million to $103,000,000, down 7% from the prior quarter and up 20.1% year over year. Sequentially, automotive and IoT both experienced a similar seasonal decline. Non-GAAP gross margin for fiscal Q4 was 59.8% at the midpoint of our prior guidance range of 59% to 60.5%. Non-GAAP operating expense in Q4 was $56,500,000, also at the midpoint of our prior guidance range of $55,000,000 to $58,000,000. Q4 net interest and other income was $2,300,000. Q4 non-GAAP tax provision was approximately $551,000, and we reported a non-GAAP net profit of $5,500,000, or $0.13 per diluted share in Q4. Now I will turn to our balance sheet and cash flow. Fiscal Q4 cash and marketable securities reached $30,112,600,000, increasing $17,300,000 from the prior quarter and $62,300,000 from the same quarter a year ago. Increased cash and marketable securities were primarily from operating cash flow associated with increased revenue. Receivables days sales outstanding of 36 in Q4 was flat with the prior quarter. Days of inventory increased from 76 days to 99 days to support our current level of business. Operating cash inflow was $818,900,000 for the quarter and $73,500,000 for the year. Capital expenditures for tangible and intangible assets were $3,900,000 for the quarter and $15,500,000 for the year. Free cash flow was $15,000,000 for the quarter. During 2026, Ambarella, Inc.'s Board of Directors approved an extension of the current share repurchase program for an additional twelve months ending 06/30/2026. In 2026, the company did not repurchase shares. During the first quarter, we repurchased 24,102 shares of our stock for total consideration of $1,000,000. As of today, there is approximately $48,000,000 available under our repurchase authorization. We have one logistics company representing 10% or more of our revenue. WT Microelectronics, a fulfillment partner in Taiwan that ships to multiple in Asia, came in at 73.1% of revenue for the fourth quarter and 69.7% for the year. I will now discuss the outlook for 2027. We forecast Q1 revenue to be seasonal and in the range of $97,000,000 to $103,000,000, or $100,000,000 at the midpoint. Sequentially, auto revenue is expected to increase, with IoT revenue expected to be seasonally down. We expect fiscal Q1 non-GAAP gross margin to be in the range of 59% to 60.5%. We expect non-GAAP OpEx in the first quarter to be in the range of $55,000,000 to $58,000,000. We estimate net interest and other income to be approximately $2,000,000, our non-GAAP tax expense to be approximately $800,000, and our diluted share count to be approximately 44,100,000 shares. Thank you for joining our call today. And with that, I will turn the call over to the operator for questions."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Thank you. As a reminder, to ask a question, please press 11 on your telephone and wait for your name to be announced. To withdraw your question, please press 11 again. We ask that you please limit yourself to one question and one follow-up. We will now open for questions. Our first question will come from the line of Quinn Bolton with Needham and Co. Your line is open. Please go ahead."
+  },
+  {
+    "speaker": "Quinn Bolton",
+    "role": "",
+    "text": "Hey, guys. Congratulations on the nice results. Fermi, I wanted to ask for maybe a little bit more detail on the e-commerce warehouse robotics win that you discussed in your script. Can you give us a sense, is this already in production? If not, when would you expect it to go to production? And how many warehouses or perhaps how many robots could you be participating in for this customer? Is it a meaningful opportunity?"
+  },
+  {
+    "speaker": "Fermi Wang",
+    "role": "",
+    "text": "First of all, it is in production. Although it is in low-volume production right now, we definitely expect that will continue to grow. And we think that it can be meaningful. It depends on how wide this goes to their warehouses. In terms of the function that we are doing, it is really, like I said, a perception hub in a warehouse to help them to do automation for the production and also the product movement. I think this is significant because it is the first such a design win for us. Although we are not allowed to talk about the name and also the size opportunity, we think this is definitely an indication that our perception system has been well respected and used in this large organization."
+  },
+  {
+    "speaker": "Quinn Bolton",
+    "role": "",
+    "text": "I imagine it could be a nice flagship customer that could lead to some other wins as well, so congratulations on that. The second question I had is you gave us the update on the auto pipeline now standing at $13,000,000,000. I believe that is sort of an un-probability-weighted number. In the past, I think you had given us a $2,200,000,000 probability-weighted forecast. I am just wondering if you look back at the last forecast that was probability weighted, could you give us an apples-to-apples comparison as to whether that auto pipeline has grown over the last year?"
+  },
+  {
+    "speaker": "Fermi Wang",
+    "role": "",
+    "text": "Yeah. So first of all, for automotive opportunities, I want to differentiate what we have been doing in the last several years. The first number we quote is the total size of the $19,000,000,000. That involves all of the business opportunities that we see in the next six years that we have either won or are being invited to bid. Compared to last year, we do see growth in this category. On the won business, we see the numbers similar to last year as an apples-to-apples comparison. I also want to highlight one thing. Although the won business is flat, considering the weak automotive market in 2025, we are very happy to see the end result because that shows not only do we see more opportunity in the total automotive opportunity side, but also we continue to add new design wins to compensate for, for example, customers cutting their forecasts or delaying production. We continue to maintain a healthy design win momentum in automotive."
+  },
+  {
+    "speaker": "Quinn Bolton",
+    "role": "",
+    "text": "Great. And, sorry, just a clarification for me. Did you say that the total pipeline is $13,000,000,000 or $19,000,000,000?"
+  },
+  {
+    "speaker": "John Young",
+    "role": "",
+    "text": "$13,000,000,000. Sorry."
+  },
+  {
+    "speaker": "Quinn Bolton",
+    "role": "",
+    "text": "Got it. Okay. Thank you."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Thank you. And one moment for our next question. Our next question comes from the line of Tore Svanberg with Stifel. Your line is open. Please go ahead."
+  },
+  {
+    "speaker": "Tore Svanberg",
+    "role": "",
+    "text": "Yes, thank you, and congrats on the record revenue year. Fermi, I was hoping you could maybe help us look for, I guess, guideposts on particular topics. One is just your channel strategy. How is that going? Are there certain things that we should look out for 2027? And then on your semi-custom ASIC business, again, any specific things that we should be keeping an eye on, and what are perhaps some of the early applications where you would potentially get an ASIC design win? Thank you."
+  },
+  {
+    "speaker": "Fermi Wang",
+    "role": "",
+    "text": "Right. I think at CES, we talked about our new go-to-market strategy and also highlighted several milestones we want to achieve. In the first year, our goal for this new go-to-market strategy is to focus on building out with our partners, particularly ISVs as well as system integrators and distributors. We are shooting to get at least a dozen ISVs committed to our platform by the end of the year so that they can help us drive multiple different applications and different customers at the same time. We are also targeting to establish certain milestones with distributors and system integrators as the milestones for the first year, so you should expect us to continue to make progress on that. However, I am not expecting any meaningful revenue this year from this new business model, but we expect to start seeing maybe ramping up a little bit in the next year. In terms of custom ASIC/semi-custom ASIC business, we already talked about our first two-nanometer chip in this business model, and it is in the IoT space. Our current engagements show multiple companies are interested in this model, and I would not be surprised that we continue to announce new design wins in this category. So what you should expect is when we get new design wins, we will give you a hint so that you know we definitely won something, but we will not disclose the customer name or the specific business. We will give you a hint that we continue to make progress in this business model."
+  },
+  {
+    "speaker": "Tore Svanberg",
+    "role": "",
+    "text": "Very good. Thank you for that. And as my follow-up, on the 10% to 15% growth guidance for fiscal 2027, I know in fiscal 2026 IoT obviously outgrew automotive by quite a bit. I am just wondering how you think about the mix in fiscal 2027. And I assume the 10% to 15% assumes both unit growth and also continuous ASP growth. Thank you."
+  },
+  {
+    "speaker": "Fermi Wang",
+    "role": "",
+    "text": "First of all, your assumption is right. Both ASP and unit growth are there, and we believe both IoT and auto will grow. I want to add a little bit more color on our growth rate. When we look at fiscal year 2026, growth was 37%. It came from two areas. One is our new product ramp-up, and also, to our pleasant surprise, strong customer new product ramp-up in fiscal 2026 combined to generate this growth. This year, we are very confident that we are going to continue to ride this momentum, and we are confident about our own new product ramp-up, like CV72, CV75, and CV7. We are trying to understand, and working with customers to understand, their new product ramp-up and how it is going to impact our growth this year."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Thank you. And one moment for our next question. Our next question is going to come from the line of Kevin Cassidy with Rosenblatt Securities. Your line is open. Please go ahead."
+  },
+  {
+    "speaker": "Kevin Cassidy",
+    "role": "",
+    "text": "Yes. Thanks for taking my question, and congratulations on the good year. What are you seeing in the competitive landscape as you are getting into drones? Are we past the point where companies are trying to build their own devices and will prefer to work with you for the AI capabilities? And what else do you have as competition coming from China?"
+  },
+  {
+    "speaker": "Fermi Wang",
+    "role": "",
+    "text": "You are talking about China specifically. First of all, in the drone market, DJI continues to build their own silicon. They also use external silicon solutions to complement their product portfolios. Outside that, I think that the majority of the other drone market does not plan to build their own; at least we do not know anybody planning to build their own, so they will use external silicon. Particularly, if you look at our offering to the drone market, it is from five nanometer down to four nanometer, and then to two nanometer, and from that point of view, I think that uniquely positions us as one of the few that can provide to the Chinese market."
+  },
+  {
+    "speaker": "Kevin Cassidy",
+    "role": "",
+    "text": "And with the ASIC market, with AMD and Meta announcing a partnership earlier this week, part of the discussion was that Meta has certain models that they want to run on a semi-custom version of AMD's MI450s, and to me it reminded me of your design where you have algorithm-first type of application, or the way you made your CV design in the first place. Is that where you are finding applications for the semi-custom version? Is it certain models for running what the customer is looking for, an optimized SoC?"
+  },
+  {
+    "speaker": "Fermi Wang",
+    "role": "",
+    "text": "I think that is one of the areas our customers want to leverage. But I want to highlight most, in fact, all of the customers that we are engaging for this business model are trying to leverage either our CVflow AI accelerator because of performance and performance efficiency, or our AI-ISP, which we are using for a lot of AI performance. Third, our software platform that they can easily leverage to quickly go to market with a new product and new models. Fourth, and also as important, is our capability to tape out a two-nanometer chip. I think all customers are trying to take advantage of a combination of these four factors, which is the reason to talk to us. By the way, we are not targeting at all for the data center design. That is not where our strength is. Our strength is with customers who want to build HAI SoCs with their own algorithms. That is our sweet spot."
+  },
+  {
+    "speaker": "Kevin Cassidy",
+    "role": "",
+    "text": "Okay. Great. Thanks for making that clear."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Thank you. And one moment for our next question. Our next question comes from the line of Joe Moore with Morgan Stanley. Your line is open. Please go ahead."
+  },
+  {
+    "speaker": "Joe Moore",
+    "role": "",
+    "text": "Great. Thank you. I heard you reiterate the 59% to 62% long-term gross margin. I just wonder if you need to rethink that at all with the focus on different markets, anything that would pull you out of that range one way or the other? Just any color. Thank you."
+  },
+  {
+    "speaker": "Fermi Wang",
+    "role": "",
+    "text": "So first of all, we repeat to say this year our gross margin will be within our long-term gross margin of 59% to 62%. At CES, I also mentioned that when the custom/semi-custom chip design becomes more mature, if we need to change the model because of that, we will come to talk to our investor world about this. But today, because that new business model is still at an early stage, and we are still talking to customers for different business models, I think it is premature to talk about this in terms of gross margin impact for that business. For our existing ongoing business, we continue to feel comfortable that we will be at 59% to 62%."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Thank you. And one moment for our next question. Our next question is going to come from the line of Liam Yevgeny Pharr with Bank of America. Your line is open. Please go ahead."
+  },
+  {
+    "speaker": "Liam Yevgeny Pharr",
+    "role": "",
+    "text": "Hi. This is Liam Farr on for Vivek. Thank you so much for taking my question. Are you seeing any or expecting any impacts or benefits from the recent restrictions of a Chinese competitor in the drone market?"
+  },
+  {
+    "speaker": "Fermi Wang",
+    "role": "",
+    "text": "We are definitely watching it. We are talking to our customers. It is not clear. Our current design wins that are already in production are not impacted by the new regulations. Whether the next generation will be impacted really depends on whether they will file for FCC review. There is a possibility it will be impacted. However, I want to point out that outside the U.S., there is still a huge drone market that we can tap into, not only in China, but outside the U.S. That is still a very big market that we can work with. So overall, the answer is no direct impact right now, but we are watching the potential impact in the future."
+  },
+  {
+    "speaker": "Liam Yevgeny Pharr",
+    "role": "",
+    "text": "Thank you. And then are you seeing any impact on the overall demand environment from component cost inflation?"
+  },
+  {
+    "speaker": "Fermi Wang",
+    "role": "",
+    "text": "You are talking about DRAM. First of all, there is obviously no direct impact to us, but we talk to a lot of customers. In fact, all of our customers about this issue. It is very clear that the majority of them have concerns about the price increases rather than the shortage of components. In fact, I think most of the companies that we talk to still can find supplies, but at a much, much higher price today. So the indirect impact, in my opinion, is for the products which have a very low gross margin, which cannot sustain the cost increase, will be impacted the most. If you look at our product and customer portfolio, that means the really low-end business, which we do not have much at all. So from our point of view, we do not expect huge impact because of DRAM price at this point. We will continue to watch this because it changes so quickly and is so dynamic. We want to make sure that we do not overlook this potential impact."
+  },
+  {
+    "speaker": "Liam Yevgeny Pharr",
+    "role": "",
+    "text": "Thank you very much."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Thank you. And as a reminder, if you would like to ask a question, please press 11. Our next question will come from the line of Martin Yang with Oppenheimer. Your line is open. Please go ahead."
+  },
+  {
+    "speaker": "Martin Yang",
+    "role": "",
+    "text": "Hi. Thank you for taking my question. My question is the unit and ASP in relation to CV7 launch. In the latter half of the year, do you think that initial launch could change your seasonal patterns a little bit? And also, how should we think about the overall ASP uplift for the year versus FY26?"
+  },
+  {
+    "speaker": "Fermi Wang",
+    "role": "",
+    "text": "First of all, we expect the ramp-up in the first quarter this year, but we do not expect material revenue generated by CV7 this year. However, we highlight CV7 for two reasons. One is CV7 is our first four-nanometer chip and has 2.5x higher AI performance than CV5. From that point of view, we see huge interest, and in fact many design wins are already engaged, and some will be ramping up in production later this year. That is significant for us. That confirms our thesis that our customers have huge demand and appetite for higher AI performance for their applications, which is very encouraging to us. In terms of ASP, we expect there is a premium ASP compared to current CV5 ASP, but we have not finalized all the negotiations yet. So that is just an indication of what we are looking at in terms of total ASP for CV7."
+  },
+  {
+    "speaker": "Martin Yang",
+    "role": "",
+    "text": "Got it. Thank you, Fermi."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Thank you. And one moment for our next question. Our next question comes from the line of Gus Richard with Northland Capital. Your line is open. Please go ahead."
+  },
+  {
+    "speaker": "Gus Richard",
+    "role": "",
+    "text": "As you move into the ASIC business and an indirect channel, I was hoping you could discuss a little bit about how that is going to change the P&L. In the indirect channel, you are going to have likely slower volumes, higher gross margin, and maybe higher G&A to go along with that. In the ASIC business, do you get paid for the NRE? Does that necessitate a lower unit cost or lower gross margin on the units? If you could just talk about how you think that is going to play out over time."
+  },
+  {
+    "speaker": "Fermi Wang",
+    "role": "",
+    "text": "First of all, I think it is a little too early for us to talk about the business model for the new go-to-market strategy. We definitely need to come back to you to talk about this, but considering there is no revenue generation from that this year, we would like to delay that discussion a little bit. Your question on the ASIC side is important for us. First of all, it has to have NRE associated with those kinds of projects. Otherwise, it does not make sense for us to discuss. However, there are different kinds of variables we can play with. For example, some customers want to integrate their black-box IP into a chip. Somebody wants to have a special I/O design for their application. There is a huge variety of demands, but at the end, we need to have NRE while being willing to look at different ASP structures to make the overall business make sense for us and for our customers. For the first product that we talk about, we only talk about the significant amount of NRE that they are paying right now, and the first revenue generated for silicon for the first ASIC/semi-custom chip is going to be early next year. In terms of the gross margin impact, we still believe that overall, if you average out the whole business in that first silicon, the gross margin is still within our long-term gross margin. But I also believe that to exchange for more aggressive NRE, this model might change for others in the future. Because it is really uncertain, I do not want to talk about it, and we do not want to give you an indication just yet. I just want to tell you that there is a variety of possibilities, and we are willing to talk with the customers that want to work with us. Obviously, at the end, it has to be beneficial for both Ambarella, Inc. as well as for our customers."
+  },
+  {
+    "speaker": "Gus Richard",
+    "role": "",
+    "text": "Got it. Thank you for that. Then just a housekeeping question. Did you give me a sense of, in the IoT business, how much of that was industrial, how much of it was consumer? Maybe if we divide it by CapEx-driven businesses versus consumer-driven?"
+  },
+  {
+    "speaker": "Louis P. Gerhardy",
+    "role": "",
+    "text": "Gus, this is Louis speaking, by the way. It is roughly 50/50. It did not change much from the prior couple of quarters. If we break it down a little bit, IoT for the year was around 80% of revenue, and security, which is mostly enterprise security for us, is obviously enterprise CapEx. There is a little bit of home there. In portable video, things like wearables or enterprise video conferencing I think we had three announcements in that category this quarter that is enterprise CapEx. But then you have 360-degree cameras, things like aerial drones that went to production for us in Q4. Those are all consumer/prosumer related. So that is how you get to roughly 50/50."
+  },
+  {
+    "speaker": "Gus Richard",
+    "role": "",
+    "text": "Got it. Thanks so much."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Thank you. I am showing no further questions at this time. I would like to hand the conference back over to Dr. Fermi Wang for closing remarks."
+  },
+  {
+    "speaker": "Fermi Wang",
+    "role": "",
+    "text": "Yes. Thank you for joining our call today, and I hope to see you at some of our numerous events this quarter. Thank you. Talk to you next time."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "This concludes today's conference call. Thank you for participating, and you may now disconnect. Everyone, have a great day."
+  }
+]

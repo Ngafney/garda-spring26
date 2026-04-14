@@ -1,0 +1,247 @@
+[
+  {
+    "speaker": "Unknown",
+    "role": "",
+    "text": "Full Conference Call Transcript Bruce McClelland, Ribbon's Chief Executive Officer, and John Townsend, Ribbon's Chief Financial Officer. Today's call is being webcast live and will be archived on the Investor Relations section of our website at rbbn.com, where both our press release and supplemental slides are currently available. Certain matters we will be discussing today, including the business outlook and financial projection for 2026 and beyond, are forward-looking statements. Such statements are subject to the risks and uncertainties that could cause actual results to differ materially from those contained in these forward-looking statements. These risks and uncertainties are discussed in our documents filed with the SEC, including our most recent Form 10-K. I refer you to our safe harbor statement included in the supplemental financial information posted on our website. In addition, we will present non-GAAP financial information on this call. Reconciliations to the applicable GAAP measures are included in the earnings press release we issued earlier today, as well as in the supplemental financial information we prepared for this call, which again are both available on the Investor Relations section of our website. And now, I would like to turn the call over to Bruce. Bruce?"
+  },
+  {
+    "speaker": "Bruce McClelland",
+    "role": "",
+    "text": "Great. Thanks, Fahad. Good afternoon, everyone, and thanks for joining us today to discuss our Q4 results and outlook for 2026. When we spoke with you back in October, we entered Q4 with a sense of optimism but also recognized we are operating in a very dynamic macro environment, including budget uncertainty related to the recent US government shutdown. We remain optimistic as we start the year. We successfully closed multiple significant deals in the quarter and achieved record product and professional service bookings. A significant portion of these new orders is associated with new voice modernization projects where we expect revenues starting in the second half of 2026. We've expanded the customer base and reinforced our industry leadership in cloud-centric voice modernization, where our portfolio and technical teams really set us apart from the competition. We also see a significant opportunity to integrate voice technologies with the expanding set of conversational AI and agentic AI platforms. Our Acumen AI ops platform continues to garner strong interest. However, relative to our guidance for Q4, revenue was below our expectations and was impacted by several customer and project delays. The delayed programs are not lost business and are primarily tied to two key reasons. Half of the shortfall was associated with projects already in backlog where implementation delays pushed out project completion milestones or product shipments, delaying revenue recognition to future quarters. This included one of our primary US customers where deployments slowed during their recent restructuring. The remaining gap in the fourth quarter was with several customers impacted by budget availability at the end of the year. This included an IP optical project where the end customer is still waiting for bead funding to be distributed. When comparing year over year, as expected, the largest contributor to lower sales in Q4 was the reduction in new sales to US federal agencies, which were approximately $10 million lower than in 2024. The other primary contributor to the year-over-year reduction in Q4 is the challenging comparison to the record quarter we had with Verizon in '24, when we shipped significant amounts of equipment to begin to ramp the voice modernization project across multiple sites. For the full year, our business with Verizon was very strong, with sales increasing 27% year over year. And now, with the closure of the Frontier acquisition, there is a significant opportunity to expand the scope of our program across the Frontier footprint over the next several years. For the full year, sales to global service providers increased 5% and were 70% of overall sales for the company. Sales to enterprise customers increased 2% year over year, while sales to government and defense declined 23% and were 9% of overall sales. So we made good progress growing our position in telecom and enterprise markets, while government and defense were below expectations. On a regional basis, 2025 sales in The Americas were essentially flat year over year, given the reduction in US federal offset by the increased business with service providers. EMEA sales were down year over year as a result of the reduced sales to Russia starting in 2024. Excluding Russia, sales in EMEA were flat year over year. Sales in the Asia Pacific region grew 19% year over year, with a significant increase in business in India. Consolidated gross margin in the quarter was in line with our expectations, with very strong cloud and edge margins benefiting from a stronger mix of software revenue this quarter, offset by lower IP optical networks gross margin from the increased sales in India and lower sales in North America and EMEA regions. Adjusted EBITDA for the quarter was $40 million, $2 million below our guidance range due to the lower sales, offset by lower operational expenses primarily related to reduced employee variable compensation. Despite the lower-than-expected Q4 results, we ended 2025 in a solid financial position, and as expected, Q4 was the strongest quarter of the year, increasing 6% versus the third quarter. For the full year, revenue increased 1% to $845 million, excluding sales to Russia in 2024, sales to all other customers increased 4% in 2025. Also note that you'll see a significant increase to our net income and EPS quarter related to a new tax benefit that John will describe shortly. Now a little more detail on our operating segments. In our IP optical networks business, revenue was down $2 million year over year in the quarter, which was below our target of mid-single-digit growth. As mentioned earlier, we saw several projects in North America push out into 2026, including a significant new deployment awaiting the release of bead funding. Sales were lower in the EMEA region primarily due to a year-end budget freeze with the government defense agency. This was offset by continued growth in India, with sales in the fourth quarter increasing 28% year over year on the strength of deployments with Barty as well as first shipments for a new rural broadband deployment. For the full year, sales in India grew more than 40% and exceeded $100 million. In other regions, we won several optical transport expansion projects in Southeast Asia, with CONVERGE CICT and Morotel. In the critical infrastructure market segment, we won significant projects with two major European railways, Danish railway, Panemark, and pan-European operator, Deutsche Bahn. We also had a first win with one of the largest electric power generation and distribution cooperatives in The US, which provides service across nine states. IP optical product and services bookings to revenue was 1.1 times in the quarter, and bookings were the highest level of the year. For the full year, revenue grew approximately 1%, but when excluding sales to Russia in '24, revenue across all other regions increased 9% year over year. In our Cloud and Edge segment, revenue in the fourth quarter was down $23 million year over year, below our expectations as I previously mentioned. Despite the lower revenue in the quarter, Cloud and Edge bookings set a new record high, with product and professional services booked to revenue of 1.5 times. As I mentioned on our last earnings call, we're seeing an increasing number of service providers investing in modernizing their traditional voice networks. In addition to Verizon, we booked over $50 million of voice network transformation orders in the quarter across more than a dozen different customers. Revenue for these projects is normally spread out over time, typically six to twelve months, or perhaps longer for larger projects. It's a very good start, and there are several additional significant opportunities that we are pursuing. In addition to legacy class five switch replacement, another key voice modernization priority for both service providers and enterprises is to migrate from purpose-built hardware to fully cloud-native implementations. We now have several major projects underway with tier one service providers in Europe and Asia Pac, along with a significant new win with a US tier one customer this quarter to migrate SBC and routing workloads to cloud-native implementations running in both private and public cloud. For the full year, cloud and edge sales increased 1%, with service provider sales growing 8% and enterprise and government sales decreasing 16%. With that, I'll turn it over to John to provide additional financial details on our results and then come back on to discuss the outlook for 2026. John?"
+  },
+  {
+    "speaker": "John Townsend",
+    "role": "",
+    "text": "Thanks, Bruce. Let's begin with financial results at the consolidated level. In 2025, Ribbon generated revenues of $227 million, a decrease of 10% from the prior year. For the full year, revenues were $845 million, an increase of 1% or $11 million year over year. Fourth quarter non-GAAP gross margin was 55.4%, down 270 basis points due to lower software revenue and higher professional services revenue. It was also impacted by geographic mix, with a very strong performance from our team in India. For the full year, non-GAAP gross margin was 52.3%, down 355 basis points from the prior year, driven by the highest sales in India and higher services revenues. Fourth quarter non-GAAP operating expenses were $90 million, a decrease of $4 million year over year, reflecting our continued focus on efficiency and cost management. For the full year, operating expenses were $352 million, a reduction of $9 million from the prior year. Reductions were driven by employee and related costs more than offsetting $4 million and $6 million of FX pressures in the quarter and year respectively. Fourth quarter adjusted EBITDA was $40 million, a $15 million decrease from the prior year, driven principally by lower revenues. For the full year, adjusted EBITDA was $107 million, a decrease of $12 million from the prior year, driven by the lower gross margin. During the quarter, we recognized a deferred tax benefit of approximately $90 million related to our investments in ECI. This had a favorable 50¢ benefit to non-GAAP EPS. The tax asset will be utilized over the next several years, resulting in cash tax savings of between $15 to $20 million per annum. Net interest expense in the quarter is $11 million and $44 million for the full year. Quarterly non-GAAP net income was $106 million, a $78 million improvement year over year, driven by the tax benefit in the quarter. This generated non-GAAP diluted earnings per share of $0.59, which was an increase of $0.43 versus the prior year. Full year 2025 non-GAAP net income was $118 million, up $74 million from the prior year. Diluted earnings per share for 2025 was 66¢, up 41¢ from 2024. Let's look at the results of our two business segments. In our IP optical networks results, we recorded fourth quarter revenues of $85 million, a 2% decrease versus the prior year. Revenues for the full year were $333 million, up 1% from 2024. Fourth quarter non-GAAP gross margin for IP optical was 34%, down 600 basis points from the prior year, due principally to the higher revenues generated in India. For the full year, gross margin was 35%. IP Optical Networks adjusted for the quarter was a loss of $8 million. For the full year, adjusted EBITDA was a loss of $27 million. Now on to our Cloud and Edge business. We generated fourth quarter revenue of $142 million, up 14% sequentially, but a decrease of 14% year over year against a record fourth quarter in 2024. Full year revenues were $511 million, a $6 million increase from 2024. Fourth quarter non-GAAP gross margins were strong at 68%, up 65 basis points from the prior year, supported by core session border controller sales increasing by 10%, benefiting the overall mix. Full year gross margin was 64%, down 300 basis points from the prior year, due to the higher level of professional service revenues related to voice network transformation programs. Adjusted EBITDA for the segment was $48 million or 34% of revenue. For the full year, adjusted EBITDA was $134 million or 26% of revenues. Cash flow was very strong in the quarter. Good collections performance drove cash from operations of $29 million, resulting in a closing cash balance of $98 million and a net debt leverage ratio of 2.3 times. Cash from operations for the full year was $51 million. Total CapEx spend in the quarter was $2 million, bringing the full year expenditure to $15 million plus an additional $10 million relating to our new Israeli facility. During the fourth quarter, we repurchased approximately 972,000 shares of our common stock under our buyback authorization, at a total cost of approximately $3.3 million, bringing the total for 2025 to 2.5 million shares at a total cost of approximately $9 million. In conclusion, we continue to improve our cost efficiency and working capital levels to better drive cash conversion in the business. We also expect our annual capital expenditure levels to return to approximately $15 million. These efforts plus lower cash taxes are expected to improve cash generation in the coming years. And with that, I'll turn the call back to Bruce."
+  },
+  {
+    "speaker": "Bruce McClelland",
+    "role": "",
+    "text": "Great. Thanks, John. Over the past four years, we've maintained steady top-line revenue performance and navigated a significant number of challenges while delivering improved profitability, with EBITDA growing at a 19% CAGR. As we enter the New Year, we're not satisfied and are anxious to drive faster growth. We ended 2025 with increasing backlog and a broadening customer base for our secure voice and IP optical solutions. We continue to strengthen our balance sheet while also investing in innovation across our portfolio to drive long-term value. Our momentum remains intact, and I'm confident we'll deliver improving results as the year progresses. We have several important elements to our strategy this year to drive improved profitable growth and unlock value. The largest area of opportunity continues to be the investment being made by service providers, governments, and enterprises to lower the cost of operating their communication infrastructure and replacing outdated equipment. With our marquee customer, Verizon, we ramped up activity in 2025 and are progressing well on the first phase of their modernization program. We believe this remains a high priority for them and believe there is an opportunity to expand as Verizon integrates the Frontier operation in the coming months. Beyond Verizon, we now have similar initiatives with a broadening number of customers, highlighted by the strong bookings in the fourth quarter. These projects are complex and can take six months or more to implement and include a significant amount of professional services that Ribbon is uniquely positioned to provide. In many ways, the upfront investment can essentially be self-funded by the savings generated, and we're exploring creative ways to further unlock and accelerate voice modernization across the industry. In addition to telecom service providers, we have a growing presence in the enterprise segment where companies are building and managing their own complex secure communication infrastructure. We have several specific market verticals that we are addressing across the Fortune 1000 landscape, including financials, healthcare, transportation, energy, and defense. The technology stack within large global multinationals is transitioning from private data centers to public cloud, adopting technologies such as containers and Kubernetes. We believe we are considerably in front of our competition in supporting these new capabilities. Within the government sector, although it may take some time, we expect improved visibility now that the US federal fiscal 2026 funding has been approved. We have several large voice modernization programs already underway and a funnel of new opportunities that we expect will provide growth in the second half of the year. A key goal is to also secure similar programs outside The US this year. Our third major focus area is to sustain global high-speed broadband infrastructure driven by exponential growth in data traffic and the need to extend connectivity to underserved regions. In The US, we're actively supporting regional service providers as they expand fiber-to-the-home networks using very cost-effective IP over DWDM architectures. We expect these deployments to accelerate meaningfully in 2026 with the support of federal funding dollars. We're seeing similar momentum internationally, particularly in India, where national broadband initiatives have already translated into early commercial success for us. These networks also provide a foundation for data center interconnect services, and we see additional upside in critical infrastructure customers across rail, energy, and defense, with a strong focus on expanding further in North America. Finally, our new Acumen AI Ops platform is an important growth initiative for us, enabling end-to-end observability and automation across multi-vendor networks, with tools that allow customers to build AI agents using multiple large language model integrations. Optimum remains our lead customer, with additional POCs planned in the first half and modest revenue expected in the second half. Beyond AI ops, as the adoption of AgenTeq AI platforms continues to grow, we see a great convergence opportunity with our cloud-centric secure voice portfolio to seamlessly integrate AI with the human interface. Partnerships are critical to success in this ecosystem, and we recently signed a multiyear collaboration agreement with AWS to simplify the transition of critical network services to the public cloud. In addition to our core strategy, our recent tax planning has created an opportunity to generate more cash over the next several years that can be used to strengthen our balance sheet as well as to potentially accelerate innovation and expansion into new immediately adjacent markets, with select investments in new private technology companies rapidly innovating in these explosive growth markets. Now on the guidance for 2026. As I've just outlined, the underlying industry fundamentals are solid, and there are multiple positive long-term drivers supporting the business. It's imperative for our customers to continue to invest. However, we're taking a more cautious approach at this point in the year given several near-term factors that are out of our control. As a result, our 2026 outlook reflects a more conservative set of assumptions, particularly around the timing of business here in the first quarter. Key factors affecting our near-term outlook include shifts in investment priorities at major US service providers amidst elevated M&A activity, sustainability of Indian service provider CapEx intensity that has resulted in 60% revenue growth for Ribbon over the last three years, and timing in US federal spending and subsidy programs in the current political environment. Reflecting these macro uncertainties, we recently completed a restructuring that eliminated approximately 85 positions, lowering our annual expenses by more than $10 million. With that context, for the full year, we're projecting revenue in a range of $840 to $875 million. This implies a consolidated year-over-year growth rate of approximately 1% at the midpoint of guidance, but it's actually quite a bit higher after excluding low-growth maintenance revenue. For the Cloud and Edge segment, we're projecting approximately 6% growth in product and professional services revenue, offset by slightly lower maintenance revenue. For the IP optical segment, we're projecting approximately 5% growth of product and professional services revenue. Maintenance revenue is expected to be lower by approximately $10 million related to the completion of a maintenance contract with a European customer associated with legacy access equipment. On a consolidated basis, we're currently projecting gross margin to increase 50 to 100 basis points year over year, and we're projecting OpEx for the year to increase approximately 2% year over year due to normal inflationary increases, offset by the restructuring savings I mentioned earlier. As a result, adjusted EBITDA for the year is projected in a range of $105 million to $120 million, which would be approximately 6% higher than 2025 at the midpoint. For the first quarter, we expect a slower than typical start given lower sales in India and lower maintenance revenue, and are projecting revenue in a range of $160 to $170 million and adjusted EBITDA in a range of minus three to plus $1 million. In conclusion, we're taking a cautious approach given several factors I've outlined that can affect the timing of the business this year. We expect improvement as the year progresses. Operator, that concludes our prepared remarks, and we can now take a few questions."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Thank you. We'll now be conducting a question and answer session. Please press 1 on your telephone keypad. A confirmation tone will indicate your line is in the question queue. You may press 2 if you'd like to remove your question from the queue. For participants using speaker equipment, it may be necessary to pick up your handset before pressing 1. One moment, please, while we poll for questions. Our first question today is coming from Michael Genovese from Rosenblatt Securities. Your line is now live."
+  },
+  {
+    "speaker": "Michael Genovese",
+    "role": "",
+    "text": "Great. Thanks very much. Bruce, I'd like to hear more about these new cloud and edge bookings. Just, you know, more detail on the size of those bookings. And then also, are those all coming from new customers, or does that also include new programs with existing customers like Verizon in that number?"
+  },
+  {
+    "speaker": "Bruce McClelland",
+    "role": "",
+    "text": "Yeah. Hey, Mike. Thanks for the question. So the $50 million of new bookings that I mentioned were non-Verizon for all. These are other customers on top of the business we have with Verizon. And I think I mentioned there are about a dozen different customers, so it's kind of spread across a growing base of customers focused on similar modernization. There were a couple of reasonably large ones and then a longer list of more single-digit millions sort of thing that contributed to the $50 million in bookings. And, you know, the revenue associated with that, a portion of that, we shipped some of that in Q4, probably around 25%. And then the rest of that revenue associated with those bookings kind of plays out over the next, say, fifteen months, something like that."
+  },
+  {
+    "speaker": "Michael Genovese",
+    "role": "",
+    "text": "Great. And, I mean, do any of those dozen or so customers, I mean, are any of them of the size where they could be eventually like a Verizon or even like a BrightSpeed, or, you know, is there anybody large on that list?"
+  },
+  {
+    "speaker": "Michael Genovese",
+    "role": "",
+    "text": "Okay. Yeah. Yeah. I guess we'll leave it at that. I guess my other question is I just want to get more follow-up on some of these delays that you're seeing because, you know, it sounds like it's cutting across government in The US, government in Europe, plus some US service providers. That's, like, multiple vectors of delay and budget issues. So just, you know, more color on what's going on in all of these places and how long this could last would be helpful."
+  },
+  {
+    "speaker": "Bruce McClelland",
+    "role": "",
+    "text": "Yeah. No. I definitely understand the question. You know, I wish I could point to one specific thing that was kind of two groupings. One I think the one I was probably most frustrated with was business we already had in backlog that we were expecting to score revenue in the quarter. That moved out of the quarter. And, you know, these are basically professional service programs where we're deploying product. You know, I mentioned as one example, you know, a large US customer that was going through restructuring. And, you know, these programs were basically joined at the hip with the customer, doing the planning, out in the field, basically installing the equipment, doing the migrations, etcetera. And we recognize revenue as these migrations complete and, you know, all the lines are cut over to the new platforms. And, you know, so we saw some delays in those deployments. And that kind of immediately moves out revenue for us. And, you know, those types of major restructurings obviously have an impact on those types of programs. So that was the first big bucket. And then the other was what I described as year-end budget issues. You know, the one that was kind of the best example was the project that I talked about last quarter that's associated with the bead funding. And, of course, if you follow that closely, there's a lot of frustration over when those funds start to really get released to the individual states. Most of the NTIA approvals are now completed, but now everyone's waiting for NIST approval, which is really, you know, the final government contract to release the funds. And so, you know, that's an example of something that moved out of the quarter. There's a couple of other smaller examples like that."
+  },
+  {
+    "speaker": "Michael Genovese",
+    "role": "",
+    "text": "Okay. You know, maybe I'll ask one last question if you don't mind. You know, I guess, given where we're starting the first quarter and the guide for the full year, it looks like we need some pretty significant sequential growth, I'd say, throughout the year, right, throughout the remaining quarters. Is that the right way to think about it? Because I know typically, you know, the third quarter can be down sequentially. But in this kind of when you're starting the first quarter this low and you have this kind of guide, I'm just thinking ahead to the third quarter. You know, I know it's early to think about the third quarter, but should we think about sequential growth every quarter this year unless seasonality after we get by the first quarter?"
+  },
+  {
+    "speaker": "Bruce McClelland",
+    "role": "",
+    "text": "You know, that's the way we're profiling it at this point. And, yeah, we're, you know, slow here in Q1, obviously. As I mentioned, you know, we expect revenue in India to be lower than the peak levels that we've had last year. You know, I think there's a couple of reasons why you're seeing us be more conservative. Obviously, starting slower in Q1 is one of them. But there's a number of macro things going on here. You know, the large changes going on at Verizon, our key customer here, you know, we feel like we're well-positioned because we're ultimately helping them reduce the cost of operating the networks. And as they integrate the Frontier footprint, we think there's just a great opportunity for us in the midterm here to expand the programs we have going. And, you know, I think they're delighted with the progress and everything we've made. But when they go through a major restructuring like they are, you know, it definitely has some near-term impact just on the velocity of getting the work done. So that's one of the key reasons we're being more conservative, you know, until we really understand exactly how that plays out. The second, you know, is still tied to the US federal government spending. Not that, you know, obviously, things are back in business there and budgets are now kind of established for all the agencies, etcetera. But it takes a bit of time for that all to start to ramp back up again. We have, in particular, two major programs going on there today where we're in the deployment phase. And, you know, kind of similar to the Verizon program, we're out helping, you know, deploy and operationalize the infrastructure that we've already sold them. So we think that ramps significantly again back in the second half, and that's why we think it's, you know, kind of back-end loaded as the year progresses. The third item I flagged, you know, Mike, in the commentary was around India. You know, we've had a great run there, increased 40% in 2025. You know, we think there's a possibility it continues at that rate, but we're not sure yet until all the budgets are finished. You know, they're on a fiscal year ending March. So we're trying to be just a little more thoughtful around the targets that we set, and hopefully, we can improve that as the year progresses here."
+  },
+  {
+    "speaker": "Michael Genovese",
+    "role": "",
+    "text": "I appreciate all the response, all the color. Thanks very much."
+  },
+  {
+    "speaker": "Bruce McClelland",
+    "role": "",
+    "text": "Thanks very much, Mike."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Thank you. Next question is coming from Tim Savageaux from Northland Capital Markets."
+  },
+  {
+    "speaker": "Timothy Savageaux",
+    "role": "",
+    "text": "Yes. Hey, good afternoon. I guess the first question, and I think you said you might have some, don't know if you specified big US tier one carriers in that $50 million of orders. But is there a way to relate those initial orders to the total opportunity at those customers? Is that sort of those are pretty big deployments, but I guess how much of your estimate of the total opportunity at those customers for voice upgrade does that $50 million represent?"
+  },
+  {
+    "speaker": "Bruce McClelland",
+    "role": "",
+    "text": "Yeah. Hey, Tim. You know, it's absolutely a fair question. You know, I've hesitated to put a specific number on the total addressable market for modernization. Part of my reluctance is not everybody's adopting the same approach. You know, obviously, what the tactics at Verizon look different than, let's say, what Lumen's doing today or what AT&T is doing today. You know, the additional backlog that we built here in the fourth quarter is obviously meaningful and, you know, covers deployments over the next, say, twelve months as I mentioned. And there's some larger names in that, you know, are maybe not committing to a larger multiyear program. Maybe it's more targeted on the different regions where the cost of operating those networks are higher, or it's more challenging to just switch off the offices and turn off the copper loop. So depending on just how big and broad these programs go, this is a sizable large market. The last number I saw, the number of POTS lines in The US is something like 20 million. I don't know if anybody has an exact number on that, but it's a large addressable market. As I mentioned in my commentary, you know, if you look at the numbers, as far as the cost savings that you generate from doing the modernization, you know, depending on your time horizon, this becomes a self-funding program, and if you're not modernizing, eventually, you know, your costs start to be higher than your revenue. And so I think there's, you know, we're looking at some creative ways to really unlock and move more quickly. Just a final comment, you know, if you look at Verizon, you know, we've obviously in the first phase of that program with them, you know, I think it addresses about a third of their network. And so there's, you know, significant opportunity still with them as we progress over the next several years. And then, you know, I think it's a key part of how they're thinking about reducing cost operating the Frontier network as well. So yeah, there's lots of activity, lots of opportunity here for us."
+  },
+  {
+    "speaker": "Timothy Savageaux",
+    "role": "",
+    "text": "Yeah. I mean, that's kind of the color I'm looking for. You know, you're obviously a pretty big deal with Verizon. I think you mentioned up 26%. I don't know if getting close to $140 million or something like that. But just to try to relate then, you know, they've sort of committed to, you know, that three-year rollout. I guess what I'm trying to get to is it doesn't sound like within that $50 million of bookings, there are commitments for three-year rollouts or from big carriers, but maybe there are. Right? So, you know, to the extent you're relating what you've done with Verizon as a third of the network, it seems like this range of commitments from current customers should represent a lot less than that in terms of proportion of their networks they're upgrading. That's directionally kind of what I'm looking for."
+  },
+  {
+    "speaker": "Bruce McClelland",
+    "role": "",
+    "text": "Right. I think those are all the right observations. You know, none of the bookings in Q4 were for, like, a three-year horizon. You know, this is all kind of twelve to fifteen-month horizon programs. And just on Verizon, again, the, you know, the contract we have in place for the first three years, kind of a third of their footprint, we're now kind of halfway through that from a timing perspective. You know, we're about a year and a half since we initiated the program. And, you know, we estimate we're 35% or so through that effort. So a lot of work left to go on the first contract. We think, you know, there's likely a second phase and then Frontier on top of that. So, you know, there's, yeah, there's quite a runway here for us. Lots of work ahead."
+  },
+  {
+    "speaker": "Timothy Savageaux",
+    "role": "",
+    "text": "Right. Exactly. I guess it's closer to $150 million for Verizon now that I look at it. Now, obviously, there's, you know, kind of announced a draconian cut in their combined CapEx with Frontier and looking to maintain, I guess, at least the current level, if not accelerate a fiber build. And you mentioned a restructuring, but would you say your, and I guess you got a bunch of factors going on, but maybe just uncertainty around where that cut's coming from, perhaps has given this merger just happened, is likely what's impacting you as well as just a lower bogey envelope for capital spending overall? That kind of fair to say?"
+  },
+  {
+    "speaker": "Bruce McClelland",
+    "role": "",
+    "text": "Yeah. I guess what I would say is we're being cautious here until, you know, plans are finalized. They're only, you know, kind of weeks into running the Frontier network. And, you know, again, I think there's obviously opportunity for expansion associated with that. But until we, you know, we and they have had a chance to kind of nail all that down, I just want to be cautious in how we think about how the year is going to play out. And, you know, I'm convinced there's tons of business and growth here with them, but until they get through their planning, I want to be more cautious. And as you said, they've made some big macro changes. So until that kind of rolls out to everybody, I think it's the right way to manage it."
+  },
+  {
+    "speaker": "Timothy Savageaux",
+    "role": "",
+    "text": "Fair enough. And last one for me, and then I'd say most of understanding the fine points of the process, but certainly most of what we've been hearing in recent quarters around bead has been pretty positive with the approvals and a lot of the access guys getting a lot more visibility on network planning designs, you know, rollout, what have you. So it would seem like that should be a good news story in calendar '26 at least in the second half, you know, at the very least. But how are you looking at it right now at a higher level versus the push you described in Q4?"
+  },
+  {
+    "speaker": "Bruce McClelland",
+    "role": "",
+    "text": "Yeah. No. I resonate with all those comments. You know, we think it's a great opportunity for us. We think that segment of our business grows, you know, reasonably significantly this year for us. I'm a little frustrated because we expected it to get started in Q4. I think everybody did. So we're a little delayed from that. But I think we've got a really nice funnel of opportunities in that space for us. And, you know, hopefully, we're weeks and, you know, kind of months away from all of this being settled and moving out, but we're not quite there yet."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Thank you. Next question is coming from Ryan Koontz from Needham and Company. Your line is now live."
+  },
+  {
+    "speaker": "Ryan Koontz",
+    "role": "",
+    "text": "Great. Thanks. Appreciate all the color, Bruce, on the voice modernization. You covered most of the kind of the bigger tier one opportunities. You know, do you have any updated thoughts on down market opportunities there in terms of the rurals? Are they any idea what kind of approach they're going to be taking as they start to retire copper and deploy more fiber here and going to do with their existing infrastructure, their class fives?"
+  },
+  {
+    "speaker": "Bruce McClelland",
+    "role": "",
+    "text": "Yeah. That's a great question. You know, what we're seeing most of the activity is in the, I'll call it the tier two, operator space where, you know, they're committed to that as a service offering. They want to lower the cost of operating the network. And, you know, we're a great solution to help them do that. You get into the much smaller operators, I think you see different things there. You know, I think voice looks like a nice lead service, but it's not necessarily a good revenue generator or profit generator for them. See different things happening. Some look at that as an entry point to sell more fiber. So not only do they want to maintain the relationship with subscribers on the copper network, they maybe even want to grow that because it's an entry point for them to differentiate. You know, once you've got a relationship with the consumer, you know, it's easier to maintain it. Others we see, you know, just wanting to kind of manage it in place. They don't want to invest anything incremental. You know, we have a decent service and support revenue stream from that segment of the market. And we see it kind of similarly where it's a great entry point for us to come in, introduce our IP optical products, and grow our business within that space. And we've built in some capabilities that help them migrate off of legacy TDM networks onto IP networks. So it's a great entry point for us there. But, you know, we don't think of it as a great revenue generator for voice modernization necessarily. I'm not sure they're investing. You know, that's not a top priority investment for them."
+  },
+  {
+    "speaker": "Ryan Koontz",
+    "role": "",
+    "text": "Yeah. Makes sense. And on your legacy maintenance business, what kind of decline is that typically seeing? Like, 10% a year, kind of double-digit declines typically?"
+  },
+  {
+    "speaker": "Bruce McClelland",
+    "role": "",
+    "text": "No. No. It's much steadier than that, you know, and we've in select places, we've been in a position where we are raising prices. Yeah. You know, I think we see a few million dollars a year erosion kind of in the base from our voice business. In our IP and optical business, it's actually been growing, you know, as we increase the base. We have one customer where we completed a long-term maintenance contract supporting their access business that we exited or completed in Q4. So that's a step down going into this year. I kind of mentioned that on the call. But for the rest of the market, that part of the business is actually growing for us."
+  },
+  {
+    "speaker": "Ryan Koontz",
+    "role": "",
+    "text": "Got it. Thanks. And then following up on the packet optical side, are your main kind of use cases you're most excited about here in the next, you know, eighteen months or so? Is it still, you know, broadband aggregation and backhaul, or are you seeing alternate type use cases for your new platforms?"
+  },
+  {
+    "speaker": "Bruce McClelland",
+    "role": "",
+    "text": "Yeah. That's really the focus and, you know, I've mentioned a couple of times that I think our area for best differentiation is around integration of IP networks with optical networks or IP over DWDM. And, you know, that's the most cost-effective way to build a new network. You're integrating the transponder technology into a pluggable that goes into the router. We've invested a lot in a broader set of platforms for IP routing. And, you know, most of the growth here in North America has been IP with optics integrated into the routers and maybe an OLS that we, you know, that we include for the transport network. And similarly, in, you know, the high growth area we've had in India with the portfolio, the majority of that growth has been around our IP portfolio, our IPMPLS portfolio and the growth there. So that's really the focus."
+  },
+  {
+    "speaker": "Ryan Koontz",
+    "role": "",
+    "text": "Sounds great. And any commentary on kind of enterprise SP market? I assume that's also, you know, somewhat a legacy product you're not investing a whole lot. Is it a profitable business line for you still?"
+  },
+  {
+    "speaker": "Bruce McClelland",
+    "role": "",
+    "text": "Yeah. No. It's a great business for us, and most of the investment, the innovation there has been, you know, taking the traditional kind of bespoke products and turning them into cloud platforms. And, you know, anybody that's been through that knows, you know, it's not a lift and shift. You know, in many cases, you're reengineering the implementation into a cloud-native elastic, you know, fault-tolerant implementation. And I think we're out in front of the competition in that space. I mentioned in the call, we have now kind of tier one carriers in all regions migrating their traditional SBC infrastructure into a true cloud-native implementation with a complete DevOps software delivery model, which is a, you know, a big shift for that market. We see the same thing in the enterprise market where customers want to move to a much more of a public cloud implementation. You know, I mentioned that we have a partnership with AWS where we integrate our SBC and routing platforms and management systems into the AWS cloud to really simplify the onboarding of new customers. And we had two fairly significant wins last quarter based on that integration into AWS. So there's, yeah, there's a lot of activity. In fact, I think John mentioned our SBC sales in Q4 were up pretty considerably. It was one of the big growth areas in the contributor from a margin perspective in the quarter."
+  },
+  {
+    "speaker": "Ryan Koontz",
+    "role": "",
+    "text": "Great. Appreciate it, Bruce. Thanks much."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Thank you. Next question is coming from Dave Kang from B. Riley Securities. Your line is now live."
+  },
+  {
+    "speaker": "Dave Kang",
+    "role": "",
+    "text": "Yes. Just on the federal segment, I think you said the amount as far as how much it was down. Can you repeat that? I missed that one."
+  },
+  {
+    "speaker": "Bruce McClelland",
+    "role": "",
+    "text": "Yeah. So the US federal business, which was one of the drivers for our great Q4 a year ago 2024, was a little over $20 million. And in the fourth quarter, 2025, it was $10 million down from that. So call it $10 million in the quarter."
+  },
+  {
+    "speaker": "Dave Kang",
+    "role": "",
+    "text": "Got it. And then regarding all the delays, were they mainly in optical? Or CNE or both?"
+  },
+  {
+    "speaker": "Bruce McClelland",
+    "role": "",
+    "text": "It was almost evenly split. And I would say the, you know, the again, the ones I mentioned that I'm probably most frustrated with the deployment delays, the stuff that was already in backlog, a large portion of that was cloud and edge, obviously, with all the services that go with that. And the ones that were more, I'll call it, budget-oriented, like the bead delay was more IP optical."
+  },
+  {
+    "speaker": "Dave Kang",
+    "role": "",
+    "text": "But based on your outlook for the first quarter, it doesn't sound like they're being pushed into the first quarter. Can you just provide more color as far as when you expect to capture all these delayed projects?"
+  },
+  {
+    "speaker": "Bruce McClelland",
+    "role": "",
+    "text": "Yeah. If you, you know, if you kind of did the arithmetic on the $227 million we did in Q4 relative to guidance, it's about $13 million below the mid. And I think we pick up about $6 million of that in Q1, and then the rest is kind of linearly into other quarters. You know, the deployment-related delays probably just all kind of move out so you don't catch up on that. I mean, eventually, we'll catch up if we can accelerate the deployments. But we need the customer to go faster with us to kind of catch that back up. So, again, you know, we're trying to be, you know, more conservative here in how we, you know, put together the outlooks, and, you know, I think that's the right profile for the first quarter."
+  },
+  {
+    "speaker": "Dave Kang",
+    "role": "",
+    "text": "And then you mentioned about certain customers with budget issues. So as far as timing is concerned, I mean, have they given you some kind of a timing, you know, as far as when that budget will be available, or is it still uncertainty going forward?"
+  },
+  {
+    "speaker": "Bruce McClelland",
+    "role": "",
+    "text": "Yeah. I think it varies a little bit. You know, our larger customers, we get good visibility. Generally speaking, we get good visibility, particularly around the hardware products where we have to drive supply chain, and, you know, if we're not forecasting and they're not forecasting, you know, it's difficult to supply. So there's a lot of cases where you do get good visibility, and then, you know, there's a portion of our business which is still book and ship inside the quarter. And particularly with software where it's really easy to fulfill, there's not as much pressure to forecast that as accurately. So maybe we have more variability around that part of the business."
+  },
+  {
+    "speaker": "Dave Kang",
+    "role": "",
+    "text": "Got it. Thank you."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Thank you. Next question today is coming from Rustam Kanga from CitiSens."
+  },
+  {
+    "speaker": "Rustam Kanga",
+    "role": "",
+    "text": "Afternoon. Thanks for taking the question. Just curious to sort of peek into the growing POC opportunities in regards to the Acumen platform. Are customers still evaluating the solution there just relative to their own DIY approaches? And then, additionally, any update on sort of initial reactions to pricing perhaps on OpEx-based savings?"
+  },
+  {
+    "speaker": "Bruce McClelland",
+    "role": "",
+    "text": "Yes. Thanks, Russ. Good question. So we're, you know, we're in the heavy lifting, getting into the with our lead customer Optimum on integrating Acumen into their operation. Then we probably got about a dozen other POCs lined up for the next few months. And I think similar actually, we have the same experience as we're integrating AI platforms into our back office. We really want to see them in operation in the network and see the savings from them before you make a larger longer-term commitment. We're seeing kind of the similar phenomena as we position Acumen. The kind of the easiest introduction is with customers that already have our analytics platform deployed. They're already they already have a large data collection infrastructure we're able to tap into and feed all of that up into the Acumen layer into the large language model, etcetera. But I think customers really want to see it in action. They want to see the translation and OpEx savings. I think, you know, the next six months, I think, is really focused on these POCs so that we can start to, you know, turn that into real revenue in the second half of the year."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "We've reached the end of our question and answer session. I'd like to turn the floor back over to Bruce for any further or closing comments."
+  },
+  {
+    "speaker": "Bruce McClelland",
+    "role": "",
+    "text": "Great. Thank you. Thanks for everyone being on our call and your interest in Ribbon Communications. We look forward to speaking with many of you at the investor conferences as well as some of the major trade shows, Mobile World Congress coming up in Barcelona, and then the large OSC optical conference in Los Angeles in March as well. So thanks very much. That concludes our call."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Thank you. That does conclude today's teleconference webcast. You may disconnect your line at this time, and have a wonderful day. We thank you for your participation today."
+  }
+]

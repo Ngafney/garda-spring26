@@ -1,0 +1,312 @@
+[
+  {
+    "speaker": "Unknown",
+    "role": "",
+    "text": "Full Conference Call Transcript"
+  },
+  {
+    "speaker": "Anthony Scott",
+    "role": "",
+    "text": "Well, thank you, Josh, and good afternoon, and thank you all for joining us today. Fiscal year 2025 was a year that had an unexpected beginning and an unexpected ending along with a number of significant product milestones along the way. At the beginning of the year, we improved our balance sheet by fully eliminating our then outstanding debt and Series A preferred stock. At midyear, we rolled out production of our critical infrastructure solution to help safeguard essential assets like water, power and telecom facilities. In the third and fourth quarter, we expanded our access to our Shield Cloud solution by making 2 variations of the product available on the AWS marketplace. And towards the end of the year, we announced our partnership with PortNexus to provide secure network protection for their MyFlare safety technology, which is being deployed at schools in several states. In conjunction with PortNexus, we also launched the P.O.S.S.E program, which will give sheriffs and other law enforcement agencies critical network protection for their public safety networks. And our pilot experience with the P.O.S.S.E program is encouraging with a high adoption rate so far. And finally, we ended the year with an unexpected delay in the extension of the earlier mentioned critical infrastructure contract with the Department of War. And I'll start my detailed remarks with some more insight about this unexpected end-of-year development. Kim will provide more details on the overall numbers shortly, but our fourth quarter revenues decreased by 12%, compared to the prior year period as a result of the delayed timing of an expected contract extension for our critical infrastructure technology. But for this delay, we had expected to show quarter-on-quarter increases in revenue, and greater year-over-year increase in revenue overall. Now to be clear, the cost of providing the services for this critical infrastructure solution are included in our operating expenses, but the expected revenue is not and will show up in later periods when the contract is extended. The timing of this contract extension was and remains affected by the operational and administrative constraints associated with the U.S. government shutdown, which limited agencies' ability to initiate and process contract actions during that period. And the situation is further impacted by the events related to the war in Iran unfolding currently. This delay in funding reflects a broader trend, affecting companies with U.S. government contracts, particularly those operating within the defense sector. And while we're disappointed by this delay, we do believe that we will be able to recognize this revenue during the first half of 2026 once procurement activity normalizes, and we are continuing to support and enhance the solution that we have provided, and we look for further expansion of this solution in other regions in 2026. We're proud of our partnership with the U.S. Department of War and the critical role we play in protecting national security through our advanced cyber capabilities. We continue to view the critical infrastructure solution that we have rolled out with the Department of War as one of the key drivers of future growth, especially as cyber threats become more frequent and more sophisticated. To convert this opportunity into future growth, we've recently taken targeted steps to enhance our sales efforts and go-to-market strategy, and I'll discuss these initiatives in more detail shortly, but they are specifically designed to expand our customer base across the private sector as well as federal state and local government markets. Turning now to some fourth quarter developments. During the quarter, we announced the launch of our Shield Cloud offering on the AWS marketplace, expanding the opportunity for customers to access our Shield technology. Additionally, we've launched our Shield Cloud offering on Microsoft's Azure platform and it's now live. With availability across both leading cloud marketplaces, we've meaningfully expanded our sales reach, which will help enhance our customer pipeline and drive future revenue growth. On top of this customer access expansion effort, we've also continued to strategically invest in R&D to help provide enhanced offerings to our customers. This is evident by the recent launch of Shield Stratus, a cloud-native packet filtering solution that inspects every connection and blocks known threats immediately without the complexity or re-architecture required by traditional firewalls. Shield Stratus integrates seamlessly with AWS gateway load balancer and is a great addition to our Shield ecosystem. Now on to some of the more recent developments during the first few months of 2026. As you may recall, we began a partnership with PortNexus in 2025, who chose to embed our Shield endpoint solution into their MyFlare solution that helps provide enhanced security for education and law enforcement customer endpoints. In February, we expanded our partnership with PortNexus by launching the P.O.S.S.E program that utilizes our Shield On-Premise technology to help protect law enforcement from cyber threats. The program achieved high levels of adoption during the initial pilot. And in the pilot program, Intrusion Shield technology identified and stopped dozens of active threats. The program is now scaling across Texas, Missouri, Oklahoma and Iowa through our partnership with PortNexus. And this partnership provides distribution access to hundreds of sheriffs' departments, schools and government facilities, so an exciting development, and we look forward to working closely with PortNexus to help expand this program and increase the adoption of our technology. We also recently took steps to expand our business development efforts with the hiring of Valencia Reaves as our Public Sector Vice President of Sales; and Patrick Duggan is our Director of Channel Sales & Partnerships. These 2 additions to our team will help strengthen our U.S. business development efforts across the government sector and our channel partners. Now briefly on to our financials for the quarter and the year. Total revenues for 2025 were $7.1 million, up 23% year-over-year. This top line growth was largely driven by the contract expansion with the U.S. Department of War that I touched on earlier. Fourth quarter revenue was $1.5 million, a decrease of [ 25% ] sequentially, which was the result of the delay in the incremental funding of the Department of War contract that I previously referred to. Our operating expenses also saw a slight increase during both the quarter and the year. This increase in our expense reflects deliberate strategic investments to strengthen our business and position us to achieve our goal of creating sustainable growth and long-term profitability as well as the costs associated with the critical infrastructure deployment and operation I mentioned before. We've made meaningful progress against our goals, and we believe we're on track to breakeven operations. And finally, before I turn the call over to Kim, I'd like to wrap up by addressing some of the recent AI trends that we're seeing in the cybersecurity space. As I'm sure many of you are aware, the recent emergence of cloud code security has caused a bit of a shakeup in the cybersecurity space as some fear of this tool will change the industry by eliminating defects in software. However, I do not view this development as a threat to cybersecurity companies such as Intrusion, but more as a promising tailwind for the industry. While improved code quality is more than welcome, it's only one aspect of the landscape of cybersecurity vulnerabilities. And in fact, the rapid adoption of AI has materially increased cybersecurity risk as it has significantly reduced the cost, the technical expertise and the time required to develop and execute highly sophisticated and scalable attacks. As a result, this is only going to increase the need for cybersecurity solutions, such as the ones that we provide to our customers that help catch these malicious actors before they can cause harm. With that, I'd like to turn the call over to Kim for a more detailed review of our fourth quarter and full year financial results. Kim?"
+  },
+  {
+    "speaker": "Kimberly Pinson",
+    "role": "",
+    "text": "Thanks, Tony, and good afternoon, everyone. Fourth quarter results totaled $1.5 million in revenue, a decrease of 25%, compared to the prior quarter, and 12% when compared to the prior year period, as noted earlier on the call. This was due to the delayed incremental funding of a major U.S. government contract. The timing of this award was affected by funding and procurement constraints associated with the U.S. government shutdown and continuing resolution, which affected agency's ability to approve and initiate new contract actions during the period. We believe the delay in this contract award is primarily timing related and anticipate that a substantial portion of the delayed revenue associated with this contract will be recognized in future periods. Consulting revenues totaled $1.1 million in the fourth quarter, compared to $1.5 million in the prior quarter and $1.3 million in the prior year quarter. Shield revenues totaled $0.4 million in the fourth quarter, compared to $0.5 million in the prior quarter and $0.3 million in the fourth quarter of 2024. We anticipate that the sale of our OT Defender solution and other departments of the U.S. government as well as commercially will contribute to future growth. Additionally, during 2025, we partnered with PortNexus to integrate our Shield technology into its MyFlare Alert School Safety solution. Although sales to PortNexus did not materially impact 2025 revenues, the expanded pipeline for this offering is expected to support future Shield revenue growth. Fourth quarter gross profit margin was 74%, which was slightly down from the prior year period. For the full year, gross profit margin was 76%, down approximately 93 basis points versus 2024. Operating expenses in the fourth quarter of 2025 totaled $4 million, an increase of $0.3 million sequentially, and $0.8 million year-over-year. The fourth quarter increase both sequentially and compared to prior year was primarily driven by higher sales and marketing expenses reflecting increased participation in trade shows and expanded brand awareness and product marketing programs. For the full year, operating expenses totaled $14.5 million, an increase of $1.7 million, compared to 2024. In addition to the increased sales and marketing expense, the full year increase primarily related to onetime savings realized in 2024 from the negotiation or cancellation of existing contracts, which contributed $0.5 million in savings in 2024. Increased share-based compensation of $0.8 million from equity grants made in the first quarter of 2025 and cost of living and merit increases of $0.3 million. Net loss for the fourth quarter of 2025 was $2.8 million or $0.14 per share, compared to a net loss of $2 million for the fourth quarter of 2024. The increased fourth quarter net loss is the result of the reduction in revenues resulting from the delay in the incremental funding of government contract and increased operating expense. Net loss for the full year was $9.1 million or $0.46 per share, a $1.3 million increase from the prior year. Turning to the balance sheet. From a liquidity perspective, on December 31, 2025, we had cash and cash equivalents of $3.6 million. Looking ahead, we plan to seek a small debt financing in the near term to help further support our growth initiatives. We have already begun to have some initial discussions, and we'll provide an additional update on the debt financing during our first quarter earnings call. With that, I'd like to turn the call back over to Tony for a few closing comments. Tony?"
+  },
+  {
+    "speaker": "Anthony Scott",
+    "role": "",
+    "text": "Thank you, Kim. 2025 was a year of meaningful progress for Intrusion from a product development standpoint and was marked by several key improvements, including new products. And while this progress was encouraging, we're not satisfied, and we realize that we have some significant work ahead of us. As we look to the remainder of '26, we will be doubling down on our sales efforts to expand our customer base to further improve our top line growth. We're confident that we have both the right people and the products in place that will help us achieve our goal of creating sustainable growth and long-term profitability. And before I wrap up, I want to extend my gratitude to our employees. The progress we've made this past year is a direct reflection of their dedication and hard work. And to our shareholders, we deeply appreciate your patience and steadfast support throughout this journey. And with that, I'll now turn the call over to the operator for Q&A."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "[Operator Instructions] Your first question is coming from Scott Buck from H.C. Wainwright."
+  },
+  {
+    "speaker": "Scott Buck",
+    "role": "",
+    "text": "Tony, I'm curious, can you provide a little more granularity on the unit economics of the P.O.S.S.E program? Like what is the average contract value for a typical sheriffs' department deployment? And what do the sales cycles look like with your partnership with PortNexus?"
+  },
+  {
+    "speaker": "Anthony Scott",
+    "role": "",
+    "text": "Sure. Well, the device that they select will depend a lot on the network bandwidth that they need at the sheriffs' department. So those could range from a few thousand dollars up to tens of thousands of dollars depending on the size and bandwidth requirements of the particular sheriff. In the case of the pilots, we use some of our lower-end appliances. So it's a few thousand dollars in terms of unit pricing on those. But what I'm encouraged by is when we -- as we've experienced everywhere else, once we show the network traffic that's getting through the traditional firewalls and other technologies they have in place and also show the outbound traffic that should be blocked -- that's not currently being blocked, it makes the sale pretty quickly. So we're seeing a high adoption rate and we're going to expand into these other states, as I mentioned on the call. And the way it works is we loan them a unit, it goes in for a week to 10 days. We do a report and show them the traffic that we see and would have blocked if we've been in place, and they love it. So we're doubling down on that. We're increasing the number of POC units, and we'll see where it takes us. So that's kind of the way it works."
+  },
+  {
+    "speaker": "Scott Buck",
+    "role": "",
+    "text": "That's very helpful. And then I wanted to clarify something in your prepared remarks. Did you say that had you not had the delay from the government contract during the quarter that we would have seen sequential revenue growth from the third quarter?"
+  },
+  {
+    "speaker": "Anthony Scott",
+    "role": "",
+    "text": "Yes. Yes. That is correct -- that is correct. Yes, we were expecting to report growth, both for the quarter and -- quarter-on-quarter and year-on-year above and beyond what we reported on the year-on-year."
+  },
+  {
+    "speaker": "Scott Buck",
+    "role": "",
+    "text": "So it's safe to assume that contract delay cost you at least $0.5 million in the quarter?"
+  },
+  {
+    "speaker": "Scott Buck",
+    "role": "",
+    "text": "Yes. Perfect. And then, Kim, I wanted to ask about sales and marketing expense. I think it's the highest quarterly level of spend, maybe ever. Is this the new run rate? Or given some of the comments during the call, could we expect further investment in sales in 2026?"
+  },
+  {
+    "speaker": "Kimberly Pinson",
+    "role": "",
+    "text": "We will continue to invest in sales and marketing. What we saw in the first quarter approximates the run rate, but we will see some increases from here."
+  },
+  {
+    "speaker": "Anthony Scott",
+    "role": "",
+    "text": "Scott, I'd also add, we're looking for cost efficiencies elsewhere. So it's important for us now to improve that sales and marketing muscle, and we'll look for other efficiencies elsewhere as we buttress up that capability."
+  },
+  {
+    "speaker": "Scott Buck",
+    "role": "",
+    "text": "Okay. So we may not see as material an increase in total operating expense because some of those dollars will..."
+  },
+  {
+    "speaker": "Scott Buck",
+    "role": "",
+    "text": "Could come from other buckets?"
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Your next question is coming from Ed Woo from Ascendiant Capital."
+  },
+  {
+    "speaker": "Edward Woo",
+    "role": "",
+    "text": "Did I hear you right that you said for the delayed contract that some of your expenses have already flown through the P&L already..."
+  },
+  {
+    "speaker": "Anthony Scott",
+    "role": "",
+    "text": "That's correct. We've taken all the expenses associated with that. We just are not able to recognize the revenue at this point."
+  },
+  {
+    "speaker": "Anthony Scott",
+    "role": "",
+    "text": "I'm sorry? What that means is when the revenue does come, it will show up in a subsequent quarter, but the expense will already have been recognized."
+  },
+  {
+    "speaker": "Edward Woo",
+    "role": "",
+    "text": "Okay. So that would be a 100% margin when it comes through?"
+  },
+  {
+    "speaker": "Edward Woo",
+    "role": "",
+    "text": "Okay. And then are you seeing any -- what about the sales cycle pipeline for commercial customers? Have you seen any delays, any lengthening of sales cycle? Any concerns that you're hearing from Chief Information Officers out there?"
+  },
+  {
+    "speaker": "Anthony Scott",
+    "role": "",
+    "text": "Beyond the government sector, no real change. I think the one concern that we hear all the time is that the dwell time for threats is getting shorter and shorter and shorter, which means you have to react faster than ever, once some suspicious activity is noted. And I think that bodes well for Intrusion's technology because we don't rely on the presence of malware or other known signatures, we're heavily focused on reputation, which means that we can stop things in real time versus waiting for something bad to happen and then have to react to it and then remediate and so on. So we're currently having some discussions with MSSPs and so on who are attracted to that kind of capability because it helps get out in front of these attacks versus waiting for an attack to actually happen."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Your next question is coming from Howard Brous from Wellington Shield."
+  },
+  {
+    "speaker": "Howard Brous",
+    "role": "",
+    "text": "A couple of questions. Tony, critical infrastructure customers that you have, can you give us a general sense of what kind of customer it is? And is he happy with the work? Is this basically expandable for that particular customer?"
+  },
+  {
+    "speaker": "Anthony Scott",
+    "role": "",
+    "text": "Yes. So this solution is protecting critical water infrastructure in the Asia-Pac region, and the customer is very happy with the solution. It's working as designed, and we continue to support it. And I think there's tremendous opportunities for this to expand beyond the region where it is now. We're doing one island right now in Asia-Pac. But as you know, there's a lot of islands that the Department of War has interest in, in that particular region. And so I think the revenue opportunity that comes from this is multiplied by the number of islands that still need this kind of protection. And that's not to mention the domestic facilities as well, which fall under Homeland Security jurisdiction generally. And with our new sales capability that I mentioned on the call, we're targeting those places as well. And we've got great customer reference from this initial deployment. So we're pretty excited about the revenue opportunity in '26 and going forward. There's a lot of this critical infrastructure around, whether it's water or telecom or electrical grid kinds of things, and our solution is tailorable to each of those environments."
+  },
+  {
+    "speaker": "Howard Brous",
+    "role": "",
+    "text": "So let me digress for a moment and talk about schools children. You install this in a school, and my understanding it's in every school room, every classroom and can be activated by a teacher if there is a potential event happening, where somebody is coming into the school with a weapon. Is that fair comment?"
+  },
+  {
+    "speaker": "Anthony Scott",
+    "role": "",
+    "text": "Correct. Yes, that's the PortNexus solution that we're partners with. Yes."
+  },
+  {
+    "speaker": "Howard Brous",
+    "role": "",
+    "text": "Right. So you've got thousands of school districts throughout the country, why isn't everyone adopting this? It protects our children. There's nothing more important than that. How are you going about marketing this?"
+  },
+  {
+    "speaker": "Anthony Scott",
+    "role": "",
+    "text": "Well, with PortNexus, we're attending events, where school administrators look for technology. We're also marketing, as we mentioned, to the sheriffs' department because -- or whoever the local law enforcement agency is that's associated with a particular school district because it takes the combination of them to really adopt the solution. The good news is it's very inexpensive. I've mentioned a couple of people. It's the kind of thing that, in many cases, the local PTA could fund even if the school couldn't afford to do it. But you're right. I think once you see the demo of this capability and the situational awareness that it brings to the law enforcement of people within seconds of an event occurring, it's a why wouldn't we want to have this kind of thing. And so we're really looking forward to 2026 to expand this greatly across lots of markets in the U.S."
+  },
+  {
+    "speaker": "Howard Brous",
+    "role": "",
+    "text": "And how your reception so far has been?"
+  },
+  {
+    "speaker": "Anthony Scott",
+    "role": "",
+    "text": "It's been outstanding, yes. Again, once you see it, you go, dah, why would I ever want to be without this kind of thing. And parenthetically, I'll say it could apply to other public venues as well. It doesn't necessarily only get marketed to schools. But any place where people gather and there's a potential for disruptions, whether it's active shooters or fire or any other kind of an event that might be disruptive, it's really important for law enforcement to get situational awareness as quickly as possible. And this PortNexus solution allows for multiple perspectives to get that situational awareness as well as alerting the authorities very quickly when an event happens. It shaves minutes off of that critical first few minutes when you have a potential to avert disaster. And I don't know anybody who's ever seen it that doesn't think that's a good idea so..."
+  },
+  {
+    "speaker": "Howard Brous",
+    "role": "",
+    "text": "Anything to protect our children is a very good idea. Can you talk about..."
+  },
+  {
+    "speaker": "Howard Brous",
+    "role": "",
+    "text": "No doubt about that. Talk about the kind of cost? Is it per student, per classroom, per school?"
+  },
+  {
+    "speaker": "Anthony Scott",
+    "role": "",
+    "text": "It's per classroom. The PortNexus solution would go into the classroom in the case of a school and attached to or become part of the smart whiteboard that's in the classroom and then school resource officers and teachers and anybody else that should be registered -- gets registered to that location. And then in the event of an incident, the panic button gets pushed, a text goes to all the preregistered cell phones. It turns the cell phone into lights up the camera and the microphone and the GPS signal and all of that gets fed to the law enforcement authorities along with video from the fixed cameras that usually are already installed in the school. So when an event happens, the law enforcement authorities have great situational awareness and location information from multiple perspectives, it's invaluable. And we license to PortNexus the network protection aspect of it. So the revenue we get comes from the number of classrooms and then the number of schools within the school district."
+  },
+  {
+    "speaker": "Howard Brous",
+    "role": "",
+    "text": "And the margins on this are high margins..."
+  },
+  {
+    "speaker": "Anthony Scott",
+    "role": "",
+    "text": "So for us, it's very high, yes, because we don't actually have to go do any install or anything. We just license our software, PortNexus' team is responsible for the installs and first-level support and so on. So it's almost pure profit for us."
+  },
+  {
+    "speaker": "Howard Brous",
+    "role": "",
+    "text": "This is a big deal. Anything to protect our children, that's a good thing."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Your next question comes from James Green."
+  },
+  {
+    "speaker": "Unknown Analyst",
+    "role": "",
+    "text": "My question concerns the potential emerging technologies and the ability for your technology to interface with those things. And I'm specifically thinking about as we move forward into a day in an era, where we have humanoid robots and we have autonomous cars, we have an imminent threat, where if they're compromised they can be an immediate danger if someone compromises it."
+  },
+  {
+    "speaker": "Anthony Scott",
+    "role": "",
+    "text": "Hello. I think we may have lost you, or I couldn't hear the rest of your question. Hello, can anyone hear me?"
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Apologies. James Green's line has disconnected."
+  },
+  {
+    "speaker": "Anthony Scott",
+    "role": "",
+    "text": "Okay. Well, I think the question was -- I'll try to answer as best I can. Yes, there's more and more software, more and more autonomous things, whether it's robots or everything in your house, the emergence of AI and everything, I think widens the aperture for cybersecurity risk significantly. And our fundamental belief is that if you're not monitoring the network that all of these things need to operate on, if you're not monitoring it in real time packet-by-packet in multiple places in your network, you're likely to miss important things that would allow you to avert a disaster. And that's what Intrusion Shield does. We look at every packet in near real time and we make a decision about whether that packet is likely good or likely bad or unknown in some cases, and we make a decision. And I have used the analogy, it's like having continuous blood monitoring in your body. Most people get their blood drawn once a year when they go to physical exam, but some bad condition might have existed for almost a year, and you wouldn't know it until you get your blood drawn and get it tested. In our case, we're doing the equivalent of looking at every single drop of blood in the body all the time, every time it moves through the body, and that allows us to very quickly detect when there's something untoward going on. And so I think that type of protection is what's going to be more and more and more important as things move forward, specifically with AI and more and more software in our lives. The threat landscape just got a whole lot bigger and needs to be monitored and managed."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "And James Green, your line is connected and live."
+  },
+  {
+    "speaker": "Unknown Analyst",
+    "role": "",
+    "text": "Sorry, I accidentally got the line disconnected, so I missed the beginning of what you said. But since I missed the beginning, my question was, based off those emerging technologies, et cetera, is the current form factor or technology that you all utilize? Is it easily interfaced with those potential technologies? Or is there some minor alteration necessary to be able to utilize them in that?"
+  },
+  {
+    "speaker": "Anthony Scott",
+    "role": "",
+    "text": "Yes. We -- yes, so the answer to that is we can attach to the network in any form that it occurs, whether it's wired or wireless or in the cloud or in a data center or in a home for that matter. And the important thing, as I was saying in my earlier answer is to be really safe, you need to be monitoring the network each and every packet all the time and monitoring from multiple places in your network to be assured that everything that is going on in the network is desirable and necessary even in some cases. So yes, we're very flexible in that regard. And we have put the R&D effort into making sure we can handle increasingly large bandwidth as that becomes a necessity. So I think we're well prepared for the future in that regard."
+  },
+  {
+    "speaker": "Unknown Analyst",
+    "role": "",
+    "text": "Okay. And 1 other question, which is since we have all these scenarios where people are going to have local agentic things running on their own potentially private networks walking back off a cloud, the speculation that companies might be trying to have all their things working within their own system, is there a way in which the technology deals with the agentic element even internally?"
+  },
+  {
+    "speaker": "Anthony Scott",
+    "role": "",
+    "text": "Yes. I think to the degree that all of these agentic tools will use the network that allows us to monitor what that activity is. And I think you're going to see in 2026, I've made this prediction a number of times, you're going to see some pretty big accidents caused by unrestrained AI, where people lose something that got out of control somehow, whether it's privacy violation or whether it's a violation of releasing intellectual property in an unwarranted way. Who knows what it could be. But I think it's easily predictable that's going to happen in '26. And for us, the only safeguard against that kind of thing is continuous real-time network monitoring, so that the nanosecond something bad happens that you can stop it and shut off its activities. So we think we're in a good spot as all of these things come to fruition."
+  },
+  {
+    "speaker": "Unknown Analyst",
+    "role": "",
+    "text": "So like within a local network, if there's agentic misbehavior, it can be controlled from being able to infect ones outside connected potentially?"
+  },
+  {
+    "speaker": "Anthony Scott",
+    "role": "",
+    "text": "Yes. Yes. One of the characteristics of malware already today, even without AI, is what's known as a call home, an infected device inside the network makes a call home to a command-and-control server externally and looks for instructions in some cases or just reports its presence in the network, where it finds itself resident and then often waits for instruction on what to do next, launch a phishing campaign or launch some sort of other kind of attack. And Intrusion technology is particularly good at stopping those call homes that would otherwise be very dangerous. Now I'll say what we don't do is we don't go fix the device that had the problem. We just point you to it and say, this device over here has apparently got a problem. It's generating call homes to undesirable place. But most managed service providers and managed service security providers and institutions already have the tools to do remediation. What they lack is the early detection of that activity, and that's where Intrusion comes in."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "[Operator Instructions] Your next question is coming from Jerry Yanowitz [indiscernible]"
+  },
+  {
+    "speaker": "Unknown Analyst",
+    "role": "",
+    "text": "Tony, last quarter, you opened your comments by saying you're pleased to report that during the third quarter, we continue our path towards achieving our goal of creating sustainable growth and long-term profitability. Today, you opened by saying you're on the path to breakeven operations. My question is, in what quarter do you expect to have those breakeven operations?"
+  },
+  {
+    "speaker": "Anthony Scott",
+    "role": "",
+    "text": "Well, can you tell me when we're going to have another government shutdown or CR..."
+  },
+  {
+    "speaker": "Unknown Analyst",
+    "role": "",
+    "text": "Assuming no government shutdown and no CR, what quarter would you expect to have breakeven operations?"
+  },
+  {
+    "speaker": "Anthony Scott",
+    "role": "",
+    "text": "I would -- well, it depends on new contracts that we signed. As I mentioned, we think this critical infrastructure solutions got pretty big legs. Our first contract for that was a $3 million roughly annual contract, and it wouldn't take too many more of those to get us to that goal. So it's all dependent on timing in '26 of when we would get those. But we think we're in a good position to land more of those in '26 than we did in '25 and whether it's 2 or 3 or whatever."
+  },
+  {
+    "speaker": "Unknown Analyst",
+    "role": "",
+    "text": "Would you be extremely disappointed if you weren't breakeven in the third quarter of this year?"
+  },
+  {
+    "speaker": "Anthony Scott",
+    "role": "",
+    "text": "Yes is the answer. I was disappointed that we weren't breakeven right now, to be honest with you. We thought we were on a path to get there more quickly than we have been, and that's life. And there's probably some mistakes that we made that we, in retrospect, would do differently. But I think -- I still think we're on the right path, and I'm pretty optimistic that '26 is our year."
+  },
+  {
+    "speaker": "Unknown Analyst",
+    "role": "",
+    "text": "All right. So by the third quarter, we should expect to see that as shareholders?"
+  },
+  {
+    "speaker": "Anthony Scott",
+    "role": "",
+    "text": "I would hope so, yes. And I'm a shareholder, so..."
+  },
+  {
+    "speaker": "Unknown Analyst",
+    "role": "",
+    "text": "You have skin in the game, so I appreciate it."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Thank you. At this time, there are no other questions in the queue. I'll turn the call back over to our host, Mr. Tony Scott, for any closing remarks."
+  },
+  {
+    "speaker": "Anthony Scott",
+    "role": "",
+    "text": "Well, as I said before, I just want to thank everybody for your interest in Intrusion. As I said at the beginning, it was a year that was unexpected in many respects. And I look forward to the progress that we can make in '26 with a little more stability and a little more predictability coming our way. We've made, I think, all the right investments in our tech. We've begun the strategic investments in our sales and marketing capability that, frankly, we've lacked over the last couple of years. If I had to look back, I probably was a little too slow in building up that muscle. But I'm very pleased with the team that we have now, and they're showing remarkable ability to get us into places that -- and talk to people that we hadn't been talking to over the last couple of years. So that gives me hope. These are experienced sales and marketing people, and it's just a pleasure to work with them and see the progress every single day. So I'm appreciative of everyone's patience. I know it's been a long grueling road. But I remain optimistic and excited about what we can do together in '26. So appreciate everybody's time today, and I look forward to speaking with you at the next earnings call or maybe some announcements even before then. Thanks."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Thank you. Everyone, this concludes today's event. You may disconnect at this time, and have a wonderful day. Thank you for your participation."
+  }
+]

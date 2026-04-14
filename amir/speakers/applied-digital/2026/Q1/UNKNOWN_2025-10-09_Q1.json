@@ -1,0 +1,267 @@
+[
+  {
+    "speaker": "Unknown",
+    "role": "",
+    "text": "Full Conference Call Transcript"
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Good afternoon, and welcome to Applied Digital Fiscal First Quarter 2026 Conference Call. My name is Constantine, and I will be your operator for today. Before this call, Applied Digital issued its financial results for the fiscal first quarter ended August 31, 2025, in a press release, a copy of which has been furnished in a report on a Form 8-K filed with the Securities and Exchange Commission or SEC and will be available in the Investor Relations section of the company's website. Joining us on today's call are Applied Digital Chairman and CEO, Wes Cummins, and CFO, Saidal Mohmand. Following their remarks, we will be opening the call for questions. Before we begin, Matt Glover from Gateway Group will make a brief introductory statement. Mr. Glover, you may begin."
+  },
+  {
+    "speaker": "Matt Glover",
+    "role": "",
+    "text": "Thank you, operator. Hello, everyone, and welcome to Applied Digital's Fiscal First Quarter 2026 Conference Call. Before management begins formal remarks, we'd like to remind everyone that some statements we're making today may be considered forward-looking statements under securities laws and involve a number of risks and uncertainties. As a result, we caution you that there are a number of factors, many of which are beyond our control, which could cause actual results and events to differ materially from those described in the forward-looking statement. For more detailed risks, uncertainties, and assumptions relating to our forward-looking statements, please see the disclosures in our earnings release and public filings made with the SEC. We disclaim any obligation or any undertaking to update forward-looking statements to reflect circumstances or events that occur after the date the forward-looking statements are made except as required by law. We also discuss non-GAAP financial metrics and encourage you to read our disclosures in the reconciliation tables to the applicable GAAP measures in our earnings release carefully as you consider these metrics. We refer you to our filings with the SEC for detailed disclosures and descriptions of our business as well as uncertainties and other variable circumstances, including, but not limited to, risks and uncertainties identified through the caption Risk Factors in our annual report on Form 10-K and our quarterly reports on Form 10-Q. You may access Applied Digital's SEC filings for free by visiting the website at www.sec.gov. I'd like to remind everyone that this call is being recorded and will be made available via a link available in the Investor Relations section of Applied Digital's website. Now I'd like to turn the call over to Applied Digital's Chairman and CEO, Wes Cummins. Wes?"
+  },
+  {
+    "speaker": "Wes Cummins",
+    "role": "",
+    "text": "Thanks, Matt, and good afternoon, everyone. Thank you for joining our first quarter fiscal 2026 conference call. I'd like to begin by expressing my sincere appreciation to our employees for their continued dedication to our mission. Delivering purpose-built infrastructure for the rapidly expanding artificial intelligence and high-performance computing sectors. Their commitment remains foundational to our success. Before I turn the call over to our CFO, Saidal Mohmand, I want to highlight several key developments across the business beginning with our HPC data center hosting segment. This quarter, we expanded our long-term lease agreements with CoreWeave, a publicly traded AI hyperscaler. Previously, we had 250 megawatts under contract at our Ellendale, North Dakota campus, Polaris Forge One. That agreement represents approximately $7 billion in contracted revenue over fifteen years. CoreWeave has since exercised its option, and our leases now cover the full 400 megawatts of capacity currently under construction at Polaris Forge One, increasing the total contract value to approximately $11 billion. In addition to the underlying leases, CoreWeave has engaged us to perform the tenant fit-out for the first 100 megawatts of the 400-megawatt campus. This further deepens our operational integration and demonstrates the added value we bring as a strategic partner to our tenant. We will continue to invest in new technologies and continue to grow our technical expertise as we believe that we can replicate this value-added business model to other tenants. As a reminder, we believe Polaris Forge One has the potential to scale beyond one gigawatt starting in 2028 to 2030 when new transmission capabilities are expected to come online. We also broke ground on a new campus, Polaris Forge Two near Harwood, North Dakota, where we are initially constructing two buildings totaling 300 megawatts of critical IT load. Over time, we believe this campus can scale to one gigawatt as additional generation capacity is added to the grid. We are already in early discussions with multiple partner parties to support that expansion. Initial funding for Polaris Forge Two has been secured by our financial partner, Macquarie Equipment Capital, and construction is underway. We expect the first building to start coming online in late 2026 and reach full capacity in 2027. With that, the campus is designed for future expansion. The initial development cost is projected to be approximately $3 billion with potential to increase as additional power becomes available. We remain in advanced discussions with an investment-grade hyperscaler regarding a lease for this campus. We have also entered negotiations with two additional locations. Across the industry, the scale of investment in AI infrastructure is unprecedented. Publicly traded hyperscalers are projected to invest over $350 billion in AI data centers this year alone. To put this in historical perspective, the US Interstate Highway System launched under President Eisenhower in 1956 cost approximately $500 billion in inflation-adjusted dollars but took thirty years to complete. The Apollo program cost roughly $150 billion to send to the moon and spanned more than a decade. In contrast, public hyperscalers are projected to invest over $350 billion in AI infrastructure in just a single year, an extraordinary concentration of capital that rivals the scale of America's most ambitious infrastructure efforts, but compressed to a fraction of the time. This surge in demand has made speed, reliability, and readiness absolutely critical. The industry has come to recognize that the limiting factor in AI deployment is no longer GPU availability but the lack of data centers capable of supporting those GPUs, commonly referred to as AI factories. Simply put, the supply of suitable data centers which can handle the technical requirements of the most advanced AI silicon is falling short of demand. We feel Applied Digital is uniquely positioned to meet this challenge. We were among the first to break ground in 2023 on next-generation data center designs capable of supporting the advanced power and cooling requirements of modern GPUs. We secured construction crews early, assembled a team with deep expertise in power, land, and supply chain logistics, and built strong relationships with local communities through proactive engagement and education. We also recruited top-tier data center talent well before the industry recognized the limitations of legacy designs. During the construction of our first 100-megawatt data center, leading hyperscalers sent teams to evaluate our campus, working alongside us and ultimately validating our approach through what we believe was the most rigorous technical due diligence in the industry. At the same time, we cultivated relationships with major financial institutions like Macquarie Management who had a front-row seat to these milestones. As a result, we built trusted partnerships with the largest buyers and users of data center infrastructure in the world. We've also demonstrated our ability to deliver scalable power-dense facilities just as demand for our services has accelerated dramatically. While our pipeline spans multiple states and regions, I want to emphasize the strategic advantages of our northern campuses in the Dakotas. We believe these campuses have the ability to offer abundant, low-cost energy, a supportive regulatory environment, and more than two hundred days of free natural cooling annually. Our proprietary design is engineered for a projected PUE of 1.18 with near-zero water consumption. These innovations are not only intended to deliver efficiency for hyperscale customers but also minimize our environmental footprint and help us ensure we grow responsibly in every community we serve. We believe that a hyperscaler lease for Polaris Forge Two would be a significant milestone for Applied Digital and the state of North Dakota. We think the two anchor customers under multibillion-dollar long-term contracts would be a meaningful step toward reaching our goals, strengthening our position in the market, and also establishing the region as a major hub for hyperscale infrastructure. These long-term contracts should provide our company with exceptional visibility and a clear path to long-term growth. Lastly, while the availability of power has been the primary focus for the overall market, we feel it is becoming a secondary focus for us. With four gigawatts in our active development pipeline and more under review, our primary focus has become scaling development and construction. As I stated on our last call, we've been able to shorten our construction timeline to twelve to fourteen months from twenty-four months, which was an important step. We have now scaled to develop multiple campuses in parallel. This has resulted in us now having 700 megawatts currently under construction. We are seeing that our proven ability to design and build at scale has resulted in an influx of power opportunities from third parties that have power and land but don't have the ability to design and build to meet the stringent demands of hyperscalers. We expect to proceed with at least one of these third-party projects this year. Turning to our blockchain hosting business. We continue to operate 286 megawatts of fully contracted capacity across our two North Dakota locations. Bitcoin prices remain strong, which is a positive indicator for our customers, and we remain optimistic about the business and its future. Next, I'd like to address our cloud services business, which provides high-performance computing infrastructure for AI applications. As announced on our prior quarterly call, our Board of Directors initiated a strategic review of this segment and their financial results are classified as held for sale. That process is ongoing. We will hold off on providing further updates until we have a definitive disposition plan to share with our shareholders. With that, I'll turn the call over to our CFO, Saidal Mohmand, for a detailed review of our financials. Saidal?"
+  },
+  {
+    "speaker": "Saidal Mohmand",
+    "role": "",
+    "text": "Thanks, Wes, and good afternoon, everybody. Let me begin with the recent announcements regarding our financing. We secured an initial $112.5 million draw from a $5 billion preferred equity facility with Macquarie Asset Management to advance construction of Polaris Forge One. This structure is designed to fully finance the build-out and materially reduce future equity requirements across our platform. Importantly, securing capital at the asset level provides financing alignment and an asset-heavy business like ours ensures the completion of the Polaris Forge One campus while also establishing a clear framework to scale additional campuses. We also remain on track in our project financing process as previously mentioned as well. Beyond Polaris Forge One, as we previously announced, we secured funding from Macquarie Equipment Capital, another branch of Macquarie, to launch construction of Polaris Forge Two. We intend to tap our preferred equity facility with Macquarie Asset Management to continue equity funding of this project. We are now advancing project financing for this campus as well to support the full build-out. We remain relentlessly focused on a few core objectives. First, securing capital at the lowest possible cost. Building repeatable financing structures, and positioning the company to scale data center development across the United States. These are not easy undertakings. Yet our team has executed with remarkable discipline. As reflected on our balance sheet, we have now built and funded more than $1.6 billion in property and equipment. The fact that we began as a small Bitcoin hosting center business, and are now executing transactions with the world's leading hyperscalers, banks, and infrastructure partners underscores our essentiality to the intelligence era. That said, we want investors to understand that these investments are just the beginning to generate returns and have yet to be reflected in our income statement. The first 100-megawatt building is nearing completion. And as Wes mentioned, CoreWeave engaged us to perform the tenant fit-out for this facility. This marks the initial phase of preparing the building to generate lease revenue. This quarter, the CoreWeave fit-out revenue contributed around $26.3 million in revenue. And while we expect that figure to ramp significantly over the next quarter. While this is a one-time low-margin business, approximately mid-single digits, it is strategically important. We feel it demonstrates that companies like CoreWeave can rely on us for end-to-end services required to deploy state-of-the-art data centers. As we complete the fit-out over the calendar 2025 year, we expect a significant increase in revenue from that work. This will then be followed by the starting of the recognition of the lease income for the first 100-megawatt building as it comes fully online towards the end of this calendar year. Let's turn to the quarter. Please note that unless otherwise specified, the figures we are about to discuss reflect continuing operations only and exclude the cloud services. Revenues for 2026 were $64.2 million, up 84% from $34.8 million in 2025. The increase was primarily due to the $26.3 million of revenue generated from tenant fit-out services associated with our HPC hosting business. The remaining $5 million increase in revenue is related to the data center business and is due to performance improvements compared to the three months ended August 31, 2024. Cost of revenues were $55.6 million compared to $22.7 million. Approximately $25 million of the increase in cost of revenue was associated with tenant fit-out services for our HPC hosting business. While the remaining increase was associated with our data center hosting business and other expenses directly attributable to generating revenue. SG&A was $29.2 million compared to $11 million. This increase was due to increases of $16.6 million in stock-based compensation due to accelerated vesting of certain employee stock awards, and $3.9 million in personnel expenses for employee costs and other costs attributable to supporting the growth of these businesses. These costs were partially offset by a $2.3 million decrease in professional service expenses primarily related to a decrease in legal services. Interest expense is $3.9 million compared to $3 million and our net loss was $27.8 million or $0.11 per share. Adjusted net loss was $7.6 million or $0.03 per share while adjusted EBITDA was $5 million compared to $6.3 million the prior. Moving to our balance sheet, we ended the first fiscal quarter with $114.1 million in cash, cash equivalents, and restricted cash, along with $687.3 million in debt. Note, this does not include $362.5 million in proceeds from our financings that occurred subsequent to the quarter end. Now with that, I'll turn over the call to Wes for closing remarks."
+  },
+  {
+    "speaker": "Wes Cummins",
+    "role": "",
+    "text": "Thank you, Saidal. In closing, I want to emphasize that as we add a second location with Polaris Forge Two, we expect to see a significant increase in our net operating income anchored by long-term contracts with hyperscale tenants. Applied Digital is operating at the center of one of the most capital-intensive infrastructure build-outs in modern history with hyperscalers expected to invest approximately $350 billion in AI development this year alone. We're not just participating in it. We are enabling it. With the CoreWeave lease supporting roughly half a billion in annual net operating income and Polaris Forge Two poised to significantly increase that figure, we are laying the foundation to reach our stated goal of $1 billion of NOI run rate within five years. And this is just the beginning. The Department of Energy estimates power shortfall for data centers in the range of 40 to 50 gigawatts, while experts like Eric Schmidt from Google suggest it could exceed 90 gigawatts. We are developing a robust multi-gigawatt pipeline that is growing. While we've been selective in disclosing details, for competitive reasons, we recognize the importance of communicating our power position to the market. We believe our pipeline is as strong or stronger than most of our peers, and we plan to continue to expand this in future updates. We are actively evaluating new sites across additional states and regions, and we're moving quickly to meet the accelerating demand. On a personal note, as we review potential sites this mission carries deep meaning for me. I grew up in a small town in Idaho, and saw firsthand how major cities flourished through access to jobs and technology while rural communities were left behind. That's why I'm especially proud to partner with towns like Ellendale and Harwood. In most cases, when a company brings billions of dollars in construction to a region, it's the result of intense competition and aggressive tax incentives. In our case, we're choosing to invest in these communities because we see their potential and want to be part of their long-term success. And this is particularly meaningful to me and my family. These projects represent more than infrastructure. They offer transformative opportunity from job creation to economic momentum that impact is intended to be felt for generations. We also committed to minimizing our environmental impact through the latest design innovations, including strategies to reduce water usage and preserve local resources. In addition, we are investing in infrastructure upgrades to help minimize our impact on local utilities and manage the electrical demand required for each location. By proactively enhancing grid support and optimizing power distribution, we aim to ensure our development strengthens, not strains, the surrounding communities. Our vision is for Applied Digital to be known as a job creator, tax contributor, and trusted community partner because we believe growth only matters if it's done the right way. We've invested in housing, built community centers, participated in local events, and supported initiatives in hopes to make these towns stronger. At the end of the day, this is the legacy I want our company to be remembered for. This is only the beginning for Applied Digital. We're positioned at the convergence of unprecedented demand and proven execution capability. We have a design that has been approved by four hyperscalers. We have secured critical supply chain. We have scaled construction to 700 megawatts and we have put capital partnerships in place to fund our rapid expansion. With hyperscalers racing to deploy infrastructure and our platform already delivering, we believe the opportunity ahead is not only massive, it's accelerating. We remain confident in our strategy, our partnerships, and our ability to lead this next chapter of digital infrastructure. Welcome your questions at this time. Operator?"
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Thank you very much. Question and answer session. You will hear a prompt that your hand has been raised. If you'd like to withdraw from the polling process, please press star followed by number two. If you are using a speakerphone, please make sure to lift your handset before pressing any keys. Your first question comes from the line of Nick Giles from B. Riley Securities. Please go ahead."
+  },
+  {
+    "speaker": "Nick Giles",
+    "role": "",
+    "text": "Thank you very much, operator. Good afternoon, everyone. My first question was just on the project financing. I think last quarter, you outlined a pathway to having it announced in the near term. And obviously, we've seen the initial Macquarie draw here, but you know, what are the largest remaining factors? And can you just remind us if we should expect financing for the first 150 or if we should look for something that could be all 400? Thanks very much."
+  },
+  {
+    "speaker": "Wes Cummins",
+    "role": "",
+    "text": "I'll let Saidal take that."
+  },
+  {
+    "speaker": "Saidal Mohmand",
+    "role": "",
+    "text": "Thanks for the question. Yeah. So in terms of the project financing, I would expect just given both buildings coming on over the next, call it, year, we're going to have the project financing entail both buildings. This is unique. Generally, it's building by building. But given the size and timing to market, we thought it was appropriate to have both buildings on the same process. Note that this is one of the largest CoreWeave as a tenant-backed financings occurring in the market. So we are finalizing, working through all the credit agreement docs, all the paperwork, and what we're aiming for is having a facility in place that's in line, if not more optimal than what was currently announced from some of their competitors."
+  },
+  {
+    "speaker": "Nick Giles",
+    "role": "",
+    "text": "Thanks, Saidal. That's helpful. My next question was just switching gears to Polaris Forge Two. Can you just remind us what's currently in place from just a power infrastructure perspective? Is the location coming online in '26 and fully online in '27?"
+  },
+  {
+    "speaker": "Wes Cummins",
+    "role": "",
+    "text": "Got it. Guys, I'll turn it over. Thanks a lot."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "The next question is from the line of Rob Brown from Lake Street Capital Markets. Please go ahead."
+  },
+  {
+    "speaker": "Rob Brown",
+    "role": "",
+    "text": "Hi, good afternoon. Wanted to follow-up a little bit. You talked about a couple of new hyperscalers in new locations that you're starting to look at. I know you can't give too much detail, but what's sort of the timeline there and potential that they could start to take action here and move forward?"
+  },
+  {
+    "speaker": "Wes Cummins",
+    "role": "",
+    "text": "It's a good question, Rob. Thank you. So we've started negotiations. I think what's important here, Rob, is we're getting into a place where I think we're gonna constantly be in negotiation with new customers or existing customers for expansion at new and existing locations. And those will start, those will run through their process, and some of these could be ninety days or a hundred and twenty days from start to finish. But I think the expectation, Rob, should be that this is gonna be a constant for us. So we move from Polaris Forge One where we're executing to Polaris Forge Two where things we'll have a contract in place in the very near term. And then we have more campuses that we're working through, as I mentioned, a four-gigawatt active pipeline that we're working on and then more outside of that. But it's just gonna be a constant, and we've seen a big acceleration in our business, and I think some of that's the market and some of that's the progress that we've made over the past three months, and we just need to make sure that we're in a good position to meet as much of that demand as we can meet."
+  },
+  {
+    "speaker": "Rob Brown",
+    "role": "",
+    "text": "Okay. Great. And then I think you talked about expanding the Polaris Forge One and Two to up to one gigawatt. What's the limiting factor there? What would you need to add that much power to those sites?"
+  },
+  {
+    "speaker": "Wes Cummins",
+    "role": "",
+    "text": "So as typical with most sites, even very large sites, you see announced. One of the things in the industry is there's no uniform way for you to comp me versus someone else for the power because there's not all the details of what the timeline of that power is. But generally, at locations like this, you have initial power, and then you scale over time. What we're trying to match with, so in Ellendale, we think now that'll go to about 1.4 gigawatts of total utility power. A little over a gigawatt in Harwood of total utility power. And it has to do with the infrastructure that transmits the power in some locations and then others it's about adding additional generation capability to the grid at large. There. So not necessarily directly at that location, but the grid overall coming online in the areas that we needed to come online to match the power ramp with our ability to build. At Polaris Forge Two, we're building 300 megawatts. And when we're wrapping that 300 megawatts up, the hope is that we've matched well where we can start our next, you know, it's 100 megawatts or they're 150-megawatt buildings. So at least one more of those buildings with power to be delivered as that building is finished and the same at Ellendale. Right? As we run through '27, and then we'll have new power coming there in '28. By, you know, early to mid-twenty-seven, we're building for that '28 power so that our building is ready when that is available to be delivered."
+  },
+  {
+    "speaker": "Rob Brown",
+    "role": "",
+    "text": "Okay. Got it. Thank you. On all the progress. I'll turn it over. Thanks, Rob."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "The next question comes from the line of Mike Randolph from Northland Securities. Please go ahead."
+  },
+  {
+    "speaker": "Mike Randolph",
+    "role": "",
+    "text": "Hey. Thanks, guys. And congratulations on the $5 billion MAM financing. Can you talk a little bit about what that does the MAM financing does for you on a go-forward basis?"
+  },
+  {
+    "speaker": "Wes Cummins",
+    "role": "",
+    "text": "Sure, Mike. So Macquarie's is the ability for us to scale much larger. We're looking more into the future and putting a mechanism in place that the dilution at the public company for a set amount at the subsidiary for Macquarie. And this allows us to go forward. You know, the Macquarie Capital $5 billion of capital really unlocks $20 to $25 billion of total capital for us when you include project finance, and that allows us to build a significant amount of capacity. And now our shareholders and yourself as an analyst, you know what the structure is for us, know what the dilution looks like. We have the dilution down at the subsidiary from Macquarie, and it really eliminates the need for us to just constantly be going to the market to raise capital to build these facilities."
+  },
+  {
+    "speaker": "Mike Randolph",
+    "role": "",
+    "text": "That's helpful. That's helpful. And then you guys have talked about the project financing and the progress you've made there for the Ellendale 400 megawatts. Do you have any rough expected terms on that project financing you can kind of talk about at a high level?"
+  },
+  {
+    "speaker": "Saidal Mohmand",
+    "role": "",
+    "text": "Mike. This is Saidal. Yes. So to provide a little more color, and not much has changed since the prior quarter. In terms of LTCs for CoreWeave-backed leases, we expect it to come around the 70% LTC range. We've seen anywhere from 70 to 80%. 80% tends to be a little bit of a higher cost given the structuring. In terms of pricing, we've seen anywhere from 400 to 450 basis points. I think one of those facilities slightly higher at 475. We hope and expect to come in between the 400 to 450 basis points that's out there in terms of the spread over SOFR. And then how it's bifurcated is very interesting too. So what we've seen in the market, there's a bifurcation with if take for instance, a 70% LTC loan. You'll have 50% of that facility structured as a mortgage. Generally a lower price, call it 300 to 335 basis points over SOFR. With the excess cash flow from the campus, basically sweeping down the principal. And then the other 20 points of LTC is generally structured as a second lien or mezz facility, you know, anywhere from, you know, call it 10%. So blends into that s plus 425. It's a very efficient structure, and it's a unique way to finance high-grade tenants that right now are currently that's what we're seeing, and it's a dynamic landscape, and we expect to have it completed within the quarter. That's no guarantees, but we're making great progress."
+  },
+  {
+    "speaker": "Mike Randolph",
+    "role": "",
+    "text": "Cool. Cool. Okay. Hey. Thank you. Definitionally speaking, talk to how you define active pipeline. Like, is that perspective exclusivity developmental? Like, where in the food chain does that four gigs fall?"
+  },
+  {
+    "speaker": "Wes Cummins",
+    "role": "",
+    "text": "Yeah. So, Darren, we look at so if I looked at what we have for four buckets, it's, you know, would be operating, under construction, active pipeline, and then pipeline. And so operating is zero right now, and this quarter will drop a 100 megawatts into operating. We have 700 megawatts in construction right now. Those are pretty easy to define. And then as you go active pipeline, these are things that we feel could move into that construction pipeline or into the construction box in the next six to twelve and some of those could be even sooner. So those are things we're actively working on with permitting, with power, with all of those pieces that we think in the next six to twelve months can move into the construction pipeline. And then you have a further out pipeline that are things that we're, you know, we're constantly looking at. But, you know, we're saying that I don't think that can necessarily move into the construction pipeline within that time frame."
+  },
+  {
+    "speaker": "Mike Randolph",
+    "role": "",
+    "text": "That's helpful. And then I guess with doing multiple sites at once, obviously, you have the capital piece ironed out. But in terms of, like, human capital and people, like, how do you balance that? Is there enough resources for you guys to do that? And is your, I mean, you guys typically are operating on a pretty aggressive time frame of twelve months. Like, what are any headwinds potentially that would, you know, deter that twelve-month time frame that you guys are hoping to achieve on these sites?"
+  },
+  {
+    "speaker": "Wes Cummins",
+    "role": "",
+    "text": "Yep. So there's a couple of things on the human capital side. So inside the company, we've been working on this, you know, pretty aggressively for a while. To get ourselves in a position to be able to scale. So, you know, the company had been focused on that's building that first building, getting a customer. Now that's three buildings. We have a customer for the three buildings. And then internally, we've been okay. We see what the demand looks like. We've been cultivating a very large power pipeline. And then we have thought about how do we scale this to multiple campuses at the same time. And we've put almost all of that in place internally that we need. One of the big items there in that is a big issue, and it'll start to become more and more of an issue, supply chain. So we've put the supply chain in place. I've talked about this before. We did this, you know, some time ago where we've landed with these key partners. We've narrowed down the number of SKUs that we use on-site. We have a couple of key partners that we use on supply because we need to be able to ramp supply chain along with just having power and land isn't enough. And so we've been able to do that. And then so we're doing it in The Dakotas right now. The key question, you know, for me is how can we do think we can at least do one more campus in The Dakotas in parallel. Can we do two more in The Dakotas in parallel? Because then you start getting into the localized labor force of work, and then, you know, you can obviously pull from other areas. You should expect us to do some campuses in other states where we can pull on a different local labor pool to really execute on this. But those are the key items. And then, you know, what we're seeing because we have this ability to do the design, to do construction, we have supply chain, we have all of these pieces, we've been getting flooded with power opportunities. So I would say in the last four weeks, we've seen over 50 different sites, and I think we'll see a lot more of these where people have, you know, there's been this big grab for power and for land, and people have run out and grabbed power, and it's valuable to have power, then they don't know what to do with it from there. And so where we're stepping in is looking at these sites. They're being shown to us, and we're, you know, we're having a really stringent selection process on picking the right sites that are great locations for us that diversify our locations geographically and then make sure that we can build for the right customers with the supply chain and the resources that we have."
+  },
+  {
+    "speaker": "Mike Randolph",
+    "role": "",
+    "text": "Great. Super insightful. Thanks, Wes."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Your next question comes from the line of George Sutton from Craig-Hallum. Please go ahead."
+  },
+  {
+    "speaker": "George Sutton",
+    "role": "",
+    "text": "Hey, guys. You have Logan on for George here this afternoon. First one for me, I noticed in the press release, you're calling out that it sounds like the late-stage discussions with the customer at Harwood, they would get a roofer on the full gigawatt there. I'm curious. Is that kind of becoming a requirement for hyperscalers across the board? Like, if they're gonna become a customer at a site, are they looking for, you know, basically, line of sight to a gigawatt or some big amount of power? And I guess, you know, when we think about those other two sites that you called out, we're also in discussions are those anything you can give us about what power is in place there? And are those also sites where you have sort of expansion capability down the road?"
+  },
+  {
+    "speaker": "Wes Cummins",
+    "role": "",
+    "text": "Yeah. That's a great question. So what we're seeing generally is the ask is how fast can I get 200 megawatts, and then the site needs to scale to a gigawatt? And so that's what we're providing in the majority of our discussions. So, you know, it's been kind of need 26 power now. We're, you know, really moving into 27 at this point. And so that's our focus is that, you know, how fast can we get at least 200 and then scaling to a gigawatt. And so the sites that you know, that we talk about generally can all do that type of scale to a gigawatt. Now from a requirement like, that's the general demand. There's enough demand now that you could do sites that don't have to scale to a gigawatt because that's a significant scale. But the other piece I would say is, you know, we're being asked for sizes significantly beyond that, where we've even, you know, had some discussions on sites that are 10x that size. So what we're seeing from a demand perspective in the market and the trend where it's going now is larger scale sites, both for training and for inference, but built in a single location so that you get the cost advantages of building a scale in a single location."
+  },
+  {
+    "speaker": "Logan",
+    "role": "",
+    "text": "Got it. And then just one other I mean, it sounds like you're pretty late stage at Harwood. Just from, like, a lease economic standpoint, should we look for something similar to what you guys got done at Ellendale? Or is there a different end customer there potentially lead to different lease economics?"
+  },
+  {
+    "speaker": "Wes Cummins",
+    "role": "",
+    "text": "Yeah. You should what you should expect so what we focus on is the kind of the spread. Right? And the spread is what is our cost to capital, versus the tenant that we sign at a location. And so if you have an investment-grade hyperscaler, then the cost of capital for us is lower from a project finance perspective. So you should expect that there's a lower economics versus the headline economics but you should be expecting a similar spread between those two, you know, from a cost of capital and then a revenue perspective so that we are getting, you know, really the same return from an economic perspective. But that's what you should expect."
+  },
+  {
+    "speaker": "Logan",
+    "role": "",
+    "text": "Makes sense. Congrats on the progress, and thanks for taking the questions."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Thanks. The next question comes from the line of Michael Donovan from Compass Point. Please go ahead."
+  },
+  {
+    "speaker": "Michael Donovan",
+    "role": "",
+    "text": "Hi, Wes and Saidal. Thank you for taking my question. One question on the supply chain side. So what are you seeing in the supply chain for long lead equipment, such as the transformers, generators, and have lead times or pricing shifted materially in the past six months?"
+  },
+  {
+    "speaker": "Wes Cummins",
+    "role": "",
+    "text": "So I think the lead times have become kind of stretched in the industry. Again, for us specifically, we secured these, you know, two years ago, and, you know, we bought out some a lot of manufacturing capacity to supply what we'll need for the future. Because we expected supply chain to be one of the critical components for this. But, you know, for ourselves specifically, we haven't seen a lot of pricing inflation or, you know, stretching of what we're ordering because of how we went about that. But I think you're generally seeing that throughout the industry."
+  },
+  {
+    "speaker": "Michael Donovan",
+    "role": "",
+    "text": "Okay. That's helpful. One just for clarification around Macquarie for the $5 billion and thinking of Polaris Forge One. How much additional funding would be needed for one for those three buildings? Or does that cover all of that?"
+  },
+  {
+    "speaker": "Wes Cummins",
+    "role": "",
+    "text": "So between Macquarie and the project finance, we don't expect to contribute ourselves any additional funding into Polaris Forge One. It'll be funded by project finance and then Macquarie financing."
+  },
+  {
+    "speaker": "Michael Donovan",
+    "role": "",
+    "text": "That's good. Appreciate it, Wes."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "The next question comes from the line of John Todaro from Needham. Please go ahead."
+  },
+  {
+    "speaker": "Austin Ortiz",
+    "role": "",
+    "text": "Hey. It's Austin Ortiz on the line for John Todaro. Just a quick question on South Dakota. Is there any, I guess, expected power to come online potentially in 2026 or 2027 in the pipeline? Or just any updates on South Dakota if possible? Thank you."
+  },
+  {
+    "speaker": "Wes Cummins",
+    "role": "",
+    "text": "So South Dakota, the power will be available in '26 there. However, the piece that we're working on in South Dakota is sales tax exemption that I believe 41 other states have for IT equipment for data centers. And so we're working, you know, through the process there in South Dakota, and I know there's other hyperscalers that are working through that same process. But that's really the gating item for South Dakota is not the power for us."
+  },
+  {
+    "speaker": "Austin Ortiz",
+    "role": "",
+    "text": "Got it. Thank you. Appreciate it."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "The last question is from the line of Nick Giles from B. Riley Securities. Please go ahead."
+  },
+  {
+    "speaker": "Nick Giles",
+    "role": "",
+    "text": "Thanks so much for taking my follow-up. Saidal, I just had one. I first wanted to clarify. I think you said project financing could be wrapped up within the quarter. Would that be calendar or fiscal? And if it were to take longer, how much more could you draw from MAM?"
+  },
+  {
+    "speaker": "Saidal Mohmand",
+    "role": "",
+    "text": "Yeah. The fiscal quarter."
+  },
+  {
+    "speaker": "Nick Giles",
+    "role": "",
+    "text": "Appreciate that. And then always had a follow-up. Always appreciate your industry commentary around demand. I mean, demand still sounds really strong. And, obviously, economics today are being, you know, determined by availability of power. But as we get out to 2027 and 2028, do you think it's gonna be driven by availability, or what other factors would you highlight?"
+  },
+  {
+    "speaker": "Wes Cummins",
+    "role": "",
+    "text": "I would highlight, you know, generally now, I think there's a couple of things. So everyone's been scrambling for when can power turn on and when can you build a building. But I think as we go through the next twelve months, there's gonna be, you know, potentially some of a bit of a shakeout for things just not meeting construction timelines. I think there's just, you know, a lot of new entrants in the market at large, and I think, you know, some lessons that we learned, you know, a few years ago about the process of building these, that a lot of the other new entrants still, you know, probably will have to learn. I think you'll see projects get delayed, and then there will be, you know, proven vendors, proven developers that get more and more of the business as we go forward kind of, you know, in '27 and '28."
+  },
+  {
+    "speaker": "Nick Giles",
+    "role": "",
+    "text": "Guys, thanks again. Appreciate it."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "There are no further questions at this time. I'd like to turn the call back over to Wes Cummins for closing comments. Sir, please go ahead."
+  },
+  {
+    "speaker": "Wes Cummins",
+    "role": "",
+    "text": "Thanks, everyone, for joining the call for our fiscal first quarter, and I look forward to speaking with you in January."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Ladies and gentlemen, this concludes today's conference call. Thank you very much for your participation. You may now disconnect."
+  }
+]

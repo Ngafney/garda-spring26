@@ -1,0 +1,252 @@
+[
+  {
+    "speaker": "Unknown",
+    "role": "",
+    "text": "Full Conference Call Transcript Cesar Gon, our Founder and CEO; Bruno Guicardi, Founder and President for North America and Europe; and Stanley Rodrigues, our CFO. We are excited to share the details of a landmark year for the company. Before we begin, I would like to remind you that our remarks today will include forward-looking statements. These statements, including our business outlook, are based on the management's current expectations and are subject to risks and uncertainties that could cause actual results to differ materially. We caution you not to place undue reliance on these forward-looking statements as they are valid only as of the date when made. Additionally, we will discuss certain non-GAAP financial measures. We believe these provide a more comprehensive view of our underlying operational performance. For a full reconciliation of these measures to the most directly comparable GAAP metrics, please refer to the tables in our earnings release. Today's session is being recorded, and all participants are currently in a listen-only mode. Following our presentation, we will host a Q&A session. To participate, please submit your question via email to [email protected] . The full presentation deck is available on our Investor Relations website and a replay of this call will be posted shortly after we conclude it. With that, I am pleased to hand the floor over to our Founder and CEO, Cesar Gon. Good day, everyone."
+  },
+  {
+    "speaker": "Cesar Gon",
+    "role": "",
+    "text": "It is a privilege to share our results for 2025, our fifth year as a public company. Three years ago, I suggested that while software has been eating the world, AI has fundamentally changed the menu. It is not just another wave. It is a different ocean. In our latest partnership with MIT's Sloan Management Review, we explore why 95% of organizations still see little measurable returns on their AI investment. The companies that successfully scale AI are not necessarily those with the largest budgets, but those brave enough to redesign their culture. The real constraint on change is the speed of learning. We recently published a paper offering a map for organizations willing to close the gap between AI's potential and real-world performance. The manual has changed. The question is whether organizations have the appetite to embrace it. AI adoption is no longer discretionary; it is a structural necessity. Yet we see a clear productivity paradox. Organizations that effectively orchestrate people, processes, and technology can unlock productivity gains of up to 20x, compressing innovation cycles from years into weeks. So why do most companies struggle to capture value? Three reasons. First, the tool trap: treating AI as software instead of transforming the operating model. Second, the learning gap: the real constraint is how fast the workforce learns to work with AI. And third, fragmented governance: without a unified backbone like CI&T Inc Flow, initiatives remain isolated experiments. At CI&T Inc, we know transformation is never just technology. It is fundamentally human. That is what separates the 5% who scale AI from the 95% who only experiment. Success in this new environment requires more than tools; it requires architecture. CI&T Inc has codified decades of lean digital expertise into our AI transformation framework, designed to convert AI potential into financial performance. It focuses on three priorities. First, identify high-impact value streams. Second, define measurable business outcomes. Third, align the operating model to scale AI across the enterprise. This is powered by CI&T Inc Flow, orchestrating humans, AI agents, data, and governance into a single management system. And we have already reskilled our workforce around this model, enabling our clients to scale AI with real business impact. Now let us turn to our financial highlights. In the fourth quarter, CI&T Inc delivered record revenue of $134.3 million, representing 19.3% organic growth compared to Q4 2024. On a constant currency basis, growth was 13.9% year over year, exceeding the top end of our guidance range. Our adjusted EBITDA margin was 18.4%, demonstrating stability and resilience as we continue to scale. Adjusted profit margin reached 14% for the quarter. For the full year 2025, our organic revenue growth at constant currency was 13.2%, positioning CI&T Inc as the fastest-growing company among our peer group. This is high-conviction growth. We continue to invest in the foundations of our future leadership in AI services: our CI&T Inc Flow platform, our people, and our global sales engine. Stanley will provide a deeper dive into our financial metrics shortly. This marked our fifth consecutive quarter of double-digit organic growth, reflecting the compounding impact of our strategy. Our performance is driven by the trust of our strategic enterprise clients and our ability to deliver measurable outcomes in complex environments. Over the past three years, we have embedded AI into our core offerings and are entering what we call the acceleration phase, where our proprietary IP amplifies the value we deliver. As a result, our AI-powered offerings are expanding our pipeline, increasing engagement quality, and growing wallet share within existing accounts. To bring this to life, let us look at a few case studies that demonstrate how we are converting this framework into tangible business outcomes."
+  },
+  {
+    "speaker": "Narrator",
+    "role": "",
+    "text": "Bula, digital-native fintech, found a new beat in software delivery, and CI&T Inc Flow was not background noise. It was wired into the system. What took months collapsed into weeks. Productivity grew up to 10 times. GenAI, not as hype, but as infrastructure. Every commit is high in rhythm. Every release on tempo. Business momentum with Bula and CI&T Inc."
+  },
+  {
+    "speaker": "Narrator",
+    "role": "",
+    "text": "Valleys to Coast provides a lifeline for 18,000 residents across the UK, but disconnected systems were limiting their impact, with critical information locked in separate platforms while families on housing lists waited for their homes. CI&T Inc partnered with Valleys to Coast to change that. We built a unified digital platform that connects housing management and repairs in real time, transforming fragmented data into a single, trusted source of truth. This is not just about technology. It is about human and real outcomes. From syncing customer details to accelerating property turnarounds, we are ensuring repairs happen on time and families get their keys faster. With less manual work and clearer data, Valleys to Coast can now reinvest where it matters most, supporting the residents and communities at the heart of its mission. That is the power of connected data. That is CI&T Inc."
+  },
+  {
+    "speaker": "Valleys to Coast Representative",
+    "role": "",
+    "text": "Working with CI&T Inc, we have improved the lives of real people. We now put the right information in front of our teams instantly, accelerating property turnarounds and reinvesting our time back into the community."
+  },
+  {
+    "speaker": "Narrator",
+    "role": "",
+    "text": "New York, January NRF 2026, retail's biggest stage. On stage, from production to customer experience, the power of agentic ecosystems. Melissa Minco of CI&T Inc with Tony D'Onofrio of Sensormatic and TD Insights. Real conversations, real execution, CI&T Inc and AI connecting operations to demand. From production to experience, end-to-end systems, connected enterprise. No fluff, just proof. We are at the top, not by narrative, by delivery. CI&T Inc is a leader in the ISG 2025 report, recognized as a leader in enterprise data modernization and AI services in the ISG Provider Lens, AWS Ecosystem Partners 2025."
+  },
+  {
+    "speaker": "Eduardo Galvan",
+    "role": "",
+    "text": "A global benchmark for evaluating technology providers. Daily excellence, industry recognition."
+  },
+  {
+    "speaker": "Cesar Gon",
+    "role": "",
+    "text": "This is a moment to look back, not with nostalgia, but with numbers that speak in bold. The CI&T Inc and AWS partnership has evolved year after year. Today, more than 60% of our portfolio runs on AWS. In Latin America alone, the business grew 10 times year over year. We are one of just 19 partners worldwide selected for the AWS Generative AI Partner Innovation Alliance, a global initiative co-creating the next generation of GenAI solutions. BASF, Educas, C6 Bank, not just logos; proof points. CI&T Inc accelerates AWS. AWS amplifies CI&T Inc. The results we are seeing with our clients collapsing months into weeks and achieving 10x productivity gains are a testament of what is possible when AI becomes a core capability rather than just hype. To explain how we are crystallizing this success across our global footprint, I will invite Bruno to discuss our evolving delivery model and the strategic offerings driving these outcomes. Thank you."
+  },
+  {
+    "speaker": "Bruno Guicardi",
+    "role": "",
+    "text": "Pleasure to be here to discuss the evolution of our delivery model and the strength of our global offerings. We finished 2025 with a global team of 8,000 CI&T Inc ers, averaging 6,400 AI tech professionals over the period, a 14% increase from 2024. These are not just developers. They are consultants, designers, and engineers who empower our clients by blending strategy, customer-centric design, and advanced AI engineering. As Cesar touched upon, people are the heart of an AI-first transformation. Our framework recognizes that this journey is multidimensional. You cannot simply install AI. You must advance people, processes, and technology simultaneously. We believe that breakthroughs in technology can only be sustained if they move in lockstep with organizational maturity. As the services industry evolves into a hybrid of IP and talent, we are empowering our people to be architects of solutions and platforms. Through CI&T Inc Flow, our teams can create, share, and reuse autonomous agents across the entire enterprise. By integrating lean principles and robust governance with our talent and technology, we are enabling our clients to move past simple efficiency gains and toward a complete reinvention of their business models. Now let us see how we are fundamentally redefining the unit economics of software production. CI&T Inc is capturing a massive performance arbitrage. By staying relentlessly ahead of the curve, the productivity gap between CI&T Inc and non-AI or low-performing vendors is widening into a significant competitive moat. We are navigating this through a staged evolution. Today, we are in the AI-augmented phase. We follow AI-native talent. We are already realizing 2x gains in individual productivity across the board. In more mature engagements, we move to AI-coordinated efficiency. By integrating autonomous agents into the workflow, we achieve 5x gains by collapsing lead times across the entire value stream. And we are continuously working towards a 20x performance increase through AI-orchestrated reinvention, where AI coordinates the entire journey from concept to market. This evolution of our delivery engine demands a corresponding evolution in our business model. To capture the value of this 20x potential, we are gradually transitioning our clients to modern engagement models. We are moving beyond time and materials toward fixed price, outcome-based, and consumption-based contracts. This allows us to decouple our revenue from headcount and participate directly in the value we create. We are not just watching the industry change. We are architecting the new standard. To see the technology making this 20x leap a reality today, let us look at our newest offering, the agentic SDLC. Historically, software development was a linear, human-dependent relay race. Our agentic SDLC breaks this model by deploying an ecosystem of autonomous AI agents that mirror key development roles. These agents orchestrate the process to eliminate systemic waste, such as waiting times and handoff errors, while our senior engineers provide the strategic guardrails to ensure every output is enterprise-ready. The backbone of this system is the enterprise knowledge base. This 360-degree data repository enables agents to continuously evolve, making decisions based on each client's specific context. This coordination of agentic speed and human strategic supervision is what unlocks unprecedented performance levels. We partner with clients to map and reinvent their entire SDLC, migrating their legacy processes into our agentic platform. We are already seeing the financial and operational impact of this shift. With a life sciences client, we have secured over 8x productivity gains. We have seen development cycles that previously took 8.5 days collapse to just half a day. With Bula, as seen in our client case video, what used to take months is now delivered in weeks. They achieved up to 10x productivity increases through end-to-end automation across coding, documentation, and testing. Agentic SDLC is a structural engine that allows us to deliver superior value at a lower cost to serve. By compressing product creation cycles from months to days, we are fundamentally shifting our business model. We are moving from a labor-intensive delivery model to an IP-led model where our margins can expand significantly, without traditional constraints of linear headcount growth. Our momentum and competitive edge are being validated by the world's leading ecosystems. 2025 has been a landmark year of recognition. CI&T Inc earned the AWS Generative AI Services Competency seal and was selected as one of only 19 partners worldwide in the AWS GenAI Partner Innovation Alliance, giving us early access to emerging technologies that keep our clients at the forefront of innovation. Our data expertise was also highlighted by Databricks, which recognized CI&T Inc as LATAM Enterprise Data Warehouse Partner of the Year for 2025, underscoring our ability to modernize legacy data foundations into high-value assets for agentic orchestration. Our strategic positioning is consistently validated by the industry's most respected independent analysts, including Forrester, Gartner, Everest, and ISG. Most notably, Forrester has named CI&T Inc a leader in modern application development services for 2025. In the ISG Provider Lens reports, we were recognized as a leader in enterprise data modernization and AI services, while Gartner Peer Insights rates us as a strong performer in custom software development services. Together, these accolades show that CI&T Inc is not simply following market trends, but helping define the new gold standard for our industry. Now I invite Stanley to guide us through our financial performance."
+  },
+  {
+    "speaker": "Stanley Rodrigues",
+    "role": "",
+    "text": "Thank you, Bruno, and good afternoon, everyone. It is a pleasure to provide more detail on what has been a year of exceptional execution and financial discipline for CI&T Inc. In Q4 2025, we delivered robust revenue of $134.3 million, representing a 19.3% increase on a reported basis, fully organic. On a constant currency basis, we grew 13.9% year over year. This performance is significant, as Cesar mentioned. It marks our fifth consecutive quarter of double-digit organic growth. In a volatile macroeconomic environment, this consistency is a clear differentiator, proving the resilience of our business model. For the full year 2025, total revenue reached $489.7 million, an 11.5% increase over 2024, or 13.2% on a constant currency basis. By balancing high-velocity top line expansion with stable margins, we are successfully compounding value for our shareholders. The narrative for 2025 is defined by the quality and composition of our growth. Our performance is anchored by our two most significant markets. Latin America delivered an outstanding 26.8% revenue growth for the full year, fueled by a rapid acceleration in digital and AI across the region. In North America, we maintained a solid and steady trajectory, with revenue growing 9.2% year over year, reflecting our maturing presence in the world's most competitive tech market. From a vertical perspective, we continue to see strong demand across our core sectors, specifically in financial services and retail and consumer goods verticals, where the demand for measurable AI-driven efficiency is reshaping how technology budgets are allocated. I want to double click on the quality of our client partnerships. At CI&T Inc, our objective is to be the partner of choice for high-impact strategic transformations. The results of this approach are clear. Revenue from our top 10 clients grew 16.5% year over year in 2025. It is important to note that each of these top 10 accounts now generates a minimum of $10 million in annual revenue. This outsized double-digit growth within our most deeply embedded accounts is a powerful market sign. It proves that even in our largest partnerships, we are finding new high-value opportunities to drive impact through the agentic SDLC and AI-driven reinvention. Beyond our existing base, we are equally encouraged by our new client onboarding. Throughout 2025, we saw a consistently strong pipeline and robust conversion rates. This balanced portfolio of regions, loyal top-tier clients, and diverse industries provides us with a very solid foundation for the year ahead. Now let us discuss our profitability and cash flow. For the fourth quarter, adjusted EBITDA reached $24.8 million, an 11.6% increase year over year, resulting in an adjusted EBITDA margin of 18.4%. The margin decline was driven by two specific headwinds: the unfavorable foreign exchange environment and the resumption of payroll taxes in Brazil. In addition, we have been deliberately investing up front in our AI platform, our workforce reskilling, and global sales initiatives as a strategic choice to accelerate our top line growth. For the full year 2025, adjusted EBITDA was $89.4 million, up 9.1% from 2024. This resulted in a full-year margin of 18.3%. In 2025, cash generated from operating activities reached $81.2 million, representing a remarkable 90.8% cash conversion rate from adjusted EBITDA. Our free cash flow totaled $45.8 million, which represents a cash conversion rate of 91.3% from adjusted profit. This level of conversion is a testament to our operational efficiency and disciplined working capital management. It provides us with significant balance sheet flexibility to continue funding our strategic pivot toward an AI, agentic model while maintaining a strong, de-risked financial position. Turning to the next slide, let us look at how our top line momentum translated into bottom line results. For the fourth quarter, adjusted net profit reached $18.8 million, a 41.8% increase year over year. This pushed our adjusted net profit margin to 14%. Consequently, our adjusted diluted earnings per share rose to $0.14, marking a 48% increase from the previous year. For the full year 2025, adjusted profit was $51.9 million, up 16.9% compared to 2024, with margins expanding 50 basis points to 10.6%. Our full-year adjusted diluted earnings per share grew to $0.39, a 20% increase over the prior year. This earnings outperformance was driven by two key factors. First, our disciplined management of SG&A expenses. Second, the strategic execution of our share repurchase program. By reducing the share count at what we believe are highly attractive valuation levels, we have successfully amplified the value delivered to our shareholders. In summary, 2025 was a year of consistent, high-quality execution. We delivered five consecutive quarters of double-digit organic growth, maintained a resilient margin profile, and achieved elite-level cash conversion. Combined with our active buyback program, CI&T Inc is demonstrating its ability to be both a high-growth AI leader and a disciplined compounder of shareholder value. We enter 2026 with a stronger balance sheet, a more efficient delivery model, and a clear path to continued outperformance. I will now turn the call back to Cesar for our business outlook for 2026. Thank you."
+  },
+  {
+    "speaker": "Cesar Gon",
+    "role": "",
+    "text": "Our 2026 outlook reflects our commitment to sustaining growth while continuing to invest in the shift towards an AI operating model. For Q1 2026, we expect revenue of at least $134.7 million, representing 21.5% growth year over year, or 14.3% at constant currency. For the full year 2026, we expect revenue in the range of $548.4 million to $568 million, implying organic growth of 12% to 16% year over year, with a midpoint of 14%. This includes a favorable FX tailwind of approximately 300 basis points, and we expect our adjusted EBITDA margin to be in the range of 17% to 19%. Before we open for questions, I want to thank all CI&T Inc ers around the world. Your commitment to innovation, continuous learning, and delivering exceptional value to our clients makes these results possible. With that, we are ready to begin the Q&A session. Thank you."
+  },
+  {
+    "speaker": "Narrator",
+    "role": "",
+    "text": "The future of business is tech. The future of tech is business."
+  },
+  {
+    "speaker": "Eduardo Galvan",
+    "role": "",
+    "text": "We solve it. Tech-integrated business solutions. CI&T Inc. We will now open for questions. I will announce each participant's name. Once you hear your name, please unmute your line and ask your question. Then when you are done, please mute your line. The first question comes from Abby from JPMorgan. Abby, please go ahead."
+  },
+  {
+    "speaker": "Abby",
+    "role": "",
+    "text": "Hi. Nice to see you guys. This is Abby on for me. Thanks for taking my question. So I was wondering if you could walk us through the guide and some of your assumptions. Q1 looks pretty strong, but on a constant currency, organic basis, it seems like it is going to decelerate from this year. So can you just walk us through that?"
+  },
+  {
+    "speaker": "Cesar Gon",
+    "role": "",
+    "text": "Thanks, Abby. Great to see you. Well, I think after five consecutive double-digit growth quarters, we were able to really forecast it. We ended the year with a very strong exit rate, so we are now able to forecast a very strong Q1 and then project continuity almost at the same pace. Our guidance assumes that we will have an average FX rate of 5.3 in terms of Brazilian reais to the US dollar on average along the year. If we look at the low end of our guidance, basically it reflects macro uncertainty, and the high end, where we want to be, reflects our current strong commercial pipeline, 30% higher now than the same period last year, and keeping a very good level of conversion, certainly driven by AI demand and the differentiation achieved for our main offerings. We are seeing Brazil and the US basically expanding at a good pace. This last Q4, we could see our main regions all expanding and also our five main verticals expanding sequentially. So I think it is a good start. Of course, there is a lot of things to do, I think we were able to guide what I believe is the fastest growing, and we will continue to be the fastest growing company among our peer group."
+  },
+  {
+    "speaker": "Abby",
+    "role": "",
+    "text": "Yeah. That is great. And just as a follow-up, are you guys seeing any impacts from the geopolitical uncertainty so far in Q1?"
+  },
+  {
+    "speaker": "Cesar Gon",
+    "role": "",
+    "text": "So far, no. Even Europe has a very good, strong, solid start for the year. In Brazil and the US, we are also expanding."
+  },
+  {
+    "speaker": "Abby",
+    "role": "",
+    "text": "Thanks. Great job, guys."
+  },
+  {
+    "speaker": "Eduardo Galvan",
+    "role": "",
+    "text": "Thank you, Abby. The next question comes from Leonardo Sintra from Itaú. Leo, please go ahead."
+  },
+  {
+    "speaker": "Leonardo Sintra",
+    "role": "",
+    "text": "Hi, everyone. Thank you for taking my questions. I just want to check about your expectation regarding the performance from the top one client and your top 10 clients throughout 2026, and if you could give us a little bit more breakdown about the Flow adoption between the different sectors. Thank you."
+  },
+  {
+    "speaker": "Cesar Gon",
+    "role": "",
+    "text": "Sure. Thank you, Leo. I will start with the segments. Q4 was a very good quarter for our five main verticals. We expanded almost 14% in life sciences as the largest expansion, but even financial services had an amazing year, and we sequentially expanded more than 3%. So we continue to see demand around all our five main verticals. Regarding the top clients, I think also Q4 was basically, on average, we expanded 21% year over year in our top 10 clients. Excluding top one, we expanded 17% year over year, and if you look ex-top 10, it is 18% year over year. So on average, all the cohorts are expanding, and we continue to see our strategy working around our top clients and also the new clients we landed last year. Sequentially, we grew among eight of our top 10 clients from Q3 to Q4, so very solid. And we will see our top one continuing to expand, but for sure less accelerated than last year."
+  },
+  {
+    "speaker": "Bruno Guicardi",
+    "role": "",
+    "text": "I can take the other one. It was about the Flow adoption rates. We do not see a lot of difference across verticals in AI adoption. It is pretty much, you know, our teams' adoption at this point continues very high, close to 100%. Just really a few laggard clients that do not want it to be used in their environments, which, again, is very minimal. So at this point, it is at full-blown utilization, and as I mentioned in my remarks, we are over the assistant phase and really moving into restructuring processes and workflows to actually deliver a way bigger impact at this point already."
+  },
+  {
+    "speaker": "Leonardo Sintra",
+    "role": "",
+    "text": "Very clear. Thank you, guys."
+  },
+  {
+    "speaker": "Eduardo Galvan",
+    "role": "",
+    "text": "Thank you, Leonardo. Our next question comes from Brian Bergen from TD Cowen. Hi, Brian."
+  },
+  {
+    "speaker": "Brian Bergen",
+    "role": "",
+    "text": "Hey, guys. Good to see you. On the AI and agentic activity and the workloads you are working on there, curious if you can give us a sense of the mix of new work that is the modernized version of what you have always done as high-value custom build solutions, but now leveraging GenAI and the Flow platform, versus newer areas for you like agentic-led managed services where you may be displacing some of the larger legacy vendors? I am just trying to ask this because I am trying to understand the different avenues of demand and how clients are thinking about this right now."
+  },
+  {
+    "speaker": "Cesar Gon",
+    "role": "",
+    "text": "Sure. Thanks, Brian, for the question. In general terms, we categorize the demand in two groups. The first one, as you mentioned, is we continue to see a big wave of foundational spending. It means large-scale projects regarding upgrading legacy technology applications or data foundations and really accelerating cloud migration. These are foundational moves if you want to explore the full potential of the AI-driven world. And the second, what I believe is a big trend now, is direct AI investment. We see a relevant budget allocation for AI solutions, and then we are talking about hyperfusion around the software demand lifecycle. We see a lot of demand regarding customer experience journeys now reinvented with AI. In Brazil, it is around WhatsApp, but globally it evolves toward conversational commerce and so on. We also see broad programs regarding AI-first transformation. That means looking at the end-to-end business model and structure of our clients and finding out the best way to really build a strong AI strategy around specific value streams or business units. And finally, we also see a growing number of what we call use cases around GenAI, meaning optimizing everything that is labor-intensive or data-intensive. Now business processes can be redesigned and reshaped with the new AI capabilities. So basically two groups: foundational demand and then what we call AI direct investment."
+  },
+  {
+    "speaker": "Brian Bergen",
+    "role": "",
+    "text": "Okay. And if I could ask a follow-up on margin. Can you comment on the drivers of adjusted EBITDA margin going forward? You have had ramped workforce investments and Flow investments in 2025. It looks like that will persist based on the guide for 2026. Curious how you envision this ultimately playing out, where a crossover point may be for the potential to start recovering margin, particularly gross margin, as you benefit from all these investments and the productivity yourselves?"
+  },
+  {
+    "speaker": "Stanley Rodrigues",
+    "role": "",
+    "text": "Brian, thanks for the question. With regard to gross margin, you are right. In 2025, we saw a play in that gross margin. We saw bold investments toward people, meaning investing in preparation ahead of the strong pipeline we experienced throughout the whole year. We also had investments in AI itself, towards the platform Flow. We also had some headwinds in terms of FX, especially towards the end of the year. We had about 8% devaluation of the real in Q4 itself. If you combine that with investments in sales and efficiency and operating leverage that we saw in 2025, we get to this 18.3% EBITDA. If we go to 2026, the guidance we provided pretty much talks to that. The midpoint talks to that 2025 number. And what that means is we are continuing in that, I would say, winning AI strategy, meaning that we are investing in our AI platform. We are preparing teams ahead of the opportunities that we see in the pipeline. We have a strong pipeline, usually 30% bigger than the same period in the previous year. So this is allowing us, Brian, to expand the wallet share, which is very good, and also acquire new clients. So we are repeating, of course. We are leading in the sector, and that is a winning strategy. We will continue to do that formula, let us say, and that is why we are guiding that range of EBITDA."
+  },
+  {
+    "speaker": "Brian Bergen",
+    "role": "",
+    "text": "Okay. Understood. Thank you."
+  },
+  {
+    "speaker": "Eduardo Galvan",
+    "role": "",
+    "text": "Thank you, Brian. Next question comes from Luke Morrison from Canaccord. Hey, Luke. Go ahead."
+  },
+  {
+    "speaker": "Luke Morrison",
+    "role": "",
+    "text": "Hey, guys. Good to see you. Excellent results. Thank you for taking the question. So maybe I will just start dovetailing somewhat off of Brian's question. Thinking about the productivity improvements you are seeing with Flow, as you think over the long term, over a multiyear period, how do you think about the relationship between headcount growth and revenue growth over time? Should we expect revenue per employee to rise as you roll out these new pricing models and you see more productivity from your existing headcount, or are you thinking this growth phase still requires adding people at roughly the same rate as you are growing?"
+  },
+  {
+    "speaker": "Cesar Gon",
+    "role": "",
+    "text": "Thanks, Luke. I can start here; Bruno, you can add if you want. We see the rise of AI and the agentic solutions as provoking an inevitable space for an evolution in the commercial and pricing models in our industry. In terms of the midterm, we see the future of our industry evolving from basically the time-and-materials model to value-based pricing models, more closely tying the business to business outcomes. And this is, for sure, an opportunity to gradually monetize the intellectual property embedded now in everything we do, and also experiment with different business models for the agentic architecture that, for sure, will dominate the future of IT investment. Proactively, we are introducing all these different approaches with our clients. We have, I would say, encouraging early results. But as I mentioned, we see this as a midterm opportunity. It will translate our superior performance into margin and scalability, and, of course, give our clients more options to better connect outcomes to the investments they are making. So I think it will be gradual, but inevitable, change in our industry."
+  },
+  {
+    "speaker": "Luke Morrison",
+    "role": "",
+    "text": "Yep. Makes sense. Very helpful. And then maybe just to double-click on the new pricing model evolution, you talked about experimenting with consumption-based subscription models for Flow access at your Analyst Day last October. Maybe just update us on how those conversations are going with clients. Are you seeing a willingness to pay for Flow as a standalone platform, or is that still primarily a differentiator that is helping you win business today?"
+  },
+  {
+    "speaker": "Bruno Guicardi",
+    "role": "",
+    "text": "Primarily it is a differentiator. Of course, with clients, when they see the type of performance, they want to share in the success like, I want that for myself. But we are not leading with that. We are not trying to push a product. They are seeing what our teams can do and the performance of those teams, and they ask, How are you doing this? Then we actually enter another sort of engagement, which is more of a transformation engagement: Let us teach you how to achieve that type of performance, which includes a different toolset and a different usage not only our agents, but also the third-party tools available in the market. But again, that is more on the backtrack of them seeing a different performance compared to all the public reports that you can read everywhere. There is a lot of frustration out there on utilizing and transforming AI into real value. When you say you can do 5x, it is usually faced with a lot of skepticism. Our approach is more show than tell: this is what we are actually doing and this is what we are achieving. Then we can break that big wall of skepticism and have those conversations. That has been the approach."
+  },
+  {
+    "speaker": "Eduardo Galvan",
+    "role": "",
+    "text": "Our next question comes from Cesar Medina from Morgan Stanley. Hi, Medina."
+  },
+  {
+    "speaker": "Cesar Medina",
+    "role": "",
+    "text": "Hey. Thanks for taking my question. I guess you both Bruno and Cesar sort of just answered one of them, but let me ask in a different way. When you are thinking of the changes in trends Cesar mentioned, for instance, that your main customer will continue to grow robustly but should slow down relative to 2025 can you walk us through the changes in trend that you are seeing between projects that are more discretionary spending versus other projects that are take-out-cost and things like that? That is the first part of the question. The second question: exactly the same thing as changes in trend, but instead of by client, by region. What are you seeing in the US, Brazil, and then new markets?"
+  },
+  {
+    "speaker": "Cesar Gon",
+    "role": "",
+    "text": "Sure. Thank you, Medina, for the questions. We see both trends: foundational investments now with a much better return-on-investment equation regarding legacy and data modernization. We continue to capture these very large-scale endeavors to modernize decades of technical debt in our clients. Then we are seeing also this trend of direct AI investments with different shapes and colors. On average, we see our engagements basically accommodating multiyear contracts with more spot demand. So we do not see meaningful differences in terms of the duration of our engagements or the ticket size in both kinds of demand. Regarding markets, the US and Brazil: we are very confident and very well established in terms of land-and-expand acquiring new customers in these markets and continuing to increase our wallet share among our global clients. We see our new markets as more exploratory Europe and Asia that now represent 10%. We had an amazing Q4 for these regions, but it is even harder to predict. We see a solid forecast for our main markets in North America and Latin America."
+  },
+  {
+    "speaker": "Cesar Medina",
+    "role": "",
+    "text": "And when you see your pipeline, last year you had a big ramp-up of very large projects for international, like Brazilian customers. When you think of this pipeline, do you have similar opportunities this year, 2026, on that front?"
+  },
+  {
+    "speaker": "Cesar Gon",
+    "role": "",
+    "text": "Yes. And when we say expand, it is a very important game because these large companies we need to move from one geography to another, from one business unit to another. It is a long-term strategy to continue increasing our wallet share year over year, quarter over quarter, as we establish our reputation. What plays in favor of our approach is Flow and our discipline of metrics. When we can clearly demonstrate the kind of results we are achieving, the natural response from our clients is giving us more opportunities to expand along the way. This is basically the expansion strategy, and as you know, we have very, very large companies operating around the world."
+  },
+  {
+    "speaker": "Cesar Medina",
+    "role": "",
+    "text": "Very simple. Thank you."
+  },
+  {
+    "speaker": "Eduardo Galvan",
+    "role": "",
+    "text": "Thank you, Medina. Our next question comes from Gustavo Farias from UBS. Hi, Gustavo. Please go ahead."
+  },
+  {
+    "speaker": "Gustavo Farias",
+    "role": "",
+    "text": "Can you hear me?"
+  },
+  {
+    "speaker": "Eduardo Galvan",
+    "role": "",
+    "text": "Yes. Now we can."
+  },
+  {
+    "speaker": "Gustavo Farias",
+    "role": "",
+    "text": "My question is regarding the alternative billing model. When you go from time and materials toward fixed or even outcome-based, there is probably a higher risk-reward profile. If you could comment on which of those alternative models are gaining more traction and what you are experiencing in terms of the effective margin upside gains in each of them, that would be very helpful. Thank you."
+  },
+  {
+    "speaker": "Cesar Gon",
+    "role": "",
+    "text": "Sure, Gustavo. Thank you. We are experimenting with seven different models now. Basically, it is a hybrid moment where we combine time and materials with price per unit that is basically throughput with price per consumption using our agent computing unit for the SaaS agent solutions, and outcome-based. I think it is too early, but of course all these models potentially have a better margin if you know how to execute. We are very confident in our ability to execute these engagements, which allows us to be very confident in the predictability of these new models. Also, it is part of the evolution of services becoming an IP-based game. Flow is not only our management system for AI, but it is also the stack where we are building our vertical solutions, all the IP that tackles specific vertical opportunities by industry. It is part of this evolution. For sure, all these models potentially can increase not only our margins, but our scalability in terms of headcount. But it will be, as I mentioned, an incremental midterm game not something that is going to happen from Friday to Monday. We are very, very confident in our ability to execute."
+  },
+  {
+    "speaker": "Gustavo Farias",
+    "role": "",
+    "text": "Great. Thanks. Just a follow-up, if I may. Just to confirm, there is nothing from this potential upside, like you said, embedded in this year's guidance for margins, right?"
+  },
+  {
+    "speaker": "Cesar Gon",
+    "role": "",
+    "text": "For 2026, we are guiding the natural evolution of our pricing models, but we believe that our clients will be, let us say, conservative. They are willing to test different models, but it will take a few years to really see this as a relevant part of our P&L. As I mentioned, it is inevitable not only for CI&T Inc, but for the whole industry. It is just a transition that will take a while, especially because of the cohort of our clients these large companies they tend to move in a very consistent and careful way."
+  },
+  {
+    "speaker": "Gustavo Farias",
+    "role": "",
+    "text": "Alright. Thank you very much, guys."
+  },
+  {
+    "speaker": "Eduardo Galvan",
+    "role": "",
+    "text": "Thank you, Gustavo. That concludes our Q&A session. Thank you all for attending our event today. I will now invite Cesar to proceed with his closing remarks. Cesar?"
+  },
+  {
+    "speaker": "Cesar Gon",
+    "role": "",
+    "text": "Sure. Thank you, Galvan. Thanks, Bruno and Stanley, for joining me. Thank you all for joining us today, and of course, a special thank you to all CI&T Inc ers around the world. Congratulations on another record quarter. Let us keep pushing. And a special thank you also to our clients for choosing CI&T Inc as a partner for this exciting new AI-driven innovation era. Stay well. See you soon."
+  }
+]

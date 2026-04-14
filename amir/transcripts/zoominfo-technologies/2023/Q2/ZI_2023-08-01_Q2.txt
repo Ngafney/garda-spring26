@@ -1,0 +1,414 @@
+Operator
+Welcome to the ZoomInfo second quarter 2023 financial results conference call. At this time, all participants are in a listen-only mode. After the speaker's presentation, there will be a question-and-answer session. [Operator instructions] I would now like to hand the conference over to your speaker today, Jerry Sisitsky, investor relations.
+Please go ahead.
+Jerry Sisitsky
+--
+Investor Relations
+Thanks, Amy. Welcome to ZoomInfo's financial results conference call for the second quarter 2023. With me on the call today are Henry Schuck, founder and CEO of ZoomInfo; and Cameron Hyzer, our CFO. After their remarks, we will open the call to Q&A.
+During this call, any forward-looking statements are made pursuant to the safe harbor provisions of U.S. securities laws. Expressions of future goals, including business outlook, expectations for future financial performance, and similar items including, without limitation, expressions used in the terminology may, will, expect, anticipate, and believe, and expressions which reflect something other than historical facts are intended to identify forward-looking statements. Forward-looking statements involve a number of risks and uncertainties, including those discussed in the risk factor section of our SEC filings.
+Actual results may differ materially from any forward-looking statements. The company undertakes no obligation to revise or update any forward-looking statements in order to reflect events that may arise after this conference call, except as required by law. For more information, please refer to the cautionary statement in the slides posted to our investor relations website at ir.zoominfo.com. All metrics on this call are non-GAAP unless otherwise noted.
+A reconciliation can be found in the financial results press release or in the slides posted to our IR website. With that, I'll turn the call over to Henry.
+Henry Schuck
+--
+Founder and Chief Executive Officer
+Thank you, Jerry, and welcome, everyone. We delivered $309 million in revenue in the second quarter and adjusted operating income of $126 million with a margin of 41%. Our customers, sales leaders who sit disproportionately in the software vertical, are reducing spending in the context of a lower-growth environment. For high-growth companies in particular, where the demand has been reduced and investors are expecting higher levels of profitability, these cuts have proved substantial and have meaningfully impacted ZoomInfo's ability to expand our solution.
+Over the last quarter, I've talked to dozens of our high-growth technology clients, all of which share a similar trajectory. I'll highlight one of them, a member of our 100K cohort as an example. In 2021, this SaaS company raised over $400 million of funding, was growing 70% year over year, had 50 sales reps, and expected that would grow to more than 100. They built that growth into their ZoomInfo agreements.
+In the back half of 2022, while on a path to get to breakeven in 2024, and while growing 40% year over year, their investors demanded something different: 40% free cashflow by the end of 2023 and scaled back growth to 5% to 10% year over year. Their sales team, all ZoomInfo license holders, went from 100 to 20, effectively overnight. Our account managers have been managing through this headwind since the beginning of the year. As we look forward, reviewing our customer health, we no longer believe that these budgetary pressures and their corresponding downward pressure on renewals will ease in the near term.
+Our adjusted expectations for the full year, which now call for 12% revenue growth, reflect this belief. While these results reflect the challenging time for our customers, I expected us to do better. The ZoomInfo platform delivers a compelling ROI to our customers, regardless of their growth environment, and we have not done a good enough job to date in demonstrating this value to them. There are several initiatives that we have been rolling out, which I'm confident will drive performance improvement.
+We know that our customers need the most accurate data, both domestically and internationally, with the most coverage. To deliver that for them, we've applied a fresh focus on data over the last few quarters. We meaningfully increased our matching and phone number coverage since the beginning of the year, adding 37 million net new international contact profiles and surpassing coverage on over 300 million business professionals. We have invested in enterprise-grade engineering processes under the leadership of our new CTO, Ali Dasdan, which has improved the stability and performance of our platform.
+SalesOS application load time decreased by 65%, and contact search latency decreased by 72% in the quarter. We've allocated sales resources to focus on our enterprise business, where we see larger contract values, our most loyal customers, and momentum in our $1 million cohort. In the SMB segment, where we see lower-priced and lower-quality competitors, we still see strong performance, with more pipeline created, higher win rates, faster close times, and higher ASPs. Metrics that also indicate our value proposition when compared to our competition remains obvious.
+We've been investing more in post-sales to drive retention rates around our more complex API and data cube offerings. We're intentionally growing our customer base among nonsoftware businesses who are less impacted by the environment, and we're resourcing our sales team to match demand on new business, where we continue to see strong performance and where demand is coming in higher than we previously resourced for. We're also increasing our focus on customer adoption and engagement, knowing that customers who engage at the highest rates also retain at the highest rates. This focus has driven our NPS up six percentage points since the beginning of the year.
+In June, we adjusted staffing levels at the company, further streamlining the organization to operate and execute more efficiently. We continue to make sure that we are resourced appropriately and that we have the right team and the right roles to drive our long-term success. As we undertake these improvement efforts, we're also focused on pressing our core advantages to demonstrate the power of our solution across our large total addressable market: first, with growth among clients outside of the software vertical, a segment that is growing 20% year over year; second, with our expansion in our million dollar customer cohort, which increased 40% year over year, a reflection that more customers are using the ZoomInfo platform as a critical component of their go-to-market infrastructure; third, we believe that every AI initiative starts with data, and having an accurate and comprehensive data platform is more important now than ever. We believe the highly accurate data and insights in the ZoomInfo platform can be the foundational data that companies will use to leverage AI and large language models in their go-to-market motion.
+I'll provide more details on recent customer stories that will help illustrate what we're doing to press these advantages and grow ZoomInfo for the long term. This quarter, We close Cox Communications, Principal Financial Group, See's Candies, Singapore Telecom, Snapchat, TikTok, U.S. Cellular, and the Boston Celtics. These leading organizations across finance, telecommunications, social media, and the sporting world continue to choose ZoomInfo, a testament to the large market need that our platform addresses as organizations of all sizes and industries modernize their go-to-market motion.
+We saw especially strong growth among our transportation and logistics customers, a segment that grew 37% year over year. This included a global logistics company, which following a workforce reduction of 400 employees, increased their partnership with ZoomInfo by over $250,000 by deploying a centralized data strategy. Leveraging ZoomInfo's deep contact company and intent data, they improved demand generation, customer insights, and sales intelligence. As a result, the customer more effectively targeted their total addressable market and successfully integrated multiple CRM instances.
+We're looking for more opportunities to replicate this motion, helping customers who've experienced a reduction in force on their go-to-market teams redeploy ZoomInfo through a centralized data strategy, maintaining or increasing overall spend. We've also seen strong expansions within our customer base outside of software, including Hitachi, which leverages ZoomInfo to enrich several data sets to drive more proactive marketing outreach. They needed accurate data to power their outreach, and we helped them realize the power of continuous enrichment by providing them with a steady stream of the latest, most highly accurate data. Our ongoing enrichment offering combined with cleansing and routing of that high-quality data is driving meaningful efficiencies for their go-to-market organization.
+A Fortune 50 financial services and banking company expanded its usage of ZoomInfo from 100K a year to a multi-million dollar annual spend as they quickly standardized on ZoomInfo data for company and contact information across their business units. And a multimillion dollar IT services provider used ZoomInfo to clean up their data throughout their marketing automation and CRM systems using our data-as-a-service solutions to decrease their email bounce rates by more than half and discovered that a third of their data in their marketing automation system was duplicative. As these companies and many across our customer base have realized, ZoomInfo's data is an infrastructural element to their CRM systems, sales campaigns, customer 360 initiatives, and their AI initiatives. With this, we see increased demand for our data, and our data as a service business.
+In response, we recently dedicated intent data cubes to complement our firmographic, technographic, and contact data cubes. And ZI Labs, our strategic services arm, is also launching an AI-focused practice in response to the growing demand for AI solutions. We have already contracted for service modules with multiple strategic customers like the software company, Boomi, which has leaned into incorporating AI into its go-to-market strategy to drive one-to-one personalization and their customer engagement strategies by leveraging ZoomInfo data. We're also leveraging generative AI to drive frontline efficiencies.
+As we've discussed before, we are taking the burden of no taking away from sellers with Chorus' generative AI-generated meeting summaries. Following the release of this gen AI power functionality, our NPS on Chorus increased by more than 20 percentage points, hitting a high for the last 18 months. We've now delivered over 1 million meeting summaries since its release in May and over 10% of our customer base has already integrated meeting summaries with Slack. We're also continuing to drive industry leading profitability and remain steadfast in our commitment to compounding free cash flow growth.
+We expect to maintain a 40% margin while we invest in product excellence, strengthen our long-standing AI leadership, invest in data and platform expansion and add more sales capacity on the new business side where we see increasing levels of demand. I remain confident in the value proposition of our platform, the ROI we are driving for our customers, and the improvements we're making to the product and our operation. Amid challenging conditions, we've seized the opportunity to prioritize enhancing our efficiency, refining our product offerings, and optimizing our go-to-market and post-sales strategies. By doing that, we aim to position ourselves to capitalize on the demand rebound has conditions in our customer base stabilized.
+With that, I'll turn the call over to Cameron.
+Cameron Hyzer
+--
+Chief Financial Officer
+Thanks, Henry. In Q2, we delivered revenue of $309 million, up 16% year over year and up 1.5% sequentially as adjusted for days of revenue recognition. Adjusted operating income was $126 million in Q2 with a better-than-expected margin of 41%. GAAP net income was $38 million, and GAAP EPS was $0.09 per share.
+Non-GAAP EPS was $0.26 per share. As Henry indicated, the environment further degraded toward the end of the second quarter relative to expectations, putting incremental downward pressure on net retention. Software customers took further action to address the challenges in their business, renewing for even less than what we had expected. This is particularly true of renewals that we are beginning to lap from last year where some of the previous overbuying had already been addressed.
+As those customers on average further reduce spend this year. Given that we are beginning the second round of renewals in the current economic environment, we are prudently assuming that the renewal cycle through the end of the year continues to prove more challenging than last year. Additionally, during the quarter, we saw continued elevated write-offs for smaller customers. The pressure on our software customers has manifested in revenue for those customers declining year over year, whereas ACV for the non-software industry grew 20-plus percent relative to this time last year.
+The contribution from the software vertical now represents 35% of our overall business, down from 40% a year ago. Meanwhile, many of our biggest customers are going deeper with the platform as evidenced by the 40% increase in $1 million plus customers. They are leveraging more operating systems and increasing spend as they are getting tremendous value from the platform. Revenue from advanced functionality continues to help drive growth and now comprises a third of our total revenue.
+Digging deeper into net retention, we saw fewer up-sells and more down-sells in Q2 with the mid-market impacted the most. We saw customers for whom renewals were impacted last year further reduced their spend this year, with customers from the 2021 and 2022 cohorts being particularly challenged. Taking together, we are adjusting our guidance for the full year. We are assuming that the climate will become even more challenging in the third fourth quarter this year.
+As such, for the year, we expect to deliver 12% revenue growth at the midpoint down from our prior guidance of 17% growth. We remain committed to profitability and expect to maintain a 40% adjusted operating margin even with the lower-than-expected revenue. We will continue to focus on efficiency and selectively hiring where we expect the investments will make the greatest impact. Turning to cash flow.
+Operating cash flow in Q2 was $117 million, which included approximately $6 million of interest payments, with lower interest payments related to the successful repricing of our first lien credit agreement in Q1. Unlevered free cash flow for the quarter was $122 million, a 39% unlevered free cash flow margin and representing 97% of adjusted operating income. For the full year with lowered expectations for growth, we expect unlevered free cash flow conversion in the 90s as a percentage of adjusted operating income. With respect to the balance sheet, we ended the second quarter with $660 million in cash, cash equivalents and short term investments.
+In the end of Q2, we carried approximately $1.250 billion in gross debt, all of which has fixed or hedged interest rates. We again drove an improvement in our leverage ratios with a net leverage ratio of 1.1 times trailing 12 months adjusted EBITDA and 1.0 times trailing 12 months cash EBITDA, which is defined as consolidated EBITDA in our credit agreement, down from 2.3 times and 1.8 times, respectively, as of June 2022. During the second quarter, we repurchased 2.8 million shares of ZoomInfo stock at an average price of $21.99 per share. To date, we have deployed a total of 87 million of the 100 million share repurchase authorization approved in March.
+And today, we announced that our Board has authorized a new $500 million share repurchase program. Given our strong free cash flow generation and healthy balance sheet, we expect to continue to opportunistically repurchase shares. With respect to liabilities and future performance obligations, unearned revenue at the end of the quarter was $443 million, and remaining performance obligations, or RPO, were $1.1 billion, of which $849 million are expected to be delivered in the next 12 months. With that, let me turn to guidance.
+For Q3, we expect revenue in the range of $309 million to $312 million, adjusted operating income in the range of $124 million to $126 million, and non-GAAP net income in the range of $0.24 to $0.25 per share. For the full year, we now expect to deliver revenue in the range of $1.225 billion to $1.235 billion and adjusted operating income in the range of $493 million to $498 million. We expect non-GAAP net income in the range of $0.99 to $1 per share based on 415 million weighted average diluted shares outstanding. We expect unlevered free cash flow in the range of $445 million to $455 million.
+Our full year guidance implies 12% revenue growth at the midpoint and an adjusted operating margin of 40%. With that, let me turn it over to the operator to open the call for questions.
+Questions & Answers:
+Operator
+[Operator instructions] Our first question comes from Mark Murphy with JPMorgan. Your line is open.
+Mark Murphy
+--
+JPMorgan Chase and Company -- Analyst
+Yes, thank you very much. I'm interested -- when you look back in retrospect, why do you believe that the month of April, or April and May together were seasonally stronger and then demand, sounds like it downshifted again, thereafter, because from the standpoint of macro headlines, it's -- we look around and we have the CPI readings are improving. There's actually good GDP growth in Q2, the Fed is slowing rate hikes, the banking crisis didn't spread so far anyway. What do you think is -- what is it that is causing incremental cautiousness for your customers later in Q2 or exiting out of Q2?
+Henry Schuck
+--
+Founder and Chief Executive Officer
+Yeah. Thanks, Mark. So, the biggest driver in my mind is, we started to lap those renewals that saw more scrutiny last year. And, you know, those renewals really started to tick down much more than we expected.
+I also feel that, you know, we focus really on that new growth segment of our customers and that continues to be more challenging. I think people are focusing more on their existing businesses than necessarily finding new customers. So, while the kind of June impact had a modest impact to Q2, we have many more of those renewals coming up that were impact last year that we feel have some incremental risk at this point based on this first cohort of renewals coming through. And therefore, we want to make sure that we're taking a prudent view of the rest of the year and assume that those renewal trends worsen, which we think is the right way to set expectations for the second half.
+Mark Murphy
+--
+JPMorgan Chase and Company -- Analyst
+Yes. OK. That makes sense. And then, Henry, when we look at, you know, one of the items you're announcing in the earnings press release, you have 28 No.
+1 grid rankings in G2 Crowd. I'm not sure how often we see that. It seems to convey industry leadership. Do you think that ZoomInfo's revenue growth of 12% this year is translating into higher or lower market share just when you compare across, if you think about that universe of your direct competitors, whether they be public or private, because it feels like this market has seen kind of the double or triple lightning strike and it's maybe at times a little hard to just understand whether you're actually outperforming -- quite possibly outperforming what's happening in the broader industry right now?
+Henry Schuck
+--
+Founder and Chief Executive Officer
+Yeah. Thanks, Mark. I think, first, when I talk to my peers in the front office, particularly around sales and marketing technology, I hear a very similar sentiment of really tough renewals, really tough selling environment. I mean, I think about our peers and I think about LinkedIn.
+And if you look at LinkedIn, they came down from nearly 30% growth a year ago to 5% growth today. And it's largely the same buyers who are buying us for different reasons, but it is at front office sales and marketing side of the house. And so, I think as it relates to our broader competitive set, when I look at -- when I think about our selling ability against them and our market leadership, as you pointed out, through G2 or TrustRadius, what I see is, when we're in competitive situations, our win rates are increasing, we're getting higher ASPs, our pipeline is increasing in the SMB segment where we see those competitors. And so I see us really reinforcing our competitive position more so than -- much more so than any sort of speculation around losing market share here.
+Mark Murphy
+--
+JPMorgan Chase and Company -- Analyst
+Yeah. Thank you very much. It's very helpful to add that color around LinkedIn, which we did see in the recent Microsoft results. Thank you for that, Henry.
+Operator
+One moment for our next question. Our next question comes from Elizabeth Porter with Morgan Stanley. Your line is open.
+Elizabeth Porter
+--
+Morgan Stanley -- Analyst
+Great. Thank you very much. I was hoping to unpack retention a little bit more and get some color on what's happening on the gross retention side, particularly as some of the 100,000 ACV logos were down again quarter over quarter. So, does the incremental NRR downside, how much is that impacted buying actually gross retention? Thank you.
+Henry Schuck
+--
+Founder and Chief Executive Officer
+Yes. So, we are seeing modestly more cancellations this year than we saw last year. So, we do expect gross retention to tick down a little. But more of the net retention in terms of our expectation is being impacted by fewer up sells and more down sells.
+So, it's more -- we're keeping those customers, but we're seeing the renewals being more challenging. And so, yes, I think that's the real focus with respect to gross retention in 2023.
+Elizabeth Porter
+--
+Morgan Stanley -- Analyst
+Got you. And then, just as a quick follow-up on sales efficiency. I believe last quarter you started to see some stabilization in Q1. You know, how did that trend in Q2? And any sort of read-through as it relates to your investment -- continued investment in sales and marketing heads? Thanks.
+Henry Schuck
+--
+Founder and Chief Executive Officer
+Yeah. So, we did see that sales efficiency also ticked down in June more than any other month. And I think a lot of that is based on more on retention than it is necessarily on new sales. We are planning to continue to grow our sales capacity and particularly on the new sales side to meet the demand that we see out there.
+And we expect that overall sales and marketing spend should grow more or less in line with revenue during the foreseeable future.
+Elizabeth Porter
+--
+Morgan Stanley -- Analyst
+Thank you.
+Operator
+One moment for our next question. Our next question comes from Kash Rangan with Goldman Sachs. Your line is open.
+Kash Rangan
+--
+Goldman Sachs -- Analyst
+Hi. Thank you very much. Henry, I'm curious to get your take on the composition of the renewals with existing customers versus the downshifting of SKUs versus lower capacity expansion. There is a nonrenewal factor, and there is a shrinkage of the seats.
+If you could just dissect that three different variables there, how do those trends look? And also, what is the first quarter -- maybe this is for Cameron, were the trends really start to normalize and when you would comp against this compounding effect of these three factors? When do the trends bottom out? Thank you so much.
+Henry Schuck
+--
+Founder and Chief Executive Officer
+Sure. So, I'll talk a little bit about the kind of the full cancellations, which we are seeing a little bit more of that, particularly as our small business customers are challenged. But the bigger issue is, more down selling that we see, particularly in technology. A bunch of that is reducing seats, but we also have customers that are just looking to spend less as they're looking to optimize their cost structure.
+So, oftentimes we'll see not only a seat reduction, but sometimes a downshift from a lead to advanced or perhaps removing some of the other functionality that they either aren't using or don't perceive the same level of value in. So, you know, I think the softness for us is more focused on seats, but we do see it in other places in terms of people trying to reduce their spend and really just trying to get to a spend point, particularly as it relates to new sales for them. They're trying to take that down as much as they can. And I think for us, you know, when does that bottom? We're expecting a worsening environment through the remainder of the year in this renewal cycle.
+And then our belief is that, once we see the other side of that, once these customers are kind of fully, call it, lapping their higher layoff watermarks and the rethinking of their cost structure that there is the opportunity for us to accelerate that sequential growth, particularly in a world where, you know, ideally, we'll see a stabilization and improvement in the macro environment as well.
+Operator
+Thank you. One moment for our next question. Our next question comes from Josh Reilly with Needham. Your line is open.
+Josh Reilly
+--
+Needham and Company -- Analyst
+Yes. Thanks for taking my questions here. If you look at the churn that's kind of coming online here a little bit more than expected, how much of that is seats within the company and contact database subscriptions versus the advanced functionality products? And how should we think about the growth trajectory of advanced functionality here relative to the company and contact database subscriptions for the balance of the year?
+Henry Schuck
+--
+Founder and Chief Executive Officer
+So, certainly, we do see a fair amount of pressure within, I'll call it, the core functionality that we offer. And, you know, a big part of that is seat reductions from clients that are looking to optimize their spend levels. There is some pressure on what I think of as advanced functionality, but advanced functionality does continue to grow much more quickly than the core data functionality that we offer is evidenced by the fact that it's now a third of our kind of total revenue. I think that as we think forward, you know, I think the renewal opportunity for us will continue to be challenged through the remainder of the year based on our guidance.
+And I'd expect a similar dynamic where customers will be looking to optimize their spend and some of that will come from reducing the seats that they're utilizing. And I think that when they have the opportunities, they may also look to reducing some of their advanced functionality, you know, where they can.
+Josh Reilly
+--
+Needham and Company -- Analyst
+And then just a quick follow-up on that. When these customers, like the one in the opening example, come to you and say I want to reduce their seats from a 100 to 20. Are you letting them cut their contracts before renewal? Or how are you managing these down sells as maybe more coming in, in the near term here than you previously expected?
+Henry Schuck
+--
+Founder and Chief Executive Officer
+Yes, pre-renewal, what we're trying to do with them if they've laid off a chunk of their go to market teams, which, you know, we're obviously seeing a lot of. What we're trying to work through with them is this kind of centralized data strategy that I talked about with transportation and logistics company where they can exchange essentially their seats and SalesOS for data that cleanses and enriches their CRM marketing automation systems, their Snowflake or Databricks databases. And so, we're driving them to this centralized data strategy, which with that transportation and logistics firm actually increased overall spend with ZoomInfo. But our goal is to maintain that spend when there is a drastic cut until renewal, and we know that at renewal time, if we can swap in data as a service and enrichment then we can maintain that spend.
+Cameron Hyzer
+--
+Chief Financial Officer
+But just to be clear -- yes, just to be clear, we don't allow customers to reduce their spend before the renewal. But we do encourage people to swap in services that they can use if they're not using all of their seats or some other portion of their functionality.
+Operator
+One moment for our next question. Our next question comes from Koji Ikeda with Bank of America. Your line is open.
+Koji Ikeda
+--
+Bank of America Merrill Lynch -- Analyst
+Hey, guys. Thanks for taking the question. I wanted to ask you a question on how to think about when revenue growth could bottom and potentially reaccelerate. So, when we look at the full year guidance here, the implied exit growth rate is right about 3%.
+So, if that proves true and we look at the setup for 2024, you know, the first half of 2024 really has some tough comps here. And I realize you're not guiding to 2024 today, but just how should we be thinking about when revenue growth could bottom and start to reaccelerate?
+Cameron Hyzer
+--
+Chief Financial Officer
+Yeah. So, at this point, we are not guiding to 2024. We do continue to believe that the current momentum in the business is best measured by the sequential revenue growth that we generate. We're expecting that we will have challenging renewal cycles through the end of the year.
+We do believe that once we get through these renewal cycles, and realistically, I view the peak of kind of layoffs and negativity as being probably Q1 of 2023. So, once we're through the renewal cycle that lapsed that, I do believe that there's the opportunity to reaccelerate growth, particularly as the macroeconomic environment potentially stabilizes or improves in that time period as well.
+Koji Ikeda
+--
+Bank of America Merrill Lynch -- Analyst
+Got it. Thanks, Cam. And just maybe one follow-up here. Net revenue retention realized, it was 104 exit in 2022.
+And I know you guys don't give it on a quarterly basis. But any sort of commentary or color on, you know, what did it look like in the second quarter and maybe even bifurcate it between software and other verticals, too? Thanks, guys.
+Cameron Hyzer
+--
+Chief Financial Officer
+Yes. So, we continue to see pressure, particularly in the software world. So, I think if you back into the guidance, you'd see that our expectations for net revenue retention are closer to 90% or even in the high 80%, you know, through the end of the year, assuming the incremental pressure that we expect in Q3 and Q4.
+Koji Ikeda
+--
+Bank of America Merrill Lynch -- Analyst
+Got it. Thanks, Cam. Thanks for taking the questions.
+Operator
+One moment for our next question. Our next question comes from DJ Hynes with Canaccord Genuity. Your line is open.
+DJ Hynes
+--
+Canaccord Genuity -- Analyst
+Hey, guys. Henry, did advancements in AI in any way make it easier for data upstart to ramp up or companies themselves to source more of their B2B data independently without the need for a third-party solution? I'm just -- I'm trying to assess, like, whether AI could actually create a competitive shift against you guys in any way.
+Henry Schuck
+--
+Founder and Chief Executive Officer
+DJ, I have spent a ton of time trying to really understand that question and try to really understand how generative AI could help a start-up sort of jump out of the gates with something that was maybe more unique or accurate or had more coverage. And I've had the smartest people here at ZoomInfo who spend time on that as well. And everywhere we look, what we realize is that, ultimately, what generative -- what's the large language model, whether it's Bard or OpenAI, or anything else are doing is that, they're collecting data from the public web. And we collect data from the public web too and we incorporate it into our platform.
+It's additive, but it's not the reason why customers buy ZoomInfo. They buy ZoomInfo for all of the proprietary data, all of the proprietary signals and the proprietary data asset that we're able to put together through our community addition, through our customer contributory network, through our DSP that collects intent data, through our social graph that gather IP to company data. These are unique proprietary data signals across billions and billions of data points that are not available publicly and they're not available on the LLM. And so, if you want to know the 10 largest companies in Atlanta, the LLM is pretty good at telling you that.
+But any further than that, you get really stuck with sort of either junkie data, not available data, not accurate data. And what we know from 17 years of operating in this space is that 70% accuracy, 80% accuracy data just does not do the trick for B2B sellers and B2B marketers. And so, not only is the dataset incredibly proprietary and not available, but also that additional work that we've done to take data sets to 90%, 95% accuracy. That work is necessary for sales and marketing professionals and it's where we make a really big difference.
+DJ Hynes
+--
+Canaccord Genuity -- Analyst
+Yes. OK. That makes sense. Cameron, one quick one for you just on guidance philosophy.
+I mean, I hear you talk -- it sounds like you're taking a pretty cautious outlook at the back half of the year. Would you say there's more conservatism in there than may have been contemplated in prior periods?
+Cameron Hyzer
+--
+Chief Financial Officer
+Yeah, there's more conservative in there than may have been contemplated in prior periods. I think we're seeing -- you know, we're continuing to see a degradation in the trend, particularly with respect to software and technology clients, but just overall renewals. And we think it's a healthy point of view to expect that to degrade in the second half of the year versus our prior guidance had assumed a stabilization, which we did see at the end of Q1 and beginning of Q2. But I think that given what we saw in June, it's a healthy view to insert more conservatism into the second half.
+DJ Hynes
+--
+Canaccord Genuity -- Analyst
+Yes. Understood. Thank you, guys.
+Operator
+One moment for our next question. Our next question comes from Michael Turrin with Wells Fargo. Your line is open.
+Michael Turrin
+--
+Wells Fargo Securities -- Analyst
+Hey, thanks. I appreciate you taking the question. I just -- I want to go back to the commentary on renewal impacts and the degradation and just see if we can spend some more time just understanding what's assumed for the back half? And maybe if there's any way to just think through how that compares to today. And part of the question is just intended to understand the software cohort.
+Is it fair to assume that that sector is more biased toward the end of year? And if that seasonal shape is right, just help us think through how you're approaching forecasts into that group with what's embedded here for the rest of the year? Thanks.
+Henry Schuck
+--
+Founder and Chief Executive Officer
+Yes, sure. So, yes, the software cohort is a little bit more weighted toward Q4 than other quarters, but we do see, you know, software expirations and renewals, obviously, in every quarter. What we really began to see at the end of Q2 was that those renewals that were more challenging last year and where some people have taken out some of the overbuying from previous timeframes, yes, I think you naturally would have assumed that those might have been a little bit more stable in the kind of as we come into that second renewal with them. And what we've seen is that, they've renewed for even less.
+And part of that is that, their view of the world has probably degraded since they first saw the kind of challenges in their business. And I think that for many companies that view of the world continued to degrade through to Q1 of 2023. So, based on that evidence where we're seeing more challenging renewals for those customers in this kind of first set that we're really renewing at the end of Q2. We think it's a prudent way to view the world to assume that that gets even worse in Q3 and Q4 as we go forward.
+And so, that is the assumption that we're built the guidance off of.
+Michael Turrin
+--
+Wells Fargo Securities -- Analyst
+A tiny follow-up, you mentioned June worsening. Is there anything you can add just if that has held consistent through July or where we currently sit?
+Henry Schuck
+--
+Founder and Chief Executive Officer
+I think July is consistent with June. So, it hasn't necessarily worsened, but it's not certainly not gotten better and stay consistent with where we ended the quarter.
+Michael Turrin
+--
+Wells Fargo Securities -- Analyst
+Thank you.
+Operator
+One moment for our next question. Our next question comes from Parker Lane with Stifel. Your line is open.
+Parker Lane
+--
+Stifel Financial Corp. -- Analyst
+Yes, guys. Thanks for taking the question. Henry, when you look at the 40% growth in 1 million plus customers this quarter, I was wondering if you could give us a better understanding of the composition of those customers. Obviously, there's a lot of headwinds in the technology and software space, but when you look at the uptick there, is that primarily that cohort that is evolving into $1 million plus? Are you seeing healthy amount of sort of nonsoftware and technology companies coming in there as well?
+Henry Schuck
+--
+Founder and Chief Executive Officer
+Yes, we're seeing a good amount of financial services companies come in there. We're seeing transportation and logistics companies find their way in there. And then, we are still seeing sort of large enterprise tech has weathered this storm in a very different way. They're not going from a 100 sales rep to 20 sales reps like the example that I talked about.
+And so, they continue to be large customers in our $1 million cohort. And then, that cohort is buying a multitude of our platforms. They're buying SalesOS. They're buying data out of service.
+They're buying MarketingOS. There's not a single customer in the $1 million cohort that's buying just one platform or one product offering from ZoomInfo, and so they're buying multiple of the product. And so, in the strategic enterprise, we're seeing that multi-product strategy really play out for us. And it's -- there still continues to be a decent amount of software and technology companies in the $1 million cohort, but it's also -- we're also seeing these new entrants come in as well.
+Parker Lane
+--
+Stifel Financial Corp. -- Analyst
+Got it. Thanks for the color. I'll jump back in the queue.
+Operator
+One moment for our next question. Our next question comes from Alex Zukin with Wolfe Research. Your line is open.
+Alex Zukin
+--
+Wolfe Research -- Analyst
+Hey, guys. Thanks for taking the question. So, maybe just at a high level, if we think about the percentage of the business in the tech vertical, the 35% down from 40% a year ago. Where does that -- like as you exit the year, if we think about kind of a low single digit growth rate to exit the year, as we think about the rest of, you know, the nontech cohort growing ACV at 20%, like, I know you're not giving guidance for calendar 2024.
+But at a high level, we're trying to all get a sense around the magnitude of the deceleration and at least a map on how it gets back on track. And so, is the thought process here that, look, tech overbought, they prebought, and now, you know, they are rightsizing. And over the next 12 months, you know, tech is going to go from 40% to 10% of the business and then this 20%, that's the rest of the business is going to drive a reacceleration back into the teams? Or what's -- like build us the math, if you will, at least conceptually for how you don't grow low single digits next year?
+Henry Schuck
+--
+Founder and Chief Executive Officer
+So, I would continue to think of the world, Alex, in terms of sequential growth. And I think as we think about sequential growth certainly through the current renewal cycle, which would take us through Q4 and maybe Q1. I do think that we're going to have a challenging timeframe. I think that after that, there is the potential for tech to have cleared out their historical overbuying.
+And yes, depending on where that business -- where their own businesses goes to the extent that they start thinking about growth in their business again, there's the potential for that segment of our business to improve. And I think with respect to the other industries that are out there, those are industries that we are still very lightly penetrated in, that there's a ton of opportunity for us to continue to help people modernize and improve their go to market motions. And, you know, while there's inertia, many of those businesses have been around for decades, sometimes centuries, we have good success in helping them go to market in a more advanced way. And I think that, yeah, we'd like to see that part of the business continue to grow at a good clip that overall between those two, we do see some opportunity to accelerate from the sequential growth that we'll see in the second half of this year.
+Cameron Hyzer
+--
+Chief Financial Officer
+And I think, Alex, one of the things that we're doing internally operationally is giving our -- working with those customers as they downsize so that they stay with us and we have an opportunity to grow with them in the future. We have another customer example that had literally 600 salespeople in 2021 has 20 today. And that's a contract that was in our 100k cohort and is now a $30,000 a year contract. But our mentality around that is, let's work with this customer, let's keep the contract.
+We're both on the same page about growing back up with them in the future. And so, from a gross retention perspective, we're doing everything we can to hold on to those customers so that as they turn the corner and start thinking about growth again that we're a trusted partner on that journey.
+Alex Zukin
+--
+Wolfe Research -- Analyst
+That makes sense. And then I guess maybe just from the AI angle. A lot of companies have either talked about products or SKUs or strategies. And as I kind of sit back and think about ZoomInfo, you're kind of at the center of making sure that the data pipeline is healthy, that the data is clean, that the data is accurate, when you think about your ability to monetize, productize, and create a new growth lever from your what looks like strategic positioning, is that a six months? Is that a quarter? Is that a year? Is that part of the advanced SKU like how does that ultimately look for you guys?
+Henry Schuck
+--
+Founder and Chief Executive Officer
+Yes. Look, I think about this in a couple of ways. One is, everybody is pretty focused on the last mile when it comes to generative AI and go to market. And so, when you hear people talking about it, can you write the email for me? Can you contextualize the email for me? Can you make it personalized and one-on-one to my customers for me? And they get really wrapped around and excited about that last mile of generative AI, which by the way, generative AI is the best at being able to kind of right things when fed the right prompt.
+And what they lose focus on is everything that has to go into the model to actually get you good context, good content on the way out. And so, we think we're really well position, number one, to say, hey, if you really focused on that last mile, then you can't get there without an infrastructure element of our data, feeding that continuously, keeping it enriched and up to date and giving you a full view of the customer that you're reaching out to. I think secondly, we think we're in a pretty interesting position to actually deliver the last mile as well. And so, internally, we have a number of generative AI projects that are already out in beta in our customers' hands that they're testing, everything from search in our platform to contextualize emails based on Chorus conversations and ZoomInfo Data.
+Those are already out with customers. And the ones that we believe will drive the most value for our end users, we're going to release. We expect to have a number of releases in the back half of this year, around there.
+Alex Zukin
+--
+Wolfe Research -- Analyst
+Perfect. Thank you, guys.
+Operator
+One moment for our next question. Our next question comes from Taylor McGinnis with UBS. Your line is open.
+Taylor McGinnis
+--
+UBS -- Analyst
+Yeah. Hi. Thanks so much for taking my question. This might be a tough one to answer.
+But, Cameron, you mentioned some of these customers that may have overbought. So, as we look throughout the rest of the year, I guess, where do we stand in terms of innings maybe and working through those renewals where customers may have overbought are still right sizing? Is there still a fair amount of those customers that are coming up for renewal in 3Q and 4Q of this year? And maybe any color you can give on how this upcoming renewal base might compare to what we saw in the first half of this year and 4Q of last year. Thanks.
+Cameron Hyzer
+--
+Chief Financial Officer
+Yeah. So, certainly, I think based on our guidance and the view that the renewal environment could get more challenging as we go into the third and fourth quarter. There are definitely a bunch of clients who still have the potential to down sell in the second half. I think that when you think about their overbuying, part of this is a question of overbuying and what's their base.
+And to the extent that their view of the world changed between when they, you know, renewed perhaps in September, November, December versus where it is coming this year. I think that's the conservatives that we want to make sure that we've built in because we're seeing those customers that did put additional scrutiny on renewals in June of last year as the environment started to, you know, degrade for most customers. And then we're seeing them come back and further reducing their spend with us. So, I think in terms of this renewal cycle, this renewal cycle probably goes through Q4, if not Q1.
+And I think that, you know, you can you can decide what inning that is, but it's certainly not the seventh or eighth.
+Taylor McGinnis
+--
+UBS -- Analyst
+Great. Thank you so much.
+Operator
+One moment for our next question. Our next question comes from Raimo Lenschow with Barclays. Your line is open.
+Raimo Lenschow
+--
+Barclays -- Analyst
+Hey, thank you. Can I just -- I'm sorry to kind of beat the dead horse here. But if you think about, Cameron, what you saw in Q1, Q2 on renewals and the day seats outstanding that you delivered in that? And then if I think about the second half where you are you kind of hitting some comps, that already kind of -- had kind of peeking down numbers, why would it get worse? You know, like, at the moment you, Cameron, renewing clean renewals from people that had never cut anything and you're getting, like, a certain number out there, in the second half, you kind of renew people that already kind of cut once and kind of might cut again. Like, why is it getting worse? Like, I might have a mental blockage here.
+Cameron Hyzer
+--
+Chief Financial Officer
+And that is the -- that is what we are laying out, Raimo, is that a normal mental model of they cut once last year and therefore that has the potential to, you know, be more smooth this year. That created room in our kind of previous view that there are other ones that didn't cut last year that we have room to reduce against and that we should see a kind of stable environment in terms of sales efficiency. What we're saying is that, the June cohort, which are really the first one, you know, that really were able to apply that additional scrutiny based on pressure they were seeing in their businesses last year. Those are renewing worse.
+So, in a world where those are renewing worse and the ones that didn't have that sort of scrutiny last year who are a little late to the game also have potential risk to them. That creates a harder environment than we had last year.
+Raimo Lenschow
+--
+Barclays -- Analyst
+Yes. OK. Perfect. OK.
+That's all I had, actually. Thank you.
+Cameron Hyzer
+--
+Chief Financial Officer
+Sure.
+Operator
+One moment for our next question. Our next question comes from Brad Zelnick with Deutsche Bank. Your line is open.
+Brad Zelnick
+--
+Deutsche Bank -- Analyst
+Great. Thanks so much for taking my questions. You know, Henry, I appreciate your answer to Alex's question about generative AI and delivering the last mile. But in the world that's moving pretty fast with Sales Copilot from Microsoft, Sales GPT from Salesforce and everybody singing the AI song.
+Is there any reason to believe this is maybe another factor slowing down customer decisions as they acclimate to all this change that's happening around them?
+Henry Schuck
+--
+Founder and Chief Executive Officer
+I haven't seen any evidence of that when I talk to our customers. I haven't seen any evidence that the pace of change with generative AI is driving a slowdown in their decision-making. So, I couldn't tell you that that's something that is happening today or a trend that I would see in the future. What I will tell you is, whether you're using Microsoft's Copilot or you're using Salesforce's Einstein or you're using anything else from a generative AI perspective in your go to market motion, it has to go grab data that exist somewhere in your systems in order to generate who you should be reaching out to, why you should be reaching out to them, when you should be reaching out to them, what you should be saying to them, what technologies and partners they currently use, whether they just raised funding, how big they are, who the CIO is, who the direct reports to the CIO is, how to actually get in contact with them.
+And so, all of that gets forgotten because the LLM can write a really great message. But what goes into it is largely going to be leveraged from the systems you already have. And if you go around any customer and you ask them how do you feel about the data in your CRM? How do you feel about the data in your marketing automation system? How do you feel about the data accuracy in your data warehouses, not a single one of them will tell you it's good enough to put into a generative AI model to spit out automated content that gets sent out to their most important customers? And so, we sit in a really important position today as customers go to leverage those tools and begin realizing that they actually can't leverage them in a real way unless they're coming to ZoomInfo. We have a large -- this quarter, a large multinational media company came to us with exactly that vision.
+We want bespoke messages sent out to our customers using generative AI. And as soon as they came up to try to deliver that, they realize, well, we don't really have the data to be able to write bespoke messages to the right customers at the right time with the right messaging. And so we become that infrastructural element. Now it's incumbent on us to make sure customers understand us for that.
+But that is a meaningful change in the world that should be a tailwind for us in the future.
+Brad Zelnick
+--
+Deutsche Bank -- Analyst
+Thanks for that color, Henry. That's really helpful. Cameron, a quick one for you. Is it fair to assume your average discount is actually improving as customers cut seats? Because I have to believe it's critical that the reps your customers have left that they be as productive as possible.
+So, are you able to renegotiate pricing up in the direction of list price as seats compress? Thank you.
+Cameron Hyzer
+--
+Chief Financial Officer
+At this point, we haven't seen a material improvement with respect to that. And I think a big part of that is that, we have a number of customers that are struggling with their business and we want to make sure that we continue to be good partners with them. So, we've gone out to our AM team and started to give them more prescriptive pricing, which is, if it's a company that's growing and using the platform a lot, yes, we're going to drive a price increase. If it's a customer that's really struggling and has lowered their headcount and therefore lowered their usage and everything else, we're going to work with that customer to get them a price point that makes sense for them and that we can grow with them in the future once they turn that around.
+Brad Zelnick
+--
+Deutsche Bank -- Analyst
+OK. Thank you so much.
+Operator
+One moment for our next question. Our next question comes from Brian Peterson with Raymond James. Your line is open.
+Johnathan McCary
+--
+Raymond James -- Analyst
+Thank you. This is Johnathan McCary on for Brian Peterson. So, it's kind of related to some of the previous questions. I know there's lot of time spent on software, but hoping we could touch on some of the other verticals, how those trended in terms of linearity.
+I know you mentioned that non-software is now 65% of total revenue. So, how much of that is business services versus other industries? Any color there would be helpful. Thanks guys.
+Henry Schuck
+--
+Founder and Chief Executive Officer
+Yes. So, business services actually continues to do reasonably well kind of in line with that 20-plus percent growth rate. Really depends on the vertical. The best-performing verticals are things like transportation, logistics, and financial services.
+But we do see that a number of those, I'll call them, more traditional industries, continue to do much better and continue to look for ways to improve their efficiency with respect to go-to-market.
+Operator
+One moment for our next question. Our next question comes from Brent Bracelin with Piper Sandler. Your line is open.
+Brent Bracelin
+--
+Piper Sandler -- Analyst
+Good afternoon. Henry, I'm going to step back from some of the near term challenges and try to get your view on the industry as a whole. How much vendor disruption, given some of the challenges you're seeing, do you think occurs? There's a plethora of sales tech apps out there, it sounds like software industry conditions are challenging and will persist here. Consolidation was a really important tool helping you build this $1 billion software platform over the last 17 years? How important and how much will you lead in on consolidation going forward? Thanks.
+Henry Schuck
+--
+Founder and Chief Executive Officer
+Thanks, Brent. I think, look, right now, we did a lot of acquisitions over the last 24 months. We feel really good about those acquisitions, but we're really focused on driving value for our customers against those acquisitions. And I think we get there by having an incredibly integrated suite of those applications.
+Right now, we're not focused on M&A from a consolidation perspective. We do think that there are tremendous amount of tools in sales tech land. And the most important tools we believe are those that drive really obvious value to sales development reps, account executives, and account managers. We think we have a real opportunity to be the single pane of glass for those end users.
+And I think we get there by having data insights, by having the ability to use our platform to engage with your customers and then be able to use tools like Chorus to win faster with those customers. And so, we're really focused on making all of that really, really easy to use for our customers. I think, finally, when it comes to generative AI in this space, one of the places where we really think we can get a lot of value out of it is by simplifying the user experience. And a number of the betas that we have out today with customers, we can see opportunities to take something that would take 10, 15, 20 clicks, and bring that down to one or two clicks via leveraging generative AI and the user experience.
+And so, we're pretty excited about that and how that can drive better usage and adoption and engagement among our customers.
+Brent Bracelin
+--
+Piper Sandler -- Analyst
+Helpful color. Then my last question here for Cameron is back on the renewals. Are you seeing the downgrades across all software cohorts? Is it concentrated within smaller venture backed cohorts that are focusing on profitability? Just trying to understand how broad based and pervasive the renewal downgrades are across that whole software cohort? Thanks.
+Cameron Hyzer
+--
+Chief Financial Officer
+And it is more focused in the mid-market and maybe a little less so, but still we see it in kind of small software companies as well as the smaller end of enterprise. I do think, once you get up to larger enterprise software customers, they tend to act like larger enterprise companies in general. But, yes, more focused in kind of the mid-market than anywhere else.
+Brent Bracelin
+--
+Piper Sandler -- Analyst
+Helpful color. Thank you.
+Operator
+One moment for our next question. Our next question comes from Rishi Jaluria with RBC Capital Markets. Your line is open.
+Rishi Jaluria
+--
+RBC Capital Markets -- Analyst
+Wonderful. Thanks so much for squeezing me in. Just one question on my side. How would you think about any potential changes in pricing and packaging given the top demand environment and continued macro challenges? And the reason I asked that is, some customers and partners you've talked to have maybe bought at the high ticket price in this economy.
+Would you maybe consider making some changes there, especially just to make the on ramp for new customers and new use cases a little easier and a little less daunting in first class. Thank you.
+Henry Schuck
+--
+Founder and Chief Executive Officer
+Hey, Rishi, thank you for the question. I think -- look, I think of this in two ways. Number one, we have to do a better job of demonstrating the value that we're creating for our customers. And so we have to do a better job of showing them how our data, our insights, our platform is driving value for them.
+I think the disconnect around pricing maybe that you're hearing is that, we're not doing a better job in quarterly business reviews and executive conversations to really highlight the value that we're driving for our customers. That being said, I think there is an opportunity in our SMB, particularly in our SMB segment, to simplify pricing and packaging to bring together a number of the areas in our platform that we think drive the most value for our customers and can get them to a higher sense of that value faster by simplifying pricing and packaging. And we're -- we'll be out in market testing now with a number of our SMB customers in the quarter.
+Rishi Jaluria
+--
+RBC Capital Markets -- Analyst
+Wonderful. Thank you so much.
+Operator
+One moment for our next question. Our next question comes from Siti Panigrahi with Mizuho. Your line is open.
+Siti Panigrahi
+--
+Mizuho Securities -- Analyst
+Thanks for taking my question. You guys talked, you know, about renewal was somewhere mid-90s, but now expecting maybe high 80s. That means your new sales has to really grow either in line to better what you expected in the beginning of the year. Wondering what sort of changes you guys have done after Dave joined and that gives you increased confidence on achieving that target?
+Henry Schuck
+--
+Founder and Chief Executive Officer
+Yes, Siti. I think if -- when I run the model and the guidance, I do see that new sales would also be down modestly from where we were at the beginning of the year. We do see that new sales continues to do reasonably well, but the assumption would still be that it's, you know, down from last year based on how I run out the guidance model.
+Siti Panigrahi
+--
+Mizuho Securities -- Analyst
+Got you. Thank you.
+Operator
+One moment for our next question. Our next question comes from Patrick Walravens with JMP Securities. Your line is open.
+Pat Walravens
+--
+JMP Securities -- Analyst
+Great. Thank you. So, Henry, one of the comments we got from a customer was, and I'm sure you've heard similar things to this, that we are locked down on all spending until the market turns the corner. So, , I'm curious -- what do you think they -- what are these companies thinking? Like, what is it they're looking for? What is turning the corner for them? When did they start to feel like --
+Henry Schuck
+--
+Founder and Chief Executive Officer
+Well, if I had that crystal ball, Pat, that would be -- we could have a lot more visibility. But I think that what they mean is -- here's what I see those types of customers doing. They basically decided there's no opportunity for growth in the new customer segment. And so, we're not going to go out and try to acquire new logo, the new customer.
+Instead, we're going to take all of the resources away from new business and we're going to focus them on the customer business. And we're going to just make sure that we keep all of our customers and that we can grow them marginally. And then, once we see that trend changing in our customer base, maybe we'll start to add more resources on the new business side. And so my expectation is that, they are trying to see stabilization in their customer base before they go spend resources on acquiring the next logo.
+And I think as they start seeing that, we're obviously in a really strong position to help them. And so, for those types of customers, what we want to be able to do as mentioned to Alex is, let's keep you as a customer, we can do it in a smaller way and when you get to that point where you're starting to think about new customer acquisition in a more meaningful way, let us step in and help you there again. Now, in the meantime, from a product perspective, what that means for us and where we're spending a lot of time this quarter and for the back half of the year is to make sure that our products are designed with the user experience that lent itself really well to growing in your account base. And so, if there's an account manager interface and user experience that account managers can plug in the accounts and their customer base can start getting inside on them, who's growing, who's shrinking, who's hiring new, CIO, CMO, CFO, who's raising money, who's got a project relevant to your business.
+And I think that over the back half of the year, we can start releasing those types of products. It puts us in a great position to help companies grow their customer base in a more simplified way and then be in the right place when they go start growing their new logo acquisition side of the business as well.
+Pat Walravens
+--
+JMP Securities -- Analyst
+All right, great. Thanks for that perspective.
+Operator
+One moment for our next question. Our next question comes from Terry Tillman with Truist Securities. Your line is open.
+Joe Meares
+--
+Truist Securities -- Analyst
+Hey, guys. Thanks for taking the question. This is Joe Meares on for Terry. I'm just curious around the Databricks partnership, if you could go into a little bit of detail around strategic rationale there and then just from a broader view how you're thinking about partner strategy currently.
+Thanks so much.
+Henry Schuck
+--
+Founder and Chief Executive Officer
+Great. Thanks for the question. Look we think that when customers go to run propensity to buy models internally at their companies when they go to get a customer 360 view of their customers. When they want to use generative AI, the data that they're using to do that is going to exist in their CRM systems, their marketing automation systems, or their data lakes and data warehouses like Databricks.
+And so, the partnership with Databricks puts our data and our data cubes right where customers are doing that type of analysis or building those types of models and they can easily bring ZoomInfo data in and enrich their existing data and set it up so that they always have the most accurate and most enriched data inside the places that they're leveraging to build these models, to build territories and segments and propensity to buy models. We want to live natively where that's happening and for a lot of our customers that's happening inside of Databricks.
+Operator
+[Operator signoff]
+Duration: 0 minutes

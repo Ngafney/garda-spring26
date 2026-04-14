@@ -1,0 +1,172 @@
+[
+  {
+    "speaker": "Unknown",
+    "role": "",
+    "text": "Full Conference Call Transcript"
+  },
+  {
+    "speaker": "Paul Ricci",
+    "role": "",
+    "text": "Good afternoon, everyone, and thank you for joining us. Since stepping into this role two months ago, it has become clear to me that Luminar has leading technology and exceptional talent. But in order to realize our full potential, we must also operate with greater focus and discipline. We've taken steps to align our strategy, resources, and execution so that we enable sustainable progress toward our long-term goals. Our job now is to ensure that Luminar is not only leading on technology but also on execution. As we look ahead, there are four messages I want to leave with you. First, Luminar has unsurpassed technology and a significant opportunity ahead in the automotive market, as OEMs move to incorporate autonomous driving and advanced safety features more comprehensively. Nearly every global automaker recognizes LiDAR as essential technology, especially to unlock level three and beyond. Luminar is already working with some of the leading OEMs, including Volvo, Nissan, and Mercedes. We remain focused on meeting their program milestones and delivering the quality and performance they expect. We believe this performance will position us well to secure additional production awards. Accordingly, in Q2, we achieved a major technical milestone with a key OEM, successfully demonstrating our ability to detect objects as small as eight centimeters at distances of over 175 meters. This is a critical requirement on the path to production readiness and, to our knowledge, an industry best. This capability, now moving from control validation to public road testing, underscores why high-performance LiDAR is essential for enabling safe and reliable autonomy. In parallel, we continue to consolidate efforts around HALO. HALO is designed to take our LiDAR technology mainstream, delivering industry-leading range, point density, size, cost, and a form factor optimized for seamless integration and scalable production. We see HALO as a key to broader LiDAR adoption, enabling safer, more capable level three solutions and significantly expanding our addressable market. We continue to work closely with our OEM partners on our joint HALO development programs, in an effort to bring HALO to market as quickly as possible. With that said, widespread adoption of level three and higher autonomy is progressing more slowly than expected, which leads to my second point. While we remain committed to our OEM customers and the long-term automotive use case, we are placing a sharper focus on near-term revenue and profit opportunities in commercial markets such as trucking, security, and defense. We're seeing momentum in these sectors where autonomy and physical space analytics are advancing quickly, and the unit economics are more attractive. So rather than waiting for the level three automotive market to further materialize, we're acting now to pursue these commercial opportunities. In defense, for example, we've already built a good foundation both technologically and commercially. Our 1550 nanometer LiDAR technology was originally developed for military applications due to its long-range performance in adverse weather and stealth capabilities. Unlike 905 nanometer LiDAR, our sensors remain invisible to traditional silicon-based cameras, a crucial capability for covert operations. In fact, today, we're already working with customers on autonomous ground-based military vehicle programs. We believe that these engagements not only validate our differentiated technology but also lay the groundwork for broader adoption across the defense sector. We're also seeing growing momentum across aerial and marine applications. Air and sea drones have historically relied upon camera and GPS for navigation, but with GPS jamming becoming more prevalent, the industry is looking to LiDAR for positioning and situational awareness. These are just two examples of the opportunities we're pursuing. My third point is that we are rigorously reviewing the business to increase operational discipline and reduce operating expenses and cash burn. Specifically, we are exiting non-core initiatives like our data and insurance businesses, areas that are not aligned with our near-term priorities or paths to scale. These actions are expected to reduce operating expenses by nearly $23 million in gross rate run annual savings in 2026. We anticipate seeing the initial impact of these savings in Q4, with the full benefit reflected in our 2026 financials. We're also restructuring our supply chain to improve unit economics and support our customer programs more cost-efficiently. As series production forecasts declined significantly over the last year, we've determined that our existing Mexico-based manufacturing is no longer the best fit. As a result, we're transitioning production to Thailand, where we already produce our subcomponent assembly. This move enables us to streamline operations and consolidate production under one roof. We expect no disruption to customer deliveries and anticipate a benefit of a few hundred dollars per sensor to our unit economics once the transition is complete. Fourth, I'd like to highlight the meaningful progress made this quarter to strengthen our balance sheet. This has been and will remain a top priority to ensure we have the financial flexibility we need to execute our strategy. In fact, since August, we've reduced the face value of our 2026 convertible notes by approximately $442 million. This quarter has been no different as we continue taking steps to further enhance our financial position and reduce our debt burden, which Tom will cover in more detail shortly. Now I'd like to briefly comment on our financial performance this quarter and our revised 2025 guidance, which is affected by two primary factors. Number one, we've seen a continued reduction in production volume estimates, particularly for the EX90 program. This has negatively affected both our Q2 revenue and our outlook for 2025. For context, IHS forecasts for the EX90 have declined by approximately 15,000 units since the beginning of the year, which roughly aligns with the reduction of our 2025 shipment expectations. And number two, as I previously mentioned, we've made the strategic decision to exit non-core areas of the business, including winding down the data contracts. While this will help lower our operating expenses, it also negatively impacts our near-term revenue. Together, these factors explain the decline in revenue as well as the adjustment to our full-year outlook. Tom will cover these topics in greater detail. With that, I'd like to finish by discussing our operating milestones. In the past, we outlined a set of high-level milestones to guide our long-term vision. While those still inform our core priorities, we've introduced a new set of four specific actionable milestones. These better reflect where the business stands today and give our stakeholders a more tangible way to track our progress. First, we plan to complete the initial tape-out of our next-generation ASIC by the end of this year. Our custom ASIC is a foundational component of our long-term product roadmap and is critical to unlocking HALO's higher performance and cost reduction. Second, we expect to launch a high-volume production line in Thailand before the end of this year. As I mentioned earlier, this transition will better align our manufacturing with our near-term expected production volumes and support our efforts to improve sensor economics. Third, we plan to launch our HALO low-volume prototype production line in 2026. This line will serve as a foundation for scaling to high-volume production when ready. It represents a significant step toward bringing HALO into production and validating its manufacturability. And fourth, we're working toward delivering HALO B samples in 2026. This milestone will serve as a key validation point for our product maturity and readiness for industrialization. Together, these milestones form a clear execution roadmap, and we're committed to delivering against them. Now I'd like to pass it over to Tom to discuss Q2 financials. Thank you, Paul."
+  },
+  {
+    "speaker": "Tom Fennimore",
+    "role": "",
+    "text": "I want to start with an update on our capital structure. During the quarter, we secured a $200 million convertible preferred facility to strengthen our liquidity and extend our runway. At the initial closing in May, we issued $35 million of convertible preferred stock under this facility. We can issue additional tranches of up to $35 million every ninety-eight days, subject to customary closing conditions. Shortly after the initial closing, we repurchased $50 million in face amount of our 2026 convertible notes for 1,100,000 shares and $30 million in cash funded from the initial draw. Pro forma for this repurchase, approximately $135 million of the 2026 notes remain outstanding, down from $625 million a year ago, representing meaningful progress in reducing our near-term debt obligations. Our target is to reduce the remaining outstanding balance of our 2026 notes to below $100 million by the end of the year to avoid the springing maturity feature in the remainder of our debt. I'll return to our balance sheet and cash runway in a bit, but now let's turn to our Q2 financials. Revenue for the quarter came in line with guidance at $15.6 million, down 17% sequentially and 5% year over year. The decline in Q2 revenue was primarily driven by three factors: First, lower than expected NRE revenue as a development contract we anticipated closing by the end of the quarter was shifted to Q3 due to the customer expanding the scope of this contract and thus requiring additional time to finalize. Second, we shipped roughly 5,000 Iris sensors during the quarter, compared to 6,000 sensors in Q1, with the vast majority of these shipments going to Volvo. This 1,000 sensor quarter-over-quarter decline was due to lower demand from our lead customer. Finally, the wind-down of the non-data contract Paul mentioned earlier also contributed to a sequential decline in revenue. While the impact this quarter was modest, we expect a more meaningful reduction in revenue towards the end of the year as we reach the final stages of exiting this business. Now let's move on to gross margin. For the quarter, we reported a gross loss of $12.4 million on a GAAP basis and $10.8 million on a non-GAAP basis. This was below our guidance of negative $5 million to $10 million. This quarter, we recorded a $3 million non-cash warranty adjustment driven by updated assumptions as we completed the final reliability of our testing for Iris. Importantly, this reserve is not reflective of any actual customer issues in the field. Excluding this non-cash adjustment, our gross loss for the quarter would have been in line with the guidance we provided. Additionally, we incurred approximately $1 million in tariff-related charges during Q2, consistent with the prior quarter. As a reminder, we worked with our leading customers to significantly reduce our exposure to tariffs and don't expect any material tariff charges for the remainder of the year. Now let's discuss our cost actions and OpEx. OpEx came in at $27 million on a GAAP basis and $47 million on a non-GAAP basis. On a non-GAAP basis, OpEx includes $2.4 million of non-cash adjustment to true up the fair value of stock issued to our vendor during the quarter as well as $2 million for a non-recurring accounting charge related to the termination of the data contract. This was partially offset by continued cost-cutting actions, including subleasing of certain facilities, roll-up contractors, as well as other cost-saving actions. We ended the quarter with $108 million in cash and marketable securities. This excludes our $50 million line of credit that remains undrawn as well as $180 million available on our equity financing program and $165 million available under the convertible preferred facility. Taken all of this together, our total access to liquidity is over $500 million. In prior quarters, we reported cash and liquidity together, which included cash, marketable securities, and the $50 million undrawn line of credit. This quarter and going forward, we are going to discuss cash and marketable securities separately, for clarity and simplicity. Our change in cash during the quarter was $31 million, below the $45 million level from Q1. This was driven by higher proceeds from our equity financing program, which amounted to $28 million during the quarter. Free cash flow for the quarter was roughly $53 million, slightly higher than the $44 million in Q1 but significantly below the $78 million free cash burn from a year ago. The sequential increase we experienced during the quarter was driven by higher working capital investment following the restart of our Mexican manufacturing plant earlier this year. Let's move on now to 2025 guidance. For 2025, we're lowering our revenue guidance to $67 million to $74 million. This is lower than our previous implied outlook of $80 million to $90 million. This revision is entirely explained by two factors. First, lower revenue associated with the wind-down of the non-data contract discussed earlier. In addition to the modest near-term impact, we expect this wind-down to reduce revenue by approximately $5 million in the fourth quarter of this year and $21 million on an annual run rate basis. Second, we are reducing our total sensor shipment outlook by roughly 10,000 units in 2025. We now expect total shipments to be in the 20,000 to 23,000 sensor range this year, down from 30,000 to 33,000 units previously. For Q3, we expect revenue to be in the range of $17 million to $19 million. We continue to expect our quarterly average gross loss to fall within the negative $5 million to $10 million range, though likely more towards the higher end of this range due to the negative impact from the wind-down of the higher gross margin data contract. For 2025, we continue to expect our quarterly non-GAAP OpEx run rate will decline to the low $30 million range by Q4 of this year, although we anticipate a slight uptick in Q3 due to one-time costs associated with terminating the data contract. We also expect further cost reductions as we head into 2026. This will be supported by the winding down of our data insurance business, which will result in gross run rate annual savings of $23 million collectively, with the benefits expected to start in Q4 of this year. We expect to end fiscal year 2025 with $80 million to $100 million of cash and marketable securities, which excludes our $50 million undrawn line of credit. This is slightly below the previous outlook of greater than $100 million, primarily due to the slower pace of equity issuance under our equity financing program. Specifically, we expect to issue $25 million per quarter on average this year under our equity financing program, below our previous target of $30 million. On an annual basis, this results in about a $20 million difference in equity issuance for the year, which fully accounts for the delta in our year-end cash target. As I've communicated in prior quarters, we believe our current cash and liquidity position, as well as access to additional liquidity under our convertible preferred and equity financing programs, provides us with sufficient runway through 2026. I've also mentioned in the past we may require up to $100 million in additional capital to reach profitability, and we remain focused on aggressively executing on our cost reduction plan and streamlining our business to lower any additional funding requirements. We are in no rush to execute a transaction immediately, although we continue to evaluate our options for raising additional capital. That concludes my prepared remarks. And with that, I will hand it back over to Paul."
+  },
+  {
+    "speaker": "Paul Ricci",
+    "role": "",
+    "text": "Thanks, Tom. As we close this section of the call, I want to leave you with where we stand and where we're headed. Over the past quarter, we've taken decisive steps to reset Luminar, sharpening our focus, instilling financial discipline, and aligning the company around clear priorities. We're also pursuing new opportunities beyond automotive, where our technology is already unlocking growth in trucking, security, and defense. Our goal is to build a stronger, leaner Luminar that consistently delivers on its commitments and creates lasting value for our customers, partners, and shareholders. With that, I'll turn it over to the operator to start the Q&A portion of the call."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Thank you. As a reminder, to ask a question, please press 11 on your telephone and wait for your name to be announced. To withdraw your question, please press 11 again. One moment for questions. Our first question comes from Winnie Dong with Deutsche Bank. You may proceed."
+  },
+  {
+    "speaker": "Winnie Dong",
+    "role": "",
+    "text": "Hi. Thanks so much for taking my question. I was wondering if you can help us size the opportunities from some of the other adjacent markets that you were referring to before. And then if there's any update on, you know, potential customer engagements and how compatible will the HALO quality be for those end markets?"
+  },
+  {
+    "speaker": "Paul Ricci",
+    "role": "",
+    "text": "The commercial markets I've referred to are very large. I'm not prepared to give you specific sizes today. We will share customer information in future calls. We've not done that today. We do expect to leverage the HALO platform in our commercial markets as well as, of course, the automotive market."
+  },
+  {
+    "speaker": "Winnie Dong",
+    "role": "",
+    "text": "Okay. Thank you. And then maybe a second question. In the deck, I think there was a sentence that said, basically, the shipment of series production sensors were at unfavorable economics. I was just wondering if you can elaborate on that. Is it essentially, you know, lower volume? And then are there any sort of contract terms that can help offset in case, you know, customer volume comes in lower in the future? Thank you."
+  },
+  {
+    "speaker": "Paul Ricci",
+    "role": "",
+    "text": "Tom, you want to handle that?"
+  },
+  {
+    "speaker": "Tom Fennimore",
+    "role": "",
+    "text": "Sure. Winnie, this refers to the trend I've talked about over the last few quarters. Given the lower than expected volumes as we ramp up our initial EX90 program, we are underwater on the sensor economics. We're currently selling them at prices lower than what we can produce them at. We're taking actions to close that gap, as Paul mentioned on the call. One of those is transitioning more of the production over to Thailand, and we're going to continue to do what we can to close the gap. But that's a trend we've been talking about for the last few quarters just given the lower expected volume. The unit economics on IRIS aren't where we want them to be."
+  },
+  {
+    "speaker": "Winnie Dong",
+    "role": "",
+    "text": "Got it. Thank you so much."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Thank you. And as a reminder, to ask a question, please press 11 on your telephone. Our next question comes from Mark Delaney with Goldman Sachs. You may proceed."
+  },
+  {
+    "speaker": "Mark Delaney",
+    "role": "",
+    "text": "Yes. Good afternoon. Thank you for taking the questions. I also had a question starting with the commercial markets. Maybe you can elaborate on when you expect to begin realizing revenue from these other end markets? And when you think it could be at a material level?"
+  },
+  {
+    "speaker": "Paul Ricci",
+    "role": "",
+    "text": "As I mentioned in my call, we're realizing revenues today, and we're increasing our investment in our sales and marketing efforts in that area and expect that we will be able to grow those revenues over the course of 2026. We're not providing 2026 forecasts today. But it's already a material part of our revenues this year."
+  },
+  {
+    "speaker": "Mark Delaney",
+    "role": "",
+    "text": "Okay. And as you think about reaching non-GAAP OpEx into the low $30 million range, is that also going to be able to fund these adjacent opportunities? Or would there be additional investment needed on top of that low $30 million target in order to fund these play markets?"
+  },
+  {
+    "speaker": "Paul Ricci",
+    "role": "",
+    "text": "No. Those investments are consistent with the investment trade-offs we're making in the business to hit the OpEx target that Tom mentioned."
+  },
+  {
+    "speaker": "Mark Delaney",
+    "role": "",
+    "text": "Okay. One other one for me, if I could please, and I'll pass it on. As you think about the automotive market, you did mention the time frames for wider scale level three. And, you know, I think in the past, the company thought of ADAS as being the key market rather than robotaxis. Are you reevaluating where it makes the most sense for you to focus within the automotive industry? Do you still see ADAS as the key opportunity, or do you think robotaxis may be something you want to focus more on, especially given the industry momentum that's starting to build in the robotaxis area? Thanks."
+  },
+  {
+    "speaker": "Paul Ricci",
+    "role": "",
+    "text": "Well, I didn't mean to suggest that level three was referring specifically but rather to higher levels of autonomy within passenger vehicles. That's been an area that Luminar has been highly focused on and an area where the HALO architecture has its keenest advantages. That part of the passenger vehicle market has progressed more slowly than the company anticipated, and while it will occur, we're confident. We don't feel as confident in the timing of its progression and hence the reason for the relative emphasis on other market opportunities."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Our next question comes from Josh Patwa with JPMorgan. You may proceed."
+  },
+  {
+    "speaker": "Josh Patwa",
+    "role": "",
+    "text": "Hi. Good afternoon, and thanks for taking my questions. Maybe just to get started with guidance, could you help us unpack the downside revision to the full-year revenue guidance? Specifically, how much of the $15 million reduction is tied to lower sensor shipment expectations and how much of that would be attributed to the wind-down of the non-core data contract? Thanks, and I have a follow-up."
+  },
+  {
+    "speaker": "Tom Fennimore",
+    "role": "",
+    "text": "Yeah. And, Josh, I'll take this. So if you think about that $15 million delta, about two-thirds of it is related to the lower sensor shipments. Right? We took it from 30,000 to 33,000 down to 20,000 to 23,000. So that 10,000 sensor decline explains about two-thirds of the gap, and then the other third is related to the cancellation of the data contract that we talked about on the call."
+  },
+  {
+    "speaker": "Josh Patwa",
+    "role": "",
+    "text": "That's great. Just as a follow-up, maybe it would be great to, you know, hear your perspective on what positions Luminar to succeed in the smart applications or infrastructure market. I believe you're already seeing some traction, but some of your peers have been more focused on that market over the past couple of years. Just trying to get a sense of, you know, what sets Luminar apart."
+  },
+  {
+    "speaker": "Paul Ricci",
+    "role": "",
+    "text": "Well, as I mentioned, we have existing revenues in that market. We're participating now. We do have some technological advantages, we believe. We think we also introduce LiDAR capabilities at lower price points for that market than might otherwise be available. We're confident. And it's a big extensive market that's growing very rapidly today, so we're not overwhelmed by the initial participation of other participants."
+  },
+  {
+    "speaker": "Josh Patwa",
+    "role": "",
+    "text": "Understood. If I could just sneak one more in. Could you maybe provide an update on the partnership with Mercedes-Benz? It appears they're also considering alternative technologies from some of your competitors. What are you hearing from them regarding their approach and strategy? And how does Luminar fit in their future plans?"
+  },
+  {
+    "speaker": "Paul Ricci",
+    "role": "",
+    "text": "I think you were asking about Mercedes. Is that right? Yeah. We have a development agreement with Mercedes, and we're executing against the milestones in that development agreement. It is our hope that we convert that development agreement into a production agreement based on the achievement of those milestones and the strengthening relationship that comes along with that. But that remains a goal that remains a decision hour in the future."
+  },
+  {
+    "speaker": "Josh Patwa",
+    "role": "",
+    "text": "Great. Thanks for taking my questions, and good luck."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "And as a reminder, to ask a question, please press 11 on your telephone. One moment for questions. Our next questioner comes from Walter Bychak with LightShed. You may proceed."
+  },
+  {
+    "speaker": "Walter Bychak",
+    "role": "",
+    "text": "Thanks. Just an opportunity for a question. I figured I'd just kind of give you more of a 10,000-foot one. What are you hearing from Volvo as your partner in terms of the EX90? You know, I actually, someone in my firm purchased one, had all these issues with the digital keys. Just a disaster of a car. Unrelated, obviously, to your sensor, but just curious, like, what are they blaming this product failure on? And what do you think that means going forward in terms of, you know, maybe putting more technical effort there relative to their autonomy group, which, you know, on the trucking side, we've heard a variety of things. In terms of the investment that they're making or they're maintaining at least in the US on autonomy. And the knowledge base they have there. So can you just give us, to the extent you can, obviously, I know you know, most companies don't like to talk about their partners, but, like, some sense on what the future is for Volvo as a company and how that may help or hurt you in the future in terms of sales."
+  },
+  {
+    "speaker": "Paul Ricci",
+    "role": "",
+    "text": "I can't comment on Volvo's position in the automotive market. I'm not qualified to do that and wouldn't do it in any case. I can say they've been an excellent partner with us, and they've been an early leader in the deployment of LiDAR technologies. We work with them in the spirit of that and continue to support their efforts. I mentioned and Tom confirmed that forecasted volumes for shipments to Volvo this year have been lower than we anticipated. But we continue to work with them on deployment and towards completing a development production agreement for the next-generation HALO architecture."
+  },
+  {
+    "speaker": "Walter Bychak",
+    "role": "",
+    "text": "How do you think that market evolves? Meaning that do you think the OEMs like Volvo are trying to develop stuff internally and, therefore, your relationship with Volvo can evolve where they continue to use your existing and future sensor developments? Or do you see them more likely to partner as they shift from ADAS to full autonomy with external technology partners, which will then, therefore, I would assume, put more pressure on you to develop partnerships with technology companies that use LiDAR. So how do you see that over the next three years, that market evolving, the importance of, you know, the relationship with the OEM, versus the relationship with the autonomous or level four technology company?"
+  },
+  {
+    "speaker": "Paul Ricci",
+    "role": "",
+    "text": "Well, we'll have to see how things play out. But so far as we can see, many, most of the automotive manufacturers have a serious investment and commitment towards autonomous technology. And that includes sourcing LiDAR hardware and software from us in some cases. I expect the boundary between what they do and what we do and what others do to evolve over time. And I would be surprised if they jettisoned their efforts as your question might suggest, given the importance they attach to the value creation in those efforts."
+  },
+  {
+    "speaker": "Walter Bychak",
+    "role": "",
+    "text": "Yeah. I don't think I was trying to suggest that. I think maybe in my first question, I was noting at least on the trucking side, there's some clear indication that they've reduced people in the United States. But on the automotive side, which is a different company, I guess, different people, I was just more trying to figure out if you think, you know, three years from now, four years from now, your contracts are going to be driven by the OEM determining it versus, let's say, Volvo cuts a deal with Noro tomorrow, and Noro is going to be their technology partner, and then you got to work with Noro to be the LiDAR sensor in their stack if they end up, you know, having one or not."
+  },
+  {
+    "speaker": "Paul Ricci",
+    "role": "",
+    "text": "Well, Volvo is in the stages of, as are other manufacturers, of completing contracts now that determine production in 2027, 2028, and 2029. So I think the reality of three to four years from now is occurring now, contractually."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "This concludes the conference. Thank you for your participation. You may now disconnect."
+  }
+]

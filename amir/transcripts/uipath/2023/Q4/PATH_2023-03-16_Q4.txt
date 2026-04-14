@@ -1,0 +1,291 @@
+Operator
+Greetings and welcome to the UiPath fourth-quarter and full-year fiscal 2023 financial results conference call. At this time, all participants are in a listen-only mode. A question-and-answer session will follow the formal presentation. [Operator instructions] Please note, this conference is being recorded.
+I would now like to turn the conference over to your host, Kelsey Turcotte, senior vice president of investor relations for UiPath. Kelsey, you may begin.
+Kelsey Turcotte
+--
+Senior Vice President, Investor Relations
+Good afternoon and thank you for joining us today to review UiPath's fourth-quarter and full-year fiscal 2023 financial results which we announced in our earnings press release issued after the close of the market today. On the call with me are Daniel Dines, UiPath co-founder and co-chief executive officer; Rob Enslin, co-chief executive officer; and Ashim Gupta, chief financial officer. Rob will start the discussion and then turn the call over to Daniel. After that, Ashim will review our results and provide guidance, then we will open the call for questions.
+Our earnings press release and financial supplemental materials are posted on the Uipath Investor Relations website, ir.uipath.com. These materials include GAAP to non-GAAP reconciliations. We will be discussing non-GAAP metrics on today's call. This afternoon's call includes forward-looking statements about our ability to drive growth and operational efficiency and our financial guidance for the fiscal first-quarter and full-year 2024.
+Actual results may differ materially from those expressed in the forward-looking statements due to many factors, and therefore, investors should not place undue reliance on these statements. For a discussion of the material risks and uncertainties that could affect our actual results, please refer to our annual report on Form 10-K for the year ended January 31st, 2022, and other reports filed with the SEC, including our annual report on Form 10-K for the period ended January 31st, 2023, to be filed with the SEC. Forward-looking statements made on this call reflect our views as of today. We undertake no obligation to update them.
+I would like to highlight that this webcast is being accompanied by slides. We will post the slides and a copy of our prepared comments to our Investor Relations website immediately following the conclusion of this call. Now, I'd like to hand the call over to Rob.
+Rob Enslin
+--
+Co-Chief Executive Officer
+Thank you, Kelsey, and good afternoon, everyone. Thank you for joining us. We ended the year with a very strong fourth quarter, reflecting the progress we have made on our strategic initiatives and the strength of our AI-powered business automation platform. I'd like to thank the UiPath team and our partners for their hard work and focus throughout the year, as well as our customers for placing their trust in us.
+Ensuring customer success every day is the foundation of our future. ARR ended the year at $1.2 billion, driven by net new ARR of $94 million. Excluding the FX headwind of $38 million, total ARR grew 34% year over year. Fourth-quarter revenue was $309 million.
+Total revenue for the fiscal year was $1.1 billion. Excluding the full-year FX headwind of $71 million, fiscal year revenue grew 27% year over year. On the bottom line, a record fourth-quarter non-GAAP operating margin of 22% drove full-year 2023 non-GAAP operating margin to 6%. We believe the strong finish to the year accelerates our path to profitability and serves as a baseline for our fiscal year 2024 non-GAAP operating margin outlook of 9.5% and approximately 350 basis points expansion year over year.
+Executing a restructuring, driving efficiencies, and streamlining our organization has increased our focus, enhanced business agility, and leaves us well positioned to continue to expand our market share and leadership in automation. Driving growth at scale while increasing non-GAAP operating margin and non-GAAP adjusted free cash flow is central to how we manage the business. Our automation platform changes how organizations operate, innovate, and grow, enabling our customers to quickly see a meaningful return on investment. For example, in the fourth quarter, a North American warehouse retail chain expanded the UiPath deployment, adding task mining and software robots to scale their automation program across more than 330 outlets.
+Wins like this are a great example of how value selling with the right sales motion expands our footprint in existing customers. This is where our new go-to-market structure that creates coverage density and our new sales tools, like the North Star model, come into play. North Star is designed to help the team better articulate the tangible results our automation platform delivers, particularly to the C-suite, driving organizational focus around automation and firmly establishing UiPath as a strategic part of a customer's digital transformation journey. North Star also helps the team expand deals.
+During the fourth quarter, we closed a record number of deals over 1 million, increasing our cohort of customers with 1 million or more in ARR to 229. Customers with 100,000 or more in ARR increased to 1,785. The fourth quarter was a good backdrop for our February sales kickoff, where we train the team on the full platform and a variety of new tools to build intimacy with customers, sell outcomes, drive new logos, increase expansion, and build scale through partners. Looking ahead to 2024, the team is ready to go.
+Our enterprise and corporate segmentation models have been rolled out, and accounts are assigned throughout the organization. We also continue to leverage insights gleaned from our customers with a vertical sales motion. For example, in financial services, following a successful deployment at TD Securities, TD is now expanding automation across several lines of the business at the bank to deliver improved client experiences, productivity, and efficiencies. And in healthcare, Quest Diagnostics selected Document Understanding over other document processing competitors because of a high level of accuracy with both structured and unstructured data to help them analyze and process millions of documents.
+To support our vertical strategy, we have introduced solution accelerators which serve as templates to guide customers through deployments for common use cases. We have 10 solution accelerators available in our marketplace with initial offerings focused on finance, healthcare, and IT, and we plan to add additional verticals. Billed Right, a medical billing and operations company, is implementing two solution accelerators to automate the processing of healthcare-related data into administrative systems, expecting to save over 40,000 hours annually. Partners also benefit from the changes and investments we are making and our go-to-market resources.
+This includes global system integrators, as well as more regionalized partners, which not only expand our reach and scale but are instrumental in helping customers build and execute a robust automation program. For example, EY is helping the state of North Carolina incorporate Document Understanding and expand the automation program, from COVID-driven use cases to back-office automations, across the enterprise. And as we previewed at Investor Day, we are in the process of transitioning our smaller customers to our ecosystem of distribution partners, providing new sources of revenue for our partners and deeper enablement for these customers, while allowing our sales teams to focus on higher-value opportunities. Many of our partners also have very successful automation programs of their own, such as Capgemini and Ingram Micro, which expanded in the quarter as they continue to grow their internal automation programs and deliver our market-leading capabilities to their client base.
+And finally, you will notice we rolled out a new positioning for our brand earlier this week, which included the introduction of our new brand tag line, The Foundation of Innovation. This communicates, not only the power of automation to transform businesses today, but also the potential to fundamentally change how quickly customers can move from idea to execution. I am inspired by how much we've accomplished in our fiscal year 2023, launching our largest platform release to date, completing the groundwork for our next phase of growth, and delivering exceptional outcomes for our customers and partners. While there's always more work to do, I believe we are well positioned to drive UiPath to the next level as we enter fiscal year 2024.
+With that, I'll turn the call over to Daniel. Daniel.
+Daniel Dines
+--
+Co-Founder and Co-Chief Executive Officer
+Good afternoon, everyone. I would like to echo Rob's thanks to our team, customers, and partners who are all critical to our ongoing success. Before we move on, I'd like to add some color around this afternoon's 8-K announcing that Chris Weber, our chief business officer, is leaving UiPath. Chris will remain with us through a transition period that ends on April 30th, the last day of our first quarter.
+We wish him the best and thank him for everything he has done for UiPath. Moving forward, Rob will assume leadership of our go-to-market function as part of his day-to-day co-CEO responsibilities. As many of you know, Rob has over 30 years of sales experience at both Google Cloud and SAP, where he built a strong track record of growing sales organizations at scale. At the same time, our co-CEO structure has freed me up to spend much more time with our research and development team, which is where my passion lies.
+We have a market-leading platform, and our talent is a major competitive differentiator for us that will continue to strengthen our position in the market. I'm really excited to once again assume the day-to-day leadership of the R&D team. This streamlined organizational structure will allow us to move with even more agility and efficiency, which is good for UiPath and for our customers' growth. As we enter fiscal year 2024, I am pleased with how the teams are positioned and look forward to a strong year.
+Turning to the business highlights. I am gratified by our recent placement as a leader in The Forrester Wave: Robotic Process Automation report that was published in February. Among other things, the report states that we have evolved from RPA pure play into what we refer to as a business automation platform. It also notes that we have added capabilities such as process mining, intelligent document processing, API integration, and low-code app development to our product, thereby turning it into an automation platform.
+The Forrester report also acknowledges that our investments in software-as-a-service deployment and rearchitecturing the product to turn it cloud-native are paying off. We ended the fiscal year with over 350 million in cloud ARR, including both hybrid and SaaS offerings. A great example of a cloud-deploy customer is Pfizer, who continues to grow and expand their automation deployment by incorporating Test Suite, Automation Hub, and Process Mining to accelerate their delivery of operational excellence. We recently released new functionality in Test Suite to make it easier to migrate assets from legacy solutions to UiPath to provide tighter collaboration for application lifecycle management and testing tools.
+Not only does Test Suite open a new market in application testing for us, but it helps ensure quality and resiliency, which allows customers to automate faster. A great example is Swisscom, which, after successfully implementing RPA and Test Suite in their finance, IT, HR, and customer service departments, is rolling out automation across their entire organization to improve customer service, attract and retain talent, enhance operational efficiency, and launch new growth engines in B2B with automation-as-a-service. Our customers also benefit from real-time advances in AI. The role of AI in automation is not new for us.
+We have made significant investment in AI for years, and from inception, it has been infused into every part of our platform. For example, we use AI to build large language models for capabilities like Document Understanding and Communications Mining, which we acquired with Re:infer. During the quarter, we closed the largest Re:infer deal ever with the customer who plans to use it to interpret customer sentiment across millions of emails per year to reduce manual processing, client churn, and enhance customer experience. Coming later this year, Clipboard AI shows what AI can do for knowledge workers in their day-to-day roles by leveraging large language models and understanding the structures of content.
+Clipboard AI intelligently transfers data between documents, spreadsheets, and apps, eliminating the need for repetitive copy and paste. We plan to share more on this and other AI innovations at our AI summit later this month. We have always had an open platform and believe that the power of automation is best unlocked when you can work with every application and business system, including our ongoing relationship with OpenAI. Later this quarter, we plan to release a preview of our GPT connector that will allow users of our local development tools to easily utilize GPT to generate content in automations.
+There are countless use cases where customers can benefit from software robots that are able to write content and generate responses. Our vision is to arrive at a place where anyone can train and use AI to make their work easier and more productive. Looking ahead, the automation market presents a massive opportunity, and we remain focused on building a generational business that drives shareholder value through growth at scale, margin expansion, and meaningful, positive non-GAAP adjusted free cash flow. With that, I will turn it over to Ashim.
+Ashim Gupta
+--
+Chief Financial Officer
+Thank you, Daniel, and good afternoon, everyone. Unless otherwise indicated, I will be discussing results on a non-GAAP basis, and all growth rates are year over year. I also want to note that since we price and sell in local currency, FX continues to be a headwind to our results. The tangible value automation creates is resonating with customers, particularly in a constrained environment.
+And while we expect ongoing macroeconomic variability and FX headwinds, we enter fiscal year 2024 positioned to execute. Turning to the fourth quarter. ARR totaled $1.2 billion, an increase of 30%, driven by fourth-quarter net new ARR of $94 million. Full-year net new ARR totaled $279 million.
+Excluding the FX headwind of $15 million, fourth-quarter net new ARR totaled $109 million. For total ARR, excluding the FX headwind of approximately $38 million, total ARR grew 34%. We ended the fourth quarter with approximately 10,800 total customers, including new logos like the Dana-Farber Cancer Institute, Zoetis, Daimler, and the Bank of Maharashtra. Moving on, our dollar-based net retention rate for the quarter was 123%.
+Normalizing for FX and excluding the impact of Russian sanctions, our dollar-based net retention rate was 129%. Dollar-based gross retention of 97% continues to be best in class. Revenue grew to $309 million. Normalizing for the FX headwind of approximately $14 million, revenue grew 12%.
+For the full fiscal year, we reported revenue of $1.1 billion, an increase of 19% year over year. Normalizing for the year-over-year FX headwind of approximately $71 million, full fiscal year revenue grew 27%. Remaining performance obligations increased to $894 million. Normalizing for the FX headwind of approximately $18 million, RPO grew 34%.
+Current RPO increased to $562.5 million. Fourth-quarter total gross margin was 87%, reflecting ongoing investments in support and cloud infrastructure as we scale the business. Software gross margin was 93%. Fourth-quarter operating expenses were $199.5 million.
+We ended the year with 3,833 total employees. GAAP operating loss of $45 million included $99 million of stock-based compensation. Full-year GAAP operating loss was $348 million, including $370 million of stock-based compensation. non-GAAP operating income was $69 million, resulting in a record fourth-quarter operating margin of 22%.
+Full-year non-GAAP operating income was $65 million, or a 6% operating margin. As Rob said, our results reflect the positive impact of our restructuring efforts, combined with a continued focus on discretionary cost management and resource allocation that prioritizes higher-return initiatives. Fourth-quarter non-GAAP adjusted free cash flow was $101 million. And for the full fiscal year, non-GAAP adjusted free cash flow was neutral, in line with our stated objective.
+We have a very strong balance sheet, which is an important asset in the current operating environment, with $1.8 billion in cash, cash equivalents, and marketable securities, and no debt. Now, let me turn to guidance. For fiscal year 2024, we have maintained the top-line growth rates we committed to at Investor Day and included a nominal increase as the dollar has weakened since late September. We are also assuming the macroeconomic environment does not improve, including weakness in North America, and that the sales force repositioning builds momentum as we move throughout the year.
+And finally, we have meaningfully accelerated our path to 20%-plus long-term non-GAAP operating margin as we now expect fiscal year 2024 non-GAAP operating margin of 9.5% and non-GAAP adjusted free cash flow margin of 8%. For the fiscal first-quarter 2024, we expect ARR in the range of $1.245 billion to $1.250 billion, revenue in the range of $270 million to $272 million, non-GAAP operating income to be approximately $5 million. And we expect first-quarter basic share count to be approximately 558 million shares. For the fiscal full-year 2024, we expect ARR in the range of $1.425 billion to $1.430 billion, revenue in the range of $1.253 billion to $1.258 billion, non-GAAP operating income to be approximately $120 million.
+Before I close, I want to leave you with modeling points and our management philosophy, starting with fiscal 2024 modeling points. We expect the year-over-year foreign exchange headwind to continue in the first quarter, first-half net new ARR to be approximately $100 million, first-half revenue to be approximately $555 million, second-half net new ARR and revenue to reflect similar seasonality as fiscal year 2023, full-year non-GAAP gross margin to be approximately 84%, non-GAAP operating income to reflect similar seasonality as fiscal year 2023, and fiscal year 2024 non-GAAP adjusted free cash flow of approximately $100 million. Please note, we expect non-GAAP adjusted free cash flow to be positive for all quarters in fiscal 2024 and to follow normal seasonal patterns which ramp into the fourth quarter. As a reminder, we started amortizing sales compensation expenses at the beginning of fiscal year 2022, which creates a 200-basis-point headwind to non-GAAP operating margin in fiscal year 2024 relative to 2023.
+Finally, we are actively managing stock-based compensation to lower dilution, which we expect to be in the range of 3% to 4% year over year for fiscal year 2024. Looking ahead, we anticipate to continue to calibrate the need for competitive compensation packages while reducing overall dilution. In closing, we are committed to managing the business to the Rule of 40-plus, which we believe we can achieve given the strength of our global team, our market-leading automation platform, the power of our financial model, and the size of our market opportunity. With that, I will now turn the call over to the operator.
+Operator, please poll for questions.
+Questions & Answers:
+Operator
+Thank you. And, ladies and gentlemen, at this time, we will be conducting a question-and-answer session. [Operator instructions] Our first question comes from Raimo Lenschow with Barclays. Please state your question.
+Raimo Lenschow
+--
+Barclays -- Analyst
+Hey, thank you. Congrats. That was a very strong finish. My question was, like, the last few weeks, we had a lot of news flow and news items around the advancement in AI with ChatGPT, etc.
+And can you remind us, please, like, how you're playing in there in terms of either doing it yourself or partnering with the other guys? And how do you see the involvement of AI there for your own business? And then I had one follow-up. Thank you.
+Daniel Dines
+--
+Co-Founder and Co-Chief Executive Officer
+Hey, Raimo, this is Daniel. Well, it's unusual to start talking about technology in our earnings call, but I think that's a great sign. I'm actually very excited on the progress that is happening on the field. And as you know, we are heavy users of AI, and we have really solid research and development arm around AI for the past five years.
+We have kind of the best AI in the world when it comes to computer vision to understand application screens. And in this -- with this new advanced and generative AI, I think the best platform will be the most favored because generative AI, it's a -- it's basically a creator tool. So, in our case, this is going to accelerate the adoption of our platform. It's going to help democratize the access to creating automations, and if you feel, in the same time, why you are not using the best tool out there when you can have the AI to drive faster adoption.
+So, I think this combination between AI and the tool, that platform, that is capable of fulfilling with AI commands, it's a great combination. And we are looking forward to infuse -- continue to infuse generative AI across our platform. I would like to emphasize the use of GPT-3 and large language models in our upcoming Clipboard AI, and this is going to be a tool that cater to all business users, basically will allow everyone to transform -- to transfer information from any source, every document to any applications. Imagine many few thousands of fields converted, transformed in one step.
+It's going to save tremendously in terms of productivity. And we are using a huge combination of our own AI models, GPT-3, Google, Amazon, everything that is combined there. So, I'm -- again, I'm extremely bullish for the prospects of UiPath with adopting the generative AI technologies.
+Raimo Lenschow
+--
+Barclays -- Analyst
+OK, perfect. Thank you. Thank you for that, Daniel, and great to get it from you. And the other question is more for Rob.
+Rob, with Chris leaving, like, as far as we understood, like, Chris's role was to make the sales more e-commerce-driven to kind of have a better kind of more efficient way to go into the mid-market. Where are we on his project or his journey, and how do you think that will continue, or do you expect any disruptions? Thank you and congrats from me again.
+Rob Enslin
+--
+Co-Chief Executive Officer
+Yeah, Raimo, thank you. Great question. Look, first, we want to thank Chris for all the efforts he put into it. He's done a great job with the team.
+Remember, we are very aligned from the very beginning on our plan with the go-to-market organization, both Daniel, myself, and Chris. And we are well on our way with that transformation. So, I would say there's going to be minimum disruption to the field. We feel really good about the execution.
+The team is really positive about the progress we've made from Investor Day and where we continue to make, and we will set it up for the future. Plus, you know, we've brought in a significantly strong leadership team. And with them reporting to me, we'll feel like we can actually execute even faster, get closer to customers, and deliver even more value to our customer base.
+Daniel Dines
+--
+Co-Founder and Co-Chief Executive Officer
+Yeah, Raimo, I would like to add that having Rob here -- and Rob is known to everyone that he's one of the best go-to-market leader on this planet -- having the opportunity to have Rob leading directly go-to market in his -- as part of his day-to-day responsibilities, it's actually a great news for us. I think we continue to streamline this company. I think this is the right size of the company right now, and we are really poised to more efficiency and to even accelerate our growth profile.
+Operator
+Thank you. And our next question comes from Keith Weiss with Morgan Stanley. Please state your question.
+Unknown speaker
+Great. Thank you. This is Deon for Keith. I want to ask on your Q1 guide.
+I mean, it looks really healthy entering the year. And so, I was curious, since we already have mid-March now, is there any color you can sort of provide on what you are seeing a few weeks into the quarter here? How is the demand environment shaping up, and how are you executing out there?
+Ashim Gupta
+--
+Chief Financial Officer
+OK. So, Deon, thanks for the question. We see the environment very much the way we saw it in October. And in our Q1 guide, we've actually -- we've accounted for foreign exchange, you know, the continuing -- the continuation of foreign exchange pressure, particularly in Q1, but also just assume the same variability in the macroeconomic environment, including North America, you know, having the macro pressures as well.
+When we look at our pipeline, you know, we're pleased with the continued progress and the execution of our positioning that Rob and Daniel talked about. And overall, we've given an extra, actually, buffer of conservatism in there or a little extra buffer to account for the environment that's there. So, our philosophy has been the same. We've guided to what's in front of us with -- while still accounting for a little buffer for the variability in the macroeconomic environment.
+Unknown speaker
+That's great to hear. And then, maybe one more question on the net retention rate. Obviously, it's come down slightly from last quarter, but the magnitude is obviously way less than it was in the previous quarters. So, any way you can sort of frame what you're seeing with customers, particularly among your large customers, and how should we think about the net retention rate on a go-forward basis? Are there any levels where we could see that stabilize?
+Ashim Gupta
+--
+Chief Financial Officer
+Yeah, let me start, and I'll turn it over to Rob. So, you know, reported net dollar retention rate of 123%. You know, again, foreign exchange has pressure on that number. When you normalize for foreign exchange, it's actually 128%.
+And we see that our value is -- our incremental ARR continues to be driven by the highest propensity -- the customers with the highest propensity to invest in automation and especially in the Global 2000, Fortune 500. We've had a record number of million-dollar-plus deals, which I think is great momentum.
+Rob Enslin
+--
+Co-Chief Executive Officer
+And I would just add in, you know, I've spent a lot of time in Europe and Asia in January, and I would tell you that the customer discussions are at a significant C-level discussion. The platform is resonating with customers. The brand around foundation for innovation is resonating with customers. And in this environment, I feel really good about where our product is positioned within our customer base.
+Unknown speaker
+Excellent. Thank you.
+Operator
+Our next question comes from Kirk Materne with Evercore ISI. Please state your question.
+Chirag Ved
+--
+Evercore ISI -- Analyst
+Hey, this is Chirag Ved on for Kirk. Thanks for taking the question and congratulations on the strong finish to the year. Going off the prior question, are you noticing any differences in the growth and expansion of different customer cohorts, meaning are newer customers perhaps slower at growing on the platform when compared to early adopters or vice versa? Are there any trends that you might note here?
+Ashim Gupta
+--
+Chief Financial Officer
+Our cohorts have actually behaved pretty relatively similar. Kirk, remember, our -- you know, the general customer journey is a land size of around 25 -- Chirag, sorry -- is around $25,000. And from there, we see customers expand their use cases similarly and kind of move up that curve very well. Are -- the older the customers, that's where you see, you know, the seven-digit, you know, in the million-dollar-plus deals kind of move as they have more confidence internally about their ability to scale automation and the culture moves in that direction.
+Our platform also continues to help that. I think the addition -- you know, the continued maturation of process mining, task mining, broadening with the Re:infer acquisition, you know, our platform adds more value. And so, we do see more customers interested in more parts of our platform that is helping at every stage.
+Rob Enslin
+--
+Co-Chief Executive Officer
+Yeah. And I would just add to that, you know. We talk about growth products, but if you look at Document Understanding and the Re:infer Communication Mining, you know, we're seeing really good results with customers as they expand into those products. Test Suite has had a big impact.
+And I would also just say that in an environment we are operating in right now, you know, many of the larger customers are into, what I call, a stack consolidation, and our platform fits nicely into that process as customers continue to figure find ways to innovate, you know, from the existing environment. So, this is all good for our platform.
+Chirag Ved
+--
+Evercore ISI -- Analyst
+Got it. And maybe if I could just sneak one more in here. Ashim, can you talk to the factors that are driving operating leverage expansion within your business and the stronger-than-expected margin guide that's making you confident looking ahead?
+Ashim Gupta
+--
+Chief Financial Officer
+Yeah. I think the team has done an incredible job execution. Like, I think every UiPath employee understands that operating leverage from -- goes from delivering value to our customers and starts with the top line while managing expenses and finding more ways to be efficient. What I think we're really proud about in 2020 -- in fiscal 2023 is our ability to execute and streamline the organization in tough environments.
+I think we've done that. We continue to show that, as we've talked, as Daniel talked about, in terms of streamlining the organization. Across the board, I think the magic formula is you stay consistent on growth and you manage your cost. Operating leverage actually is kind of a -- is just a natural result from that.
+When you look at fourth quarter, it speaks to that in the numbers, and that's why you see our operating margin really strong. I do want to make a note. You also see it supported by strong free cash flow generation. And I think that we look at both of those items.
+And we've also noted in our guidance this year that we look at every quarter to be positive from a cash flow standpoint. And that's just, you know, from working both of those muscles simultaneously.
+Operator
+Thank you. And our next question comes from Matthew Hedberg with RBC. Please state your question.
+Matthew Hedberg
+--
+RBC Capital Markets -- Analyst
+Great. Thanks for taking my question. Guys, congrats on the results. Yeah, I wanted to look outside of U.S.
+Could you give us a sense for the opportunities in sort of like broader EMEA and APJ, just in terms of both the land and the expand opportunity?
+Rob Enslin
+--
+Co-Chief Executive Officer
+Yeah, we're very pleased. Actually, Daniel and myself, we're in the Middle East where we opened up our Dubai office with His Excellency, the head of digital transformation in UAE. And, you know, we're very pleased with the team. We're at their sales kickoff.
+We're very pleased with it. Again, the talent we have in the team, we also started to see, as I mentioned earlier on, significant discussions around platform with larger companies wanting to actually go all in with UiPath from RPA and expanding to the other areas of our solution. We've also seen significant interest in attended automation. Strangely enough, in markets like Denmark and Sweden, we've seen where companies want to drive employee empowerment because they're actually having constraints in terms of resources and finding the resources.
+We're finding significant benefits in that space. So, I would say our European team is coming along very nicely. We're cautiously optimistic about the opportunity in that space. In the Asia-Pacific market, we've made some adjustments according to what we said at Investor Day.
+Lee is on board now. Probably Lee is on board about three months. We've got some new leadership in India and new leadership in Southeast Asia. And I would say we are at the very beginning of that but cautiously optimistic that we can take the work that we've done in Europe and in North America and execute pretty well in Asia Pacific as well.
+Matthew Hedberg
+--
+RBC Capital Markets -- Analyst
+Got it. Thank you for that. Super helpful. And then, Ashim, for you.
+You guys have a diversified base of users, but can you give us a rough sense for exposure to both sort of the tech and financial services vertical?
+Ashim Gupta
+--
+Chief Financial Officer
+Yeah. I mean, the banking financial vertical is a strong vertical for us. You know, we've talked about -- we've given some of those figures historically. We don't disclose them on a quarterly basis, but they're one of our largest segments, financials and healthcare.
+Just to qualify a little bit, when we look at the exposure, like as kind of we've evaluated, a lot of our major customers are in the large institutions, like J.P. -- like, you know, some of the major banks that are out there. And so, with that, we feel really good about our position of where we are there right now.
+Rob Enslin
+--
+Co-Chief Executive Officer
+I would just add to the financial services, that can be -- when you look at the opportunity to drive efficiencies in financial services, I think we add a tremendous amount of value in that we see solution sets like Document Understanding having huge benefits in healthcare and in insurance because of the straight-through-document processing that we can achieve. And the results with our North Star value proposal is having a difference in financial services, insurance, and healthcare.
+Operator
+Thank you. Our next question comes from Bryan Bergin with TD Cowen. Please state your question.
+Bryan Bergin
+--
+Cowen and Company -- Analyst
+Hi, guys. Good afternoon. Thank you. Want to follow up on margin first.
+So, can you just bridge what you did in 4Q here, the strong 20%-plus, how you've planned out for fiscal '24? And specifically, if you can maybe talk about the areas of cost efficiency that you benefited most from here in 4Q. And then, any of those benefits that don't recur initially in '24 or areas that you are leaning back in to invest?
+Ashim Gupta
+--
+Chief Financial Officer
+Yeah, I think that I will always emphasize I think our operating margin starts with delivering in the top line, you know, which we have all of our teams focused. And we have this market in front of us that allows us to deliver numbers like the revenue number we did. Bryan, in terms of the specific cost areas, I -- frankly, we had cost productivity across the board. And I really want to just emphasize, I think from product and engineering to G&A to sales and marketing, every team has contributed in the right way.
+Most of what we have seen, like everything that we have realized, we look at that as something that is recurring. There are some -- always some timing elements, you know, that go into a quarter such as sales commissions, accruals, those types of things that have some accounting associated with it in terms of seasonality. But all of the efficiencies that we've seen in terms of rationalizing organizations, streamlining organizations, finding productivity, and discretionary costs, those are things we see as sustainable as we go forward. And that's why we feel really good and confident about the 350 basis points that we're expanding the year, even off of a higher beat in fourth quarter for where we ended.
+Bryan Bergin
+--
+Cowen and Company -- Analyst
+OK. And then, on the product, Daniel, can you talk about client appetite that you've seen around discovery products? And I heard a reference on customer there, I think around Communications Mining. So, I'm curious how you would compare the uptake of that product versus what you saw in the past around task mining and process mining when you brought those to market.
+Daniel Dines
+--
+Co-Founder and Co-Chief Executive Officer
+I think it has become very clear in the last year, I'd say, that the discovery pillar is an essential part of a full-fledged business automation platform, and they are making steady progress. First of all, in process mining, we have released a great version on the cloud, and we are really bullish on our prospects on being a sizable player in the process mining market. We have been one of the first company to invest in task mining, and this is one of the most ambitious AI project that we have ever attempted. And the new transformer-based models give us even better hopes into getting more of the task mining.
+To -- a quick reminder, what we are trying to achieve is basically watching over the shoulder, you know, people doing business processes by AI and figuring out the processes themselves. And communication mining, it's our latest addition to the platform by acquiring Re:infer. It's -- again, it's a large language model based on transformers. We are seeing great traction, especially with our -- some of our large customers, especially banking customers that use our communication mining technology to classify millions of emails and taking action based on the email.
+So, again, this shows the power of an integrated platform. You discover, and then you automate, and ultimately, you operate. To me, it's -- again, it's a great point that our bets three, four years ago on this platform is becoming successful today.
+Operator
+Thank you. And our next question comes from Michael Turrin with Wells Fargo Securities. Please state your question.
+Michael Turrin
+--
+Wells Fargo Securities -- Analyst
+Hey, great. Thanks for taking the question. Much appreciated. In terms of just the growth guide, awesome.
+We can appreciate that there have been a lot of improvements that you've put in place. You're guiding for 10%, up to 18% for the full year on the top line. Can you just maybe level set how much of the growth improvement comes from some of the go-to-market and product changes we've been talking about since the Investor Day versus the massive lapping some of the headwinds you've experienced and just how to think through the progression there?
+Ashim Gupta
+--
+Chief Financial Officer
+Yeah. So, maybe just if I start, I think we finished fiscal year '23 at 19% revenue growth, and we encountered, you know, a significant FX headwind in 2023. So, that helps to level off, Michael. So, adjusted for that, actually, you know, we feel like it was a good growth, a good delivery in 2023.
+That being said, you know, when we look at our guidance philosophy, you know, we talked about 18% at Investor Day. We accounted for the weakening -- you know, the weakening dollar within our guidance. We adjusted and put in additional buffer for the foreign -- for the macroeconomic volatility or variability that we see in front of us. And then, we accounted for the repositioning and the execution timeline that Rob has outlined.
+So, when you take that all together, we actually -- we feel good about our guidance in 2024, and we continue to guide to see what we have in front of us with those qualifications.
+Kelsey Turcotte
+--
+Senior Vice President, Investor Relations
+Yeah. Hi, this is Kelsey. I want to step in quickly. We gave a lot of very specific modeling points in the script, which I think will be very helpful to you as you put your models together tonight.
+So, we will post all of that information on our prepared remarks to the website as soon as we're finished tonight. And if you have any questions, you know, please feel free to reach out to us. But I think this will help you put your FY '24 model together.
+Michael Turrin
+--
+Wells Fargo Securities -- Analyst
+That's very helpful. Just a quick follow-up on margin. I mean, obviously, the Q4 margin results are strong and stand out. The expansion targets for the year, in line with the targets that were presented at the Investor Day.
+Still strong expansion, but with the second round of cost reductions that went into place in November, were those something that was contemplated alongside the Investor Day targets? Or can you just help us understand if there are areas of reinvestment on the product side or other things that you're also contemplating that keep the range in a similar state even with the second reduction?
+Ashim Gupta
+--
+Chief Financial Officer
+I think, net-net, we look at keeping our workforce relatively stable. We don't see any major investments or major decreases at this time. And so, overall, I think we've factored our actions from last year into this year. Now, are there areas that we invest in? Yes, and that's why we continue to look for opportunities to streamline, you know, the organization.
+And every UiPath employee continues to look for areas of efficiency together, particularly in our discretionary spend. So, that's kind of how we've looked at it. I would say all of our actions have been baked in. We will invest in the areas needed to execute and to continue to take advantage of the market that -- the opportunity that we see in front of us.
+But we feel like we can relatively fund that to keep the size of the organization relatively similar.
+Operator
+Thank you. And our next question comes from Mark Murphy with J.P. Morgan. Please state your question.
+Unknown speaker
+Hey, guys. Thanks for taking the question. This is [Inaudible] on for Mark Murphy. Congrats on the quarter.
+You know, just wanted to call you in the past six to nine months, both for UiPath and a lot of other vendors, we've heard that customers are kind of -- really kind of slowing down and trying to pick the right tools and then kind of going all in on them. And you guys have been kind of focusing on the post-sales motion. So, is some of the success we're seeing clearly in your results just from those changes you guys have made to the sales?
+Rob Enslin
+--
+Co-Chief Executive Officer
+Yeah. I mean, I think we laid out very clearly that, at Investor Day, we were going -- what we were going to do around pricing, packaging, the segmentation of the organization, the execution around the growth products, and delivering on the platform. And we feel like we've executed really really well around that. Um, you know, the environment -- you know, part of the question already is the environment hasn't changed.
+We kind of are cautiously -- cautious about the environment. We've continued to focus on driving the forecasting at the right approach, making certain that our investments are focused on the right level, that we actually connecting to the C-level customers, and that we're actually part of the budgeting cycle. And that's what we focused on, and I think that's paying dividends. But I'd also just say as well, you know, when we launched 20.10, which was the technology platform, that allowed us to be competitive in the discovery area, and we absolutely are starting to see some real traction with this in Document Understanding and the Re:infer product in the marketplace.
+I would say that our customers are looking for an automation platform. As what I've said from the very beginning, automation is an important aspect to every customer's journey, and if you want to move with speed and agility, you need automation. And we feel like we are clearly the leader in the automation platform space.
+Unknown speaker
+Great. Thanks for the answer there. And then, just ultimately, on the -- in terms of contract renewals, any new patterns to call out there and the trends we should watch for as we go through fiscal '24?
+Rob Enslin
+--
+Co-Chief Executive Officer
+I don't see any -- any -- we feel like we are on top of contract renewals. We don't see any significant changes in the contract renewals. Our customers, you know, we continue to focus on expansion as well as a key aspect for the -- our existing customers. And we will continue to drive expansion.
+We think we have significant upside in the existing customer base as well.
+Operator
+Thank you. [Operator instructions] Our next question comes from Brad Sills with Bank of America Securities. Please go ahead.
+Brad Sills
+--
+Bank of America Merrill Lynch -- Analyst
+Wonderful. Thank you. I wanted to ask if you could provide an update as to which of those solutions that you're selling into under the new go-to market are you seeing success. Obviously, some big changes to more solutions selling approach.
+We'd love to get any color as to, you know, which verticals or solutions are you starting to see success with, which ones should we see as more up-and-coming. Thank you.
+Rob Enslin
+--
+Co-Chief Executive Officer
+Yeah. Hi, Brad. Good question. Document Understanding -- as we mentioned it earlier, Document Understanding, we're seeing significant traction in Document Understanding.
+The value proposition around it is very clear. It's almost crystal clear in terms of the value customers can receive. And our straight-through processing is really high. And so, when you have customers that have significant invoice or payment systems or claims payment systems, we see significant value in that.
+At test Suite, we're seeing value in that. That's actually very unique in automation space. There's nobody that connects testing with automation. So, that's significant.
+And then, you know, companies like EY, where they've used our process mining solution with their audit practice, and we see growth in that. What I would say overall, though, is we're seeing more and more companies start to look at the platform as an opportunity. Enterprise license agreements are becoming, you know, more significant in the discussion. We're having a lot more discussions with customers look and say -- when you look at their full stack can, you know, process mining, test mining, Document Understanding, can it replace many of these other applications in a platform, make it more consistent, easier to implement, faster to implement? And then, on top of that, I would say our solution accelerators are actually starting to have an impact as well as we help customers achieve their automation results much faster.
+Operator
+Thank you. Next question comes from Terry Tillman with Truist Securities. Please state your question.
+Terry Tillman
+--
+Truist Securities -- Analyst
+Yeah, thanks. I will keep it to one question, but I can't help myself. I really do appreciate all the color on the first half and second half. Hopefully, our model won't be so out of whack going forward then.
+It's very helpful, I guess, Rob, for you, the question I would have is, you know, you've got a lot on your plate in terms of the go-to-market efforts. And now, you're kind of taking the role as chief business officer as well. So, you've got a ton on your plate. But what about partners? I know at the low end, partners are important to like kind of take over first-line customer kind of engagement.
+But these global SIs or the regional boutiques, or the ISVs, it seems like with some of these products like Document Understanding, I mean, you have a really good opportunity to really partner together and drive a lot of incremental revenue. So, what are you doing, or what are some guideposts on partner side of this go-to-market transformation you're working on? Thank you.
+Rob Enslin
+--
+Co-Chief Executive Officer
+Yeah, good question. So, we've -- I believe we made significant progress with partners like EY. I was on the automation -- the worldwide automation, I guess, event yesterday with EY, which is touching, I think, five or six markets around the world, over 1,200 of their customers there. We were talking about how automation can help deal with inflationary aspects, definitely economic disruption that customers are taking -- take labor arbitrage and so on.
+So, I feel like we're making significant progress with partners like EY. I would also say with Accenture, we're making progress. They continue to be fully supportive, incredible opportunities in Europe as well with Accenture. And we started to see that play through.
+And many of the others are also now starting to see automation as a big play. You know, when you look at how a partner sees the automation space, in the past, they saw it in terms of many different products, many different types of solutions trying to solve. And now, they see UiPath as a go-to player in the automation space to help drive customers. And there's nothing that can drive business results faster than automation.
+You can get it often and you can get it on top of many other solutions. So, it's non-disruptive in many ways. And in my discussions in Europe, you know, as I said, I've started to see a significant amount of discussion as well, not only in terms of those discovery, those growth products, but also in terms of attended automation to solve constraints in the healthcare environment and how they are dealing with different levels of labor shortages in those markets.
+Operator
+Thank you. Our next question comes from Michael Turits with KeyBanc. Please state your question.
+Unknown speaker
+Hey, this is Billy on for Michael. Just wanted to ask how you're thinking about new versus expansion going into next year. Thank you.
+Ashim Gupta
+--
+Chief Financial Officer
+Yeah, we've kind of -- I would just assume the same split that we've historically had, which is the 70-30 split, for, you know, our net new ARR. That's the assumption I think we continue to have, and it's been fairly consistent.
+Rob Enslin
+--
+Co-Chief Executive Officer
+Yeah. I would just add to that, you know. There was a question earlier around e-commerce and distribution. We had distribution partners -- I should add onto this -- our distribution partners are actually investing more in markets, and they're actually starting to see bigger upside opportunities in that space.
+So, we feel positive about the acquisition of customers as well. And remember, we always said that we were going to focus on creating a highly efficient density model as well, which fits the customers that want to expand into the platform area and with our new growth products as well.
+Operator
+Thank you. Next question comes from Scott Berg with Needham. Please state your question.
+Scott Berg
+--
+Needham and Company -- Analyst
+Hi, everyone. I'll certainly echo congrats on the strong quarter. I guess one question I'm going to ask is on the solution accelerators now that they've been in the market for a little while. What's the trends on those, like, relative to maybe how you sold the platform historically? Just didn't know if you've seen any changes either up or down, you know, in terms of how you're able to land with those versus landing without them.
+Rob Enslin
+--
+Co-Chief Executive Officer
+Yeah. So, you know -- so, Scott, on that, I would say we've -- we are now, I think, between 10 and 16 solution accelerators in the market. We're seeing significant uptake on them and -- on the marketplace, sorry. And we're seeing significant uptake on the solution accelerators.
+And as I said, you know, very early on, we'll continue to bring them out at the speed of which customers are using them. They are driving the bigger opportunities that we're working on. We don't actually charge for solution accelerators, but we definitely seeing that they are benefiting us as we help customers drive enterprise license agreements, how they want to use it, and the speed at which we can accelerate them. So, they're certainly helping the sales cycle and helping customers get faster return to value.
+Operator
+Thank you. And ladies and gentlemen, we have reached the end of the question-and-answer session. I will now turn the call over to management for closing remarks.
+Rob Enslin
+--
+Co-Chief Executive Officer
+Yeah, this is Rob, and I just want to thank everybody. I appreciate your time, and I really look forward to spending time with many of you over the next couple of weeks, from Daniel, myself, and Ashim, and Kelsey. Thank you, everybody.
+Operator
+[Operator signoff]
+Duration: 0 minutes

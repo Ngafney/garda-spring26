@@ -1,0 +1,372 @@
+[
+  {
+    "speaker": "Unknown",
+    "role": "",
+    "text": "Full Conference Call Transcript Michael Barrett, CEO, and David Day, our CFO. I would like to point out that we have posted financial highlights slides on our Investor Relations website to accompany today's presentation. Before we get started, I will remind you that our prepared remarks and answers to questions will include information that might be considered to be forward-looking statements, including, without limitation, statements concerning our anticipated financial performance and strategic objectives, including the potential impacts of macroeconomic factors on our business. These statements are not guarantees of future performance. They reflect our current views with respect to future events and are based on assumptions and estimates, and are subject to known and unknown risks, uncertainties, and other factors that may cause our actual results, performance, or achievements to be materially different from expectations or results projected or implied by forward-looking statements. A discussion of these and other risks, uncertainties, and assumptions is set forth in the company's periodic reports filed with the SEC, including our quarterly reports on Form 10-Q, and our 2025 annual report on Form 10-K. We undertake no obligation to update forward-looking statements or relevant risks. Our commentary today will include non-GAAP financial measures, including contribution ex-TAC, or less traffic acquisition costs, adjusted EBITDA, and non-GAAP income per share. Reconciliations between GAAP and non-GAAP metrics for our reported results can be found in our earnings press release and the financial highlights deck that are posted on our Investor Relations website. At times, in response to your questions, we may offer additional metrics to provide greater insights into the dynamics of our business. Please be advised that this detail may be one-time in nature, and we may or may not provide an update on these metrics in the future. I encourage you to visit our Investor Relations website for our press release, financial highlights deck, periodic SEC reports, and a webcast replay of today's call to learn more about Magnite, Inc. I will now turn the call over to Michael. Please go ahead, Michael."
+  },
+  {
+    "speaker": "Michael G. Barrett",
+    "role": "",
+    "text": "Thank you, Nick, and what an end to 2025. We exceeded consensus expectations for both the quarter and the full year. In a mixed macro environment, our results reflect the durability of our model and the accelerating shift towards streaming. CTV contribution ex-TAC in Q4 grew 32% ex-political, meaningfully above our guide. That acceleration began in Q3 and strengthened into year-end. As we enter 2026, CTV is now larger than DV+, making streaming the majority of our business. That is a defining moment for Magnite, Inc. The long-anticipated ramp of programmatic CTV is no longer emerging; it is underway at scale. Adoption is broad-based across media owners, agencies, and DSPs. We saw strong growth with many of the largest players in the industry, including LG Ads, Netflix, Paramount, Roku, Vizio, Walmart, and Warner Bros. Discovery. TV OEMs are leaning aggressively into programmatic across home screens, pause ads, data enablement, and marketplaces. Programmatic enablement in live sports continues to expand across the largest global streamers. On the demand side, the largest global agencies are now driving meaningful volume through buyer marketplaces and DSP-agnostic pipes powered by Magnite, Inc. ClearLine activation continues to gain momentum as buyers increasingly seek direct, transparent, and efficient access to premium streaming supply."
+  },
+  {
+    "speaker": "Michael G. Barrett",
+    "role": "",
+    "text": "Stepping back, the industry trajectory is unmistakable. Consumers have moved to streaming. Time spent has already shifted. Advertisers are following. And dollars are now catching up. CTV combines the brand impact of television with the precision and measurability of digital. As inventory has scaled and pricing has normalized, CTV has become accessible to a broader range of advertisers, from global brands to performance marketers to SMBs. For Magnite, Inc., this shift is structurally advantageous. In DV+, we operate in a highly competitive market where we hold mid-single digit share. In CTV, our share is multiple times higher. As dollars migrate into streaming, they move into a segment where we have deeper integrations, stronger publisher relationships, and differentiated infrastructure."
+  },
+  {
+    "speaker": "Michael G. Barrett",
+    "role": "",
+    "text": "Now turning to DV+. DV+ grew 4% ex-political in Q4, modestly below expectations. And that pressure has increased in Q1. We observed accelerated budget reallocation from DV+ into CTV across agencies, DSPs, and brands. This trend has intensified in Q1. This makes sense. As CTV becomes more measurable and performance-driven, and inventory scales, dollars are naturally consolidating into streaming environments. Within DV+, there are encouraging signs. Our mobile in-app business remains healthy. Commerce media partnerships are gaining momentum, with more than 15 partners announced, 11 of which are deployed and ramping, including United Airlines, PayPal, Pinterest, and Best Buy. These partnerships combine owned inventory with first-party data layered through ClearLine curation. We do not believe that the decline in search referral traffic is impacting our DV+ business. Our footprint remains diversified across open web, mobile app, online video, audio, and digital out-of-home. In fact, our DV+ supply continues to expand. Our DV+ business has never been supply constrained, with ad requests growing over 30% year-over-year in Q4 and at similar rates in Q1."
+  },
+  {
+    "speaker": "Michael G. Barrett",
+    "role": "",
+    "text": "Now turning to AI. There has been speculation that generative AI and agent-based buying could disintermediate infrastructure platforms. We believe what is actually unfolding reinforces the importance of scaled sell-side infrastructure. We embedded an advertising context protocol, or adCP, seller agent directly into SpringServe in Q4 and executed what we believe was the industry's first agent-to-agent campaign. Scope3 served as the buyer agent on behalf of MiQ, with media running across LG and Warner Bros. Discovery inventory. While still early, this marks an important milestone. It represents the first step toward a future where buyer and seller agents can interpret campaign briefs, intelligently match inventory with audiences, and ultimately transact media in a more automated and efficient fashion. Magnite, Inc. is uniquely positioned on the sell side. We believe we will be long-term winners in digital advertising given our differentiated access to supply, scaled and interoperable data assets, and ability to apply AI across the end-to-end workflow. Layering AI into that ecosystem modernizes the buying experience, streamlining historically manual insertion order processes, matching briefs with audiences and inventory at scale, and enhancing traditional programmatic execution."
+  },
+  {
+    "speaker": "Michael G. Barrett",
+    "role": "",
+    "text": "Even in a world of autonomous agents, infrastructure becomes more critical, not less. Agents may interpret intents, but they still rely on scaled marketplaces to clear transactions, enforce auction mechanics, ensure compliance, manage fraud prevention, and handle financial settlements. As the ecosystem evolves toward potentially thousands of buyer and seller agents, aggregation and interoperability become essential. You cannot have a market where every agent negotiates bilaterally with every other agent. Standards-based, scaled platforms are required to make that system function. That is the role Magnite, Inc. plays. In Q1, we are continuing to run test campaigns and refine the adCP framework. It is early. We are encouraged by the progress and view this as a meaningful step toward a more intelligent and efficient advertising marketplace. AI is not displacing our infrastructure. It is increasing throughput across it. Lastly, on DV+, we continue to await the court's final order in the Google AdTech remedies phase. We believe remedies could create meaningful share reallocation opportunities. As we have stated, every 1% of market share gained could represent approximately $50,000,000 of incremental contribution ex-TAC annually at very high incremental margins. We remain prepared."
+  },
+  {
+    "speaker": "Michael G. Barrett",
+    "role": "",
+    "text": "To conclude, we are in the early innings of a multiyear re-platforming of television and video advertising. Streaming is now the dominant form of video consumption. CTV represents the majority of digital video time spent, yet ad dollars still lag engagement. Industry forecasts call for sustained double-digit CTV advertising growth for years to come, with tens of billions of dollars expected to shift from linear television and fragmented digital channels into streaming environments. Magnite, Inc. sits at the center of that shift. CTV is now the majority of our business. We are deeply integrated with the largest streaming publishers and OEMs in the world. We operate in premium, largely logged-in environments that are inherently more defensible and more measurable. And as dollars consolidate into CTV, they move into a segment where our market share is meaningfully higher and our infrastructure is embedded. At the same time, automation and AI are increasing efficiency across the ecosystem, expanding working media, and driving more volume through scaled platforms like ours. Secular CTV growth, expanding total addressable market, increasing automation, and strong share position. Those forces are durable. We believe Magnite, Inc. is foundational to how the next era of advertising will transact, and we have never been more confident in our strategic position. With that, I will turn the call over to David for more detail on the financials. David?"
+  },
+  {
+    "speaker": "David L. Day",
+    "role": "",
+    "text": "Thanks, Michael. As Michael mentioned, we had a strong Q4 and finish to the year, with a great performance in CTV, achieving 20% contribution ex-TAC growth, or 32% excluding political, significantly exceeding our expectations. CTV reached 48% of our total contribution ex-TAC for Q4. DV+ came in below expectations, declining 1%, and up 4% excluding political. Adjusted EBITDA grew 9% to $84,000,000, resulting in a 43% margin. We are pleased with the results, particularly the continued acceleration in CTV growth we saw in Q4."
+  },
+  {
+    "speaker": "David L. Day",
+    "role": "",
+    "text": "For the full year, contribution ex-TAC totaled $670,000,000, a year-over-year increase of 10%, or 14% excluding the impact of political. For CTV in 2025, we achieved contribution ex-TAC of $304,000,000, an increase of 17%, or 22% excluding political. And for DV+, we reported $365,000,000 for the year, growth of 5%, or 8% ex-political. We processed total ad spend approaching $7,000,000,000. Adjusted EBITDA for the full year 2025 was $232,000,000, an increase of 18% from 2024, resulting in an adjusted EBITDA margin for the year of 34.7%."
+  },
+  {
+    "speaker": "David L. Day",
+    "role": "",
+    "text": "Total revenue for Q4 was $205,000,000, up 6% from Q4 2024. Contribution ex-TAC was $195,000,000, up 8% within our guidance range and up 16% excluding political. CTV contribution ex-TAC was $94,000,000, up 20% year-over-year, or 32% excluding political, significantly exceeding the top end of our guidance range. DV+ contribution ex-TAC was $101,000,000, a decrease of 1%, or an increase of 4% excluding political, from the fourth quarter last year. This result was below our guidance range. As Michael noted, we saw a growing spend shift from DV+ to CTV. Our contribution ex-TAC mix for Q4 was 48% CTV, 37% mobile, and 15% desktop."
+  },
+  {
+    "speaker": "David L. Day",
+    "role": "",
+    "text": "From a vertical perspective, retail, health and fitness, and financial were the strongest performing categories, while automotive was, again, one of our weakest performing categories. In DV+, we saw additional weakness in technology and food and beverage. Total operating expenses, which includes cost of revenue, were $153,000,000, a slight decrease from $154,000,000 for the same period last year. Adjusted EBITDA operating expense for the fourth quarter was $111,000,000, $1,000,000 better than the low end of our guidance range and an increase from $104,000,000 in the same period last year. The increase was primarily driven by higher cloud and data center costs and higher personnel-related expenses supporting the growth of our CTV business and investment in CTV-related features and functionality, and was better than expected due to lower personnel expenses, including slower than anticipated hiring."
+  },
+  {
+    "speaker": "David L. Day",
+    "role": "",
+    "text": "Our net income was $123,000,000 for the quarter compared to net income of $36,000,000 for 2024. This was driven by a $90,000,000 one-time tax benefit resulting from the release of the valuation allowance on our deferred tax assets. As background to the release, we met the specific accounting criteria of 12 quarters of cumulative positive pretax income and the necessary expectations for future profitability. Adjusted EBITDA grew 9% year-over-year to $84,000,000, reflecting a margin of 43%. As a reminder, we calculate adjusted EBITDA margin as a percentage of contribution ex-TAC. GAAP earnings per diluted share were $0.80 for 2025 compared to $0.24 for 2024. Non-GAAP earnings per share for 2025 was $0.34 compared to $0.34 last year. Reconciliations to non-GAAP income and non-GAAP earnings per share are included with our Q4 results press release."
+  },
+  {
+    "speaker": "David L. Day",
+    "role": "",
+    "text": "Our cash balance at the end of Q4 was $553,000,000, an increase from $482,000,000 at the end of the third quarter. Operating cash flow, which we define as adjusted EBITDA less CapEx, was $61,000,000. Capital expenditures, including both purchases of property and equipment and capitalized internal-use software development costs, were $23,000,000, consistent with the expectations we discussed last quarter. Debt interest expense for the quarter was $4,000,000. Net leverage for the quarter was 0.0x, down from 0.3x at the end of Q3. As a reminder, the remaining $205,000,000 principal balance of our convertible notes is a current liability on the balance sheet as the notes mature this quarter. We plan to pay off the converts at maturity with cash on hand next month. As you know, $400,000,000 in converts were part of our original financing for the SpotX acquisition and, when all is said and done, provided capital at an extremely favorable rate."
+  },
+  {
+    "speaker": "David L. Day",
+    "role": "",
+    "text": "During 2025, we repurchased or withheld over 5,220,000 shares for approximately $79,000,000. We are also announcing a new two-year share repurchase plan today, which authorizes the repurchase of common stock with a value up to $200,000,000. Following the repayment of our convert, we plan to be more aggressive with share repurchases given our future expected significant and consistent free cash flow generation. Our capital allocation strategy will target approximately 50% of free cash flow generation to be returned to shareholders via share repurchases over time, provided our share price provides a reasonable return compared to our estimated intrinsic value. Note also that M&A opportunities may arise in the future that might change our perspective."
+  },
+  {
+    "speaker": "David L. Day",
+    "role": "",
+    "text": "I will now share our expectations for 2026 and our current thoughts for the full year. For the first quarter, we expect contribution ex-TAC to be in the range of $157,000,000 to $161,000,000, which represents growth of 8% to 10%. Contribution ex-TAC attributable to CTV to be in a range of $81,000,000 to $83,000,000, which represents growth of 28% to 31%, surpassing 50% of total contribution ex-TAC for the first time. DV+ contribution ex-TAC to be in the range of $76,000,000 to $78,000,000, which represents a decline of 6% to 8%. We anticipate adjusted EBITDA operating expense to be approximately $122,000,000, which implies adjusted EBITDA margin of over 23%. As a reminder, the first quarter is always seasonally our lowest margin quarter. For the full year 2026, we anticipate total contribution ex-TAC growth to be at least 11%, adjusted EBITDA percentage growth in the mid-teens, adjusted EBITDA margin greater than 35%, free cash flow growth greater than 30%, and CapEx of approximately $60,000,000, a reduction from prior year. I want to point out that our estimates do not include any potential market share gains as a result of remedies from the Google AdTech trial. And finally, regarding our tax position, we would not expect to have any significant increases in cash taxes for the next few years. We are proud of our team's execution and our resulting fourth quarter and full year results. We believe we are very well positioned to continue winning and thriving with the changes that are taking place in the programmatic ecosystem. We continue testing the right AI capabilities to build on Magnite, Inc.'s industry-leading platform and are making strategic investments to improve our efficiencies. With that, we will open the line for Q&A."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Thank you. We will now begin the question-and-answer session. To ask a question, you may press star, then one on your touchtone phone. If you are using a speakerphone, please pick up your handset before pressing any keys. If at any time your question has been addressed and you would like to withdraw your question, please press star then two. At this time, we will pause momentarily to assemble our roster. Our first question comes from Laura Anne Martin of Needham. Please go ahead."
+  },
+  {
+    "speaker": "Laura Anne Martin",
+    "role": "",
+    "text": "Hey there. Congratulations. Good numbers. I wanted to talk about the breadth of CTV and how much of that is sustainable. So ex-political, CTV up 32% in growth. Can you break down how much of that is SMBs? How much by vertical? I guess you named a lot of really big studio companies that are growing. I am really interested in what is growing and whether you see that continuing. That is my first question. Okay. Great. Then my second question is about risk. It feels like, Michael, we are moving more towards an infrastructure. You have a lot of really specific deep infrastructure integrations into some of these large B2B performers. Do you get the sense that elongating your client relationship time, increasing your life value, and lowering the risk of investing in Magnite, Inc. as a stock?"
+  },
+  {
+    "speaker": "Michael G. Barrett",
+    "role": "",
+    "text": "Yeah. Hey, Laura. Great question. I will handle it first and maybe David will dive in with some specifics. We have not really gotten into breaking it out. Lord knows we have not had enough time figuring out DV+ and CTV buckets, let alone getting a little bit more specific on the CTV. I will say, and you did see the announcement from Mountain recently about their direct connection into us as their first platform to do so. That is a very encouraging sign of a high-growth area of performance-oriented SMBs. But we are seeing just across the board. You do not grow at 32% and not have everything firing at all cylinders. So big branded advertisers that used to advertise in TV. We had cited a big shift from performance advertisers that were digital online video, digital display shifting into CTV. Throughout all of our channel checks, the same note was sung by every major brand marketer: the appeal of CTV, the pricing, the performance metrics of it, it is really just increasing in velocity of appeal. So we are just seeing it across the board, Laura. No question. You hit the nail on the head, and I think we tried to harp on that in the call and the script. We look so different in CTV than we do perhaps even in DV+ and display. We are highly differentiated. We have a leading programmatic ad server that is coupled with the leading SSP platform. We are building more and more tools. We have a buying tool, ClearLine, that is integrated across the board. So we look quite different, unique, and, you know, with an enjoyable moat that we have in CTV, which is, as you know, the fastest growing segment in the digital advertising sector."
+  },
+  {
+    "speaker": "Laura Anne Martin",
+    "role": "",
+    "text": "Thank you very much."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Our next question comes from Daniel Louis Kurnos of Benchmark. Please go ahead."
+  },
+  {
+    "speaker": "Daniel Louis Kurnos",
+    "role": "",
+    "text": "Great. Thanks. Michael, let me just stick with the CTV question for a second. Is there any way to kind of parse out the mix shift to CTV versus your organic partner growth, like what you had before? Because there is a clear acceleration, I think, on both fronts. And how much of that is coming from live events?"
+  },
+  {
+    "speaker": "Michael G. Barrett",
+    "role": "",
+    "text": "Yeah. So live is an increasing contributor each quarter. So that is definitely a good guide for us. As it relates to parsing it out, you know, David, do you want to say kind of the dollar shift that we saw from DV+ into CTV, and that can give you some idea of the baseline growth level versus the accelerator?"
+  },
+  {
+    "speaker": "David L. Day",
+    "role": "",
+    "text": "Yeah. I guess, I mean, if you just look at the expectations versus consensus for, like, Q1, for example, you have got DV+ you know, $8,000,000 or $9,000,000 lower, and CTV higher by that same amount. But I am not sure you can differentiate spend shift versus organic because the spend shift is rolling in, you know, into our organic numbers and is rolling through all of those same, you know, obviously, all of those same partners."
+  },
+  {
+    "speaker": "Michael G. Barrett",
+    "role": "",
+    "text": "But it is a very dramatic shift. Right?"
+  },
+  {
+    "speaker": "Daniel Louis Kurnos",
+    "role": "",
+    "text": "Yeah. No. That is helpful color. I mean, I am just trying to make sure to flag, I guess, the underlying is still growing ex the shift. So just want to"
+  },
+  {
+    "speaker": "Michael G. Barrett",
+    "role": "",
+    "text": "Oh, yeah. Very much so. Yeah. Very much so. Yeah. I think the cool thing, you know, from a larger perspective from what we talked about is those very marketers, in making up a number, say someone spends $100 less, they are just spending it differently, allocating it differently, and good news for us, they are allocating into the faster-growing platform that you certainly look ahead three to five years from a CAGR standpoint, because it is going to be super impressive. So, you know, number one, the allocation is happening on our platform, so we are catching dollar for dollar. And we are still having that organic growth on the CTV side that is far exceeding the marketplace. So both very positives for us. And just to layer on to Laura's point, you know, it is de-risking. So a dollar of CTV revenue and growth is more protectable and sustainable in some ways than DV+, which can be a little bit more volatile. And so we, you know, we love where this is heading ultimately. Not to say that"
+  },
+  {
+    "speaker": "Daniel Louis Kurnos",
+    "role": "",
+    "text": "David. I mean, I guess the next question I would ask is, like, I mean, margins are still improving, but there has always been a question around take rate and economics, and you are still driving margins higher. So some of that has been your cost takeout, cost-to-serve initiatives, but you know, just maybe any comments you guys have on that would be great. Thanks."
+  },
+  {
+    "speaker": "David L. Day",
+    "role": "",
+    "text": "Yeah. And, in fact, and we talked about this a little bit the last quarter or two. Because of the opportunity that we have in CTV, we have actually made some additional internal investments into CTV so into engineering, into accelerating some of our feature and functionality in the CTV business. And so, all things being equal, our margin expansion could have been even greater in 2026. But with the opportunity, we will still expand margins. With this opportunity in CTV, it is a little bit of a one-time shot on the headcount and continuing to make the improvements on our tech stack infrastructure, as you mentioned, getting better leverage out of that, to really set us up for more rapidly expanding margin in future years."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Our next question comes from Shyam Vasant Patil of Susquehanna. Please go ahead."
+  },
+  {
+    "speaker": "Shyam Vasant Patil",
+    "role": "",
+    "text": "Hey, guys. I had a couple of questions. I guess maybe following along the lines of the previous two as well. What do you guys think is the right way to think about CTV growth and then DV+ growth going forward? I know you gave kind of a Q1 outlook and kind of high level for the year overall. But what is, if we kind of look at the two businesses, the right way to think about the growth rate kind of going forward on a sustainable basis? I know, Michael, you said CTV is a double-digit grower, and, obviously, we have seen that strong growth rate. And then just a follow-up, just on OpenPath, can you just maybe talk about that a little bit? You know, just kind of the impact that you had seen. It seems like that situation might be behind us now. Maybe if you could just talk about that and if you think that has been resolved and kind of behind us or if there is potentially anything to be aware of on that front. Thank you."
+  },
+  {
+    "speaker": "Michael G. Barrett",
+    "role": "",
+    "text": "Yeah. Sure. Great questions, and I will let David jump in on some of the specifics. Certainly, if you look at CTV, the market, from an estimate standpoint, has always been probably lagging the actual growth rates. But I think some of the latest numbers out there are in the mid-to-low teens. And certainly at 32%, that is far exceeding market growth, and that is where we expect to be given our market position. So, you know, I think a growth rate in that high teens, twenties is very sustainable given the secular shift that is going on. And as it relates to DV+, I think it is fair to remind everyone the diverse portfolio that DV+ is. Certainly, there is desktop and mobile web, and search that is definitely under pressure. You have all sorts of things happening there, and the big budget shifts that we talked about that we caught on the CTV side were essentially coming from that bucket. But you also have emerging categories like audio, digital out-of-home, mobile app, which I you know, you look at the numbers AppLovin is putting up. Mobile app for a long time was kind of out of our reach because the brand advertising that we source really could not compete with the app install. And now it is on a better level playing field than it ever has been. And so we view that as a big opportunity for us. We are deploying our SDK. We are partnering with AppLovin. We are partnering with Unity. We are partnering with all the big players, and we think that is a big growth area for us. So where does that net out? It is hard to say. But I think the encouraging thing is, from a growth profile for Magnite, Inc., any weakness that we are seeing in DV+ is manifesting itself in the CTV bucket. So again, if the budget is $100, we are catching the $100. It is just being allocated differently by the marketer. So it is a little hard to set a growth rate on DV+. But if you parse it all out, there are going to be growers like mobile app that are going to be in the teens, and there is going to be desktop and mobile web that is probably flattish to slightly down. If that is helpful. And you had also asked about OpenPath. Yeah. As you noted, OpenPath has been around for years. The reason why it became a subject of focus last quarter was the Kokai deployment and OpenPath being a default. We could painfully walk through the Q&As and the script about our efforts to turn that around with our biggest buyers. By most degrees, we have been successful in that. And the longer tail of OpenPath users, so the smaller advertisers, small agencies, we had already said that was going to be more of a street fight. So, you know, OpenPath has played out exactly as we thought it would. It is a modest impact in terms of the DV+ performance. It has no impact on the CTV performance. And everything that we said we were going to do, we did. And I think OpenPath has been with us for years and will continue to be with us for years. I think, if anything, we have proven that it is not an existential threat to the business, that we have embedded ourselves with our largest buyers to the degree that we become invaluable to them to execute their programmatic businesses."
+  },
+  {
+    "speaker": "Shyam Vasant Patil",
+    "role": "",
+    "text": "Thank you, guys. That is very helpful."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Our next question comes from Jason Michael Kreyer of Craig-Hallum. Please go ahead."
+  },
+  {
+    "speaker": "Jason Michael Kreyer",
+    "role": "",
+    "text": "Thank you, guys. So, Michael, you talked about running volumes through adCP. Just curious what you think the evolution is on that front, and what is the client interest in running volumes through AI agents?"
+  },
+  {
+    "speaker": "Michael G. Barrett",
+    "role": "",
+    "text": "Yeah. So, you know, interest is very high. In reality, very little budgets are being allocated to it. I think to frame it correctly, think of this as a massive remodeling of your house. But we are not knocking it down and building a brand-new house. So I think that it is all going to sit on top of the existing infrastructure in the industry. Hundreds of millions of dollars have been invested by Magnite, Inc. alone to make programmatic work, and what AI agents are going to do is make it work better. It is going to alleviate menial tasks from the traders, the planners, the ops people. And it is going to put more working dollars to play, which is awesome. And we feel it is all going to flow through our pipes. And so we are doing the exact appropriate amount of investment in it, and we are ready to catch the dollars when they come scaled. But that is not going to happen any coming quarter. So, interest high; execution actually putting your money where your mouth is is not high, but we believe we are in a great position technically and from a market position to take advantage of this next wave of innovation."
+  },
+  {
+    "speaker": "Jason Michael Kreyer",
+    "role": "",
+    "text": "Is that more likely to occur on the DV+ side or on the CTV side?"
+  },
+  {
+    "speaker": "Michael G. Barrett",
+    "role": "",
+    "text": "Oh, I think across the board. I mean, the world I described, a lot of heavy lifting that goes on in terms of planning campaigns, introducing opportunities for publishers, publishers introducing opportunities for buyers, making sure it works. Line item is broken here. This deal does not work here. Why does it not work? Twenty hours of troubleshooting to figure out, and then half the budget has already not been spent, and you are wasting time. And so I think there are all sorts of efficiencies that are in play across both platforms with an agentic approach as the UI level and then the plumbing and the infrastructure powered the way it used to be, the way Magnite, Inc. does it."
+  },
+  {
+    "speaker": "Jason Michael Kreyer",
+    "role": "",
+    "text": "A quick follow-up for David. The EBITDA OpEx is a pretty big jump from Q4 to Q1. Just curious if you can maybe talk about what investments are embedded in there."
+  },
+  {
+    "speaker": "David L. Day",
+    "role": "",
+    "text": "Yeah. And if you recall, we kind of have that jump literally every year. You have personnel raises effective January 1 that kick into place. You also have employer taxes that kick into place, and some of those are attached to some annual grant vesting in that Q1. We have an offsite that occurs in the first quarter of the year. Certain years, it is full company. Certain years, it is the commercial team. And so you just have a number of those things. And then the other component there would be some of the investment that I mentioned earlier, which is engineering and product talent for supporting the pace of development and velocity in our CTV business. And so those kind of make up that increase."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Our next question comes from Shweta Khajuria of Wolfe Research. Please go ahead."
+  },
+  {
+    "speaker": "Shweta Khajuria",
+    "role": "",
+    "text": "Okay. Thanks for taking my questions. Let me try two, please. I have a follow-up on the prior one. So, Michael, if you could please explain the context protocol, like how it works, what the real value proposition is, and what your differentiated advantage is there. And as it relates to CloudX, is that a competitive product? Is that even related? How should we think about how all this evolves in an agentic world, and what the impact will eventually be? Is it that you are going to get greater share of ad dollars? Is it that the TAM will expand? How should we think about the impact and how it works? And then the second question I have is just on the AdTech case. You touched on it in your prepared remarks. What is the base case expectation at this point? What should investors be expecting in terms of a realistic outcome, and if you have any sense on the timeline, that would be great too. Thank you."
+  },
+  {
+    "speaker": "Michael G. Barrett",
+    "role": "",
+    "text": "Yeah. Sure, Shweta. So, yeah, adCP is a protocol that allows agents to talk to agents. And so there is nothing particularly unique about that. It is making sure your platform can have agents talk to each other. So I think that, given the size of our platform and the appeal of the types of publishers we have, we were approached by Scope3 first to execute that. So I think it is less the fact that we are prepared to move beyond the API world and get into the adCP world where agents are talking to agents who need a point of connection, as opposed to APIs where it was more people connecting to machines. So I think that we feel very good about that. Where I think our point of differentiation will lie is not just in our readiness, but in the vast amount of data that we sit on and the years and years of the data that we have. We can help our publishers and help our buyers from an inventory discovery, price discovery, to maximize yield for publishers from mediation. I think that is where the magic really happens. So anyone can build an agent. The question is what data is that agent working on? I think we feel that we sit on this repository of data across tens of thousands of publishers, many, many years of data worth, to be able to inform decisions. We have also organized the taxonomy of all the publishers on our platform so that if someone is looking for sports enthusiasts or auto enthusiasts, the same protocol exists across all publishers so we can scale these, what would be very niche buys, across agents. So feeling very good about that. You also asked about CloudX. Obviously, that is more germane in the mobile area. But we are integrating into CloudX right now, which is a newer mediation platform for mobile app. So we are excited. We know the guys well. I think it is just another opportunity to gain access to a super fast-growing area of the DV+ business, which is app. And we are working closely with them. So it is a good thing for us, not kind of a disintermediation by any stretch. And lastly, in the AdTech case, very hard to pick timing. The expectation is it is any week now, but that could be delayed a little bit longer. As it relates to predicted outcome, again, that is a little difficult. I think given the types of conversations that were had in the final pre-judgment hearing between Google and the DOJ, it certainly seemed that, given the questions from Judge Brinkman, structural was probably not going to be the likely outcome, that behavioral remedies were. I think some people misinterpret that as, oh, that is not a good guide for Magnite, Inc. or their peers, which we could not disagree with more violently. We were always expecting behavioral, and we thought that, as long as through behavioral or structural it really did not matter to us. As long as the playing field was more level, we would be a huge beneficiary of that, and we still believe that to this day."
+  },
+  {
+    "speaker": "Shweta Khajuria",
+    "role": "",
+    "text": "Okay. That is helpful. Thanks, Michael."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Our next question comes from Matthew John Swanson of RBC Capital Markets. Please go ahead. Simran (for Matthew John Swanson): Hey, guys. This is Simran on for Matt Swanson. Congrats on the quarter. It seems like you guys have hit the tipping point in CTV, which has been great to see. What would you think from an ecosystem standpoint has changed, and how much would you attribute to the secular market shift versus your growing company-specific moat?"
+  },
+  {
+    "speaker": "Michael G. Barrett",
+    "role": "",
+    "text": "Yeah. Thanks for the question. I think David touched upon that when he gave specifics about perhaps it was the $9,000,000 that came from the DV+ platform, and that was placed on the expected $9,000,000 that we thought was going to be spent on DV+ was now spent on CTV. That is on top of the already high-growing base of organic spend there. So, you know, I think no matter how you look at it, you take the $9,000,000 off, you put it back in DV+, you are still looking at a 20-plus percent grower, which is significantly above market average. So I think that you are right about the tipping point. It is just being accelerated by a spend shift from one platform to the other. But it is inherently a much higher-growing platform to begin with. And as we pointed out a couple of times, with a much bigger moat for us. It is an area where we are very differentiated deep integrations with all the top streamers, ad server capabilities quite different from the DV+ market. Simran (for Matthew John Swanson): Got it. That makes sense. And then on the progress with these partnerships and integration, could you double-click on the ramp of some of these and maybe touch on Netflix specifically? Or any other partners that have progressed particularly well?"
+  },
+  {
+    "speaker": "Michael G. Barrett",
+    "role": "",
+    "text": "Yeah. So particularly in the streaming area, when we do our script and we talk about the largest, the most impactful clients of that quarter, we talked to LG Ads, Netflix, Paramount, Roku, Vizio, Walmart, Warner Bros. Discovery. So really across the board, we are seeing, in terms of the commerce partner in the DV+ part of the script that we talked about, you see United Airlines, which has taken a while to ramp, but it is now contributing well. PayPal, Pinterest, Best Buy has taken a while, but all these have different flavors of ramp to them. Some, if someone is in the ad business to begin with, having them allow programmatic into their world tends to impact the revenue line quicker than if, say, you are United Airlines, you have never been in the advertising business, and you are starting from scratch. That is a longer gestation period. So each have their different flavors. But, you know, from time to time, we will cite the ones that are active and contributing, and that was the list there."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Our next question comes from Barton Evans Crockett of Rosenblatt. Please go ahead."
+  },
+  {
+    "speaker": "Barton Evans Crockett",
+    "role": "",
+    "text": "I wanted to ask about your kind of view of the future with AI. Given that is what is really driving all the stocks? And I know there have been some questions on it, but I want to see if you can give us your view of how this evolves in this way, which is do you see AI as a force for compression of take rates throughout the ad tech sector generally? Do you see this evolving to a circumstance where perhaps LLMs are a front end for ad plans and then SSPs are kind of a processing agent, so maybe DSPs get squeezed? Or do you think that DSPs and SSPs remain kind of players and maybe the smaller competitors in both sectors get squeezed? Or any other kind of circumstance? How do you see this evolving in terms of players and take rates?"
+  },
+  {
+    "speaker": "Michael G. Barrett",
+    "role": "",
+    "text": "That is a great question. I think that if you look at an agentic world and you see where the value is created, there is still a tremendous amount of value being created by Magnite, Inc. Not just in the plumbing piece of it, but in educating these seller agents with the data that we have to make informed decisions on pricing, to mediate the buyer agents that come in. I think what you really generally see, again, is a renovation of the house, not a leveling of it. And it is a much more efficient world where folks are being freed up to do much more sophisticated tasks as opposed to this back-and-forth demand campaign management, fixing broken line items, all that kind of stuff. So I think that what you will see is far more media going to work. I think you will see certain people in between the agents become less valuable. But I think that if you look at the top DSPs and what they have built and the rails that they run on, and the top SSPs like a Magnite, Inc. and what we have built, the value creation is the same, if not greater. So I do not necessarily see a take rate impact in the future, an agentic future, for Magnite, Inc."
+  },
+  {
+    "speaker": "Barton Evans Crockett",
+    "role": "",
+    "text": "Alright. Now the other topic I was curious about, on antitrust. You know, there has been essentially an adoption of behavioral remedies in Europe with Google essentially just kind of moving to adopt some of the key things that could be coming here. Would you agree that is kind of a fair description? And if so, are you seeing any impact in terms of share shift in Europe from what Google has been doing over there?"
+  },
+  {
+    "speaker": "Michael G. Barrett",
+    "role": "",
+    "text": "Yeah. Great question. I do not know if that is it is an astute observation, but I am not so sure it is the exact remedies behaviorally that are being sought here in the States. So let us just say it is a portion of that package, the lowest-hanging fruit of the package. And it is also the one that requires the most lift on the publisher side. So what we have seen is the publishers that actually readjust the rankings of the exchanges and readjust the price floors, there is improvement. But that is a process. And this came down in Q4, so no one really starts to monkey with things during Q4 just given how important the quarter is. So we will see that play out. But I think it is just kind of scratching the surface of what the DOJ is looking for here and what Judge Brinkman has been alluding to. So I think it is not apples-to-apples to compare Europe to the United States."
+  },
+  {
+    "speaker": "Barton Evans Crockett",
+    "role": "",
+    "text": "Okay. That is great. Thank you."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "In the interest of time, if questioners could please restrict themselves to one question, our next question comes from Robert James Coolbrith of Evercore ISI. Please go ahead."
+  },
+  {
+    "speaker": "Robert James Coolbrith",
+    "role": "",
+    "text": "Great. Thanks. Just to go back to the CTV strength, any key unlocks, whether it is around demand partners, supply partners, or maybe things that had happened earlier in the year where the momentum just sort of built up in Q4 and surpassed your expectations? Just wondering if we could maybe take another crack at that. And then, secondly, on the agentic piece, is there anything here that can come into the market incrementally in terms of volumes that remain sort of offline negotiated via IO, whether that is through some sort of electronic data interchange or a fax or whatever things that can come into the market incrementally net new to programmatic from this sort of agentic shift in the market? Thanks."
+  },
+  {
+    "speaker": "Michael G. Barrett",
+    "role": "",
+    "text": "Great. Yes. I will take the last first. Certainly, I think that is the area of hope. There is still a tremendous amount of dollars that are frozen in the linear world that are insanely rate-sensitive. So it is more of an automation as opposed to agentic. But if you can build tools that, at a very efficient pricing, allow those dollars to be transacted programmatically, that is something we have been trying to effect with ClearLine for a couple of years now. I think if you can make it even easier and add an agentic piece to it, that could make it that much easier to have it talk directly to the ad server, have it inserted into the ad server. I think that is something that is of appeal, that it is not just all biddable, it is not just programmatic; it is taking insertion orders and just taking the people out of it and making it automated. So we have high hopes for that occurring, and I think it would be very beneficial to the Magnite, Inc. platform. As to the first part of your question on CTV, I would say broad-based across the board. Obviously, certain DSPs have become stronger. You look at the strength of an Amazon in the space. That has been impressive. Certainly, now and we have talked about them and the partnership that they have delivered. But I think across the board, you see strength in DSPs. I think one of the things that could be the unlock, however, is the upfront negotiations. They went stronger than anticipated. But the big question mark was how much was streaming going to be a part of it. Because all these guys, the big ones, still run linear businesses. I think what we are finding out is streaming played a huge role in the upfront, and you are starting to see that come to fruition because those dollars do not get spent until the second half of the year into the first quarter of the year. So I think that, combined with some of the strengths of particular partners, has really led to outsized growth in addition to the platform switch from the DV+ spending in the open web and now spending in CTV. Those altogether, and you get turbocharged growth rates."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Our next question comes from Eric Martinuzzi of Lake Street. Please go ahead."
+  },
+  {
+    "speaker": "Eric Martinuzzi",
+    "role": "",
+    "text": "Regarding the CTV performance, I think your comment on verticals was that there was retail strength, health and fitness, financial. And then you talked about weakness in auto, tech, and I cannot recall the third one. But I was just wondering if the guide has any change in the assumptions for those verticals as it status quo maintains, or is there an expectation of recovery in some of the weaker verticals?"
+  },
+  {
+    "speaker": "Michael G. Barrett",
+    "role": "",
+    "text": "You want to handle that?"
+  },
+  {
+    "speaker": "David L. Day",
+    "role": "",
+    "text": "Yeah. I think status quo is sort of what we have been seeing. So I would say the trends that we saw in the latter half of November and December are kind of continuing across the board into this first quarter. So no significant changes on those trends."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Our next question comes from Unknown Analyst of Bank of America. Please go ahead."
+  },
+  {
+    "speaker": "Unknown Analyst",
+    "role": "",
+    "text": "Hey, guys. So Netflix, I think, recently said that they expect their ad business to double in size in 2026. So I wanted to ask you how you are thinking about your contribution from Netflix as you progress through 2026, and how that might affect the overall take rate of your business? And then I have a follow-up."
+  },
+  {
+    "speaker": "Michael G. Barrett",
+    "role": "",
+    "text": "Sure. So, yeah, I think that Netflix has been a terrific partner. We anticipated them to exit this year as one of our top, if not top, on a run-rate basis, partners, and that certainly has come to fruition. And so we are anticipating a bigger year for them this year, given their aspirations in the space. And from a concentration standpoint, their take rate varies, obviously, on the services that we provide. In some markets, we do more than others, and so, therefore, I think from a blended standpoint, take rate is not going to impact the overall up or down."
+  },
+  {
+    "speaker": "Unknown Analyst",
+    "role": "",
+    "text": "Okay. On Netflix in particular, how do we think about CTV growth as we progress through 2026? It looks like you had a nice acceleration for the last couple of quarters. Should we think of an acceleration for the next few quarters as well as you try to upsell your products, as Netflix gets bigger? Is that the outlook for how you expect the year to pan out?"
+  },
+  {
+    "speaker": "David L. Day",
+    "role": "",
+    "text": "Just to clarify, when you say CPV growth"
+  },
+  {
+    "speaker": "Unknown Analyst",
+    "role": "",
+    "text": "Yeah. So year on year. So if you look at the year-on-year growth in CPV"
+  },
+  {
+    "speaker": "Michael G. Barrett",
+    "role": "",
+    "text": "I mean, we have CPM, take rate just want to make sure we are talking the same language."
+  },
+  {
+    "speaker": "David L. Day",
+    "role": "",
+    "text": "I think what you are getting at is sort of mix changes overall and in our take rates. And so I think on a blended, mixed basis in CTV, take rates have shallowed out, so they are becoming fairly stable. There still is a significant influx of what I would call premium inventory at our lower take rate tiers. And so I would expect that bottoming out to sort of continue. And we are having the contribution ex-TAC growth rates that we are even at those lower levels. So I would expect that bottoming out to sort of continue. Then I think just from a mix perspective, we have opportunity to grow those take rates in the coming time. I do not see a huge inflection, an increase in that average take rate in CTV in the near term, but we are building the foundation and the opportunity to provide those additional services on the demand side and so forth where we do make a slightly higher take rate as we go forward."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Our next question comes from Zachary Cummins of B. Riley Securities. Please go ahead."
+  },
+  {
+    "speaker": "Zachary Cummins",
+    "role": "",
+    "text": "Hi. Good afternoon. I will keep it to one question, just given the extent of the call. But David or maybe Michael could address this. Just curious about the strength you have been seeing with agencies, particularly in agency marketplaces. And you talk about the opportunity you have there, specifically maybe more ClearLine adoption with some of these key agency partners?"
+  },
+  {
+    "speaker": "Michael G. Barrett",
+    "role": "",
+    "text": "Yeah, Zach. We are very enthused by the adoption and the volume. These things take a while to get going. There is a bit of a sell-in from agency to their clients. And so it is kind of a crawl, walk, run. And the ones that have been up the longest are at run right now, and the others are in various stages. So I think that we are super encouraged by the model, super encouraged by the contribution for the company, and I think the stickiness is what really matters that when they build their business with Magnite, Inc. as the backbone of their programmatic marketplaces, we become more than just a vendor or a partner that can be put in competition every quarter. We become much more of a partner that is a much more strategic, longer-term partner, which is the easiest thing to do, particularly in the DV+ world. So they have been essential to our growth and the success of ClearLine."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "This concludes our question-and-answer session. I would like to turn the conference back over to Michael Barrett for any closing remarks."
+  },
+  {
+    "speaker": "Michael G. Barrett",
+    "role": "",
+    "text": "Thank you, Operator. Before we close, I want to thank our investors and our team. To our shareholders, thank you for your continued confidence and long-term partnership. We remain focused on disciplined execution and building durable value. To our employees around the world, thank you. CTV becoming the majority of our business, the acceleration across streaming, and our early leadership in AI-driven transactions are direct results of your innovation and commitment. The shift towards streaming and automation is structural and still in its early innings. As ad dollars move into CTV, they move into an environment where Magnite, Inc. has scale, deep integrations, and meaningful market share. We believe we are building foundational infrastructure for the next era of advertising and we are confident our best days are ahead. Thank you for joining us. We look forward to updating you next quarter. I will turn it back over to Nick to cover our upcoming marketing events."
+  },
+  {
+    "speaker": "Nick Kormeluk",
+    "role": "",
+    "text": "You got it, Michael. Yes, sorry. So upcoming schedule, we have got Susquehanna conference, now virtually, tomorrow; we have got meetings in San Francisco with Needham on March 5; Sydney road show on March 11; meetings in Boston with Bank of America on March 17; an investor lunch with Susquehanna on March 19; Kansas City with RBC on March 24; Dallas and Houston with Stephens on March 25 and March 26; and then San Diego and LA with BofA on March 30 and March 31. Thanks again all for joining."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "This concludes today's conference call. You may disconnect your lines. Thank you for participating, and have a pleasant day."
+  }
+]

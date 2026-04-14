@@ -1,0 +1,292 @@
+Ken Posner
+Good morning, and welcome to Mr. Cooper Group's first quarter earnings call. My name is Ken Posner, and I'm SVP of strategic planning and investor relations. With me today are Jay Bray, chairman and CEO; Mike Weinbach, president; and Kurt Johnson, executive vice president and CFO.
+As a reminder, this call is being recorded. You can find the slides on our investor relations webpage at investors.mrcoopergroup.com. During the call, we may refer to non-GAAP measures, which are reconciled to GAAP results in the appendix to the slide deck. Also, we may make forward-looking statements, which you should understand could be affected by risk factors that we've identified in our 10-K and other SEC filings.
+We are not undertaking any commitment to update these statements if conditions change. And with that, I'll now turn the call over to Jay.
+Jay Bray
+--
+Chairman and Chief Executive Officer
+Thanks, Ken, and good morning, everyone, and welcome to our call. This morning, I plan to talk about Mr. Cooper's technology strategy, which has been a major driver of our growth and which is the key to sustaining higher returns. But first, let's review the quarterly highlights on Slide 3.
+Operating ROTCE hit 14.5%, which was a great way to start the year as this gets us into our guidance range of 14% to 18% and we continue to see opportunities to progress higher into this range by executing on our strategy. We were pleased to report tangible book value at 15% year over year to $65.48. Now turning to servicing, the portfolio hit $1.1 trillion as we acquired $54 billion in MSRs, with double-digit yields and completed onboarding a $9 billion portfolio from an important new subservicing client. On a year-over-year basis, the portfolio is up 33%.
+At this point in the cycle, we are clearly pulling away from competitors in terms of building scale. Thanks to fast portfolio growth and impressive operating leverage, servicing income reached $273 million. Mike will comment more on the pipeline in a minute, but I'll spill a little bit of this thunder and tell you we're continuing to see super attractive opportunities in the bulk market, which we believe reflects the shakeout going on in the industry with banks pulling back from the asset class and originators seeking a source of liquidity. Turning to Originations, our team did a great job generating $32 million in pre-tax income while continuing to be an industry leader in retention.
+As you'll recall, during the quarter we issued $1 billion in high-yield notes priced to yield 7.25%, which I would add represents the tightest spread in the company's history. That was a nice vote of confidence from the high-yield community, and we were also encouraged to see Moody's upgrade our corporate credit rating by two notches and S&P upgrade our outlook to positive. We finished the quarter with record liquidity and a very strong capital ratio, as Kurt will take you through, while also continuing our share repurchases, albeit at a slightly lower level, given the strong returns we saw in the bulk MSR market. Now let's pull up and spend a moment on technology.
+If you'll turn to Slide 4, we've built our business model around a series of self-reinforcing competitive advantages. A great customer experience leads to strong retention, which maximizes returns and makes us the best bid for acquiring MSRs. Growing scale in turn gives us the resources to invest in technology, which is how we've delivered the operational and cost leadership, which has propelled the company over nearly 30 years to become the nation's largest servicer. Let's turn to Slide 5 and talk about our strategy.
+AI is in the headlines, as it should be, but to implement AI you need a state-of-the-art platform. So let's start by talking about the cloud, which we embraced much earlier than our peers. In fact, we built our servicing platform to be cloud-native from the start, which is why we were able to sell the IP to Sagent in early 2022 for a 20% interest in their firm. Sagent is now integrating our technology onto a cloud-native core to create a new platform called Dara, which will offer real time, anytime end-to-end processing and will be the first to benefit.
+But more importantly, by picking the right partner for cloud-native servicing technology, we were able to reallocate resources to other strategically important projects. These include building proprietary tools for customer retention, loan modification, and onboarding portfolios. We've also devoted resources to further digitizing processes and originations and servicing and improving our foundation. And of course, a top priority for us over several years now has been machine learning and AI.
+Let's turn to Slide 6 and talk about Pyro, our patented mortgage-centric AI platform which we've been actively developing since 2019 in partnership with Google. Initially, we focused Pyro on document extraction and classification, which is a huge project for servicers, since we deal with vast quantities of documents, including lots of non-standard forms. In 2020, we used Pyro to process 150 million pages of data. And today, we are running at well north of 600 million pages per year.
+How does Pyro help us? When we buy a portfolio of MSRs, we typically ingest hundreds of thousands of documents. Pyro scans and reads these documents using mortgage-specific learning models, harnessing AI to recognize and classify the data and populate it directly into our system. And in addition to capturing standard loan and customer attributes, our technology also detects unstructured content such as signatures and stamps. Pyro is fast, typically processing a new portfolio within 24 hours, and now that it's been trained on hundreds of millions of documents, it's very accurate, with accuracy rates of 97% or higher without any humans in the loop.
+When it comes to bidding on portfolios, Pyro gives us a massive advantage because we can respond to sellers with great speed and confidence. For example, think of the complexity that goes into modeling advances for a pool of MSRs. Before Pyro, we'd spend months reconciling invoices and filing claims with sellers. And for large portfolios with missing files, this process sometimes dragged on for years.
+Today with Pyro, we get a crystal clear understanding of advances within hours of reviewing the deal tape, which allows us to price the deal quickly and accurately while the seller doesn't need to worry about a tail of liabilities. Pyro also helps us provide our new customers with a seamless onboarding experience since we have all their data properly recorded. Now to be sure, thanks to Pyro, we've definitely trimmed expenses with fewer people dedicated to data entry, indexing, and reconciliations. But more importantly, with four years of experience, we're now ready to roll out Pyro in many other areas.
+If you'll turn to Slide 7, let's talk about where we're taking Pyro from here. Over the next few years, AI will radically transform our operations in many ways. For example, we're starting to apply supervised learning techniques to solve unstructured problems. The way this works in a call center is that Pyro continually gathers diagnostic information by listening to calls in real time, monitoring agent actions, and tracking the outcomes.
+Then the platform uses this information to optimize the flow of calls by recognizing patterns, anticipating issues, and routing calls to the right teams, and prompting agents with the information the customers need. Supervised learning in the call center will mean fewer, faster calls and happier customers whose needs are solved quickly. Now this won't happen overnight and you can't implement these kinds of solutions without a robust digital platform, but over time, these applications will result in massive efficiency gains. We're already taking the first steps on this journey.
+For example, by using Pyro to automatically summarize calls and trigger follow-up actions. The summaries free up agents from note-taking, allowing them to focus on their customers. And we're finding this application saves roughly 40 seconds off the average call, which for an operation with thousands of calls per day, adds up to millions of dollars in savings. Now, as with any new technology, AI brings risks.
+That's why we and other companies operate under a rubric of responsible AI, which includes controls to ensure the applications are unbiased, compliant, and secure. To wrap up, I'll leave you with a final point, which is that our technology strategy has benefited from our balanced business model, which shelters us from the extreme swings and profitability of origination-focused peers, and which has allowed us to invest in technology on a consistent basis year in and year out, as we work on the never-ending goal of perfecting our platform. Today, given our momentum and the challenges facing the rest of the industry, we have an opportunity to take our competitive advantages and make them decisive. In other words, we'll use the cloud, AI, and other applications to provide world-class service to our customers, operate as the trusted partner for our agency and investor stakeholders, and drive unmatched costs and operational leadership, which will translate into the rising ROTCE we're guiding you to expect.
+With that, I'll turn the call over to President Mike Weinbach to take you through the operating results.
+Mike Weinbach
+--
+President
+Thanks, Jay, and good morning, everyone. I'd like to start by saying how thrilled I am to be a part of the Mr. Cooper team and how excited I feel to be playing offense in an industry which has such an important customer mission. I'm going to start on Slide 8 and discuss the servicing portfolio, where we're clearly enjoying a period of rapid growth.
+As of March 31, the portfolio has reached $1.1 trillion, which is up 33% from a year ago. We now have over 5 million customers whom we look forward to serving for many years to come. Growth in the first quarter was split between MSR acquisitions and subservicing. In the MSR market, we've seen very robust volume so far this year, reflecting the two key trends which are reshaping the servicing industry.
+First, originators are selling MSRs for liquidity if they deal with nearly two years of negative margins in what is one of the most difficult markets in memory. And second, banks are reassessing their exposure to MSRs, due to regulatory capital concerns and the technology investments required to stay competitive relative to their reduced market share. These trends are translating into very strong supply in the bulk market. In the first quarter, our pipeline hit a record level, as we evaluated 52 bulk transactions, which is up nearly 50% from the level a year ago.
+These include deals brought to market by the MSR broker community, where we have excellent relationships, as well as the considerable volume of transactions which sellers bring us directly. For many sellers Mr. Cooper's the preferred buyer. That's because of our hard-earned reputation for timely closing and smooth onboarding and as Jay just explained Pyro means we can respond to sellers with even greater speed and accuracy.
+This was also a great quarter for our subservicing business where Mr. Cooper's rapidly becoming the platform of choice. In addition to the new client we onboarded, we're benefiting from portfolio growth at many of our existing partners. Our team is actively talking with various MSR owners, including investors, originators, and regional banks, and we're optimistic that we'll be able to win new clients.
+Subservicing is central to our growth strategy because it adds to our scale advantages and generates fee income without requiring capital or liquidity and is thus an important lever for raising ROTCE into that high teens range. Looking ahead to the second quarter, the momentum should continue with approximately another $100 billion in UPB scheduled to board, again, split between MSRs and subservicing. After that, growth will depend on the yields available in the market. While we're optimistic about a continued robust supply of MSRs, we're also seeing some signs of aggressive pricing, especially for portfolios that are closer to the money.
+You should expect us to remain disciplined in how we deploy our capital. We have no problem taking a pause from growth if conditions warrant. Turning to Slide 9, let's spend a moment on servicing earnings, which were quite strong at $273 million this quarter, up from $229 million in the fourth quarter. There were several factors driving strong performance, of which the most important was portfolio growth, which drove a $70 million sequential lift in operational revenues.
+Additionally, servicing earnings benefited from very low CPRs, which came in at 4.2% during the first quarter, minimizing our amortization expense. Finally, we did an outstanding job generating positive operating leverage, with expenses up only $6 million sequentially, despite our rapid growth. This leverage is the payoff from the intense focus on technology and operations that Jay discussed. Now please don't project this level of operating leverage every quarter, as you should expect ongoing investments in new applications, as well as ensuring we have the right number of people to take care of our customers.
+That said, we expect continued operating leverage even as we continue to invest in the platform. Looking ahead to the second quarter, we guide you to servicing income being flat to up in a range of $270 million to $290 million, depending on the impact of CPRs from the recent uptick in mortgage rates. Now let's turn to Slide 10 and discuss originations where we reported pre-tax earnings of $32 million which came in slightly above guidance. As you recall, when mortgage rates dipped toward the end of last year, our direct-to-consumer team was very nimble in helping customers take advantage of the opportunity to save money.
+As a result, we saw a slight uptick in rate and term refis which made up 12% of funded volumes in the first quarter. Otherwise, the mix remains dominated by cash out purchase and second liens, which are the products that provide the most value for our customers in this environment. You'll notice our refi recapture rates dip slightly to 70% and the industry dropped from 20% to 18%. This was partly due to a lower mix of cash-out refis, which provides some lift to the ratio since a new cash out loan has a higher UPB than the payoff.
+Overall, our recapture remains strong at almost four times the industry average. To maximize the value for our customers, we're continuing to invest in our DTC platform. You'll recall last year we talked about how Project Flash helped us realize 20% unit cost savings and processing by digitizing those workflows, which means breaking them down into discrete steps, which can then be automated. Well, now we're applying Flash to underwriting with similar productivity goals.
+We're also investing in a range of enhancements designed to make the application experience quicker and easier. And we're starting to use AI in originations as well, such as in automating income verification. We're beginning to see a return on these investments in the form of faster cycle times, higher pull through, and lower cost per loan to originate. As we look ahead, the Originations environment remains difficult, but as we continue to grow our servicing portfolio, that means more opportunities to help customers save money or access the equity they built in their homes.
+For the second quarter, we'd guide you to expect Originations Earnings Before Tax to be flat to up in the range of $30 million to $40 million. Now I'll turn the call over to Kurt who will take you through our financial performance.
+Kurt Johnson
+--
+Executive Vice President, Chief Financial Officer
+Thanks, Mike. Good morning. I'll start on slide 11 with a brief recap of our financials. To summarize, net income was $181 million, which includes a positive $42 million mark, $199 million in pre-tax operating earnings, and adjustments of $7 million.
+In addition to the servicing and operating results, which Mike just took you through, Xome continued to operate around break even with a $1 million loss in the quarter. Adjustments consisted of $2 million in trailing expenses associated with Home Point and other acquisitions last year, and a $4 million loss associated with equity investments. During the quarter, we marked up the MSR by $164 million due to higher interest rates and expectations for lower CPRs, leading to a quarter-end valuation of 155 basis points of UPB or a 5.3 multiple of the base servicing fee strip. This was offset by a $122 million hedge loss, which equated to 74% coverage, which is pretty much right on top of our target ratio of 75%.
+I'll add that with a weighted average coupon of only 4.1%, our portfolio has significantly less duration and convexity risk than an at-the-money MSR, which makes hedging a relatively simple exercise. Our deferred tax asset declined by $46 million this quarter and now totals $426 million. We continue to utilize our DTAs to offset taxable income and minimize our cash tax payments, which strengthens our cash flow. Tangible book value per share increased 15% year on year to $65.48.
+You may have noticed that our ending share count ticked up slightly in the quarter from 64.6 million to 64.7 million shares. This was due to issuance of 0.7 million shares relating to investing of employee stock incentives, which is something that typically happens in the first quarter of every year. Slide 12 gives you an update on asset quality, which continues to be a very good story for Mr. Cooper.
+Last year the markets were concerned about a recession lying just around the corner. And this year, while those concerns have abated, we all know that the cycle eventually turns. And we've put a lot of thought to constructing a portfolio that can perform in bad times, as well as good. As you may recall, Mr.
+Cooper's growth really took off in the aftermath of the global financial crisis when we took on large troubled portfolios from institutions that didn't have the capacity to manage losses or effectively help their customers. Agencies, MBS investors, and other stakeholders expect a servicer to perform in these conditions, which is arguably one of the most important ways in which we contribute to the health and stability of the mortgage and housing market. In the first quarter delinquencies in our MSR portfolio dropped an all-time low of 1.1% down from a previous record low of 1.3% in the fourth quarter and 2.3% in the first quarter a year ago, with declines in both conventional and government loans. Now clearly the strong credit environment is a major driver of these results, but also we have by design constructed a high-quality book with weighted average FICO scores at a record high while the weighted average LTV continues to decline.
+This is not accidental. We've been deliberately acquiring seasoned bulk portfolios where the customer's note rates are well below market and where customers have substantial equity built up in their homes. We've also been working to help our customers take advantage of the latest generation of modification programs offered by Fannie Mae, Freddie Mac, FHA, and VA. During the first quarter, we implemented 24,000 workouts up 50% year over year.
+Rolling out these programs at scale is another example of the power of our digital platform, and it also demonstrates our commitment to keeping the dream of homeownership alive. To wrap up, our balance sheet remains exceptionally strong as you can see on Slide 13. Liquidity reached another record high of $3.3 billion, thanks to $1 billion senior note issuance during the quarter, which we used to pay down our MSR lines. Liquidity consisted of $578 million in unrestricted cash with a remaining in MSR line capacity, which is fully collateralized and immediately available.
+We did draw on our MSR lines for purchases during the quarter, but this brought us new collateral and we were able to upsize our borrowing capacity by $200 million during the quarter and another $250 million after quarter end. Additionally, we began renegotiating existing MSR lines to extend maturities to 2026. Our capital ratio, as measured by tangible net worth to assets, ended the quarter at 29%, down 30 basis points due to asset growth, but still above our target range of 20% to 25%. As we continue to deploy our capital in a measured, thoughtful, and disciplined manner.
+As Mike mentioned, we're anticipating boarding another $100 billion in UPB in second quarter, split between owned and subservicing. Just to anticipate the question, at that point we would have capacity for another $50 billion to $55 billion in owned UPB, while still remaining comfortably in compliance with all our capital and liquidity policies. And with our servicing portfolio now generating well in excess of $1 billion per year, we can continue to grow with a combination of cash generated from our business, along with secured and unsecured debt. As you know, we're also pursuing asset-light growth strategies, including subservicing and the launch of a commingled MSR fund and separate managed accounts.
+Raising LP capital in this environment is not a fast process, but we're having very positive discussions with sovereign wealth funds, pension plans, and other asset managers who view the double-digit uncorrelated net returns available from MSRs, as an attractive opportunity within their private credit allocations. Let me echo Jay's comments about how pleased we are with operating ROTCE already at 14.5%, although obviously it will take not just a single quarter but strong performance over time to demonstrate what we believe the business model is capable of. The 14% to 18% guidance does not assume lower interest rates or higher leverage, but merely that we continue to execute on our technology strategy in both servicing and originations and that we grow asset-light strategies like subservicing. Last quarter, we shared guidance in excess of $10 in operating EPS for 2025.
+And given our execution on plan, we continue to be extremely confident in our expectations. With that, I'd like to thank you for joining us on today's call and for your interest in Mr. Cooper. I'd now like to turn the call back over to Ken for Q&A.
+Ken Posner
+Thanks, Kurt, and Michelle, we'd like to now start the Q&A, please.
+Questions & Answers:
+Operator
+Thank you. [Operator instructions] And our first question is going to come from the line of Crispin Love with Piper Sandler. Your line is open. Please go ahead.
+Crispin Love
+--
+Piper Sandler -- Analyst
+Thanks, and good morning. I appreciate taking my questions. Just first -- can you discuss a little bit what you're seeing competition-wise in the origination segment, as you've seen a solid improvement in margins and then also a pick-up in volumes in the quarter? And do you think that you can hold margins steady or they might pull back a bit from the elevated levels you had in the first quarter?
+Mike Weinbach
+--
+President
+Yeah, hi, it's Mike. As we look across the originations market, obviously with rates up, it continues to be a challenging market. But at the same time as our portfolio grows, we have more opportunities to help customers take advantage of the equity they have in their homes, find ways to have a lower rate or if they're looking to move, help them with a purchase in a new home. So we don't give specific guidance on margins, but we feel good about the opportunities we've had to be consistently profitable in this space and to continue to take great care of our customers.
+So, we expect it to continue to be a competitive market if rates are higher. Obviously, that'll change if rates come down, but we mostly focus on being there to serve our customers regardless of the rate environment.
+Crispin Love
+--
+Piper Sandler -- Analyst
+I appreciate the color there. And then you also -- you mentioned that the MSR bulk purchase market remains attractive and you put some numbers around that as well. But let's dig a little bit deeper there and discuss, one the competition you're seeing, and then, two what types of portfolios you're most interested in, and -- is it higher coupon, lower coupon, more agency, or just any other color? Thank you, and I appreciate you taking my questions.
+Jay Bray
+--
+Chairman and Chief Executive Officer
+Sure. Hey, this is Jay. Look, we think the bulk market is extremely attractive. I think as Mike pointed out, we looked at over 50 opportunities in the quarter and it's a mix.
+It's a blend of legacy portfolios, as well as at-the-money, kind of newly originated portfolios. And our approach is just to maintain our discipline. We look at all these portfolios. We run them.
+We have more data and more information probably than anybody in the industry around how certain sellers are going to perform, how the collateral is going to perform from a prepayment standpoint, default standpoint, etc. And we just exercise our consistent discipline in hitting our targeted returns. So I won't say we're indifferent with respect to what the portfolios look -- come out or what's in the market, but we'll just continue to exercise our discipline and hit our targeted returns. But we're very, very bullish on the opportunity, and we just actually bought some additional portfolios this week.
+So we think the market is there and it's going to continue to be there.
+Operator
+Thank you. [Operator instructions] And our next question is going to come from the line of Bose George with KBW. Your line is open. Please go ahead.
+Bose George
+--
+Keefe, Bruyette and Woods -- Analyst
+Hey, everyone. Good morning. Can you talk about the potential longer-term growth in the servicing portfolio? I mean, could we see, you know, $2 trillion at some point and would regulators see that as a concern or as a plus as servicing moves toward larger, well-capitalized servicers like you?
+Mike Weinbach
+--
+President
+Yeah, hey Bose, it's Mike. Happy to start with that one and Jay and Kurt can chime in as well. In the past, we had a target of reaching $1 trillion in servicing. I think as we move forward, you're going to hear us talking a lot more about targeted returns.
+So we are not targeting a certain size. We look at what the market offers. And as Jay just talked about, we're disciplined in terms of the way we price opportunities and so the market really dictate what our future growth is. We feel good about the ability to continue to earn good returns for our shareholders.
+The only thing I'd add though is, if you look at the market overall, there's about $14 trillion in mortgages outstanding and actually over $30 trillion of equity in the homeowner's homes. And that's grown probably from $10 trillion a decade ago. So there's been some slow and steady growth in the market. You'd expect that to continue.
+In addition, it's a challenging business. It requires -- making sure you're making the investments to stay compliant with Federal, State & Local Laws and rolling out new programs that investors ask for four years. So we're continually investing back in the business, and I think part of the reason you're seeing us grow is because there's a lot of other people in the mortgage ecosystem who are focused on something other than servicing, helping homeowners get into new homes, leading investment and management platforms. And people have been able to partner with us either through us offering subservicing where they could focus on what they do best or focusing on originations and selling what they originate to be able to fund their business, which has allowed us to grow.
+So a long way of saying, even with our growth in servicing, it's still a single-digit share of an overall market. And we think there's a lot of reasons for the market to continue consolidating. So the rest of the ecosystem can focus on what they do best.
+Jay Bray
+--
+Chairman and Chief Executive Officer
+Yeah, the only thing I would add Bose, is that if you look at our performance, scorecard standpoint, I mean we're consistently number one, number two from all of our stakeholders. And so I think there's a lot of confidence in Mr. Cooper as a servicer. And it's just natural, to Mike's point, it's a large scale matters, technology matters, investment matters.
+You know, if you look at other financial services, you know, types of companies, market share can grow considerably. And so we don't see any impediment to growth from here. The last comment I would make is about half of our portfolio is subservicing, right? And so we don't really have the capital risk or -- it's completely capitalized business. So long answer to your question, but that's how we think about it.
+Bose George
+--
+Keefe, Bruyette and Woods -- Analyst
+That's great, that's very helpful, thanks. And then actually just a question on the corporate segment outlook there. Actually, this quarter's number a reasonable run rate going forward? I mean, there are a couple of little blips, but is this kind of a reasonable level?
+Jay Bray
+--
+Chairman and Chief Executive Officer
+No, I think we've actually made some investments in the corporate segment to look to reduce it going forward. We think there's an opportunity in the coming quarters to actually reduce expenses in the corporate segment. So you shouldn't think -- you should really look at that as an investment that we made to actually identify some future savings.
+Bose George
+--
+Keefe, Bruyette and Woods -- Analyst
+So, just specifically, some of the expenses in the first quarter were the investments, so you see it kind of trending down from here.
+Jay Bray
+--
+Chairman and Chief Executive Officer
+Exactly.
+Kurt Johnson
+--
+Executive Vice President, Chief Financial Officer
+Although, Bose it's Kurt, I just wanted to comment that the debt expense had only two out of three months on the new billion-dollar issuance. So that will take up slightly, but it's pretty close to our run rate. And we do call that out separately.
+Bose George
+--
+Keefe, Bruyette and Woods -- Analyst
+OK, perfect. Thanks a lot.
+Operator
+[Operator instructions] And our next question is going to come from the line of Doug Harter with UBS. Your line is open, please go ahead.
+Doug Harter
+--
+UBS -- Analyst
+Thanks, can you talk about the outlook for cost per loan on the servicing side, as you think -- can you continue to drive that lower and does that come from the technology investments because it comes from continued scale or both?
+Jay Bray
+--
+Chairman and Chief Executive Officer
+I'll start and let these guys come in. Hey Doug, I mean I'll just give you an example of the power of the platform. You know we boarded $130 billion in the first quarter and our actual little compensation expense went down and we think we could board a $100 billion portfolio today and add less than 50 people. And so we've got incredible scale, incredible power in the platform.
+And I think we're in still the middle innings of what's possible from a cost-per-loan standpoint, which is why we -- sometime today talking about AI and the investments there. But we've been investing in data and technology for years, and AI is just now another arrow in the quiver to continue to drive costs down. So we really are bullish on continuing to take costs out there. So I don't know, Mike, if you would add anything.
+Mike Weinbach
+--
+President
+Yeah, nothing to add. That's the plan.
+Doug Harter
+--
+UBS -- Analyst
+Great. Thank you.
+Operator
+[Operator instructions] And our next question is going to come from the line of Kyle Joseph with Jefferies. Your line is open, please go ahead.
+Kyle Joseph
+--
+Jefferies -- Analyst
+Hey, good morning, thanks for taking my questions. Just looking at Slide 12, wanted to dig a little bit more into industry DQs, particularly on the Ginnie side you're seeing. DQs even come down in that segment. What's driving that dynamic? Have you been able to refi those into Fannie and Freddie products?
+Kurt Johnson
+--
+Executive Vice President, Chief Financial Officer
+Hey Kyle, it's Kurt. I'll take a stab at that question. You can see obviously FHA coming down a lot faster than VA and USDA. FHA has done a really great job from a modification standpoint of just putting programs in place that are easy for the servicer to implement and really attractive for the customer as well.
+So they have programs that allow the customer to stay in their low rate mortgages and capitalize sort of all of their [Inaudible] on the back end of the mortgage. And we've actually seen them perform quite well as well. So the customer, once they recover from their temporary hardship, is able to go into these, keep the same mortgage rate, and really kind of continue to perform. And that's why we're seeing sort of the drop off in FHA.
+Now, VA hasn't had the same programs historically, and so that's why you've seen sort of a slower decline, particularly around customers that are coming off of forbearance. But VA just introduced a new program this last week, where customers can get a modification with a 2.5% rate and a 30-year to 40-year amortization. So we do think that VA in the near term will probably have some good opportunities as well. But that's really what's driving it.
+And yes, we are seeing it industrywide. If you look at kind of the FHA performance, you'll see their delinquencies have dropped overall over the last couple of months, and I think you'll continue to see them decline as servicers are able to implement these programs.
+Kyle Joseph
+--
+Jefferies -- Analyst
+Got it, and then kind of a tangential follow-up just in terms of Xome, you know, was the first quarter -- is that a decent revenue run rate? You know, obviously the lower DQs would impact that business but just give us a sense for how that business is performing given the declines in DQs.
+Jay Bray
+--
+Chairman and Chief Executive Officer
+I mean, I think Xome is performing as expected, right? We're not expecting anything terribly exciting from Xome in this market. I mean, delinquencies are at all-time lows. We don't see that changing anytime soon. Given Kurt's point, the government continues to roll out programs to keep borrowers in their homes, which is obviously very, very positive for the servicing business.
+But I think, until the cycle changes and you start to see more foreclosures meaningful, I don't think you should expect a lot out of them. But again, we're patient. It's a very valuable asset. We've got a great platform there.
+We continue to win market share, and we'll be patient.
+Kyle Joseph
+--
+Jefferies -- Analyst
+Got it, thanks very much for taking my question.
+Operator
+[Operator instructions] Our next question is going to come from the line of Giuliano Bologna with Compass Point. Your line is open. Please go ahead.
+Giuliano Bologna
+--
+Compass Point Research and Trading -- Analyst
+Good morning. Congratulations on the continued execution.
+Jay Bray
+--
+Chairman and Chief Executive Officer
+Thanks, Giuliano.
+Giuliano Bologna
+--
+Compass Point Research and Trading -- Analyst
+One thing I'd be curious about is, you've obviously grown the portfolio a lot, and you obviously have another $100 billion projected for next quarter. Is there any preference for balanced portfolios or at-the-money portfolios going forward? And is there any kind of preference for the different products out there?
+Jay Bray
+--
+Chairman and Chief Executive Officer
+Again, I think the way we think about it is we're always going to be a market participant and we're always going to look at what's in the market and stick with our kind of disciplined approach to hit our targeted returns. And so we today, I would say, are buying more conventional than Ginnie. And historically, I've bought more out of what I would call out of the money portfolios. But as the market evolves and changes, I think you'll see more at-the-money portfolios coming to market, especially from the originators.
+And so we're going to be active, but we're going to be disciplined. And we don't see really any change in the velocity of what's coming to market just given where the banks are at and where the origination markets at we'll just continue to focus on what we do and we have a real competitive advantage from a loan boarding standpoint, cost standpoint, recapture standpoint, so we feel good about the opportunity.
+Mike Weinbach
+--
+President
+The only thing I'd add is that we do look at all the transactions on an option-adjusted spread basis. And so we price with the optionality at-the-money portfolios and where we see value, we will buy and to Jay's point, we're relatively indifferent. We just want to make sure that we're adding value to our shareholders with every single purchase that we do. We do think our recapture is best-in-class.
+And so as there are opportunities for at-the-money, I think that there's some good opportunities for DTC and to leverage that platform a little bit more. So you may see us a little bit more active at closer to at-the-money and giving our portfolio a little bit of room for growth from an originations perspective. But again, discipline around the price and we said we looked at 52 portfolios. You know, we didn't win anywhere close to 52.
+So it's still a competitive marketplace and where we think -- we see value and where we see additive to our earnings potential, that's where we're going to be a winning bettor.
+Giuliano Bologna
+--
+Compass Point Research and Trading -- Analyst
+Yeah, that's very helpful. And then, one that the -- hopefully it's not -- too early to bring up, but Freddie Mac has a proposal out, still a proposal, hasn't been approved yet, but around insuring and enabling second mortgages that would be fixed rates in 20 years' term instead of HELOC for current Freddie Mac loans. I'm curious if you think about that type of a product, obviously it's only proposed for Freddie so far, and it'd be interesting to see the goes for, it ends up being close for Fannie as well. But I'm curious if there's any opportunity around that product or you've thought about the potential opportunity because it could obviously bring in another wave of origination, kind of quasi cash or refi volume that could be added to the origination platform and also to the servicing platform.
+Just curious if you've thought about -- what that opportunity could look like. I realize it's fairly early days.
+Mike Weinbach
+--
+President
+Yeah, hey, Giuliano, it's Mike. You said a lot of the answer in your question which is -- it's relatively early days but we think it's very interesting and we exist to serve homeowners and if there are more tools that give us opportunities to help homeowners take advantage of the equity in their home, it's great for our customers and it's great for us. As this market is developing, I mean, if you think back to the HELOC market before the financial crisis, obviously that didn't end up very well. And so since then it's been much more responsible and we appreciate that and support that and want to continue to see that.
+And it's still in the early innings of evolving. So the vast majority of Americans with a mortgage have a mortgage at a much lower rate than where loans are being originated today. I go back to some of the stats I threw out earlier. Over $30 trillion of equity available in homes against $14 trillion of mortgages.
+So the LTV of the market as a whole is in the low 30s. So there's a lot of opportunity there. And we'd love to see products come out that are simpler for homeowners. And Freddie is in a great position.
+They have the first lien. They know a lot about that customer. They know a lot about the value of the loan. They know a lot about the security of the instrument.
+And so we're really excited to see they're looking at ways to innovate to make things easier for customers and their servicers and their investors to help customers take advantage of the equity in their homes.
+Jay Bray
+--
+Chairman and Chief Executive Officer
+And the only thing I'd add is we're doing second-lien today, right, when you look at our platform, it's a -- not an insignificant percentage of what the origination platform is funding today. So we have the operational capability to roll this out. So, you know, we're excited about it, and I think it will be a real opportunity.
+Giuliano Bologna
+--
+Compass Point Research and Trading -- Analyst
+That's very helpful, and I appreciate it. And I will jump back in the queue.
+Operator
+[Operator instructions] And our next question is going to come from the line of Terry Ma with Barclays. Your line is open. Please go ahead.
+Terry Ma
+--
+Barclays -- Analyst
+Hey, thanks. Good morning. I just want to follow up on the MSR opportunity, maybe to ask it a slightly different way. Maybe like this quarter out of 52 deals, can you give us a sense of how many of those deals actually hit your return hurdles or were in your wheelhouse? And then out of that, maybe how many did you win due to pricing and competition?
+Jay Bray
+--
+Chairman and Chief Executive Officer
+I think we're still winning a pretty small percentage in the grand scheme of things. We don't really comment on specifics around that process, but we looked at it all alone. We have a very tight investment committee process around that -- and we're still winning a fairly small percentage, which again we're OK with because we want to make sure we're hitting the returns for our shareholders.
+Mike Weinbach
+--
+President
+The only thing I'd add, to reiterate what Jay said, we lose more than we win. We bid almost all of them and we think we get to see almost everything that's in the market because people know our ability to very quickly evaluate a portfolio against our return hurdles and come back with a price. So, yeah, we like that we continue to see everything. We're going to remain disciplined.
+We're going to be an active participant in the market. And, you know, even losing more than we win, it's helped us be able to grow.
+Jay Bray
+--
+Chairman and Chief Executive Officer
+And the last piece I would add is we do have sellers that consistently come to us directly because we've had a proven track record with them. We've been able to execute time and time again. And so there, obviously, we're going to win those in most cases because we have a track record with that seller. So that's one other element of the process.
+Terry Ma
+--
+Barclays -- Analyst
+Got it. That's helpful. And then I may have missed this, but on the servicing pre-tax for the quarter, you guys had some pretty good operating leverage. Was there anything one-timers sees knowing that? Now that we think about, I guess, maybe the margin going forward.
+Kurt Johnson
+--
+Executive Vice President, Chief Financial Officer
+No, there really wasn't much in the way of one-timers in servicing, particularly not from an expense standpoint. So I think you can -- as Mike said, you can't count on the operating leverage sort of being that robust on a go-forward basis, but I think, Jay pointed out, right, $100 billion of additions with less than 50 ads from a headcount perspective, I think the operating leverage continues to exist and you'll see that play out on a go-forward basis.
+Mike Weinbach
+--
+President
+And the only thing I'd add is obviously there's an element of rates there. So with higher rates CPRs were lower. If the environment had been different you might see what appears to be less operating leverage, but what underlies that regardless of rate is we're continuing to invest in the platform, which has given us the capabilities that Jay talked about to bring on new loans without needing to add significant amounts of expense. So we feel great about the scalability of the platform.
+We're going to continue to invest to realize it, but as I said up front, we expect to see continued operating leverage going forward.
+Terry Ma
+--
+Barclays -- Analyst
+Great. Thank you.
+Operator
+[Operator instructions] And one moment as we move on to our next question. And our next question is going to be from the line of Eric Hagen with BTIG. Your line is open. Please go ahead.
+Eric Hagen
+--
+BTIG -- Analyst
+Hey, thanks. Good morning. On the $50 billion of MSRs that you're onboarding this quarter, can you share how you're financing that? Is it all in cash or using any debt? Was it competitively bid? And any recapture expectations you might expect for that portfolio? And then a follow-up there, I mean is it right to assume that the amortization expense that you expect as you onboard that is sort of proportional to the amortization expense in the overall portfolio right now?
+Kurt Johnson
+--
+Executive Vice President, Chief Financial Officer
+Yeah, all good questions, Eric. Look the $50 billion and I'm trying to remember all the questions now because we were a lot of components, Eric. $50 billion was largely competitively bad. To Jay's point there were a couple that probably came directly to us, but for the most part, it was competitively bad.
+I think, yes, you'll see a pro rata amortization expense, but as Mike pointed out, a lot of that is interest rate dependent. So, if the rates stay kind of where they are in this higher range, I think you'll definitely see sort of a pro-rata amortization. If they increase a little bit, or sorry, if they decrease a little bit, you'll see that go up. I think you'll see a corresponding increase in our DTC performance as well.
+So again, the focus is on the balanced business model and we do think that these returns are really interest rate agnostic and that where you see a drop off in servicing because of a rate rally, you'll see an increase in our DTC channel.
+Eric Hagen
+--
+BTIG -- Analyst
+Yeah, OK, that's helpful. Good discussion on this call. I mean, we've seen the investor base for MSRs evolve very considerably over the last couple of years. Do you feel like a more concentrated ownership of servicing from the non-bank community and mortgage rates contributes to higher volatility for the asset class? How do you think about your footprint in light of the ownership base?
+Jay Bray
+--
+Chairman and Chief Executive Officer
+I mean, the short answer is no. From our standpoint, when you look at the buyers that are out there today, typically strong, well-capitalized. You've got the financial buyer segment, which we subservice for, and there are strong counterparties, good operators like a Mr. Cooper.
+And then you've got, if you look at someone like us, clearly we think our goal is to be the leader in the market, to continue to provide stable, consistent earnings, hit our returns, and, you know, have a fortress balance sheet. I mean, that's the way we think about the business. To be a leader, you need those things. So no, we certainly don't think that it's introduced more volatility into the system.
+Kurt Johnson
+--
+Executive Vice President, Chief Financial Officer
+And I would say that the banks are still there, right? They are still bidding against us, and we've seen them win a couple of portfolios in Q1. So it's not like they're entirely out of the marketplace either.
+Eric Hagen
+--
+BTIG -- Analyst
+Yeah, got you, I appreciate you, guys. Thank you.
+Kurt Johnson
+--
+Executive Vice President, Chief Financial Officer
+Thanks, Eric.
+Operator
+Thank you, and I'm showing no further questions at this time, and I'd like to hand the conference back to Jay Bray for any closing remarks.
+Jay Bray
+--
+Chairman and Chief Executive Officer
+We appreciate everyone for joining the call. Have a great day. Thank you.
+Operator
+[Operator signoff]
+Duration: 0 minutes

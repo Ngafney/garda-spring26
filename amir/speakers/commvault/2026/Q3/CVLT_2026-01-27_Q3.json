@@ -1,0 +1,397 @@
+[
+  {
+    "speaker": "Unknown",
+    "role": "",
+    "text": "Full Conference Call Transcript"
+  },
+  {
+    "speaker": "Sanjay Mirchandani",
+    "role": "",
+    "text": "Good morning. And thank you for joining us. Q3 was another solid quarter for Commvault Systems, Inc. We reinforced our position as an innovation leader and garnered accolades from partners and industry analysts. Some financial highlights in the quarter include subscription revenue grew 30% to $206 million. This was fueled by a record land and expand quarter with the addition of 700 new subscription customers. Subscription ARR increased 28% to $941 million, SaaS ARR increased 40% to $364 million, and we achieved the rule of 40 with a healthy balance between growth and profitability. Our momentum in Q3 and year-to-date reflect the growing need for next-generation cyber resilience. In an AI-driven, hybrid, and multi-cloud world, resilience cannot be reactive, manual, or fragmented. It needs to be continuous, always on, and unified through a single control plane. Commvault uniquely delivers this innovation. I'm proud to share that in Q3, we were awarded our 1,600th lifetime patent. I want to thank our engineering and IT teams for their continued commitment to excellence and innovation focused on customers. At our shift event in November, we took innovation to the next level with the Commvault Cloud Unity platform release. Unity brings together data security, identity resilience, and cyber recovery on one platform all enabled by the Metallic AI fabric. With Unity, customers are now equipped to drive their res ops, or resilience operations. Res ops is a discipline that unifies operations, security, and infrastructure across the business. By bringing these silos together, organizations can plan, prepare, and recover from a disruption or cyber attack. Customer, partner, and industry feedback has been overwhelmingly positive. Dave Novak, Deloitte's cyber resilience lead said, the Commvault Cloud Unity platform brings these elements together in a way we don't see elsewhere in the market. We're pleased to team with Commvault, help joint customers respond faster, reduce risk, and confidently adopt AI and cloud at scale while advancing resiliency. IDC further validated this approach stating, we believe res ops has an opportunity to resonate with customers as it is concise, with powerful implications operational value. ResOps is a fundamentally different approach from what legacy vendors provide today. Resilience in the age of AI requires us to, one, continuously secure data at the source and monitor for anomalies. Two, control the identities human and nonhuman, that access and use the data autonomously. And three, predictably, recover data applications and operations at massive scale with the lowest total cost of ownership. Let's take a moment to discuss each, starting with data security. As enterprises embrace AI and move to the cloud, they must also grapple with evolving and more sophisticated attacks. By combining Commvault's Metallic AI fabric with our multipoint stress scan synthetic and clean room recovery offerings, customers can secure data as a source, identify, analyze, and quarantine suspicious files, monitor for anomalies, and conduct recoveries with precision so they're ready for an inevitable attack. Case in point. By embracing our threat scan and risk analysis capabilities, UNC Health, a long-standing customer, is now able to scale its security with its data growth. Saving time, reducing risk, supporting compliance, and advancing cyber resilience. Next, let's talk about identity resilience. According to CrowdStrike, approximately 80% of breaches involve compromised identities. Attackers don't start by encrypting data. They compromise valid credentials and escalate privileges. Putting identity at the center of cyber risk. Commvault Cloud's growing identity resilience capabilities enable enterprises to easily track, and mitigate unauthorized or accidental changes to identity systems like active directory, and TriD, and Okta. As Eric Beer of Jazzwares of Berkshire Hathaway company explained, Commvault innovation with identity resilience will allow us to detect, and roll back malicious identity changes as they happen. So that we can maintain reliable authentication and access control while strengthening our overall cyber resilience. In Q3, hundreds of customers embraced our identity resilience capabilities. And ARR from just our active directory offering has more than doubled year over year. In just two years, it has become one of our largest SaaS offerings. And finally, we cannot discuss resilience operations without addressing recovery. Particularly for cloud-native and cloud-bound enterprises. In Q3, we saw accelerated momentum with our cloud-native offerings including Glumio. For example, Clarity, a pioneer AI-driven predictive health chose Plumio to safeguard sensitive AI data that fuels next-generation risk prediction models. Our ongoing innovation with Clumio also speaks to our long-standing collaboration with Amazon Web Services. In Q3, we achieved AWS resilience competency in the recovery category. And we were named the 2025 AWS global storage partner of the year. Additionally, GigaOM named Commvault a leader in its cloud data protection radar. Commvault Cloud also supports recovery of massive AI workloads, and pipelines like object stores, data lakes, analytics platforms, and vector databases. In Q3, announced a new partnership with Pinecone that will bring greater resilience the vector databases within enterprise AI stacks. Delivered via Commvault Cloud, the solution will support Pine deployments across AWS, Azure, and Google Cloud. It's targeted for general availability, in 2026. We believe that AI is an emerging tailwind for us, It dramatically increases the volume of data that needs to be protected. Introduces new threats that need to be addressed, and requires a solution that brings resilience to the services, models, and databases that power AI. Our Commvault Cloud Unity platform is ideally suited to help customers address these evolving AI required. I'd be remiss if I didn't discuss our focus on data and cloud sovereignty. Over the years, we've always met our customers evolving needs. Including their data sovereignty requirements. Now we're taking it a step further by supporting regional sovereign clouds. In December, we announced that Commvault is a launch partner for the AWS European sovereign cloud. Together, our plans are to provide European organizations, with a secure solution that is purpose-built for cloud. Delivering cost-optimized resilience at scale for AWS customers. We're working closely with other partners on cloud sovereignty as well. This is an emerging space. We'll have more to say about this soon. Let me close with this. This quarter, we continue to capitalize on strong market growth through innovation leadership, and execution excellence. And we're seeing record customer engagement and adoption. We believe Commvault Cloud Unity is the breakthrough platform customers need in the AI era. And we anticipate we will finish the year with solid results that reflect both our leadership in the market and the trust our customers place in comp. Thank you. Now I'll turn it over to our chief accounting officer, Daniel Abrahamson, to discuss the financial details. Danielle?"
+  },
+  {
+    "speaker": "Daniel Abrahamson",
+    "role": "",
+    "text": "Thanks, Sanjay, and good morning, everyone. As Sanjay highlighted, our Q3 results reflect the growing demand for our Commvault Cloud platform. As customers continue to rely on us to keep them resilient in the face of attacks, while advancing their hybrid cloud and AI journey. I'll recap our Q3 results and operating metrics. Followed by an update on Q4 and fiscal 2026 guidance. As a reminder, all growth rates are on a year-over-year basis unless otherwise noted. For Q3, total revenue growth accelerated 19% to $314 million driven by a 30% increase in subscription revenue, which reached $206 million. Subscription revenue was led by a robust 44% increase in SaaS revenue, and one of our strongest customer acquisition quarters in years. Term software revenue grew a healthy 22%, to $119 million. We saw strong growth across all geographies and customer sizes, with notable strength from large enterprise accounts. Revenue from term software transactions over $100,000 rose 25%. Driven by notable gains in both transaction volume and average deal size. Additionally, the volume and dollar value of million-dollar software deals increased year over year. Underscoring our standing as the preferred vendor for enterprise customers. We added approximately 700 new subscription customers and we ended the quarter with over 14,000 subscription customers. Q3 was our best quarter ever for net new term software customer additions, and our second-best ever SaaS customer acquisition quarter. Now I'll discuss ARR. Subscription ARR, which we believe is the best indicator of the company's health and growth, increased 28% to $941 million. This was driven by 40% growth in SaaS ARR to $364 million. Subscription ARR now represents 87% of total ARR. Compared to 83% one year ago. Total ARR increased by 22% to $1,085 million. Existing customer expansion was healthy in Q3. With SaaS net dollar retention of 121%. Consistent with best-in-class SaaS platforms. Our SaaS, net dollar retention reflects a few things. One, a growing install base, which is now over 9,000 customers. Two, the impact of rapidly adding new SaaS customers. Which is forward-looking and not yet reflected in our net dollar retention, and three, a mix shift of some product capabilities with certain early adopter customers. We saw solid momentum across our identity and resilience offerings which collectively represented approximately 30% of net new ARR. Now, I'll discuss our profitability and free cash flow. Fiscal Q3 gross margins improved 100 basis points sequentially to 81.5% which reflects a higher mix of software sales. In addition, we saw improved economies of scale and product efficiencies that we expect to continue in Q4. Operating expenses of $193 million represented 62% of total revenue. Operating expenses reflect higher commissions and bonuses on strong year-to-date sales performance and the trailing run rate of initiatives to support our ongoing growth trajectory. Non-GAAP EBIT $61 million reflecting in a margin of 19.6%. In fiscal Q3, we achieved the Rule of 40, reflecting a healthy balance between revenue and profitability. Year to date, we're operating at a rule of 41. Consistent with our responsible growth philosophy. In line with this approach, at the end of Q3, we initiated a cost optimization program. Aimed to align our cost structure to the evolving needs of the business. Turning to key balance sheet and cash flow indicators. We repurchased $41 million of stock during the quarter. Bringing the year-to-date amount to $187 million. We ended the quarter with a diluted share count of approximately 45 million shares. Year to date, we have generated $105 million of free cash flow. Q3 free cash flow of $2 million was impacted by the timing of collections from sales made later in the quarter and an additional payroll cycle for both The U.S. And Canada. We expect this to normalize in Q4. Now I'll discuss our outlook for Q4 and our updated outlook for fiscal year 2026. For fiscal Q4 '26, we expect subscription revenue, which includes both the software portion of term-based licenses and SaaS, to be in the range of $203 to $207 million. This represents 18% growth at the midpoint. We expect total revenue to be in the range of $305 million to $308 million with growth of 11% at the midpoint. As a reminder, Q4 fiscal year 2025 benefited from several multiyear strategic land transactions. At these revenue levels, we expect Q4 consolidated gross margins to be approximately 81%. We expect Q4 non-GAAP EBIT margins of approximately 19%. Now I'll discuss our updated fiscal year 2026 guidance. As a reminder, ARR guidance is in constant currency using FX rates as of 03/31/2025. For historical comparison, please refer to our Q3 earnings presentation. We expect constant currency fiscal 2026 total ARR growth to be approximately 18%, driven by an estimated 24% growth in subscription ARR. This guidance reflects the flow through of our Q3 results and is within our prior range. From a full-year fiscal 2026 revenue perspective, we are raising subscription revenue to be in the range of $764 to $768 million. Growing 30% at the midpoint. We are also increasing total revenue to a range of $1,177 million to $1,180 million representing growth of 18% at the midpoint. Moving to our full-year fiscal 2026 margin, EBIT and free cash flow outlook. We now expect gross margins to be 81% to 81.5%. This increased range reflects continued growth in our SaaS platform. And we are increasing our non-GAAP EBIT margin guidance to a range of 19% to 20%. We now expect our full-year free cash flow outlook to range from $215 million to $220 million. This guidance reflects approximately $12 million to $15 million in one-time payments related to our cost optimization program. Finally, from a capital allocation perspective, our Board of Directors approved recommitting our share repurchase authorization back to $250 million. Share repurchases remain an important part of our capital and we intend to remain active and opportunistic in the market. To summarize, the scale and product initiatives we undertook over the last eighteen months have contributed to our improved momentum and positioned us as the cyber resilience provider of choice for large enterprises. Commvault Cloud Unity further extends our innovation leadership and we are excited to capitalize on the strong customer reception to our enhanced platform in fiscal 2027 and beyond. Now I will turn it back to the operator to open the line for questions. Operator?"
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "At this time, I would like to remind everyone in order to ask a question, press star then the number one on your telephone keypad. Your first question comes from the line of Aaron Rakers of Wells Fargo. Your line is now open. Please go ahead."
+  },
+  {
+    "speaker": "Aaron Rakers",
+    "role": "",
+    "text": "Yeah. Thank you very much for taking the question. I have two if I can real quick. First, I was wondering if you could unpack the I guess, it's the free cash flow, but particularly the accounts receivable increase and the DSO increase in the quarter. I know you had alluded to, you know, later in the quarter kind of receivable collection. So you know, can you unpack that? Just help me understand why DSO has gone up so much and what you saw towards the end of the quarter just given linearity?"
+  },
+  {
+    "speaker": "Daniel Abrahamson",
+    "role": "",
+    "text": "Yeah. Hey, Aaron. This is Danielle. Good to talk to you again. So I know I talked about this in my prepared remarks, and you kind of hit on it. Right? But one of the things we saw this quarter and it's it's not uncommon in Q3. I'll be honest. One Q3 has a tendency to be one of our most pressured free cash flow quarters, and it's really just because the way the sales cycles work with the calendar year end. We have a tendency to see more deals close in the last few weeks of the quarter, and this quarter was no exception to that. I can tell you over 60% of our deals actually closed in the last few weeks of the quarter. And so what you see in free cash flow is really the reflection of that. The other thing I'll call out is we had an additional payroll cycle for both The US and Canada. That's not normal for us in a quarter. Obviously, The US is one of our largest payrolls. Right? So both of those things are putting pressure on free cash flow. I do wanna highlight free cash flow guidance for the year. If you normalize for the one-time payment, that we're making in Q4 tied to the cost optimization program. Remains unchanged."
+  },
+  {
+    "speaker": "Aaron Rakers",
+    "role": "",
+    "text": "Mhmm. Yep. And then as a quick follow-up, you know, I can appreciate you're not giving a guidance beyond this fiscal year, but I know in your slide deck, you highlight again kind of the TAM expectations growing at a 12% CAGR, I think $38 billion kind of the longer-term total addressable market opportunity. I'm curious when you're asked about kind of the longer-term growth narrative, is the 12% a good underpinning growth rate to think about as we look out beyond this year? Or how are you thinking about the competitive landscape? The ability to take share in the context of that TAM growth expectation? Thank you."
+  },
+  {
+    "speaker": "Daniel Abrahamson",
+    "role": "",
+    "text": "Yes. No, thanks for the question again. We're not we're not gonna talk about next year right now. Right? We will obviously alongside, you know, the new CFO conversations, we will talk about what we're thinking for next fiscal year at a later time."
+  },
+  {
+    "speaker": "Sanjay Mirchandani",
+    "role": "",
+    "text": "Hey, Aaron. And just this is Sanjay. You know, again, just to just to reiterate, the business is in a good place. The you know, we had our best LAN software quarter ever. We had a second-best LAN SaaS quarter ever. We you know, our rule of 40 continues to be consistent. You know, across the board, the platform the new platform releases both really well based on everything we've seen. So you know, we will obviously, the right time, share more of that. So you know? But we are you know, we have no I think we will definitely outpace market. Yeah."
+  },
+  {
+    "speaker": "Aaron Rakers",
+    "role": "",
+    "text": "Yeah. Thank you, Sanjay."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Your next question comes from the line of Jason Ader with William Blair. Please go ahead."
+  },
+  {
+    "speaker": "Jason Ader",
+    "role": "",
+    "text": "Yeah. Thank you. Just first on the currency situation. Was this in line with your expectations? I know you gave guidance You had a nice beat on the revenue and the ARR. Did it was there an extra benefit relative to your expectations from currency?"
+  },
+  {
+    "speaker": "Daniel Abrahamson",
+    "role": "",
+    "text": "Sorry, Jason. I think I'm a little confused by your question. Which metric are you referring to?"
+  },
+  {
+    "speaker": "Jason Ader",
+    "role": "",
+    "text": "Well, UK guidance on a reported basis. Right? And I just wanna know You're talking about for rep for revenue? NARR. Both."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Yeah. So we give currency in line with your expectations?"
+  },
+  {
+    "speaker": "Daniel Abrahamson",
+    "role": "",
+    "text": "Yeah. So, on a reported basis, for revenue, currency was in line with our expectation. From an ARR perspective, we actually give only give annual guidance on ARR, and we do that on a constant currency basis."
+  },
+  {
+    "speaker": "Jason Ader",
+    "role": "",
+    "text": "Okay. I gotcha. Alright. And then the net new ARR, I think constant currency was for total net new AR was $39 million. I believe on the last earnings call, you guys talked about mid-forties. So just want to understand, was that was that below what your expectations were? And if so, why?"
+  },
+  {
+    "speaker": "Daniel Abrahamson",
+    "role": "",
+    "text": "Yeah. So let me let me unpack that a little bit. Right? So and as we mentioned on the call, we had a really strong new customer quarter. It was actually our top term software new customer quarter and our second-highest customer acquisition quarter for SaaS. For SaaS in particular, I will tell you, 70% of our net new ARR was driven by SaaS. As a reminder, we land those customers at lower ASPs on average typically two to three times what we would land a software customer with. And so what you're seeing in the ARR is just a reflection of that math. We're still very happy about that because what that does is give us the opportunity to go out, cross-sell, and gain further value with those customers. The other comment I'll make is going back to the software land piece. We have a tendency to land those customers at a longer duration. So that does have some modest dilution on ARR."
+  },
+  {
+    "speaker": "Jason Ader",
+    "role": "",
+    "text": "Okay. I guess what I'm what I'm getting at is You know? What I'm getting at, guys, is just what was the delta versus the $45 million that you guys had talked about? You ended up with $39 million. Something must have not played out the way you expected."
+  },
+  {
+    "speaker": "Sanjay Mirchandani",
+    "role": "",
+    "text": "Yeah. So it this is Andre. Jason, it's it's really just we sold a lot of SaaS deals, land deals this quarter. And, you know, when you that's why you have to look at it on an annual basis. Because there will be variation quarter to quarter. We sell a lot of software, and it was also a big software. And quarter for us. So when you when you take the you know, you take that together, it's it's you know, that kinda explains the you know, the delta, if you would. But if by every stretch of the imagination, it was a very strong quarter."
+  },
+  {
+    "speaker": "Daniel Abrahamson",
+    "role": "",
+    "text": "And, Jason, let me let me just add a little bit more with the number. Too, which I think might help. Last quarter for perspective, 61% of our net new ARR was SaaS, This quarter, that's 70%. Again, when you're talking landing these customers at a, you know, two to three times smaller ASP than software, that's that does have a significant impact on ARR."
+  },
+  {
+    "speaker": "Jason Ader",
+    "role": "",
+    "text": "Gotcha. Okay. So the explanation I can summarize, is just you're you're seeing a bigger shift to SaaS than maybe you expected at the beginning, you know, when you gave the guidance, and that had an impact on the number. Yes. Correct. And larger and larger software deals as well. Planned software deals that with longer durations. Yeah."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Your next question comes from the line of James Fish with Piper Sandler."
+  },
+  {
+    "speaker": "James Fish",
+    "role": "",
+    "text": "Hey, guys. Appreciate the questions here. First, how much does Unity impact this shift from sort of term to SaaS, if at all? And second, can you just help us understand if SaaS is so strong? And I get at the base is getting bigger and more anniversary in Clumio, but why the 4% sequential drop in cloud net retention rate this quarter?"
+  },
+  {
+    "speaker": "Sanjay Mirchandani",
+    "role": "",
+    "text": "Okay. Jim, it's Andre. So Unity so we announced it in November. So it's what? You know, shy of three months ago. And what Unity really does if I could if I could just reiterate, is it brings together workloads, data wherever they live under one control plane. So we're giving customers the ability to manage anything in, you know, what we call in the AI era under one control plane. And that is something that is we, you know, we see as being the future. Now what we do is we also, as you know, cater to customers with large on-premise software and growing SaaS capabilities. And that is their decision on how they to implement and the journey they take. So they work hand they work in tandem. So as far at this point, you know, we're not committing to change the model unilaterally in any way next fiscal year. It's a natural thing. We'll meet customer customers where they are. And what we've really done is take away the any kind of complexity a customer may face in the journey to the hybrid and multi-cloud. And really make it seamless."
+  },
+  {
+    "speaker": "Daniel Abrahamson",
+    "role": "",
+    "text": "And, Jim, I can take the second part of your question. So as it relates to our staff NRR, and I talked a little bit about this in my prepared remarks, but let me double click into it. Right, so a couple things went into our SaaS NRR this quarter. So the first thing and you kind of, you know, you briefed this on your question, right, is that we're dealing with a much larger customer base. So our SaaS customer base is now exceeding 9,000 total customers. So from an absolute dollar perspective, right, adding those same numbers of dollars, you're not getting the same level of uplift that you have you know, historically. The second thing, and, again, you'll hear this. Right? It's a it's a theme this quarter. We had such a strong new SaaS customer quarter Obviously, though those dollars don't show up in our NRR number yet. And I'll remind you. Right? We have one Salesforce that's doing both. Right? So that's number two. The last thing I will call out is there was a modest mix shift in some of our product capabilities among certain early adopter customers. Right? We have the benefit of having customers adopt our different innovation early But with that, we also deal with changes that need to happen over time. That's the beauty of what we offer customers and what Sanjay was describing with the Unity platform that we'll be able to take to a to a different level next year. But we you know, these customers are still our customers. We're not seeing uptick upturn. This is really just you know, our business going through natural maturity. There's no there's no turning back here. Okay. Any unusual. That's important."
+  },
+  {
+    "speaker": "James Fish",
+    "role": "",
+    "text": "Got it. If I could on that 9,000 SaaS as my question here. You have over 9,000 SaaS customers, 14,000 total subscription customers plus. Where does SaaS penetration get to, and how much are stand-alone SaaS customers?"
+  },
+  {
+    "speaker": "Daniel Abrahamson",
+    "role": "",
+    "text": "Yep. So we I think we've said before, but of those over 9,000, roughly 30% of them also have software tied to them. On growing base. Yeah. On a growing base."
+  },
+  {
+    "speaker": "Sanjay Mirchandani",
+    "role": "",
+    "text": "And one that I look at closely also is that nearly 50% of our enterprise SaaS customers use more than one offering. Okay? That's up eight, nine points from last year. So that also shows you that as the hybrid journey becomes real for our customers, the advantage of our platform becomes apparent. Especially in the larger, complicated enterprise journeys. Hybrid cloud space. We'll go to the next question, Bella."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Thank you. Your next question comes from the line of Eric Heath with KeyBanc. Capital Markets. Please go ahead."
+  },
+  {
+    "speaker": "Eric Heath",
+    "role": "",
+    "text": "Hey, Sanjay, Danielle. Thanks for taking the question. I just want to follow-up on some of the prior questions. But on the on the SAS NRR, is there anything from a go to market perspective incentive wise to shift the Salesforce focus over to landing new logos as opposed to expansion? Is that some of the reason to potentially explain why the SaaS new logos is maybe a little bit stronger while the NRR was a little bit softer?"
+  },
+  {
+    "speaker": "Sanjay Mirchandani",
+    "role": "",
+    "text": "We do a camp comp plans on an annual basis. Eric. And so there's been no mid-quarter or midyear change to that. It's just you know, between the fact that what we've what we're delivering to our customers in SaaS as part of the platform in conjunction with our software capabilities is what they need. And so we're seeing a healthy there. And, also, the work we're doing with our ecosystem partners is also making it easy for customers to get access to and use it. So I think the product stands on its on its own. The SaaS capability stand on its own."
+  },
+  {
+    "speaker": "Eric Heath",
+    "role": "",
+    "text": "Got it. Thanks. And just one more maybe clarification. Just help understand what drove some of the term duration elongation this quarter after being on the shorter side the last quarter or two? And then just anything on expectations for duration on term for next quarter. Thanks."
+  },
+  {
+    "speaker": "Sanjay Mirchandani",
+    "role": "",
+    "text": "Yeah. So, you know, the way to think about it is what really affects term within a quarter is the number of large deals. That's the biggest contributor to that. And this quarter, the term was heavily influenced by some large new customer deals. So in Q3, we saw a modest pickup and instead of an uptick in the duration quarter on quarter, And we're winning large customers that are multiyear, which is which is a darn good thing. What's also important that for me to underscore is that our median duration remains in a normal range. Okay? And I guess we could have done a better job explaining term last quarter."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Your next question comes from the line yes. Your next question comes from the line of Howard Ma with Guggenheim. Please go ahead."
+  },
+  {
+    "speaker": "Howard Ma",
+    "role": "",
+    "text": "Thanks. I wanna follow on the on this constant currency net new ARR thread. You said the 39 in the quarter. So just given so Sanjay and Danielle, given your comments earlier, net adds were strong. I think we have more clarity on the SaaS. And our decline. But on the turn side, the term that new ARR was, I think, was about $17 million. So it seems like maybe there was a shortfall in term net new ARR, and last quarter, average duration compressed. This quarter, average duration seemed like it upside a little bit. So I'm I'm deducing that maybe it's average term expansion ARR was an in aggregate. And I understand that there were some large multiyear deals but maybe the expansion was a little weaker than expected. And really more importantly, how should we think about it? Like, if 17 is kind of a baseline going forward, like, what gives you confidence, especially in light of the of Unity coming out that you can sustain this level of term expansion."
+  },
+  {
+    "speaker": "Daniel Abrahamson",
+    "role": "",
+    "text": "And I'm sorry, Howard. I wanna make sure I understand the question. You're suggesting that the net new ARR for was 17%? I'm just trying to understand where I'm getting where you're getting the 17% Yeah. Maybe I'd look. Maybe my number is incorrect, but what whatever that number was worth I'm I'm seeing eighteen. Is it so I guess on a constant currency basis, is that correct? That term constant currency net new ARR was 18 and that average expansion was maybe weaker than you expected and what to think going forward."
+  },
+  {
+    "speaker": "Daniel Abrahamson",
+    "role": "",
+    "text": "Oh, I understand what you're saying. So you're just looking at the term software piece. So it so this isn't about expansion. I'm gonna right. I talked about this before, but maybe let me let me make sure I'm clear on that. What we saw this quarter is land customers. And, again, we had our strongest land term software customer quarter. We saw land customers come in at much longer duration. Now them coming at a longer duration is part of the business. We've talked about this historically, too. Actually, I think if you look at Q4 of last year, we had kind of a similar type pattern here. But that's really what's driving that change. I mentioned already the SaaS you know, the growth in the new SaaS customer. I also wanna highlight our sub our subscription our subscription ARR, if you look at it, it's actually our second-best subscription ARR net new ad that we've had the history of the company. Or organic. Right? Gotta look organic. So, again, I talked about the pieces with the new customers. But overall, I'm I'm we're really happy with where we're at, and know, where we'll be for the year."
+  },
+  {
+    "speaker": "Sanjay Mirchandani",
+    "role": "",
+    "text": "And we could follow-up on the one on the public callback. If you have. And maybe just to a quick follow-up for you, Sanjay. The restructuring efforts that or I should say the incremental restructuring efforts, it seems to be entirely focused in your r and d org and perhaps operations. So r and d and operations is that so, you know, number one, is that true? And what gives you confidence that these cutbacks won't impact your growth prospects?"
+  },
+  {
+    "speaker": "Sanjay Mirchandani",
+    "role": "",
+    "text": "Hey, Howard. I'm I'm not sure where you're getting that from. That's no. We time and time again, as part of our regular process, as we get close to the fiscal year and we look at what our priorities for the next year are and align our p and l to prioritize what we think is going to be part of the future. This quarter you know, this was no this exercise was no was no exception. Now you know, without getting into too much of the detail, some of it is recurring. Some of it is not recurring. We ran a volume retirement program that was well received. And you know, so it wasn't on one group or another. It was something we offered up to the whole company. And some of the some of the savings you saw on the EBIT line this quarter and beyond and then others are gonna be put back into the business where we need it. You know, just to because I got it from in your in the press release, it says business technology is the unit. So can you just expand on what does business technology that function entail?"
+  },
+  {
+    "speaker": "Daniel Abrahamson",
+    "role": "",
+    "text": "No. No. No, Howard. Sorry. So there's two restructuring plans that we have throughout the year. The first one, we talked about in the beginning of the year, and that was tied to some changes we were making in our business technology team. That's that's not our r and d team. That's our internal business technology team. IT. The second restructure plan, which is really you know, the one that we talked about in the press release this time, and I made the comments on related to some of the cash flow impacts That one is a company-wide initiative."
+  },
+  {
+    "speaker": "Sanjay Mirchandani",
+    "role": "",
+    "text": "Yeah. And, Howard, you know, actually, to be both direct, what this does is strengthen where we wanna go, not weaken. So we're not cutting back on r and d or any such thing. This is really about strengthening where we where we think the, you know, the opportunity lies. So just aligning the business. This is it's a good thing."
+  },
+  {
+    "speaker": "Howard Ma",
+    "role": "",
+    "text": "Okay. Thank you for clarifying."
+  },
+  {
+    "speaker": "Sanjay Mirchandani",
+    "role": "",
+    "text": "No worries. Absolutely. Thanks, Howard."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Your next question comes from the line of Param Singh with Open Oppenheimer. Please go ahead."
+  },
+  {
+    "speaker": "Param Singh",
+    "role": "",
+    "text": "Yeah. Hi. Thank you, and thanks for taking my questions. I had a couple. First, look, you know, this ARR question would be new debt, but I had a slightly different question on it. As I look the future and, again, I'm not asking for guidance. But as I look forward, typically, these lower ARR SaaS customers will scale. Right? And then based on historical trends, do you think it is you know, should we assume that there will be some reacceleration with these customers as they come back with the potential of higher NRR? Dipping from this lower baseline and potential increase in net new ARR, Or do you think that since there's a systemic shift towards more SaaS customers coming into the ecosystem, this will kind of be a new baseline for the next few years. Until you have a larger SaaS base. How should we think about it logically in the long term?"
+  },
+  {
+    "speaker": "Daniel Abrahamson",
+    "role": "",
+    "text": "Hi, Param. So I'm gonna I think I understand your question, so I'm gonna answer it. But if I'm not answering what you're asking, please feel free to clarify. Right? So, yes, so we land these customers at lower ASPs as I talked about. Historically and I think we've said this. Historically, our we land at roughly $40,000. That's our a that's our ASP for customers. Right now, we see anywhere from 30 to 40% depending on the quarter, right, of our customer. That cross-sell. I will tell you actually we're seeing even better traction in our enterprise customers Our enterprise customers 50 per we are approaching 50% of them having more than one SaaS product. That's up 700 basis points from a year ago. Without giving you specific guidance for next year, what I can tell you is we have a history of growing the lifetime value of these customers, and we aspire to continue to do that."
+  },
+  {
+    "speaker": "Sanjay Mirchandani",
+    "role": "",
+    "text": "And I think I think, Param, that with the Unity platform, it will make it even easier for customers to absorb new capabilities seamlessly. That is part of the design of the technology. So, you know, we think that being able to cross-sell over time is definitely part of our strategy as we've shared before."
+  },
+  {
+    "speaker": "Param Singh",
+    "role": "",
+    "text": "So let me segue into my second Yeah. Go ahead, Danielle."
+  },
+  {
+    "speaker": "Daniel Abrahamson",
+    "role": "",
+    "text": "No. I just wanted to add one more thing, which I thought would maybe be helpful. Our SaaS customers over a $100,000 are actually up over 45%."
+  },
+  {
+    "speaker": "Param Singh",
+    "role": "",
+    "text": "Great. So let me segue to my second part of my question, which is on Unity. Obviously, it's very early days, but if you could share some feedback And how should we think about you know, based on that feedback, the adoption of Unity driving higher basically, SaaS ARR over time. Is there any way to conceptualize that?"
+  },
+  {
+    "speaker": "Sanjay Mirchandani",
+    "role": "",
+    "text": "We have conceptualized things around that platform. We're very excited about it, Param, as you could imagine. You know, at Shift, you saw how much how much we shared. The platform is Yeah. Just literally you know, we announced it in November. It was broadly most of it was broadly available. End of the year, we're in the early days of it. The pipeline looks great. The feedback from industry, I shared some on my prepared comments. Is very positive. And, you know, it's early days to put out any pattern matching on it. But everything in the product, especially around its AI capabilities, and our ability to bring together data security identity resilience, you know, and true recovery is second to none. My goal our goal when we built and designed this product was to make it super easy for customers to embrace logical extensions of their resilience capability. So translated into a go to market piece, cross-sell becomes friction-free."
+  },
+  {
+    "speaker": "Param Singh",
+    "role": "",
+    "text": "Right. Okay. And do you do you feel you need to update your sales team a little bit to pivot to some of these you know, expanding capabilities? Or do you feel They just deliver. The right part of it. Go ahead."
+  },
+  {
+    "speaker": "Sanjay Mirchandani",
+    "role": "",
+    "text": "They just delivered an amazing quarter. These guys are doing a great job. We're executing well. Of course, enablement of our team is job one. They're only as good as help. Confident they are with the technology. So we continue to invest in our people. It's a big part of how we do things. And I'll be honest with you. I'm very proud of our sales team."
+  },
+  {
+    "speaker": "Param Singh",
+    "role": "",
+    "text": "Okay. I'll get back in line. Thank you so much for answering my questions today."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Your next question comes from the line of Rudy Kessinger with D. A. Davidson."
+  },
+  {
+    "speaker": "Rudy Kessinger",
+    "role": "",
+    "text": "Hey, guys. Thanks for taking my questions. So on the net new ARR, last quarter, you said you expected 60% of net new ARR to come from SaaS. And 60% of $45 million would be $27 million. And you did $27.1 million of SaaS net to ARR. And so You got In Q3. that lens, it would look like SaaS net new ARR is kind of in line with expectations. And then back to Howard's point, it would thus look like term license net new ARR would was below expectations or the primary you know, reason for the $6 million delta versus the $45 million kinda baseline that was expected. So could you just again, follow-up on maybe the term net new ARR? Was that below expectations? What was the impact of maybe longer duration on some deals than expected that resulted in some price compression, thus AR compression, I'm just not understanding how basing these numbers term was not below expectations."
+  },
+  {
+    "speaker": "Daniel Abrahamson",
+    "role": "",
+    "text": "No. I understand what you're asking, Rudy. And you're spot on with the with the SaaS net new ARR. So I'm I'm glad you called that out specifically. So what we were assuming for term is that Duration would remain consistent with Q2. What we saw is because of these large multiyear quite frankly, like, just long durations new software customers, we did see some pressure on term ARR tied to that. You are correct."
+  },
+  {
+    "speaker": "Sanjay Mirchandani",
+    "role": "",
+    "text": "And, Rudy, I just I've shared this over, like, repeatedly. You know, we have to look at this on a on a on a broader term basis. Quarter to quarter because of the type of business we do, the kinds of customers we cater to, the complexity of the projects that they embark upon, the mix of software versus SaaS, there will be a little bit of variability in how this stuff gets land. The good news is we're adding a ton of new customers in subscript in SaaS which bodes well for the long term. And we're and we had a record absolute record quarter of software land customers with longer durations. So the it's you know, yes, the numbers are off a little bit, but it's it we need to be expect a little bit of variability in this over time because this is an end annualized thing. Now if you look at overall ARR for the year, you know, we're we're talking 22% rough tough growth on a $167 million year on year increase. So it's actually very handsome. I just, you know, I just feel like, there will be a little bit of quarter to quarter variability because we sell hybrid solutions for customers, and they have the option of being able to deploy it in the manner in which they want. So you know, I guess we could have done a better job explaining that last quarter. It comes back to the term and that stuff, but I'll I'll keep explaining it till we get it right."
+  },
+  {
+    "speaker": "Daniel Abrahamson",
+    "role": "",
+    "text": "Yeah. The only the only other thing I would call out the only other thing I would call out, Rudy, to your point is and we've talked about this other ARR. Right? Other ARR the last couple of quarters has been consistent. We actually saw it decline. The decline almost doubled quarter over quarter, and that's really tied to some of our conversions. So that was the other piece just to kinda bring it all together."
+  },
+  {
+    "speaker": "Rudy Kessinger",
+    "role": "",
+    "text": "Okay. And then as a follow-up, I'm curious. There was some commentary about, you know, you sold maybe more SaaS deals than in I seem to maybe interpret that as meaning that prohibited you from also selling some term deals. So I'm guessing curious, like, in your pipe for the quarter, did you have a lot of customers where reps were working with them on boats? Potential SaaS and term deals? And more of the land tilted towards fast, than term in the quarter. And then sorry for a two-parter here, but on your SaaS ARR, what percentage of your SaaS ARR comes from or is calculated from consumption, in the current quarter times four versus TCV over duration. And I'm curious if you were to you know, look at the quarter, your staff, and the ACV bookings you know, standpoint relative as opposed to ARR. You know, how much stronger might that number have been if you were calculating all of your SaaS ARR as PC over duration?"
+  },
+  {
+    "speaker": "Sanjay Mirchandani",
+    "role": "",
+    "text": "Yeah. That's a that's a that's a tough question. Maybe give us a little time to the exact number on that, but let me take the first part of your question. But our sales team the reason the way we the reason we have our go to market team the way it is because our platform delivers two sets of capabilities. So you can't segment them and say, do this versus that or that versus that. It really depends on where the customer is. And how we meet them where they are. So if a customer wants to start with Air Gap Protect and Clean Room and then move backwards into pipe you know, our on-premise capabilities. That's what we'll do. So the sales team is absolutely aligned to the customer. Buying model and their buying capabilities and their needs. So we internally don't trade off one license type versus another. That's not ever what we do. It's what the customer needs and how we best align to it. Could you repeat the second part of your question?"
+  },
+  {
+    "speaker": "Rudy Kessinger",
+    "role": "",
+    "text": "I the second part of my question, guess, like, if I just take your $364 million of SaaS ARR, how much of that is calculated from, like, Flumio products that are just consumption times four versus how much is just TCV over duration, the same way you calculate your term by since ARR? Because I'm trying to you know, you're talking about the ASPs being much lower and the ARR not necessarily showing up yet from some strong bookings. And so I'm trying to understand you know, how much of your net new SaaS bookings come from products that are going to have ARR calculated on a consumption basis as opposed to TCV over duration."
+  },
+  {
+    "speaker": "Daniel Abrahamson",
+    "role": "",
+    "text": "Yeah. So I'm not gonna give the exact breakout, Rudy. What I can tell you, though, is it's it's small. It's immaterial on the whole ARR number. So you're not it's it's it's not overly meaningful. In the percentage."
+  },
+  {
+    "speaker": "Rudy Kessinger",
+    "role": "",
+    "text": "Okay. That's helpful. Thank you."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Thanks, Rudy. Your next question comes from the line of Michael Romanelli with Mizuho Securities. Please go ahead."
+  },
+  {
+    "speaker": "Michael Romanelli",
+    "role": "",
+    "text": "Yeah. Hi. Thanks for, yeah, for taking the question. So, yeah, I guess I was just, you know, wondering if there are any regions and or verticals that perform better than your internal expectations this quarter? And maybe conversely, were any more challenged than you were anticipating?"
+  },
+  {
+    "speaker": "Sanjay Mirchandani",
+    "role": "",
+    "text": "What was the second part, sorry, Michael?"
+  },
+  {
+    "speaker": "Michael Romanelli",
+    "role": "",
+    "text": "Yeah. If any, you know, regions or verticals were perhaps more challenged than you were anticipating."
+  },
+  {
+    "speaker": "Sanjay Mirchandani",
+    "role": "",
+    "text": "Yeah. It was actually, as a quarter, it's very evenly distributed. And almost by design. You know, we've over time, we've we've worked to derisk the business in both geography as well as in particular verticals. This quarter was you know, our international business did very well as did our US business. Was very, very even. Our SaaS business did well. Our software business did well. So there was no there was no particular call out. I think overall, a well-delivered quarter from my from my point of view."
+  },
+  {
+    "speaker": "Michael Romanelli",
+    "role": "",
+    "text": "Got it. Okay. That's helpful. And then maybe just building on the prior question, I apologize if I missed it. But you guys have obviously noted that you expect SaaS to comprise about 60% of total net new ARR for the fiscal year. Just how should we be thinking about that mix shift for the 4Q?"
+  },
+  {
+    "speaker": "Daniel Abrahamson",
+    "role": "",
+    "text": "Yeah. I would even this quarter, we talked about this. I think Rudy called this out, right? From a SaaS perspective, we're we're still about 60%. So I think that 60% baseline is the right way to think about it."
+  },
+  {
+    "speaker": "Michael Romanelli",
+    "role": "",
+    "text": "Got it. Okay. Alright. That's helpful. Thanks."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Yep. Your next question comes from the line of Tom Blakey with Cantor. Please go ahead."
+  },
+  {
+    "speaker": "Tom Blakey",
+    "role": "",
+    "text": "Hey, guys. Thanks for squeezing me in here. Just a couple quick ones. On this, duration topic, Danielle, what is the I guess just bluntly, what is the expectation for duration in the guide for fiscal 4Q"
+  },
+  {
+    "speaker": "Daniel Abrahamson",
+    "role": "",
+    "text": "Yeah. So we're continuing to assume that duration remains Specifically, and Sanjay called this out in his earlier remarks, right, median duration will remain in normal range. So that's what assuming in our guide."
+  },
+  {
+    "speaker": "Tom Blakey",
+    "role": "",
+    "text": "So I doubt so, basically, like, just quarter to quarter a downtick in duration, so to speak. And then go ahead."
+  },
+  {
+    "speaker": "Daniel Abrahamson",
+    "role": "",
+    "text": "No. No. Yeah. I would say, again, that the duration median will remain the same. And the guide is neither aggressive nor conservative. Right? We wanted to give you where we feel like we can meet. And, frankly, we're getting better at this as customers deploy more complex scenarios, we have to, you know, internally be spending a lot time really, really finessing how we how we look at this. You know? And we'll be completely transparent about"
+  },
+  {
+    "speaker": "Sanjay Mirchandani",
+    "role": "",
+    "text": "Yeah. No. You have always, Sanjay. I just said, you know, duration was an impact to ARR this quarter, so I was just trying to understand. I know because, you know, it's it's it's a tale of two cities. Right? Here we get the you know, we get larger duration."
+  }
+]

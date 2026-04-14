@@ -1,0 +1,284 @@
+Operator
+Good day, and welcome to the Magnite second quarter 2024 earnings call. All participants will be in listen-only mode. [Operator instructions] After today's remarks, there will be an opportunity to ask questions. [Operator instructions] Please note this event is being recorded.
+I would now like to turn the conference over to Nick Kormeluk of investor relations. Please go ahead.
+Nick Kormeluk
+--
+Investor Relations
+Thank you, operator, and good afternoon, everyone. Welcome to Magnite's second quarter 2024 earnings conference call. As a reminder, this conference call is being recorded. Joining me on the call today are Michael Barrett, CEO; and David Day, our CFO.
+I would like to point out that we have posted financial highlight slides on our investor relations website to accompany today's presentation. Before we get started, I'll remind you that our prepared remarks and answers to questions will include information that might be considered to be forward-looking statements, including, but not limited to statements concerning our anticipated financial performance and strategic objectives, including the potential impacts of macroeconomic factors on our business. These statements are not guarantees of future performance that reflect our current views with respect to future events and are based on assumptions and estimates and subject to known and unknown risks, uncertainties, and other factors that may cause our actual results, performance, or achievements to be materially different from expectations or results projected or implied by forward-looking statements. The discussion of these and other risks, uncertainties, and assumptions is set forth in the company's specific reports filed with the SEC, including our second quarter 2024 quarterly report on Form 10-Q and our 2023 annual report on Form 10-K.
+We undertake no obligation to update forward-looking statements or relative risks. Our commentary today will include non-GAAP financial measures, including contribution ex-TAC or less traffic acquisition costs, adjusted EBITDA, and non-GAAP income per share. Reconciliations between GAAP and non-GAAP metrics for our reported results can be found in our earnings press release and in the financial highlights deck that is posted on our investor relations website. At times, in response to your questions, we may offer additional metrics to provide greater insight into the dynamics of our business.
+Please be advised that this additional detail may be one-time in nature, and we may or may not provide an update on the future of these metrics. I encourage you to visit our investor relations website to access our press release, financial highlights deck, periodic SEC reports, and the webcast replay of today's call to learn more about Magnite. I will now turn the call over to Michael. Michael, please go ahead.
+Michael Barrett
+--
+Chief Executive Officer
+Thank you, Nick. It's been a very exciting 90 days or so since we last reported. We delivered strong Q2 results that once again exceeded our top-line guidance, and we reinforced our leadership in CTV with the Netflix win. We are absolutely thrilled to have been chosen by Netflix as a programmatic FSP partner.
+The deal has created significant momentum for our business with new and existing partners and customers asking us how we can do more for them and help them move faster into programmatic CTV advertising. Our win and the competitive moat we have built is a result of our investment in numerous features and capabilities that took years to assemble, integrate, and transform. It clearly demonstrates the breadth and depth of what we offer in CTV and validates the work we've been doing to create the world's leading holistic programmatic CTV platform. We look forward to supporting Netflix's programmatic launch starting this summer and ramping throughout 2025, and we've been working at a feverish pace with them since the announcement in May.
+For the quarter, CTV contribution ex-TAC grew 12% year over year and DV Plus contribution ex-TAC grew 7%. Key drivers of CTV performance were strong overall ad spend growth, increasing programmatic adoption by the industry's largest players, and ad serving strength. Our ad spend for the quarter continued to pace above 20%. Regarding CPM trends in CTV, we've seen slight decreases year over year.
+However, we believe these are supply driven by the largest industry players scaling their CTV inventory and not from a drop-off in demand. Volume increases have significantly offset CPM reductions, and we believe these trends of accelerating programmatic adoption will continue. The expansion of supply sources makes programmatic selling even more important, lower CPMs and better targeting and programmatic CTV also help facilitate the entry of newer CTV buyers who may be more ROI and price-sensitive. We believe these trends are very powerful and expanding industry programmatic participation and growing our accessible TAM.
+In addition to the Netflix win, I also want to highlight two of our other big partnerships. First is United Airlines, where we recently announced that Magnite will be the centralized ad platform for in-flight entertainment. This demonstrates our continued growth in the commerce media space with one of the largest airlines in the world choosing Magnite as their exclusive partner as they enter the programmatic advertising arena. The second is Roku, where we have announced an expansion of our seven-year partnership in support of powering the new Roku Exchange.
+The Roku Exchange connects to the programmatic ecosystem through an integration with Magnite. In addition to connecting Roku with third-party buyers, we are also providing them with incremental advertising opportunities through our clear line and agency marketplace solutions, as well as our demand facilitation team. ClearLine, our self-service direct buying platform is continuing to gain adoption, and we are seeing very big growth, albeit off of a small base. It has traction with numerous agencies and multiple brands that are in testing and early development.
+Our exclusive Mediaocean partnership also represents a big opportunity for ClearLine, and we are launching our first campaign with them this quarter. Our deep and evolving partnerships with the likes of Netflix, Disney, Roku, Warner Bros. Discovery, Paramount, Fox, Samsung, LG, and Vizio, ensure we have a valuable long-term role in the growth of the CTV market. In fact, some of the fastest-growing accounts this quarter included Roku, Warner, Disney, LG, and Paramount, with much of the growth coming from our SpringServe and Magnite streaming SSP combination, which gives us a big advantage as a programmatic first partner relative to the competition and continues to differentiate us in market.
+Our tools are deeply embedded within our clients' workflow, whether it be creative review, ad podding logic, or audience tools. And from the client's perspective, the combined implementation of our ad-serving capabilities and SSP looks more like a typical enterprise software solution. We believe this stickiness creates a meaningful moat and barrier to entry for others. And in our case, the barrier is not just workflow from ad operations, it is also in the form of superior monetization.
+Our strategic partners view us as part of their core ad operations platform and having more than one solution would complicate workflow and be comparable to running two ERPs or two CRMs. Now to DV Plus. Q2 once again finished strong with contributions ex-TAC growth of 7%. Our results continue to be driven by adding scale, improving efficiency through traffic shipping, improving monetization and performance with AI, and investing in formats such as native, audio, podcast, and digital out-of-home.
+On the AI front, you may have seen our release last Thursday about our new feature within Demand Manager using machine learning. The new feature finds the optimal configurations in the publisher's pre-bid wrapper per impression in real-time and has the potential to rapidly enhance billions of impressions to improve performance versus manual configuration. In the broader industry, as I'm sure you're aware, Google recently announced they will not deprecate third-party cookies. Frankly, we're not surprised with their decision given some of the challenges that they've acknowledged with the rollout.
+In any event, we've done deep testing and work with Google so that we are prepared to support Privacy Sandbox for a future iteration of it for those who may want it. Although our position has always been that cookies being deprecated was not a meaningful risk for our business in the long term, we do believe the decision does relieve some short-term uncertainty and potential CPM volatility. So, we view it as a net positive. Regardless of Google's decision, we continue to believe that a decreased reliance on third-party cookies and other nontransparent tracking methods is positive for the industry, and the future is bright for an identity model powered by sellers who are better positioned to obtain user data and consent for implementing first-party identifiers.
+In closing, we delivered a strong first half and are thrilled with the momentum in our business and the ever-growing roster of CTV partners that have selected Magnite. The strategic investments we've made to create the world's leading holistic programmatic CTV platform have clearly paid off, and we are excited about the acceleration in our growth rate in CTV for the remainder of the year. With that, I'll turn the call over to David for more details on financials. David?
+David Day
+--
+Chief Financial Officer
+Thanks, Michael. We are very pleased with another strong quarter with our recent customer wins and with the resulting momentum we're seeing in our business. We believe we're continuing to take share as our ad spend growth is outpacing the market. As Michael mentioned, we again exceeded expectations for total and CTV contribution ex-TAC along with a strong performance in DV Plus.
+Total revenue for Q2 was $163 million, up 7% from Q2 2023. Contribution ex-TAC was $147 million, up 9%. CTV contribution ex-TAC was $63 million, up 12% year over year and above the top end of our guidance range. We saw very strong growth in ad spend and continued momentum with our SpringServe ad-serving business.
+Our CTV outperformance was once again driven by our programmatic offerings. DV Plus contribution ex-TAC was $84 million, an increase from $79 million or 7% compared to the second quarter last year. Our contribution ex-TAC mix for Q2 was 43% CTV, 39% mobile and 18% desktop. From a vertical perspective, health and fitness, automotive, and retail were our strongest performing categories, categories that did not perform as well were travel, technology, and style and fashion.
+Total operating expenses, which includes cost of revenue for the second quarter were $153 million, a decrease from $224 million for the same period last year. The primary driver of the decrease was the result of the SpotX acquired intangible assets that became fully amortized in the third quarter of last year. Adjusted EBITDA operating expense for the second quarter was $102 million within our guidance range. The increase from $97 million last year was primarily driven by higher personnel-related costs due to annual merit increases and modest increased hiring, and additional cloud computing expenses.
+Net loss was $1 million for the quarter compared to net loss for the second quarter of 2023 of $74 million. Adjusted EBITDA grew 20% year over year and was $45 million with a margin of 30%, which compares to $37 million and a margin of 28% last year. As a reminder, we calculate adjusted EBITDA margin as a percentage of contribution ex-TAC. GAAP loss per basic and diluted share was $0.01 for the second quarter of 2024 compared to a loss of $0.54 for the second quarter of 2023.
+Non-GAAP earnings per share in the second quarter of 2024 grew 56% and was $0.14 compared to $0.09 last year. Reconciliations of non-GAAP income and non-GAAP earnings per share are included in our Q2 results press release. Our cash balance at the end of Q2 was $326 million, an increase of $74 million from $253 million at the end of the first quarter. The increase was due to typical seasonality in our business.
+Capital expenditures, including both purchases of property and equipment and capitalized internal-use software development costs, were $15 million for the quarter. Operating cash flow, which we define as adjusted EBITDA less capex, was $30 million for the quarter. Our net interest expense for the quarter was $7 million. Our net leverage was 1.3x at the end of Q2, reflecting the expected improvement from 1.7x at the end of Q1.
+The sequential improvement is due to the normal seasonality in our business. We expect to see net leverage improvements continue in Q3 and Q4 this year and expect net leverage of 1x or less by the end of the year. In addition, for our regular RSU vesting during the quarter, we utilized the withhold-to-cover method to cover employee taxes, thereby reducing dilution by withholding 385,000 shares for $4 million. Year to date, through the second quarter, using withhold to cover, we've reduced dilution by 1.3 million shares for $13 million or nearly 1% of shares outstanding.
+We also had $125 million of capacity available at quarter end in our authorized share or convert repurchase program. I will now share our expectations for the third quarter and full year. For the third quarter, we expect contribution ex-TAC to be in the range of $146 million to $150 million. Contribution at attributable to CTV to accelerate to a range of $62 million to $64 million, reflecting year-over-year growth of 20% at the midpoint.
+Contribution ex-TAC attributable to DV Plus to be in the range of $84 million to $86 million. We anticipate EBITDA operating expenses to be between $101 million and $103 million, which implies an adjusted EBITDA margin of approximately 31% for Q3 at the midpoint. Our Q3 expectations across CTV and DV Plus reflects a slow start to political ad spend in July due to the extraordinary circumstances surrounding both parties, although we've seen some improvement. For the full year, we are reaffirming that we expect contribution ex-TAC to grow at least 10% with CTV to grow faster than DV Plus.
+Adjusted EBITDA margin to expand 100 to 150 basis points over 2023, adjusted EBITDA growth in the mid-teens with an even higher growth in free cash flow, and we now expect total capex to be approximately $50 million. We also expect to be net income and EPS positive for the full year on a GAAP basis. Q2 was another solid quarter for Magnite. I am particularly excited about our new relationship with Netflix and the opportunity we have to help them grow their advertising business.
+I'm also excited about growing opportunities in the commerce media space and our new relationship with United as a marquee example. We have significant momentum in our business and exciting opportunities ahead. With that, let's open the line for Q&A.
+Questions & Answers:
+Operator
+We will now begin the question-and-answer session. [Operator instructions] At this time, we'll pause momentarily to assemble our roster. Our first question comes from Shyam Patil from Susquehanna. Please go ahead.
+Shyam Patil
+--
+Analyst
+Hey, guys. Congrats on a great quarter and all the long recent partnership wins. I had a couple of questions. The first one was on some of the partnerships.
+Netflix, Roku, obviously, some really good partnerships. Can you maybe talk a little bit about how you expect them to ramp throughout the second half of this year and next year? And kind of how we should be thinking about just the revenue contribution to the extent you can talk about that for both of those. And then second question, on political advertising, can you talk a little bit about how you're expecting that to look in the third quarter and fourth quarter if there's any finer point you could put on that? Thank you.
+David Day
+--
+Chief Financial Officer
+Sure, Shyam. I'll take that. Yeah, on those partnerships, we defer to Netflix on the timing of their ramp. They've discussed that they'll be launching this summer into this fall and then really ramping in 2025.
+United is a fairly new partnership, and that will take some time to ramp up. And so, those two, they are not significant impacts considered in our revenue for the remainder of this year. With Roku and that expansion, I think we're seeing some growth there, and we're seeing some ramp-up. Political is really interesting with these really unusual events in July, there was a significant pause in political spending.
+So, we're a little cautious on that front. What's challenging politics is 80% of that spend occurs in the eight to ten weeks running up to the election. And so, how much of that occurs in September before the Q3 cutoff versus Q4 is always hard to gauge. And so, we're trying to be somewhat conservative given the potential volatility in the political spend and in our quarterly guidance in that cutoff and trying to estimate where that will land.
+Michael, have you got anything else to add?
+Michael Barrett
+--
+Chief Executive Officer
+No, perfect.
+Shyam Patil
+--
+Analyst
+Great. Thank you, guys.
+Operator
+The next question comes from Omar Dessouky from Bank of America. Please go ahead.
+Omar Dessouky
+--
+Analyst
+Hey, guys, this is Omar. Thanks for taking my question. Maybe just a quick clarification on guidance. I may have a follow-up question, if I could.
+In the press release, I think there's a commentary about like you guys expecting growth acceleration in the second half of 2024. I just wanted to clarify, are you expecting quarter over quarter --
+Michael Barrett
+--
+Chief Executive Officer
+Omar, I think we lost you. Operator, I'm not sure if you still have Omar on your end.
+Operator
+Pardon us, everybody, while we try and reconnect with the speakers. Pardon me, everybody. We have reconnected with the speakers. You may proceed.
+David Day
+--
+Chief Financial Officer
+I apologize all that we lost audio. Omar, if you could recover your question, we'll jump right back into it.
+Omar Dessouky
+--
+Analyst
+I just wanted to ask a quick clarification on the guidance. I think on the press release, there was a commentary around you guys expecting growth acceleration in the second half of 2024. I wanted to clarify, are you guys expecting quarter-over-quarter acceleration in 3Q and 4Q on a sequential basis? So, 3Q would be accelerating versus 2Q and then Q4 would be accelerating versus Q3? And then I have a follow-up question, if I could. Thank you.
+David Day
+--
+Chief Financial Officer
+Sure. Yeah. And particularly focused on CTV growth, we guided to 20% year-over-year growth, which is an acceleration and will lead to -- you compare the first half of the year, the second half of the year, overall acceleration. We're giving specific guidance on Q3 and not Q4.
+So, more to come there, but we feel really good about our CTV business. You can see that the CTV revenue growth, the gap between that, and our ad spend growth is narrowing because of the accelerated growth in CTV revenue. And so, we're really bullish on our CTV business.
+Omar Dessouky
+--
+Analyst
+Appreciate it. Thank you. And maybe just a quick follow-up question on CTV take rate. I'm wondering if you guys could talk a bit about how CTV take rate has trended sequentially in the quarter.
+And just given some of the dynamics on the supply side with more Netflix and Prime Video inventory coming online, has your outlook on take rate changed if you're looking down, say, like six months or a year down the road? Thank you.
+David Day
+--
+Chief Financial Officer
+Yeah, we don't give specific take rates, but I think to continue on the narrative that we've had the last several quarters. The premium inventory that's still pushing on to the market is coming in at our lower take rate earning levels. But we're lapping the most significant decrease from last year. And so, the rate of decline in our average take rate, which is due to that continuing mix change has slowed quite significantly.
+And so, I wouldn't say we're bottoming out, but we're sort of hitting that point of stabilization. And that's why you see, as I commented earlier, you see this significant acceleration in our actual revenue growth as over time, it will continue to come closer and closer to our ad spend growth in the CTV business. So, we expect those trends to continue. We expect continued adoption of programmatic in CTV, and so, we expect those ad spend growth rates to remain high, greater than 20% as we've had over the last handful of quarters going forward.
+I don't know, Michael, if you have anything else want to add.
+Michael Barrett
+--
+Chief Executive Officer
+No. I think that captures it all.
+Omar Dessouky
+--
+Analyst
+Got it. Thanks, guys. Super helpful. Congrats on the quarter.
+David Day
+--
+Chief Financial Officer
+Thanks.
+Operator
+The next question comes from Jason Kreyer from Craig-Hallum. Please go ahead.
+Jason Kreyer
+--
+Analyst
+Great. Thank you, guys. Michael, Netflix has been pretty vocal about deploying this programmatic ad strategy. Can you just talk about what you think that means for your role in the industry and maybe what that means for your existing relationships with other streamers?
+Michael Barrett
+--
+Chief Executive Officer
+Yeah, Jason, thanks for the question. Yeah, I think Netflix has been quite vocal about leaning into programmatic and I think you kind of see that trend line across all the big streamers. I think one of the takeaways from the recently completed upfront season was I don't think everyone was all that pleased with the final CPMs, but it seemed like the numbers all kind of came in online, maybe slightly up for some of the big streamers, but programmatic definitely a bigger piece of the spend puzzle. And we think that any dollars that haven't been deployed in the upfront are prime for programmatic going forward in kind of the spot market.
+So, I think any time someone comes to market with kind of a heavy programmatic focus. It's answering what buyers are wanting. And so, I think that more and more, you're going to see programmatic play a bigger role in terms of the streamers revenue, just given the fact that, that's what the buyers want. They want a more efficient way to buy, they want targeting, and that's what programmatic supplies and Netflix is certainly part of that equation.
+Jason Kreyer
+--
+Analyst
+Thank you. And then as you've been working with Netflix over the last couple of months, any learnings on their strategy or what they wish to deploy or any changes to your view of the size of the Netflix opportunity?
+Michael Barrett
+--
+Chief Executive Officer
+No, nothing that we haven't already talked about in the script or that they haven't talked about. I think, as David said at the top of the call, we mark off of Netflix comms in this area. And so, they'll be the ones that would be giving you a better understanding of what their go to market strategy might be, timing, etc. But as it relates to what we feel Netflix could represent to us from a size of a client, I would say we still feel very comfortable with the kind of direction we give there.
+Jason Kreyer
+--
+Analyst
+One quick one just on DV Plus, the growth was a little bit slower this quarter. It seems like that's consistent with the Q3 guide. Is that related to political, or is there anything else going on there?
+David Day
+--
+Chief Financial Officer
+There's always some volatility in the DV Plus line. We saw mobile, a little lighter growth rate, but nothing to point a finger at. So, we kind of put in that normal volatility bucket. I think, given all the macro swirl and concerns, we're certainly trying to be a little cautious in our guide for the remainder of this year, given all of the challenges going on from a macro perspective, geopolitical perspective, and political perspective directly.
+Jason Kreyer
+--
+Analyst
+Great. Thank you, guys.
+Operator
+Thank you. The next question comes from Laura Martin from Needham. Please go ahead.
+Laura Martin
+--
+Analyst
+Good morning. So, again, on Netflix. So, I think Netflix would love more ad revenue faster. But what they have found in the upfront market is that the brands they're talking to say they have to reach critical mass, round numbers 20 million ad-driven subs here in America and they're under 10.
+So, that is my question. Can they use programmatic when they're smaller than that sort of critical reach that they need for the upfront market? Or does ad buys, even in your world, require bigger reach than they have with their ad-driven subs in the U.S.?
+Michael Barrett
+--
+Chief Executive Officer
+Yeah. Great question, Laura. And, again, I would defer a lot of that to the Netflix in terms of their answer to that. But my take on it is that, yeah, as long as you can provide scaled audiences that folks want, and it doesn't have to be households, it just could be demos.
+If you have a decent concentration of that demo, we see consistently in programmatic that folks are making those buys because by nature, in programmatic with targeting, you're looking at a smaller universe of individuals in ARGO. I think that programmatic plays nicely into that as you start to scale up and be able to have a big seat at the upfront table.
+Laura Martin
+--
+Analyst
+OK. That's super helpful. And then back on DV Plus, which I know is something you worked hard to turn around a couple of years ago. It's still quite a bit bigger than your CTV business.
+And I love this new business slide that you've given us for CTV. But is there a similar slide for DV Plus and you just don't disclose it? Or is the 7% growth you're getting in DV Plus is all same clients, they just have to spend more. We're not getting new clients there?
+David Day
+--
+Chief Financial Officer
+Yeah, Laura, I think the slide you're referring to is actually the one in the deck that talks about our recent wins. And there is some on there that's also DV Plus, so that cross over both, specifically United Airlines might have some mobile and desktop revenue that comes from -- even though it's streaming television coming on a mobile device, that will hit those different lines. So, that really is encompassing. But kind of the biggest near-term wins on there do tend to focus more on CTV.
+Michael Barrett
+--
+Chief Executive Officer
+Yes. And the Amazon one too as well. So, being a preferred SSP for Amazon's DSP, that's almost exclusively DV Plus. But it's a great point you bring out, Laura, it's something we probably should consider in future earnings releases.
+Laura Martin
+--
+Analyst
+Thanks, guys. Thank you very much.
+Michael Barrett
+--
+Chief Executive Officer
+Thank you. Thanks.
+Operator
+The next question comes from Ian Peterson from Evercore ISI. Please go ahead.
+Unknown speaker
+--
+Evercore ISI -- Analyst
+Thank you for taking my questions. Two, if I may. First, it would be great to get some color on how the managed services business trended in Q2? And how you expect that business to trend or implied in your Q3 guide, which has some pretty material acceleration in CTV revenue? And my second question is around you guys have signed a number of new partnerships in the quarter. Can you walk us through if these partnerships will require incremental investment spend? Or how we should think about investments Magnite needs to make in order to properly run these partnerships? Thanks.
+David Day
+--
+Chief Financial Officer
+Great. I'll take that on the managed service front. Yeah, I think managed service was down slightly in Q2. We expect it to be down slightly in Q3.
+And as we've discussed in the past, I think what you'll find is managed service. One is more -- it's always been a little more volatile. And so, we're a little more cautious than any guidance related to managed service. And over time, you'll see managed service becoming a smaller and smaller component of our overall revenue mix.
+And so, that's how we see that trending over time. From a partnership perspective, there's really no direct incremental investment needed for the new partnerships. The only thing I'd say is if you sort of pan back to the overall CTV opportunity that all of these partnerships represent, for example, live sports, I think on the margin, there is some modest engineering, product and engineering hiring, and a little bit of acceleration there that we can have a nice ROI. So, nothing that changes fundamental dynamics of our margins or anything, but I think we'll look to accelerate some of that development because of the opportunity that we have ahead of us.
+Unknown speaker
+--
+Evercore ISI -- Analyst
+Thank you.
+Operator
+The next question comes from Matt Swanson from RBC Capital Markets. Please go ahead.
+Matt Swanson
+--
+Analyst
+Yeah, thank you, guys so much for taking my question. Dave, if I could ask another one on the macro and just kind of how you're thinking about it in guidance? How much differentiation, I guess, is there between the macro you see in the CTV environment versus DV Plus, kind of just going back to that cyclical versus secular idea?
+Michael Barrett
+--
+Chief Executive Officer
+Yeah. Hey, Matt, it's Michael. I think if you look across the board, the categories that aren't performing as well from an ad spend standpoint, tend to go across both platforms. And so, I don't think that there may be some rare instances of, say, a managed service contribution.
+But generally speaking, when we say strength or weaknesses in categories of spend, it's meant for all of Magnite across the board and not just focus on CTV and/or DV Plus.
+David Day
+--
+Chief Financial Officer
+Yeah. I think that said, because of the expansion in CTV, that general macro impact, whatever it is, probably would look a little more muted because of the gains that we're making in the CTV. So, relatively speaking, let's say there was a macro slowdown, you'd probably see it a little more acutely on the DV Plus side of the business than you would on the CTV side, but that's the only nuance I'd add to that.
+Matt Swanson
+--
+Analyst
+Yeah. No, that's helpful color. And then, Michael, during the prepared remarks, you talked about increased interest from other partners after the Netflix deal, about people trying to figure out why you won, what you're doing for them, and maybe how you could help. Obviously, you probably don't want to talk about specific names before these deals are launched but if you could just give us some more color there, that would be really helpful.
+Michael Barrett
+--
+Chief Executive Officer
+Yeah, Matt, I think the reference there was that we work with just about every big player out there and some will probably never work with us like a YouTube. But in the ones that we do work with, what we're seeing is kind of an increase in same-store sales and that kind of halo effect of Netflix in walking clients through how we won the business, what they want of our stack. We've talked in the past before about customizing offerings on a streamer need basis. So, instead of having people think of us as, oh, they have an ad server, they have an SSP, well, someone want three features that are ad server features and five features that are SSP features, that's the kind of work that we're doing with these folks to get deeper into their stack, if you will, increase their monetization and increase our revenue participation.
+So, I would say that I wouldn't look for huge announcements as the verification of the halo effect that we're receiving, it's more look at it through the revenue performance of CTV from the existing clients that we have.
+Matt Swanson
+--
+Analyst
+Thank you.
+Operator
+The next question comes from Eric Martinuzzi from Lake Street. Please go ahead.
+Eric Martinuzzi
+--
+Analyst
+Yeah, curious to get a layer deeper on the Mediaocean relationship there. As far as the ramp-up in Q3, is the next step really educating the buy side here, or are there things that you need to do on the plumbing, call it, behind the ClearLine?
+Michael Barrett
+--
+Chief Executive Officer
+Yeah, great question, Eric, and it has been all plumbing to date, right? So, making sure it's integrated, making sure the workflow works, billing, reconciliation, collections, all that kind of stuff. Had to make sure that was sound and in place. A lot of that dev work falls on Mediaocean. So, it's kind of out of our controls.
+But now that there's water flowing through the pipes, we anticipate that we're in this next phase and that is activation. And you're right, there's an education process to it. But there's no additional resources that we need. We have our demand facilitation team that has all the relationships that exist.
+Mediaocean is leaning on it as well. As we said, we're not converting dollars that are programmatic today going through a DSP and trying to take those monies and put them through this new path of work. This is really for that kind of linear insertion order business that would be sent over via an insertion order convincing those folks to the efficacy of the workflow of ClearLine and the additional targeting that you can get from that, the reach and frequency balancing that you can get from that. And yeah, we expect the sales cycle to be relatively midterm to it.
+It's not an easy flip the switch, but we're really encouraged with the response that we're getting in some of the tests that are taking place right now.
+Eric Martinuzzi
+--
+Analyst
+Got it. Thanks.
+Operator
+The next question comes from Zach Cummins from B. Riley. Please go ahead.
+Zach Cummins
+--
+Analyst
+Good afternoon. Thanks for taking my question. Most of mine have already been asked by other analysts, but just curious with improving cash flow that you see, especially here in Q2, how are you thinking about capital allocation when it comes to potentially repurchasing shares or retiring debt at this juncture?
+David Day
+--
+Chief Financial Officer
+Yeah, that's a good question. We're really happy with where we stand now from a capital structure, having completed our refinancing in January, and we're kind of set for the next handful of years. If we think about uses for our cash, I'll start first with a baseline that we'd like to have $175 million, $200 million as normal kind of operational cash flow balance. Over the next year and a half, we would like to -- or we would put aside another $200 million to pay off the converts that come due in March of 2026.
+And so, to your point, we will have some excess cash. I think we would lean much more heavily now to perhaps opportunistic repurchasing of shares, particularly with some of the volatility in our stock price. So, that would certainly be on the table. We'll also keep some powder dry if there are some tuck-ins, or small acquisitions that might accelerate important CTV-related product development.
+So, that's how I think we think about our capital allocation right now.
+Zach Cummins
+--
+Analyst
+Got it. Well, thanks for taking my questions and best luck with the rest of the quarter.
+David Day
+--
+Chief Financial Officer
+Thanks. Appreciate it.
+Operator
+[Operator instructions] Our next question comes from Ross Compton from Macquarie. Please go ahead.
+Ross Compton
+--
+Analyst
+Hi, Michael, with little in the press by the way of the upcoming Google Ad Tech trial that starts in September, I appreciate it's going to be a long play here, but also looking at Google's network revenue, which has declined for about, I think, eight quarters in a row. Are you seeing some competitive mediation for you as an SSP to win in this space and helping DV Plus results? Interested to hear your thoughts here on kind of the moving pieces and the potential spend to ads.
+Michael Barrett
+--
+Chief Executive Officer
+Yeah, great question. I would say that over several quarters, if not years, since this investigation was going on, we have definitely seen a far more level playing field as it relates to working with Google and Google AdX and GAM in DV360. So, I don't think that anything this quarter or last quarter, I think there's accumulation practices that are more conducive to the open web, more conducive to Magnite. But I would say more on the margins.
+I don't think there's been any kind of sea change where the opportunities that were not afforded to us are now abundant.
+Ross Compton
+--
+Analyst
+Sure. OK, that's super helpful. Thank you.
+Operator
+There are no more questions in the queue. This concludes our question-and-answer session. I would like to turn the conference back over to Michael Barrett for any closing remarks.
+Michael Barrett
+--
+Chief Executive Officer
+Thanks, Jason. I'd like to thank the Magnite team for delivering another great quarter that exceeded expectations. The strong performance of our team in the first half of the year has positioned us nicely for a strong finish in the third and fourth quarters. We look forward to speaking with many of you at our upcoming investor events.
+Bank of America will host our post-Q2 virtual investor meetings tomorrow. We will be attending meetings with Craig-Hallum in Philadelphia and Baltimore on August 13th and 14th. Nick will participate in the Cannonball IR Conference on August 16th. We will be attending the BofA conference in New York on September 4th, the Benchmark Conference in New York on September 5th, the Citi Conference in New York on September 6th, the Wolfe Conference in San Francisco on September 10th, and the B.
+Riley and Lake Street conferences in New York on September 1st. Following the conferences, Nick will be participating in investor meetings in L.A. on September 16th with Lake Street, Dallas on September 17th, and Austin on September 18th with Stephens. San Diego on September 19th, Lake Street, Toronto on September 24th with Benchmark, Montreal on September 25th with RBC, and in New York on September 26th with SIG.
+Thank you all, and have a great evening.
+Operator
+[Operator signoff]
+Duration: 0 minutes

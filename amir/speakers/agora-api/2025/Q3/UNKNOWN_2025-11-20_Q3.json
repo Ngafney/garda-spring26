@@ -1,0 +1,97 @@
+[
+  {
+    "speaker": "Unknown",
+    "role": "",
+    "text": "Full Conference Call Transcript"
+  },
+  {
+    "speaker": "Tony Zhao",
+    "role": "",
+    "text": "Thanks, operator, and welcome everyone to our earnings call. I'll first review our operating results from the past quarter. We are pleased to report our fourth consecutive quarter of GAAP profitability in Q3, supported by double-digit revenue growth and expanding margins. Total revenue in Q3 reached $35.4 million, up 12% year-over-year. Our GAAP net profit for the quarter was $2.7 million, with a GAAP net margin of 7.8%. We expect our revenue and net profit to continue growing on a quarter-over-quarter basis. As you can see, our core real-time engagement business is rebounding strongly and is on track to deliver its first full-year revenue growth since the pandemic, providing a stable, profitable foundation for us. At the same time, we are significantly increasing our investment in conversational AI. Voice-based human-machine interaction is not new, yet most conversational AI solutions today still disappoint users. Why? Because building voice agents that can converse naturally with a human is just hard. Just a few months ago, Greylock Partners, a leading venture capital firm, published a blog post titled 'Voice Agents: Easy to Use, Hard to Build.' They know that the core challenge behind the simplicity users expect lies in immense complexity system abstraction, real-time audio processing, latency management, and compliance requirements. Consider the issue of background noise and multiple speakers. Just two of the many technical challenges. In real-world settings, like a busy home, office, or car, clean audio is the exception, not the norm. A voice agent must accurately isolate a user's voice from overlapping speech and ambient sound. Without this, transcription becomes unreliable. Intent is misunderstood, and the agent's reasoning falters, undermining the whole interaction. Furthermore, as Andrew Kaposi has pointed out, there is often a significant gap between a working demo and a production-ready product. Conversational AI is no exception. For instance, in our discussion with customers and prospects, many have expressed frustration with the reliability and scalability of current solutions, especially when users are distributed across geographies or when concurrent usage is high. Our investment in conversational AI is specifically aimed at addressing these challenges. Recently, we launched our conversational AI engine 2.0. It integrates over a decade of advanced audio research and development, including AI-powered noise suppression, acoustic echo cancellation, proprietary audio codecs, and adaptation across thousands of device types to ensure that AI hears and speaks with consistent clarity. In addition, the engine also tackles core interaction challenges: selective attention, turn-taking, interruption handling, emotion detection, and natural conversational flow. In short, we're not just providing the transmission pipeline for voice and video; we're building the behavioral intelligence that powers truly responsive human-like conversational AI agents. To help developers build voice agents more easily, we announced our conversational AI studio at our recent Conva AI and RTE conference in late October, which allows developers to create, configure, and deploy voice agents through a zero-code interface. Complementing this, our conversational AI benchmark and orchestration platform allow developers to evaluate, mix, match, and optimize both our proprietary and third-party modules, so they can identify the best-performing combination for their specific use case. Our open-source time framework, designed for building voice agents, continues to gain traction in the developer community. Recognized for its high-concurrency architecture and deep cross-platform integration, it has been adopted by multiple cloud providers and major enterprises for their agent orchestration platforms. All these products are backed by our global distributed real-time assurance cloud. Over the past several months, we've expanded this infrastructure to cover key regions across North America, South America, Europe, and Asia, ensuring consistent latency, reliability, and performance, even under high concurrency and varying network conditions. Early adoption from customers around the world has been encouraging, and our pipeline of use cases and prospects continues to grow as we head into the next quarter. Our recent Convert AI and RTE conference attracted more than 3,000 on-site attendees, a record for us, and made it the largest gathering focused on conversational AI technology globally. Our customers and developers are deploying our conversational AI solutions to build voice agents for outbound marketing, inbound customer service, tutoring, and among many other applications. Smart toy manufacturers are also integrating our technology, enabling AI-powered companionship and learning experiences. In conclusion, the convergence of advanced AI models and robust real-time infrastructure is unlocking a new era of possibilities. Backed by proven scalability, deep technology expertise, and a forward-looking product suite, we're well-positioned to empower this next chapter, enabling truly human-like, reliable, and scalable voice agents. With that, let me turn things over to Jingbo Wang, who will review our financial results."
+  },
+  {
+    "speaker": "Jingbo Wang",
+    "role": "",
+    "text": "Thank you, Tony. Hello, everyone. Let me start by first reviewing the financial results for 2025 and then I will discuss the outlook for the fourth quarter. Total revenues for the third quarter reached $35.4 million, up 12% year over year, representing our third consecutive quarter of double-digit organic growth. If we look at the two business divisions, our core revenues reached $18.2 million in Q3, 15.9% year-over-year growth and flat quarter over quarter. The strong year-over-year growth reflects our successful market penetration and a growing adoption in verticals such as live shopping. Shunghwa revenues, reached RMB 122,400,000 in Q3, up 8.4% year over year and 6% sequentially, driven by continuous business expansion and adoption in key verticals such as social, entertainment, and IoT. Dollar-based network retention rate is 108% for Agora and 90% for Shunghu, marking the fourth consecutive quarter of improvement for both businesses. Gross margin for the third quarter was 66%, slightly decreased 0.7% year over year and 0.8% sequentially. Moving on to expenses, R&D expenses were $13.8 million in Q3, decreased 52.8% year over year. R&D expenses represented 39.1% of total revenues in the quarter, compared to 92.7% in Q3 last year. Sales and marketing expenses were $6.5 million in Q3, decreased 5.6% year over year. Sales and marketing expenses represented 18.3% of total revenues in the quarter compared to 21.7% in Q3 last year. G&A expenses were $5 million in Q3, decreased 48.4% year over year. G&A expenses represented 14.1% of total revenues in the quarter compared to 30.8% in Q3 last year. Moving on to the bottom line, we delivered net income of $2.7 million in Q3, representing a 7.8% net income margin. This result represents a significant improvement from last year and marks our fourth consecutive quarter of GAAP profitability. Based on our current business momentum and visibility into the fourth quarter, we expect net income to grow sequentially compared to Q3. Now turning to cash flow, operating cash flow was $700,000 in Q3, compared to negative $4.6 million last year. Moving on to the balance sheet, we ended Q3 with $374.3 million in cash, cash equivalents, deposits, and financial products issued by banks. Net cash outflow in the quarter was mainly due to a share repurchase of $4.8 million. In the third quarter, we repurchased 5.2 million ordinary shares, or 1.3 million ADS, representing 1.4% of our outstanding shares at the beginning of the quarter. Since our board approved the share repurchase program in February 2022, we have repurchased $132.1 million worth of shares through September 30, 2025. The share repurchase program demonstrates our dedication to returning value to our shareholders balanced with our ability to continue investing in strategic growth opportunities. Now turning to guidance for 2025, we currently expect total revenues to be between $37 million and $38 million, compared to $34.5 million in the fourth quarter last year, representing year-over-year growth rate of 77.2% to 10.1%. This outlook reflects our current and preliminary views on the market and operational conditions, which are subject to change. In closing, I would like to express my gratitude to our outstanding team in Agora and Shiwa. Our sustained double-digit revenue growth and profit expansion are a direct reflection of your hard work and strategic focus. For our shareholders, thank you for your continued trust. We remain focused on executing our roadmap to build a durable, market-leading company at the forefront of AI innovation. Thank you all for joining today's call. Let's open it up for questions."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Thank you very much. As a reminder, to ask a question, please press 11 on your telephone and wait for your name to be announced. To withdraw your question, please press 11 again. The first question comes from the line of Harry Zwing from Bank of America. Please go ahead."
+  },
+  {
+    "speaker": "Harry Zwing",
+    "role": "",
+    "text": "Thanks management for taking my question. Congratulations on another quarter of double-digit growth and solid guidance for the full quarter this year. I have three questions. First, regarding the demand outlook, could management elaborate on the key trends in both domestic and international markets for the coming quarters, and what are the key downstream sectors that are driving the demand growth? Second question is regarding the AI application. Can management share the latest update on the drive for meaningful revenue contribution development of AI? And lastly, on the profitability outlook, can management share the profitability outlook for both the fourth quarter this year and also FY '26, at the operating profit level and the net profit level? Thanks."
+  },
+  {
+    "speaker": "Tony Zhao",
+    "role": "",
+    "text": "Alright. I'll take the first two questions, and Jim will take the last one. So for the demand in China, the overall demand recovery trend continues. With a stabilized regulatory environment, demand from social entertainment and education customers rebounded and gradually goes up. Demand from IoT and digital transformation customers is experiencing rapid growth. In the US and international markets, live commerce demand continued its rapid growth and other verticals generally show growth as well. The overall growth rate is slightly faster than in China. As to the AI demand and the trend, before I answer the question, I want to first clarify the difference between voice AI and conversational AI. We are actually focused on conversational AI, which is very related to our real-time engagement business, and it means real-time human-AI voice interaction. On the other hand, voice AI is a much broader concept. It includes both real-time conversation and non-real-time functionalities such as audio recognition and generation. Non-real-time use cases are actually much broader, and non-real-time audio recognition and generation are much easier to achieve usability and find practical use cases. In the past two years, audio generation or text-to-speech has been widely used in non-real-time content production. For example, most of the short video clips people watch today use AI-generated voiceover. These have been growing in the last two years in social media and a lot of other markets. However, when we move to real-time conversation, the complexity of the technology makes the whole experience much more challenging, as I stated in the opening remark, and it takes longer to mature and gain adoption. In conversational AI applications, currently, there are three use cases that have progressed to a more advanced stage, namely call centers, education, and companionship toys. For these use cases, we already see some customers have moved from proof of concept phase to real-world production. Given the vast scale and potential usage of these verticals, we expect the success of these customers will drive further adoption. We already have customers in production today, but usage is still ramping up. We expect to see some sizable conversational AI revenue in the first half of next year, and ConvaAI will become a meaningful revenue contributor towards the end of next year."
+  },
+  {
+    "speaker": "Jingbo Wang",
+    "role": "",
+    "text": "Okay. For the third question, for Q4 this year, given that Q4 is normally a strong season for us, we expect to achieve GAAP operating profit breakeven in Q4. Therefore, the GAAP net profit will further grow on top of the Q3 level. For next year, our target is to achieve GAAP operating profit for the full year of 2026. GAAP net profit is expected to show a big improvement over 2025. In terms of the GAAP net profit, there will be some level of uncertainty due to the potential interest rate cut, but under the current forecast, we expect year-over-year net income improvement over 2025 as well."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Thank you. Just a moment for our next question, please. The next question comes from Rachel Hahn from CICC. Please go ahead."
+  },
+  {
+    "speaker": "Rachel Hahn",
+    "role": "",
+    "text": "Thank you for taking my questions. Can you hear me?"
+  },
+  {
+    "speaker": "Rachel Hahn",
+    "role": "",
+    "text": "Hi, this is Rachel Hahn from CICC. First of all, congrats on the solid growth this quarter, and especially the continued improvement in profitability. I have two questions. First, I noticed that our third-quarter revenue came in slightly above the midpoint of the guidance range. Could you give us more color on what drove this solid performance? And my second question is on the AI side, which downstream applications are showing the strongest momentum so far? In particular, how is the adoption trend for AI companionship toys, and when should we expect these use cases to start contributing to your financial results? Thank you."
+  },
+  {
+    "speaker": "Jingbo Wang",
+    "role": "",
+    "text": "Okay, I'll take the first question. As Tony mentioned in the earlier question, for Q3, we saw pretty strong demand from US and international markets as well as the China market. In the US international market, live commerce continued to grow very strongly, especially in more developed markets. Other verticals, such as social and fintech, are also growing pretty well. In China, in Q3, first of all, we had the summer vacation in Q3, which is generally a strong season for social apps and education apps. In addition, the IoT sector, including smart cameras, smart wearable devices like watches, and smart toys, is experiencing very rapid growth."
+  },
+  {
+    "speaker": "Tony Zhao",
+    "role": "",
+    "text": "For the AI use cases side, there is quite a strong pipeline of customers and prospects for call centers, including outbound marketing and inbound customer services. For AI companionship toys, we see strong momentum from our customer RoboPong. Their sales and usage numbers are quite impressive. They also started to charge end-user monthly subscription fees, which we believe is a more healthy and sustainable business model and also a breakthrough in similar kinds of toys. A couple of other toy manufacturers are also in the process of integrating our solutions. We expect to see them coming to the market in the next few months."
+  },
+  {
+    "speaker": "Rachel Hahn",
+    "role": "",
+    "text": "Thank you. Okay, thank you for your detailed answers. I wish our company continued growth and success."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Our next question comes from Yu Xing from China Security. Please go ahead."
+  },
+  {
+    "speaker": "Yu Xing",
+    "role": "",
+    "text": "Hi, management, thanks for taking my question, and congrats on the strong execution this quarter. My first question is related to AI usage. Could you share the sequential growth trend for AI-related usage? Looking at our current customer pipeline, when could we see signs of a meaningful scale for these AI applications? My second question relates to potential strategy extension. We could see some CDN vendors expanding into edge GPU inference and security. Given our R&D infrastructure, could we foresee a similar path to maybe offer or cross-sell edge-side inference or security features?"
+  },
+  {
+    "speaker": "Tony Zhao",
+    "role": "",
+    "text": "Conversational AI usage increased by more than 150% quarter over quarter, so it's quite fast. Although, as I mentioned, voice AI has matured for years already, conversational AI is still at an early stage. We do see a strong pipeline of customers and prospects and believe we are not far from broader adoption and proliferation of voice agents. For your second question, we are not a CDN company, but we do have a global distributed network and a large number of data centers distributed across every major region. It's a good question. In fact, we have opportunities that are similar but from a different perspective. Specifically, we are targeting real-time inference services for conversational AI. This is what we build for our product. This inference service needs to connect with multiple distributed ASR, TTS, large language model services, as well as our self-developed and deployed modules in different locations. This kind of capability is a must to support the core process in a way that it has to be wire-load latency, so that the real-time nature of the interaction could be enabled. Such an infrastructure service is of great value to any agent that requires ultra-low latency or real-time inference. This is also an opportunity we could expand in the future."
+  },
+  {
+    "speaker": "Yu Xing",
+    "role": "",
+    "text": "Okay, thank you. That's very helpful."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Thank you. Just a reminder, to ask a question, please press 11 on your telephone keypad."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "There are no further questions. That concludes today's Q&A session. Thank you, everybody, for attending the company's call today. As a reminder, the recording and the earnings release will be available on the company's website at investor.agora.io. If there are any other questions, please feel free to email the company. Thank you."
+  }
+]

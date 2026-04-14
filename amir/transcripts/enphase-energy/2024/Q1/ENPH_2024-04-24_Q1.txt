@@ -1,0 +1,491 @@
+Operator
+Good day, and welcome to the Enphase Energy first quarter 2024 financial results conference call. All participants will be in listen-only mode. [Operator instructions] After today's presentation, there will be an opportunity to ask questions. [Operator instructions] We ask that you please limit yourself to one question and a single follow-up.
+You may then reenter the queue if you have more questions. Please also note today's event is being recorded. I would now like to turn the conference over to Zach Freedman. Please go ahead.
+Zach Freedman
+--
+Head of Investor Relations
+Good afternoon, and thank you for joining us on today's conference call to discuss Enphase Energy's first quarter 2024 results. On today's call are Badri Kothandaraman, our president and chief executive officer; Mandy Yang, our chief financial officer; and Raghu Belur, our chief products officer. After the market closed today, Enphase issued a press release announcing the results for its first quarter ended March 31st, 2024. During this conference call, Enphase management will make forward-looking statements, including, but not limited to, statements related to our expected future financial performance; market trends; the capabilities of our technology and products and the benefits to homeowners and installers; our operations, including manufacturing, customer service and supply and demand; anticipated growth in existing and new markets; the timing of new product introductions; and regulatory and tax matters.
+These forward-looking statements involve significant risks and uncertainties and our actual results and the timing of events could differ materially from these expectations. For a more complete discussion of the risks and uncertainties, please see our most recent Form 10-K and 10-Qs filed with the SEC. We caution you not to place any undue reliance on forward-looking statements and undertake no duty or obligation to update any forward-looking statements as a result of new information, future events, or changes in expectations. Also, please note that financial measures used on this call are expressed on a non-GAAP basis unless otherwise noted and have been adjusted to exclude certain charges.
+We have provided a reconciliation of these non-GAAP financial measures to GAAP financial measures in our earnings release furnished with the SEC on Form 8-K, which can also be found in the investor relations section of our website. Now I would like to introduce Badri Kothandaraman, our president and chief executive officer. Badri?
+Badri Kothandaraman
+--
+President and Chief Executive Officer
+Good afternoon, and thank you for joining us today to discuss our first quarter 2024 financial results. We reported quarterly revenue of $263.3 million, shipped approximately 1.4 million microinverters and 75.5 megawatt hours of batteries and generated free cash flow of $41.8 million. We reduced our channel inventory by approximately $113 million in Q1, slightly less than anticipated because of softer demand. For the first quarter, we delivered 46% gross margin, 31% operating expenses, and 15% operating income, all as a percentage of revenue on a non-GAAP basis, including the IRA benefit.
+Mandy will go into our financials later in the call. Let's now discuss how we are servicing customers. Our worldwide NPS was 78% in Q1, compared to 77% in Q4. Our average call wait time was 1.9 minutes in Q1 compared to one minute in Q4.
+We are adding data scientists, enhancing our analytics to identify problems proactively, and fixing them automatically through software. Our field engineers and technicians are assisting installers and complex installations, while bringing back learning to our development teams, enabling continuous improvement. Let's cover operations. We shipped approximately 506,000 microinverters in Q1 from our US contract manufacturing facilities that qualified for 45X production tax credits.
+Once fully ramped, we expect to have a global capacity of approximately 7.25 million microinverters per quarter, of which 5 million capacity will be in the US We expect to ship approximately 0.5 million microinverters to customers from our US manufacturing facilities in Q2. The number is a little less than what we would like, but our top priority is to reduce our factory inventory. We anticipate resuming a higher level of shipments in the second half of the year. For IQ Batteries, we have two cell pack suppliers, both in China, which have sufficient manufacturing capacity to support our ramp in 2024.
+As previously discussed, we expect to add battery manufacturing capability in the US during the third quarter of 2024. Let's now cover the regions. Our US and international revenue mix for Q1 was 57% and 43%, respectively. For more visibility into our business, we are providing regional breakdowns and sell-through dollar metrics by region.
+In the US, our revenue decreased 34% sequentially as we undershipped to end customer demand. The overall sell-through of our microinverters and batteries in the US was down 23% in Q1 compared to Q4. Let's discuss the market trends we are seeing in the US split by non-California states and California. For non-California states, our overall sell-through was 21% down in Q1 compared to Q4.
+The sell-through was similarly down for both microinverters and batteries due to seasonality. In California, our overall sell-through was down by 30% in Q1 compared to Q4. The sell-through of our microinverters was down 37%, and sell-through of our batteries was down 18% in Q1 due to seasonality and the NEM 3 transition. I'll provide more statistics and color on NEM 3 later in the call.
+In Europe, our revenue increased 70% sequentially as channel inventory improved and we introduced new products. The overall sell-through of our microinverters and batteries was up 7% in Q1 compared to Q4. The sell-through of our microinverters was up 3%, while the sell-through of our batteries was up 28% in Q1. I'll provide some color on key markets in Europe, particularly Netherlands, France, and Germany.
+In the Netherlands, our overall sell-through in Q1 was down 4% compared to Q4. The market stabilized during Q1, and we are encouraged by the demand signals we see after seeing the government's decision to support NEM for the foreseeable future. We expect to see the sell-through of microinverters pick up in Q2 as a result of this decision. We continue to believe solar plus batteries are going to become the norm as dynamic tariffs and grid services become more prevalent.
+In France, our overall sell-through in Q1 was up 13% compared to Q4. We have been encouraged by the continued strength in this market, supported by higher utility rates. Solar penetration in France is still small, and we see potential for the country to grow and evolve into a significant solar plus battery market for Enphase. In Germany, our overall sell-through in Q1 was up 28% compared to Q4.
+We are going from strength to strength in this market. We plan to launch our three-phase battery solution in the country later this year, along with additional software. We are leveraging AI and ML to enhance our home energy management software and expand grid services participation. We are continuing to launch our IQ8 microinverters and IQ Batteries into many new countries across Europe.
+Notably, we started shipping IQ Batteries into Italy in the first quarter. Our sell-through in the new countries is beginning to ramp, and we anticipate steady growth throughout 2024. In Australia, our Enphase Energy Systems are powered by IQ8 Microinverters and IQ Battery 5P, a third-generation battery, which we introduced in June last year. We expect higher battery attachment rates in Australia during the second half of this year.
+In Brazil, we are making good progress in building our installer base. In Mexico and India, we are shipping our highest-powered microinverters, IQ8P, to support high-power panels. We just started shipping the same microinverters into Thailand and the Philippines in Q1. As a reminder, IQ8P is a high-power microinverter at 480 watts AC for both residential and commercial applications.
+Let me say a few words about our market share. In the US, we see a stable share of our microinverters and batteries based on both internal and third-party data. There have been several changes in the market over the last year, including a shift away from loans and toward lease and PPAs. Our continued strong market share is a testament toward our installer relationships and the differentiated value proposition we provide them with our products.
+We are fully focused on enhancing our product portfolio, solving installer pain points, and deepening our relationships. In Europe, we are using the same strategy to grow market share. Let me provide some color on NEM 3.0. In the last three to four weeks, I've been on the road, we have visited over 25 installers in California to really understand how their businesses are doing.
+Many reported that their businesses are down by 50% or more from last year's high and they have all adjusted by becoming much leaner. They are getting better at selling NEM 3.0. They can clearly articulate what works and what doesn't. They are hungry for high-quality leads.
+They're also becoming adept at selling batteries, either a grid-tied battery or a backup battery with every install. They are becoming flexible in the financing options they offer to the homeowners. If the loans don't work, they aren't afraid to switch over to leases or PPAs, which are becoming increasingly available to the long tail. Most of them reported stronger sales in March of this year compared to January and February.
+I came away feeling that we are beginning to climb out of the bottom, and we should get back to growth shortly. Let's cover some NEM 3.0 statistics, which haven't changed that much from our last call. In Q1, 50% of our California installs were NEM 3.0 systems. These systems have a very high battery attach rate of over 90% compared to NEM 2.0 systems, which have an attach rate of 15%.
+Our data also shows that half of our NEM 3.0 systems are using Enphase batteries. Taking this data into account, our average revenue per NEM 3.0 system is approximately 1.5 times our average NEM 2.0 system. We believe this will contribute to stabilizing and increasing our California revenue in the second half. Let's come to our Q2 guidance.
+We are guiding revenue in the range of $290 million to $330 million. We expect to ship 100- to 120-megawatt hours of IQ Batteries. We expect sell-through demand of our products to be approximately $400 million in Q2, up from $376 million in Q1 due to seasonal strength in Europe and non-California states, offset by some decline in California. We plan to undership to the end market demand for our products by approximately $90 million in Q2.
+We expect the channel to normalize by the end of Q2 on microinverters as we previously forecasted. Our channel is almost normal on batteries already. Let's talk about products, starting with IQ Battery. Our third-generation battery called IQ Battery 5P has been very well received.
+It delivers the best power specs and commissioning times of any Enphase battery to date as an industry-leading 15-year warranty. Battery adoption rates are on the rise globally, and we are well-positioned to grow our sales in 2024. As we discussed last quarter, we expect our gross margins on batteries to continuously improve throughout the year. There are three factors: cell pack costs, which are coming down rapidly; battery microinverter costs, which are coming down due to IRA benefit from manufacturing in the US; and costs coming down due to improved architecture on our fourth-generation battery.
+We're already seeing the benefits of the first two factors, and we will benefit from the third factor early next year. We are working on entering more countries in Europe and Asia with our third-generation battery. We expect to also introduce our new three-phase battery with backup for Germany during this year. We expect to launch several balance of system improvement initiatives for the US that will improve the cost of installing batteries for backup.
+We plan to pilot our fourth-generation battery later in the year. This battery will have a great cost structure and an elegant form factor due to the integrated battery management and power conversion architecture. As previously discussed, we have entered many new markets with the IQ8 family of microinverters and we are now in 24 countries. We plan to enter more new countries in Europe and Asia throughout 2024 with our microinverters.
+And we plan to increase our available market further by introducing social housing and balcony solar solutions to European countries during the year. We recently launched the IQ Combiner light in Netherlands to simplify the installation of small solar systems on social housing units. The other variant of the IQ8P Microinverter with the new three-phase cabling system is well suited for small commercial solar installs ranging from 20 to 200 kilowatts. We launched this product in North America in December, and we are seeing good early adoption.
+We are excited about the product and look forward to manufacturing IQ8P Microinverters at our US facilities starting this quarter, further reducing costs. Let's cover EV charging. We launched our IQ smart EV chargers in the US and Canada in Q4. We are developing smart EV chargers for European countries, and we expect to introduce them this year.
+The team is also working on bidirectional EV charger, which will unlock use cases like V2G and V2H as part of the Enphase System. This charger will have a GaN-based bidirectional inverter. We expect to release the product in 2025. Let's cover the latest upgrades to our energy management software.
+We recently did a press release where we launched Enphase Power Control, or PCS, software that can integrate with our systems in North America. PCS dynamically controls the power produced by the Enphase System, giving installers a lot of flexibility in system design to build larger systems and avoid costly main panel upgrades while meeting utility and national electric code requirements. Our software is evolving to manage the increased complexity in the energy markets by leveraging AI and ML for forecasting and optimization. Our next software offering will manage dynamic tariffs in countries like Netherlands and Germany.
+This new software is intended to help maximize ROI and reduce the payback period for solar homeowners throughout Europe, where electricity prices can change by the hour. Let me provide you with an update on IQ9 Microinverters with gallium nitride or we also call GaN. We expect IQ9 microinverters to deliver higher power at lower costs. Multiple vendors have been providing us with GaN parts, and we are increasingly confident in the reliability of our design.
+We expect to launch the product in the first half of 2025 to address the two markets: one is residential and the other is three-phase small commercial markets, both the 208 watts, as well as the 480 watts. Let's now discuss our installer platform. We announced some key features and improvements to Solargraf in Q1, including advanced 3D design with smart design capability, California NEM 3.0 support and enhancements, and verification of shading and support for small commercial projects. Solargraf is currently available to installers in the US, Canada, Brazil, Germany, and Austria, and we expect to release it to more countries in the coming quarters.
+Let me conclude. We have been managing through a period of slowdown in demand. We believe Q1 was the bottom quarter. Europe has already begun to recover, and we expect the non-California states to bounce back in Q2.
+California is becoming less of a wild card, and we expect demand to stabilize and increase in the back half of 2024. We are bullish about NEM 3.0 in the long term. The payback is attractive for solar plus batteries. The utility rates are going up steeply and the sales teams are learning rapidly.
+I am pleased that we have executed well through the market downturn over the last year. We have maintained profitability and free cash flow throughout this period while correcting the channel. We have not sacrificed any new product development or geographic expansion plans and are now entering a growth cycle with a good product portfolio and a growing TAM, and there is still a lot more to come. We expect to begin field testing our microinverters, IQ9 Microinverters, and fourth-generation batteries later in the year.
+We are making balance of system improvements to enable faster and easier battery installation. We plan to roll out significant software upgrades like PCS and dynamic tariffs in both the US and Europe. We remain laser-focused on operational excellence, concentrating on sell-through and installer count, reducing operating expenses and product costs and maintaining healthy gross margin as our company returns to strong growth. With that, I will turn the call over to Mandy for a review of our financial results.
+Mandy?
+Mandy Yang
+--
+Chief Financial Officer
+Thanks, Badri, and good afternoon, everyone. I will provide more details related to our first quarter of 2024 financial results, as well as our business outlook for the second quarter of 2024. We have provided reconciliations of these non-GAAP to GAAP financial measures in our earnings release posted today, which can also be found in the IR section of our website. Total revenue for Q1 was $263.3 million.
+We shipped approximately 603.6 megawatts DC of microinverters and 75.5 megawatt hours of IQ Batteries in the quarter. Non-GAAP gross margin for Q1 was 46.2% compared to 50.3% in Q4. The decrease was primarily driven by lower net IRA benefits. GAAP gross margin was 43.9% for Q1.
+Non-GAAP gross margin without net IRA benefit for Q1 was 41%, compared to 41.8% in Q4, mainly driven by lower volume. Given non-GAAP gross margin for Q1 included $13.7 million of net IRA benefit. Non-GAAP operating expenses were $82.6 million for Q1 compared to $86.6 million for Q4. The decrease was the result of the restructuring plan we implemented in December 2023.
+GAAP operating expenses were $144.6 million for Q1, compared to $156.9 million for Q4. GAAP operating expenses for Q1 included $56.7 million of stock-based compensation expenses, $3.5 million of amortization for acquired intangible assets and $1.9 million of restructuring and asset impairment charges. On a non-GAAP basis, income from operations for Q1 was $39 million, compared to $65.6 million for Q4. On a GAAP basis, loss from operations was $29.1 million for Q1, compared to a loss of $10.2 million for Q4.
+On a non-GAAP basis, net income for Q1 was $48 million, compared to $73.5 million for Q4. This resulted in non-GAAP diluted earnings per share of $0.35 for Q1 compared to $0.54 for Q4. GAAP net loss for Q1 was $16.1 million compared to GAAP net income of $20.9 million for Q4. This resulted in GAAP diluted loss per share of $0.12 for Q1 compared to GAAP diluted earnings per share of $0.15 for Q4.
+We exited Q1 with total cash, cash equivalents, and marketable securities balance of $1.63 billion compared to $1.7 billion at the end of Q4. As part of our $1 billion share repurchase program authorized by our Board of Directors in July 2023, we repurchased 332,735 shares of our common stock at an average price of $126.21 per share for a total of approximately $42 million in Q1. In addition, we spent approximately $60 million by reporting shares to cover taxes for employees' stock vesting and options in Q1. That reduced the diluted shares by 480,735 shares.
+We expect to continue this anti-dilution plan. In Q1, we generated $49.2 million in cash flow from operations and $41.8 million in free cash flow. Despite the macroeconomic challenges, we continue to generate free cash flow. Capital expenditure was $7.4 million for Q1 compared to $20.1 million for Q4.
+Capital expenditure requirements decreased due to a reduction in our US manufacturing spending. Now let's discuss our outlook for the second quarter of 2024. We expect our revenue for Q2 to be within a range of $290 million to $330 million, which includes shipments of 100- to 120-megawatt hours of IQ Batteries. We expect GAAP gross margin to be within a range of 42% to 45%.
+We expect non-GAAP gross margin to be within a range of 44% to 47% with net IRA benefit and 39% to 42% before net IRA benefit. Non-GAAP gross margin excludes stock-based compensation expense and acquisition-related amortization. We expect the net IRA benefit to be between $14 million and $17 million on estimated shipments of 500,000 units of US microinverters in Q2. We expect to increase the US main microinverter shipments to two-thirds of our overall microinverter shipments in the second half of this year.
+We expect our GAAP operating expenses to be within the range of $134 million to $138 million, including approximately $56 million estimated for stock-based compensation expense, acquisition-related amortization, and restructuring and asset impairment charges. We expect our non-GAAP operating expenses to be within the range of $78 million to $82 million. We expect our GAAP and non-GAAP annualized effective tax rate, excluding discrete items for 2024, to be at 18%, plus or minus 1% with IRA benefit. With that, I will open the line for questions.
+Questions & Answers:
+Operator
+Thank you. We will now begin the question-and-answer session. [Operator instructions] We ask that you please limit yourself to one question and a single follow-up. You may then reenter the queue if you have further questions.
+At this time, we will pause momentarily to assemble our roster. And today's first question comes from Colin Rusch with Oppenheimer. Please go ahead.
+Colin Rusch
+--
+Oppenheimer and Company -- Analyst
+Thanks so much, guys. As you start entering some of these newer markets with energy storage, can you talk about how much of the volume you're guiding into 2Q, could be considered selling to build a little bit of inventory to support those customers?
+Badri Kothandaraman
+--
+President and Chief Executive Officer
+Yeah. Could you please repeat that question, Colin? I didn't follow that properly.
+Colin Rusch
+--
+Oppenheimer and Company -- Analyst
+Sure. So, as you start selling energy storage into new markets and looking at the 2Q guide, how much of that energy storage sales dynamic is actually selling into the channel and channel just to get prepared in those markets?
+Badri Kothandaraman
+--
+President and Chief Executive Officer
+Not much really because the new markets are just ramping up for us. For example, we introduced storage in Italy in Q1. So, really, that's the only one where we introduced into a new market. Prior to that, you see, we introduced into a few European countries.
+Prior to that, we introduced it in the UK. In fact, our storage is -- the channel is very healthy. We are actually normalized as we speak on storage. That's what I said, we are there on storage.
+In fact, I'll give you a data that I didn't talk about in the call. Our sell-through of batteries in Q4 overall worldwide was 140-megawatt hours, while the sell-through of batteries in Q1 was 128-megawatt hours, only 8% down. It's much better than the seasonality of 20% that we are seeing on the other products. And so, batteries are doing well in general.
+Yet despite the 128-megawatt hours sell-through, we had the discipline to only ship 75.5-megawatt hour. That means we took 43-megawatt hours out of the channel. The channel is quite lean for storage. That's why you see we are increasing the guidance.
+When I guided for Q1, I guided 70- to 90-megawatt hours. Now I'm guiding for Q2, I'm guiding 100- to 120-megawatt hours on storage. So, storage is a good story. We expect it to continue.
+We expect, over the long term, every market to transition to solar plus storage. We talked about the color of some of our markets. Netherlands, we talked about. France, we talked about.
+Germany is already there. California, we'll get there soon. So, in general, storage is a good story for us.
+Colin Rusch
+--
+Oppenheimer and Company -- Analyst
+Thanks so much. And then on the pricing dynamic, it looks like microinverter pricing was down maybe 4%-ish, 5% quarter over quarter on average. Can you talk a little bit about the dynamic around pricing and discounts as you get through the inventory flush and what we can expect as you get into the middle of the year here?
+Badri Kothandaraman
+--
+President and Chief Executive Officer
+Right. And we measure something called ASP variance and we measure something called customer variance. The customer variance means how much pricing did you drop at a particular customer quarter to quarter. And ASP variance is simply a function of how you mix it.
+For example, if you have a lower pricing for a particular customer and his volume went up, it will show up as an overall reduction in ASP. Really, the measure of effectiveness in pricing comes from customer ASP variance. Are you dropping pricing at a particular customer? And the answer is we are very disciplined there. So, what you are seeing is a result of the mix, but we are extremely disciplined when it comes to -- you talked about in order to move inventory, do you need to lower pricing? No.
+We don't do -- we don't play games like that. So, we are disciplined, we will be disciplined, we sell on value. And what you're seeing is purely a product mix issue.
+Colin Rusch
+--
+Oppenheimer and Company -- Analyst
+Excellent, super helpful. Thanks guys.
+Operator
+Thank you. And our next question today comes from Brian Lee at Goldman Sachs. Please go ahead.
+Brian Lee
+--
+Goldman Sachs -- Analyst
+Hey, guys, good afternoon. Thanks for taking the questions. Badri, can you talk a little bit about -- you said at the onset of the call that you undership demand in Q1 a little bit less than -- or destocked a little bit less than you would have expected just because demand was softer. So, the $90 million of destock, that should kind of clear the inventory for micros in 2Q in your guide.
+You're saying normalized, you're seeing 400. So, are you inferring that normalized demand when you strip out the $90 million of destock is running at like 4 90? Because I know last call, you were talking about 450 to 500. So, maybe just to high-level kind of walk us through your thought process of what demand you're seeing out there, what the normalized level looks like once you get through all this inventory reset? And then maybe what time frame you think you kind of get back to those normalized run rates as well?
+Badri Kothandaraman
+--
+President and Chief Executive Officer
+Got it. So, Brian, in Q1, our sell-through demand, which is end customer demand, was $376 million in Q1, and we reported revenue of $263.3 million. Therefore, you can do the math, $376 million minus $263 million is $113 million of under shipment. Now in Q2, I guided $290 million to $330 million.
+Midpoint of guidance is $310 million. And now I said my estimated sell-through in Q2, which is reflective of when customer demand is $400 million. So, the difference between the two, $310 million, minus $400 million, or the other way, $400 million minus $310 million is the $90 million of under shipment. Now, what could that $400 million be in the second half of the year? That's where we are talking about the markets.
+We expect Europe, for example, to continuously improve. Netherlands government has approved net metering for the foreseeable future. We are starting to see the lead generation much higher in Netherlands. That should start to result in increased sell-through and increased activations in Netherlands, which is a big deal.
+Next one is France. France, the utility rates are helping us. So, you can see, despite this environment, we expect France to be strong. Third one is Germany.
+We reported sell-through of 28% higher in Q1 from Q4. And once again, there, the cost of electricity is high, and we expect solar and storage or solar and batteries to continuously grow. On top of it, I talked about our product introductions. In the last year, we have set ourselves up nice by introducing IQ8 and batteries everywhere.
+We are now in 24 countries. Even in Q1, we introduced batteries into Italy. Prior to that, we introduced in the UK Then we introduced Sweden, Denmark, et cetera, prior to that. I'm not going to list everything.
+So, we are attacking new markets in both Asia, as well as Europe. And now let's come back to the US. In the US, the dynamics are non-California states and California states -- and California. So, non-California states, there are multiple data points for us to tell you that things are improving.
+In the last few weeks, let's say, last four weeks, we are seeing better sell-through numbers compared to what we saw prior to that. That's the first data point. The second one is we have our internal Solargraf software, which is now being used by over 1,000 plus installers, and therefore, we can look at sales proposals, and contracts, we can see those numbers are continuously going up in March. The numbers are up in March versus February, numbers are up in April versus March.
+So, that's a good sign. Then, of course, it is anecdotal. My interactions with customers in California in the last four weeks, all of them universally said March is a much better sales month than February. The last one is, you do see third-party analytics reports like that talk about permitting.
+And you can see the -- in general, the permits for non-California, as well as California are up in the month of March versus February. By the way, the trends that I told you are valid for both non-California, as well as California in the last few weeks. So, we are cautiously optimistic that things are turning. And that's why I said Q1 is the bottom quarter.
+That's why we are raising our guidance to $290 million to $330 million for Q2. That's why we said the sell-through is going up from $376 million to $400 million. With these growth trends, we expect sell-through to continuously go up. And the last one, the point which I wanted to talk about, was interest rates.
+We now hear that there are going to be likely two interest rates -- two cuts instead of maybe three or four planned before. So, anytime that there is a cut that is going to expand the non-California states even further, meaning the demand further, so those all could come into play.
+Brian Lee
+--
+Goldman Sachs -- Analyst
+Understood. OK. No, that's super helpful. I guess if we think about just, again, kind of trying to dissect the normalized demand outlook you have here, the channel is clean exiting 2Q and you're looking at barring any meaningful mix changes or pricing changes and demand staying basically where you think it is today, like $400 million.
+Is there any reason you would not be shipping that level in 3Q? I mean is there any structural shifts to what the channel is willing to take or kind of lead times and things of that nature? I guess I'm just trying to understand how that $400 million -- what are the puts and takes for that $400 million -- to stay $400 million versus, again, I think there was a view earlier in the year that it would be higher than $400 million, but right now, it is at $400 million. So, what moves that higher? And then what potentially moves that lower if it were to go into the opposite direction?
+Badri Kothandaraman
+--
+President and Chief Executive Officer
+Yeah, I think what you said is correct, meaning once the channel is normalized, sell-in and sell-out should be balanced. So, that's right. So, for example, we do expect the sell-through in Q3 to be higher. But if you were to say it is sell-through remains around, let's say, $400 million level, our sell-in would remain similar because now we have taken all the inventory out, we don't need to do any under shipment any longer.
+So, our sell-in and sell-out are balanced at that time. But like what I said, there are several vectors for that sell-through to improve in Q3, which I highlighted, all of the things in Europe, all of the new products we are introducing, non-California states which are improving, California installers learning to do NEM 3.0, more financing options being available to the installers in general than before in the US and is starting to ramp on small commercial products. So, all of that makes me optimistic that sell-through would start to become higher in Q3 and beyond.
+Brian Lee
+--
+Goldman Sachs -- Analyst
+All right. Appreciate it. Thanks, guys. I'll pass it on.
+Operator
+Thank you. And our next question comes from Kashy Harrison with Piper Sandler. Please go ahead.
+Kashy Harrison
+--
+Piper Sandler -- Analyst
+Good evening, and thanks for taking the question So, Badri, first one, you indicated last quarter sell-through expectations for Q1 of $390 million to $430 million, and sell-through, to your point, came in at $376 million. And in the spirit of continuous improvement, I was wondering if you could just walk us through the specific input or approach to your forecasting methodology that was faulty and then how you've adjusted for those errors heading into the second quarter? Essentially, what I'm just trying to get at is are you forecasting approaches improving? And how? And I'm trying to get to a point where the Street can have confidence that that sell-through will land about where you expect it to in the second quarter.
+Badri Kothandaraman
+--
+President and Chief Executive Officer
+Right. In general, we are not perfect. We forecast based on the seasonality. We were right in most places.
+And as I reported, the California numbers were a little bit worse. And you can see that the sell-through in California was about 30% lower, 37% on microinverters and about, I think, 18% or 19% on batteries. So, I think California was the wild card, which I did mention in the prior quarter. And I think we are getting the increasing confidence in California.
+I outlined everything which we discussed with the California installers. So, we are confident in our forecast right now, and the first few weeks of the quarter seem to be trending in that direction.
+Kashy Harrison
+--
+Piper Sandler -- Analyst
+Fair enough. Appreciate it. And as my follow-up question is on IQ9. You indicated the first half 2025 commercial release date, and I think you said pilots later this year.
+How long would it take for IQ9 to ramp to 100%? And then just strategically, can you talk about how you're thinking about using a lower-cost product, both in the US and in international markets, from a share perspective?
+Badri Kothandaraman
+--
+President and Chief Executive Officer
+Yeah. IQ9, first of all, we're going to -- we are working on two flavors. One is a 427-watt microinverter and the other is the 548-watt microinverter. The 427-watt microinverter would be what I would consider the bread and butter for the US in probably a year from today, which is right in the time frame that we are introducing.
+And I would say that typically, an introduction and the ramp for a new product like that would be four to six quarters based upon our experience with IQ8. So, two flavors, 427 and 548. In the 548, things get a lot more interesting. We are now going to have the 548 for three-phase 208 volts, as well as 480 watts small commercial installs.
+So, that will be good. The principal thing about IQ9 is it uses gallium nitride. Gallium nitride enables a much higher power with similar form factors. It's got good efficiency.
+And it doesn't dissipate as much heat. So, when we are using it in our -- both the AC, as well as DC effects, we are able to get -- we don't need to blow up the microinverter form factor. And the other advantage with gallium nitride is it allows us to operate at a higher frequency. Earlier, we used to operate at -- or today in IQ8, we are operating at 100 kilohertz.
+With gallium nitride, we can go up to 1-megahertz, and we need to -- we are working on our ASIC in order to get to that capability of megahertz. But once you get to a megahertz, then what happens is you can basically get rid of your big transformers and the transformer sizes can all go down. And anyone who knows about inverters know that there is a lot of dollars going in there. So, in terms of form factor, things will get a lot more tighter so that now since they get tighter, you're not talking about blowing up the area due to higher power because one of the concerns always is efficiency.
+When you have higher power, if you operate at your same efficiency, you're dissipating a lot of heat, like, for example, at 548 watts, you have, let's say, 97% efficiency, that means 548 watts times 3%, that's 16 watts of power and 16 watts of heat. But with the gallium nitride FETs, we are able to operate them with good efficiency. And so, we don't need to blow up the inverter, and we can keep it with an elegant form factor. For installers, we can look at bringing the dollars per watt continuously down.
+Because for us, the more compact we make the microinverter, the more integration we achieve, the better it is. And just as in FYI, where there are four silicon FETs before on the AC side, we will only need two silicon FETs for transistors because we got something called a bidirectional switch for GaN. It can operate both ways. So, just zooming back to a higher level, GaN will allow us to operate at higher power lower efficiency with the same form factor, thereby dropping the dollar per watt because you're increasing your power line.
+Kashy Harrison
+--
+Piper Sandler -- Analyst
+Helpful color. Thank you.
+Operator
+Thank you. And our next question today comes from Mark Strouse at J.P. Morgan. Please go ahead.
+Mark Strouse
+--
+JPMorgan Chase and Company -- Analyst
+I got two questions on gross margins. For the 2Q guide, the 39% to 42%, that's down a bit from what you've been guiding the last couple of quarters. In response to Colin's question earlier, you mentioned mix as a part of that. I just want to confirm, are you kind of talking about kind of mix of just kind of random installers that you're selling to in a given period? Or is there anything to signal as far as kind of international mix or storage mix? Any other color there would help.
+Badri Kothandaraman
+--
+President and Chief Executive Officer
+Yeah, what I was talking about on the question from Colin, which was microinverters was installer mix, that's correct. But this question that you are asking, the 39% meaning, we guided 39% to 42% for non-GAAP gross margin without IRA in Q2. Your question is why? And yes, we increased our battery guidance by 30-megawatt hours. As we can see, Q1 guidance was 70 to 90, we increased 100 to 120.
+That means we are -- the battery to microinverter ratio is increasing from before. We are getting better and better and better on the gross margin of batteries, and you'll see those numbers continuously improve. On battery specifically, I called out three factors. I said the cell pack costs are continuing to come down rapidly.
+We are beginning to manufacture now our microinverters, which are used in the battery. We are beginning to manufacture them in the US Those will provide us with the production tax credit, which is exactly the intention that we need to produce that product in the US, the inverters made in the battery. And then the last one, which is exciting one is where we are moving to more integrated architecture for power conversion and battery management. And basically, what's going to happen is our third-generation battery, the Y direction is going to almost get cut by 40%.
+And instead of six microinverters that we have in the third-generation battery, we will now have two microinverters, one on each side of the fourth-generation battery significantly cutting down the form factor. So, we expect that to bring in another big level of improvement in gross margin. So, those are the gross margin puts and takes on our batteries.
+Mark Strouse
+--
+JPMorgan Chase and Company -- Analyst
+OK. Very helpful. And then my quick follow-up question. On the 45X within gross margin, last quarter, you talked about 500,000 units being about a $12 million to $14 million benefit.
+For 2Q, you're talking about a similar number of units, but with a $14 million to $17 million benefit. I'm not sure if I'm just splitting hairs there, but just wanted to see if you're kind of signaling that you're maybe keeping more of that 45X credit.
+Badri Kothandaraman
+--
+President and Chief Executive Officer
+No. What happens is there is a few things that happened there. It depends upon the power of the microinverters that we are building. Sometimes we may build a 384-watt microinverter, you do the $0.11 per watt there, or we may build a 640-watt microinverter that is used inside the battery.
+So, it's a function of that and purely a function of that. So, it just falls out. The higher power we make, the more advantage we have, which is why we are beginning to -- I told you that we are beginning to make our small commercial IQ8P Microinverters starting in Q2 as well from the US So, those are 480 watts. So, $0.11 a watt is $53 gross benefit -- gross production tax credit there.
+Mark Strouse
+--
+JPMorgan Chase and Company -- Analyst
+Yeah, OK. That makes sense. Thank you very much.
+Operator
+Thank you. And our next question comes from Praneeth Satish with Wells Fargo. Please go ahead.
+Praneeth Satish
+--
+Wells Fargo Securities -- Analyst
+Thanks. Maybe just staying on the battery. So, looking out to the fourth-gen battery, it seems like there's a very large cost reduction coming. I guess, how do you think about keeping this cost savings versus passing it on to customers? I guess, specifically, I'm thinking about this in the context of Tesla Powerwall 3.
+Today, you can buy a Tesla Powerwall 3 with its integrated inverter and that's going to be cheaper than an Enphase battery and inverter solution. And I know it's apples to oranges because they're using a string inverter. But I guess with the fourth-generation battery, you have the ability to close that gap while still earning more margins. So, I guess I'm just trying to see how you think about that opportunity next year with that new battery.
+Badri Kothandaraman
+--
+President and Chief Executive Officer
+Yeah, before that, let me give you a color on -- you talked about many things there. You talked about battery, you talked about competition, you talked about string inverter integrated into the battery. I just want to remind you of our benefits and why we offer tremendous value. So, in my trip in the last four weeks, many of our customers are -- they're very experienced.
+They have used string inverters and you have no idea of all of the troubles they have gone through. And they -- for them, some of the customers mentioned safe AC on the roof is religion for us. So, safe AC on the roof. You don't want high-voltage DC above you.
+That's the first point on Enphase. Production, we have microinverters for every panel, MPPT at the panel level. Production can be enhanced almost by 5% to 15% when you compare to normal string inverters. Per panel monitoring, many of our installers love that, per panel monitoring.
+And their homeowners love it because they're able to say, OK, this particular thing isn't working and they are able to get service from Enphase ultrafast. We are open 24/7. Reliability, you can count on. That's why we provide 25-year warranty, most of competition, maybe 10 or 12 years.
+No single point of failure unlike string inverters, that causes much higher uptime for your system. And that's that you're all familiar with. Simple plug-and-play install, our installers love the simplicity, no additional RSD, rapid shutdown devices, needed. Any roofs in different orientations, it's got to be Enphase, nothing else.
+Grid-forming IQ8 Microinverters enabling sunlight jump start for depleted batteries. Everybody knows this. But if I were to emphasize, you are running off grid, you have a power shutdown, you're running off grid, your battery, let's say, you've turned on the AC on by accident, your battery runs down. Your battery runs down all the way to a particular percentage.
+Then the battery has got a capability to do what is called Black Start. It opens -- it wakes up every few minutes the next day and it says I'm ready and it has solar and that can happen for one or two days. But after one or two days, even that energy in the battery goes away and the battery is dead. That is the state of charge drops to 1% or below.
+Now with Enphase IQ Microinverters, you could do sunlight jump start. Even without the grid, sunlight comes, you form the grid, you jump start the battery at that time and the battery state of charge comes up. So, that's an example, sunlight jump start that we do. And of course, our microinverters are now being made in America.
+That's a big deal. Many of our installers love that. When it comes to storage, safe chemistry, lithium-ion phosphate, big deal. UL 9540A fire certification, very big deal.
+And we have worked with the fire departments and make sure that we have optimized the placement of batteries there. So, we have done it for a lot of AHJs in California. Best warranty in the industry. You see competition at 10 years approximately.
+Our warranty is 15 years, no moving parts or fans. Low-voltage DC operation of the batteries. If you see a concept of a hybrid inverter where one inverter takes care of solar and storage, obviously, there is a lot more stress on that. But we have a distributed architecture, which means you've got inverters on the roof that take care of solar.
+You got inverters in the battery that take care of storage. And even if one inverter in the battery goes down, the other inverters are there to help. The system is never down. Field serviceable in situ without taking the battery of the wall minimizing downtime.
+I talked about gross margin. This time, I didn't say this, but it is a big deal. Our overhead costs in running a battery business are dropping quite a bit because we have figured out how to not do expensive RMAs. An expensive RMAs is what, you have a big system hanging off your wall.
+The worst thing you do is it doesn't work, you take it off the wall, the homeowner is off commissioned for many days in a row, then you have to take it back to the installers warehouse. The OEM or the component manufacturer or battery manufacturer has to ship product to him and the installer has to spend his valuable time on the field once again installing the new battery. The homeowner is down. He is losing solar and storage.
+He is losing self-consumption dollars, and especially in a place like California, that can add up a lot. It can be a major source of annoyance. With our field serviceability in situ instead of taking a $5,000 battery, we can take a $50 board, PCB board off, take that out, put the new board. In a matter of an hour, you're up and running.
+And so, enhanced serviceability. The next one, LRA. An 48-amp LRA for every 5-kilowatt hour battery, 144 amperes for a 15-kilowatt hours enough to start a two batteries, two of our five-kilowatt hour batteries are enough to start three-ton air conditioners. And our power is double both the peak and continuous power are double that of the previous generation, and our installers love that.
+Simple to install and commission. For example, the NEM 3.0. The NEM 3.0 scenario, much like Germany, our installs -- most of our installs are what called has a grid-tied installed. The grid-tied install or a rate saver install or a time of use install or savings battery, they're all identical.
+The battery is simply provides economic advantage. And installing such a battery is trivial. You finish your solar, you're done with AC on the roof, all you need to do is to take two of our five kilowatt-hour batteries, you hang it off the AC bus, there is nothing to size, there is no main panel upgrade, you don't need to worry about where to place it, you simply hang it off the AC bus, and the installation can be done in less than two hours. You connect it to the same combiner box that you use for solar, no extra component and you're up and running.
+So, that's becoming very popular. Rate saver battery or a grid-tied battery becoming extremely popular. So, that's that. So, I told you the benefits of Enphase solar and Enphase Storage System.
+If you look at all in one mobile app. The problem with having multiple solar and storage manufacturers is the homeowner has got a mess of apps. And it's possible, but it's difficult to keep track of all of that. So, all information and control at your fingertips.
+The ability to take the home off the grid through an Enphase app. We provide that as well. We provide 24/7 customer service with 100 field service technicians who will take care of the batteries. The installer doesn't need to spend his valuable time.
+He can focus on a new install. And as you know, the big advantage is with an AC-coupled system is you have both the power from your solar system, as well as from your batteries. So, the combination means even more power. You don't have one inverter constraining your output.
+And of course, the last one is our PCS software, power control system software. That one is going to be invaluable to installers to not do main panel upgrades. And by the way, we can do PCS simply even for NEM 2.0 expansion systems. If you want to expand your NEM 2.0 system, as long as you do not export anything beyond your old system, you can still do your NEM 2.0 system to support your current consumption while exporting energy -- maximum energy from the old system.
+So, NEM 2.0 expansion is now a lot easier. So, hopefully, I gave you some color on the value that we add, and we are not stopping. We are going to be focused on cost. The batteries are -- our customers are cost sensitive.
+And with every opportunity, we are going to be removing boxes off the wall. Raghu was with me with all of the installers, and we have clear plans on what we are going to do to eliminate more boxes on the wall. So, we are ultrasensitive as in response to your question. And if we need to drop pricing because we aren't providing as much value compared to competition, we will do so.
+Praneeth Satish
+--
+Wells Fargo Securities -- Analyst
+Got it. No, thank you for that very expensive answer. Maybe just one more quick one, again, on batteries. So, you said that the channel is normal for batteries.
+You are at battery sell-through of 128-megawatt hours in Q1 for a seasonally weak quarter. The guidance for Q2 has battery shipments at 100- to 120-megawatt hours. And I'm assuming there that sell-in equal sell-through in Q2. So, maybe if you can just talk about what's driving that slight decrease from 128-megawatt hours to the guidance of 110? Is that conservatism? Or are there other factors? Because it seems like there's a lot of tailwinds in the battery business.
+Badri Kothandaraman
+--
+President and Chief Executive Officer
+That is conservatism. And yes, I knew that you guys would ask me the questions because you're intelligent. I said carefully worded that it is almost there. That's what I said.
+But you're right in general. The battery, we expect to run quite lean on batteries. And so, yes, we are conservative. It does seem that there is some opportunity for upside there.
+Praneeth Satish
+--
+Wells Fargo Securities -- Analyst
+Got it. Thank you.
+Operator
+Thank you. And our next question today comes from Philip Shen with ROTH MKM. Please go ahead.
+Philip Shen
+--
+ROTH MKM -- Analyst
+Hi, everyone. Thanks for taking my questions. Back to Brian's question earlier on the timing of normalized revenue. Badri, I think you said on the last call, the $475 million would come in the back half of this year.
+Are we still on track for that? So, the $475 million could be in either Q3 or Q4? And can you walk us through, is it more likely Q4 or Q3? Or if there is a chance that, that gets pushed out to Q1? Thanks.
+Badri Kothandaraman
+--
+President and Chief Executive Officer
+Well, Phil, you know that we don't give guidance for Q3 nor Q4, but I described all of the tailwinds. And we are growing from a sell-through demand of 376 to 400. And we described the growth vectors. We are optimistic about all of the growth vectors.
+And we talked about the puts and takes in Europe. We talked about Netherlands, we talked about France, we talked about Germany, we are extremely bullish there. We are introducing a lot of new products in those regions. We expect -- we have done that in the last year.
+We expect them to take off. Then we talked about the non-California states where we are seeing them seasonally bounce back up. And California, I would say California installers are -- like what I said, I was extremely optimistic after my trip. The last three to four weeks of data also shows good trends.
+So, while we are talking about a sell-through demand and customer demand of $400 million in Q2, I expect the numbers to go continuously up in Q3 and Q4.
+Philip Shen
+--
+ROTH MKM -- Analyst
+Great. OK. So, very much still on path, but there might be a little bit of risk, but you definitely see a path. It sounds like.
+Badri Kothandaraman
+--
+President and Chief Executive Officer
+Yes, I do.
+Philip Shen
+--
+ROTH MKM -- Analyst
+Great. OK. Thank you. Shifting gears to maybe data that might be even ahead of sell-through.
+Our channel work suggests in this challenging US resi time, you guys are gaining a healthy amount of share. And whether it's 5% from one source versus a recent poll that we did, you might be gaining 11% share with 5% of the market. That's pretty healthy and potentially can make a big difference. And so, I wanted to see if you can help us understand what is the activation implied revenue that you might be seeing versus sell-through and obviously compared to the sell-in? So, do you track that in a way that you can articulate what was the activation implied revenue for maybe Q1, maybe what you see for Q2 and beyond? Thanks.
+Badri Kothandaraman
+--
+President and Chief Executive Officer
+Yeah. I mean, we do see reports, we do see sell-side reports, we do see third quart reports. We are focused on highlighting our value and working with installers in these times. These are difficult times.
+So, we are trying to help them with all the services we have, whether it's proposal, whether it is permitting, whether it is proper modeling, whether it's leads or whether it's simply to understand their RMAs, how can we help them understand their service, understand their labor, understand how to improve their efficiency, doing Kaizen with the installers. So, we believe that our relationships with the installers in these times is the single most reason on any market share gain that you're highlighting. Normally, from sell-through to activations for us, it will take us about four to eight weeks. But any market share gains, we will start potentially seeing going forward because, as you know, when installers switched to us, no one switches 100% like that.
+There is a ramp associated with ramping down what they are using and ramping up the new product. And I would say that will show up definitely as sell-through increases. And we will report that in Q2 -- I mean, we will report our Q2 results in the Q3 call. That's what I mean.
+Philip Shen
+--
+ROTH MKM -- Analyst
+OK. Thanks very much. I'll pass it on.
+Operator
+Thank you. Our next question comes from Christine Cho with Barclays. Please go ahead.
+Christine Cho
+--
+Barclays -- Analyst
+Good evening. Thank you for taking my question So, I'm going to ask the sell-through question a different way. It's $400 million in 2Q and expected to get to somewhere between $450 to $500 million by year-end. So, let's just take the midpoint, $75 million.
+Can you just give us an idea combining all of the comments that you gave us individually, but that $75 million, how much of it is driven by Europe versus US? Is it like half? Is it more Europe? Is it more US? And then how much of it is driven by microinverters versus batteries? And then when you guys say that destocking will be done by end of Q2, are you assuming back to the 8 to 10 weeks? Is that what you're considering normalized levels of inventory?
+Badri Kothandaraman
+--
+President and Chief Executive Officer
+Yes. So, let me answer all of them. We expect -- I mean Europe, as well as the US have healthy growth vectors for us. We do expect 50-50 from North America and Europe.
+Your other question was --
+Christine Cho
+--
+Barclays -- Analyst
+MIs versus batteries.
+Badri Kothandaraman
+--
+President and Chief Executive Officer
+Micro versus battery? Yes, micro versus battery, I would say, considering that non-California states battery attach isn't high. So, micro versus battery, I would still say 60-40 on micros versus battery is what I would say. And the last one you asked is that 8 to 10 weeks. The way we measure our weeks on hand is typically backward looking is what we say is over the quarter, this was the sell-through rate, this is the inventory you have on hand today, divide the inventory by the sell-through rate, you get the weeks on hand.
+One of the interesting ways that I would expect distributors will measure it will be forward-looking weeks of inventory, which is, if the demand, for example, in the last two or three weeks shows a significant uptick, that weeks on hand would be existing amount they have in front of them divided by that increased rate in the last two, four weeks. And so, those numbers, in good times, the forward-looking inventory weeks on hand will be lower than the backward-looking weeks on hand. And so, for us, we are consistent in the way we measure it. We always look at whenever I tell you weeks on hand, I will tell you that, OK, this is the sell-through for the quarter that what happened in, for example, Q1, this is what happened in Q1.
+This was the inventory at the end of Q1. That channel inventory divided by the sell-through is the weeks on end and our number -- rule of thumb, our general number has been always 8 to 10 weeks. If you are on the upswing, forward-looking weeks on hand could be smaller than that.
+Christine Cho
+--
+Barclays -- Analyst
+Right. OK. That's an interesting nuance. I did not realize that you were looking backwards.
+My second question, the -- you said in your prepared remarks that 50% of your NEM 3.0 systems are attaching your battery. You also mentioned you're meeting with a whole bunch of installers -- you met with a whole bunch of installers in California. Do you have a sense of whether your -- the installers using your product are leaning more toward load shifting or backup? And I'm not sure if you answered this with Praneeth's question, and I just missed it. But can you also give us a sense of where you are in the development of your meter color and when we should expect it to roll one out?
+Badri Kothandaraman
+--
+President and Chief Executive Officer
+That's right. Load shifting is a significant fraction of our installers, that's right. And then the second is, when is the meter color coming out. So, just for the benefit of the audience, basically, California has something called meter main combos.
+These meter main combos have both the meter and the main panel integrated into one structure. And when you have to insert backup, everybody knows you have to do ugly things like ripping your loads apart, you have to put a backup switch in between. And therefore, there's a lot of labor that is actually spent in doing that. Typically, a day or two is spent in relocating all of those loads and then putting a system controller in between the meter and the main load center.
+With the meter collar, it's a very elegant way, where you have that switch at the meter. It's a device that comes around the meter. It's got the MID, which is the microgrid interconnect switch relay right there at the meter -- at the color, and that basically means you don't spend any labor relocating those loads. Our version of the meter color is coming out shortly.
+It will be piloting by the end of the year.
+Operator
+Thank you. And our next question today comes from James West of Evercore ISI. Please go ahead.
+James West
+--
+Evercore ISI -- Analyst
+Hey, Badri, a real quick one for me. Based on your conversations in California over the last three or four weeks, as you met with the installer base and you talked about how they -- you talked earlier about how they cut costs pretty significantly, is there any concern at all about if growth does come back as you see it, their ability to respond to that growth?
+Badri Kothandaraman
+--
+President and Chief Executive Officer
+No, I think they're all much more savvy than what we think, especially the long tail. The people I met are representative of the segments we service. They typically -- they do between one and five megawatts a year. That means you can probably see they generate revenues between $5 million and $15 million -- $5 million and $20 million a year annual revenue.
+They have teams usually two to three crews or even one to two crews, very lean team. Company is less than 50 people. And core employees are relatively less. They use contractors if they have to, and they have become very smart in managing money as well.
+They know that they shouldn't be -- they should be lean in these times. They don't waste money. They have less inventory. One other big thing that has changed is now they have a lot more financing options available to them.
+So, they have a lot of options available to them. If loans do not work well, they have leases or PPAs. Many of them, I did meet at least a third, maybe 30% of the installers were still selling cash to the customers in Southern California, as well as Northern California. Those are no problem.
+But the other folks who are moving to lease or PPA rapidly now that there are multiple suppliers. So, all in all, I think what I'm trying to say is that they are nimble. They understand exactly what is happening. They are very savvy on the products.
+They gave us a number of ideas to improve and do even better than what we are doing. And we are going to take that feedback, and I'm not worried whether they will be able to grow. They'll be able to grow exactly like us in good times.
+James West
+--
+Evercore ISI -- Analyst
+Got it. That's very helpful. Thank you.
+Operator
+Thank you. And our next question today comes from Moses Sutton of BNP Paribas. Please go ahead.
+Unknown speaker
+Hi, this is Heidi on from Moses. Thanks for fitting me in. I just have a quick question. Coming back to the $113 million in under shipments in 1Q, can you provide the rough breakout of what was US versus non-US? And then same for the $90 million of expected under shipment in 2Q, how much was US versus non-US? Thank you.
+Badri Kothandaraman
+--
+President and Chief Executive Officer
+I would basically expect that it is roughly in the ratio that we shipped, which is, I would say, two-thirds US and the third Europe.
+Unknown speaker
+OK, great. Thank you.
+Operator
+And our next question today comes from Jordan Levy with Truist Securities. Please go ahead.
+Jordan Levy
+--
+Truist Securities -- Analyst
+Just wanted to see if there was any -- if you had any updates on the exclusivity arrangement with SunPower. I know that, that was scheduled to come to an end, I think, back in March. So, just curious if there's anything to touch on there?
+Badri Kothandaraman
+--
+President and Chief Executive Officer
+The question is, is there any update on SunPower? SunPower has new management, as everybody knows, and we know Tom well. I have been talking to Tom. Right now, it's a business as usual for us. We have a very strong relationship.
+We are supporting SunPower well and vice versa. And when we sign such a contract, we will let you know.
+Jordan Levy
+--
+Truist Securities -- Analyst
+Thanks so much for that. And maybe just a follow-up. I know with getting ready to step down, I think, at the end of June I'm just curious if you could talk to any updates or if you have someone in mind for that role or any other details as you look to proceed in that process?
+Badri Kothandaraman
+--
+President and Chief Executive Officer
+Yeah, we're having a hard time hearing you, but I think I got the question, this is a replacement for your chief commercial officer is I guess the question. Yes, we have already finalized that. We have two very experienced executives that I have put in charge because Europe is so important for us. I wanted a very experienced executive to live in Europe, somebody who understands the headquarters properly.
+And so, one of our executive staff, meaning the one that reported to me his name is Sabbas he is going to be running all of Europe and South Africa sales. So, basically, he is actually relocating to Europe in order to manage that team. And then the team in the rest of the world, I call it, Americas, Australia, India, Asia, both Americas, north, as well as South, especially North American team is a very seasoned team. We have Ken Fong runs our North American team, while Mehran is the senior vice president, who is going to manage rest of the world sales, and Ken Fong will report to him.
+And Mehran has got a lot of experience in batteries. He's the one who actually created the battery business unit at Enphase and ramped it to high revenue. So, both the executive Sabbas, as well as Mehran have lots of experience, and they'll be able to pay a lot more attention to these regions, and we expect it to be incrementally positive for us.
+Jordan Levy
+--
+Truist Securities -- Analyst
+That's really great detail. Appreciate all the answers. Thanks so much.
+Operator
+Thank you. And our next question today comes from Andrew Percoco with Morgan Stanley. Please go ahead.
+Andrew Percoco
+--
+Morgan Stanley -- Analyst
+Yeah. Thanks so much for taking the question. Most of my questions at this point have been answered. It's been a very comprehensive call.
+But if I can just maybe zoom out for a second, I'm just curious, how are you guys improving your visibility into the channel so this inventory issue doesn't happen again. I'm assuming this isn't going to be the last cycle that we all see. So, I guess, how are you investing in the platform, whether that be software or otherwise, to make sure you have more visibility the next go around, the next time there's demand side shock and to avoid these channel inventory issues next time? Thank you.
+Badri Kothandaraman
+--
+President and Chief Executive Officer
+Right. So, I mean, the answer is somewhat simple. It is to basically get a hold on the metrics of the front end, which is, leads get converted into proposals, converted into contracts, converted into permits, and then the installs happen, then you have activations. So, we have to get into the front end.
+And getting into the front end, we have Solargraf. Solargraf is a platform for us which helps us because we provide the design and proposal software. And therefore, that gives us the entire visibility on -- it doesn't need to give us the customer -- what every customer is doing, but the broad trends and broad strokes are what we are interested saying, this month what happened in this particular region? What is the statistics of leads versus contracts signed? And then, we do have third-party reports for permits. And of course, we do have our own Enlighten software for activations.
+And of course, in between we have sell-through, which is when the distributors sell our products to installers from the channel. So, what we are doing is to essentially tighten up that entire chain by putting in metrics at every point there. And by having more and more and more revenue coverage for Solargraf design and proposal tools so that as many installers possible are on that particular tool. So, then we have a lot more statistics.
+We'll continue to get aggregate reports from third parties as much as they are available. And putting all of these together to create a regression model, maybe even with the help of some sophisticated machine learning. And then, the key is for us to then make decisions on sell-in into how much do we sell into the channel? What are the guard bands of selling into the channel at the end of the day? Like don't get -- don't succumb to irrational exuberance. That is, you think everything is going to be great, therefore you ship a lot more into the channel than the sell-through, do not ever succumb to that.
+Go always by -- my ex-boss used to call it as mass balance. Mass balance means, whatever you ship out of the channel, you ship into the channel. So, we are putting in all of those statistical process control in place. And we are already better for it.
+Our weekly ship review every Wednesday, we have exactly the graph, how much is our sell-through? How much is our sell-in? Should we really do so much of sell-in? Are we going to stay within the guardrails, which is eight to 10 weeks? Anytime somebody goes above 10 weeks, we question saying, "Why do it?" And it helps us -- it's starting to help us in many ways. Because then we focus on the real growth, which is, you then start focusing on training installers to increase sell-through. You start understanding which of the installers aren't doing enough volume with you. Sales guys are focused on the right things versus pushing in stuff into the channel.
+So, I think companies have gotten a lot better in this front during the last year.
+Andrew Percoco
+--
+Morgan Stanley -- Analyst
+Understood. Thank you so much.
+Badri Kothandaraman
+--
+President and Chief Executive Officer
+Thank you.
+Operator
+Thank you. And our next question today comes from Maheep Mandloi with Mizuho. Please go ahead.
+David Benjamin
+--
+Mizuho Securities -- Analyst
+Hi, this is David Benjamin in for Maheep. I've got a question and then a follow-up. Can you please give us some insights on your thoughts on the Solargraf market share or penetration with installers within the US? Just trying to get some visibility with sales leads in the market.
+Badri Kothandaraman
+--
+President and Chief Executive Officer
+Yeah. We have over a thousand installers on Solargraf using our design and proposal tool. And we have over a few hundred using our permitting tool.
+David Benjamin
+--
+Mizuho Securities -- Analyst
+OK. Great. Thanks very much. And then a follow-up.
+Just on the gallium nitride, can you talk a little bit about, like, where you plan to source the materials? Is that going to be concentrated mostly from China or other markets? And lastly, any thoughts on impact from annuity AD/CVD on the US solar demand or thoughts on the NEM 3 challenge in the California courts?
+Badri Kothandaraman
+--
+President and Chief Executive Officer
+Gallium nitride, we do have a lot of sources for gallium nitride transistors. Some of the sources are people we already do business with for the silicon FETs. So, we aren't worried. We have lots of opportunities.
+There is many people with good quality gallium nitride FETs. Raghu will take the question on NEM 3.
+Raghu Belur
+--
+Chief Products Officer
+Yeah. NEM 3, we are aware of the challenge, where it was -- there was an -- it had gone into appeals court because they actually lost the case in the lower court. It remains to be seen. The fact is that I think it's going to be difficult to overturn, but if they do, obviously, the market will react differently.
+But for now, for us, business as usual, we are going out there. We recognize that in the long term solar plus batteries is the way to go. And we are really working toward making sure that our battery solution -- solar plus battery solution is best in class, and that's what we are doing right now. But the courts will take their time, they'll do their thing, but it's not something that we are really focused on.
+David Benjamin
+--
+Mizuho Securities -- Analyst
+Great. Thanks very much.
+Operator
+Thank you. And our next question comes from Austin Moeller with Canaccord. Please go ahead.
+Austin Moeller
+--
+Canaccord Genuity -- Analyst
+Hi, good afternoon. Just my first question here, what does the market or growth opportunity look like for home battery sales on new installations versus upgrades of existing solar arrays that are already installed on homes?
+Badri Kothandaraman
+--
+President and Chief Executive Officer
+Yeah, Raghu will take it.
+Raghu Belur
+--
+Chief Products Officer
+Sure. I think both opportunities are equally valuable. Again, it depends on the geography. So, if you're in California, for example, all new homes must have solar, and you are going to be part of NEM 3 install, so you obviously need to have batteries, because if you did a solar-only install in NEM 3, your bill offset is going to be at about 55%.
+You add 10 kilowatt hours of NEM 3 grid-tied battery, your bill offset could be as high as 80%-85%. So, I think it makes complete sense to go ahead and add a battery in that case. In the retrofit case in California, if you're in a NEM 2 environment, not a lot of incentive to go ahead and add battery, at least for bill offset, because you already get that with NEM 2 where in that case basically the grid acts like your battery. The only other use case for battery in that case would be if you want to do it for resiliency or backup purposes.
+In other geographies, outside of California, the case for batteries would be -- again, you're seeing more and more of these what are called VPP programs or grid services programs, and so people may come in and retrofit a battery on their system and avail themselves of whatever the utility provides in terms of incentives, whether that is an upfront dollar per kilowatt hour incentive for adding a battery or an ongoing incentive for participation in the VPP program. Very similar situation in Europe as well. If you, for example, look at the Netherlands, obviously, that's a net metering market, but there is a push for retrofitting batteries there because just given the penetration level of solar there, which is about 28%, you do get penalized for uncontrolled export of solar. So, it makes sense to move toward what's called self-consumption.
+And the way you do that is by adding a battery and then managing that solar plus battery system through software, especially by participating in what's called a dynamic tariff program. You also have obviously VPP that same thing applies to Germany and other countries in Europe as well.
+Austin Moeller
+--
+Canaccord Genuity -- Analyst
+Great. And just to follow-up, what do you see as that key growth driver in demand for Europe and Germany in particular? Is it primarily current utility rates? And do you see changes to tax credits in countries like Italy as a potential impediment to that?
+Raghu Belur
+--
+Chief Products Officer
+Yeah. So, usually, you're seeing more and more, particularly in Europe, I refer to it as feed-in tariff inversion, wherein the buy rate is significantly higher than sell rate. So, the amount of what you get paid for feeding energy into the grid is significantly lower than retail cost of energy. So, it makes no economic sense to export even a single electron into the grid.
+So, that's the driver. It is self-consumption. Layered on top of that is if you participate in supporting the grid through a VPP program, you get paid additional monies. So, it's all a driver toward better ROI.
+But it goes beyond that. It goes beyond solar plus batteries, because now you're seeing in Europe you're adding EV chargers and heat pumps, and those are additional steerable assets that are sitting behind the meter. And if you have a very sophisticated home energy management system, which like we do with all the AI and ML work that we are doing, you can really do some very, very fine optimization and deliver the best economics for the homeowner, a combination of solar, battery, EV charger, and heat pump. For that matter, any combination thereof.
+So, you're going to see, Italy included, all of these markets in Europe moving toward a whole energy management system with all of these assets. Now imagine what happens a year or two from now when EVs become fully bidirectional, you get yet another powerful asset that's sitting behind the meter that you can use to optimize your consumption and optimize your bill.
+Operator
+Thank you. And our next question today comes from Dylan Nassano with Wolfe Research. Please go ahead.
+Dylan Nassano
+--
+Wolfe Research -- Analyst
+Yeah, hi. Thanks for running a little long to fit me in here. Just a quick one from me on buyback. So, it looks like share repurchases in the quarter more or less matched up with your free cash flow generation, whereas in 4Q I think you bought back a little more than you actually generated.
+So, just curious, how are you thinking about the attractiveness of repurchases at these levels? And how should we think about your cash allocation as demand hopefully ramps back up from here? Thanks.
+Badri Kothandaraman
+--
+President and Chief Executive Officer
+Yeah, I'll add some color and then Mandy can add more. We did approximately a similar amount in both quarters, but I'll explain the nuance. In Q4, we bought back shares for $100 million. While in Q1 what we did was we did a combination, which is we bought back shares for about $40 million-odd, and we -- some of our stock options, which basically were actually vesting, those stock options, essentially, Mandy didn't allow them to dilute the market.
+So, we basically spent about $60 million as anti-dilution there. So, in a sense, we spent the same money, $100 million; $40 million for buying back shares out of the market, $60 million for preventing shares into the market. We did that and we continue to -- I mean, you should expect us to continue to do a similar amount as long as the stock is attractive, which it is right now.
+Dylan Nassano
+--
+Wolfe Research -- Analyst
+OK. Fair enough. Thank you for clarifying.
+Operator
+Thank you. And our next question comes from Dushyant Ailani with Jefferies. Please go ahead.
+Dushyant Ailani
+--
+Jefferies -- Analyst
+Hi, thank you for taking my question. Just one on, how much NEM 2.0 backlog is remaining with the installers? I think you talked about 50% being NEM 3.0. So, going into 2Q, how can we expect the backlog cadence to dwindle down for NEM 2.0?
+Badri Kothandaraman
+--
+President and Chief Executive Officer
+Yeah, I mean that's an interesting question. All our conversations with installers -- there was one installer who had a backlog of nine months, and there are installers with a backlog of three months. So, we don't really know what the answer is. Like you, we were surprised that the number is still 50%, NEM 2.
+But installers are learning on NEM 3 rapidly. They are depleting through their NEM 2 backlog. I'm not sure. I can't forecast the number.
+But I'm sure that within six months, it will dwindle down.
+Dushyant Ailani
+--
+Jefferies -- Analyst
+OK. Thank you.
+Operator
+Thank you. And ladies and gentlemen, this concludes our question-and-answer session. I would like to turn the conference back over to Badri Kothandaraman for any closing remarks.
+Badri Kothandaraman
+--
+President and Chief Executive Officer
+Yeah, thank you for joining us today and for your continued support of Enphase. We look forward to speaking with you again next quarter. Bye.
+Operator
+[Operator signoff]
+Duration: 0 minutes

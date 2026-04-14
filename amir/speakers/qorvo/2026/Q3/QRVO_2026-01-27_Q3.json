@@ -1,0 +1,212 @@
+[
+  {
+    "speaker": "Unknown",
+    "role": "",
+    "text": "Full Conference Call Transcript"
+  },
+  {
+    "speaker": "Douglas DeLieto",
+    "role": "",
+    "text": "Hello, everyone, and welcome to Qorvo's fiscal 2026 third quarter earnings call. This call will include forward-looking statements that involve risk factors that could cause our actual results to differ materially from management's current expectations. We encourage you to review the safe harbor statement contained in the earnings release published today as well as the risk factors associated with our business and our annual report on Form 10-Ks filed with the SEC because these risk factors may affect our operations and financial results. In today's release and on today's call, we provide both GAAP and non-GAAP financial results. We provide this supplemental information to enable investors to perform additional comparisons of operating results to analyze financial performance without the impact of certain non-cash expenses or other items that may obscure trends in our underlying performance. During our call, our comments and comparisons to income statement items will be based primarily on non-GAAP results. For a complete reconciliation of GAAP to non-GAAP financial measures, please refer to our earnings release issued earlier today available on our Investor Relations website at ir.qorvo.com under financial releases. Lastly, for detailed information regarding the Skyworks and Qorvo combination announced on October 28, I encourage you to review the press release, investor presentation, Qorvo merger proxy, and related materials available on our investor relations website at ir.qorvo.com under events and presentations. Today's call will focus on our fiscal third quarter results as well as our outlook for March. We will not be commenting on the proposed business combination. Joining us today are Bob Bruggeworth, President and CEO, Grant Brown, CFO, Dave Fullwood, Senior Vice President of Sales and Marketing, and other members of Qorvo's management team. And with that, I'll turn the call over to Bob."
+  },
+  {
+    "speaker": "Robert Bruggeworth",
+    "role": "",
+    "text": "Thanks, Doug, and welcome everyone to our call. In our fiscal third quarter, Qorvo delivered solid financial performance with notable strategic achievements across each operating segment. We continue to pursue our long-term growth strategy while executing on restructuring actions to optimize profitability and reduce capital intensity. In ACG, we are supporting the world's leading smartphone OEMs with best-in-class products for their highest value flagship and premium tier devices. In CSG, we enjoy broad representation in Wi-Fi applications and we are expanding our reach in automotive, enterprise, industrial, and other customer segments with our ultra-wideband technology. In HPA, we are growing across a range of customer applications such as defense and aerospace, satellite communications, power, and infrastructure. Within our factory network, we closed our Costa Rica facility in December a few months ahead of schedule and have transitioned to external partners. The transfer of SAW filter production to Greensboro, North Carolina, and Richardson, Texas remains on track. With these actions, we will be able to operate more efficiently with reduced capital intensity and we will continue to differentiate our products with onshore manufacturing of GaAs, GaN, BAW, SAW, and advanced multichip modules. Turning to quarterly highlights. In ACG, December quarterly revenue declined sequentially in line with the view we provided last quarter consistent with typical seasonality. At our largest customer, content gains on their ramping platform helped to support double-digit revenue growth compared to last December. We supply a diverse portfolio of high-performance discretes, tuners, ET PMICs, and integrated modules to our largest customer. Not all of which have been awarded on the upcoming platforms. However, at this time for the upcoming fiscal year, we expect revenue from our largest customer to be approximately flat. For our ET PMICs, increasing internal modem adoption provides a multi-year structural tailwind as platforms transition away from third-party modems. With regard to integrated modules, on the ultra-high band pad, we received lower share in the upcoming phone models than last year and we expect our ultra-high band pad revenue to decline year over year. As a placement, we have demonstrated success across multiple generations. We remain confident in our highly differentiated technology and our ability to compete effectively over subsequent generations. In our largest customers' cellular-enabled iPads, we were awarded the high band pad. Representing a product and technology milestone and new content for Qorvo on that platform. We are extremely pleased to have secured this placement. The win gives us the opportunity to demonstrate capability and execute at scale on that platform consistent with our long-term investment strategy. Turning to Android. We remain a leading supplier in premium and flagship smartphones while we continue to reduce our exposure to low-margin mass-tier smartphones. In December, total Android revenue declined sequentially in the low double digits. In March, we expect a greater than seasonal decline in Android revenue. For fiscal 2027, we expect Android revenue to decline by approximately $300 million versus fiscal 2026, driven primarily by our actions to reduce exposure to lower-margin segments and secondarily by the impact of memory pricing and availability on mass-tier Android build plans. Qorvo enjoys broad participation across smartphone OEMs and we are not seeing signs of memory pricing, or memory availability impacting the flagship and premium tiers. Our largest customer is expected to be approximately flat, ACG revenue is expected to decline in fiscal 2027 by the reduction in Android revenue. This is an intentional resizing of our Android business. We are reducing exposure to lower-margin segments while continuing to serve Android's high-value and premium and flagship tiers. We expect the improvement in product mix to support a higher gross margin in ACG. Additionally, with ongoing OpEx reduction efforts, we expect to deliver expanding operating margins in ACG on the healthier revenue mix. In CSG, we're on track with an automotive ultra-wideband program with a leading automotive tier one. Regarding this platform, we are very pleased to announce we did receive our first production orders during December. This program will span multiple years and support multiple OEMs. We continue to see expansion of our engagements across the automotive customer base. Use cases for Qorvo's automotive ultra-wideband technology include secure access, digital key, child presence detection, and short-range radar sensing. We are supplying both our ultra-wideband and Wi-Fi 7 solutions in collaboration with multiple tier-one manufacturers of network access points. We're seeing strong customer demand and initial deployments include hospitals, factories, and other enterprises requiring ultra-precision indoor navigation, and location awareness. Our Wi-Fi portfolio is broadly represented in flagship smartphones, fiber gateways, mesh networks, client devices, and SATCOM ground terminals. And we continue to expand our Wi-Fi, FEM, and filter portfolio to enable higher bandwidth lower latency interconnected networks. We delivered first Wi-Fi 8 samples during December and customer engagement in Wi-Fi 8 is increasing. Regarding the CSG restructuring discussed last quarter, these actions remain on track. During the quarter, we successfully divested our MEMS-based Sensing Solutions business. While this represents a headwind to year-over-year CSG growth, next fiscal year, it is one of multiple initiatives we are undertaking to improve CSG's profitability. Turning to HPA, we continue to see multi-year tailwinds in DNA data center power and infrastructure markets. In DNA, the passage of the fiscal '26 NDAA includes top priorities, such as Golden Dome, the F47 fighter, and the Navy's next-generation fighters, warships, and drones. Qorvo is a beneficiary of new platforms, upgrade cycles, RF content growth, and increases in defense spending. As an example, Golden Dome is a multi-layer defense system that requires significant RF content. For the full fiscal year '27, sales in DNA markets are expected to total approximately $500 million. In power management, our strategic emphasis on PMICs for enterprise-class SSDs has been met with continued data center growth where customer demand has been very strong. During the quarter, we taped out our first chip for our next-generation enterprise SSD platform. Other power opportunities for Qorvo include AESA radars, drones, robotics, wearables, and smartphones. There is strong interest globally in Qorvo's AESA solutions combining our FEMs, Beamform AICs power management, and power control. In infrastructure markets, there are increased content requirements in DOCSIS 4.0 systems that align well with our amplifier and control portfolios. Qorvo is a leading supplier of broadband amplifiers for DOCSIS 4.0 and we are well-positioned with all major suppliers. We're also a market leader in small signal receive and transmit components used across the RF chain of 5G radio access networks. While these products have historically been deployed in terrestrial 5G infrastructure, we are increasingly seeing the same RF building blocks adopted in adjacent applications. Such as drones, and low Earth orbit satellite communications including direct-to-cell satellite architectures. We are sharply focused on growing our highest-performing businesses, we are divesting or exiting businesses that underperform. In fiscal 2027, we forecast a mid-single-digit decline in full-year revenue for the company, as ACG declines and becomes more profitable, CSG is approximately flat and HPA continues its double-digit growth. As we move through fiscal 2027, we expect our defense and aerospace business will be larger than our Android business. That's a meaningful shift in the portfolio that reflects both the strategic resizing of our Android business and continued growth in HPA. This increasingly favorable mix positions us to deliver full-year FY 2027 gross margins above 50% and EPS approaching $7 per share. These outcomes reflect continued operating expense discipline, a structurally improved portfolio mix, and our sustained commitment to innovation and operations excellence. And with that, I'll turn it over to Grant."
+  },
+  {
+    "speaker": "Grant Brown",
+    "role": "",
+    "text": "Thanks, Bob, and good afternoon, everyone. Qorvo's fiscal third-quarter revenue of $993 million, non-GAAP gross margin of 49.1%, and non-GAAP diluted earnings of $2.17 per share all compared favorably to guidance. During the quarter, our largest customer represented approximately 53% of revenue. On the balance sheet, as of quarter-end, we held approximately $1.3 billion of cash and equivalents and approximately $1.5 billion of long-term debt outstanding with no near-term maturities. We ended the quarter with a net inventory balance of $530 million. This represents a sequential reduction of $75 million and a decrease of $111 million compared to where we ended last fiscal year. During the quarter, we generated operating cash flow of approximately $265 million and incurred $28 million of capital expenditures which resulted in free cash flow of $237 million. Regarding our outlook for fiscal Q4, guidance reflects continued momentum in HPA offset by our strategic pivot from lower-margin mass-tier Android and the normal seasonal decline at our largest customer. Our expectations for March are as follows. Revenue of $800 million plus or minus $25 million, non-GAAP gross margin between 48-49%, and non-GAAP diluted EPS of $1.20 plus or minus 15¢. Gross margin continues to improve on a year-over-year basis. In Q3, non-GAAP gross margin increased approximately 260 basis points versus last fiscal year, and we expect a similar improvement year over year in Q4. This improvement is a direct result of multiple initiatives. We've actively managed our product portfolio and pricing strategies to reduce exposure to mass-tier Android 5Gs. We've positioned the company to benefit from growth in DNA, which is margin accretive, divested or exited margin dilutive businesses and we continue to manage factory costs aggressively as we have consolidated our manufacturing footprint. We project non-GAAP operating expenses in March to be between $240 million and $250 million. Below the operating income line, non-operating expense is expected to be between $8 million to $10 million reflecting interest paid on our fixed-rate debt offset by interest income earned on our cash balances, FX gains or losses along with other items. Our non-GAAP tax rate for fiscal '26 is expected to be approximately 15%. We continue to monitor the situation as changes to tax policy in the US and internationally may evolve over time. At this time, please open the line for questions. Thank you."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "We will now begin the question and answer session. To ask a question, you may press star then 1 on your touch-tone phone. If you're using a speakerphone, please pick up your handset before pressing the keys. If at any time your question has been addressed and you would like to withdraw your question, please press star then 2. Please limit yourself to one question and one follow-up. At this time, we will pause momentarily to assemble our queue. The first question comes from Thomas O'Malley with Barclays. Please go ahead."
+  },
+  {
+    "speaker": "Thomas O'Malley",
+    "role": "",
+    "text": "Hey, guys. Thanks for taking my question. So thanks for the color on the content. Think, Bob, you mentioned the ultra-high band potentially not having as much content there in this generation but you have some of the ET coming back in. If you look at the next several generations of content, it looks like with this dual sourcing, you've seen a lot more swimming in other people's lanes is the way I think I've heard talked about in the past where, you know, one guy would compete in, you know, a couple sockets, and now you've seen that proliferating to some other sockets, which is just kind of increased the competition. And you guys have called out a couple areas where you're seeing that. Maybe talk about the content roadmap on a go-forward basis. Like, do you think that there are other sockets you obviously talked about the high band or the mid-high band and the iPads. Like, do you see other sockets where you could have some more or do you feel like the wind's behind you or in front of you in terms of content over the next several generations? Thank you."
+  },
+  {
+    "speaker": "Robert Bruggeworth",
+    "role": "",
+    "text": "Yeah. Thanks a lot. Appreciate the question, Tom. And as you know, we don't like to comment on future generations or even architectures. But I will say that there continues to be an opportunity for us to continue to grow our footprint there. No doubt about it. It's been, as you know, a lot of it was sole source. As you can see, it does appear they're multi-sourcing more or at least dual sourcing. I should say, more sockets in the future. And you know, we're investing in R&D to continue to grow at our largest customer."
+  },
+  {
+    "speaker": "Thomas O'Malley",
+    "role": "",
+    "text": "Helpful. And then just a clarification on the second one. I think you mentioned into March, Android would be down more than seasonal. I'm sure there's a million different ways. Five, ten, fifteen years, you can look at seasonal. But in terms of what I have here, Android is actually up in the March quarter. I know you've seen some different seasonality. What do you mean by down more than seasonal? What is normal seasonal for March and Android?"
+  },
+  {
+    "speaker": "Robert Bruggeworth",
+    "role": "",
+    "text": "Yeah. I appreciate the question, Tom. And you're exactly right. Typically, Android has been up in the March quarter. And as we've been strategically a lot of that lower margin business and we talked last quarter about even some of the Android ramps and other phones that we're not participating as much. Again, due to our strategic emphasis on making sure we're getting paid for the value we bring. And this year, it's going to be down quarter over quarter. So that's the big swing. You're correct."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "The next question comes from Peter Peng with JPMorgan. Please go ahead."
+  },
+  {
+    "speaker": "Peter Peng",
+    "role": "",
+    "text": "Are you there, Peter? Oh, hi. Hi. Thanks for taking my question. For just for the Android business, I think the prior expectation was you know, you're gonna exit by about $200 million, and now you guys are saying $300 million. So maybe just talk about whether that is just expedite exit. Is it the memory impact? What drove the, you know, accelerated pace? And then you know, as we think about longer term, what is the business revenue run rate, you know, after you're finishing, you know, everything on this business?"
+  },
+  {
+    "speaker": "Grant Brown",
+    "role": "",
+    "text": "Hey, Peter. This is Grant. Let me take that one, and then Dave can fill in some more detail. So we've said that it'll be a multi-year event as we exit the lower margin or lower tier Android businesses. It could run approximately $150 million to $200 million in fiscal 2026 and then again in our fiscal 2027. Last quarter, we had mentioned that we expected the larger portion of that in our fiscal 2026 to hit in the second half, and especially impacting March. And that's exactly what we're seeing in results. And then in fiscal 2027, instead of the $150 to $200 million, we're taking that estimate up to $300 million that we could exit in fiscal 2027, and that's both due to our strategic from the business as well as some of the memory pricing and availability constraints that are impacting customers' build plans."
+  },
+  {
+    "speaker": "Peter Peng",
+    "role": "",
+    "text": "Perfect. And then just on the gross margin, you talked about potentially getting to the, you know, the 50%. Maybe you can kinda lay it out on how we should think about that margin profile over the course of the 2027."
+  },
+  {
+    "speaker": "Grant Brown",
+    "role": "",
+    "text": "Yep. We're getting a lot of background noise when we're talking. I don't know if it's on your end or not."
+  },
+  {
+    "speaker": "Peter Peng",
+    "role": "",
+    "text": "Let me Sorry. Go Sure. So I think your question was around margin profile. So as we look out into fiscal 2027, That is right. That is right. Okay. Yeah. So the biggest driver for margin as we look out in fiscal 2027 is mix. That's both business mix as HPA becomes a larger percentage of the total, which is margin accretive. As well as product mix inside of the segments. Especially within ACG. We've talked at length about the exit from the lower tier Android business, which is having a sizable effect. Obviously, our utilizations aren't where we'd like them to be. But, you know, the biggest gains in gross margin for the moment are coming from that business mix I talked about. So there's still further headroom as we add additional volumes over time. I would compliment the operations team. They've had a you know, done a considerable job of pulling costs out while maintaining the capacity that we need. To strategically target very important pieces of business all while transferring multiple lines of production, which is not a small feat as Bob commented earlier, both on Costa Rica as well as the North Carolina transition to Texas. Thank you, guys."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "The next question comes from Gary Mobley with Loop Capital. Please go ahead."
+  },
+  {
+    "speaker": "Gary Mobley",
+    "role": "",
+    "text": "Hey, guys. Thanks for taking my question. And thanks for the explicit guidance, Bob, for fiscal year 2027. And specifically, on Apple. You're calling for revenue to be flat in fiscal year '27. With perhaps some content loss in the upcoming iPhone 18, you know, in aggregate. So is that more or less one part volume growth offset equally by some content decline. Maybe you can just help us out there in terms of, like, your volume assumption for iPhone units, I guess, you know, with that assumption."
+  },
+  {
+    "speaker": "Robert Bruggeworth",
+    "role": "",
+    "text": "Yeah. Thanks, Gary. And we're not gonna comment on our largest customers' volumes or We're just giving you an indication of what we think our revenue is going be given everything we know at this time."
+  },
+  {
+    "speaker": "Gary Mobley",
+    "role": "",
+    "text": "Got it. Got it. Okay. And then looking at your fourth quarter revenue guide, it's down about $70 million roughly on a year-over-year basis. How much of that decrease is a function of business divestments? I believe there might be two significant business divestments you know, within that year-over-year comparison. And I would assume the rest is mostly Android related?"
+  },
+  {
+    "speaker": "Grant Brown",
+    "role": "",
+    "text": "That's correct. The vast majority of it is Android related. You know, it's relatively small from the divestitures that we've made. And the Android component of that. Obviously, we'll see how that exactly plays out. We're seeing both our strategic exit as well as some of the customer forecast driven by some memory pricing concerns. Which is just starting to find its way into the customer dialogue."
+  },
+  {
+    "speaker": "Gary Mobley",
+    "role": "",
+    "text": "Got it. Thank you, guys."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "The next question comes from Christopher Rolland with Susquehanna. Please go ahead."
+  },
+  {
+    "speaker": "Christopher Rolland",
+    "role": "",
+    "text": "Thanks so much for the question. So I think previously you guys were quite optimistic around integrated modules and ramping integrated modules. Obviously, this dual sourcing is a setback, but perhaps it you can talk about your products here, how you feel about them and how you feel about your prospects moving forward. Particularly for integrated modules."
+  },
+  {
+    "speaker": "Robert Bruggeworth",
+    "role": "",
+    "text": "Yeah. Hey, Just to be clear, the ultra-high band has been a dual-sourced part for many, many years, probably five or six years. We've always had content in it. We just have less this year than prior years. And, you know, I talked about the high band pad and that's an area we hadn't been. So the dual sourcing is actually helping us in that case. That's how I'd actually answer your question."
+  },
+  {
+    "speaker": "Christopher Rolland",
+    "role": "",
+    "text": "Okay. Maybe, Gary, in terms of in terms of revenue, maybe, you know, there's always a considerable number of variables to consider in addition to content gains and losses, including the timing of certain different awards as well as the volume of specific SKUs, the mix, launch cadence across those models. You know, but at least from a modeling perspective in terms of our assumptions, I think the key point is that all of our underlying assumptions are fully reflected in the fiscal 2027 outlook that Bob provided earlier."
+  },
+  {
+    "speaker": "Christopher Rolland",
+    "role": "",
+    "text": "Sorry. Me yeah. And just maybe just following up there. You did have some comments about not being totally decided for the year, but you it sounds like you guys have pretty good visibility here, and we probably shouldn't be expecting any more surprises, either positive or negative versus your flat guide year over year? Is that fair?"
+  },
+  {
+    "speaker": "Grant Brown",
+    "role": "",
+    "text": "Yeah. That's fair. There's always certain components, you know, particularly around tuners that are awarded later in the cycle. But, yeah, everything is kinda reflected in the guide that five k."
+  },
+  {
+    "speaker": "Robert Bruggeworth",
+    "role": "",
+    "text": "Excellent. Thank you, guys."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "The next question comes from Krish Sankar with TD Cowen. Please go ahead."
+  },
+  {
+    "speaker": "Robert Martin",
+    "role": "",
+    "text": "Hello. This is Robert Martin on the line for, Krish. Thanks for taking my questions. You mentioned that Android sales are expected to decline roughly $300 million next year. And walk us through how the exiting of the low-end space will impact the business could you just walk us through a little bit more about how the current higher memory prices and costs are affecting your mobile business and how you think that might play out next year?"
+  },
+  {
+    "speaker": "Dave Fullwood",
+    "role": "",
+    "text": "Yeah. This is Dave. Yeah. So that decline we're talking about is primarily as a result of the ongoing intentional resizing of the Android business that we've been talking about for almost a year now. Secondarily, what we're seeing related to the memory pricing and availability is OEMs adjust their build plans to react to that. It definitely pressures the mass tier. As customers prioritize the supply that they get towards the higher-end devices. So this has an acceleration effect on our strategy, but it really doesn't change the end result. But that's why you're seeing you know, the higher $300 million decline that we called out for FY '27 what we had called out earlier. And maybe I'll just add to that a little bit, Dave. As far as the profile of our revenue throughout the year. Know, as you start to think past March and into June, the dynamic that Dave was describing will play out. You know, it's it's a little too early to put too fine a point on it since we only guide in any detailed way for the next quarter. But know, it's worth pointing out that historical seasonality even in June, say, down five to 10% sequentially no longer applies for the reasons were mentioned in the strategic actions around Android. Are, you know, strategically managing down our Android exposure in the mass tier, as well as a seasonal downtick in our revenues from our largest customer. Normally, those would offset and we're not gonna see that. You know, we haven't seen it in March. We won't see it in June. And then secondarily, you know, as we've talked about our DNA business, a year-over-year basis, we continue to see a considerable strength there. But it'll be down as we look into June, which is pretty typical coming off of a very strong March. So, you know, as DNA has grown to be a larger contributor, to our top line, the impact on June seasonality has also grown. So the profile of our business will change because of you know, to a large degree, the Android exit as we were communicating earlier."
+  },
+  {
+    "speaker": "Robert Martin",
+    "role": "",
+    "text": "Got it. Thank you. That's helpful. And makes sense for customers to prioritize the higher end. Just real quick, in line with that, are you seeing any sort of changes in terms of inventory level at customers or this in line or higher or lower than what you would typically expect at this time of year?"
+  },
+  {
+    "speaker": "Dave Fullwood",
+    "role": "",
+    "text": "Yeah. I wouldn't say we've seen anything abnormal as it relates to inventory. It's just more of a reaction to how they're adjusting their build plans. Given the situation that's going on with the with the memory."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "The next question comes from Edward Snyder with Charter Equity Research. Please go ahead, sir."
+  },
+  {
+    "speaker": "Edward Snyder",
+    "role": "",
+    "text": "Thank you very much. Bob, you said you had lower share in the high band. Obviously, the iPad isn't going to be a big driver for unit volume. But the mix should favor your ET, and that's like a dollar 80 extra content. And, apparently, that's gonna be a significant shift given what we saw last year versus what we saw this year. So doesn't this imply that you're seeing significant share loss at ultra-high band? Or are there other parts that we don't know that you mentioned that you're not going not gonna be on in a new phone. I know Dave talked about two So let's get added towards the end of it, but plus or minus on that isn't gonna be I wouldn't dig correctly if I'm wrong. I wouldn't think you're in the dollar range of content. So I'm just trying to get my arms around the shift because the wind should be at your back of the fold. For ET itself, and it doesn't sound like that's the case at all."
+  },
+  {
+    "speaker": "Frank Stewart",
+    "role": "",
+    "text": "Yeah. Hey, Ed. This is Frank Stewart. Maybe just to reiterate, the things that we're excited about is the high band pad win that we got. The headwind that we have, is the loss of share in UHB. Working very hard to get that back in the following generation. We agree that as the internal modem is used on more SKUs, that is a tailwind for us. When you put it all together with all of our estimates of how all that plays out. Again, we can only talk to our expectations for revenue. When you play that out over our fiscal year, it comes together with about flat year over year."
+  },
+  {
+    "speaker": "Edward Snyder",
+    "role": "",
+    "text": "Okay. I just wanna be sure we have all the moving parts together. But it's you're still gonna be in the ultra-high band. You just can see what we're sure. You're not gonna keep down with that. Again, in red."
+  },
+  {
+    "speaker": "Edward Snyder",
+    "role": "",
+    "text": "Alright. Yeah. I just wanna explore the case. And then Grant, underutilization charges, it sounds like, especially if you're gonna be flat, etcetera. Are you did you incur any this quarter? Do you expect any coming with them? Is that mostly gas at this at this stage? Because know you're gonna be shipping with a BAW because all I know you guys called the high band Historically, it's been called the mid-high band. It uses a lot of BAW. Use a lot of BAW. Mean, you're going into your product here, so maybe it actually. Maybe you even have nearly a number of management to deal with before. So one, underutilization charges, and two, have things improved utilization wise involved? Do you anticipate they'll improve this year?"
+  },
+  {
+    "speaker": "Grant Brown",
+    "role": "",
+    "text": "Thanks, Ed. It's you know, utilization is obviously not where we'd like it to be. So still have ample headroom, you know, to support some of these strategic areas that we're going after in our largest customer and elsewhere. But you know, there are no specific underutilization charges or period charges in the quarter. And, you know, the ops team our side has done a terrific job of managing costs as we've been, you know, shutting down factories or we've been moving them, you know, from North Carolina to Texas, and all of the other activities they have going on. That we've discussed. It's it's a considerable effort and at the same time pulling out costs in order to support the gross margin improvements that we've been showing is a significant effort."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "This concludes our question and answer session. I would like to turn the conference back over to management for any closing remarks."
+  },
+  {
+    "speaker": "Robert Bruggeworth",
+    "role": "",
+    "text": "I want to thank everyone for joining us today. And I hope everyone has a great evening. Thank you."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "The conference has now concluded. Thank you for attending today's presentation. You may now disconnect."
+  }
+]

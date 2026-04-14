@@ -1,0 +1,213 @@
+Operator
+Good morning, and welcome to the Outbrain, Inc. first quarter 2023 earnings conference call. At this time all participants are in a listen-only mode. A question-and-answer session will follow the formal presentation.
+As a reminder, this conference is being recorded. Now I'd like to turn the call over to your Outbrain management team.
+McKenna Elves
+--
+Director, Partner Management
+Good morning, and thank you for joining us on today's conference call to discuss Outbrain's first quarter 2023 results. Joining me on the call today we have Outbrain's co-founder and co-CEO, Yaron Galai; co-CEO, David Kostman; and CFO, Jayson Kiviat. During this conference call, management will make forward-looking statements based on current expectations and assumptions. These statements are subject to risks and uncertainties that may cause actual results to differ materially from our forward-looking statements.
+These risk factors are discussed in detail in our Form 10-K filed for the year ended December 31, 2022, and in subsequent reports filed with the Securities and Exchange Commission. Forward-looking statements speak only as of the call's original date, and we do not undertake any duty to update any such statements. Today's presentation also includes references to non-GAAP financial measures. You should refer to the information contained in the company's first-quarter earnings release for definitional information and reconciliations of non-GAAP measures to the comparable GAAP financial measures.
+Our earnings release can be found on our IR website, investors.outbrain.com, under news and events. With that, let me turn the call over to David.
+David Kostman
+--
+Co-Chief Executive Officer
+Thank you, McKenna. In Q1 we exceeded the guidance we provided delivering 52.2 million in extra gross profit and positive adjusted EBITDA of 0.7 million. In what is still an uncertain macro environment. We are focused on first, driving growth of usage and better performance in our current marketplace.
+And second, growing our addressable market both on the advertiser side and the publisher side to a focused product and technology-led strategy while maintaining tight controls on costs. I would start with a macro environment where the outlook continues to be uncertain. The softness in advertising budgets continues. From a geographical perspective, we are seeing some more favorable trends in advertiser budgets in Europe versus a more cautious approach in the US.
+From an industry perspective, we are encouraged by the accelerating trend of advertisers from enterprise brands to performance marketers, increasingly making budget decisions based on measurable outcomes driven by user attention and engagement, and leveraging contextual data. This is why for the last few months we've been accelerating our focus, helping enterprise brands deliver experiences that drive deeper engagement, attention, and measurable results. We believe that we are well positioned to deliver on this market need, thanks to our heritage and strength in predictive AI-based performance. We've been working with some of the top global agencies and enterprise brands on validating our unique selling proposition and testing it on our platform.
+We are encouraged by the initial signs, and we'll be making several announcements regarding this product launched in the coming weeks. In order to support our efforts in these growth areas, we've also announced several organizational changes, such as the appointment of Andraz Tori, the former founder, and CTO of Zemanta, who has led Outbrain recommendations and data science department for the past four years to also become chief product officer and worked closely with our new CTO, Yonatan Maman, who's led our engineering organization for the past five years. We have also announced several changes in our business organization under the new leadership of our CRO, Alex Erlmeier, who previously led our international business to ensure the right focus on our growth areas with teams in local markets, while at the same time consolidating into hubs certain segments of advertisers and publishers, to better serve them with centralized know-how and generate cost efficiencies. Andraz, Yonatan, and Alex have each been with us for over decades.
+With that, I will move to the publisher side of our business. We continued to solidify our position with premium publishers globally. We signed several new deals including an emphasis on financial publishers with Fortune, Entrepreneur, and Coindesk. We renewed multi-year deals with several anchor premium publishers including The Washington Post, Le Monde in France at the end of Q4, ANSA in Italy, Hearst and Vocento in Spain, and Orange in France.
+We remain focused on premium publishers as we believe the trust they built with their audiences on the open Internet leads to a deep and meaningful relationship with their readers, which is a flywheel for a better user experience and better attention and engagement moments for advertisers. On the product side, our publishers are enjoying the constant architectural improvements we are making to smart logic, such as optimizing the experiences, reducing widget latency, which is expected to increase revenue. They also continued the adoption of new products and capabilities to optimize the performance on their properties. An additional growth driver is the increase of in-article integrations to header bidding or code on page.
+In Q1, we added about 70 of such in-article integrations, which is also an important part of our enterprise brand strategy. On the non-publisher supply side of the business, which includes our direct-to-device partnerships that we highlighted as one of our growth drivers, we also continued to expand. And in the last few months we signed partnerships with SmartNews, Flipboard, Quora, and others, enabling us to expand our advertiser campaigns to such platforms, leveraging our real-time building capabilities that optimize the engagement and performance. In Q1 2023, these partnerships contributed approximately 10% of our revenue.
+On this front, we are particularly excited about the launch of [Inaudible] news, an access [Inaudible] companies on Samsung devices in the US, replacing the resisting news app provider. Through our partnership with [Inaudible], we'll now also be able to access that highly valuable inventory for our advertisers. Moving to the advertiser side of our marketplace. I refer to the macro trends impacting demand and resulting in stable but still lower CPCs than last year.
+On our end. We continue to improve the programmatic access to our network. In Q1, we fully integrated our performance DSP Zemanta into our core, such that all our advertisers can select the platform of their choice to access the outbreak supply and our extended network of supply via the Zemanta platform or through our Amplify dashboard. We are also leveraging many of the AI-driven ROAS improvements in our Amplify dashboard into our programmatic marketplace.
+We are seeing some promising success stories for our advertisers, and we believe that we could see significant upside from further scaling the use of the demand technology for our core advertisers. Bringing together our investment in AI and CBS conversion strategy, I wanted to highlight the results of one of our customers, Babbel, one of the world's top-selling language learning apps. They used Outbrain title suggestions, a tool powered by AI technology that automatically suggested titles by scanning the brand landing pages alongside conversion bid strategy, which resulted in an improvement of 20% average click-through rate and a 20% conversion rate improvement. The combination of these products resulted in quality leads and a more effective use of campaign dollars for Babbel's team.
+Another growth driver we highlighted and excited about is our video business, which includes the vi acquisition in our out-stream video product. In Q1, we saw significant new wins with vi's smart video product including the SPIEGEL in [Inaudible] Germany, ANSA in Italy, and Evening Standard in the UK. These represent just a few examples of the new innovative placements born in Q1, alongside more than 190 implementations of the product in existing Outbrain publishers. The power and impact that we do experiences can have in capturing attention and driving engagement is one of the keys for the future of our enterprise brand strategy.
+To sum it up, we are pleased that we exceeded our guidance for Q1 and considering the macro headwinds we are hosting with caution, we are focused on product and technology-led improvements of the performance of our marketplace and in growing our addressable market for advertisers in publishers, particularly our offering for enterprise brands. At the same time, we are maintaining cost discipline across the company, consistent with our previously stated objective of generating positive cash flow in 2023. I now hand it over to Yaron.
+Yaron Galai
+--
+Co-Founder and Co-Chief Executive Officer
+Thanks, David. Times like this are the perfect opportunity to keep inventing and innovating around product algorithms and AI. I want to highlight a few of the areas where we brought new innovations to our platform during the last quarter. Let's start with algorithms.
+On our last call, I shared some of the progress we made on the algorithmic side during 2022, culminating in a 9.5% improvement of our yield potential. This is based on our internal A-B testing of algorithms. While these improvements were muted in last year's numbers due to the macro demand challenges, they are spring loaded so to speak into our platform. During the first quarter, we released five new algorithm updates which are internal A-B testing indicates a further improves our RPM yield potential by another 2.7%.
+Here are two examples. First, we released a new exploration strategy based on what academics call Wilson Score interval, which improves the efficiency of how our system tests new ads. This algorithm allows us to save ad impressions that were previously used for testing ads and instead serve high -- higher yielding ads. Second, we've doubled the number of model parameters in our online prediction algorithm, and boosted the throughput of predictions, we can process to about 1 billion predictions per second.
+We've done that while maintaining a very low latency of processing of our recommendations. These are just two examples of the five algorithm upgrades we released in Q1. When advertiser demand is robust, we expect the 2.7 increase in yield potential to continue compounding our results on top of the previous upgrades. Switching gears to serving efficiency, which is another example of how we're using these times to innovate by improving our operating model.
+We've been intensely focused on reducing our cost of sales while maintaining our serving capabilities in RPM yield levels. As a reminder, the majority of our data center capabilities are operated by us in-house with a certain footprint on public clouds like Microsoft Azure. We find this to be much more cost efficient at our scale than relying on public clouds, but more importantly it allows our engineers better control and the ability to better optimize serving architecture for our specific needs and for efficiency. In Q1, we released a new framework that calculates in real-time the revenue potential of each ad we serve, and based on that, it dynamically allocates more or less compute resources for handling best ad.
+We've started implementing this on some of the ads we serve, and initial results are showing an approximately 10% saving on cost of sales on those specific ads without the noticeable impact on RPM. In fact, we believe that over time this technology may help us increase RPMs by allocating more compute resources to boost specific ads with the highest potential of driving high RPMs while staying disciplined on cost of sales. Lastly, AI is obviously an area we're very focused on. I spoke about this in more detail last quarter and our engineers are obviously exploring multiple ways of leveraging AI on our platform.
+As I mentioned previously, we've been using our AI solutions for a while to assist advertisers with scaling headline creatives. David mentioned Babbel is one example of an advertiser successfully using this technology to achieve better outcomes. We've now built a more robust solution that includes AI headline creatives from OpenAI's ChatGPT, and by April about 50% of the ad headlines we suggested to outbrain advertisers were originating from ChatGPT. Another area our engineers have been focusing AI efforts on is predictions of ad viewability.
+Late last year, we started including our AI-predicted viewability within programmatic channels. As David mentioned, viewability is an important factor for our enterprise brand strategy. They're building or evaluating AI solutions on areas such as code writing and automated code review testing with solutions such as GitHub copilot on inch creation and enhancement for ad images on PTR predictions, etc. Overall, we're very excited with the new opportunities that this wave of AI creates for us on many vectors of our technology and business.
+And with that, I'll hand it over to Jason to cover our financials.
+Jason Kiviat
+--
+Chief Financial Officer
+Thanks, Yaron. As David mentioned, we beat our Q1 guidance for both gross profit and adjusted EBITDA. From a demand perspective, we experienced a continued soft but fairly normal pattern in Q1, with strengthening demand over the course of the quarter in both Europe and the US. The early portion of two has remained volatile.
+We've seen a softer start in the US and more relative strength in Europe. Revenue in Q1 was approximately 232 million, a decrease of 7% year over year on a constant currency basis and 9% on an as-reported basis. The decrease year over year was driven primarily by lower yields as we continue to lap a prior year period that was not meaningfully impacted by the headwinds on advertising demand affecting our industry. These headwinds were partially offset by growth via new supply partners.
+New media partners in the quarter contributed 11 percentage points or approximately $29 million of revenue growth year over year, which compares favorably to the approximately seven points of growth from new media partners that we had averaged in 2020 and 2021. Net revenue retention of our publishers was 80%, reflecting the continued impact of the demand environment on yields, which drove the majority of the decline year over year. Our churn remains very low by our standards, and our three largest churns year over year contributed just four total points of net revenue retention headwind in Q1. As another data point, our logo retention was 95% for all partners that generated at least $10,000 in Q1 2022.
+Ex-TAC gross profit was 52.2 million, a decrease of 17% year over year on a constant currency basis and 18 % as reported. Consistent with what we've seen in the past several quarters in this environment, the steeper decline of ex-TAC gross profit year over year versus revenue was driven by an unfavorable mix of revenue, lower performance on certain media partners driven in part by the demand headwinds we're seeing, which impacts the portion of our take rates with certain partners, and the impact of onboarding and optimizing significant new supply partners, which is challenged by the weaker than normal demand environment. Moving to expenses. Operating expenses decreased approximately 3.4 million year over year to 50.5 million in the first quarter.
+The decrease is driven largely by lower personnel-related costs coming from lower headcount year over year, favorability of FX rates, and lower variable compensation. This was partially offset by higher bad debt expense and higher severance costs, the latter of which relates to some of the organizational changes that David referred to, to prioritize the efforts of our team. As mentioned in previous quarters, we implemented a series of cost-reduction efforts to adjust the current business headwinds. And as we said in the prior quarter, we plan to keep our expenses essentially flat over the remaining quarters of the year.
+We finished Q1 with a headcount of across 970 FTE, which is down 4 % year over year, and down 8 % since we began the cost reductions in Q2 of last year. We continue to focus on driving greater efficiencies in our operations, and as noted in the prior quarter, headcount accounts for around 70% of our operating expenses. As a result, adjusted EBITDA was approximately 1 million in Q1. Moving to liquidity.
+Free cash flow, which as a reminder, we defined as cash from operating activities less capex and capitalized software costs, with a net use of cash in the period of approximately 27 million. The use of cash was primarily due to a significant slowdown in collections of customer receivables, driven most meaningfully by the sudden closure of Silicon Valley Bank in March. Upon the news, we asked customers to hold payments for over a week until we were able to set up supplemental operating accounts at additional financial institutions. We have regained full access to all of our funds held at the bank and collections in April have returned to more normal levels as we switch over customers to the new accounts.
+We estimate around $15 million as the temporary impact of reduced cash and cash equivalents on our balance sheet as of March 31, resulting from this and other operational challenges impacting collections as of the balance sheet date. As these issues have been resolved, we expect that DSO and cash balance to normalize to our historical levels in the coming months. So while it impacted our cash flows for Q1, we do not expect it will impact our cash flow on a full-year basis. As we said, our objective is to achieve positive free cash flow for the year.
+As a result, we ended the quarter with 318 million of cash, cash equivalents, and investments in marketable securities on the balance sheet and 236 million of long-term convertible debt. On April 14, we repurchased 118 million aggregate principal amount of the convertible notes for approximately $96.2 million in cash, including accrued interest, representing a discount of approximately 19% to the principal amount of the repurchase notes. Review the opportunity to repurchase a portion of the debt at a considerable discount to be opportunistic, given the strength of our balance sheet, with the remaining cash balance that retains the optionality to invest in any organic or inorganic opportunities that can drive further shareholder value. In December, the company's board of directors authorized a $30 million share repurchase program, incremental to the $30 million program fully executed in 2022.
+We began executing the new program in Q1, though we temporarily paused share repurchases upon the news of SBS closure and due to our purchase of the convertible notes in April. We are monitoring closely as our cash collections normalize, and we continue to believe is an attractive way to enhance shareholder value under current market conditions. Now turning to our outlook. As discussed today and in prior quarters, visibility to advertising budgets remains limited.
+In our guidance, we assume that current macro conditions persist with no material deterioration or improvement, regular seasonality, and as noted in the prior quarter, continued execution of our growth drivers such as optimization of new supply partners, algorithmic improvements, expansion of our video and full-funnel offerings, and attracting new partners. With that context, we have provided the following guidance. For Q2, we expect gross profit of $52 million to $55 million, and we expect adjusted EBITDA of $0.5 million to $1.5 million. We maintain our previous full-year 2023 guidance provided at the beginning of the year of at least $237 million of ex-TAC gross profit and at least $28 million of adjusted EBITDA.
+Now I'll turn it back to the operator for Q&A.
+Questions & Answers:
+Operator
+Thank you. [Operator instructions]. Our first question comes from the line of Shweta Khajuria with Evercore ISI. Please proceed with your question.
+Shweta Khajuria
+--
+Evercore ISI -- Analyst
+OK. Thank you for taking my questions. Jason, for the guidance that you've provided, could you please help us think through the cadence for the rest of the year when it comes to EBITDA as well as revenue ex-TAC growth rates? Specifically, the second quarter EBITDA guidance came in lighter than we would have thought. So anything to call out there and how you're thinking about driving profitability in the back half and the same thing for top-line growth? Thanks a lot.
+Jason Kiviat
+--
+Chief Financial Officer
+Thanks, Shweta. Sure. So I think we mentioned on our call last time and just tried to reiterate on the prepared remarks just now that our plan is to keep the expenses pretty flat each quarter of the year. And if you look back at the last five or six quarters as well, you'll see that we've been on a cash expenses, meaning ex-TAC minus EBITDA equals cash expenses basis.
+We've been pretty flat around 51 to 52 million of cash expenses and you know our intent is still in our guidance now to keep the cash expenses flat over the course of this year. So the EBITDA growth really in the -- toward the end of the year is coming from the ex-TAC growth. And so just to talk to that for a moment, we do have our normal kind of process here for forecasting which is considering trends in the first part obviously through Q1 in the first part of Q2 using current FX rates, which for us is April, normal seasonality is assumed and flat macro, meaning not an improvement and not a deterioration from what we've seen so far. And on top of that, our growth levers, right? And so we've talked to that a little bit I think in the last couple calls, but just what they are is scaling our supply growth through new partners.
+I think David touched on some of the exciting kind of new platforms and traditional partners that we're opening ourselves up to now. Obviously, your own talk to some of the algorithmic improvements that we have and we're continuing to invest there and see fruit that we expect to grow more over the course of the year. And also notably the expansion of our video and full-funnel offerings and miracle placements as David talked about today. So those are some of the things we expect to grow really more over the back half of the year and keep expenses flat.
+That's essentially the cadence that we expect.
+Shweta Khajuria
+--
+Evercore ISI -- Analyst
+OK. Thanks, Jason. And -- go ahead.
+David Kostman
+--
+Co-Chief Executive Officer
+Sure, maybe just to add, I mean on the second quarter and the way we're looking at EBITDA is pretty much in line with our internal plans. I know that some of you had higher numbers, but what we have for us is not a surprise. It's pretty much sell plan. We never gave specific guidance for Q2 and that we're maintaining the guidance for the year.
+Shweta Khajuria
+--
+Evercore ISI -- Analyst
+OK, that's helpful. Thanks, David. Jason, just to follow up on your prior comment, any way to quantify the impact of the growth drivers in the back half in terms of contribution? And that's it for me. Thank you.
+Jason Kiviat
+--
+Chief Financial Officer
+Sure. So not to specific numbers, but maybe just order of magnitude.Not one of those four things that I listed is really the lion's share. But the biggest -- if you combine the kind of video expansion and growth, the upper funnel enterprise branch strategy that David talked about, that would probably be the largest. Number two and three would be scaling our supply and also adding additional new suppliers.
+And then algo number four, that's been our biggest driver over the last couple of years combined. But as we've noted in this demand environment, it's just not as impactful despite the lifts that we see in our AB tests. So keeping that as kind of the smallest of the four right now.
+Shweta Khajuria
+--
+Evercore ISI -- Analyst
+OK. Thanks, David. Thanks, Jason.
+Operator
+Thank you. Our next question comes from line of Andrew Boone with JMP Securities. Please proceed with your question.
+Andrew Boone
+--
+JMP Securities -- Analyst
+Hi, guys. Good morning, and thanks for taking my questions. I wanted to ask to the first just on take rates. You know, we've seen a couple of quarters now where it's been below kind of 20, 21 levels.
+Is there anything structurally that changed in the contracts over the last two years? The market was just higher where we should think about take rates now being lower just given higher maybe guarantees that are in there. Is there anything else to call out in terms of take rates? And then in terms of existing publishers, you just broadly speaking talk about the path back to 100%. Is this just comps getting easier? What else can you guys do to drive existing publishers back to that 100% level that you guys had so consistently before? Thanks so much.
+Jason Kiviat
+--
+Chief Financial Officer
+Thanks, Andrew. So maybe I'll start. So just on the take rates, nothing has changed as far as far as contract terms or anything like that. We still -- I think we've said in the past where around 20% of our revenue is subject to those minimum revenue guarantees, that's still the same vicinity as it's been.
+The things that have driven it down have been, obviously, we've been saying the same thing for a few quarters as we continue to lap the period that's not affected by the headwinds, but it's been the mix of some of the exciting supply we want, not to speak to anything individually, but maybe at lower rates than some different segments or geographies. Obviously, macro is playing the biggest factor in the supply and demand imbalance that we continue to see in this environment. So -- and those are -- and obviously the new supply kind of taking time to scale. Those are the things that have brought it down.
+Those are also the things that will bring it back up. We do have downside protections on these generally. So there's not an unlimited risk and I don't expect these to go down materially further versus the current levels that they're at. To get back to the levels from a couple of years ago, it probably will take some level of macro recovery, but there are definitely things in our control to drive them higher.
+Obviously the algo improvements, expansions of segments with higher take rates. We do expect some of that to happen over the tail end of this year, particularly video expansion which drives higher margins for us and also higher, better seasonality generally in the end of the year versus the beginning of the year, we have higher rates at the end of the year versus the beginning of the year. As far as retention, again, we're still kind of lapping this challenged period. So I think as we kind of get into the back half of the year, we'll have a easier comp and not expect to be this the same 80% range that we've been.
+We did see some improvement from the prior quarter. Obviously, I think it was 74% last quarter versus 80% this quarter, and that's really driven by some improvement in pricing and also improvement in click-through rates that we've seen. Kind of each month of Q1 we've seen improvements in click-through rate and in pricing, and again not churn-driven lower retention. I said 95% largest returns combined was under 4%.
+So, again, as we get toward the back half of the year, I think the cost will ease and we'll be able to see more growth through how we used to grow and expand.
+Andrew Boone
+--
+JMP Securities -- Analyst
+Thank you.
+Operator
+Thank you. Our next question comes from the line of Ross Sandler with Barclays. Please proceed with your question.
+Ross Sandler
+--
+Barclays -- Analyst
+Hey, guys. Just two questions. David, these new senior management changes or appointments, can you just give us some more color on overall strategy and how this new structure better equips Outbrain to compete? And then you run the 10% efficiency improvement for ad serving that data points pretty interesting. Just broadly, how is AI helping with efficiency or the productivity of your engineering team? Just any high-level color on this cost savings as a strategy, or is it just shipping product quicker using these new copilot tools and stuff like that? Thank you.
+Jason Kiviat
+--
+Chief Financial Officer
+Hey, Ross, good morning. I'll take the first one. So on the senior management, it's about what's about generally about timing of promoting the right talent from within to new positions. You can see that there is an emphasis a little bit more on programmatic.
+So, Andraz, who's been -- he was the founder and CEO of Zemanta, very strong on programmatic and algo AI machine learning. So we wanted to emphasize that and push it more into the product. This is why we also gave him the responsibility for the product organization, and Alex has led our international business which is more brand focused than the US business. And now we're pushing very hard on the enterprise brand fund.
+So we believe that his relationships with agencies, brands, and his understanding of the business and just generally was the right time to make some changes in the refresh management for the next few years.
+Yaron Galai
+--
+Co-Founder and Co-Chief Executive Officer
+Hey, Ross. Yaron here. I'll take the second question. So first, the cost of sales point I made before, the way what our engineers did is deploying AI, predictive technologies to try to predict on the fly in real time how valuable each one of the ads that we are about to serve is for us and for the publisher.
+And based on that, I predicted kind of value ability, we in real time we deploy more or less compute resources. So it really affects our actual ad serving in data center capacity. And so for ads that are predicted to be lower of lower value, we use less compute data center resources and those that are more valuable, we use more resources. And for those ads that we served through this architecture, we've seen about a 10% savings in cost of sales.
+So we think that's a very exciting use of AI predictive models. In terms of where else, I'd say our engineers are pretty much all over this in many different directions. I did mention briefly, code writing is probably something that will be assisted. It's going to continue being human engineered.
+We still don't see anything on code writing that is that is replacing software -- human software engineers anytime soon, but assisting in writing code more efficiently and faster I think is exciting for our engineers in terms of code testing and review. That's an area where we think we can have the engineers be much more efficient and have much more kind of robust and fast code review testing using AI. And then on pretty much everything you can imagine on generative AI. I mentioned that on headline or ad creative generation, we now deploy ChatGPT on about 50% of ad headline suggestions for advertisers.
+And we think there's much more to do there and the areas we're exploring not deployed yet, but we're exploring our -- on the image generative AI for ad creative. So I'd say the answer is all of the above.
+Jason Kiviat
+--
+Chief Financial Officer
+Plus, I happened to be a couple of weeks ago and we had a hackathon of all our engineers globally doing competition around ideas. And you picked like top three and it's a very exciting thing. Everyone is embracing it across all the dimensions, Yaron mentioned, and I think it's going to be a sort of great infrastructure for the future for us.
+Operator
+Thank you. Our next question comes from the line of Laura Martin with Needham and Company. Please proceed with your question.
+Laura Martin
+--
+Needham and Company -- Analyst
+Hey, just continuing on that really interesting generative AI question you're on. Is there -- your cost control was really excellent in the quarter, but doesn't this generative AI work you're doing actually add costs, or does it -- I mean, you're talking about cost savings and the new content capabilities of generative AI. But doesn't it -- isn't it costly? Doesn't it add cost to this stuff or am I wrong about that?
+Yaron Galai
+--
+Co-Founder and Co-Chief Executive Officer
+Two. First [Technical Difficulty] and decides how much compute resources to dedicate or to take off each one of the ads that we processed. So that's on cost of sales. On the generative AI part like the ChatGPT headlines and things like that, the way we view it is ROI driven.
+It's about creating many more variations of the ads, which feeds into the algorithms, which allows us to drive higher click rates and higher yields. So the way we do that is really ROI based and obviously a bunch of it takes investments, but if the return is there will deploy it and [Inaudible].
+Laura Martin
+--
+Needham and Company -- Analyst
+OK. Interesting. And then Jason one for you in terms of cash allocation. So your free cash flow is negative 27, but I noticed that you still bought in $3 million worth of shares.
+So my question is, talk to me about cash allocation since it feels like you really need cash for the business right now. Why would you be shrinking your shareholder base at the same time, please?
+Jason Kiviat
+--
+Chief Financial Officer
+Sure. So maybe I'll start and, David, if you have anything to add, feel free to chime in. But just to clarify, Laura, we actually -- it was $6 million of cash that we spent on share repurchases in Q1. Again, we're considering market conditions and pricing and everything.
+And we do feel it is -- it is a creative for our shareholders, you know, obviously have to weigh the context of the environment and our trends on the business and all of that as well, which we'll continue to do.
+David Kostman
+--
+Co-Chief Executive Officer
+I think, Laura, we do believe it was -- it is the right use of capital. We have significant amount of cash on our balance sheet. We are -- according to our plan to be cash flow profitable this year. So I think this is not the right use for shareholders and we are also excited about post buyback where we managed to buy back half of the debt at very attractive financial terms.
+And we believe that shift value from sort of that paper into the equity holders of the company.
+Laura Martin
+--
+Needham and Company -- Analyst
+Thanks very much. Thanks, guys.
+Operator
+Thank you. [Operator instructions]. Our next question comes from the line of Ygal Arounian with Citi. Please proceed with your question.
+Ygal Arounian
+--
+Citi -- Analyst
+Hello, Can you guys hear me all right? Can you hear me all right?
+Jason Kiviat
+--
+Chief Financial Officer
+Yep, we can hear you.
+Ygal Arounian
+--
+Citi -- Analyst
+OK. Great. Thanks. I guess just first question just quickly give us a little bit of an update on Keystone, what the progress has been and some of the trajectory we could expect there?
+David Kostman
+--
+Co-Chief Executive Officer
+Maybe I'll take that, I think you're wrong just problematic. But on our last call we mentioned that we had three more publishers, two in the EU and one in Japan. And I would say that since then we deployed the code on page of Keystone on two mono publishers and we see a healthy pipeline of those.
+Ygal Arounian
+--
+Citi -- Analyst
+OK, thanks. Sorry, there's some background noise here. I hope it's coming through on your end. Just think about last year's pace of large publisher sign ups, which slowed a little bit this year.
+How should we be thinking about how you guys are focused on the integrations there versus looking to expand this year and how that changes over the course of the year into next year?
+David Kostman
+--
+Co-Chief Executive Officer
+I'll take that one. So last year was a record year of premium publisher wins. And as we said, we are very, very focused on the premium side of the market because we also believe it does support sort of the approach that we're having now to more premium enterprise brands this year. We're looking at it more, as Jason said earlier, we're looking more into going back to hopefully to a better mix of net revenue retention versus new.
+We still had -- I mean, you'll see a very strong growth in you in the coming couple of quarters because of the new publishers that we went up last year. But it should be hopefully getting back to a more normalized level of the mix you've seen in prior years from us where they've -- we are getting closer hopefully soon to the 100% net revenue retention on existing and low single digits up to low double digits growth.
+Ygal Arounian
+--
+Citi -- Analyst
+Thanks, if I could just ask one last bigger-picture question. We're coming to the tail end of earnings here for digital advertisers. And I'm thinking about some of the trends we've seen this quarter. I got to note notably on meta, they look to have outperformed the market.
+The guidance for the second quarter was really strong and we're seeing not just from them but across the board, but advantage plus and some innovation around ad products. And we've done some of our tracks. We've heard things like advertisers are getting stronger or as strong as they did in the past. So it looks like we're moving past some of those headwinds and maybe not all the way back to levels.
+I know we're certainly not everywhere, but things have kind of evolved. All that came into place. And just bigger picture of how that impacts you see that impacting the space, how you see it impacting your business and how things move forward here? Thank you.
+David Kostman
+--
+Co-Chief Executive Officer
+And I think we saw similar trends that what you mentioned between January, February, and March with the improvement. April and May started more volatile and stabilized toward the end of the quarter. So we're still in uncertainty generally on demand. The one trend that we see that is being very forceful is for advertisers looking for measurable outcomes, measurable returns on their spend.
+Even if we're talking about brand awareness campaigns or brand consideration campaigns, this plays very well for us because we can deploy our predictive analytics, predictive capabilities into delivering much better results for those campaigns. That's why we are focused on that. We also believe that premium supply attracts premium demand. That's why we're focused on the premium supply side.
+So this year we started making more significant investments last year. We're very limited right now on the amount of areas where we invest. I would say Keystone in this area, I wanted to be investing, and we believe that we can benefit from this trend from advertisers.
+Ygal Arounian
+--
+Citi -- Analyst
+Thank you.
+Operator
+Thank you. Thank you, ladies and gentlemen. This concludes our question-and-answer session. I'll turn the floor back to management for any final comments.
+David Kostman
+--
+Co-Chief Executive Officer
+Hi, this is David. So thank you very much for joining us, and we look forward to seeing you on our next call. Thank you.
+Operator
+[Operator signoff]
+Duration: 0 minutes

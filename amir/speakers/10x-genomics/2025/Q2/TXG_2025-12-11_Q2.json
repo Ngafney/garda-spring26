@@ -1,0 +1,257 @@
+[
+  {
+    "speaker": "Unknown",
+    "role": "",
+    "text": "Full Conference Call Transcript Serge Saxonov, our CEO and Co-Founder; and Adam Taich, our Chief Financial Officer. We will host a question-and-answer session after our prepared remarks. [Operator Instructions] With that, I will now turn the call over to Serge."
+  },
+  {
+    "speaker": "Serge Saxonov",
+    "role": "",
+    "text": "Thanks, Cassie, and good afternoon, everyone. Today, I'll cover our Q2 performance and share updates on what we're seeing across our customer base. I'll also walk through recent business developments before handing it over to Adam for the financial review and outlook. Total revenue for the second quarter was $173 million. During the quarter, we settled our worldwide patent litigation with Bruker on favorable terms and recognized an upfront payment of $68 million that we allocated to both operating expenses and license and royalty revenue. Excluding the portion allocated to license and royalty revenue, our second quarter revenue was $146 million. And as we continue our focus on cost management, we increased our cash balance by $40 million during the quarter, not including any settlement-related payments, which began in Q3."
+  },
+  {
+    "speaker": "Serge Saxonov",
+    "role": "",
+    "text": "The current funding environment remains challenging and highly uncertain. In particular, the academic funding landscape remains marked by shifting policies, weaker grant disbursements and lack of clarity around future budgets, all of which are contributing to extended project time lines and cautious customer spending. We're staying closely aligned with our customers to support them and remain flexible as we all navigate the uncertainty. Against this challenging backdrop, the current quarter played out largely as we anticipated. We saw some upside from strong performance in China, which was driven in part by purchasing dynamics associated with the timing of tariffs. Even in this difficult environment, our business fundamentals are solid and the key positive drivers of performance that we've seen recently carried through into Q2. We continue to see solid signs of underlying single-cell demand. On the consumables side, while revenue was down year-over-year, Chromium reaction volumes grew both year-over-year and sequentially, an indicator of increasing demand for our solutions and single cell more broadly. This growth was driven by robust adoption of our latest products, including GEM-X Flex and Universal On Chip Multiplex, which have been instrumental in lowering cost barriers, enabling larger scaling and opening up new applications. Additionally, we saw meaningful year-over-year and sequential growth in spatial consumables revenue and volume. Within spatial, Xenium consistently serves as a strong driver of growth and performance. Utilization per instrument continues to grow, reflecting both a higher number of runs and increased spend per run. We're seeing continued ramp across both our earliest adopters and newer customers, and regularly receive strong feedback on Xenium's superior data quality, accuracy, robustness, throughput and ease of use. Together, these qualities continue to set Xenium apart as a best-in-class platform and are fueling broad adoption across both basic science and translational research."
+  },
+  {
+    "speaker": "Serge Saxonov",
+    "role": "",
+    "text": "We continue to monitor customer sentiment closely as the funding environment remains highly uncertain. While the U.S. academic and government funding landscape has not deteriorated further, we also have not seen meaningful improvement in customer behavior. Across many institutions, spending remains conservative and capital equipment spending continues to be a significant challenge, both in the U.S. and more broadly around the world. Customers are facing increased scrutiny on purchases, longer approval time lines and in many cases, new restrictions on capital spending and staffing within their labs. These challenges are leading to delays in project starts, scale backs in both ongoing and pilot study designs and heightened price sensitivity. With open proposals around next year's federal funding and institutional budgets still in early stages, we expect these uncertainties to continue impacting customer spending behavior until there's greater clarity on policy direction and actual distribution of funding resources. As customers work through evolving budget time lines and operational planning cycles, we're partnering closely to help them navigate this environment and support continuity of their research. And despite this backdrop, we continue to hear clearly that our tools are essential to scientific progress. Our conversations with customers reinforce our conviction that single cell and spatial are the most promising areas of growth in life science tools, with researchers increasingly shifting both mind share and funding towards these areas. And as researchers increasingly invest in these technologies, we are prioritizing our efforts to advance our technology leadership, unlock new high-value applications and ensure the long-term financial strength of our business."
+  },
+  {
+    "speaker": "Serge Saxonov",
+    "role": "",
+    "text": "Looking across our product road map, our recent and upcoming launches are continuing to resonate with customers. During the quarter, we began shipping Visium HD 3 Prime, which expands the capabilities of the Visium HD portfolio by extending it to more applications. We also launched HD cell segmentation capabilities, which enable researchers to assign transcripts to individual cells with precision, simplify data analysis and uncover new biological insights. In parallel, we're also preparing for the release of several important innovations across spatial, including Visium HD XL and Xenium RNA plus protein, which will further enhance multiomic spatial analysis and unlock deeper insights from complex tissue samples. Turning to single cell. I'm really excited about Flex v2, our new plate-based Chromium Flex product that we expect to launch in the near term. Built to dramatically increase throughput and streamline workflows, Flex v2 provides ultimate flexibility for customers when designing their experiments. This next-generation Flex is an important step as we continue driving lower costs across the full spectrum of studies from small to large, while maintaining the highest quality data. Flex v2 is designed to be the ideal method for large-scale perturbation experiments and biopharma applications from early target discovery to clinical trial integration, delivering higher cell throughput, more flexible workflows, FFPE sample compatibility and the quality needed to train and validate AI models."
+  },
+  {
+    "speaker": "Serge Saxonov",
+    "role": "",
+    "text": "In addition to the launches planned for this year, our team is hard at work on future products that will further expand the capabilities of our platforms. We are excited about our road map for the coming years and the opportunity to deliver ever more value to increasing numbers of customers. As we look at the broader opportunity, we continue to believe that both single cell and spatial are in the early stages of the adoption curve, with large-scale, high-impact applications gaining traction across both platforms. In particular, I'd like to highlight 2 very exciting trends, large translational studies using Xenium and large-scale single cell perturbation experiments to train AI models and build virtual cells. As an emblematic example of the first trend, we recently announced a collaboration with the Genome Institute of Singapore on the TISHUMAP initiative, aimed at accelerating discovery of drug targets and biomarker signatures in cancer and inflammatory diseases. This study will use Xenium to enable high-resolution spatial mapping of gene activity and cells with an intact FFPE tissue samples paired with detailed clinical data. Its goal is to analyze thousands of samples to discover clinically relevant biomarker signatures and therapeutic targets. On the single cell front, the emergence of increasingly powerful AI methods that are hungry for high-quality data is accelerating researchers' interest in running larger and larger single cell perturbation studies. For example, this quarter, Xaira Therapeutics used our Chromium Universal 5 Prime assay in its industrialized Perturb-seq workflow to produce the largest publicly available genome-wide Perturb-seq data set to date, capturing transcriptional responses across 8 million perturbed cells. This quarter, we also extended our partnership with the Arc Institute to support the Virtual Cell Challenge, which is a worldwide competition to incentivize the development of powerful computational models of biology. The challenge has established a rigorous evaluation framework and uses our Chromium Flex assay as the standard. The work being done right now is clearly just the beginning. Virtual cells and large-scale single cell experiments represent the next frontier at the intersection of AI and biology. To understand biology, to understand health and to understand disease, you need to understand how cells work. If we can model cells and perturbations computationally using AI, we can guide the discovery of new drugs, simulate patient responses and reduce the experimental trial and error that defines so much of biology and drug development today."
+  },
+  {
+    "speaker": "Serge Saxonov",
+    "role": "",
+    "text": "Finally, we remain focused on cost management and cash generation. We have a strong balance sheet and the resolve to protect it. Across our business, we continue to carefully evaluate costs to ensure operational efficiency while also continuing to invest in long-term growth. With our strong balance sheet, we have the resources to pursue our strategic priorities and continue to fuel innovation. To that end, as part of our strategy for continued innovation within single cell, we announced earlier today the signing of a definitive agreement to acquire Scale Biosciences. The acquisition brings us key inventions and technologies that will accelerate innovation across our Chromium platform. It enables us to broaden access to single cell analysis by making it more powerful, more affordable and more accessible to researchers worldwide. By integrating these technologies into our broader road map, we're strengthening our ability to support larger Scale applications, while continuing to deliver the high-quality multiomic data that researchers expect from us. We're excited by the strategic value of this transaction and its benefits to the scientific community. Adam will share more details on the financials. Our conviction in the potential of single cell and spatial biology is stronger than ever. As we move forward, we remain focused on staying closely aligned with our customers, executing with discipline and continuing to invest in our technologies to capture the large opportunities ahead. With that, I'll turn the call over to Adam."
+  },
+  {
+    "speaker": "Adam Taich",
+    "role": "",
+    "text": "Thank you, Serge. I'll start by reviewing our financial results for the 3 months ended June 30, 2025, and will then provide further details on our outlook for the third quarter. All figures and growth rates provided will be on a year-over-year basis, unless otherwise noted. As Serge mentioned, the quarter unfolded largely in line with our expectations."
+  },
+  {
+    "speaker": "Adam Taich",
+    "role": "",
+    "text": "Total revenue for the second quarter was $172.9 million, up 13%. Excluding the license and royalty revenue from the settlement, revenue was $145.6 million, down 5%. Total consumables revenue was $122.2 million, down 1%. Chromium consumables revenue was $85.8 million, down 9%, primarily driven by lower average reaction prices. Spatial consumables revenue was $36.4 million, up 24%, primarily driven by Xenium consumables revenue."
+  },
+  {
+    "speaker": "Adam Taich",
+    "role": "",
+    "text": "Moving on to instruments. Total instrument revenue was $14.5 million, down 39%. Chromium instrument revenue was $5.7 million, down 35%, driven primarily by lower average selling prices. We implemented strategic discounts during the quarter as we partnered with customers who were navigating CapEx constraints. These discounts drove broader instrument adoption and an 11% increase in Chromium placements year-over-year. Spatial instrument revenue was $8.8 million, down 42%, driven primarily by fewer instruments sold. Services revenue was $8.5 million, up 47%, primarily due to an increase in Xenium service plans."
+  },
+  {
+    "speaker": "Adam Taich",
+    "role": "",
+    "text": "Looking at our revenue by geography, ongoing CapEx headwinds continued to persist globally. However, solid consumables performance contributed to sequential improvements in most areas. Excluding settlement impacts, Americas revenue was $78.9 million, down 15% from the prior year and up 7% sequentially. EMEA revenue was $34.7 million, down 7% from the prior year and up 9% sequentially. APAC revenue was $32 million, up 41% year-over-year and down 1% sequentially. As Serge mentioned, APAC benefited from a temporary pull forward in purchasing activity in China, as customers accelerated orders ahead of potential tariff changes. We estimate the revenue impact from that pull forward was approximately $4 million."
+  },
+  {
+    "speaker": "Adam Taich",
+    "role": "",
+    "text": "Turning to the rest of the income statement. Gross profit for the second quarter was $125.1 million compared to $104.2 million for the prior year period. Gross margin increased to 72% from 68% the prior year, primarily driven by higher license and royalty revenue. Excluding settlement impacts, gross margin was 67%. Total operating expenses for the second quarter decreased to $95 million compared to $146 million for the prior year period, driven by gain on settlement. Excluding settlement impacts, operating expenses were $135.7 million. Operating income for the second quarter was $30.1 million compared to an operating loss of $41.7 million in the second quarter of last year. Excluding settlement impacts, operating loss was $37.9 million. Net income for the period was $34.5 million compared to a net loss of $37.9 million for the second quarter of 2024. Excluding settlement impacts, net loss was $33.5 million. We ended the quarter with $447 million in cash, cash equivalents and marketable securities."
+  },
+  {
+    "speaker": "Adam Taich",
+    "role": "",
+    "text": "Turning to our outlook for the third quarter. We expect revenue to be in the range of $140 million to $144 million. This outlook takes into account approximately $4 million of revenue in China that was pull forward from Q3 into Q2 ahead of potential tariff changes. Excluding this pull forward, we expect Q3 revenue to be broadly in line with Q2 revenue, given the continuation of cautious customer spending behavior and ongoing capital equipment spending constraints. As we announced earlier today, we signed a definitive agreement to acquire Scale Biosciences for upfront cash and stock consideration of $30 million, plus contingent consideration that could become payable upon the achievement of certain milestones. This acquisition is subject to customary closing conditions. As Serge mentioned, we are excited about the strategic value of this acquisition, as Scale brings key inventions and technical capabilities that augment our innovative foundation within single cell. We do not expect this transaction to have a material impact on our revenue or operating expenses for the remainder of 2025. Our balance sheet remains strong, giving us flexibility to continue executing on our strategic priorities while investing in innovation and long-term growth. We believe we are well positioned to navigate uncertain market conditions and remain committed to staying agile and responsive as the environment evolves. With that, I'll turn the call back to Serge."
+  },
+  {
+    "speaker": "Serge Saxonov",
+    "role": "",
+    "text": "Thanks, Adam. Before we open it up for questions, I'd like to make a note of appreciation to our customers. The last 6 months have been a particularly trying time for many of you. While many of your challenges remain unresolved, your work and continued perseverance are an absolute inspiration to us at 10x. Progress in science is the ultimate public good. So much new knowledge and so much potential to improve the human condition is coming within our grasp. Your work is more important than ever. We will continue to root for your success and support you any way we can. And to our team, thank you. The current environment has been incredibly challenging. But it is during times of adversity that you can really tell what the team is made of. And by that measure, I couldn't be more proud of all of you. You have stayed focused, creative and relentless in the pursuit of our mission, regardless of what has been thrown at you. Remember too, that times of stress build strength. This is not the first time we have faced adversity, and I'm sure it won't be the last. Our team has only gotten stronger through time. I have more confidence than ever that we will solve whatever challenges lie ahead. After all, we're just getting started. With that, we will now open it up for questions. Operator?"
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "[Operator Instructions] Your first question comes from the line of Patrick Donnelly with Citi."
+  },
+  {
+    "speaker": "Patrick Donnelly",
+    "role": "",
+    "text": "Serge, maybe one for you just on the backdrop. I mean it sounds like in the prepared remarks, still a little bit constrained, not surprising there, particularly on the academic research side. Can you just talk about how the quarter progressed on that front, what the conversations look like? Obviously, a lot of volatility on the headlines around things like the NIH and what that's going to shake out to be. Did you sense any improvement as the quarter went? Where are we on the visibility side at this point? Just curious what you're hearing from customers and what the right expectations are on that front as we move forward. And again, if the certainty on the budget as we get closer to that will help a little bit or just how those conversations progressed during the quarter would help."
+  },
+  {
+    "speaker": "Serge Saxonov",
+    "role": "",
+    "text": "Yes. Thanks, Patrick. Yes. So as we said, it was certainly a dynamic environment over the past 6 months to say the least. The quarter overall at a high level, Q2 kind of transpired pretty similar to what we were contemplating at the last call. There was certainly a lot of different events. And I would say with customers compared to 3, 4 months ago, there was probably more optimism because there has been some arguably positive developments. At the same time, overall, things held pretty steady. customers when it comes to the substance of their spending, the substance of their grants have been very cautious, because the actual disbursement of funds has been quite slow. And the budgets are still very much in the early phases, and it's quite uncertain where they're going to be. And there's a continuous -- still continuous news flow of issues just coming out. I mean, just last week, we had a day when it looked like NIH wasn't going to be allocating any funds for an indefinite amount of time. Now that policy got overturned within that day, but that doesn't make people feel particularly confident about the future. There are things like ongoing files with universities. There's a proposal floating around, around multiyear grant, grant changes, other kinds of years. Again, some positive signs the bipartisan support for NIH, which wasn't clear earlier, is -- seems to be coming through now, but lots of uncertainty at this stage going forward as well. So we're going to have to kind of see how that evolves. And we'll kind of expect that Q3 will roughly evolve the way that Q2 has."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Your next question comes from the line of Dan Arias with Stifel."
+  },
+  {
+    "speaker": "Daniel Arias",
+    "role": "",
+    "text": "Serge, on the Scale deal, what is it that made this the right move and the right time for the move? And for customers that are looking for the lowest cost per sale as a part of a big study, will it be the Chromium kit or the Scale kit that best serves that need? How are you going to position these products for your customers?"
+  },
+  {
+    "speaker": "Serge Saxonov",
+    "role": "",
+    "text": "Yes. Thanks, Dan. Look, kind of stepping back on the strategic rationale here, like we've long said, there is tons of headroom in single cell, especially if you think about lowering costs and driving to higher scale. And if you look over the course of the past year, past several quarters, recently, the opportunity in a way is actually accelerating because of the emergence of AI and this increasing interest in building larger and larger scale models of biology using single cell, running these very large perturbation screens. And so that whole vision that we have had since the beginning really to drive single cell to higher scale, more routine use, lower prices, lower costs through that. That's what's driving -- that's kind of the overarching rationale behind the acquisition. It helps us to execute on that strategy. The acquisition itself is fundamentally a technology acquisition. It's meant really to broaden the capabilities of our existing and future products. And I would also point to that to kind of our track record of previous acquisitions, we've been consistently really good at identifying technologies and bringing them in and making really great products out of them that customers really love. And that's what we expect to see here as well. As far as the kind of the portfolio here, we are going to keep some of the Scale products on the market and certainly make sure that all of existing customers are satisfied. But in particular, what we're excited by is integrating this technology into our road map and delivering ever more value to our customers."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Your next question comes from the line of Kyle Mikson with Canaccord."
+  },
+  {
+    "speaker": "Kyle Mikson",
+    "role": "",
+    "text": "Congrats on the quarter and the acquisition. Congrats again, on Scale as well. Just to follow up on Dan's question about the acquisition. Sounds good about the -- your perspective why you did it. But is this deal like of an instrument-free solution kind of an admission that the Droplet-based architecture is not capable of scaling enough to address the needs of future single cell projects, large projects? And then secondly, when -- I mean, when will this contribution from Scale these products become more material? Could that become like a dominant technology in your portfolio over time?"
+  },
+  {
+    "speaker": "Serge Saxonov",
+    "role": "",
+    "text": "So like first of all, on the -- on your first question, like I would say not at all. Like we have really strong -- when it comes to instruments, we have really strong conviction that there is a huge value to having an instrument in a workflow. It affords really high precision, really great workflow, great quality of data robustness, all these things that customers love our products for. So -- and when you look to see what has been actually happening in the market, the instruments have not been at all a barrier for single cell. And we believe the big value here is actually integrating the technologies with our portfolio. The technologies are highly complementary, and it will allow us to push certainly the Scale technology and the innovations there will allow us to push scaling and the Doral technology further ahead. I would say as far as kind of the revenue impact, the near-term revenue impact is going to be minimal. And really, the kind of the overall vision here is integration of these capabilities into the broader portfolio."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Your next question comes from the line of Doug Schenkel with Wolfe Research."
+  },
+  {
+    "speaker": "Madeline Mollman",
+    "role": "",
+    "text": "This is Madeline Mollman on for Doug. Single cell consumables revenue was down in the quarter, but reactions were up. Can you give us any color on how you're thinking about the pricing headwind related to the new lower-cost product road map that you rolled out? And how long you think it will take you to work through that? And then could incorporating the Scale technology into the 10x portfolio exacerbate this?"
+  },
+  {
+    "speaker": "Serge Saxonov",
+    "role": "",
+    "text": "Yes. So thanks, Madeline. So let me maybe just kind of to zoom out a little bit and give context for the product transitions because we have multiple going on, on the Chromium side. First of all, there is a transition from a Next-GEM architecture to GEM-X, and that's well on its way. By the end of the year, we should be just about finished with that. And that's been going well. Customers are responding really well to GEM-X and all the great benefits from that architecture. We also have other products that we launched last year that around Flex and around on-chip multiplexing, which has multiple kind of dynamics kind of operating there. Many are opening up new use cases and new customers. So that's obviously accretive. For sure, some customers are converting from kind of higher-priced products to these new solutions. And some customers will never convert because they need the features in the other products. And so we do see those dynamics kind of playing out kind of in concert. And fundamentally, we believe that lower prices, like I've always said, lead to higher volumes, and there's tremendous amount of elasticity here in this market, in these fields, but this happens with a time lag. And overall, kind of high level, the price per reaction needs to be in the hundred of dollars rather than thousands to really kind of unlock a lot more experiments and a lot more samples. And that is what we're seeing. I would say that in general, the trends we're seeing are fundamentally encouraging, seeing the growth in reaction volumes. And that is especially given the challenges in the macro environment. And I would also say because of the challenges in the macro environment, actually getting to a net positive revenue net growth would take longer than it might otherwise have in the absence of those challenges. But overall, the fundamental trends are positive, and we do expect this to drive more growth, both ultimately in reaction and revenue."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Your next question comes from the line of Mason Carrico with Stephens Inc."
+  },
+  {
+    "speaker": "Mason Carrico",
+    "role": "",
+    "text": "Could you talk about the maturity or ramp of the Xenium sales force in Europe? How have you seen the sales funnel and conversion rates of new opportunities evolve over the course of 2025 now that, that team is in place?"
+  },
+  {
+    "speaker": "Serge Saxonov",
+    "role": "",
+    "text": "Yes, Jason. Yes, good question. So the team is fully in place. We had a number of people joined most recently. I would say it's kind of all of our commercial kind of reorganization. The Xenium CapEx team was sort of the last piece to pull in place, specifically in Europe. But now we have everyone in place and the people who are -- who signed up, who joined recently are ramping up nicely. What we're seeing as far as kind of execution has been -- certainly, it's been a big improvement relative to what we have seen before because of the focus, because of the expertise we now have in the company. The funnel management, the opportunity management have all been great, but all of this is happening on the background of a much more challenging CapEx environment. And so the way -- like what is -- what we end up seeing is that we are adding consistently more and more opportunities to the funnel, but the opportunities are taking longer and longer to close. And by and large, where they get stuck is funding and kind of in various configurations of funding challenges, whether the customer is just having more restrictions on funding that they thought they had or they need to find more funding than they would have maybe previously or there's just more scrutiny on these budgets. So I would say that's how sort of this dynamic is playing out. Again, we see both better kind of execution now that we have this focused team in place. And also, we are seeing continuous enthusiasm for the platform itself, what customers are doing, the feedback we're getting. So that -- those factors fundamentally make us quite optimistic, especially for -- as we kind of work ourselves through this environment and for setting us up really well for when we get through these macro challenges and get to the other side of it."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Your next question comes from the line of Dan Brennan with TD Cowen."
+  },
+  {
+    "speaker": "Kyle Boucher",
+    "role": "",
+    "text": "This is Kyle on for Dan. I wanted to go back to Scale again. Maybe on the technology side specifically, can you sort of just talk about what you saw as a unique attractive factor of the Scale technology versus maybe some other single cell assets that are out there? I guess what's so unique in your view about Scale? And how much incremental R&D do you think needs to go into that platform?"
+  },
+  {
+    "speaker": "Serge Saxonov",
+    "role": "",
+    "text": "So Scale, like -- kind of like I said earlier, we do a very thorough assessment of the technology landscape out there. And we have a track record of, I think, being -- having had success being in our assessments and in determining what technologies have particular promise and how they can be built into awesome products. In the case of Scale, there's really some really great inventions, really foundational inventions around combinatorial indexing, around quantum barcoding that make that company stand out that we're really looking forward to bringing into our portfolio. As far as R&D expenses to develop, integrate these products. I think this fits really nicely into our existing infrastructure and into our existing innovation engine. So we don't expect there to beat any material incremental costs."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Your next question comes from the line of Michael Ryskin with Bank of America."
+  },
+  {
+    "speaker": "Michael Ryskin",
+    "role": "",
+    "text": "I want to dig into a little bit some of the geo comments you made. You called out $4 million pull forward in China. Just always a question of how do you size that? How do you estimate that? What makes you confident, it's not a little bit less, a little bit more? And then beyond that, China overall, even if you back that out, still did really well, one of the better quarters you've had there for a while or I think better than any quarter you've had since 2023."
+  },
+  {
+    "speaker": "Serge Saxonov",
+    "role": "",
+    "text": "Yes, Mike, thanks for the question. So yes, a couple of things. You may remember that over the last couple of years, we've talked quite a bit about kind of changing our go-to-market model in China. And we did a lot to get closer to the customers, kind of change -- get closer to our service providers, their distributors, change the business structures there. And that has been bearing fruit. The business we're really close to customers. We have a really good pulse on both their decision-making and inventory levels. And we feel really good that we do have a really strong -- really tight pulse on their decision-making and in particular, sort of the issue around the tariffs. We heard from the customers specifically that they wanted to get those products into their hands ahead of any potential tariffs. It was -- and yes, we do think that $4 million is a very good solid estimate of that. We have very good visibility to the end market. And yes, I mean, on your other point, China is doing well. And again, I think partially it's a function of all the changes and all the work that we have made, that the team has made, and the team is doing really well over there. The underlying market dynamics there also are favorable, at least relative to what they were a couple of years ago."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Your next question comes from the line of Luke Sergott with Barclays."
+  },
+  {
+    "speaker": "Salem Salem",
+    "role": "",
+    "text": "This is Salem on for Luke. Just one on royalties from Bruker. Could you just talk about the structure of those royalties and the settlement? What's the percent or dollar amount that you'll get paid per unit of sales on that side, whether it's instruments or consumables and which instruments and consumables there, if you could clarify? Are there any potential minimum or maximum payment thresholds as well? And any other dynamics there would be helpful. And then kind of lastly on China, just piggybacking off of Mike's question there. Wondering if you expect this type of strength going forward into 3Q and 4Q. And that's it for me."
+  },
+  {
+    "speaker": "Adam Taich",
+    "role": "",
+    "text": "Yes. Let me take the Bruker question. First, in terms of the details, the rates and sort of that level of detail, we're not providing. But let me just give a little bit of a high level on sort of the structure and how this worked its way through the P&L. So first, $68 million cash payment. That's coming, $17 million over 4 quarters. It's important to note that the cash that you see in Q2 doesn't include the first of those 4 installments. So that is due here in Q3. $27.3 million of that $68 million was recognized in revenue in Q2. Of course, that came through at 100% margin. This is why we provided an adjusted gross margin number for you in the detail. And then there was close to $41 million that was recognized as a gain on settlement. So it's essentially a credit to OpEx. And again, part of the reason we transparently wanted to provide an adjusted number, so you could really see what baseline OpEx was looking like. It's also, I guess, the last thing I would note on that, when you think about the Q3 guide that we provided, it does not include the ongoing royalties, which is sort of the root of your question. It doesn't include that for Q3. And that is an area as you start to look at the tables in our financial reporting, license and royalty revenue is something that's specifically called out. So you can see sort of the onetime effects that are called out, but you'll also be able to see transparently where that running royalties or those running royalties from this settlement with Bruker and various other things that we've done along the way. I think just quickly on your question on China. Yes, it was close to 40%, roughly a 40% growth in China, even excluding the customer-driven acceleration of business related to tariffs. The team is executing -- just reinforcing what Serge said, team is executing very well. We're competing very well in those markets. I would expect, and that's part of the reason that we called it out as it related to our Q3 guidance that we are lower as a result of that pull forward in Q3, not just at the overall level, but obviously, that will be -- that's focused in China. But as Serge mentioned, we really think that's a 1-quarter dynamic from an inventory perspective, and we should see that business bounce back kind of the strength that we've been seeing as we work our way into Q4."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Your next question comes from the line of Lu Li with UBS."
+  },
+  {
+    "speaker": "Lu Li",
+    "role": "",
+    "text": "I wanted to -- wondering if you can comment a little bit on the order book in the quarter? And what is the order pattern that you have been seeing? And what is the visibility into the second half?"
+  },
+  {
+    "speaker": "Adam Taich",
+    "role": "",
+    "text": "Yes, I can take that. I mean I think for our business, given that we're providing quarterly guidance, I can speak to you about what we're seeing here in Q3. At the simplest level, we have confidence here as we're whatever, 5 weeks into the quarter, providing the number that we did. We're seeing mostly really a continuation of where we were in Q2. So continuing to see really good strength in spatial consumables, continuing to see really nice reaction volume growth as it relates to the Chromium consumables business and ongoing pressures are persisting on CapEx, more pronounced in the spatial side of things with the higher-priced Xenium analyzer, but also even on Chromium. And it's one of the things that we commented on in my script earlier was just the discounting and the work that we were doing in Q2 to get Chromium instruments into the hands of customers who are really excited to get kind of into our single cell ecosystem. But yes, I think at the simplest level, order book is looking consistent with the guide that we provided."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Your next question comes from the line of Matt Larew with William Blair."
+  },
+  {
+    "speaker": "Jacob Krahenbuhl",
+    "role": "",
+    "text": "This is Jacob Krahenbuhl on for Matt. Maybe just a more high-level one on the macro. It sounds like things have held fairly stable since last quarter in terms of the demand and funding environment. Maybe on margin, slightly better, but just wondering, as you've talked to customers in the field, what have you learned or heard from them that could provide the biggest unlock in spend? Is it just more clarity on the NIH budget for 2026, a release or pickup in certain paused funding or grants, maybe a green light from department heads on new project starts? And I mean, what do you think a realistic time line for an unlock like this is in the market? And what are customers telling you that they're kind of assuming for their budgets next year?"
+  },
+  {
+    "speaker": "Serge Saxonov",
+    "role": "",
+    "text": "Yes. So I mean, there's a range of input that we're getting from customers, depending on geography, depending on the particular institution. Different institutions have different issues, they are dealing with. But if I kind of synthesize at the very highest level, I would say probably 2 things are most important. One is budget clarity for next year. People are certainly waiting for that, and I think that has a lot of downstream effects. And then second, while the general kind of orientation, emotional orientation has gotten -- has been getting marginally better. The thing that has been particularly -- has been holding people back is that the disbursement of funds the actual money landing with people. And that has been held up across the board in a lot of instances. And I think kind of that seeing the grant, seeing the money actually go to customers would be another important variable that would give them comfort and give them confidence to start spending."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Your next question comes from the line of Rachel Vatnsdal with JPMorgan."
+  },
+  {
+    "speaker": "Jaden Rismay",
+    "role": "",
+    "text": "This is Jaden on for Rachel. Just a quick one for me. Digging into the placement assumptions, what are you assuming for placements between Visium, Xenium and Chromium next quarter and then in '25? And then on Chromium, what's the total pricing discount headwind you expect for next year for Chromium consumables."
+  },
+  {
+    "speaker": "Adam Taich",
+    "role": "",
+    "text": "Yes. I can take that one. I mean the reality is we don't break those 2 out specifically. What I can tell you, though, as it relates to Q3, given what we've embedded in guidance is that from an instrument perspective, from a spatial instrument, given that's where your question lies, we're anticipating that Q3 is going to look fairly similar to Q2. And I guess even though we haven't given a Q4 guide, we don't have any reason to believe that Q4 would look meaningfully different from where Q3 is. other than the fact that there typically is an uptick from Q3 to Q4 in CapEx. Again, not something in this environment, we've got great visibility into at this moment, but that has been more of a historical pattern. The CapEx environment continues to be challenged. But as Serge has mentioned, we've got a fantastic Xenium sales team that's out there selling. They've got really good robust disciplined pipelines. We continue to work those things through. So we feel very confident that we're out there competing for each of the placements out there in the market, and we'll continue to be aggressive to ensure we're winning business."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Your next question comes from the line of Tycho Peterson with Jefferies."
+  },
+  {
+    "speaker": "Unknown Analyst",
+    "role": "",
+    "text": "This is Lauren on for Tycho. Congrats on the quarter. Going back to the discount on Chromium during the quarter that you talked about, do you see maybe some visibility into kind of 2H and into 2026 if you're going to be continuing this discount or how the price overall is going to look evolving over time?"
+  },
+  {
+    "speaker": "Serge Saxonov",
+    "role": "",
+    "text": "Yes. So in terms of the discounting on Chromium instruments, like really, this is a function of the environment we're in, right? Customers have been dealing with all kinds of challenging challenges when it comes to purchases, especially around CapEx, all kinds of new limits, all kinds of new scrutiny on buying instruments. And we have been working creatively with our customers to allow them to buy instruments as long as there is also a material commitment in reagents to go along with it. And we do expect that as long as this kind of environment continues, we expect to keep working with our customers to keep doing that. And I also would want to emphasize that all of these kinds of interactions and deals are ultimately accretive to 10x as well. So it's in our interest -- economic interest as well to keep pursuing the strategy."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "That concludes our question-and-answer session. Ladies and gentlemen, this will conclude today's call. Thank you all for joining. You may now disconnect."
+  }
+]

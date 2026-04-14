@@ -1,0 +1,177 @@
+[
+  {
+    "speaker": "Unknown",
+    "role": "",
+    "text": "Full Conference Call Transcript"
+  },
+  {
+    "speaker": "Scott Bibaud",
+    "role": "",
+    "text": "Thanks, Mike, and good afternoon to everyone. In Atomera fourth quarter, we made great progress moving existing customers forward in our targeted segment, achieving very strong technical advantages, commencing new customer engagements in nontraditional areas and made our first foray into the world of government-funded collaborative developments, all positioning us strongly for commercial execution in 2026. Today, I will give you an update on all of our activities as we set the table for our business prospects in the new year. Technology news recently has been dominated by the rapid advancement of artificial intelligence and the associated semiconductor challenges that AI entails from the allocation of limited GBU supply, the enormous stresses put on our energy infrastructure and the associated surge in memory prices. Atomera's technology is positioned to assist with each of these industry issues as we deliver materials, which help to relieve each pain point. So let me start off with our recent exciting progress on Gate-All-Around transistor technology, which is the foundational architecture used in AI GPUs, CPUs and bleeding edge network components. The challenges with manufacturing these next-generation transistor devices at 2-nanometer and below are widespread and a concerted effort by the full ecosystem of industry players is required to manufacture them at scale with economically viable throughput and yield. This has been the focus of our recently announced strategic partnership with a large equipment OEM. Target customers or TSMC, Samsung and Intel, who are in production and [indiscernible], a new Japanese manufacturer, which is deep in development. Atomera's MST technology delivers some very compelling solutions in this space, in particular, for diffusion blocking. These tiny Gate-All-Around on transistors require extremely high phosphorotoping levels constrained to a very small area in the source and drain of the nanosheet. Under the intense semiconductor manufacturing environment, it's difficult to keep these [ dopant atoms ] in their proper positions and just a small amount of migration into the channel can severely impact performance, efficiency and yield. Atomera's MST is uniquely well suited to hold these roving phosphorus atoms in place. Although this MST characteristic is well proven in older technologies, implementing MST in devices that are around 2 nanometers, while maintaining its efficacy is something that industry players insist must be validated on silicon at real world scale, and we've been working hard to do so. Our target customers have been looking into two results to prove high-volume manufacturability. First, that MST can be effectively deposited into the actual nanosheet structure. And second, that the diffusion blocking characteristics are better than other methods, the industry is currently evaluating or using. Obtaining these results is not straightforward and requires access to advanced structures that are not generally available are very expensive and frequently proprietary. But we've been able to make steady progress with the help of Gate-All-Around customer and our strategic partner. Just in the last month, we obtained very exciting silicon results in both targeted areas, which we believe provides the definitive proof to drive adoption of MST at all four of the world's Gate-All-Around customers in the future. Not only can MST be deposited into those structures using existing tools and standard gases but it is a far superior diffusion blocking material than those currently used by the industry. We anticipate that we will be able to implement this technology with leading industry players over the next few quarters. Of course, we're quite excited by these recent results since our advanced node, our Gate-All-Around business segment has extremely high revenue potential. But we're also making convincing progress in our other customer areas, so let me provide a short update there. In DRAM, the technology road map is at a key inflection point as DRAM finally follows other logic and memory architectures in making better use of the vertical dimension. We are getting involved in offerings to enhance the performance of next-generation architectures in addition to solutions for products currently in production by the major memory suppliers. During the last few months, we have had two major solution offerings that we're working hard to validate since their market potential is very high. Notably, these are both wafer-based solutions, which are easier to adopt and test, avoiding many of the integration complexities required in some of our other applications. And with the current robust market for memories, we believe our potential customers will have a generous R&D budget to pursue these ideas. Atomera is currently conducting many wafer runs with our various customers. Most of these are processing through their fabs, so we will expect more information soon. One customer has just gotten preliminary results, which look promising. But we will get a better view when the final data is available in about a month. If the results look good, we'll be pushing for a joint development agreement and a license to advance this technology to production. In the RF-SOI space, our offering is very strong, considering that it can provide performance improvements for multiple important areas, including for the RF switch and the low-noise amplifier. Because we are working with so many of the key players in this industry, including foundry and fabless suppliers, we hope to drive adoption broadly. Again, in this space, our solution can be implemented with a wafer-based solution, meaning our customers can choose to deposit it on wafers themselves before starting their full manufacturing process or they can even buy RF-SOI MST wafers from a third-party supplier. Our license structure supports both of these approaches. In power, we are working with some very large players to ultimately be incorporated into their product offerings. Although we had a setback with ST last year, we continue to work with them on MST solutions across multiple business units. In addition to our traditional BCD business opportunities, this quarter, we had several other inbound interests emerge for power applications. Through our own internal analysis and modeling, we have uncovered an opportunity for MST entrench bets, which are an important component in optimizing energy efficiency in AI data centers. Our simulation show the potential for MST to improve performance by more than 40%. We got this to result after Christmas and already have a customer interested in kicking off development. Similarly, using our MST [indiscernible] simulation capability, we have demonstrated how MST can improve HBT devices, which are high-speed transistors frequently used for amplifying and switching signals in RF communication systems. Discussions are underway with a potential first customer in this application as well. In GaN, I'm happy to report that our first customer -- commercial customer has now started running wafers for GaN on silicon with MST technology. For many reasons, this is exciting. This large customer can grow their own GaN wafers and manufacture electrical devices on them, which means they can move even faster than our in-house work with Sandia National Labs in Texas State. So we expect that we will actually move ahead of our own internal development efforts over the next few quarters. Second, they are exploring GaN in both RF and power technologies. These independent efforts by multiple industry and scientific partners frequently can accelerate time to revenue, which is what we're hoping to accomplish. Last month, we announced that our GaN on Silicon concept paper had been approved to move to the proposal stage for a project with Power America to advance the state-of-the-art and wideband GaN materials. We announced this for a variety of reasons. First, we wanted to show the widespread interest from customers, the science community and industrial organizations for an MST solution for GaN on Silicon. Indeed, we've already received several letters of support for multiple future customers showing interest in this solution. Second, this concept paper was our first application for outside development funding. And although the funds sought for this first effort are modest, they put us in the pathway for a variety of future material development funding opportunities, which can provide us assistance going down the path we are planning to travel anyway. By engaging in these joint development opportunities, we are promoting our technology, receiving financial assistance and assuring a customer base all in one project. To summarize, the past few months have been an incredibly productive time in terms of technical development and the buildup of a variety of new customer opportunities that I believe will lead to business deal announcements later this year. Finally, as we close out 2025, let me give you a thought on -- a few thoughts on our accomplishments. Last year, we took our early development and simulation results on Gate-All-Around and converted it into what I now believe is our greatest company opportunity. We did that through working with a lead customer and with a strategic partner who is also a major equipment OEM. This is a significant departure from how we've approached the market in the past. The industry has a long history of relying on this OEM to deliver them material solutions for their problems. So we truly believe that their influence will help us to convert our recent strong technical results to licenses and revenue. We made technical breakthroughs in our other core markets to enable tiller applications like LNA for RF-SOI, a new architecture for BCD and next-gen DRAM solutions. Using AI, our development team has gotten better results more efficiently than ever before. We kicked off a record number of wafer runs without leading customers, initiated several new projects and solidified the business talent on our team, which should lead to further contract announcements over the course of this year. And much of this work was done, emphasizing wafer-based products, which we believe will result in faster time to revenue. In short, 2025 efforts have set us up well for commercial announcements later this year. With that, I'll turn the call over to Frank to review our financials."
+  },
+  {
+    "speaker": "Francis Laurencio",
+    "role": "",
+    "text": "Thank you, Scott. At the close of the market today, we issued a press release announcing our fourth quarter and full year results for 2025. This slide shows our summary financials. Revenue in 2025 was $65,000 and consisted of NRE fees for wafer deliveries and MST CAD licensing. Our GAAP net loss for the year ended December 31, 2025, was $20.2 million or $0.65 per share, compared to a net loss of $18.4 million or $0.68 per share in 2024. On a non-GAAP basis, 2025 net loss was $16.1 million or $0.52 per share. And 2024 net loss was $15.4 million or $0.57 per share. GAAP operating expenses were $20.9 million in 2025, which was an increase of approximately $1.5 million from $19.3 million of GAAP operating expense in 2024. The main driver of the increase in GAAP operating expense was a $1.1 million increase in stock compensation expense due to a change in our executive equity-based compensation. In Q1 2025, we implemented PSUs for executives which vest based on the performance of our stock price as compared to the Russell 2000 Index. These PSUs vest over 3 years whereas the options and time-based RSUs that had been granted to executives in prior years, vested over 4 years. Although the vesting period is shorter, executives only vest in PSUs based upon our stock price performance. With the exception of stock compensation expense, the drivers of GAAP and non-GAAP expenses are substantially the same. And therefore, the rest of my remarks will only refer to non-GAAP results. Please refer to the slide presentation for a reconciliation between GAAP and non-GAAP expenses. Total operating expenses in 2025 were $15.9 million, an increase of $429,000 from $15.4 million in 2024. R&D expenses increased by $794,000 from $9.4 million in 2024 to $10.2 million in 2025, primarily due to a $676,000 increase in outsourced engineering as we utilize various new device fabrication vendors replacing TSI semiconductor. G&A expenses decreased by $272,000 from $5.1 million to $4.8 million, primarily due to a $421,000 decrease in compensation expense, offset in part by $118,000 increase in professional fees for legal, IP and audit fees. Sales and marketing expense decreased by $94,000, reflecting lower head count but offset by some recruiting fees. Company-wide, our compensation expense, again, on a non-GAAP basis, excluding stock compensation, declined by $582,000 in 2025 compared to 2024. The reduction in compensation expense reflects our Board's pay-for-performance discipline. While we achieved important technical milestones in 2025, the Compensation Committee determined that payout of the full executive bonus was not justified by commercial progress made during the year. Therefore, the committee withheld approximately $669,000 in executive bonus compensation affecting the full executive team. The withheld amount may be earned in 2026, based on achieving rigorous commercial objectives. Turning to our quarterly results. Fourth quarter 2025 non-GAAP net loss was $3.3 million or $0.10 per share, compared to a net loss of $4.4 million or $0.14 per share in Q3 and a net loss of $3.9 million or $0.14 per share in Q4 2024. Non-GAAP operating expenses decreased by $1.1 million to $4.3 million -- sorry, from $4.3 million in Q3 2025 to $3.2 million in Q4, primarily due to the reversal of our bonus accrual, which occurred in Q4. Our balance of cash, cash equivalents and short-term investments on December 31 was $19.2 million compared to $26.7 million at the end of 2024 and $20.3 million at the end of Q3 2024. We used $14.9 million of cash in operating activities during 2025, $3.2 million of which was used in Q4. During 2025, we sold approximately 1.6 million shares under our ATM facility at an average price per share of $5.15, resulting in net proceeds of approximately $7.6 million after commissions and offering expenses. As of December 31, 2025, we had 32.4 million shares outstanding. After year-end, we've raised an additional $3.2 million of net proceeds by selling approximately 1.3 million shares at an average price of $2.47. For Q1, we expect to recognize revenue in the range of $50,000 to $100,000 from shipment of MST wafers to customers. Consistent with our usual practice, we are not providing revenue guidance beyond this quarter. Our 2025 non-GAAP operating expense was $15.9 million, which is well below the guidance range I provided last quarter. That's primarily due to reversing $669,000 of accrued bonus. For 2026, we will continue to aggressively control costs, and we've limited our expense growth to those areas directly related to revenue and near-term commercial progress. Those increases mainly consist of adding two senior go-to-market leaders. The first of those was our VP of Sales, who came on board in October, and the next will be a new Head of Marketing. The comparison of our planned spending in 2026 versus 2025 looks distorted by the potential payout this year of the executive bonus withheld from 2025. And because withheld amount will have to be accrued this year on top of accruing 2026 bonus. As a result, we expect our non-GAAP operating expense to be approximately $18.5 million in 2026. Now on paper, this is a 17% increase. But if normalized for the timing of the executive bonus accrual, it is more in the range of 8%. I would point out also that earning back deferred executive bonuses as well as earning 2026 bonus will require us to execute against aggressive, commercially focused milestones. With that, I will turn the call back over to Scott for a few summary remarks before we open the call up to questions. Scott?"
+  },
+  {
+    "speaker": "Scott Bibaud",
+    "role": "",
+    "text": "Thank you, Frank. The entire focus of our efforts in 2025 is getting to commercial agreements. The work we've done up to now have positioned us well to close on those opportunities and I look forward to sharing our successes with you as the year progresses. Mike, we will now take questions."
+  },
+  {
+    "speaker": "Mike Bishop",
+    "role": "",
+    "text": "[Operator Instructions] And right now our first question comes from Richard Shannon of Craig-Hallum. Richard, go ahead."
+  },
+  {
+    "speaker": "Richard Shannon",
+    "role": "",
+    "text": "Great, Mike. Can you hear me?"
+  },
+  {
+    "speaker": "Mike Bishop",
+    "role": "",
+    "text": "Yes. Yes, we can."
+  },
+  {
+    "speaker": "Richard Shannon",
+    "role": "",
+    "text": "Okay. Great. I'm in the airport here. A little bit of noise, so apologies for that. I don't have a ton of time before I got to run to my plane here. But let me ask just a few questions here. Scott, some really interesting statements regarding Gate-All-Around here. If I caught your comments correctly here, you said that you're expecting some -- I forgot the exact language you used, but some sort of important next steps here in the next few quarters. typically, you've been reticent to give somewhat definitive time frames for getting to major milestones and that you are here. So maybe give us a sense of why you're saying this. Your confidence level is clearly quite high. So help us understand this level of confidence and why?"
+  },
+  {
+    "speaker": "Scott Bibaud",
+    "role": "",
+    "text": "Yes, I would say on the Gate-All-Around technology, let me -- do you mind if I just share this slide to answer your question, Richard?"
+  },
+  {
+    "speaker": "Scott Bibaud",
+    "role": "",
+    "text": "Okay. On the right-hand side, you can see where MST is deposited around the source and drain structures. That is an incredibly hard thing to do. We've been talking with our Gate-All-Around customers about using MST to block dopant diffusion like where these little red arrows going to 1 of the biggest problems that people have is that the phosphorus opens get into these channels here. And the channels can only handle a couple of phosphorus atoms before they really start to agree very significantly, which affects yield and performance and so forth. So all along, they've been saying, okay, that's interesting. We know MST can block the phosphorus. But first of all, can you even deposit it in these tiny little structures that are -- they're 2 nanometers. And just to give you an idea, it takes about 100,000 nanometers to get to the width of a hair. That's how small these are. And so we had to prove that, and we spent a long time in the lab building devices like this to show that we can deposit MST with high quality there, and we have done that. Second thing is when we put that tiny layer of MST, does it really still block the phosphorus in that very, very small space because they're using something else right now that isn't very effective at blocking it, but are we better than that of the thing? And the answer to that question is, yes as well. We've recently just gotten the technology -- gotten the test data to prove that. And so it's early days. We've gotten that in the last month. We haven't been able to get out and talk to each of the data all around customers yet, but with our partnership, with our strategic partner, we really think we're going to talk to those guys, and they're going to immediately want to start testing that and trying it. So I'd say that's why my confidence is much higher. I would say we've rarely been as excited about some technology results inside the company as we are by what we have right now."
+  },
+  {
+    "speaker": "Richard Shannon",
+    "role": "",
+    "text": "Okay. Great deal. I'm sure I'll follow up a little bit on that one. Second other -- second question here is, you mentioned some -- you mentioned two things you have to prove, you are better than alternative solutions. We haven't really heard you talk about what other -- what your potential customers are considering here. Any way you can describe what those are, whether they're internal developments or something looking from other research organizations and to what degree you have visibility into how well those are doing as well?"
+  },
+  {
+    "speaker": "Scott Bibaud",
+    "role": "",
+    "text": "Yes. So they're not -- we're not really talking about some lineup of other technologies. But what the industry has tried using in the past is silicon arsenic, and silicon arsenic is effective at just putting a spacer between the phosphorus and the channel, but it doesn't really prevent the dopant diffusion very well at all. And so we've actually done a lot of testing of our MST technology against silicon arsenic and proven that we have vastly better diffusion blocking results. And the second thing is that the industry does not like to use arsenic in its manufacturing process -- that can help it. It's expensive to use and dangerous and therefore, offering a solution that removes that material is probably considered good by the industry."
+  },
+  {
+    "speaker": "Richard Shannon",
+    "role": "",
+    "text": "Okay. Fair enough. Very interesting here. My last question before I've got to run here, Scott, is you talked about a number of inbound calls here in the power space, which I know it's a space that you've been pushing for a while. And obviously, STMicro was aiming towards that before it's, call it, set back. You'd characterize this in the RF-SOI space a few years ago about having significant coverage, I think, more than half of the market share of the space here. Anyway to characterize how much of the power space you're covering with -- when you add up all these new companies that are coming to you? Any way you'd characterize that?"
+  },
+  {
+    "speaker": "Scott Bibaud",
+    "role": "",
+    "text": "Yes, it's a little bit harder. I think on RF-SOI, it's a pretty compact group of companies, and we feel very confident that we're working with the vast majority of them. On power, it's a much bigger market. It's a much more diverse customer base. So I wouldn't say we're working with most of the people, of course, -- we -- like we talked a little bit about the work we've done in TrenchFET when we did do some work on TrenchFET. We reached out to the leaders in TrenchFET and some other folks that we know are interested in advancing their technology and started talking to them and that worked well and the same thing with HBT. And so yes, I think we're expanding -- and then a lot of the GaN work that we're doing is in power as well. So we're talking to a lot of companies working in the power space, but I can't really give you -- I can't really say it's the vast majority in that case."
+  },
+  {
+    "speaker": "Richard Shannon",
+    "role": "",
+    "text": "I wasn't expecting the vast majority, but since the power space is very large. Well, I thought if there was -- I mean, if you even had 10% or 20%, that would be a pretty good coverage there. But I appreciate that characterization. I've got to jump out of line, Scott."
+  },
+  {
+    "speaker": "Scott Bibaud",
+    "role": "",
+    "text": "All right. Thank you, Richard."
+  },
+  {
+    "speaker": "Mike Bishop",
+    "role": "",
+    "text": "All right. Thank you, Richard. We have some questions coming in on the Q&A line. Although I will start with one, Scott, do -- can you give an update on the progress for your Vice President of Sales, Wei?"
+  },
+  {
+    "speaker": "Scott Bibaud",
+    "role": "",
+    "text": "Sure. Wei joined in October, and he's been coming up to speed and generally very, very helpful. I'm super enthusiastic about having someone who's pushing the team as hard as he is on the sales side. He's not only driving our efforts very specifically with existing customers and helping us find some new ones. He's also targeting a bunch of relationships that he's had in the past that he's bringing in with us and that does allow him to -- for us to engage with customers from kind of a different angle, and that's been very positive. So I think so far, so good."
+  },
+  {
+    "speaker": "Mike Bishop",
+    "role": "",
+    "text": "Great. And a number of questions about wafer activity at the fab. And as it relates to general activity level, how would you characterize that?"
+  },
+  {
+    "speaker": "Scott Bibaud",
+    "role": "",
+    "text": "Yes. So I think just starting earlier in the middle of 2025, we started to get a lot of customers coming in with wafer run simultaneously, which is quite busy for us to get them into our fab and deposit MST on a very high-quality basis and they get it back out, so they can start running the wafers. Today, we're still running things in our own fab, but for the most part, we've shipped out a lot of that stuff out to our customers. And now we're kind of in a waiting game, it takes 6 to 9 months for customers to run their wafers once we send them back to them and then get the test results, and then we'll review those and we'll figure out the next steps from there. But we really feel confident that what we have done in these runs is good stuff. We use MST CAD simulation software to figure out what we expect the outcome of these runs to be and we're really hopeful that our TCAD has been accurate. And if we get the results that we hope for, that our customers want to move forward into a productization effort."
+  },
+  {
+    "speaker": "Mike Bishop",
+    "role": "",
+    "text": "Okay. And generally speaking, I have a question here, and I think we've covered it on prior calls, but can you describe why selling blank wafers makes it easier to go to market?"
+  },
+  {
+    "speaker": "Scott Bibaud",
+    "role": "",
+    "text": "Yes, absolutely. Okay. I just showed this graphic of a Gate-All-Around device, and that is a really, really hard device to integrate into. But you can imagine when -- if we're trying to integrate into that device, the customer starts a starting wafer, they build up a whole bunch of structures. And then at some point, they make a hole in those structures and they say, okay, put your MST in here. And then we'll have to figure out how to fill around it and all of the different layers that surround it affected, right? That's called integration engineering, it's very challenging. But for many of our applications, we talk about wafer-based products, that would be when the customer buys a wafer, and they put MST on immediately, the blank wafer. And then they start processing their -- all of their -- the rest of that process on top of it. Therefore, we don't have to work through all those challenging integration issues that we would have for something that where MST gets deposited in the middle. So today, I talked about a couple of applications we're looking at for DRAM that would be wafer-based products, where we're shipping them to wafer. I mean, obviously, we won't be wafer manufacturers, but we would help the most solution that would go right on the wafer. RF-SOI, our solutions that are wafer-based products and also our gallium nitride, our GaN solutions are wafer-based products. So we've talked about it before. We're excited about those because they're easier to integrate, and therefore, we think faster time to revenue."
+  },
+  {
+    "speaker": "Mike Bishop",
+    "role": "",
+    "text": "Okay. Great. Here's another one. Can you please explain more about power saving in AI than how MST can help achieve that?"
+  },
+  {
+    "speaker": "Scott Bibaud",
+    "role": "",
+    "text": "Yes. So it's a lot of ways. I just showed you the Gate-All-Around transistor. So fundamentally, in semiconductor manufacturing like that, if you can bring a performance improvement, you could also probably trade that off to get lower power if you chose to do so. So that's one way. Another way is with our power solutions like on our BCD products or our TrenchFET products or our GaN products. Those are targeted for the type of electronics that will be developed that go into AI data center to help lower the power in the racks. So I'll give you one industry dynamics that we're tracking in AI data centers. They have historically used a 12-volt power supply on the rack. But recently, the industry is moving away from 12 volts and they're moving to 48 volts because 48 volts is 4x more efficient at saving power when you're providing power to the racks for all of those servers. The 48-volt power supplies use a lot of TrenchFET devices. That's the primary device that they use in there. And so we are trying to offer solutions for TrenchFET, so we can help to address that. The other thing is gallium nitride obviously, a very power-efficient devices. Those of you who have the small power supplies that go into your backpack or suitcase like they weren't able to do before you understand that those are much more efficient, and that's why we're trying to engage in gallium nitride."
+  },
+  {
+    "speaker": "Mike Bishop",
+    "role": "",
+    "text": "Interesting. Thank you. Okay. Can you give us an update on your JDA1 and JDA 2?"
+  },
+  {
+    "speaker": "Scott Bibaud",
+    "role": "",
+    "text": "Yes. So and JDA 1, I have to be careful that I'm not kind of divulging too much about what they're working on. But we continue to have to be working with JDA 1, and I'm hopeful that some of the technologies that I talked about today will kick them into high gear to -- in a business unit to kind of move that forward towards a production development effort like we've been waiting for, for -- honestly, for a little bit too long. JDA 2 is one of the customers that is currently running wafers with us. And so I can't say too much about exactly where they are right now, but they're running wafers."
+  },
+  {
+    "speaker": "Mike Bishop",
+    "role": "",
+    "text": "Great. And going back to the Gate-All-Around, is MST being evaluated at the customer's fab at this point?"
+  },
+  {
+    "speaker": "Scott Bibaud",
+    "role": "",
+    "text": "Yes. So we mentioned that we're working with one Gate-All-Around customer today who helped us -- so when I showed that structure, and I showed that we had to do deposits inside there, you really need to work with someone to get access to those wafers to try out things on those structures. And the good news is we have been working with one of the Gate-All-Around potential customers to evaluate MST today. So yes, we are in one of them. I hope to be in all four of them."
+  },
+  {
+    "speaker": "Mike Bishop",
+    "role": "",
+    "text": "Okay. And when do you expect an evaluation to be completed of the wafers."
+  },
+  {
+    "speaker": "Scott Bibaud",
+    "role": "",
+    "text": "For Gate-All-Around, it's very hard to say with some of the customers we're planning our visit to show them all this data that we have. We believe that the data that we have is good enough that they may not even require us to do deposition inside their Gate-All-Around structure because we've proven that we can physically do it. And then what we'd be trying to do is to convince those customers to install MST in their fabs and have their R&D team take over and start implementing this. How fast that will happen? It's hard to say, but I will say the people that are working on Gate-All-Around are working very fast -- and if they adopt, they're going to be pushing us as hard as we ever been pushed by a customer in the past."
+  },
+  {
+    "speaker": "Mike Bishop",
+    "role": "",
+    "text": "Okay. Great. And just one last question here is on how MST can help or improve quantum computing."
+  },
+  {
+    "speaker": "Scott Bibaud",
+    "role": "",
+    "text": "It's interesting. That's something we're working on right now. I don't really -- I can't really talk about the way that our MST technology will address quantum, but I can tell you that's something we're working very hard on right now. In the past, we had a theory about MST's ability to improve the purity and availability at a cheaper price of Silicon-28, which is a critical wafer type that's used for quantum wells. But we -- yes, that really just didn't pan out. So we're working on other technologies right now. And I hope we'll be able to talk to you guys about that later this year."
+  },
+  {
+    "speaker": "Mike Bishop",
+    "role": "",
+    "text": "And Scott, you can proceed with any closing comments."
+  },
+  {
+    "speaker": "Scott Bibaud",
+    "role": "",
+    "text": "All right. Well, I guess -- I want to just thank you all for joining us to hear the progress being made here at Atomera. Continue to look for our news, articles and blog posts, which are available along with investor alerts on our website atomera.com. Should you have additional questions, please contact Mike Bishop, who will be happy to follow up. Thanks again for your support, and we look forward to our next update call."
+  },
+  {
+    "speaker": "Mike Bishop",
+    "role": "",
+    "text": "Thank you. This concludes the Atomera Fourth Quarter Conference call."
+  }
+]

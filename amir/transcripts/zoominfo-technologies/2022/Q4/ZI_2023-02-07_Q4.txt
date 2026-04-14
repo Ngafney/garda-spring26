@@ -1,0 +1,476 @@
+Operator
+Good day, and thank you for standing by. Welcome to the ZoomInfo fourth-quarter and full-year 2022 financial results. At this time, all participants are in a listen-only mode. After the speakers' presentation, there will be a question-and-answer session.
+[Operator instructions] Please be advised that today's conference call is being recorded. I would now like to hand the conference over to your speaker for today, Jerry Sisitsky. Please go ahead.
+Jerry Sisitsky
+--
+Investor Relations
+Thanks, Luisa. Welcome to ZoomInfo's financial results conference call for the fourth quarter and full year '22. With me on the call today are Henry Schuck, founder and CEO of ZoomInfo; and Cameron Hyzer, our CFO. After their remarks, we'll open the call to Q&A.
+During this call, any forward-looking statements are made pursuant to the safe harbor provisions of U.S. securities laws. Expressions of future goals, including business outlook, expectations for future financial performance, and similar items, including, without limitation, expressions using the terminology may, will, expect, anticipate, and believe and expressions which reflect something other than historical facts are intended to identify forward-looking statements. Forward-looking statements involve a number of risks and uncertainties, including those discussed in the Risk Factors section of our SEC filings.
+Actual results may differ materially from any forward-looking statements. The company undertakes no obligation to revise or update any forward-looking statements in order to reflect events that may arise after this conference call, except as required by law. For more information, please refer to the cautionary statement on the slides posted to our investor relations website at ir.zoominfo.com. All metrics on this call are non-GAAP, unless otherwise noted.
+A reconciliation can be found in the financial results press release or in the slides posted to our IR website. With that, I'll turn the call over to Henry.
+Henry Schuck
+--
+Founder and Chief Executive Officer
+Thank you, Jerry. And welcome, everyone. A year ago, you joined me on our earnings call as we talked about our expectations for 36% revenue growth for 2022. A lot has happened between that initial guidance and now.
+And even in the face of a more challenging economic environment, we continuously raise our guidance as we move through the year and delivered 47% revenue growth in 2022. We delivered that growth efficiently with an adjusted operating income margin of 41% for the year and more than $450 million in unlevered free cash flow. In the fourth quarter, we delivered over $300 million in revenue with a 42% adjusted operating income margin, which was up 100 basis points sequentially and up more than 350 basis points from Q4 last year. Structurally, we are a profitable company, and we remain committed to driving top-line growth while expanding profitability and efficiently growing free cash flow.
+This combination of growth and profitability differentiates us from many other growth-oriented software companies that have struggled with a clear path to profitability. We have always operated with discipline, efficiency, and a focus that allowed us to generate profitable growth, and we will continue to do so. While these are good results, we can be doing better. Our customers are challenged by the current state of the economy.
+Within our largest vertical software, companies are laying off employees and cutting back spending. Many companies, regardless of size or vertical, have materially lower growth prospects than they did a year ago. All companies are looking to do more with less. We remain early in the digital transformation of B2B sales.
+And while our platform drives meaningful efficiencies for companies in all industries as our customers reduce their sales budgets and headcount, they take a harder look at all their spending. As we had indicated earlier in the year, the more challenging economic environment has impacted our upsell and cross-sell motions with increased customer scrutiny causing an elongation of sales cycles. The economy has had a direct impact on our business to be sure. But to continue to grow and scale through this time, we will be intensely focused on four priorities: surrounding ourselves with the right people, investing in enterprise solutions, delivering delightful product experiences, and executing with excellence and efficiency.
+I continue to dedicate my energy to those priorities every day. And as I have communicated to everyone in the company, if it is not driving us forward across these four initiatives, it is not a priority. With regard to the first priority, I have made significant changes to the leadership team over the last few months. We announced last week that our CTO, Nir Keren, is leaving ZoomInfo.
+Nir joined ZoomInfo in its start-up phase and has helped us grow the engineering team from its very earliest days. I want to thank him for being a strong leader and a great partner. The new executives we have hired bring strong relevant experience, leading great teams, driving customer success, and building highly scalable, world-class products. These leaders and others across the organization will help create the foundation we need to scale for the next phase of growth.
+First, Ali Dasdan joins us as our new chief technology officer from Atlassian, where he was head of engineering for work management, Confluence, Trello, Jira and Atlas. He is coming from an organization that is universally recognized as having the best product-led growth motion supported by a remarkably well integrated underlying platform, and he brings more than two decades of experience scaling global technology companies. We are excited to have him join the company and lead our innovation and development efforts. Also, Dave Justice is joining ZoomInfo as our chief revenue officer.
+Dave has more than two decades of experience leading global sales in the software space, serving as chief revenue officer of PagerDuty for the past three years. Between PagerDuty, Salesforce, and Cisco, he has helped sales positions at all levels of the organization with a particular focus on enterprise sales. We need the right people in the right roles focus on the things that matter most. And I believe we have that now.
+With regard to the second corporate priority, investing in our enterprise business, we recently surveyed thousands of ZoomInfo users to understand the impact our tools and data have on their day-to-day productivity and the value that they derive from the platform. Their responses underscore just how essential we are at a time when companies are trying to hit their targets with fewer resources. 67% of sales leaders reported immediate top-line revenue gains after implementing ZoomInfo. Sales development representatives cut their time researching prospects in half.
+Account executives reduced deal cycles by nearly 40% and increased win rates by more than 45%. STRs, AEs, and account managers increased quota attainment by more than 50%, and the average quota attainment with ZoomInfo was more than 90%. 70% of marketers reduced spend due to more accurate targeting, and the average recruiter using ZoomInfo reduced the time to higher by 20%. These results tell us that the ZoomInfo platform is mission-critical for our customers and delivers tremendous ROI.
+With our platform, marketers are able to reduce spend and target leads more accurately. Sales teams spend less time researching and more time selling. And with more accurate data, more than double the response rates. Recruiters find better candidates and get them in the door faster.
+When our customers win, we win, and we will continue to ensure their success as we cement ZoomInfo as the essential revenue operating system for efficient businesses. Our net retention rate, which was 104%, was a disappointment this year and, in large part, reflected the more difficult operating environment. The biggest driver in terms of lower net retention in 2022 was a lower level of upselling as the continued elongation of sales cycles impacted our rep's ability to sell more seats and more data into our install base. Customers continue to renew as our gross retention rate remained in the 90s, but upsell opportunities were diminished as customers look to cut costs, particularly in the second half.
+We ended the year with 1,926 customers who spend more than $100,000 annually with us, up approximately 30% year over year, and advanced functionality now represents 31% of ACV. There is a tremendous opportunity with enterprise customers, and we're making it even more of a priority to unlock that opportunity. During the quarter, we closed transactions with leading organizations like Amazon Web Services, Bank of the West, Barclays, Cigna, Edward Jones, Goodwin Procter, FedEx, Panasonic, ServiceNow, Sodexo, and Waste Management. Companies are increasingly looking to work with fewer vendors and consolidate their tech stack.
+They choose ZoomInfo because our integrated platform aligns sales and marketing teams to optimize conversion, and it can expand with them as they grow and develop a more sophisticated go-to-market strategy. As examples, a leading provider of human capital management solutions traditionally only leveraged company data from ZoomInfo to drive their territory planning activities. After a SalesOS pilot that delivered significant ROI in a short amount of time, they rolled out SalesOS to thousands of their account executives expanding their use of the platform. One of the largest financial institutions in the world doubled its investment in ZoomInfo, adding more SalesOS seats and is now integrating our data into Salesforce for their commercial banking unit, while leveraging intent data to improve their targeting efforts.
+We are focusing our 2023 development efforts on extending our lead in data excellence, delivering a scalable enterprise experience, developing and training customers on high-impact plays that drive go-to-market efficiencies directly from the ZoomInfo platform and investing behind more product-led growth opportunities. We will continue to invest in accuracy and coverage to further extend our data leadership and optimize our search experience. We will also invest in more robust bidirectional syncs with CRMs and APIs to meet the needs of our enterprise customers and in holistic signals and unified scoring mechanisms to meet the needs of sales and marketing teams that use ZoomInfo as their shared source of data truth. When I think about building a world-class enterprise experience, it comes down to the scalability and simplicity of our product to create a delightful experience for users.
+As we move upmarket to serve larger global enterprises and deliver predictable and efficient performance for our customers, our product focus is shifting to driving scalability, automating workflows, and simplifying everyday tasks for our users and their admin. We will invest more in enterprise-grade settings and permissions for admins, simplified account setups and integration in product analytics and performance dashboards for leadership, and a better self-guided product onboarding experience to help unlock value along the user journey. In the recent G2 Winter 2023 Grid Reports, ZoomInfo ranked in first place across 29 grids and was listed as the No. 1 enterprise solution in eight different sections.
+For the eighth straight quarter, we led all four of the sales intelligence, marketing account intelligence, accounts data management, and lead intelligence enterprise grids. We are also doubling down on our investments in MarketingOS. We will continue to build out our advertising capabilities related to our proprietary B2B demand side platform, build deeper account-based marketing functionality, expand reporting capabilities, and invest more in unified scoring mechanisms. MarketingOS is a common upsell pathway after customers have successfully implemented SalesOS, and we are seeing more traction with sales and marketing teams who want to share the same foundational data, tool, and processes.
+We will also invest heavily in supporting our customers to execute high-impact go-to-market plays. Customers are looking to do more with less, whether that means with smaller teams or fewer advertising dollars. Being able to take timely action on signal is key to successful and sustainable go-to-market motion. We will continue to invest in both user level workflows enabled through SalesOS and MarketingOS and organizationwide workflows and workflow management through operations OS.
+Scalable workflow supported by our RingLead and DaaS offerings have been integral for companies looking to become more efficient and automate time-consuming motion. In closing, I'm confident that we have the team, the platform, and the strategy to win this market. A huge opportunity remains ahead of us, and we are well positioned to capitalize on it as more and more sales teams use data and insights to find, acquire, and grow customers. Our customers are generating significant ROI, and our users are reporting phenomenal results as they leverage the ZoomInfo platform.
+We've added a number of leaders who will continue to help us grow and scale and who bring a wealth of enterprise experience and a customer-first mentality to the organization. As I mentioned last quarter, while we can't control the macro, we can control how we manage the business. I am all in. The team is all in.
+And we're ensuring that we're consistently delivering the results that you have come to expect from us. While Cameron will be sharing our specific guidance for next year, I will share with you the framework we use in developing our guidance. We have assumed that the economic environment does not get better. And at the low end of the guidance, we have assumed that things get progressively worse.
+We understand that while our new leadership is great for the long term, we may see some disruption while the team gets up to speed. We remain steadfast in our belief that we will continue to expand profitability, and we'll continue to lead with efficiency, focusing on compounding free cash flow growth over the long term. With that, I'll hand it over to Cameron.
+Cameron Hyzer
+--
+Chief Financial Officer
+Thanks, Henry. In Q4, we delivered revenue of $302 million, up 36% year over year, which implies 5% to 6% sequential growth compared to Q3 2022. Excluding the impact of products acquired within the last 12 months, our organic revenue growth for the quarter was 34%. Adjusted operating income in Q4 was $127 million, a margin of 42%, up 100 basis points sequentially and up 360 basis points compared to the fourth quarter of last year.
+For the full year, we delivered revenue of $1.1 billion, up 47% compared to 2021 and meaningfully better than our initial full-year guidance of 36% growth. Organic revenue growth in 2022 was 41%. Adjusted operating income was $448 million, a margin of 41%, and unlevered free cash flow was $457 million. We were GAAP profitable for the year with net income of $63 million in GAAP EPS of $0.16 per share.
+Non-GAAP EPS was $0.88 per share. We are initiating guidance for 2023 with revenue growth at 17% at the midpoint, with an implied AOI margin of 41%, up 50 basis points compared to 2022. For 2023, we expect to deliver $512 million in unlevered free cash flow at the midpoint of guidance, which implies more than $450 million in free cash flow for the year. It is no secret that the tech sector is seeing layoffs.
+And companies, regardless of vertical, are being pressured to cut costs and drive efficiency. We believe that our focus on driving an efficient go-to-market motion for our customers and the strong and near-immediate ROI from our platform provides across verticals has enabled us to continue to deliver a leading combination of revenue growth and profitability even in this more challenging environment. Longer sales cycles and the increased time our reps are spending on renewals has impacted our ability to upsell and cross-sell existing customers, which was a meaningful driver of growth and net revenue retention expansion in the past. As Henry indicated, net revenue retention for the year was 104% as we operate in this more challenging economic environment.
+Bridging from our prior net revenue retention, the biggest driver, approximately 10 points of the change was driven by reduced upsell. Similar to many other software companies, our sales reps continue to spend more time on deals and renewals than they have in the past, limiting their ability to drive more upsell opportunities with existing customers. In addition to adding more capacity, we have shifted account loads, reallocated resources to hire potential customers, and automated low-end tasks, creating the potential to improve efficiency. While we believe these efforts will yield positive results, we are cognizant of the ongoing macro challenges and acknowledge that our improvements could be offset by further deterioration in buyer sentiment and behavior.
+As a result, we think it is prudent to model net revenue retention at lower levels for the foreseeable future. New customer additions remain the larger driver of revenue growth in 2023, and our expectation is that will continue to be true in 2023. International customers contributed 13% of revenue in the quarter, which grew 49% relative to Q4 2021. International markets are seeing a similar and, in some cases, worse economic environment relative to the U.S.
+During the year, we grew our employee base approximately 30%, which was lower than revenue growth. In the second half, we intentionally moderated the pace of headcount growth, raised the bar with respect to performance, and eliminated some positions. As a result, we are currently at a headcount level below where we ended September. In 2023, we expect to realize operating leverage in the business as we continue to grow our overall team less quickly than revenue while focusing on adding sales capacity.
+Turning to cash flow. Operating cash flow in Q4 was $120 million, which included approximately $6 million of interest payments. Unlevered free cash flow for the quarter was $122 million, or 96% of adjusted operating income. For the full year, unlevered free cash flow was $457 million, or 102% of adjusted operating income, yielding a margin of 42%.
+Going forward, we expect unlevered free cash flow conversion in the range of 95% to 100% for the year. With respect to the balance sheet, we ended the fourth quarter with $546 million in cash, cash equivalents, and short-term investments. At the end of Q4, we continue to carry $1.25 billion in gross debt, all of which has fixed or hedged interest rates, with about half of that coming due in 2026 and the remainder coming due in 2029. Additionally, we successfully transitioned from LIBOR to SOFR during the quarter.
+We again drove an improvement to our leverage ratios with a net leverage ratio of 1.5 times trailing 12 months adjusted EBITDA and 1.3 times trailing 12 months cash EBITDA, which is defined as consolidated EBITDA in our credit agreement. This represents approximately a full-turn improvement from the beginning of the year. With respect to liabilities and future performance obligations, unearned revenue at the end of the year was 420 million. And remaining performance obligations, or RPO, were 1.1 billion, of which 842 million are expected to be delivered in the next 12 months.
+We believe that calculated billings, bookings, and RPO are imprecise metrics to assess in-period activity and forward momentum. Because of the inherent noise in those metrics, we focus on days adjusted sequential revenue growth, which was 5% in the fourth quarter. As we move to guidance, we have developed a prudent set of assumptions. The low end of guidance includes an expectation that there is a further deterioration of the macro environment and buyer sentiment in 2023, as well as some near-term disruption as we onboard new leaders.
+With that, I will provide our outlook for the first quarter and initial outlook for the full-year 2023. For Q1, we expect revenue in the range of $299 million to $301 million, reflecting the fewer days of recognition, revenue recognition, in Q1 relative to Q4. We expect adjusted operating income in the range of $118 million to $120 million and non-GAAP net income in the range of $0.21 to $0.22 per share. Our Q1 guidance implies year-over-year revenue growth of 24% and an adjusted operating income margin of 40% at the midpoint of guidance.
+We are providing initial full-year 2022 guidance as follows. We expect revenue in the range of $1.275 billion to $1.285 billion, adjusted operating income in the range of $523 million to $533 million, and non-GAAP net income in the range of $0.98 to $1 per share based on 418 million weighted average diluted shares outstanding. For unlevered free cash flow, we expect to generate between $507 million and $517 million. Our full-year guidance implies 17% revenue growth at the midpoint and both adjusted operating income margin and unlevered free cash flow margin at or above 40%.
+With that, let me turn it over to the operator to open the call for questions.
+Questions & Answers:
+Operator
+Thank you. One moment while we prepare for our Q&A session. First question that I have is coming from Mark Murphy of JPMorgan. Your line is open.
+Mark Murphy
+--
+JPMorgan Chase and Company -- Analyst
+Yes. Thank you very much. So, I wanted to drill in just given your exposure to the software vertical, I believe it's around 40% of ARR. What are you embedding into the guidance there? In other words, do you assume that this wave of layoffs continues to intensify through the year? We hear of SDR teams being let go and that that would put more pressure on seat expansions into the software vertical.
+Or do you see a scenario where perhaps that would kind of level off sometime in the next couple of quarters? And then I have a quick follow-up.
+Cameron Hyzer
+--
+Chief Financial Officer
+Yes. Thanks, Mark. And certainly, our guidance contemplates that we continue to see a challenging macro environment, and I think that would be continuing to see, you know, layoffs occur. We did experienced a bunch of that in Q4, as I'm sure you can imagine, and the guidance assumes that things will get worse as we go through the year.
+Mark Murphy
+--
+JPMorgan Chase and Company -- Analyst
+OK. As a follow-up that we had heard some feedback that seat growth is obviously very, very sluggish, very challenged out there broadly across the entire software vertical. But there are cases where companies are continuing to consume kind of the bulk credits or the data credits. Is that something that aligns with your observations? Or do you think the trajectories are pretty similar if we toggle between the seat growth and the bulk credit growth?
+Henry Schuck
+--
+Founder and Chief Executive Officer
+I think that when you look at the -- look internally at the results, the bulk credit usage is performing better than the seat growth or the NEC downsell that we see. And part of our strategy for 2023 has been to focus on our Data as a Service offerings, our RingLead plus enrichment offerings, our data bricks that are available inside of Snowflake and Google BigQuery and Amazon, AWS. Those are performing better in this environment.
+Mark Murphy
+--
+JPMorgan Chase and Company -- Analyst
+OK. And sorry, one final question for you. Cameron, I believe you're guiding above actually on the unlevered free cash flow for 2023. I know it's above our model.
+Could you remind us what is it that is underpinning your ability to preserve margin like this and to drive free cash flow better than the rest of the industry even when we have such challenges out there in the environment?
+Cameron Hyzer
+--
+Chief Financial Officer
+We are continually focusing on managing the business and driving kind of better margin. Overall, I think our expectation is that operating income as a percentage of revenue will increase by about 50 basis points in 2023. We are expecting a little bit less free cash flow conversion. But, overall, obviously, we're laser focused on continuing to be efficient and drive efficiency in the business, which has been a core thesis of ours for -- since I've been here.
+Mark Murphy
+--
+JPMorgan Chase and Company -- Analyst
+Excellent. Thank you very much.
+Operator
+Thank you. One moment while we prepare for our next question. And our next question will be coming from Elizabeth Porter of Morgan Stanley.
+Elizabeth Porter
+--
+Morgan Stanley -- Analyst
+Thank you so much for the question. I first like to ask just about the management changes. Can you provide some more clarity on what Dave is expected to change within the sales organization? And how we should think about the impact from disruptions? Is it something that might take us the quarter to work through, or is it going to extend through a greater period of time? Thank you.
+Henry Schuck
+--
+Founder and Chief Executive Officer
+Yeah. So, we're super excited about having Dave here. If you followed his tenure at PagerDuty, Dave was known for building a really strong land-and-expand motion and rearchitecting that business for growth. He has a long tenure of enterprise leadership, and that's an area where we believe we have a tremendous amount of opportunity.
+So, where we think we're going to get quick impact from Dave is really driving that land-and-expand motion within our customer base and really driving our opportunity within the enterprise. We're especially excited about that. From a timing or a disruption perspective, we're hopeful that Dave hits the ground running quickly, and he's making an impact right away. That being said, we're being really conservative about that impact.
+And when we guide forward, we're assuming some time of disruption before we're feeling the full impact of his tenure here.
+Elizabeth Porter
+--
+Morgan Stanley -- Analyst
+Got it. And then just as a follow-up, I think that the headwinds on kind of the expansion of seats are pretty well understood. But I was hoping if you could give some more color on just the top-of-funnel demand trends and changes over the last three months and kind of what the outlook on particularly the new customer side is that's incorporated into guidance.
+Cameron Hyzer
+--
+Chief Financial Officer
+Sure. So, with respect to guidance, we are expecting that the environment becomes more challenging in 2023. And that includes both the customer side, as well as a new sales side, where we're expecting flat to lower new sales in '23 versus what we what we had in 2022. I think from a pipeline perspective, we continue to see more pipeline than we've ever had, and win rates are actually modestly starting to improve if we look at Q4 relative to what we've seen previously.
+Elizabeth Porter
+--
+Morgan Stanley -- Analyst
+Thank you.
+Operator
+Thank you. One moment while we prepare for our next question. Our next question is coming from Raimo Lenschow of Barclays. Your line is open.
+Raimo Lenschow
+--
+Barclays -- Analyst
+Thank you. Could we talk a little bit about the seasonality that you guys are expecting for the year? So, the issue on the kind of missing upsell or less upsell is kind of something that should kind of play out as people come up for renewal. So, should I just kind of think about that that's kind of being like a Q1, Q2, Q3, Q4 until you go through this big one year of renewals? And then are we kind of there? Or is there the other factors we should think about?
+Cameron Hyzer
+--
+Chief Financial Officer
+So, I think when you think about seasonality, Raimo, I think that there's potential upside as we lap people that have maybe down sold because they went through a restructuring of their firm or down sold for another reason as we get into the second half of the year. But that's not explicitly contemplated in terms of our guidance, so I don't -- we don't see evidence of that happening yet. And certainly, while it may be upside, I wouldn't -- we're not counting on that being a big driver of growth this year.
+Raimo Lenschow
+--
+Barclays -- Analyst
+Yeah. And then if you think about the -- obviously, we kind of have like every week almost or every day like an announcement where people are looking at their internal kind of cost internal investment levels, etc. You obviously as -- Henry, as you said, you were always kind of much more profitable and much better build. Like how do you think about this dynamic about like revisiting some of the stuff internally? Thank you.
+Cameron Hyzer
+--
+Chief Financial Officer
+We have a process where we do revisit our kind of trajectory and plans on a monthly basis and make bigger moves on a quarterly basis. So, yeah. I think that's a big part of the reason why we were able to look at our business as we were exiting Q2 and into Q3, adjust many of our kind of hiring plans and investments and drive to an improvement in margin as we got through to the end of the year.
+Raimo Lenschow
+--
+Barclays -- Analyst
+OK, thank you.
+Operator
+Thank you. One moment while we prepare for our next question. And our next question will be coming from Siti Panigrahi of Mizuho. You can go ahead.
+Your line is open.
+Siti Panigrahi
+--
+Mizuho Securities -- Analyst
+Hi. This is Siti Panigrahi. Thanks for taking my question. Just want to ask on NRR, 104%.
+So, looking at that upsell opportunity, Henry, what can you do to improve the upsell opportunity? Are you seeing the demand? Is it more on the company go-to-market strategy changes that can drive demand? Or what's your view on upsell -- driving more upsell given the RevOS platform you built last couple of years?
+Henry Schuck
+--
+Founder and Chief Executive Officer
+Yeah. I think the -- part of the way that we're thinking about this is where do our -- where do we see the most opportunity within our customer base. And we see a tremendous opportunity in the enterprise. We see it around our MarketingOS products and our DaaS product.
+And so, really making sure that our organization, our go-to-market organization, is designed to go after those opportunities is how we're thinking about it. And so, we've made a number of shifts in the back half of the year to make sure that we're resourced to drive data as a service, to drive MarketingOS, which are higher dollar ASPs into that enterprise and upper end of the mid-market customer base. We think that will drive efficiency and will use our resources the best. When our customers buy our MarketingOS platform, the ASP is over 5x our average SalesOS pricing.
+When our prospects by our MarketingOS platform, the ASP is over 3x our SalesOS pricing. And so, it's looking for opportunities where the return on our resource investment is the highest and making sure that we have our resources dedicated to those areas.
+Siti Panigrahi
+--
+Mizuho Securities -- Analyst
+And thanks for that color. And when you think about growth opportunity, where does international expansion stand? What are you seeing right now on the international front?
+Cameron Hyzer
+--
+Chief Financial Officer
+We continue to have a strong international team that's driving new business and expansion. But certainly, I think there are areas particularly we were most focused in Europe where the economic environment might be more challenging than in the U.S. So, I think that long term, there's a real opportunity for international to be a much larger percentage of overall revenue, but that's not something that I think we see in the short term.
+Siti Panigrahi
+--
+Mizuho Securities -- Analyst
+Great. Thank you.
+Cameron Hyzer
+--
+Chief Financial Officer
+Thank you, Siti.
+Operator
+Thank you. One moment while we prepare for our next question. And our next question will be coming from Brad Zelnick of Deutsche Bank. Your line is open.
+Brad Zelnick
+--
+Deutsche Bank -- Analyst
+Hi. Can you guys hear me?
+Henry Schuck
+--
+Founder and Chief Executive Officer
+Yes, we can.
+Brad Zelnick
+--
+Deutsche Bank -- Analyst
+Excellent. Thank you so much for the question. First for you, Cameron. Just if we look at the Q1 sequential guide, I believe you've guided to 2% sequential growth, days adjusted.
+So, just curious, what trends are you seeing in January that inform your view? And if anything has really changed or downtick in terms of your view into customer budgets this year?
+Cameron Hyzer
+--
+Chief Financial Officer
+Yeah. So, I think there are two things. January has gone reasonably well. We actually had less change in linearity with respect to Q4, where there was less activity in the last couple of weeks of the year that is partially impacting Q1 as well.
+And additionally, certainly, Q1 is the kind of time frame where we are at least contemplating some disruption from the management changes that we've executed. And, therefore, I think we want to make sure that we're prudent with respect to the guide there as well.
+Henry Schuck
+--
+Founder and Chief Executive Officer
+I would add that our pipeline in January was the strongest it's ever been. We generated more MQLs than we ever have in our history. So, there's real demand out there in the market for our products. But, ultimately, what we're ending up seeing is customers are waiting.
+They're not making purchase decisions at the level -- the velocity levels as they were a year ago. But there is real demand out there. We're generating it. We're generating that pipeline.
+And so, we'll continue to do that and feel like as the uncertainty phase will be in a really great position to accelerate through that.
+Brad Zelnick
+--
+Deutsche Bank -- Analyst
+That's helpful color. And, Henry, maybe a follow-up for you. Your message has been fairly consistent to say that the headwinds you faced to date are macro related, which makes complete sense. But now you're bringing in a new CRO from the outside, which you're saying could potentially be disruptive.
+Why is now an external CRO the right hire, especially, by the way, given your unique go-to-market? You got somebody externally that's going to bring their experiences. And I guess what's the risk or opportunity, frankly, to modify your go-to-market, under Dave, to be more like some of the other great companies he's worked for in the past?
+Henry Schuck
+--
+Founder and Chief Executive Officer
+I think the big thing that we know today is that there is a real growth opportunity within our enterprise customer base. Today, we have 35,000 customers, and we're driving real growth across our enterprise customers. But when we look within the enterprise, we think we can significantly accelerate that. And so, bringing in a chief revenue officer who has a ton of experience within the enterprise, this felt like the right time to do it.
+We see that segment as the biggest growth opportunity, and we wanted to bring somebody in who had significant experience in that land and expand motion and especially across the enterprise.
+Brad Zelnick
+--
+Deutsche Bank -- Analyst
+Thank you so much.
+Operator
+Thank you. One moment while we prepare for our next question. And our next question will be coming from Brian Peterson of Raymond James.
+Brian Peterson
+--
+Raymond James -- Analyst
+One for Cameron. Just given the magnitude of the kind of upsell, down-sell dynamic of the 10 points you referenced. I'd love to understand any linearity changes you can provide third quarter, fourth quarter. How did that trend? And I think you mentioned that we should be modeling a lower NRR going forward.
+What was the reference point on that? Is that versus the 104? I just want to make sure we're all clear on what that comment meant. Thanks, guys.
+Cameron Hyzer
+--
+Chief Financial Officer
+Yeah. So, the reference point there is against the 104, which is -- reflects the activity that we saw for the year. Certainly, most of our backlog from 2021 expired in the last four months of the quarter when we're seeing a lot of macroeconomic pressure, so I think that we're expecting that that will continue and perhaps get worse in 2023. And therefore, I think the expectation is, is that, at least base case, net revenue retention could be lower in 2023.
+Brian Peterson
+--
+Raymond James -- Analyst
+Thanks. And anything on the linearity of how that trended over the course of the year? I don't know if you could comment on fourth quarter versus third quarter or how that progressed over the course of the year?
+Cameron Hyzer
+--
+Chief Financial Officer
+Yeah. And it certainly got worse as particularly in the last four months of the year. That being said, if you're waiting the environment, almost half of our bookings from 2022 or 2021 were in those last four months, which is a good indication of when we're renewing those contracts as well.
+Brian Peterson
+--
+Raymond James -- Analyst
+Understood. Thank you, Cameron.
+Operator
+Thank you. One moment while we prepare for our next question. Our next question is coming from DJ Hynes of Canaccord Genuity. Your line is open.
+I'm sorry. Brent Bracelin of Piper Sandler. Your line is open.
+Brent Bracelin
+--
+Piper Sandler -- Analyst
+Hello. Can you hear me?
+Henry Schuck
+--
+Founder and Chief Executive Officer
+Hey, Brent.
+Brent Bracelin
+--
+Piper Sandler -- Analyst
+OK. Perfect. A little confusion there. Maybe I'll start with you, Cameron, here.
+As we think about what sounds like an increasing enterprise opportunity and enterprise-focus going forward, what is the revenue split today as you think about customers over $100,000. What are they generating overall of the mix versus the smaller customers? And then one quick follow-up for Henry if I could.
+Cameron Hyzer
+--
+Chief Financial Officer
+Yeah. So the $100,000 customers generate roughly 45% of overall revenue. And, yes, I think that the number of customers has grown, but also the revenue on a per customer basis is the highest level we've seen.
+Brent Bracelin
+--
+Piper Sandler -- Analyst
+Got it. Super helpful color there. And then, Cameron, I guess the million-dollar question here is really how quickly and what else are you contemplating besides the new CRO to really accelerate the pipeline and the pipeline build outside of software? Clearly, you've built a great business, de facto standard in that kind of software ecosystem. How do you replicate that outside of software? And how fast can you pivot?
+Henry Schuck
+--
+Founder and Chief Executive Officer
+I think, first, we are. The rest of the industries outside of software are growing faster than our software and technology base of customers. We talked about companies like Waste Management and Barclays and ABM Industries, who are large clients of ours, Capital One. And so, we continue to grow our share in nontech companies.
+They also present a really large opportunity for us in the enterprise that we're focused on. We'll do some specific vertical mapping as well in the customer base. And so, for the first time, we'll have account managers who are aligned to a financial services vertical and account managers who are aligned to a business services vertical. So, it's a little bit more specialized service that -- where they can build relationships with the customers and put ourselves in a position to continue to upsell within those nontech customer -- in that nontech customer base.
+Brent Bracelin
+--
+Piper Sandler -- Analyst
+Makes sense. Helpful color. Thank you.
+Operator
+Thank you. One moment while we prepare for our next question. And our next question is coming from DJ Hynes of Canaccord Genuity. Please go ahead.
+Your line is open.
+DJ Hynes
+--
+Canaccord Genuity -- Analyst
+All right. We're back. Hey, guys. So, look, in the context of the layoffs we're seeing in the tech space, when you have customers coming to you looking to trim back on their commitments, what are the levers you have in place to stave off that partial churn? Like are you throwing in additional modules to preserve ACV? Like how often is that happening? Any color on that front would be helpful as we think about NRR dynamics.
+Cameron Hyzer
+--
+Chief Financial Officer
+Yeah. So -- and, certainly, we've seen a reduction in seats driven by layoffs. And that impacts both upsells and downsells, and that definitely occurred in Q4. We are always looking to run plays against that, and those plays obviously include additional functionality or looking for other pockets of the organization that could benefit from our software.
+But realistically, those plays haven't worked as well as we want to, particularly given that the buyer behavior is much more fragile in that moment when people are executing a restructuring and kind of worried about their own team. But in some cases, we do see that work. But in many cases, particularly here in Q4, I'd say that there was an impact related to that.
+DJ Hynes
+--
+Canaccord Genuity -- Analyst
+Yeah. OK, OK. And then, Henry, a follow-up for you. What's the appetite for M&A in '23? I mean do you batten down the catches, make sure the house is in order first? Or do you want to be opportunistic as a consolidator of some of your peers, I'm sure, are facing similar challenges?
+Henry Schuck
+--
+Founder and Chief Executive Officer
+Look, there's nothing on the near-term horizon from an M&A perspective. Short term, we're really just focused on driving the business. Our criteria around M&A remains the same, but I'd tell you we have a much higher bar around this. And so, the criteria around improving the customer experience fits within the go-to-market motion is accretive in the short to medium term.
+We're going to be meaningfully more selective in this environment. And ,again, nothing on the near-term horizon, and I'm pretty focused on making sure we're driving the business, landing these executives, and growing the top line and doing that profitably.
+DJ Hynes
+--
+Canaccord Genuity -- Analyst
+Got it. Thank you, guys, for the color.
+Operator
+Thank you. One moment while we prepare for our next question. Our next question is coming from Alex Zukin of Wolfe. I'm sorry, the participant just jumped.
+It's Taylor McGinnis of UBS.
+Taylor McGinnis
+--
+UBS -- Analyst
+Hi. Thanks so much for taking the question. So, it sounds like in terms of growth drivers this year that new business is expected to hold up. So, Cameron, can you just give some color on the mix of new logo versus existing maybe implied in this growth guide this year and how that might compare to last year or what we've seen historically?
+Cameron Hyzer
+--
+Chief Financial Officer
+Well, when you look at the organic growth of 34% in the quarter and net revenue retention at 104%, that obviously implies that the remainder of that, roughly 30%, came from new business in 2022. I think our guidance certainly contemplates both new business and net revenue retention will be challenged. So, I'd expect that new business is likely flat to down, based on a deteriorating level of buyer behavior and the macro environment. And that, similarly, net revenue retention will be more challenged as well.
+Taylor McGinnis
+--
+UBS -- Analyst
+Got it. Thanks. And just one follow-up is just on margins. So, with the potential for NRR to deteriorate and I guess some of the risks that you mentioned on the sales side and continued investments in capacity, does that serve at all a risk to the margin upside this year? And if not, maybe you can just talk about the areas of leverage that serve as an offset.
+Cameron Hyzer
+--
+Chief Financial Officer
+Yes. So, we are always focused on being more efficient and harvesting the operating leverage that's natural in the business. As you mentioned, with a more challenging environment, that obviously impacts our efficiency with respect to sales and marketing, but we do expect to be able to realize operating leverage from other areas of business. I expect cost of revenue to decrease as a percentage of revenue and probably be the biggest driver of operating leverage, but we'll also get some from G&A and even from R&D as we get further into the year.
+Taylor McGinnis
+--
+UBS -- Analyst
+Great. Thanks.
+Operator
+Thank you. One moment while we prepare for our next question. Next question is coming from Alex Zukin of Wolfe. Your line is open.
+Alex Zukin
+--
+Wolfe Research -- Analyst
+Hi, guys. It sounds like having some operator trouble today. But, Henry, first question for you. I guess with respect to the sales cycles, the demand environment, do you feel like we've reached kind of peak uncertainty or at least a trough in terms of the demand? And is it getting better? Or is it still the level of uncertainty persisting kind of in real time in the market? And have you had to deal with more competitive intensity, particularly on calls as cost is often mentioned as an issue with respect to actually getting deals done?
+Henry Schuck
+--
+Founder and Chief Executive Officer
+Look, there hasn't been any material change in buyer behavior that we're seeing out in the market as it relates to uncertainty or the macroeconomic environment. So, we haven't seen any change in that. What I'll tell you from a demand and pipeline generation perspective, January, we saw our largest pipeline we've ever generated. We're generating more MQLs than we've had in our history.
+When buyers are buying, they're buying decisively and at strong ASPs, and we're seeing less competition in our deals in Q4. And where we do see competition, primarily in the SMB segment of our business, we're seeing the highest in-month win rate ever for a nonend of the quarter month. And so, all of that tells me that, while there is room for improvement from an execution perspective, it really is customers' uncertainty about the broader economic environment that's holding us back from delivering more top-line growth. So, as the uncertainty fades, I'm confident that we'll be in a great position to accelerate out.
+We haven't seen that fading yet.
+Alex Zukin
+--
+Wolfe Research -- Analyst
+Perfect. And then, Cameron, for you. On the margin side, if I look at the free cash flow margin guide versus the operating margin guide, they're a little inverted from where they've been previously. Historically, free cash flow margins have exceeded operating margins.
+So, just walk us through kind of what are the assumptions there. And then in general, obviously, we all love to see margin leverage. But with the growth moderating and modulating to the extent that it is, do you -- kind of what is the decision point when you potentially unlock greater margin leverage? Is that in the cards or not?
+Cameron Hyzer
+--
+Chief Financial Officer
+Sure. So, with respect to the free cash flow conversion, we are expecting free cash flow conversion to be at 95% to 100% this year as opposed to historically rose above 100%. And the real big factors that impact that are really, A, that our customers are shifting a little bit more to pay quarterly or at least not annually upfront. That certainly has an impact on the kind of cash flow, part of the unlevered free cash flow conversion.
+And additionally, lower growth impacts the weighting of those upfront payments in the second half of the year. So, that is another impact. With respect to unlocking the ultimate margin growth, certainly, our expectation is -- is that we will be able to improve sales and marketing efficiency over time, particularly as the environment stabilizes a little bit more. And that will enable us to either accelerate growth when we get to that stabilization point or harvest more of that operating leverage that you'd expect on the sales and marketing side.
+Alex Zukin
+--
+Wolfe Research -- Analyst
+Perfect. Thank you, guys.
+Cameron Hyzer
+--
+Chief Financial Officer
+Thanks, Alex.
+Operator
+Thank you. One moment while we prepare for the next question. Our next question is coming from Parker Lane of Stifel. Your line is open.
+Parker Lane
+--
+Stifel Financial Corp. -- Analyst
+Yeah. Hi, guys. Thanks for taking the question. Cameron, when you look at the cohort of customers that have announced layoffs or cost reduction plans, can you give us a sense of the share of them that have already come up for renewal? And as we think about 2023, do you expect that the impact of those renewals be evenly spread through the year or more skewed toward the third-quarter, fourth-quarter time frame that you referenced earlier?
+Cameron Hyzer
+--
+Chief Financial Officer
+I think that the kind of timing of those renewals are maybe slightly more kind of set into Q4. So, I think that's when we have a bigger cohort of software companies that are renewing. So, we've seen a bunch of that, either people that already announced and then come up for renewal, or in some cases, people who are renewing with an expectation that something like that might happen. But overall, it's not that heavily weighted to Q4.
+So, I'd expect that it's a similar percentage to the almost half of our customers that are renewing in the last four months of the year and the remaining renew in kind of the first eight months of the year.
+Parker Lane
+--
+Stifel Financial Corp. -- Analyst
+Got it. And then a quick follow-up here. Circling back to the headcount reductions that you said that you did during the September to year-end time frame. Was that pretty evenly distributed across the organization? Or were there particular areas that faced a higher degree of headcount trimming? Thanks.
+Cameron Hyzer
+--
+Chief Financial Officer
+You know, we are super focused on continuing to raise the bar in terms of our performance expectations. So, while it may have been somewhat more focused in R&D areas or G&A areas, it was pretty consistent across the board in terms of really making sure that we have the best team around us and that we have team members that are supporting the overall growth of the company.
+Parker Lane
+--
+Stifel Financial Corp. -- Analyst
+Understood. Thanks again.
+Operator
+Thank you. One moment while we prepare for the next question. And our next question will be coming from Koji Ikeda of Bank of America. Your line is open.
+Koji Ikeda
+--
+Bank of America Merrill Lynch -- Analyst
+Yeah. Hey, guys. Thanks for taking the questions. I wanted to go back to net revenue retention.
+You ended the year at 104%, and I believe you said maybe a good place to start is a tad below that for 2023. So, I guess a tad below that, call it, I don't know, 102%. Would you categorize that as an improvement from the exit NRR rate for the fourth quarter? Your first question there. And then thinking about the 17% guide for 2023, assuming that low single-digit net revenue retention, mid-teens growth coming from new customers.
+I guess the question is, maybe where are you most excited from a vertical perspective outside of software? Or maybe what products are you most excited about as growth drivers for 2023? Thanks, guys.
+Cameron Hyzer
+--
+Chief Financial Officer
+So, Koji, I'll start with the first part. I think that, certainly, in relation to our guidance, 102 would be higher than what's implied there. I think we're expecting, particularly in a worsening environment, that we'll see retention below that. I'll let Henry go into the kind of most exciting other verticals.
+Henry Schuck
+--
+Founder and Chief Executive Officer
+Yeah. I think we're seeing a lot of success in financial services. That's one of the key areas that we've reorganized specialists across on the account management side and see continuing opportunity there. You see quotes in the slides we included from Capital One that ZoomInfo has become an integral part of their business.
+Without it, there'll be a huge gap in the sales enablement strategy, and they'd be scrambling to figure out how to fill. We think that that same sentiment applies to any financial services company that sells to other businesses. And so, we think we can really capitalize on that. I think in addition to that, I've mentioned the success we're seeing in MarketingOS, our new ABM platform, where we're seeing ASPs on the customer side at 5x over average SalesOS pricing.
+And we're seeing ASP on the new customer side, prospect side at 3x over the SalesOS pricing. And so, people are really understanding the value unlock that you get when you deploy an ABM platform but also the unlock you get when you align sales and marketing together with sales on SalesOS and marketing on MarketingOS. And in addition to that, we continue to see better net retention stats with our Data as a Service platform and products. And so, we continue to invest behind that, and we see a good uptake of those products inside of the upper mid-market in the enterprise.
+And so, we'll continue to focus on DaaS, which includes our enrichment solutions and RingLead and our MarketingOS ABM platform. We see those as meaningful drivers in today's economic environment, and we feel good about those.
+Koji Ikeda
+--
+Bank of America Merrill Lynch -- Analyst
+Thanks, Henry. Thanks, Cameron.
+Operator
+Thank you. One moment while we prepare for the next question. And our next question is coming from Michael Turrin of Wells Fargo. Your line is open.
+Michael Turrin
+--
+Wells Fargo Securities -- Analyst
+Hey, thanks. Appreciate you taking the questions. So, I mean there are some moving pieces in the guide from the full year relative to Q1. The optics are flat sequential growth is in Q1 than a return to sequential growth.
+You've talked about days adjusted a little bit but also worsening macro. So, can you just help us out by maybe spelling out how much of the day's adjusted portion impacts Q1? And what else we should be just taking into account from a model perspective and thinking through the sequential growth trend beyond for the rest of the year?
+Cameron Hyzer
+--
+Chief Financial Officer
+Sure. So, because there are fewer days in Q1, there are 90 days versus 92 in Q4, that's roughly a 2% headwind to the absolute level of revenue that you'll see, so the revenue guide at the midpoint implies a 2% sequential growth improvement. And our expectation is that, particularly given that the linearity in Q4 is different than it normally would be, that the seasonality of Q1 is a little different than what you would have normally seen historically. And then I think just by doing the math, you'll see a slightly better sequential growth in the latter part of the year based on getting to the 17% overall growth.
+Michael Turrin
+--
+Wells Fargo Securities -- Analyst
+And just -- I mean, just squaring the improving sequential growth with the worsening macro. So just help us understand your -- just the inputs you're using and what informs that just -- so I think -- just so it's clear on the call.
+Cameron Hyzer
+--
+Chief Financial Officer
+Yeah. So, certainly, I think in starting out the year, we do have a higher mix of ramped sales folks. So, our ability to go out and get through the pipeline that we have has improved, and we'll continue to grow. We'll continue to grow that capacity over the course of the year.
+And -- but then we do have an assumption embedded within the guidance, but we'll see some disruption in the early part of the year related to the management changes that we've instituted.
+Michael Turrin
+--
+Wells Fargo Securities -- Analyst
+OK. That's helpful. Thank you.
+Operator
+Thank you. One moment while we prepare for the next question. And our next question is coming from Terry Tillman of Truist. Your line is open.
+Joe Meares
+--
+Truist Securities -- Analyst
+Hi, guys. Thanks for taking the question. This is Joe Meares on for Terry. Just the first one, in the context of the weaker economy, can you give us some updated thoughts on your ability to drive vendor consolidation and displaced point solution vendors in areas like conversational intelligence and sales engagement?
+Henry Schuck
+--
+Founder and Chief Executive Officer
+Yeah, definitely. We're continuing to drive consolidation, particularly around sales engagement providers, conversation intelligence products, and ancillary data providers, data partners. We see that as a meaningful part of our strategy in 2023, and we'll be releasing, in February, an integrated experience that brings sales engagement and conversation intelligence natively inside of the SalesOS platform. And so, we're excited about that.
+And so, we are continuing to look for and drive consolidation opportunities. They are around those three things: sales engagement, conversation intelligence, and then ancillary data providers.
+Joe Meares
+--
+Truist Securities -- Analyst
+Great. That's helpful. And then just as a follow-up. Last quarter, you noted an eight-figure expansion, your largest expansion ever.
+And you also had a $1 million plus land, which was your first ever that size. I'm just curious if there are any more successes like [Inaudible] speak of in the fourth quarter. And how does the macro effect the size of your land in the logos? Thanks again.
+Henry Schuck
+--
+Founder and Chief Executive Officer
+We didn't give the name of the company, but we talked about an HCM company that grew thousands of additional seats across their sales and account executive teams. That was a seven-figure transaction that happened in the quarter. That leaves a lot of room for expansion, too. In a typical deal, what you would have -- saw on that transaction in Q4 was instead of being across, call it, 2,000 seats, you would have seen that be across 7,000 or 8,000 seats.
+So, it ratchets back in Q4, but we still see tremendous upside to grow there. So, that's one of the examples of sort of large transactions we saw in the quarter.
+Operator
+Thank you for your question. One moment while we prepare for the next question. And the next question will be coming from Jacob Staffel of Goldman Sachs. Your line is open.
+Jacob Staffel
+--
+Goldman Sachs -- Analyst
+Hi. Thank you very much, Henry and Cameron. You guys are probably, arguably, the first to see the impact of the downturn because people are cutting back on sales. And even when they announced the layoff, their intention is to clearly freeze activity on the front office side as it relates to productivity tools.
+But your product also has tremendous productivity at the same time. And you really have a lot of statistics. So, what is holding back the customer? Because it is useful, especially in this economy, right? Secondly, let's just go with a logic that it is very useful, too. Shouldn't we start to see the benefit? Because since you're early to see the cutoffs and the layoffs, shouldn't you be the first to start to see the improvement, especially because I look at your CRPO in Q3 of 2022 that start to show some signs of new business struggle? So, will you have have easy comps coming up in third quarter? When we have cycled through the layoffs, hopefully, over the next couple of quarters, industry probably stabilizes.
+So, wouldn't you see better business conditions in the second half based on this logic? Or if I'm out to lunch with this, please let me know. Thank you.
+Cameron Hyzer
+--
+Chief Financial Officer
+And I think that logic certainly outlines an upside case, but the way we operate our business is we don't necessarily kind of hope for the upside. I think we're looking more to drive better efficiency of our teams. And ultimately, I do think that as we do see stabilization in the environment and largely in terms of buyer behavior but also the macro that there is an opportunity for us to accelerate. I just -- I don't necessarily have the crystal ball to say that that's definitely coming in Q3 or whenever else.
+But -- so, I think we'll see when that occurs. But, certainly, I think we are really investing into the company at this point in order to have the potential to realize that upside when the environment stabilizes.
+Henry Schuck
+--
+Founder and Chief Executive Officer
+I would add, look, it's still really early in this category, which means that it's still an evangelistic sale. Our category is not a Gartner-blessed budget line item. So, executives are in condition to think of our value-add as table stakes for their organization. And then we're selling into a challenging environment in our customer base within tech companies.
+We have exposure there. And the slowdown isn't unique to us. If you look at other companies in our space who sell sales products to B2B organization, you see a similar trajectory and slowdown. We, obviously, don't expect that slowdown to last forever, and we're incredibly confident as that uncertainty fades away that we're going to be able to accelerate through it.
+Jacob Staffel
+--
+Goldman Sachs -- Analyst
+Got it. Henry and Cameron, if you take the nontech slice of your business, which is remaining 50%, 60%, what are the business trends there? And what is the net new ACV or revenue growth rate there? And how much better is it relative to your guidance for the overall company? Thank you so much. That's it for me.
+Cameron Hyzer
+--
+Chief Financial Officer
+Yeah. So -- and it is better. I wouldn't say that it's so meaningfully better that you'd expect a totally different outcome. I think for what we've seen in Q3 and Q4 is that software is more impacted, particularly from a layoff perspective.
+But all companies are looking to cut costs. They're looking to really manage into, you know, perceived recession that's coming. So, I think it's challenging regardless of vertical.
+Jacob Staffel
+--
+Goldman Sachs -- Analyst
+So, if you don't have a recession, there's going to be a big pickup, which we hope so.
+Cameron Hyzer
+--
+Chief Financial Officer
+I mean, yeah. Look, I definitely focus more on buyer behavior than I do on the macroeconomics. I think throughout this past year, they've been aligned. But, yes.
+It's more a question of whether buyer behavior changes than just what happens in the economy.
+Jacob Staffel
+--
+Goldman Sachs -- Analyst
+Got it. Very useful.
+Operator
+Thank you. This concludes today's Q&A session. I would like to turn the call back over to Henry Schuck for closing remarks.
+Henry Schuck
+--
+Founder and Chief Executive Officer
+Great. Thank you, everyone, for joining us tonight. We look forward to sharing our continued progress with you at our upcoming investor events. Thank you.
+Operator
+Thank you for joining today's conference call. [Operator signoff]
+Duration: 0 minutes

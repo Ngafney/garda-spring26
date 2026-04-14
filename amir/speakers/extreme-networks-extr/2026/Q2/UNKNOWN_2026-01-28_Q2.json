@@ -1,0 +1,262 @@
+[
+  {
+    "speaker": "Unknown",
+    "role": "",
+    "text": "Full Conference Call Transcript"
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Hello. Thank you for joining us, and welcome to the Extreme Networks Q2 fiscal year 2026 financial results. After today's prepared remarks, we will host a question and answer session. If you would like to ask a question, please press 1 on your telephone keypad. To withdraw your question, press 1 again. I will now hand the call over to Stan Kovler, Senior Vice President of Finance and Corporate Development. Stan, please go ahead."
+  },
+  {
+    "speaker": "Stan Kovler",
+    "role": "",
+    "text": "Thank you, operator. Good morning, and welcome to the Extreme Networks second quarter fiscal year 2026 earnings conference call. I'm Stan Kovler, Senior Vice President of Finance and Corporate Development. With me today are Extreme Networks President and CEO, Edward B. Meyercord, and Executive Vice President and CFO, Kevin Rhodes. We just distributed a press release and filed an 8-K detailing Extreme Networks' financial results for 2026. A copy of the press release, which includes our GAAP to non-GAAP reconciliations and our earnings presentation, is available in the IR section at extremenetwork.com. Today's call and Q&A may include certain forward-looking statements based on current expectations about Extreme's future financial and operational results, growth expectations, new product introductions, and strategies. All financial disclosures made on this call will be on a non-GAAP basis unless stated otherwise. We caution you not to put undue reliance on these forward-looking statements as they involve risks that can cause actual results to differ materially from those anticipated by these statements. These risks are described in our risk factors in our 10-Ks and 10-Q filings. Any forward-looking statements made on this call reflect our analysis as of today. We have no plans to update them except as required by law. Following our prepared remarks, we will take questions. And now, I will turn the call over to Extreme's President and CEO, Edward B. Meyercord."
+  },
+  {
+    "speaker": "Edward B. Meyercord",
+    "role": "",
+    "text": "Thank you, Stan, and thank you all for joining us this morning. The second quarter marked our seventh straight quarter of revenue growth driven by strong demand for our AI-powered platform, fueling share gains and double-digit year-over-year growth. Over the past twelve months, we've grown three times faster than our largest competitors in the enterprise networking space, highlighting the fact that we're winning market share. Our revenue was $318 million this quarter, exceeding our guidance and a 14% year-over-year increase driven by continued competitive wins with large customers across all verticals. Product revenue increased double digits year over year for the fourth consecutive quarter. Cloud subscription momentum lifted SaaS ARR to 25% year-over-year growth, landing at $227 million. And finally, we experienced our strongest subscription bookings on record with Extreme Platform One leading the way. Our technology differentiation and the quality of our team's execution are driving growth and enabling us to move upmarket and win larger enterprise networking projects. This quarter, we closed 34 deals over a million dollars, highlighting confidence in our differentiated technology and our ability to win in highly contested head-to-head competitive situations. Our innovation is translating into purpose-built solutions for larger, more demanding enterprise environments. Why are we winning? Competitors can't match the capabilities of our end-to-end campus fabric, which continues to be a major driver of large enterprise wins. Differentiated by capabilities like zero-touch provisioning, subsecond convergence, and the creation of hyper-segmented networks that hide IP addresses and thereby limit the blast radius of lateral cyber attacks a major security benefit. For those of you who recall our Investor Day, a Fortune 100 customer remarked that what takes Cisco six hours takes Extreme six minutes. And this is the power of our fabric. Platform One is unique, with a true agentic AI core. Our AI agents can autonomously diagnose issues, guide resolution, and provide clear actionable insights. Our platform is particularly useful for troubleshooting, evidence collecting, and solving complicated network issues, turning days and hours of work into minutes. We're the only vendor that delivers true cloud choice, whether public, private, or hybrid, including sovereign cloud solutions. We meet the data residency, compliance, and security demands of regulated environments, unlike competitive solutions that are locked into public cloud only and expensive purpose-built architectures. And no one delivers complex Wi-Fi solutions better than Extreme. This is why we're the preferred Wi-Fi vendor for dense environments like the NFL and Major League Baseball stadiums, as well as large, highly distributed environments like Kroger, FedEx, and other large retailers. Given this ongoing innovation and strong competitive differentiation, we expect to accelerate our leadership position and continue to drive share gains. In the quarter, we had several large wins across verticals and geos, including a multimillion-dollar sale of Platform One to a large retail customer to centrally manage their network across 3,000 stores, Baylor University, Henry Ford Health, University Hospital Birmingham NHS, and the Pittsburgh Steelers, all leveraging Extreme's Wi-Fi 7 solutions. TJ Regional Health in Kentucky and Groupe Jolimon, a large healthcare provider in Belgium, completed modernization of their networks with Extreme Fabric to deliver reliable, high-quality patient care. One of the largest school districts in the United States selected Extreme over Juniper after a head-to-head evaluation in a multimillion-dollar full network refresh of wired, wireless, SD-WAN, and importantly, our AI platforms. And SK Bioscience, a leading South Korean biotech company, is deploying Platform One to support rapid growth across its expanded offices and new R&D center. We continue to see strong momentum across our commercial models, with MSP partners nearly doubling and billings up more than three times year over year. Our consumption-based billing eliminates upfront costs, while poolable licensing enables MSPs to easily scale across devices, locations, and customers. In addition to product innovation, we're helping partners make more money with enhanced commercial terms. Last week, we launched Extreme Partner First, our new partner program which simplifies deal registration, delivers transparent pricing and rebates, and embeds AI directly into the partner experience. We help partners access critical sales content in seconds, close deals faster, and scale profitably with role-based dashboards, faster approvals, real-time deal visibility, and accelerated rewards. Partners can make 20% more profit at Extreme than our competitors. And we've dramatically simplified the way customers are buying from us with a single bundled license that offers AI, fabric, hardware, and security. Platform One keeps getting stronger with continuous updates that materially increase customer value. Today, we're attracting highly sought-after talent from across the industry, and our retention remains at all-time highs. Recently, we were able to recruit top-level talent from Juniper, seeing tremendous opportunity at Extreme, including two at the SVP level leadership positions, global channel, and EMEA sales. Looking ahead, the strength of our funnel reflects a robust demand environment across all our industry verticals, double-digit pipeline growth in state, local, and education, and continued momentum across manufacturing, healthcare, and general enterprise. On top of these dynamics, a return of government spending in Europe, expansion in APAC, and continued momentum in the Americas underpin these trends. A major end-of-life refresh cycle and changes to the partner program at Cisco are creating a significant multiyear growth opportunity for Extreme worth billions in total addressable market. And the HP Juniper merger is creating share gain tailwinds for us as well. These market trends create openings for Extreme as new AI requirements, aging hardware, and next-generation technologies like Wi-Fi 7 are driving customers to reassess their vendor choice. Many are turning to Extreme to modernize their networks. As it pertains to supply chain, networking is mission-critical. It's not a nice-to-have. Everything our customers run depends on the network, which means demand remains strong even in a higher cost environment. Net-net, our experience and industry analysts show low elasticity of demand for networking infrastructure, giving us price flexibility to protect our margins. And this is an industry phenomenon. Given our operational agility, we're confident in our ability to meet customer demand going forward. One of the ways we solve for component shortages has been a replacement strategy. In the COVID era, for example, our teams replaced over 125 components in a year 10x the normal rate. And most recently, we identified and swapped out a new source of DDR4 memory chips that Broadcom has already qualified. Our teams are nimble and get us in front of the curve. In the case of component scarcity, our size and scale can be an advantage as we are chasing lower volumes and can be more focused. For the remainder of fiscal 2026, we expect to continue to grow profit faster than revenue, with expected profitability growth of around 20% on double-digit revenue growth for the year. We're set up with a solid foundation exiting the second quarter, with well over $200 million of annualized EBITDA at a healthy net cash position. Now let me turn the call over to Kevin to discuss financial results and guidance."
+  },
+  {
+    "speaker": "Kevin Rhodes",
+    "role": "",
+    "text": "Thanks, Ed. Total revenue of $318 million grew 14% year over year and exceeded the high end of our guidance range. And as Ed mentioned, this is our seventh consecutive quarter of revenue growth. Earnings per share of $0.26 also exceeded the high end of our guidance range. Earnings per share grew from $0.21 in the prior year quarter, a 24% year-over-year improvement. So our profit growth rate outpaced our revenue growth rate by 10 percentage points. SaaS ARR also accelerated to 25% growth on a year-over-year basis, driven by our success with Platform One subscriptions. Platform One bookings were well ahead, even twice the amount of our target, resulting in accelerating year-over-year performance in subscription bookings. The expected acceleration in growth for the high-margin subscription revenue we laid out at our Investor Day in November is playing out as expected. We are excited about the continued growth in our recurring revenue base, up 12% year over year, and we have a strong pipeline for Platform One sales. Geographically, we had strong year-over-year revenue growth across all regions. This speaks to our improved alignment between our go-to-market teams, a robust demand environment for critical IT infrastructure, and our ability to target larger partners and deals across the globe. We continue to gain traction with new, larger partners and associated new customers when it comes to our new logo wins. Subscription and support revenue reached $120 million, up 12% year over year and up 3% sequentially. Our SaaS deferred revenue continued to grow to $334 million, a 15% year-over-year increase. Overall, deferred recurring revenue climbed to $628 million, a 9% year-over-year improvement. We are pleased with the predictability that this high-margin revenue gives us. Non-GAAP gross margin was 62%, an increase of 70 basis points from the last quarter and at the high end of our guidance range, which we highlighted at our Investor Day. Product margin increased due to mitigating actions that we have taken to offset higher component costs, including a price increase we implemented last quarter. Higher support margins were driven by improved product quality and lower warranty costs. And subscription margins also rose on higher revenue, which also helped our mix. Our teams are doing a great job managing an ever-evolving supply chain environment, taking actions to mitigate component price increases and qualifying other third parties, and continue to proactively secure our forward supply needs. In addition, we have the flexibility to further increase prices to offset any increases in memory or other components. We are confident in our ability to meet customer demand and deliver critical networking products without disruption. One item I'd like to point out, which is built into our guidance quarter, is that we have several multimillion-dollar deployments at large venues, which we will deliver during the third and the fourth quarter. These customers have asked Extreme to run the point on the installations with our professional services team. Installation services carry a much lower margin profile than our traditional subscription and support margins, and we expect these implementations to impact our mix during that third and fourth quarter time frame. We expect the combination of the actions that we have taken and a vigilant approach to supply chain planning to result in further improvement in our gross margins over time. We're still very confident in our ability to achieve our long-term gross margin goal of 64% to 66%. Turning to the second quarter operating expenses, they were flat from last quarter at $149 million and down as a percentage of revenue from last quarter and the last year, providing further operating leverage. This was despite higher than expected sales commissions due to higher revenue. Operating margin was 15%, up from 13.3% last quarter and 14.7% in the prior year quarter. I'm pleased to report that we generated $52.4 million in adjusted EBITDA, and our adjusted EBITDA margin was 16.5%. We generated $43 million in free cash flow in the second quarter and continued to reduce inventory levels and days on hand. This demonstrates our continued focus on working capital management. Now turning to guidance. We expect our third quarter revenue to be in a range of $309 million to $314 million. This reflects normal seasonality in our underlying business, which we expect to carry forward. As I mentioned earlier, we expect third quarter gross margin to be impacted by these larger professional services deployments, and therefore, margin is expected to be in a range of 61% to 61.4%. We do expect improvement in product gross margin in the third quarter and expect it to carry forward for the remainder of the fiscal year. Operating margin is expected to be in a range of 13.6% to 14.8%, and earnings per share in the third quarter is expected to be in a range of $0.23 to $0.25. Our fully diluted share count is expected to be around 136 million shares. For the full fiscal year '26, we expect guidance as follows. Revenue is now increasing another $10 million at the midpoint from our last quarter, to be in a range of $1.262 billion to $1.270 billion. The midpoint of this range suggests 11% growth year over year. We expect earnings per share in the range of $0.98 to $1.02. And with that, I'll now turn the call over to the operator to begin the question and answer session."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "We will now begin the question and answer session. If you would like to ask a question, please press 1 on your telephone keypad. Please pick up your handset when asking a question. If you are muted locally, please remember to unmute your device. Please standby while we compile the Q&A roster. Your first question comes from the line of Michael Genovese with Rosenblatt Securities. Michael, your line is now open."
+  },
+  {
+    "speaker": "Michael Genovese",
+    "role": "",
+    "text": "Great. Thanks very much. Congratulations on the good quarter. I think you guys gave some compelling metrics about share gain. Can you talk about, you know, more about that, though? Like, you know, the evidence that you use to show that you're gaining share and to prove that you're gaining share and, also, you know, kind of restructuring that you did in the kind of the go-to-market model during the quarter, whether that, you know, had, you know, in terms of putting Norm in charge and other types of restructuring, you know, how you approach share gain, whether that had an impact in the quarter or whether that impact is more in front of us. Thank you."
+  },
+  {
+    "speaker": "Edward B. Meyercord",
+    "role": "",
+    "text": "Thanks, Mike. I'll take that. Yeah. We don't make up the numbers in terms of share gains. We use third-party analysts and we look at, like, 650 Group and Dell'Oro, etc. When you look at Extreme and you compare us to Cisco or now HPE, they have a lot of other businesses. They play in a lot of other market segments. So it could be difficult to dive in and really understand what's happening in the enterprise market, which is where we play. So the analysts do a really nice job of getting the information and kind of zeroing in on how competition is performing where we compete. And so when I say we're growing at three times the market, we're using third-party industry data looking at enterprise deployments, which is campus enterprise data, etc. Data center, etc. So that's how we get the data in terms of how we know we're winning. I think everybody here knows we compete every day head-to-head with now HP and Juniper is turning into HP, and they've got their hands full. And then Cisco. So we have hands-on information of our competitive wins and win rates and we understand kind of how and why we're taking share from that standpoint in terms of winning new customers from those larger accounts. To your point, Mike, Norman has been in charge as Norman Rice is we put him in charge of sales. It's hard to believe it's been two years, but he's brought a lot of discipline into the process in terms of how we forecast, driving accountability, and then making a lot of changes in terms of the personnel and leadership. And so I would say we have more confidence today than we've ever had in our bookings outlook and our bookings forecast. With, I would say, top grades across the channel and our direct selling organization. We also brought in Monica Kumar a couple of years ago, our Chief Marketing Officer, who has done a phenomenal job overhauling our marketing team and effort. And, you know, we've created very targeted, we call them pods. We have 19 of them where we have our direct sales team partnered with localized event marketing teams, partnered with channel resources, focused on events and activities that drive funnel and then focused on how we drive and convert that funnel. So it's a concerted effort. Obviously, all this connected with our product teams and our service and support teams. But working together. So we have 19 different pods that we forecast each quarter in terms of funnel creation, in terms of conversion. And, obviously, that gets down and ties the bottoms-up bookings forecast from our sales team. So we've come a long way. We have a lot of confidence in the demand outlook and, you know, we're really confident in our ability to take share. And as we talk about moving upmarket, we're excited about what we have in the funnel. And that especially with some of these larger opportunities, that, you know, would be meaningful share gains for us at Extreme."
+  },
+  {
+    "speaker": "Michael Genovese",
+    "role": "",
+    "text": "Great. That was such an extensive answer that I almost feel hesitant to ask a follow-up, you know, for time's sake and other analysts, but I will ask a follow-up. Which is, you know, I don't think that you guys, you know, mention if we looked at AI mentions on this conference call, there probably weren't a ton of them. So in either, you know, in terms of sort of, you know, agentic offerings or, you know, enterprise switching upgrade cycles, and confidence that's gonna happen. Can you just talk about, you know, the importance of AI and what you're seeing, you know, from your offerings and from your customers' activity related to AI? And then I'll pass it on. Thank you."
+  },
+  {
+    "speaker": "Edward B. Meyercord",
+    "role": "",
+    "text": "Sure. Well, look. AI, you know, continues to be top of mind for all of our customers. Everyone's trying to figure out, hey, what's the use case for AI? You know, how can I use, you know, modern AI technology in my environment to drive better business outcomes? And we're all over that. You know, we had our AI summit in Major League Baseball headquarters in the fall with a great, great response. You know, we are probably the only networking vendor that has an agentic AI platform where our AI sits at the core of the platform. And it's something that gives us a real advantage when we're having conversations today as people are contemplating AI, they want to look at players that have developed platforms. And this is, again, a place where our size becomes an advantage for Extreme because of the capabilities that we've built and then what we're going to be able to do in terms of integrating our network capabilities with ecosystem partners of our customers when we start looking at AI agents, creating an agent exchange, creating the ability to create workflows and drive outcomes for customers. So we've always been a leader in cloud. We've been a leader in AI, kind of gen one, if you will. I'd say alongside Juniper Mist and Meraki. Now we feel like we're in a position to pull ahead because we've created this platform. And, again, as I said, it's the only one with a pure agentic AI core. And we think this is gonna give us enhanced capabilities as we go forward. And so, yeah, it's top of mind for customers. Everybody wants to know about it. This is an advantage for Extreme. I will say we doubled our forecast for subscription bookings for Extreme Platform One, which is our AI platform. So things are going really well. Our sellers are having a great time with this out in the market."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Your next question comes from Tomer Zilberman from the Bank of America. Tomer, your line is now open."
+  },
+  {
+    "speaker": "Tomer Zilberman",
+    "role": "",
+    "text": "Great. Hey, guys. Good morning. Maybe going back on the share gain question. When we look at the opportunity that you're seeing from these competitive displacements, are you coming in all at once both the Wi-Fi piece and the switching piece? Or are you seeing it start in one area, kind of landing in one or the other, and then further expanding? And then I have a follow-up."
+  },
+  {
+    "speaker": "Edward B. Meyercord",
+    "role": "",
+    "text": "Yeah. Tomer, it's, you know, each project will have a life of its own. So, you know, we'll have a unique opportunity because we're the only player that can provide data sovereignty. So cloud choice becomes an issue in Germany where a customer has data sovereignty requirements, and we bring a unique solution with our cloud choice. Interestingly, our fabric over SD-WAN won the day with the Japanese government and the huge wins that we've had over there. So it was really about the differentiation of our fabric technology and the fact that we were able to bring fabric over the wide area network with SD-WAN to create this unique solution that none of our competitors could replicate and therefore, it opened up the channel and opened up huge opportunities in Japan. The hottest technology for us today is our fabric. Everybody has an IP fabric in the industry. And IP fabrics for data centers, that's great. Nobody has a fabric for campus. That's layer two, and that's what we have. And so when we get into beauty contests, where customers let's look at the Cisco refresh and now it's time to upgrade the network. And now a customer says, alright. Well, bring in a few other competitors. People are blown away. My comment, what takes Cisco six hours takes Extreme six seconds. That is a real quote from a Fortune 100 customer. The agility and the speed of turning up network and provisioning network as well as the delivery of service as well as the resiliency of the platform, the ability to create networks in the network. Again, this is, you know, Miami Dade County. You know, I could go across to huge government customers around the world, huge manufacturers, healthcare providers, when we get into a head-to-head competition, you know, we physically show customers what we can do and let them play with the technology and our competitors can't replicate it. So all of a sudden, Extreme goes from maybe a distant third or fourth, you know, right into contention as a finalist, and our teams are doing a great job executing and winning in some of these competitive projects."
+  },
+  {
+    "speaker": "Tomer Zilberman",
+    "role": "",
+    "text": "Got it. Maybe as a follow-up, talking about memory prices, you started talking about it last quarter, and I think in between, or maybe it was last quarter you implemented a mid-single-digit price increase. So my question is, how did customers first, how did customers react to that? And since we've seen memory prices continue to rise, you know, what's the signal for another price increase and are you seeing any decommitments from suppliers?"
+  },
+  {
+    "speaker": "Edward B. Meyercord",
+    "role": "",
+    "text": "Yeah. Tomer, great question. And I'm yeah. We're well aware that supply chain and component availability is top of mind for everybody out there. Yeah. We implemented the price increase earlier, a 7% price increase, and I can say, you know, it's like a tree falling in the forest. A total nonissue. You know, I mentioned the price inelasticity of networking. If you think about an organization, think about your organization. There's no discussion about whether or not you need a network. And that you need a modern network with modern networking tools. So this is true for all of our customers. It's kind of a nonnegotiable. So I'd say our customers are very resilient from a pricing perspective. Going forward, we will evaluate price increases as we go forward and use that, you know, where we need to. We're very good at it as a company, and I'd say we're very good at it as an industry. Specifically, you know, meeting demand for things like DDR4 memory, I believe size is an advantage for Extreme here. First of all, we have a very strong team. It's the same team that we've had going back into the COVID era, and, you know, supply chain disruption is normal for us. Our business. And so our teams are very strong. We have excellent vendor relationships. So I'd say we get out in front of these things before our competitors. Size is an advantage. We're solving for fewer problems. We're solving for enterprise networking, switches, and access points. Our competitors have much bigger portfolios that they're trying to solve for. And then what we need, what we're chasing for is lower volume. So in a way, it's easier for us to get our hands on it. So these are some points that allow us to be kind of resilient in that environment. I'll give you an example. With DDR4 memory chips. We're working with a vendor and, yes, prices are going up. We talked about raising price. But we talked about how we can find other sources of supply and we were able to unlock DDR4 chips that had been designed and developed for another industry. And they were actually aging inventory for another industry we were able to pull in the chip, bring it to our vendor, bring it to Broadcom, work closely with them, and they certify the chip and that opened up a new source of supply, for example, of memory. That's the kind of thing that Extreme does that I think is a little different from our competitors. And so our teams are out there very creative finding ways to replace components and find alternative sources of supply in the market. Again, our size is somewhat of an advantage for us to meet demand."
+  },
+  {
+    "speaker": "Tomer Zilberman",
+    "role": "",
+    "text": "Got it. Thank you."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Your next question comes from Ryan Koontz from Needham and Co. Ryan, your line is now open."
+  },
+  {
+    "speaker": "Ryan Koontz",
+    "role": "",
+    "text": "Great. Thanks. Nice quarter, guys, and nice to see the outlook hanging in there strong. Maybe unpacking the ARR bit, the cloud ARR, in the quarter a bit. Can you maybe talk about, you know, puts and takes where you're seeing, you know, strength in selling subscription and areas you're still working on within that sales process?"
+  },
+  {
+    "speaker": "Edward B. Meyercord",
+    "role": "",
+    "text": "Yeah. Thanks, Ryan. I mean, the strength has been with Platform One. Ryan, I mentioned that, you know, we don't disclose our internal plans, but we had an internal plan for Platform One that we more than doubled in the quarter. And, you know, people are the way that we structured our commercial terms is that our customers can buy Platform One. Then they can move at their own pace and migrate from XiQ and our other, you know, our cloud platforms. And so our customers have really embraced that. And so I'd say that's where we're seeing most demand. Kevin, do you want to comment?"
+  },
+  {
+    "speaker": "Kevin Rhodes",
+    "role": "",
+    "text": "Yeah. I think you're right. And we've laid this out the day, right, that we expected, you know, mid to high, you know, twenties, growth rates, and we're seeing that now with the 25% growth rate in ARR. It is absolutely just a product of a really good platform, a simple licensing model, you know, that includes the cloud management, includes the agent AI, it includes, you know, the support contracts and everything that we talked about. And then people like that model. And it's simple for them. It's easy. They understand what the pricing is. They're not gonna have hidden costs in the future, etc. And then our customers really enjoy the Agendaq AI, and how that's, you know, making their network operations just that much more efficient. It's like adding an extra engineer to their team is what they're saying."
+  },
+  {
+    "speaker": "Ryan Koontz",
+    "role": "",
+    "text": "That's great. Thanks for that color. And, you guys just some really strong results in EMEA. It looked like a record from what I can tell, or close to it, at least for several years. You know, can you maybe unpack what's behind that strength? We heard from kind of a private networking peer last night that also had very strong EMEA sales and noted there that there were some regulatory requirements around sovereignty coming down from the EU. Maybe you can explain if there was any impact on some of your sales due to regulatory."
+  },
+  {
+    "speaker": "Edward B. Meyercord",
+    "role": "",
+    "text": "Yep. And, Ryan, I'd say I don't think we've seen the benefit of that yet. I think that portends good things to come for Extreme. You know, when you talk about data sovereignty, if you talk to the Gartner group, they'll tell you that Extreme is the only player in the networking space that can deliver a data sovereign solution in networking. And so and that goes back to Cloud Choice. And, you know, when you look at our competitors in a public cloud that doesn't quite get you there, or you have a purpose-built cloud that, you know, isn't built and operated, you know, in-country, this is an area where, you know, we have an opportunity. I will say we are seeing, you know, as governments, government coalitions in, you know, Europe form and get organized, and get united around creating budgets and spending. For us, I'd say it's taken longer than we've expected for spending to be unlocked, but we're starting to see government spend come back. We put that in our comments. So we expect that to be Europe to be a tailwind for us going forward. Kevin, do you want to add anything?"
+  },
+  {
+    "speaker": "Kevin Rhodes",
+    "role": "",
+    "text": "No. I think you covered it, Ed. The only other thing I'd add is we just added a new leader to our EMEA sales group, and he's come in and he's been very impressed with the opportunities that are in the EMEA market, and he's very excited. So I think that we've got the right team in place and there's plenty more opportunity there in EMEA for us to continue as well."
+  },
+  {
+    "speaker": "Ryan Koontz",
+    "role": "",
+    "text": "Super. Appreciate the commentary."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Your next question comes from Dave Kang from B. Riley. Dave, your line is now open."
+  },
+  {
+    "speaker": "Dave Kang",
+    "role": "",
+    "text": "Thank you. Good morning. Just a question on the rumor about this ruckus, and you guys just wanted to hear from you directly."
+  },
+  {
+    "speaker": "Edward B. Meyercord",
+    "role": "",
+    "text": "Yeah. Thanks, Dave. Yeah. I would just say, you know, at Extreme, our policy, if assets or businesses are potentially for sale or if potentially available in the marketplace, we're always gonna have a look. So at Extreme, you'll always see us, and I would say we're always in the market looking at different assets, be it adjacencies or being it or being, you know, players in our direct space. So yeah, I think you could always expect us to be engaged in dialogue to get smarter and to learn. And I would say to the extent that there's an opportunity that presents itself, we will always have the condition that anything that we do would be accretive. But I would say, you know, at this point, you know, that's conjecture. There's really nothing for us to comment on that front."
+  },
+  {
+    "speaker": "Dave Kang",
+    "role": "",
+    "text": "Got it. And my follow-up is, tariff situation. Just any changes, anything that we should be concerned about?"
+  },
+  {
+    "speaker": "Edward B. Meyercord",
+    "role": "",
+    "text": "No. I mean, you know, it goes back to, you know, supply chain, etc. Changing tariffs is a way of life for all of us, especially with the current administration in the US. So this is a core competency at Extreme, so we're well-versed in manipulating and managing through a changing tariff environment. So at this stage, I'd say it's a nonissue for us at Extreme."
+  },
+  {
+    "speaker": "Dave Kang",
+    "role": "",
+    "text": "Got it. Thank you."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Your next question comes from Christian Schwab at Craig Hallum. Christian, your line is now open."
+  },
+  {
+    "speaker": "Christian Schwab",
+    "role": "",
+    "text": "Great to take my questions. So thanks for the guidance for fiscal year '26. But as we look a little bit longer term, Ed, given market share gains, you know, in conjunction with, you know, we'll call it better solutions, as well as the disruption by two of your leading competitors and recent strong sales strength. Is it safe to assume that we should expect a continuation of double-digit top-line growth in '27 over '26, without any unforeseen, you know, macroeconomic dislocation?"
+  },
+  {
+    "speaker": "Edward B. Meyercord",
+    "role": "",
+    "text": "Yeah. And I don't want Kevin and Stan to have provided you, Christian, as far as the outlook for '27. You know, what you're saying makes a lot of sense to me. Because, yeah, we're seeing this continuation of, you know, not only demand in the marketplace but the strengthening of our competitive position, especially considering what's going on with the larger two players. So us nibbling away in small share gains for Extreme has a big impact on our top line. Kevin, I might let you jump in and comment on the official sponsor."
+  },
+  {
+    "speaker": "Kevin Rhodes",
+    "role": "",
+    "text": "Yeah. I mean, my comment would be, you know, we feel confident with and positive about all the improvements we've made from the go-to-market perspective. I'd say we feel comfortable with the FY '27 setup. Obviously, we are not guiding to '27 yet. We still have plenty of time, and I would say this market's pretty dynamic right now. And so it's really hard to get, you know, that far out, like, a year and a half somehow. We feel really good about our guidance for FY '26, and I'd say, you know, we'll circle back, you know, on '27 in the coming quarters. Just don't want to comment too much about that far out, given where we are in the market."
+  },
+  {
+    "speaker": "Christian Schwab",
+    "role": "",
+    "text": "That's fair. And, unfortunately, we're gonna ask another long-term question. You know, given the gross margin headwinds in the near term, you know, given the big installation of large deal contracts but still restating the goal of 64 to 66% gross margins. I won't ask you to give me the level of improvement with clarity. But is, you know, and your ability to raise prices, which appear to be currently happily absorbed by the given their networking technology needs, given memory component cost in particular. Would we should we expect gross margins in aggregate to improve, you know, in '27 over '26 as we begin the march towards that 64 to 66% goal?"
+  },
+  {
+    "speaker": "Kevin Rhodes",
+    "role": "",
+    "text": "I mean, I think that's a safe bet, you know, to say that we will expect improvement. Just a reminder, the product gross margins coming out in Q3 and Q4 will improve, Christian. Right? So you've got the product margin improvement happening there already. It's really just these lower margin, you know, professional services that will overhang in the third and fourth quarter. You know, as we do those installations. And those are just, you know, that's higher installation revenue than we normally have there. But, you know, naturally, in '27, and I can't predict how many installations we might have in '27 at this moment, but naturally, if we have a normalized amount of professional services revenue in '27, you would certainly see a mix improvement in margin in '27."
+  },
+  {
+    "speaker": "Kevin Rhodes",
+    "role": "",
+    "text": "Yeah. That's a fantastic answer. Congrats again on the great results and outlook. Thank you."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Your next question comes from Eric Martinuzzi from Lake Street Capital Markets LLC. Eric, your line is now open."
+  },
+  {
+    "speaker": "Eric Martinuzzi",
+    "role": "",
+    "text": "Also wanted to focus on the gross margin color that you gave. Just at the bottom line, the 98¢ to a dollar $0.02 for FY '26, relatively in line with where you were before. Is that to say then that there's not a substantial incremental contribution then from the professional services? In other words, are we talking no margin on the professional services that we're taking on? Because I would have expected, given the beat for Q2, that the guide for the EPS for the year would have risen."
+  },
+  {
+    "speaker": "Kevin Rhodes",
+    "role": "",
+    "text": "Sure. I mean, you would expect, Eric, right, that the overall deal is a good margin deal. Right? But that we do tend to price the professional services installation with a much lower margin than our subscription and support, which tends to be in the 70% range. And it's just low margin. And these all have a different, you know, margin profile to them, but I would say they're in the, you know, 15 to 20% range, you know, of margin, not certainly at the 70% level like you see, you know, in subscription and support. And so that's where I would comment that's why you see a mixed shift in the third and fourth quarter being a little bit overall lower margin but, again, product margins improving in the second half of the year."
+  },
+  {
+    "speaker": "Edward B. Meyercord",
+    "role": "",
+    "text": "Yeah. I guess, Kevin, I'd jump in and add. I would just jump in and add, Eric. Like, in some cases, we get involved and a customer says, we'd really like you to do the cabling work, for example. And then we'll bring in a contractor and mark it up ten, 15%. Right? And that's not, you know, our traditional business, but it's almost like us doing a favor for a customer in a large, complicated project. And we have some large, complicated projects going on right now where customers have said we feel more comfortable if you would manage this, you know, through your professional services organization. So again, you know, where we have subscription at an 80% margin, we have, you know, support and other services in the 60, 70% range. You know, it gets pulled down when we get pulled into some of these large projects. It's the right thing for us to do for customers, but it has a near-term effect. Over the long term, you know, once we've deployed, once we're in the stadium, then, obviously, those margins go up as we continue to work with those customers."
+  },
+  {
+    "speaker": "Eric Martinuzzi",
+    "role": "",
+    "text": "Got it. Thanks for taking my question."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "Your final question comes from David Vogt from UBS. David, your line is now open."
+  },
+  {
+    "speaker": "David Vogt",
+    "role": "",
+    "text": "Great, guys. Thanks for squeezing me in. I have actually kind of a three-part question here, Ed and Kevin. I appreciate all the detail. But the question I have is on sort of pricing demand and margin. And I'm just trying to triangulate all the comments that you made in your prepared remarks and in response to questions. So maybe just from a demand perspective, obviously, we understand that you took prices up 5-7%. Are we just are you suggesting that the price increases are not filtering into revenue this year in fiscal '26 relative to where you thought you'd be, you know, three months ago or six months ago, given Kevin mentioned you have several multimillion-dollar deployments in the outlook going forward? And is the guidance raised just those multimillion-dollar deployments? And I'll give you the second question along that. So even if I take that into consideration, the low margin of the installments, it sounds like gross margins on a pure product basis adjusted for the installments are down relative to where you were three months ago. Can you talk to, like, what that dynamic looks like if pricing is not going into effect just yet? And then the final point I would ask is when I think about '27, I know it's quite a ways away. Would you imagine that pricing has a much bigger impact on margin next year? And demand versus where we sit here in 2026."
+  },
+  {
+    "speaker": "Edward B. Meyercord",
+    "role": "",
+    "text": "Kevin, if you want, I can jump in. And then you can Yeah. Go ahead. Yeah. I'll then I'll follow-up. Yep. David, the pricing it comes in pretty quickly. I mean, I think yeah. So you'll see the impact. Kevin mentioned that our product margins are going up. So our product margins are up this quarter over last quarter, and will be the second half of the year. So there are just a few of these large projects that have professional services that drive the margin down. But, you know, they're on the services side. But on the product side, you know, we're expecting growing product margins in this environment. The other thing that I'll say is when, you know, as we go forward, you know, we still have the ability to use pricing, you know, as a lever. And so you'll see us and you'll see the other players in our industry, you know, passing through pricing, you know, as we make adjustments for what's happening in the supply chain. Kevin, do you want to add to that?"
+  },
+  {
+    "speaker": "Kevin Rhodes",
+    "role": "",
+    "text": "Just from a timing perspective, Ed, where we put some price increases through in the second quarter. We had minimal effect on our results in the second quarter. We expect more to flow through in the third and fourth quarter from those price increases we made in November."
+  },
+  {
+    "speaker": "David Vogt",
+    "role": "",
+    "text": "And can I just ask for clarification, is the guided range for '26 updated reflecting the multimillion-dollar installment revenue in Q3 and Q4? Or are you seeing a price increase driven revenue uplift in the guide? Or a combination of the two?"
+  },
+  {
+    "speaker": "Kevin Rhodes",
+    "role": "",
+    "text": "Our guide reflects, you know, a, the installation revenue and the lower margin relates to that. And, b, all of the decisions we've made so far on pricing today. You know, we haven't made any other decisions yet. And we can't reflect anything in our guide that has enough."
+  },
+  {
+    "speaker": "David Vogt",
+    "role": "",
+    "text": "Great. Alright. Thank you, guys."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "There are no further questions at this time. I will now turn the call back to Edward B. Meyercord, President and CEO, for closing remarks."
+  },
+  {
+    "speaker": "Edward B. Meyercord",
+    "role": "",
+    "text": "Thank you. Thanks, everyone, for participating on the call. We appreciate it, and we always appreciate the questions. We also want to thank employees tuning in and customers and partners who are listening in and more importantly to them for the partnership and driving an excellent quarter. So we're looking forward to continuing on the journey in terms of our innovative solutions, driving growth, and we look forward to meetings upcoming. And then delivering on another quarter. Thanks, everybody."
+  },
+  {
+    "speaker": "Operator",
+    "role": "",
+    "text": "This concludes today's call. Thank you for attending. You may now disconnect."
+  }
+]

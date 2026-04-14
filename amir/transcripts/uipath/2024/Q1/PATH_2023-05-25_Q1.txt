@@ -1,0 +1,333 @@
+Operator
+Good afternoon and welcome to the UiPath first quarter 2024 earnings conference call. [Operator instructions] A question-and-answer session will follow the formal presentation. [Operator instructions] Please note that this conference is being recorded. I will now turn the conference over to our host, Kelsey Turcotte, senior vice president, investor relations.
+Thank you. You may begin.
+Kelsey Turcotte
+--
+Senior Vice President, Investor Relations
+Good afternoon and thank you for joining us today to review UiPath's first quarter fiscal 2024 financial results, which we announced in our earnings press release issued after the close of the market today. On the call with me are Daniel Dines, UiPath co-founder and co-chief executive officer; Rob Enslin, co-chief executive officer; and Ashim Gupta, chief financial officer. Rob will start the discussion and then turn the call over to Daniel. After that, Ashim will review our results and provide guidance.
+Then we'll open the call for questions. Our earnings press release and financial supplemental materials are posted on the UiPath investor relations website, ir.uipath.com. These materials include GAAP to non-GAAP reconciliations. We will be discussing non-GAAP metrics on today's call.
+This afternoon's call includes forward-looking statements about our ability to drive growth and operational efficiency and our financial guidance for the fiscal second quarter and full year 2024. Actual results may differ materially from those expressed in the forward-looking statements due to many factors, and therefore, investors should not place undue reliance on these statements. For a discussion of the material risks and uncertainties that could affect our actual results, please refer to our annual report on Form 10-K for the year ended January 31, 2023 and our other reports filed with the SEC, including our quarterly report on Form 10-Q for the period ended April 30, 2023 to be filed with the SEC. Forward-looking statements made on this call reflect our views as of today.
+We undertake no obligation to update them. I would like to highlight that this webcast is being accompanied by slides, which this quarter includes an embedded AI demonstration video. We will post the slides and a copy of our prepared comments to our investor relations website immediately following the conclusion of this call. Now, I'd like to hand the call over to Rob.
+Rob Enslin
+--
+Co-Chief Executive Officer
+Thank you, Kelsey, and good afternoon, everyone. Thank you for joining us. As always, I want to take a moment to thank our team and partners for everything you do to make UiPath successful and our customers for placing their trust in us. It was a good start to the fiscal year with first quarter results reflecting our commitment to driving growth at scale, coupled with increasing profitability and cash flow.
+While the broader environment continues to be variable, the level of engagement with prospects and momentum in our large customers gives us confidence in the strategic role automation will continue to play in digital transformation. Turning to the numbers. We ended the quarter with ARR of $1.249 billion, an increase of 28%, driven by net new ARR of $45 million. Excluding FX headwind of 6 million, net new ARR totaled $51 million.
+First quarter revenue was $290 million. Excluding the impact of foreign exchange, revenue was 297 million and grew 21% year over year. Non-GAAP operating margin increased from negative 4% in the first quarter of last year to positive 17% in the first quarter of this year, a significant acceleration of our path to the 20%-plus long-term operating targets we laid out at Investor Day. I am very pleased with the progress we are making to better align the team to customer requirements and the resulting efficiency improvements.
+Non-GAAP adjusted free cash flow was a first quarter record of 73 million, the first time we delivered positive non-GAAP adjusted free cash flow at the outset of the year. We ended the quarter with approximately 10,850 customers, reflecting our focus on acquiring customers with a high propensity to invest in automation. New customers included Liberty Bank, New York City Health and Hospitals, Vermont Federal Credit Union, and Navia Benefit Solutions. And we have seen good momentum in our large customers.
+Customers with 1 million or more in ARR increased 43% year over year to 240, while customers with 100,000 or more in ARR increased to approximately 1,860 customers. Customers choose UiPath because of our market-leading technology and breadth of platform capabilities which allow for stack consolidation, vendor rationalization, and accelerate ROI, helping them achieve speed and agility while driving efficiency and improving employee and customer experiences. For example, Colgate-Palmolive. With more than 70 automations across various departments, they expanded to broader platform capabilities in the first quarter as they migrate to an integrated platform, consolidate vendor spend, and utilize our governance capabilities.
+And U.S. Silica, which started their UiPath journey with Test Suite, expanded to additional platform capabilities as they look to improve cost savings, productivity, and employee and customer experiences. It has been a busy start to this fiscal year. We launched our new segmentation model; nearly doubled the number of solution accelerators; added SAP solution accelerators to complement our partnerships; hosted our annual AI Summit for a record number of participants; introduced our next platform release, 2023.4; announced several strategic partnerships; and strengthened our board and management teams.
+We also recently hosted two incredible events: our first-ever UiPath Summit, an exclusive event for our digital C-suite and most forward-thinking customers; and our UiPath Together Public Sector event in Washington. There were two clear takeaways: our platform is driving meaningful ROI for our customers, and they want to understand how they can leverage the UiPath platform to deliver the power of generative AI responsibly and at scale. Since inception, our platform has been infused with AI. We offer our customers best-in-class models to read communications, understand documents, and see screens and interfaces.
+Coupled with this next wave of generative AI, we can help customers make automation even more accessible across their employees and significantly expand use cases. Equally as important, our automation platform provides the guarantees, guardrails, and governance that customers require to deliver generative AI safely. We are investing. Like the market, we are moving fast, which Daniel will talk about in a few minutes.
+AI is not new to UiPath. We are delivering real value to our customers today. During the quarter, Grupo Boticario, a UiPath customer since 2022, decided to replace a competitor and migrate their entire automation program to us with a strategic focus on AI as they work to accelerate development and deliver better governance. They also purchased Document Understanding to process invoices and plan to roll it out across other use cases.
+Another great example is Hyundai Capital, which is innovating the car buying experience for Genesis, Hyundai, and Kia dealerships and their customers by leveraging Document Understanding to streamline the loan and lease process. Reducing the time it takes to fund loans translates into a better experience for both the dealership and the customer. And with C-level sponsorship, they are exploring additional opportunities to further streamline the organization and drive efficiencies to the bottom line using AI and UiPath automation. Our partner ecosystem also continues to play a critical role in our success.
+During the quarter, we expanded our partnership with Snowflake, launching a pre-built solution for their Manufacturing Data Cloud to instantly connect data to business processes without using complex code. These technical integrations enhance our customers' ability to seamlessly integrate across applications. In addition, go-to-market partners expand our reach to customers in a scalable and cost-effective manner. A great example is KION, the German multinational and UiPath customer since 2019.
+Working with PwC, KION continues to scale across the organization as they look to incorporate AI and Test Suite into their automation program. We also recently announced a partnership with T-Systems, a trusted cloud provider, as classified by the German Federal Ministry for Economic Affairs and Energy, to deliver our end-to-end platform at scale to public sector organizations and large enterprises across Germany, Austria, and Switzerland. As part of this partnership, we plan to work with T-Systems to develop industry-specific offerings for joint customers. One of the first of these is Deutschlandticket, where T-Systems and UiPath anticipate helping them manage demand for the new flat-rate transport tickets in Germany.
+And finally, we announced an expansion of our partnership with SAP to jointly offer automation capabilities to customers. This partnership will help enterprises build a clean core on S/4HANA Cloud, which complements SAP Build Process Automation, enabling organizations to improve efficiency and productivity across SAP and non-SAP workloads. We are pleased to be the premier sponsor for all three of SAP's Sapphire events in Orlando, Barcelona, and Sao Paulo. And tomorrow, I will join the SAP team on stage at Sapphire Barcelona to underscore the partnership we now have in place.
+Our partners are also very excited about the announcement. Jay Persaud, EY's Americas vice chair, told us that having two alliances within EY's ecosystem that leverage the strength of the UiPath automation platform to help clients drive even more value from their SAP investment makes a lot of strategic sense. There is a significant amount of inbound interest, and I'm convinced that together we can help customers achieve game-changing results. In summary, I am pleased with the progress we have made on our strategic initiatives which are raising our profile and relevancy, not only with our customers, but also with go-to-market and technical partners.
+That being said, we are mindful of ongoing macroeconomic variability, and we have more work to do, extending our market leadership, helping customers get the most out of automation, and continuing to improve our execution. And with that, I'll turn the call over to Daniel.
+Daniel Dines
+--
+Co-Founder and Co-Chief Executive Officer
+Thanks, Rob. Good afternoon, everyone. We are very excited to have introduced our newest platform release, 2023.4, earlier this month. This release further accelerates our customers' ability to discover, automate, and operate at scale and continues to expand our leadership position in UI, AI, and API automation.
+Our customers are very excited about this new release and our plans to use generative AI to further increase adoption of our platform. We believe that generative AI will be a very important part of our enterprise AI foundation, along with domain-specific AI and automation. And it is our platform that will allow us to deliver in a secure and governed manner that enterprise customers require. Generative AI is very powerful, but by itself has a limited scope of capabilities in the enterprise.
+It can read and generate text but not take action. AI without automation is like a brain without a body. However, when AI is combined with an enterprise automation platform, it opens a whole new set of use cases and opportunities for customers. Our software robots can already read screens and documents.
+And now, with generative AI, they can answer customer emails, create summaries of complex documents, and respond to support questions. Customers can use these new generative skills to extend existing automations in areas such as customer service and imagine entirely new ones. We also believe generative AI will democratize access to our platform, making it easier for both knowledge workers and developers to create automations using just natural language descriptions. Generative AI will upskill every employee.
+One of our biggest competitive advantages in leveraging the power of generative AI is our longtime investment in AI Computer Vision. With Computer Vision, we understand screens, from legacy to modern applications. And our knowledge of screens continues to grow exponentially with more than 2 million calls every day to our AI Computer Vision service in the UiPath Automation Cloud. We are uniquely able to combine this understanding of screens with the cognitive intelligence of generative AI to watch work happen, understand what's being done, and automate it in our enterprise-ready platform.
+Let me show you a quick video of a research project codenamed Wingman that we are currently working on, which illustrates this. If you are not on the webcast, please go to our investor relations website for the link. This shows how generative AI and computer vision can create robust workflows without writing any code. As this technology matures from research into products, we expect to extend the capabilities beyond developers to knowledge workers who will be able to simply describe tasks in natural language and have them executed directly by our platform.
+At our FORWARD IV user conference in the fall of 2021, I described the potential of generative AI using the phrase semantic automation. I am very pleased to report that our first offering in this space, Clipboard AI, is now in preview. Clipboard AI intelligently transfers data between documents, spreadsheets, and apps, understanding the content, and automatically inserting the data into the right places. This use case has the power to transform how people work and is made possible by the depth of our expertise in combining AI Computer Vision, our own domain-specific models, and generative AI.
+Generative AI also creates a compelling opportunity in automating manual tests. Today, application testing often still requires manual intervention, which makes it slow, unresponsive, and highly repetitive. The opportunity for a combination of generative AI and Computer Vision prompted through natural language descriptions and delivered through our platform has the potential to meaningfully transform the testing market, and we are well-positioned to execute here. Generative AI represents a massive opportunity for UiPath, and I am working closely with the team and our customers as we infuse it across our platform and realize its potential.
+This is why I'm so excited to welcome Karenann Terrell to our board of directors. As a former practitioner with C-level technology roles at GSK, Walmart, Baxter International, and DaimlerChrysler, Karenann brings a wealth of experience and a customer perspective, which I believe will benefit the entire company. Before I close and hand the call over to Ashim, I would like to thank everyone who has contributed to UiPath's success. We remain focused on building an enduring Rule of 40 company and are pleased that our first quarter represents another step on that journey.
+With that, I will turn it over to Ashim.
+Ashim Gupta
+--
+Chief Financial Officer
+Thank you, Daniel, and good afternoon, everyone. Unless otherwise indicated, I'll be discussing results on a non-GAAP basis and all growth rates are year over year. I also want to note that since we price and sell in local currency, fluctuations in FX rates impact results. We continue to execute our -- against our strategic imperatives of balanced growth and profitability, which resulted in first quarter revenue outperformance, as well as record non-GAAP operating margin and non-GAAP adjusted free cash flow.
+As a result, we are meaningfully increasing both our full year non-GAAP operating income and non-GAAP adjusted free cash flow outlook this afternoon. Turning to the first quarter. ARR totaled $1.249 billion, an increase of 28%, driven by net new ARR of $45 million. Excluding the FX headwind of $6 million, net new ARR totaled $51 million.
+We ended the quarter with approximately 10,850 customers, including great new logos like Asda, Jubilant Life Sciences, Robert Weed Corporation, TaskRabbit, and Tionale. As Rob mentioned, we saw strength in large customers as they continue to increase their UiPath footprint with broader platform adoption and increased consumption. A great example is Tetra Pak, a customer since 2018 who continues to expand on our platform, adding additional products this quarter like Document Understanding, Action Center, and Automation Hub as they migrate to the cloud. Our strategy is to focus on customers with higher propensity to invest in automation as we transition our smaller accounts to a distribution channel.
+AI is also a central part of our strategy and is infused across our platform. A great example is Canon USA. Working with -- is Canon USA. Working with Greenlight Consulting, Canon has built an automation program that leverages Document Understanding and customized machine-learning models to process over 5,000 invoices each month.
+Automation gives them greater accuracy and efficiency and requires far less need for human interaction, saving their employees over 6,000 hours of manual work annually. Our dollar-based net retention rate for the quarter was 122%. Normalizing for FX, our dollar-based net retention rate was 127%. Dollar-based gross retention of 97% continues to be best in class.
+Revenue grew to $290 million. Normalizing for the FX headwind of approximately $7 million, revenue grew 21%. Remaining performance obligations increased to $904 million, up 34% year over year. FX adjusted, RPO was $891 million.
+Current RPO increased to $559 million. Turning to expenses. We delivered a strong first quarter total gross margin of 87%. Software gross margin was 93%.
+First quarter operating expenses were $205 million, reflecting disciplined cost control. We continue to find opportunities to optimize the business, which allows us to both reinvest in growth and increase profitability. We have built a strong foundation to scale the company and will continue to leverage automation and improve operational excellence to grow the business efficiently. Before I move on, please note, the year-over-year decrease in G&A reflects both cost efficiencies, as well as a reallocation of software expense to other line items.
+GAAP operating loss of $46 million included $85 million of stock-based compensation expense. Non-GAAP operating income was $48 million, resulting in a record first quarter operating margin of 17%. The combination of revenue outperformance and disciplined expense management resulted in record first quarter non-GAAP adjusted free cash flow of $73 million. I am very pleased with this achievement, and we expect to be non-GAAP adjusted free cash flow positive every quarter for the remainder of the year.
+We also have a strong balance sheet, which is an important asset in the current operating environment, with $1.8 billion in cash, cash equivalents, and marketable securities, and no debt. Now, let me turn to guidance, which assumes the overall macroeconomic environment continues to be variable, including in North America, and that we are in the midst of executing our new go-to-market strategy, which includes account segmentation and the transition of smaller customers to distribution partners. For the fiscal second quarter 2024, we expect ARR in the range of $1.301 billion to $1.306 billion, revenue in the range of $279 million to $284 million, non-GAAP operating income to be approximately $10 million. And we expect second quarter basic share count to be approximately 563 million shares.
+For the fiscal full year 2024, we expect ARR in the range of $1.427 billion to $1.432 billion, revenue in the range of $1.267 billion to $1.272 billion, non-GAAP operating income to be approximately $168 million. This translates to a non-GAAP operating margin of 13%, a 700-basis-point increase year over year. Before I close, I want to leave you a few final details. First, given our first quarter gross margin outperformance, we now expect gross margin for fiscal year 2024 to be 85%.
+And finally, we expect fiscal year 2024 non-GAAP adjusted free cash flow of more than $160 million or 13% adjusted free cash flow margin. Looking forward, the team remains focused on delivering growth at scale in a disciplined manner, which allows us to both invest in extending our market leadership while expanding operating margin and increasing adjusted free cash flow. Thank you for joining us today, and we look forward to speaking with many of you during the quarter. With that, I will now turn the call over to the operator.
+Operator, please poll for questions.
+Questions & Answers:
+Operator
+Thank you. And ladies and gentlemen, at this time, we will conduct our question-and-answer session. [Operator instructions] Our first question comes from Terry Tillman with Truist Securities. Please state your question.
+Joe Meares
+--
+Truist Securities -- Analyst
+Hey. This is Joe Meares on for Terry. Thanks for taking the questions. I appreciate it.
+So, you recently announced your new business automation platform with SAP. It sounds like a big deal to us. Can you just explain what drove the decision to make this integration and what you think the opportunity is here?
+Rob Enslin
+--
+Co-Chief Executive Officer
+Hey, Terry, this is Robert. Yeah, thank you for the question. Look, I'm here in Barcelona with many of SAP's customers, and it's a truly exciting event for us. We were key sponsors in both Orlando, Barcelona, and Sao Paulo.
+Well, I think it's -- based in terms of the customers, a large global apparel, footwear company this morning in Barcelona mentioned why the partnership for them is important, and it's basically around the ability to migrate to S/4HANA, drive a clean core, accelerate their digital transformation, combining some of SAP's technologies around Signavio, which is process modeling, connected with our UiPath Task Mining and driving of the UiPath platform. Together, that global footwear, apparel company is working with robots over a couple of thousand hours with the SAP system and seeing significant benefits. Together with customers wanting to move faster, customers wanting to actually see how automation on top of their existing environments, whether they're actually going to go through digital transformation or not. And we believe that our go-to-market organizations on both sides will be able to deliver the value to these customers much, much faster.
+So, it's a significant partnership. The feedback we've got from global systems integrators has been exceptionally positive. We've mentioned a couple of them. And we've had a lot of positive inbound interest in this partnership with SAP.
+Together, today, we also have customers that already utilize it in the Test Suite, the capabilities we have. You can see it. We've mentioned previously with Orica and the benefits they've got of it. So, we think, at the end of the day, customers are going to see significant benefits [Inaudible] by connecting ERP systems, world-class mission-critical ERP systems together with world-class automation systems.
+Joe Meares
+--
+Truist Securities -- Analyst
+Super helpful. And then just as a follow-up, we recently saw UiPath product demonstration that used ChatGPT to come up with test scenarios for the Test Suite. It seems very additive to the platform. Can you just explain at a high level how ChatGPT augments the product and then what your product does that ChatGPT cannot do? Thanks so much.
+Daniel Dines
+--
+Co-Founder and Co-Chief Executive Officer
+We are very excited about the opportunities that generative AI is going to bring to our platform. We are seeing a good opportunity to increase the adoption of our platform by making the existing use cases easier to implement and democratizing access to the platform in the sense that even more and more less technical users can use it. We are building -- as part of this project codenamed Wingman, we are building a copilot-like technology where users can specify in natural language with the task they want to automate, and we use our Computer Vision to read application screens. And by combining our own technology with the cognitive power of ChatGPT, we can actually create very easy-to-use workflows that can be deployed and run by our platform.
+Moreover, we feel that in our Document Understanding business, we can accelerate the creation of domain-specific models by training them using generative AI, but then deploy them in a secure and governed method. So, these domain-specific models have the advantage that they are very precise and they don't hallucinate and they don't pose business risks. And you mentioned testing. Exploratively, testing was very difficult traditionally to automate because people iterate very fast through building an application, and user interface usually change quite a lot.
+But now, we see the opportunity to have a description of the tests in pure English like you do for the manual testers, and then by our automation platform that employs Computer Vision and generative AI, we'll simply explore the user interface and we'll be capable of understanding an application and testing more like a human user. That will result in an acceleration of actually implementing a large application because people will test much more often. So, development cycles will shorten. So, all in once, we believe this is an amazing opportunity for our platform.
+And I want to stress again that the power of -- it really puts into highlight the power of our Computer Vision that reads screens, the power of our execution platform that can execute screens through applications, and the power of our end-to-end platform that can orchestrate and deliver automation in an enterprise great manner.
+Joe Meares
+--
+Truist Securities -- Analyst
+Thanks so much.
+Operator
+Our next question comes from Raimo Lenschow with Barclays. Please state your question.
+Raimo Lenschow
+--
+Barclays -- Analyst
+Thank you and congrats for another solid quarter, guys. The -- I wanted to stay on that testing theme and actually also the SAP theme from the first question. I'm thinking about like testing in an SAP migration environment because like if -- as a lot of customers have to go to S/4HANA, as a lot of customers need to redo and rethink their customizations, etc., it -- should that not be like a significant opportunity for you guys around testing there and work there? And, you know, am I dreaming here or do you see that, and what's the opportunity there? And I have one follow-up for Ashim.
+Rob Enslin
+--
+Co-Chief Executive Officer
+Yeah. Raimo, it's Robert here. When you -- when we mentioned the Orica Test Suite announcement earlier, that is in combination with S/4HANA migration that they're doing. So, an integral part of that migration, it was also automation on top of S/4HANA migration with Test Suite.
+So, we actually have customers today that are actually utilizing significant parts of both platforms. And the opportunity is significant because it also ties in SAP's BTP platform together with the S/4 migration. So, that's why we feel really confident about it. We also feel that it changes the discussion in front of customers, and it drives a significant amount of efficiency in the migration process as well.
+We've also delivered SAP heatmaps and SAP solution accelerators to help move that motion even faster. So, we do see that as a significant opportunity with our partner, SAP.
+Raimo Lenschow
+--
+Barclays -- Analyst
+Yeah. OK. Perfect. It makes sense.
+And then, Ashim, great results on cost control and what you're doing there. And how do we -- how do you think about your cadence -- investment cadence there for the remainder of the year in terms of kind of controlling costs, but also kind of getting ready for in case things are kind of looking better in the second half of the year with the view on 2024? Like how do you kind of run the business at the moment? Many thanks.
+Ashim Gupta
+--
+Chief Financial Officer
+Yeah. I think first is we'll consistently invest in areas that we see opportunity, Raimo. That is both in the go-to-market side, as well as in product. And you can see that in the results of the road map, you know, that Daniel talked about in the product and the excitement that we have there and things like -- and deals like the SAP partnership that happened, you know, through the investment of time, of our resources.
+So, we focus people in the right places with the highest return. You know, we've talked about it. I think we have enough scale now where, you know, a big chunk of our base is really scalable globally. You look at our G&A structure, I think we've built the foundation to scale across every single country and support, you know, the customers and the strategy that's in place today.
+And on the go-to-market side, you know, Rob brings a ton of expertise, and the leadership of the go-to-market teams really are constantly looking for the best opportunity. And focusing on customers with the highest propensity to invest automatically leads to, you know, better ROI in terms of the investments we put in. So, while I think that we will continue to operate the company efficiently, that -- efficiently, for us, means investing in great opportunities and de-emphasizing areas where we don't. And that formula, I think, has shown positive results by you can see not just the generation of free cash flow, but also us raising our overall operating margin guidance here to 13% for the remainder of the year.
+Raimo Lenschow
+--
+Barclays -- Analyst
+Yeah. OK. Makes sense. Well done.
+Thank you.
+Operator
+Our next question comes from Matthew Hedberg with RBC. Please state your question.
+Matthew Hedberg
+--
+RBC Capital Markets -- Analyst
+Great, guys. Thanks for taking my questions. Rob, maybe I'll start with you. Upselling the platform beyond RPA is clearly a big opportunity for you guys.
+And when we look at your growth in large customers, it seems like it's showing up there. Can you talk a little bit more about the success you're seeing there moving customers beyond RPA to the broader platform and what does that do to ARR per customer?
+Rob Enslin
+--
+Co-Chief Executive Officer
+Yeah. Maybe Ashim can also comment on the ARR per customer, but for certain, when you look at our customers above a million, that's improving all the time. I would say, Matt, the discussions we're having with customers today using our Northstar model is significant. It's really around how we can help their businesses, how we can help drive efficiency, and how we can help them deal with this environment that we're working in today.
+So, we see lots of opportunity on that. I think Daniel mentioned Document Understanding. The return on Document Understanding, the results that we have with customers today in healthcare, healthcare providers, and financial institutions is absolutely significant, and we're seeing more and more customers expand. And then as customers start to see areas, if they -- I would say, when we engaged in a sales cycle and it's -- and we're going with Test Suite and they look at the full platform, we're seeing more and more customers select us because of the platform, the opportunity that it provides.
+So, I would say, RPA and automation, today, the enterprise version, the way the companies look at enterprise automation, UiPath is clearly the leader in that space. The partnerships that we've now got in place with big GSIs and big technical partners is making a big difference, and I'm very confident of where we're headed with our focus on industries and these partnerships.
+Matthew Hedberg
+--
+RBC Capital Markets -- Analyst
+Great. Thanks. And maybe just, Ashim, following on Raimo's question on margins. Obviously, super impressive, 9.5% to now 13% for the year.
+You know, just sort of curious, like when we think about that longer-term margin progression, how should we think about the cadence beyond this year, which is obviously been pretty dramatic this year so far?
+Ashim Gupta
+--
+Chief Financial Officer
+Yeah. I think we're really pleased with the progress and the pace of execution by every single employee of UiPath, frankly, you know, working to both serve our customers and find efficiencies together. We -- you know, we've talked about 20% margin in terms of a long-term operating margin goal. You know, we'll update that at the appropriate time as we see the need to.
+But, you know, we're more than halfway there. We feel really good about that progress. You know we -- we're committed to being a Rule of 40 company. And I think just continuing that progress is what we're focused on.
+Matthew Hedberg
+--
+RBC Capital Markets -- Analyst
+Thank you very much.
+Operator
+Thank you. And our next question comes from Mark Murphy with J.P. Morgan. Please state your question.
+Arti Vula
+--
+J.P. Morgan -- Analyst
+Hey. This is Arti on for Mark Murphy. Thanks for taking the question. I wanted to ask, is there any material portion of your pipeline where you look at it and feel like you're being involved in generative AI and LLMs with external products? To be clear, I understand that you guys have your own AI and ML products, but specifically, if you're kind of seeing any incremental pipeline with adoption of this kind of emerging LLMs? Thanks.
+Ashim Gupta
+--
+Chief Financial Officer
+So, I don't think we look at our pipeline in that vein. When we go around and we -- you know, and Rob can talk through the customer portion and the customer stories. Every customer in our pipeline reflects the continued interest and understanding that automation in AI go hand in hand, and the power of generative AI really makes us the right long-term fit for their platform. So, we see that in the pipeline in terms of just the continued throughput of the deals, and the deals with our largest customers reflecting our strategy.
+So, you know, that's the way we see it. Do we have a specific set of pipeline or deals just around AI? We don't look at it that way. And I don't believe our customers do either.
+Rob Enslin
+--
+Co-Chief Executive Officer
+Yeah. I would just add to that.
+Arti Vula
+--
+J.P. Morgan -- Analyst
+Understood. Go ahead, Rob.
+Rob Enslin
+--
+Co-Chief Executive Officer
+Let me just add to that because I think it's really important and I think Daniel -- in Daniel's prepared remarks, I thought it came across really well. Look, when you look at the way we look at enterprise AI, and we are getting a significant amount of discussions with our customers, you have to go back to domain-specific AI. In the domain-specific AI, we've had, you know, years, years of work in this space that our customers, whether it be Task Mining, Document Understanding, our Computer Vision technology. And don't forget Communication Mining as well.
+So, we've got years of understanding in that. We spoke about Clipboard AI previously on generative AI. Customers really want to understand how we can benefit them in the future with automation and how these two go hand in hand. And I think that's going to be something that UiPath will continue to evolve really, really fast in the next month.
+And I would believe that we are seen as a leader -- a thought leader in this space as well. I mean, Daniel, do you want to make some comments on that?
+Daniel Dines
+--
+Co-Founder and Co-Chief Executive Officer
+Yeah. As I said, it's -- I really believe that from a strategic standpoint, AI development will follow a bit like, you know, our human brain development. We have a very powerful cognitive engine, but we have a lot of specialized models, if I can say so, that help us to do many tasks on autopilot. For instance, if I want to try to learn tennis, initially, I'm training using my cognitive understanding the game.
+But then I will play on autopilot because it's much more effective, it's more precise. It's actually much less intensive in terms of resources that it requires. So, obviously, this is going to be the model that will prevail in the enterprise world. And this is why I believe we have an extensive moat here, we've -- based on our Computer Vision technology, and actually, our ability to execute actions on screens, which is a very hard thing to do reliably.
+So, it's part of our IP for the past 15 years. In a way, I really believe that generative AI, it's exactly the missing piece for RPA to really go to the next level of adoption.
+Arti Vula
+--
+J.P. Morgan -- Analyst
+Got it. That was a very insightful and thoughtful answer from all of you. So, I'll just leave it at that. Thank you.
+Ashim Gupta
+--
+Chief Financial Officer
+Thank you.
+Operator
+And our next question comes from Keith Weiss with Morgan Stanley. Please state your question.
+Sanjit Singh
+--
+Morgan Stanley -- Analyst
+Yeah. This is Sanjit Singh for Keith Weiss. I wanted to start first with Ashim. In terms of the demand environment, you guys talked about sustained deal scrutiny similar to last quarter.
+As you look into the trends in May and looking to the pipeline for the rest of the year, how are -- like what sort of the customer buying behavior, how is that shaping up? Any sort of changes you've seen in May versus what you've seen in Q1 and what you saw in Q4?
+Ashim Gupta
+--
+Chief Financial Officer
+So, I think it reflects just, you know, the way that we've described it, which is it's -- it reflects the variability of the macroeconomic environment. That, I think, goes -- changes every single day, and we're attuned to that with our customers. But there's no consistent change that we see a major difference in from that perspective.
+Sanjit Singh
+--
+Morgan Stanley -- Analyst
+Is there any sort of regional variation? You know, there's been some inklings that Europe might be doing better than U.S. and than Asia. Or is it still pretty volatile across the various geos?
+Ashim Gupta
+--
+Chief Financial Officer
+So, you know, just in terms of what I see, and I'll let Rob comment as he's been, you know, with the customers, but from a pipeline perspective, we're really pleased with the execution within -- you know, across our teams. I think the word variable really is a global phenomenon in terms of the overall environment. I think the overall [Inaudible] you know, for a longer period of time, you know, just since last year. And I think North America is something we commented on, you know, in the last earnings call.
+So, from that, those are just the dynamics, and I'd say that's pretty consistent. Nothing else that I would highlight. Rob, I don't know if you want to add on to that.
+Rob Enslin
+--
+Co-Chief Executive Officer
+I paused on that one. I didn't -- I don't think there's much to highlight. I would say that it's consistently variable. I would say the same discussion is taking place with customers when you talk about our Northstar modeling, where we're speaking to customers about the broader automation platform.
+It's progressing very nicely in both the U.S. or the Americas and in EMEA. We're pretty pleased with the progress there. And we will continue to work on the progress in APJ.
+But the market conditions, I would say, are variable consistently.
+Sanjit Singh
+--
+Morgan Stanley -- Analyst
+Understood. And then may I sneak one last one, if I may, for Daniel. You've been pretty clear about -- on this call about the potential for generative AI to help -- you know, make RPA more useful. Testing seems like a very interesting use case, as well as customer service.
+What does that mean from a pricing perspective? So, as you guys incorporate this technology, do you feel like you were -- you'd be able to press on the pricing lever given the potential productivity enhancements that you may extract or deliver to customers?
+Daniel Dines
+--
+Co-Founder and Co-Chief Executive Officer
+Yeah. This is a big tailwind for us. And it's going to positively impact all areas of our platform because, ultimately, we will infuse generative AI across our platform. And this basically will -- with the increased adoption of our technology, I think the generative AI will pay in a way for itself.
+And we will sell more robots. We will sell more documents processing. We will sell more AI units. So, I think it's going to reflect pretty nicely into our existing price model.
+Sanjit Singh
+--
+Morgan Stanley -- Analyst
+I appreciate the thoughts, Daniel. Thank you so much.
+Operator
+Our next question comes from Bryan Bergin with TD Cowen. Please state your question.
+Bryan Bergin
+--
+Cowen and Company -- Analyst
+Hey, guys. Good afternoon. Thanks. I wanted to follow up on the go-to-market refresh.
+Rob, you touched on it briefly, but can you take it a little bit more on the sales and go-to-market reorg across the three operating regions, really just compare and contrast where you stand in North America versus EMEA versus APAC?
+Rob Enslin
+--
+Co-Chief Executive Officer
+Yeah. Look, I mean, I think we've executed the go-to-market changes as we said we would consistently. Those changes, I would say, have settled really well mostly. In the -- in some of the segments, it's taken a little longer than we would have hoped.
+But, you know, right now, I feel really good about where we are and the rhythm we have in the second quarter now the teams are focused. So, absolutely the right decision, absolutely the right execution. And as we said a couple of times, Bryan, I think you'll see the acceleration in the second half of the year due to the changes we've implemented.
+Bryan Bergin
+--
+Cowen and Company -- Analyst
+OK. And then just on the partnership ecosystem, kind of same question here, just any feedback from the service channel partners as you're shifting some of the long tail over to them, any learnings, thus far, on this plan?
+Rob Enslin
+--
+Co-Chief Executive Officer
+Yeah. I would say the partners across the board. You know, you've got to look at the partners. If you look at the big GSIs, I think we're having way more discussions with them.
+They're very much involved in many of our Northstar discussions around digital transformation, big projects. For them, that model fits really well. Our existing partners, the local channel partners are seeing bigger opportunities as we continue to showcase the platform. They get to fundamentally understand how to position the platform.
+And actually, even in some of those partners, we see areas like Document Understanding where they actually really driving it. And then the distribution is where we still got some -- I wouldn't say work to do, but we still got to see it come through. And look, the reaction -- I mean, the one probably that we don't mention because maybe it's not as global, but the partnership with T-Systems, with large companies in Germany, Switzerland, and Austria, and the public sector in Germany is significant, right? We're already working with Deutschlandticket, which is Deutsche Bahn, on their flat-rate ticket system for the whole of Germany. So, that's a big significant opportunity for UiPath as well.
+And then the SAP partnership, coming out of Sapphire, will be in full execution mode. We're really confident that the senior leadership of SAP being here in Barcelona, being on stage tomorrow with the SAP team and their customers will showcase the fundamental difference of that partnership as well.
+Bryan Bergin
+--
+Cowen and Company -- Analyst
+OK. Good to hear. Thank you.
+Operator
+Our next question comes from Michael Turrin with Wells Fargo. Please state your question.
+Austin Williams
+--
+Wells Fargo Securities -- Analyst
+Hi. This is Austin Williams on for Michael Turrin. Thanks for taking our question. It looks like net new ARR was down versus last year in the quarter.
+Is there any additional color that you can add on whether it's new logos or if it's expansions that are impacting that? And as a follow-up, are you seeing any change in the average deal sizes for new lands?
+Ashim Gupta
+--
+Chief Financial Officer
+Yeah. So, just when you look at it, I wouldn't say there's, you know, a driver between new logos and expansion. Really, when -- first thing is normalizing for FX. FX had a $5 million to $6 million impact in the quarter.
+So, I think that's the first piece. And the second is it's more of a just a general -- you know, the broader macroeconomic variability that we see and the transition that we have in terms of the go-to-market changes that we've made. And, you know, that's appropriate. We commented on that at the start of the quarter.
+So, those are really the drivers versus pointing out a specific motion in terms of where it is. In terms of land sizes, you know, we're really pleased with what segmentation has done in terms of focusing on the higher propensity customers. We see -- we're pleased with our large deal execution. You know, Rob mentioned this, our million-dollar-plus customers continue to grow.
+And, you know, from that standpoint, I think that's a good feeling for us in terms of both positioning the platform, as well as larger deal execution, which, of course, involves average selling price being higher.
+Austin Williams
+--
+Wells Fargo Securities -- Analyst
+Got it. Thank you.
+Operator
+Our next question comes from Brad Sills with Bank of America Securities. Please state your question.
+Brad Sills
+--
+Bank of America Merrill Lynch -- Analyst
+Oh, great. Thank you. I wanted to ask a question around the transition to solution selling and the vertical approach here. I think, last quarter, you called out some relative strength in the financials vertical.
+Just curious if we can get an update on where you might be seeing some traction across the verticals with that approach. Thank you.
+Rob Enslin
+--
+Co-Chief Executive Officer
+Yeah, Brad. I mean, we still continue to see the benefits with financial -- the financial sector banking, healthcare providers. We still see -- continue to see that. We announced a couple of names.
+So, that continues to be a source of strength, especially with the solution products like Communication Mining and Document Understanding. But I would say it's variable in other industries. In generic manufacturing, you see Test Suite being driven. So, we -- from an industry point of view, I think, over time, as we produce more and more solution accelerators, as we get more and more focused on which solutions fit which industries, you're going to see the expansion by industry.
+The piece that is significant as well is that the global systems integrators, the big partners are actually going to work with us in specific industry focus areas, and you're going to start to see that expand in the coming months as well. So, I wouldn't say specifically we saw significant uptake in any particular industry in the first quarter, but still, financial services, healthcare are still the areas where we see that we have seen progress.
+Brad Sills
+--
+Bank of America Merrill Lynch -- Analyst
+Wonderful. Thank you so much. And one more, if I may, just on a couple of partnerships here, the Amazon SageMaker and Snowflake partnership. How do you envision these partnerships impacting the business? Are we talking about just more relevance by blending data, you know, from these data sets and AI-ML libraries to increase the velocity of deployment of more bots, the accuracy of bots? I mean, how do you see this impacting the business as you bring in data set from Snowflake and the AI-ML library from AWS SageMaker? Thank you.
+Rob Enslin
+--
+Co-Chief Executive Officer
+Yeah. Well, Daniel, you can take the SageMaker one. On Snowflake, I think it's pretty clear, Brad, that it just helps customers automate faster, connect quicker to Snowflake data in the manufacturing sector, and deploy bots much, much faster. Actually, we see quite a significant amount at the Sapphire event that we're in.
+We see a significant amount of customers in that space, manufacturing, wanting to understand more about not the Snowflake partnership, but how they can actually deploy bots in manufacturing supply chain logistics much faster. So, we see that as a significant opportunity as well.
+Brad Sills
+--
+Bank of America Merrill Lynch -- Analyst
+Thanks, Rob.
+Daniel Dines
+--
+Co-Founder and Co-Chief Executive Officer
+Yeah. Obviously, I think it's a big opportunity in our analytics platform. We use Snowflake as actually a foundational layer in process mining and all our analytics. We kind of standardize on the platform.
+And we use the power of it. And of course, SageMaker is great for hosting models. It's to accelerate, you know, our AI strategy. So, all in one, it's a really positive event for us.
+Brad Sills
+--
+Bank of America Merrill Lynch -- Analyst
+Thank you so much.
+Operator
+Our next question comes from Kingsley Crane with Canaccord Genuity. Please state your question.
+Unknown speaker
+--
+Canaccord Genuity -- Analyst
+Hi, guys. This is Gabriel [Inaudible] for Kingsley Crane. Congratulations on the quarter. I find it very fascinating about the generative AI being a great gateway to leverage the rest of the automation platform.
+So, in that respect, what impact do you guys are taking into account for the guidance for this year or for longer term of generative AI and the adoption of the platform overall increasing thanks to it?
+Daniel Dines
+--
+Co-Founder and Co-Chief Executive Officer
+Well, I think, generative AI, it's a bit of a longer shot to have impacted the guiding for this year. We -- my estimation is real adoption in the enterprise would probably start more like next year rather than this current fiscal year.
+Operator
+Thank you. Our next question comes from Scott Berg with Needham. Please state your question.
+Scott Berg
+--
+Needham and Company -- Analyst
+Hi, everyone. Congrats on a good quarter. Most of my questions have been largely asked, but I just wanted to ask for one, and I apologize for the background noise, on the plane here. But my question is on the adoption of your native cloud bots.
+I think they've been in the market for a little bit more than a year now. I just want to see if you had an update maybe on the traction of selling them versus the more traditional term licensed spots that you have out there. Thank you.
+Ashim Gupta
+--
+Chief Financial Officer
+We see really good -- you know, overall progress in our hybrid offering, I think, is really good. I think ACR is still early. You know, like there's a lot of -- our customers will still work and are developing their cloud strategies, you know, their full cloud strategies across enterprise automation. But the feedback from our customers, you know, the interest continues to be very well, and it's positioned well in the market.
+But, you know, our -- having that on the road map, coupled with the capabilities that continue to be released on our cloud platform, you know, we feel very good about that.
+Operator
+Thank you. And we have reached the end of the question-and-answer session. I'll now hand the floor back to Robert Enslin for closing remarks.
+Rob Enslin
+--
+Co-Chief Executive Officer
+Yeah. Thank you, everybody, for joining us. We look forward to connecting with many of you in the coming weeks, and we appreciate you all joining us today. Thank you.
+Operator
+[Operator signoff]
+Duration: 0 minutes
