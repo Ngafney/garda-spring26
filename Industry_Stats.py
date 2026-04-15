@@ -13,7 +13,7 @@ from tqdm import tqdm
 # ==========================================
 # 0. Dynamic Sector Loader
 # ==========================================
-SECTOR_MAP_PATH = r"C:\Users\rajaa\OneDrive\Desktop\GardaData\company_sector_map.csv"
+SECTOR_MAP_PATH = r"C:\Users\rajaa\OneDrive\Desktop\GardDat\company_sector_map.csv"
 COMPANY_TO_SECTOR = {}
 
 if os.path.exists(SECTOR_MAP_PATH):
@@ -300,7 +300,7 @@ def score_transcript(file_path: str, folder_dir: str) -> dict[str, object]:
 # 4. Execution Logic
 # ==========================================
 def main():
-    folder_dir = r"C:\Users\rajaa\OneDrive\Desktop\GardaData"
+    folder_dir = r"C:\Users\rajaa\OneDrive\Desktop\GardDat"
     search_pattern = os.path.join(folder_dir, "**", "*.txt")
     txt_files = glob.glob(search_pattern, recursive=True)
     
