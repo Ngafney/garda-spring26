@@ -2,9 +2,12 @@
 __pycache__/
 *.py[cod]
 .pytest_cache/
+.pytest-cache-local/
+.pytest-tmp/
 .ruff_cache/
 .mypy_cache/
 .ipynb_checkpoints/
 .DS_Store
 Thumbs.db
 data/raw/earnings/*.pkl
+pytest-cache-files-*/
