@@ -62,9 +62,64 @@ class PhraseCounter:
     def count(self, text: str) -> int:
         return len(self.pattern.findall(text)) if text and self.pattern else 0
 
-BASE_SENTIMENT = LexiconSpec(positive=("accelerating", "accretive", "backlog", "benefit", "beneficial", "beat", "confidence", "confident", "constructive", "disciplined", "durable", "efficiency", "efficient", "expand", "expansion", "favorable", "free cash flow", "gain share", "growth", "healthy", "improve", "improved", "improving", "margin expansion", "momentum", "opportunity", "outperform", "positive", "pricing power", "productivity", "ramp", "record", "resilient", "robust", "solid", "stable", "strength", "strong", "upside", "well positioned"), negative=("challenging", "compression", "constraint", "constraints", "cautious", "cut", "cutting", "decline", "deceleration", "destocking", "deterioration", "difficult", "disruption", "downturn", "erosion", "headwind", "impairment", "inflationary", "loss", "miss", "negative", "pressure", "recession", "restructuring", "risk", "shortage", "slowdown", "soft", "softness", "uncertain", "uncertainty", "underperform", "volatility", "weak", "weaker", "weakness"))
-UNCERTAINTY_TERMS = ("uncertain", "uncertainty", "volatile", "volatility", "visibility", "limited visibility", "challenging backdrop", "challenging environment", "macro uncertainty", "not clear", "unknown", "range of outcomes", "hard to predict", "difficult to predict", "fluid environment", "monitor closely", "cautious")
-RISK_TERMS = ("headwind", "headwinds", "pressure", "risk", "risks", "challenging", "volatility", "recession", "tariff", "tariffs", "geopolitical", "fx", "foreign exchange", "interest rate", "interest rates", "consumer weakness", "slowdown", "macro pressure", "uncertainty")
+BASE_SENTIMENT = LexiconSpec(
+    positive=(
+        "accelerating", "accretive", "backlog", "benefit", "beneficial", "beat", "confidence", 
+        "confident", "constructive", "disciplined", "durable", "efficiency", "efficient", 
+        "expand", "expansion", "favorable", "free cash flow", "gain share", "growth", 
+        "healthy", "improve", "improved", "improving", "margin expansion", "momentum", 
+        "opportunity", "outperform", "positive", "pricing power", "productivity", "ramp", 
+        "record", "resilient", "robust", "solid", "stable", "strength", "strong", 
+        "upside", "well positioned"
+    ),
+    negative=(
+        "challenging", "compression", "constraint", "constraints", "cautious", "cut", 
+        "cutting", "decline", "deceleration", "destocking", "deterioration", "difficult", 
+        "disruption", "downturn", "erosion", "headwind", "impairment", "inflationary", 
+        "loss", "miss", "negative", "pressure", "recession", "restructuring", "risk", 
+        "shortage", "slowdown", "soft", "softness", "uncertain", "uncertainty", 
+        "underperform", "volatility", "weak", "weaker", "weakness"
+    )
+)
+
+UNCERTAINTY_LEXICON = LexiconSpec(
+    positive=(
+        "visibility", "clearer outlook", "predictable", "stabilizing", "well-defined", 
+        "certainty", "transparency", "known variables"
+    ),
+    negative=(
+        "uncertain", "uncertainty", "volatile", "volatility", "limited visibility", 
+        "challenging backdrop", "challenging environment", "macro uncertainty", 
+        "not clear", "unknown", "range of outcomes", "hard to predict", 
+        "difficult to predict", "fluid environment", "monitor closely", "cautious"
+    )
+)
+
+SUPPLY_PRESSURE_LEXICON = LexiconSpec(
+    positive=(
+        "supply easing", "normalization", "inventory health", "improved lead times", 
+        "logistics recovery", "de-bottlenecking", "resolved shortages"
+    ),
+    negative=(
+        "supply chain", "shortage", "shortages", "constraint", "constraints", 
+        "constrained", "bottleneck", "bottlenecks", "lead time", "lead times", 
+        "backorder", "backorders", "shipping delay", "freight pressure", 
+        "logistics pressure", "inventory shortage", "component shortage"
+    )
+)
+
+MACRO_RISK_LEXICON = LexiconSpec(
+    positive=(
+        "macro stability", "soft landing", "favorable fx", "rate cuts", 
+        "easing tariffs", "geopolitical stability", "improving macro"
+    ),
+    negative=(
+        "recession", "macro uncertainty", "geopolitical", "tariff", "tariffs", 
+        "interest rate", "interest rates", "higher rates", "consumer weakness", 
+        "europe weakness", "china weakness", "fx headwind", "foreign exchange", 
+        "currency headwind", "inflation", "deflation", "credit tightening"
+    )
+)
 DEMAND_LEXICON = LexiconSpec(positive=("strong demand", "healthy demand", "robust demand", "solid demand", "better demand", "improving demand", "stable demand", "order growth", "bookings growth", "backlog growth", "good demand", "demand recovery", "volume growth", "share gains", "market share gains"), negative=("weak demand", "soft demand", "demand slowdown", "slowing demand", "lower demand", "demand pressure", "order weakness", "bookings weakness", "backlog pressure", "customer caution", "cautious customer", "destocking", "inventory correction", "volume pressure", "traffic weakness"))
 PRICING_LEXICON = LexiconSpec(positive=("pricing power", "price increase", "price increases", "positive pricing", "favorable pricing", "pricing discipline", "price realization", "net price", "margin expansion", "mix benefit", "premiumization", "higher price", "pass-through", "pass through", "pricing actions"), negative=("price pressure", "pricing pressure", "promotional", "promotions", "discounting", "discounts", "margin pressure", "cost inflation", "inflationary pressure", "input cost", "commodity inflation", "mix headwind", "unfavorable mix", "deflation", "price elasticity"))
 CAPEX_LEXICON = LexiconSpec(positive=("capital expenditure", "capex", "investment", "investing", "capacity expansion", "buildout", "factory expansion", "new plant", "greenfield", "brownfield", "data center", "expansion project", "ramping capacity", "automation investment", "infrastructure investment"), negative=("cut capex", "reduce capex", "lower capex", "pause investment", "delay investment", "project delay", "project delays", "cancel project", "capacity reduction"))
@@ -72,23 +127,24 @@ GDP_GROWTH_LEXICON = LexiconSpec(positive=("gdp growth", "economic growth", "rea
 AI_LEXICON = LexiconSpec(positive=("ai", "artificial intelligence", "generative ai", "gen ai", "machine learning", "large language model", "large language models", "llm", "llms", "ai agent", "ai agents", "copilot", "automation", "intelligent automation", "ai adoption", "ai demand", "ai infrastructure", "ai workload", "ai workloads", "gpu acceleration", "accelerated computing", "inference", "model training", "productivity gains", "efficiency gains"), negative=("ai disruption", "ai risk", "ai risks", "ai uncertainty", "ai regulation", "regulatory risk", "model risk", "hallucination", "data privacy risk", "job displacement", "automation risk", "ai capex burden", "gpu shortage", "compute constraint", "ai bubble", "overinvestment in ai"))
 UNEMPLOYMENT_LEXICON = LexiconSpec(positive=("low unemployment", "lower unemployment", "unemployment declined", "unemployment fell", "job growth", "jobs growth", "payroll growth", "employment growth", "strong labor market", "healthy labor market", "labor market strength", "solid hiring", "hiring momentum", "wage growth", "rising employment", "workforce expansion"), negative=("high unemployment", "higher unemployment", "unemployment rose", "unemployment increased", "job losses", "payroll decline", "employment decline", "labor market weakness", "weak labor market", "slowing hiring", "hiring slowdown", "layoffs", "workforce reduction", "headcount reduction", "job cuts", "rising unemployment", "underemployment"))
 INFLATION_LEXICON = LexiconSpec(positive=("disinflation", "disinflationary", "inflation easing", "easing inflation", "lower inflation", "inflation moderated", "inflation moderation", "cooling inflation", "price stability", "stable prices", "lower input costs", "cost deflation", "commodity deflation", "freight deflation", "wage moderation", "lower fuel costs"), negative=("inflation", "inflationary", "high inflation", "higher inflation", "rising inflation", "sticky inflation", "persistent inflation", "inflation pressure", "inflationary pressure", "price pressure", "cost inflation", "input cost inflation", "commodity inflation", "wage inflation", "food inflation", "fuel inflation", "rent inflation", "pass-through inflation", "price increases"))
-SUPPLY_PRESSURE_TERMS = ("supply chain", "shortage", "shortages", "constraint", "constraints", "constrained", "bottleneck", "bottlenecks", "lead time", "lead times", "backorder", "backorders", "shipping delay", "freight pressure", "logistics pressure", "inventory shortage", "component shortage")
-LABOR_PRESSURE_TERMS = ("labor shortage", "tight labor market", "labor availability", "wage pressure", "hiring challenge", "staffing challenge", "recruiting challenge", "turnover", "retention challenge", "overtime", "labor inflation", "wage inflation", "headcount pressure")
-AUTOMATION_TERMS = ("automation", "automate", "automated", "robotics", "ai", "artificial intelligence", "machine learning", "copilot", "productivity gains", "efficiency gains", "digitalization", "software driven", "self-service")
-MACRO_RISK_TERMS = ("recession", "macro uncertainty", "geopolitical", "tariff", "tariffs", "interest rate", "interest rates", "higher rates", "consumer weakness", "europe weakness", "china weakness", "fx headwind", "foreign exchange", "currency headwind", "inflation", "deflation", "credit tightening")
 
 COUNTERS = {
-    "base_positive": PhraseCounter(BASE_SENTIMENT.positive), "base_negative": PhraseCounter(BASE_SENTIMENT.negative),
-    "uncertainty": PhraseCounter(UNCERTAINTY_TERMS), "risk": PhraseCounter(RISK_TERMS),
+    "base_positive": PhraseCounter(BASE_SENTIMENT.positive), 
+    "base_negative": PhraseCounter(BASE_SENTIMENT.negative),
+    "uncertainty_positive": PhraseCounter(UNCERTAINTY_LEXICON.positive),
+    "uncertainty_negative": PhraseCounter(UNCERTAINTY_LEXICON.negative),
+    "supply_positive": PhraseCounter(SUPPLY_PRESSURE_LEXICON.positive),
+    "supply_negative": PhraseCounter(SUPPLY_PRESSURE_LEXICON.negative),
+    "macro_risk_positive": PhraseCounter(MACRO_RISK_LEXICON.positive),
+    "macro_risk_negative": PhraseCounter(MACRO_RISK_LEXICON.negative),
     "demand_positive": PhraseCounter(DEMAND_LEXICON.positive), "demand_negative": PhraseCounter(DEMAND_LEXICON.negative),
     "pricing_positive": PhraseCounter(PRICING_LEXICON.positive), "pricing_negative": PhraseCounter(PRICING_LEXICON.negative),
     "capex_positive": PhraseCounter(CAPEX_LEXICON.positive), "capex_negative": PhraseCounter(CAPEX_LEXICON.negative),
     "gdp_growth_positive": PhraseCounter(GDP_GROWTH_LEXICON.positive), "gdp_growth_negative": PhraseCounter(GDP_GROWTH_LEXICON.negative),
     "ai_positive": PhraseCounter(AI_LEXICON.positive), "ai_negative": PhraseCounter(AI_LEXICON.negative),
     "unemployment_positive": PhraseCounter(UNEMPLOYMENT_LEXICON.positive), "unemployment_negative": PhraseCounter(UNEMPLOYMENT_LEXICON.negative),
-    "inflation_positive": PhraseCounter(INFLATION_LEXICON.positive), "inflation_negative": PhraseCounter(INFLATION_LEXICON.negative),
-    "supply_pressure": PhraseCounter(SUPPLY_PRESSURE_TERMS), "labor_pressure": PhraseCounter(LABOR_PRESSURE_TERMS),
-    "automation": PhraseCounter(AUTOMATION_TERMS), "macro_risk": PhraseCounter(MACRO_RISK_TERMS),
+    "inflation_positive": PhraseCounter(INFLATION_LEXICON.positive), "inflation_negative": PhraseCounter(INFLATION_LEXICON.negative), "labor_pressure": PhraseCounter(LABOR_PRESSURE_TERMS),
+    "automation": PhraseCounter(AUTOMATION_TERMS), 
 }
 
 # ==========================================
