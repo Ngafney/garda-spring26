@@ -22,7 +22,7 @@ if os.path.exists(SECTOR_MAP_PATH):
     for _, row in sector_df.iterrows():
         COMPANY_TO_SECTOR[str(row['company_slug']).lower()] = str(row['sector'])
 else:
-    print("⚠️ WARNING: company_sector_map.csv not found. All companies will be 'Unassigned'.")
+    print("WARNING: company_sector_map.csv not found. All companies will be 'Unassigned'.")
 
 # ==========================================
 # 1. Constants & Lexicons (FULL VERSION)
@@ -127,6 +127,16 @@ GDP_GROWTH_LEXICON = LexiconSpec(positive=("gdp growth", "economic growth", "rea
 AI_LEXICON = LexiconSpec(positive=("ai", "artificial intelligence", "generative ai", "gen ai", "machine learning", "large language model", "large language models", "llm", "llms", "ai agent", "ai agents", "copilot", "automation", "intelligent automation", "ai adoption", "ai demand", "ai infrastructure", "ai workload", "ai workloads", "gpu acceleration", "accelerated computing", "inference", "model training", "productivity gains", "efficiency gains"), negative=("ai disruption", "ai risk", "ai risks", "ai uncertainty", "ai regulation", "regulatory risk", "model risk", "hallucination", "data privacy risk", "job displacement", "automation risk", "ai capex burden", "gpu shortage", "compute constraint", "ai bubble", "overinvestment in ai"))
 UNEMPLOYMENT_LEXICON = LexiconSpec(positive=("low unemployment", "lower unemployment", "unemployment declined", "unemployment fell", "job growth", "jobs growth", "payroll growth", "employment growth", "strong labor market", "healthy labor market", "labor market strength", "solid hiring", "hiring momentum", "wage growth", "rising employment", "workforce expansion"), negative=("high unemployment", "higher unemployment", "unemployment rose", "unemployment increased", "job losses", "payroll decline", "employment decline", "labor market weakness", "weak labor market", "slowing hiring", "hiring slowdown", "layoffs", "workforce reduction", "headcount reduction", "job cuts", "rising unemployment", "underemployment"))
 INFLATION_LEXICON = LexiconSpec(positive=("disinflation", "disinflationary", "inflation easing", "easing inflation", "lower inflation", "inflation moderated", "inflation moderation", "cooling inflation", "price stability", "stable prices", "lower input costs", "cost deflation", "commodity deflation", "freight deflation", "wage moderation", "lower fuel costs"), negative=("inflation", "inflationary", "high inflation", "higher inflation", "rising inflation", "sticky inflation", "persistent inflation", "inflation pressure", "inflationary pressure", "price pressure", "cost inflation", "input cost inflation", "commodity inflation", "wage inflation", "food inflation", "fuel inflation", "rent inflation", "pass-through inflation", "price increases"))
+LABOR_PRESSURE_TERMS = ("labor shortage", "tight labor market", "labor availability", "wage pressure", "hiring challenge", "staffing challenge", "recruiting challenge", "turnover", "retention challenge", "overtime", "labor inflation", "wage inflation", "headcount pressure")
+AUTOMATION_TERMS = ("automation", "automate", "automated", "robotics", "ai", "artificial intelligence", "machine learning", "copilot", "productivity gains", "efficiency gains", "digitalization", "software driven", "self-service")
+
+Z_SCORE_CATEGORY_COLS = {
+    "inflation": "inflation_net",
+    "gdp": "gdp_growth_net",
+    "ai": "ai_net",
+    "unemployment": "unemployment_net",
+    "uncertainty": "uncertainty_net",
+}
 
 COUNTERS = {
     "base_positive": PhraseCounter(BASE_SENTIMENT.positive), 
@@ -143,7 +153,8 @@ COUNTERS = {
     "gdp_growth_positive": PhraseCounter(GDP_GROWTH_LEXICON.positive), "gdp_growth_negative": PhraseCounter(GDP_GROWTH_LEXICON.negative),
     "ai_positive": PhraseCounter(AI_LEXICON.positive), "ai_negative": PhraseCounter(AI_LEXICON.negative),
     "unemployment_positive": PhraseCounter(UNEMPLOYMENT_LEXICON.positive), "unemployment_negative": PhraseCounter(UNEMPLOYMENT_LEXICON.negative),
-    "inflation_positive": PhraseCounter(INFLATION_LEXICON.positive), "inflation_negative": PhraseCounter(INFLATION_LEXICON.negative), "labor_pressure": PhraseCounter(LABOR_PRESSURE_TERMS),
+    "inflation_positive": PhraseCounter(INFLATION_LEXICON.positive), "inflation_negative": PhraseCounter(INFLATION_LEXICON.negative),
+    "labor_pressure": PhraseCounter(LABOR_PRESSURE_TERMS),
     "automation": PhraseCounter(AUTOMATION_TERMS), 
 }
 
@@ -156,6 +167,11 @@ def split_sentences(text: str) -> list[str]: return [normalize_space(part) for p
 def tokenize(text: str) -> list[str]: return WORD_RE.findall(text.lower())
 def safe_density(count: int, denominator: int) -> float: return count / denominator if denominator > 0 else 0.0
 def safe_net(pos: int, neg: int, denom: int) -> float: return (pos - neg) / denom if denom > 0 else 0.0
+def safe_zscore(series: pd.Series) -> pd.Series:
+    std = series.std(ddof=0)
+    if not np.isfinite(std) or std == 0:
+        return pd.Series(0.0, index=series.index)
+    return (series - series.mean()) / std
 
 def looks_like_speaker_line(line: str) -> bool:
     stripped = line.strip()
@@ -282,6 +298,12 @@ def tone_metrics(text: str, prefix: str) -> dict[str, float]:
 
 def topic_metrics(text: str) -> dict[str, float]: 
     tc = len(tokenize(text)) 
+    supply_pos = COUNTERS["supply_positive"].count(text)
+    supply_neg = COUNTERS["supply_negative"].count(text)
+    macro_pos = COUNTERS["macro_risk_positive"].count(text)
+    macro_neg = COUNTERS["macro_risk_negative"].count(text)
+    uncertainty_pos = COUNTERS["uncertainty_positive"].count(text)
+    uncertainty_neg = COUNTERS["uncertainty_negative"].count(text)
     return { 
         "demand_positive_density": safe_density(COUNTERS["demand_positive"].count(text), tc), 
         "demand_negative_density": safe_density(COUNTERS["demand_negative"].count(text), tc), 
@@ -304,12 +326,17 @@ def topic_metrics(text: str) -> dict[str, float]:
         "inflation_positive_density": safe_density(COUNTERS["inflation_positive"].count(text), tc),
         "inflation_negative_density": safe_density(COUNTERS["inflation_negative"].count(text), tc),
         "inflation_net": safe_net(COUNTERS["inflation_positive"].count(text), COUNTERS["inflation_negative"].count(text), tc),
-        "supply_chain_pressure_density": safe_density(COUNTERS["supply_pressure"].count(text), tc), 
+        "supply_chain_positive_density": safe_density(supply_pos, tc),
+        "supply_chain_pressure_density": safe_density(supply_neg, tc),
+        "supply_chain_net": safe_net(supply_pos, supply_neg, tc),
         "labor_pressure_density": safe_density(COUNTERS["labor_pressure"].count(text), tc), 
         "automation_density": safe_density(COUNTERS["automation"].count(text), tc), 
-        "uncertainty_density": safe_density(COUNTERS["uncertainty"].count(text), tc),
-        "risk_density": safe_density(COUNTERS["risk"].count(text), tc), 
-        "macro_risk_density": safe_density(COUNTERS["macro_risk"].count(text), tc), 
+        "uncertainty_positive_density": safe_density(uncertainty_pos, tc),
+        "uncertainty_density": safe_density(uncertainty_neg, tc),
+        "uncertainty_net": safe_net(uncertainty_pos, uncertainty_neg, tc),
+        "macro_risk_positive_density": safe_density(macro_pos, tc),
+        "macro_risk_density": safe_density(macro_neg, tc),
+        "macro_risk_net": safe_net(macro_pos, macro_neg, tc),
     } 
 
 def guidance_flags(text: str) -> dict[str, int]:
@@ -317,6 +344,35 @@ def guidance_flags(text: str) -> dict[str, int]:
         "guidance_raised": int(any(p.search(text) for p in GUIDANCE_RAISED_PATTERNS)),
         "guidance_lowered": int(any(p.search(text) for p in GUIDANCE_LOWERED_PATTERNS)),
     }
+
+def add_category_zscores(
+    df: pd.DataFrame,
+    group_cols: Sequence[str],
+    category_cols: dict[str, str],
+    suffix: str = "zscore",
+) -> pd.DataFrame:
+    scored = df.copy()
+    for category, source_col in category_cols.items():
+        z_col = f"{category}_{suffix}"
+        scored[z_col] = (
+            scored.groupby(list(group_cols), group_keys=False)[source_col]
+            .transform(safe_zscore)
+            .fillna(0.0)
+        )
+    return scored
+
+def category_zscore_long(df: pd.DataFrame) -> pd.DataFrame:
+    rows: list[dict[str, object]] = []
+    for _, row in df.iterrows():
+        for category, source_col in Z_SCORE_CATEGORY_COLS.items():
+            rows.append({
+                "sector": row["sector"],
+                "year_quarter": row["year_quarter"],
+                "category": category,
+                "raw_score": row[source_col],
+                "z_score": row[f"{category}_zscore"],
+            })
+    return pd.DataFrame(rows)
 
 # ==========================================
 # 3. Data Engineering Logic
@@ -395,15 +451,34 @@ def main():
     numeric_cols = panel.select_dtypes(include=[np.number]).columns.tolist()
     sector_quarter_df = panel.groupby(['sector', 'year_quarter'])[numeric_cols].mean().reset_index()
     sector_quarter_df = sector_quarter_df.sort_values(by=['sector', 'year_quarter'])
+    sector_quarter_df = add_category_zscores(
+        sector_quarter_df,
+        group_cols=["sector"],
+        category_cols=Z_SCORE_CATEGORY_COLS,
+    )
+    category_zscores_df = category_zscore_long(sector_quarter_df)
     
-    results_df = sector_quarter_df[["sector", "year_quarter", "composite_signal", "growth_signal", "margin_signal", "overall_net_tone"]].round(4)
+    category_summary_cols = [
+        "inflation_net", "inflation_zscore",
+        "gdp_growth_net", "gdp_zscore",
+        "ai_net", "ai_zscore",
+        "unemployment_net", "unemployment_zscore",
+        "uncertainty_net", "uncertainty_zscore",
+    ]
+    results_df = sector_quarter_df[
+        ["sector", "year_quarter", "composite_signal", "growth_signal", "margin_signal", "overall_net_tone"]
+        + category_summary_cols
+    ].round(4)
     
-    print("\n✅ Success! Aggregated Data by SECTOR and QUARTER:")
+    print("\nSuccess! Aggregated Data by SECTOR and QUARTER:")
     print(results_df.to_string(index=False))
     
     output_csv = os.path.join(folder_dir, "earnings_research_sector_quarterly.csv")
+    category_zscore_csv = os.path.join(folder_dir, "earnings_research_category_zscores.csv")
     sector_quarter_df.to_csv(output_csv, index=False)
-    print(f"\n📂 Final sector data saved to: {output_csv}")
+    category_zscores_df.to_csv(category_zscore_csv, index=False)
+    print(f"\nFinal sector data saved to: {output_csv}")
+    print(f"Category z-score data saved to: {category_zscore_csv}")
 
 if __name__ == "__main__":
     main()
