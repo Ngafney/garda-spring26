@@ -1,372 +1,308 @@
-import os
-import glob
+import argparse
 import logging
 import math
+import os
 import re
+from concurrent.futures import ThreadPoolExecutor
 from dataclasses import dataclass
 from pathlib import Path
-from typing import Iterable, Sequence
+
+import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
 from tqdm import tqdm
 
-# ==========================================
-# 0. Dynamic Sector Loader
-# ==========================================
-SECTOR_MAP_PATH = r"C:\Users\rajaa\OneDrive\Desktop\GardDat\company_sector_map.csv"
-COMPANY_TO_SECTOR = {}
 
-if os.path.exists(SECTOR_MAP_PATH):
-    print("--> Loading Sector Data from CSV...")
-    sector_df = pd.read_csv(SECTOR_MAP_PATH)
-    for _, row in sector_df.iterrows():
-        COMPANY_TO_SECTOR[str(row['company_slug']).lower()] = str(row['sector'])
-else:
-    print("WARNING: company_sector_map.csv not found. All companies will be 'Unassigned'.")
-
-# ==========================================
-# 1. Constants & Lexicons (FULL VERSION)
-# ==========================================
 LOGGER = logging.getLogger(__name__)
-
 WORD_RE = re.compile(r"\b[\w%./-]+\b")
 SENTENCE_RE = re.compile(r"(?<=[.!?])\s+")
-DATE_IN_STEM_RE = re.compile(r"^(?P<ticker>[A-Z0-9.\-]+)_(?P<call_date>\d{4}-\d{2}-\d{2})_(?P<fiscal_period>[^.]+)$")
+DATE_RE = re.compile(r"(\d{4}-\d{2}-\d{2})")
 
-QA_HEADER_RE = re.compile(r"^\s*(questions?\s*(?:&|and)\s*answers?|question-and-?answer(?:\s+session)?|q&a)\s*:?\s*$", flags=re.IGNORECASE)
-QA_TRANSITION_RE = re.compile(r"\b(we will now begin the question-and-answer session|we will now be conducting a question-and-answer session|open the line for q&a|open the call for q&a|operator[, ]+please open the call for q&a|operator[, ]+please provide instructions for those interested in asking a question|let'?s open it up for questions)\b", flags=re.IGNORECASE)
-
-MANAGEMENT_TITLE_HINTS = ("chief", "ceo", "cfo", "coo", "president", "chair", "chairman", "founder", "investor relations", "finance", "financial officer", "treasurer", "controller", "vice president", "svp", "evp", "vp", "director", "head of", "general manager")
-ANALYST_TITLE_HINTS = ("analyst", "research", "securities", "capital markets", "equity research")
-
-BOILERPLATE_PATTERNS = (re.compile(r"\bforward-looking statements?\b", flags=re.IGNORECASE), re.compile(r"\bsafe harbor\b", flags=re.IGNORECASE), re.compile(r"\bnon-gaap\b", flags=re.IGNORECASE), re.compile(r"\breconciliation\b", flags=re.IGNORECASE), re.compile(r"\boperator instructions?\b", flags=re.IGNORECASE), re.compile(r"\binvestor relations website\b", flags=re.IGNORECASE), re.compile(r"\bsec\b", flags=re.IGNORECASE), re.compile(r"\bwebcast replay\b", flags=re.IGNORECASE), re.compile(r"\bpress release\b", flags=re.IGNORECASE))
-GUIDANCE_RAISED_PATTERNS = (re.compile(r"\brais(?:e|ed|ing)\b.{0,40}\bguidance\b", flags=re.IGNORECASE), re.compile(r"\bincreas(?:e|ed|ing)\b.{0,40}\boutlook\b", flags=re.IGNORECASE), re.compile(r"\bupdat(?:e|ed|ing)\b.{0,40}\bupward\b", flags=re.IGNORECASE))
-GUIDANCE_LOWERED_PATTERNS = (re.compile(r"\blower(?:ed|ing)?\b.{0,40}\bguidance\b", flags=re.IGNORECASE), re.compile(r"\breduc(?:e|ed|ing)\b.{0,40}\boutlook\b", flags=re.IGNORECASE), re.compile(r"\bcut\b.{0,40}\bguidance\b", flags=re.IGNORECASE))
-
-@dataclass(frozen=True)
-class Block:
-    section: str
-    speaker: str | None
-    title: str | None
-    text: str
 
 @dataclass(frozen=True)
 class LexiconSpec:
     positive: tuple[str, ...] = ()
     negative: tuple[str, ...] = ()
 
+
 class PhraseCounter:
-    def __init__(self, phrases: Sequence[str]):
+    def __init__(self, phrases: tuple[str, ...]):
         escaped = [re.escape(phrase.lower()) for phrase in phrases if phrase]
-        self.pattern = re.compile(r"(?<!\w)(?:%s)(?!\w)" % "|".join(escaped), flags=re.IGNORECASE) if escaped else None
+        self.pattern = (
+            re.compile(r"(?<!\w)(?:%s)(?!\w)" % "|".join(escaped), flags=re.IGNORECASE)
+            if escaped
+            else None
+        )
+
     def count(self, text: str) -> int:
-        return len(self.pattern.findall(text)) if text and self.pattern else 0
+        return len(self.pattern.findall(text)) if self.pattern and text else 0
 
-BASE_SENTIMENT = LexiconSpec(
-    positive=(
-        "accelerating", "accretive", "backlog", "benefit", "beneficial", "beat", "confidence", 
-        "confident", "constructive", "disciplined", "durable", "efficiency", "efficient", 
-        "expand", "expansion", "favorable", "free cash flow", "gain share", "growth", 
-        "healthy", "improve", "improved", "improving", "margin expansion", "momentum", 
-        "opportunity", "outperform", "positive", "pricing power", "productivity", "ramp", 
-        "record", "resilient", "robust", "solid", "stable", "strength", "strong", 
-        "upside", "well positioned"
+
+DEFAULT_WORD_BANK: dict[str, LexiconSpec] = {
+    "base_sentiment": LexiconSpec(
+        positive=(
+            "accelerating", "accretive", "benefit", "confidence", "constructive", "durable",
+            "efficient", "expand", "favorable", "growth", "healthy", "improve", "momentum",
+            "opportunity", "positive", "productivity", "record", "resilient", "robust",
+            "solid", "stable", "strength", "strong", "upside",
+        ),
+        negative=(
+            "challenging", "constraint", "cautious", "decline", "difficult", "downturn",
+            "erosion", "headwind", "loss", "negative", "pressure", "recession", "risk",
+            "slowdown", "soft", "uncertain", "uncertainty", "volatility", "weak", "weakness",
+        ),
     ),
-    negative=(
-        "challenging", "compression", "constraint", "constraints", "cautious", "cut", 
-        "cutting", "decline", "deceleration", "destocking", "deterioration", "difficult", 
-        "disruption", "downturn", "erosion", "headwind", "impairment", "inflationary", 
-        "loss", "miss", "negative", "pressure", "recession", "restructuring", "risk", 
-        "shortage", "slowdown", "soft", "softness", "uncertain", "uncertainty", 
-        "underperform", "volatility", "weak", "weaker", "weakness"
-    )
-)
-
-UNCERTAINTY_LEXICON = LexiconSpec(
-    positive=(
-        "visibility", "clearer outlook", "predictable", "stabilizing", "well-defined", 
-        "certainty", "transparency", "known variables"
+    "uncertainty": LexiconSpec(
+        positive=("visibility", "clearer outlook", "predictable", "stabilizing", "certainty", "transparency"),
+        negative=("uncertain", "uncertainty", "volatile", "limited visibility", "not clear", "unknown", "cautious"),
     ),
-    negative=(
-        "uncertain", "uncertainty", "volatile", "volatility", "limited visibility", 
-        "challenging backdrop", "challenging environment", "macro uncertainty", 
-        "not clear", "unknown", "range of outcomes", "hard to predict", 
-        "difficult to predict", "fluid environment", "monitor closely", "cautious"
-    )
-)
-
-SUPPLY_PRESSURE_LEXICON = LexiconSpec(
-    positive=(
-        "supply easing", "normalization", "inventory health", "improved lead times", 
-        "logistics recovery", "de-bottlenecking", "resolved shortages"
+    "gdp_growth": LexiconSpec(
+        positive=(
+            "gdp growth", "economic growth", "growth outlook", "growth recovery", "soft landing",
+            "resilient economy", "economic momentum", "above-trend growth", "trend growth",
+        ),
+        negative=(
+            "economic contraction", "growth slowdown", "slowing growth", "weak growth",
+            "stagnation", "recession", "hard landing", "economic weakness", "macro slowdown",
+        ),
     ),
-    negative=(
-        "supply chain", "shortage", "shortages", "constraint", "constraints", 
-        "constrained", "bottleneck", "bottlenecks", "lead time", "lead times", 
-        "backorder", "backorders", "shipping delay", "freight pressure", 
-        "logistics pressure", "inventory shortage", "component shortage"
-    )
-)
-
-MACRO_RISK_LEXICON = LexiconSpec(
-    positive=(
-        "macro stability", "soft landing", "favorable fx", "rate cuts", 
-        "easing tariffs", "geopolitical stability", "improving macro"
+    "ai": LexiconSpec(
+        positive=("ai", "artificial intelligence", "machine learning", "automation", "productivity gains", "efficiency gains"),
+        negative=("ai risk", "ai regulation", "automation risk", "compute constraint", "ai bubble"),
     ),
-    negative=(
-        "recession", "macro uncertainty", "geopolitical", "tariff", "tariffs", 
-        "interest rate", "interest rates", "higher rates", "consumer weakness", 
-        "europe weakness", "china weakness", "fx headwind", "foreign exchange", 
-        "currency headwind", "inflation", "deflation", "credit tightening"
-    )
-)
-DEMAND_LEXICON = LexiconSpec(positive=("strong demand", "healthy demand", "robust demand", "solid demand", "better demand", "improving demand", "stable demand", "order growth", "bookings growth", "backlog growth", "good demand", "demand recovery", "volume growth", "share gains", "market share gains"), negative=("weak demand", "soft demand", "demand slowdown", "slowing demand", "lower demand", "demand pressure", "order weakness", "bookings weakness", "backlog pressure", "customer caution", "cautious customer", "destocking", "inventory correction", "volume pressure", "traffic weakness"))
-PRICING_LEXICON = LexiconSpec(positive=("pricing power", "price increase", "price increases", "positive pricing", "favorable pricing", "pricing discipline", "price realization", "net price", "margin expansion", "mix benefit", "premiumization", "higher price", "pass-through", "pass through", "pricing actions"), negative=("price pressure", "pricing pressure", "promotional", "promotions", "discounting", "discounts", "margin pressure", "cost inflation", "inflationary pressure", "input cost", "commodity inflation", "mix headwind", "unfavorable mix", "deflation", "price elasticity"))
-CAPEX_LEXICON = LexiconSpec(positive=("capital expenditure", "capex", "investment", "investing", "capacity expansion", "buildout", "factory expansion", "new plant", "greenfield", "brownfield", "data center", "expansion project", "ramping capacity", "automation investment", "infrastructure investment"), negative=("cut capex", "reduce capex", "lower capex", "pause investment", "delay investment", "project delay", "project delays", "cancel project", "capacity reduction"))
-GDP_GROWTH_LEXICON = LexiconSpec(positive=("gdp growth", "economic growth", "real gdp", "nominal gdp", "gross domestic product", "economic expansion", "expanding economy", "growth outlook", "growth acceleration", "accelerating growth", "growth recovery", "soft landing", "resilient economy", "healthy economy", "consumer resilience", "business investment growth", "industrial production growth", "economic momentum", "above-trend growth", "trend growth"), negative=("gdp decline", "negative gdp", "economic contraction", "contracting economy", "growth slowdown", "slowing growth", "decelerating growth", "below-trend growth", "weak growth", "stagnant growth", "stagnation", "recession", "recessionary", "hard landing", "economic weakness", "macro slowdown", "consumer slowdown", "industrial slowdown", "weak macro", "weaker economy"))
-AI_LEXICON = LexiconSpec(positive=("ai", "artificial intelligence", "generative ai", "gen ai", "machine learning", "large language model", "large language models", "llm", "llms", "ai agent", "ai agents", "copilot", "automation", "intelligent automation", "ai adoption", "ai demand", "ai infrastructure", "ai workload", "ai workloads", "gpu acceleration", "accelerated computing", "inference", "model training", "productivity gains", "efficiency gains"), negative=("ai disruption", "ai risk", "ai risks", "ai uncertainty", "ai regulation", "regulatory risk", "model risk", "hallucination", "data privacy risk", "job displacement", "automation risk", "ai capex burden", "gpu shortage", "compute constraint", "ai bubble", "overinvestment in ai"))
-UNEMPLOYMENT_LEXICON = LexiconSpec(positive=("low unemployment", "lower unemployment", "unemployment declined", "unemployment fell", "job growth", "jobs growth", "payroll growth", "employment growth", "strong labor market", "healthy labor market", "labor market strength", "solid hiring", "hiring momentum", "wage growth", "rising employment", "workforce expansion"), negative=("high unemployment", "higher unemployment", "unemployment rose", "unemployment increased", "job losses", "payroll decline", "employment decline", "labor market weakness", "weak labor market", "slowing hiring", "hiring slowdown", "layoffs", "workforce reduction", "headcount reduction", "job cuts", "rising unemployment", "underemployment"))
-INFLATION_LEXICON = LexiconSpec(positive=("disinflation", "disinflationary", "inflation easing", "easing inflation", "lower inflation", "inflation moderated", "inflation moderation", "cooling inflation", "price stability", "stable prices", "lower input costs", "cost deflation", "commodity deflation", "freight deflation", "wage moderation", "lower fuel costs"), negative=("inflation", "inflationary", "high inflation", "higher inflation", "rising inflation", "sticky inflation", "persistent inflation", "inflation pressure", "inflationary pressure", "price pressure", "cost inflation", "input cost inflation", "commodity inflation", "wage inflation", "food inflation", "fuel inflation", "rent inflation", "pass-through inflation", "price increases"))
-LABOR_PRESSURE_TERMS = ("labor shortage", "tight labor market", "labor availability", "wage pressure", "hiring challenge", "staffing challenge", "recruiting challenge", "turnover", "retention challenge", "overtime", "labor inflation", "wage inflation", "headcount pressure")
-AUTOMATION_TERMS = ("automation", "automate", "automated", "robotics", "ai", "artificial intelligence", "machine learning", "copilot", "productivity gains", "efficiency gains", "digitalization", "software driven", "self-service")
-
-Z_SCORE_CATEGORY_COLS = {
-    "inflation": "inflation_net",
-    "gdp": "gdp_growth_net",
-    "ai": "ai_net",
-    "unemployment": "unemployment_net",
-    "uncertainty": "uncertainty_net",
+    "unemployment": LexiconSpec(
+        positive=(
+            "low unemployment", "job growth", "employment growth", "strong labor market",
+            "healthy labor market", "labor market strength", "solid hiring", "wage growth",
+        ),
+        negative=(
+            "high unemployment", "unemployment increased", "job losses", "employment decline",
+            "labor market weakness", "weak labor market", "slowing hiring", "layoffs",
+            "job cuts", "rising unemployment",
+        ),
+    ),
+    "inflation": LexiconSpec(
+        positive=(
+            "disinflation", "inflation easing", "lower inflation", "inflation moderated",
+            "cooling inflation", "price stability", "stable prices", "cost deflation",
+        ),
+        negative=(
+            "inflation", "inflationary", "high inflation", "higher inflation", "sticky inflation",
+            "persistent inflation", "inflation pressure", "cost inflation", "wage inflation",
+            "price increases",
+        ),
+    ),
+    "rates": LexiconSpec(
+        positive=(
+            "rate cut", "rate cuts", "lower rates", "policy easing", "easing cycle",
+            "accommodative", "reduce restraint", "less restrictive", "lowered the policy rate",
+        ),
+        negative=(
+            "rate hike", "rate hikes", "higher rates", "raise rates", "policy tightening",
+            "tightening cycle", "restrictive", "sufficiently restrictive", "higher for longer",
+        ),
+    ),
+    "financial_conditions": LexiconSpec(
+        positive=(
+            "easing financial conditions", "improved financial conditions", "ample liquidity",
+            "orderly market functioning", "lower borrowing costs", "narrower spreads", "stable funding markets",
+        ),
+        negative=(
+            "tight financial conditions", "tighter financial conditions", "credit tightening",
+            "funding stress", "market dysfunction", "elevated spreads", "banking stress",
+            "financial stability risk", "liquidity strains", "credit stress",
+        ),
+    ),
 }
 
-COUNTERS = {
-    "base_positive": PhraseCounter(BASE_SENTIMENT.positive), 
-    "base_negative": PhraseCounter(BASE_SENTIMENT.negative),
-    "uncertainty_positive": PhraseCounter(UNCERTAINTY_LEXICON.positive),
-    "uncertainty_negative": PhraseCounter(UNCERTAINTY_LEXICON.negative),
-    "supply_positive": PhraseCounter(SUPPLY_PRESSURE_LEXICON.positive),
-    "supply_negative": PhraseCounter(SUPPLY_PRESSURE_LEXICON.negative),
-    "macro_risk_positive": PhraseCounter(MACRO_RISK_LEXICON.positive),
-    "macro_risk_negative": PhraseCounter(MACRO_RISK_LEXICON.negative),
-    "demand_positive": PhraseCounter(DEMAND_LEXICON.positive), "demand_negative": PhraseCounter(DEMAND_LEXICON.negative),
-    "pricing_positive": PhraseCounter(PRICING_LEXICON.positive), "pricing_negative": PhraseCounter(PRICING_LEXICON.negative),
-    "capex_positive": PhraseCounter(CAPEX_LEXICON.positive), "capex_negative": PhraseCounter(CAPEX_LEXICON.negative),
-    "gdp_growth_positive": PhraseCounter(GDP_GROWTH_LEXICON.positive), "gdp_growth_negative": PhraseCounter(GDP_GROWTH_LEXICON.negative),
-    "ai_positive": PhraseCounter(AI_LEXICON.positive), "ai_negative": PhraseCounter(AI_LEXICON.negative),
-    "unemployment_positive": PhraseCounter(UNEMPLOYMENT_LEXICON.positive), "unemployment_negative": PhraseCounter(UNEMPLOYMENT_LEXICON.negative),
-    "inflation_positive": PhraseCounter(INFLATION_LEXICON.positive), "inflation_negative": PhraseCounter(INFLATION_LEXICON.negative),
-    "labor_pressure": PhraseCounter(LABOR_PRESSURE_TERMS),
-    "automation": PhraseCounter(AUTOMATION_TERMS), 
+POLICY_CATEGORY_COLS = {
+    "Inflation": "inflation_net",
+    "Growth": "gdp_growth_net",
+    "Labor": "unemployment_net",
+    "Rates": "rates_net",
+    "Financial Conditions": "financial_conditions_net",
+    "Uncertainty": "uncertainty_net",
 }
 
-# ==========================================
-# 2. Text Parsing & Analytics Methods 
-# ==========================================
-def normalize_space(text: str) -> str: return re.sub(r"\s+", " ", text).strip()
-def slug_to_name(slug: str) -> str: return re.sub(r"\s+", " ", slug.replace("-", " ").replace("_", " ").strip()).title()
-def split_sentences(text: str) -> list[str]: return [normalize_space(part) for part in SENTENCE_RE.split(text) if normalize_space(part)] if text else []
-def tokenize(text: str) -> list[str]: return WORD_RE.findall(text.lower())
-def safe_density(count: int, denominator: int) -> float: return count / denominator if denominator > 0 else 0.0
-def safe_net(pos: int, neg: int, denom: int) -> float: return (pos - neg) / denom if denom > 0 else 0.0
+PLOT_COLORS = {
+    "Inflation": "#C44E52",
+    "Growth": "#4C72B0",
+    "Labor": "#8172B2",
+    "Rates": "#64B5CD",
+    "Financial Conditions": "#8C8C8C",
+    "Uncertainty": "#CCB974",
+}
+
+
+def normalize_key(value: str) -> str:
+    return re.sub(r"[^a-z0-9]+", "_", str(value).strip().lower()).strip("_")
+
+
+def split_terms(cell: object) -> tuple[str, ...]:
+    if pd.isna(cell):
+        return ()
+    return tuple(part.strip() for part in str(cell).split(",") if part.strip())
+
+
+def load_word_bank(workbook_path: Path) -> dict[str, LexiconSpec]:
+    lexicons = dict(DEFAULT_WORD_BANK)
+    if not workbook_path.exists():
+        LOGGER.warning("Workbook %s not found; using built-in lexicons.", workbook_path)
+        return lexicons
+    try:
+        df = pd.read_excel(workbook_path, sheet_name="Lexicons")
+    except Exception as exc:
+        LOGGER.warning("Could not read %s (%s); using built-in lexicons.", workbook_path, exc)
+        return lexicons
+    for _, row in df.iterrows():
+        key = normalize_key(row.get("Category", ""))
+        if not key:
+            continue
+        lexicons[key] = LexiconSpec(
+            positive=split_terms(row.get("Positive Terms")),
+            negative=split_terms(row.get("Negative Terms")),
+        )
+    return lexicons
+
+
+def build_counters(lexicons: dict[str, LexiconSpec]) -> dict[str, PhraseCounter]:
+    return {
+        "base_positive": PhraseCounter(lexicons["base_sentiment"].positive),
+        "base_negative": PhraseCounter(lexicons["base_sentiment"].negative),
+        "uncertainty_positive": PhraseCounter(lexicons["uncertainty"].positive),
+        "uncertainty_negative": PhraseCounter(lexicons["uncertainty"].negative),
+        "gdp_growth_positive": PhraseCounter(lexicons["gdp_growth"].positive),
+        "gdp_growth_negative": PhraseCounter(lexicons["gdp_growth"].negative),
+        "ai_positive": PhraseCounter(lexicons["ai"].positive),
+        "ai_negative": PhraseCounter(lexicons["ai"].negative),
+        "unemployment_positive": PhraseCounter(lexicons["unemployment"].positive),
+        "unemployment_negative": PhraseCounter(lexicons["unemployment"].negative),
+        "inflation_positive": PhraseCounter(lexicons["inflation"].positive),
+        "inflation_negative": PhraseCounter(lexicons["inflation"].negative),
+        "rates_positive": PhraseCounter(lexicons["rates"].positive),
+        "rates_negative": PhraseCounter(lexicons["rates"].negative),
+        "financial_conditions_positive": PhraseCounter(lexicons["financial_conditions"].positive),
+        "financial_conditions_negative": PhraseCounter(lexicons["financial_conditions"].negative),
+    }
+
+
+def normalize_space(text: str) -> str:
+    return re.sub(r"\s+", " ", text).strip()
+
+
+def split_sentences(text: str) -> list[str]:
+    return [normalize_space(part) for part in SENTENCE_RE.split(text) if normalize_space(part)] if text else []
+
+
+def tokenize(text: str) -> list[str]:
+    return WORD_RE.findall(text.lower())
+
+
+def safe_net(pos: int, neg: int, denom: int) -> float:
+    return (pos - neg) / denom if denom > 0 else 0.0
+
+
 def safe_zscore(series: pd.Series) -> pd.Series:
     std = series.std(ddof=0)
     if not np.isfinite(std) or std == 0:
         return pd.Series(0.0, index=series.index)
     return (series - series.mean()) / std
 
-def looks_like_speaker_line(line: str) -> bool:
-    stripped = line.strip()
-    if not stripped or len(stripped) > 90 or stripped.endswith(":"): return False
-    if QA_HEADER_RE.match(stripped): return False
-    return True
 
-def is_speaker_triplet(lines: list[str], index: int) -> bool:
-    if index + 2 >= len(lines): return False
-    return looks_like_speaker_line(lines[index]) and lines[index + 1].strip() == "--" and bool(lines[index + 2].strip())
+def read_text(path: Path) -> str:
+    try:
+        return path.read_text(encoding="utf-8")
+    except UnicodeDecodeError:
+        return path.read_text(encoding="latin-1")
 
-def find_qa_start(lines: list[str]) -> int | None:
-    for idx, line in enumerate(lines):
-        if QA_HEADER_RE.match(line.strip()): return idx
-    floor = max(10, math.floor(len(lines) * 0.2))
-    for idx in range(floor, len(lines)):
-        if QA_TRANSITION_RE.search(lines[idx]): return idx
-    return None
 
-def parse_blocks(text: str) -> list[Block]:
-    lines = text.splitlines()
-    qa_start = find_qa_start(lines)
-    blocks: list[Block] = []
-    section, idx = "prepared", 0
-    while idx < len(lines):
-        if qa_start is not None and idx == qa_start:
-            section = "qa"
-            if QA_HEADER_RE.match(lines[idx].strip()):
-                idx += 1; continue
-            qa_start = None
-        line = lines[idx].strip()
-        if not line:
-            idx += 1; continue
-        if QA_HEADER_RE.match(line):
-            section = "qa"
-            idx += 1; continue
-        if is_speaker_triplet(lines, idx):
-            speaker, title = normalize_space(lines[idx]), normalize_space(lines[idx + 2])
-            idx += 3
-            body: list[str] = []
-            while idx < len(lines):
-                if qa_start is not None and idx == qa_start: break
-                if QA_HEADER_RE.match(lines[idx].strip()) or is_speaker_triplet(lines, idx): break
-                if stripped := normalize_space(lines[idx]): body.append(stripped)
-                idx += 1
-            blocks.append(Block(section=section, speaker=speaker, title=title, text=normalize_space(" ".join(body))))
-            continue
-        body: list[str] = []
-        while idx < len(lines):
-            if qa_start is not None and idx == qa_start: break
-            if QA_HEADER_RE.match(lines[idx].strip()) or is_speaker_triplet(lines, idx): break
-            if stripped := normalize_space(lines[idx]): body.append(stripped)
-            idx += 1
-        if joined := normalize_space(" ".join(body)):
-            blocks.append(Block(section=section, speaker=None, title=None, text=joined))
-    return blocks
+def clean_text(text: str) -> str:
+    return normalize_space(" ".join(split_sentences(text)))
 
-def normalize_speaker_name(name: str | None) -> str | None:
-    return re.sub(r"\s+", " ", re.sub(r"[^a-z0-9]+", " ", name.lower()).strip()) if name else None
-
-def classify_title(title: str | None) -> str:
-    lowered = (title or "").lower()
-    if "operator" in lowered: return "operator"
-    if any(hint in lowered for hint in ANALYST_TITLE_HINTS): return "analyst"
-    if any(hint in lowered for hint in MANAGEMENT_TITLE_HINTS): return "management"
-    return "unknown"
-
-def classify_block_roles(blocks: list[Block]) -> list[tuple[Block, str]]:
-    management_speakers = {normalize_speaker_name(b.speaker) for b in blocks if b.section == "prepared" and normalize_speaker_name(b.speaker) and normalize_speaker_name(b.speaker) != "operator" and classify_title(b.title) != "analyst"}
-    classified: list[tuple[Block, str]] = []
-    for block in blocks:
-        speaker_key, title_role = normalize_speaker_name(block.speaker), classify_title(block.title)
-        if speaker_key == "operator" or title_role == "operator": role = "operator"
-        elif speaker_key and speaker_key in management_speakers: role = "management"
-        elif title_role in ("management", "analyst"): role = title_role
-        elif block.section == "prepared": role = "management" if speaker_key else "other"
-        elif block.section == "qa": role = "analyst" if speaker_key else "other"
-        else: role = "other"
-        classified.append((block, role))
-    return classified
-
-def clean_signal_text(text: str) -> str:
-    return normalize_space(" ".join(s for s in split_sentences(normalize_space(text)) if not any(p.search(s) for p in BOILERPLATE_PATTERNS)))
-
-def section_texts(text: str) -> dict[str, str]:
-    classified = classify_block_roles(parse_blocks(text))
-    prepared_parts, qa_parts, management_qa_parts, analyst_qa_parts = [], [], [], []
-    for block, role in classified:
-        if role == "operator": continue
-        if block.section == "prepared": prepared_parts.append(block.text)
-        elif block.section == "qa":
-            qa_parts.append(block.text)
-            if role == "management": management_qa_parts.append(block.text)
-            elif role == "analyst": analyst_qa_parts.append(block.text)
-    prepared, qa = clean_signal_text(" ".join(prepared_parts)), clean_signal_text(" ".join(qa_parts))
-    return {
-        "overall": clean_signal_text(" ".join(part for part in (prepared, qa) if part)),
-        "prepared": prepared, "qa": qa,
-        "management_qa": clean_signal_text(" ".join(management_qa_parts)),
-        "analyst_qa": clean_signal_text(" ".join(analyst_qa_parts)),
-    }
 
 def complexity_metrics(text: str) -> dict[str, float]:
-    sentences, tokens = split_sentences(text), tokenize(text)
-    alpha_tokens = [t for t in tokens if t.isalpha()]
+    sentences = split_sentences(text)
+    tokens = tokenize(text)
+    alpha_tokens = [token for token in tokens if token.isalpha()]
     avg_sentence_length = len(tokens) / len(sentences) if sentences else 0.0
-    long_word_share = sum(len(t) >= 8 for t in alpha_tokens) / len(alpha_tokens) if alpha_tokens else 0.0
+    long_word_share = sum(len(token) >= 8 for token in alpha_tokens) / len(alpha_tokens) if alpha_tokens else 0.0
     return {
-        "sentence_count": len(sentences), "token_count": len(tokens),
-        "avg_sentence_length": avg_sentence_length, "long_word_share": long_word_share,
+        "sentence_count": len(sentences),
+        "token_count": len(tokens),
+        "avg_sentence_length": avg_sentence_length,
+        "long_word_share": long_word_share,
         "complexity_score": avg_sentence_length * long_word_share,
-        "numeric_token_share": sum(any(c.isdigit() for c in t) for t in tokens) / len(tokens) if tokens else 0.0,
     }
 
-def tone_metrics(text: str, prefix: str) -> dict[str, float]:
-    tc = len(tokenize(text))
-    pos, neg = COUNTERS["base_positive"].count(text), COUNTERS["base_negative"].count(text)
+
+def score_topic_terms(text: str, counters: dict[str, PhraseCounter]) -> dict[str, float]:
+    token_count = len(tokenize(text))
+    metrics = {}
+    for name in ("inflation", "gdp_growth", "ai", "unemployment", "uncertainty", "rates", "financial_conditions"):
+        pos = counters[f"{name}_positive"].count(text)
+        neg = counters[f"{name}_negative"].count(text)
+        metrics[f"{name}_net"] = safe_net(pos, neg, token_count)
+    pos = counters["base_positive"].count(text)
+    neg = counters["base_negative"].count(text)
+    metrics["overall_net_tone"] = safe_net(pos, neg, token_count)
+    return metrics
+
+
+def parse_year_quarter(date_text: str) -> tuple[int | None, int | None, str | None]:
+    dt = pd.to_datetime(date_text, errors="coerce")
+    if pd.isna(dt):
+        return None, None, None
+    return int(dt.year), int(dt.quarter), f"{dt.year}-Q{dt.quarter}"
+
+
+def build_metadata_map(metadata_path: Path | None) -> dict[str, dict[str, object]]:
+    if metadata_path is None or not metadata_path.exists():
+        return {}
+    df = pd.read_csv(metadata_path)
+    df["text_file"] = df["text_file"].astype(str).str.replace("\\", "/", regex=False)
+    return {row["text_file"]: row.to_dict() for _, row in df.iterrows()}
+
+
+def score_policy_document(path: Path, root: Path, metadata_map: dict[str, dict[str, object]], counters: dict[str, PhraseCounter]) -> dict[str, object]:
+    rel_path = str(path.relative_to(root)).replace("\\", "/")
+    meta = metadata_map.get(rel_path, {})
+    text = clean_text(read_text(path))
+    metrics = complexity_metrics(text)
+    metrics.update(score_topic_terms(text, counters))
+    date_text = str(meta.get("date") or "")
+    if not date_text:
+        match = DATE_RE.search(path.name)
+        date_text = match.group(1) if match else ""
+    period_year, period_quarter, year_quarter = parse_year_quarter(date_text)
+    parts = path.relative_to(root).parts
     return {
-        f"{prefix}_positive_density": safe_density(pos, tc),
-        f"{prefix}_negative_density": safe_density(neg, tc),
-        f"{prefix}_net_tone": safe_net(pos, neg, tc),
-        f"{prefix}_token_count": tc,
+        "source_file": rel_path,
+        "central_bank": str(meta.get("central_bank") or (parts[0].upper() if parts else "UNKNOWN")),
+        "region": str(meta.get("region") or ""),
+        "doc_type": str(meta.get("doc_type") or (parts[1] if len(parts) > 1 else "")),
+        "speaker": str(meta.get("speaker") or ""),
+        "date": date_text,
+        "period_year": period_year,
+        "period_quarter": period_quarter,
+        "year_quarter": year_quarter,
+        **metrics,
     }
 
-def topic_metrics(text: str) -> dict[str, float]: 
-    tc = len(tokenize(text)) 
-    supply_pos = COUNTERS["supply_positive"].count(text)
-    supply_neg = COUNTERS["supply_negative"].count(text)
-    macro_pos = COUNTERS["macro_risk_positive"].count(text)
-    macro_neg = COUNTERS["macro_risk_negative"].count(text)
-    uncertainty_pos = COUNTERS["uncertainty_positive"].count(text)
-    uncertainty_neg = COUNTERS["uncertainty_negative"].count(text)
-    return { 
-        "demand_positive_density": safe_density(COUNTERS["demand_positive"].count(text), tc), 
-        "demand_negative_density": safe_density(COUNTERS["demand_negative"].count(text), tc), 
-        "demand_net": safe_net(COUNTERS["demand_positive"].count(text), COUNTERS["demand_negative"].count(text), tc), 
-        "pricing_positive_density": safe_density(COUNTERS["pricing_positive"].count(text), tc), 
-        "pricing_negative_density": safe_density(COUNTERS["pricing_negative"].count(text), tc), 
-        "pricing_power_net": safe_net(COUNTERS["pricing_positive"].count(text), COUNTERS["pricing_negative"].count(text), tc), 
-        "capex_positive_density": safe_density(COUNTERS["capex_positive"].count(text), tc), 
-        "capex_negative_density": safe_density(COUNTERS["capex_negative"].count(text), tc), 
-        "capex_net": safe_net(COUNTERS["capex_positive"].count(text), COUNTERS["capex_negative"].count(text), tc), 
-        "gdp_growth_positive_density": safe_density(COUNTERS["gdp_growth_positive"].count(text), tc),
-        "gdp_growth_negative_density": safe_density(COUNTERS["gdp_growth_negative"].count(text), tc),
-        "gdp_growth_net": safe_net(COUNTERS["gdp_growth_positive"].count(text), COUNTERS["gdp_growth_negative"].count(text), tc),
-        "ai_positive_density": safe_density(COUNTERS["ai_positive"].count(text), tc),
-        "ai_negative_density": safe_density(COUNTERS["ai_negative"].count(text), tc),
-        "ai_net": safe_net(COUNTERS["ai_positive"].count(text), COUNTERS["ai_negative"].count(text), tc),
-        "unemployment_positive_density": safe_density(COUNTERS["unemployment_positive"].count(text), tc),
-        "unemployment_negative_density": safe_density(COUNTERS["unemployment_negative"].count(text), tc),
-        "unemployment_net": safe_net(COUNTERS["unemployment_positive"].count(text), COUNTERS["unemployment_negative"].count(text), tc),
-        "inflation_positive_density": safe_density(COUNTERS["inflation_positive"].count(text), tc),
-        "inflation_negative_density": safe_density(COUNTERS["inflation_negative"].count(text), tc),
-        "inflation_net": safe_net(COUNTERS["inflation_positive"].count(text), COUNTERS["inflation_negative"].count(text), tc),
-        "supply_chain_positive_density": safe_density(supply_pos, tc),
-        "supply_chain_pressure_density": safe_density(supply_neg, tc),
-        "supply_chain_net": safe_net(supply_pos, supply_neg, tc),
-        "labor_pressure_density": safe_density(COUNTERS["labor_pressure"].count(text), tc), 
-        "automation_density": safe_density(COUNTERS["automation"].count(text), tc), 
-        "uncertainty_positive_density": safe_density(uncertainty_pos, tc),
-        "uncertainty_density": safe_density(uncertainty_neg, tc),
-        "uncertainty_net": safe_net(uncertainty_pos, uncertainty_neg, tc),
-        "macro_risk_positive_density": safe_density(macro_pos, tc),
-        "macro_risk_density": safe_density(macro_neg, tc),
-        "macro_risk_net": safe_net(macro_pos, macro_neg, tc),
-    } 
 
-def guidance_flags(text: str) -> dict[str, int]:
-    return {
-        "guidance_raised": int(any(p.search(text) for p in GUIDANCE_RAISED_PATTERNS)),
-        "guidance_lowered": int(any(p.search(text) for p in GUIDANCE_LOWERED_PATTERNS)),
-    }
-
-def add_category_zscores(
-    df: pd.DataFrame,
-    group_cols: Sequence[str],
-    category_cols: dict[str, str],
-    suffix: str = "zscore",
-) -> pd.DataFrame:
+def add_category_zscores(df: pd.DataFrame, category_cols: dict[str, str]) -> pd.DataFrame:
     scored = df.copy()
     for category, source_col in category_cols.items():
-        z_col = f"{category}_{suffix}"
-        scored[z_col] = (
-            scored.groupby(list(group_cols), group_keys=False)[source_col]
-            .transform(safe_zscore)
-            .fillna(0.0)
-        )
+        scored[f"{category}_zscore"] = safe_zscore(scored[source_col]).fillna(0.0)
     return scored
 
-def category_zscore_long(df: pd.DataFrame) -> pd.DataFrame:
+
+def category_zscore_long(df: pd.DataFrame, category_cols: dict[str, str]) -> pd.DataFrame:
     rows: list[dict[str, object]] = []
     for _, row in df.iterrows():
-        for category, source_col in Z_SCORE_CATEGORY_COLS.items():
+        for category, source_col in category_cols.items():
             rows.append({
-                "sector": row["sector"],
+                "period_year": row["period_year"],
+                "period_quarter": row["period_quarter"],
                 "year_quarter": row["year_quarter"],
                 "category": category,
                 "raw_score": row[source_col],
@@ -374,111 +310,102 @@ def category_zscore_long(df: pd.DataFrame) -> pd.DataFrame:
             })
     return pd.DataFrame(rows)
 
-# ==========================================
-# 3. Data Engineering Logic
-# ==========================================
-def score_transcript(file_path: str, folder_dir: str) -> dict[str, object]:
-    relative_path = os.path.relpath(file_path, folder_dir)
-    path_parts = relative_path.split(os.sep)
-    
-    company_name = path_parts[0] if len(path_parts) > 1 else os.path.basename(file_path).replace('.txt', '')
-    fiscal_year = path_parts[1] if len(path_parts) > 1 else ""
-    fiscal_period = path_parts[2] if len(path_parts) > 2 else ""
 
-    # DYNAMIC SECTOR LOOKUP!
-    sector = COMPANY_TO_SECTOR.get(company_name.lower(), "Unassigned")
+def plot_category_zscores(quarterly: pd.DataFrame, output_path: Path) -> None:
+    plt.style.use("seaborn-v0_8-whitegrid")
+    fig, ax = plt.subplots(figsize=(15, 7.5))
+    for category, col in POLICY_CATEGORY_COLS.items():
+        ax.plot(
+            quarterly["year_quarter"],
+            quarterly[f"{category}_zscore"],
+            marker="o",
+            linewidth=2.1,
+            markersize=4.8,
+            label=category,
+            color=PLOT_COLORS[category],
+        )
+    ax.axhline(0, color="#444444", linewidth=1, alpha=0.75)
+    ax.set_title("Central Bank Policy Category Signals Over Time", fontsize=16, weight="bold", pad=14)
+    ax.set_xlabel("Quarter", fontsize=11)
+    ax.set_ylabel("Z-Score vs. Full Policy Text Sample History", fontsize=11)
+    ax.legend(ncol=3, frameon=True, loc="upper center", bbox_to_anchor=(0.5, -0.17))
+    ax.tick_params(axis="x", rotation=50)
+    ax.margins(x=0.01)
+    fig.tight_layout(rect=(0, 0.08, 1, 1))
+    fig.savefig(output_path, dpi=180, bbox_inches="tight")
+    plt.close(fig)
 
-    try:
-        with open(file_path, 'r', encoding='utf-8') as f: text = f.read()
-    except UnicodeDecodeError:
-        with open(file_path, 'r', encoding='latin-1') as f: text = f.read()
 
-    sections = section_texts(text)
-    
-    overall_complexity = complexity_metrics(sections["overall"])
-    overall_tone = tone_metrics(sections["overall"], "overall")
-    prepared_tone = tone_metrics(sections["prepared"], "prepared")
-    qa_tone = tone_metrics(sections["qa"], "qa")
-    management_qa_tone = tone_metrics(sections["management_qa"], "management_qa")
-    analyst_qa_tone = tone_metrics(sections["analyst_qa"], "analyst_question")
-    
-    topical = topic_metrics(sections["overall"])
-    guidance = guidance_flags(text)
-
-    qna_reality_gap = management_qa_tone["management_qa_net_tone"] - prepared_tone["prepared_net_tone"]
-    analyst_management_gap = management_qa_tone["management_qa_net_tone"] - analyst_qa_tone["analyst_question_net_tone"]
-
-    growth_signal = overall_tone["overall_net_tone"] + topical["demand_net"] + topical["capex_net"] - topical["macro_risk_density"]
-    margin_signal = (topical["pricing_power_net"] + topical["automation_density"] - topical["labor_pressure_density"] - topical["supply_chain_pressure_density"])
-    credibility_signal = analyst_management_gap + qna_reality_gap - topical["uncertainty_density"]
-
-    return {
-        "sector": sector,
-        "company_name": company_name,
-        "fiscal_year": fiscal_year,
-        "fiscal_period": fiscal_period,
-        "qa_detected": int(bool(sections["qa"])),
-        **overall_complexity, **overall_tone, **prepared_tone, **qa_tone,
-        **management_qa_tone, **analyst_qa_tone, **topical, **guidance,
-        "qna_reality_gap": qna_reality_gap, 
-        "analyst_management_gap": analyst_management_gap,
-        "growth_signal": growth_signal, 
-        "margin_signal": margin_signal,
-        "credibility_signal": credibility_signal,
-        "composite_signal": growth_signal + margin_signal + credibility_signal,
-    }
-
-# ==========================================
-# 4. Execution Logic
-# ==========================================
-def main():
-    folder_dir = r"C:\Users\rajaa\OneDrive\Desktop\GardDat"
-    search_pattern = os.path.join(folder_dir, "**", "*.txt")
-    txt_files = glob.glob(search_pattern, recursive=True)
-    
-    print(f"--> SYSTEM FOUND {len(txt_files)} TEXT FILES <--")
-    if not txt_files: return
-
-    rows = [score_transcript(path, folder_dir) for path in tqdm(txt_files, desc="Scoring")]
-    panel = pd.DataFrame(rows)
-    
-    # Create the Year-Quarter label
-    panel['fiscal_year'] = panel['fiscal_year'].astype(str).str.strip()
-    panel['fiscal_period'] = panel['fiscal_period'].astype(str).str.strip()
-    panel['year_quarter'] = panel['fiscal_year'] + "-" + panel['fiscal_period']
-    
-    # GROUP BY SECTOR AND QUARTER
-    numeric_cols = panel.select_dtypes(include=[np.number]).columns.tolist()
-    sector_quarter_df = panel.groupby(['sector', 'year_quarter'])[numeric_cols].mean().reset_index()
-    sector_quarter_df = sector_quarter_df.sort_values(by=['sector', 'year_quarter'])
-    sector_quarter_df = add_category_zscores(
-        sector_quarter_df,
-        group_cols=["sector"],
-        category_cols=Z_SCORE_CATEGORY_COLS,
+def parse_args() -> argparse.Namespace:
+    parser = argparse.ArgumentParser(description="Score central bank policy texts and plot category signals over time.")
+    parser.add_argument("--input-root", required=True, help="Root folder containing policy text files.")
+    parser.add_argument("--metadata", default=None, help="Optional metadata CSV with central bank/date/doc-type info.")
+    parser.add_argument("--output-dir", default="outputs", help="Directory for CSV and PNG outputs.")
+    parser.add_argument("--word-bank", default="word_bank.xlsx", help="Workbook containing lexicon categories.")
+    parser.add_argument(
+        "--workers",
+        type=int,
+        default=max((os.cpu_count() or 2) - 1, 1),
+        help="Parallel workers for document scoring.",
     )
-    category_zscores_df = category_zscore_long(sector_quarter_df)
-    
-    category_summary_cols = [
-        "inflation_net", "inflation_zscore",
-        "gdp_growth_net", "gdp_zscore",
-        "ai_net", "ai_zscore",
-        "unemployment_net", "unemployment_zscore",
-        "uncertainty_net", "uncertainty_zscore",
-    ]
-    results_df = sector_quarter_df[
-        ["sector", "year_quarter", "composite_signal", "growth_signal", "margin_signal", "overall_net_tone"]
-        + category_summary_cols
-    ].round(4)
-    
-    print("\nSuccess! Aggregated Data by SECTOR and QUARTER:")
-    print(results_df.to_string(index=False))
-    
-    output_csv = os.path.join(folder_dir, "earnings_research_sector_quarterly.csv")
-    category_zscore_csv = os.path.join(folder_dir, "earnings_research_category_zscores.csv")
-    sector_quarter_df.to_csv(output_csv, index=False)
-    category_zscores_df.to_csv(category_zscore_csv, index=False)
-    print(f"\nFinal sector data saved to: {output_csv}")
-    print(f"Category z-score data saved to: {category_zscore_csv}")
+    return parser.parse_args()
+
+
+def main() -> None:
+    logging.basicConfig(level=logging.INFO, format="%(levelname)s %(message)s")
+    args = parse_args()
+    input_root = Path(args.input_root).resolve()
+    output_dir = Path(args.output_dir).resolve()
+    output_dir.mkdir(parents=True, exist_ok=True)
+
+    lexicons = load_word_bank(Path(args.word_bank).resolve())
+    counters = build_counters(lexicons)
+    metadata_map = build_metadata_map(Path(args.metadata).resolve()) if args.metadata else {}
+
+    txt_files = sorted(input_root.rglob("*.txt"))
+    print(f"--> SYSTEM FOUND {len(txt_files)} POLICY TEXT FILES <--")
+    if not txt_files:
+        raise SystemExit("No .txt files found.")
+
+    if args.workers == 1:
+        rows = [score_policy_document(path, input_root, metadata_map, counters) for path in tqdm(txt_files, desc="Scoring policy")]
+    else:
+        with ThreadPoolExecutor(max_workers=args.workers) as executor:
+            futures = [
+                executor.submit(score_policy_document, path, input_root, metadata_map, counters)
+                for path in txt_files
+            ]
+            rows = [future.result() for future in tqdm(futures, desc="Scoring policy")]
+    panel = pd.DataFrame(rows)
+    panel = panel.dropna(subset=["period_year", "period_quarter", "year_quarter"]).copy()
+    panel["period_year"] = panel["period_year"].astype(int)
+    panel["period_quarter"] = panel["period_quarter"].astype(int)
+
+    bank_quarter = (
+        panel.groupby(["central_bank", "period_year", "period_quarter", "year_quarter"], as_index=False)
+        .mean(numeric_only=True)
+        .sort_values(["central_bank", "period_year", "period_quarter"])
+    )
+    quarterly = (
+        panel.groupby(["period_year", "period_quarter", "year_quarter"], as_index=False)[list(POLICY_CATEGORY_COLS.values())]
+        .mean()
+        .sort_values(["period_year", "period_quarter"])
+    )
+    quarterly = add_category_zscores(quarterly, POLICY_CATEGORY_COLS)
+    quarterly_long = category_zscore_long(quarterly, POLICY_CATEGORY_COLS)
+
+    panel.to_csv(output_dir / "policy_research_doc_scores.csv", index=False)
+    bank_quarter.to_csv(output_dir / "policy_research_bank_quarterly.csv", index=False)
+    quarterly.to_csv(output_dir / "policy_research_category_zscores_over_time_wide.csv", index=False)
+    quarterly_long.to_csv(output_dir / "policy_research_category_zscores_over_time_long.csv", index=False)
+    plot_category_zscores(quarterly, output_dir / "policy_research_category_zscores_over_time.png")
+
+    print(f"Saved {output_dir / 'policy_research_doc_scores.csv'}")
+    print(f"Saved {output_dir / 'policy_research_bank_quarterly.csv'}")
+    print(f"Saved {output_dir / 'policy_research_category_zscores_over_time_wide.csv'}")
+    print(f"Saved {output_dir / 'policy_research_category_zscores_over_time_long.csv'}")
+    print(f"Saved {output_dir / 'policy_research_category_zscores_over_time.png'}")
+
 
 if __name__ == "__main__":
     main()
